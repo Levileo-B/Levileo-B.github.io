@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>小游戏 · Levileo-B</title>
+<meta name="description" content="几个可以直接在浏览器里玩的小游戏。">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎮</text></svg>">
+<link rel="stylesheet" href="../assets/style.css">
+<link rel="stylesheet" href="../assets/game.css">
+<script>
+  try {
+    var t = localStorage.getItem('theme');
+    if (t === 'dark' || t === 'light') document.documentElement.setAttribute('data-theme', t);
+  } catch (e) {}
+</script>
+</head>
+<body>
+
+<a class="skip-link" href="#main">跳到主要内容</a>
+
+<header class="site-header">
+  <nav class="nav" aria-label="主导航">
+    <a class="nav__brand" href="../">← Levileo-B</a>
+    <ul class="nav__list">
+      <li><a href="../#news">热点</a></li>
+      <li><a href="../#projects">项目</a></li>
+      <li><a href="../#contact">联系</a></li>
+    </ul>
+    <button class="theme-toggle" type="button" aria-label="切换深色 / 浅色模式">
+      <span class="theme-toggle__icon" aria-hidden="true">◐</span>
+    </button>
+  </nav>
+</header>
+
+<main id="main">
+  <section class="hero">
+    <div class="hero__inner">
+      <h1 class="hero__title">小游戏</h1>
+      <p class="hero__subtitle">纯前端实现，打开就能玩，手机和电脑都支持</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="grid">
+
+      <article class="card card--project game-card">
+        <span class="game-card__emoji" aria-hidden="true">🔢</span>
+        <h2 class="card__title">2048</h2>
+        <p class="card__desc">滑动合并相同数字，目标是拼出 2048。经典休闲数字游戏。</p>
+        <a class="btn btn--primary" href="2048/">开始游戏</a>
+      </article>
+
+      <article class="card card--project game-card">
+        <span class="game-card__emoji" aria-hidden="true">🐍</span>
+        <h2 class="card__title">贪吃蛇</h2>
+        <p class="card__desc">吃掉食物让蛇变长，别撞墙也别咬到自己。吃得越多速度越快。</p>
+        <a class="btn btn--primary" href="snake/">开始游戏</a>
+      </article>
+
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <p>© <span id="year">2026</span> Levileo-B · 由 GitHub Pages 托管</p>
+</footer>
+
+<script src="../assets/main.js"></script>
+</body>
+</html>

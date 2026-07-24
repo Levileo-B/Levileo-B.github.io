@@ -1,0 +1,169 @@
+/* 游戏页面专用样式，配色沿用 style.css 里的 CSS 变量 */
+
+.game {
+  max-width: 520px;
+  margin: 0 auto;
+  padding: 2rem 1.25rem 3rem;
+}
+
+.game__head {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 1.25rem;
+}
+
+.game__title { margin: 0; font-size: 1.6rem; letter-spacing: -.02em; }
+.game__hint { color: var(--text-muted); font-size: .88rem; margin: .35rem 0 0; }
+
+.scores { display: flex; gap: .6rem; }
+
+.score-box {
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: .4rem .9rem;
+  text-align: center;
+  min-width: 74px;
+}
+.score-box__label {
+  display: block;
+  font-size: .68rem;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+.score-box__value { font-size: 1.15rem; font-weight: 700; font-variant-numeric: tabular-nums; }
+
+.game__stage { position: relative; }
+
+.game__actions {
+  display: flex;
+  gap: .6rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 1.25rem;
+}
+
+/* 覆盖层：胜利 / 结束 */
+.overlay {
+  position: absolute;
+  inset: 0;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  border-radius: var(--radius);
+  background: color-mix(in srgb, var(--bg) 82%, transparent);
+  backdrop-filter: blur(3px);
+  text-align: center;
+  padding: 1rem;
+}
+.overlay.is-open { display: flex; }
+.overlay__title { margin: 0; font-size: 1.5rem; }
+.overlay__text { margin: 0; color: var(--text-muted); }
+
+/* ---------- 2048 ---------- */
+.board {
+  position: relative;
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 10px;
+  display: grid;
+  /* 行必须显式写成 1fr：隐式 auto 行不会撑满高度，格子会变成长方形 */
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  gap: 10px;
+  aspect-ratio: 1;
+  touch-action: none;
+  user-select: none;
+}
+
+.tile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--border) 35%, transparent);
+  font-weight: 700;
+  font-size: clamp(1.1rem, 7vw, 1.9rem);
+  font-variant-numeric: tabular-nums;
+  color: var(--text);
+  transition: background .12s ease, color .12s ease;
+}
+.tile:empty { background: color-mix(in srgb, var(--border) 22%, transparent); }
+.tile--new { animation: pop .16s ease; }
+
+@keyframes pop {
+  from { transform: scale(.7); opacity: .4; }
+  to   { transform: scale(1);  opacity: 1; }
+}
+
+/* 数字越大颜色越浓，用 accent 做统一色相 */
+.tile[data-v="2"]    { background: color-mix(in srgb, var(--accent) 10%, var(--surface)); }
+.tile[data-v="4"]    { background: color-mix(in srgb, var(--accent) 18%, var(--surface)); }
+.tile[data-v="8"]    { background: color-mix(in srgb, var(--accent) 30%, var(--surface)); }
+.tile[data-v="16"]   { background: color-mix(in srgb, var(--accent) 42%, var(--surface)); }
+.tile[data-v="32"]   { background: color-mix(in srgb, var(--accent) 54%, var(--surface)); color: #fff; }
+.tile[data-v="64"]   { background: color-mix(in srgb, var(--accent) 66%, var(--surface)); color: #fff; }
+.tile[data-v="128"]  { background: color-mix(in srgb, var(--accent) 78%, var(--surface)); color: #fff; font-size: clamp(1rem, 6vw, 1.65rem); }
+.tile[data-v="256"]  { background: color-mix(in srgb, var(--accent) 88%, var(--surface)); color: #fff; font-size: clamp(1rem, 6vw, 1.65rem); }
+.tile[data-v="512"]  { background: var(--accent); color: #fff; font-size: clamp(1rem, 6vw, 1.65rem); }
+.tile[data-v="1024"] { background: #f59e0b; color: #fff; font-size: clamp(.85rem, 5vw, 1.4rem); }
+.tile[data-v="2048"] { background: #f59e0b; color: #fff; font-size: clamp(.85rem, 5vw, 1.4rem); box-shadow: 0 0 0 3px color-mix(in srgb, #f59e0b 40%, transparent); }
+.tile[data-v="4096"],
+.tile[data-v="8192"] { background: #ef4444; color: #fff; font-size: clamp(.85rem, 5vw, 1.4rem); }
+
+/* ---------- 贪吃蛇 ---------- */
+.canvas-wrap {
+  position: relative;
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 10px;
+  touch-action: none;
+}
+
+#cv {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1;
+  border-radius: 8px;
+}
+
+/* 触屏方向键 */
+.dpad {
+  display: grid;
+  grid-template-columns: repeat(3, 56px);
+  grid-template-rows: repeat(2, 56px);
+  gap: .5rem;
+  justify-content: center;
+  margin-top: 1.25rem;
+}
+.dpad button {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 10px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  touch-action: manipulation;
+}
+.dpad button:active { border-color: var(--accent); color: var(--accent); }
+.dpad__up   { grid-column: 2; grid-row: 1; }
+.dpad__left { grid-column: 1; grid-row: 2; }
+.dpad__down { grid-column: 2; grid-row: 2; }
+.dpad__right{ grid-column: 3; grid-row: 2; }
+
+@media (hover: hover) and (pointer: fine) {
+  .dpad { display: none; }  /* 有鼠标键盘就不用方向键了 */
+}
+
+/* ---------- 游戏列表 ---------- */
+.game-card { text-align: center; }
+.game-card__emoji { font-size: 2.4rem; line-height: 1; display: block; margin-bottom: .6rem; }

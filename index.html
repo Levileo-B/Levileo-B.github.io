@@ -33,9 +33,10 @@
   <nav class="nav" aria-label="主导航">
     <a class="nav__brand" href="#top">Levileo-B</a>
     <ul class="nav__list">
+      <li><a href="#news">热点</a></li>
       <li><a href="#about">关于</a></li>
       <li><a href="#projects">项目</a></li>
-      <li><a href="#skills">技能</a></li>
+      <li><a href="games/">游戏</a></li>
       <li><a href="#contact">联系</a></li>
     </ul>
     <button class="theme-toggle" type="button" aria-label="切换深色 / 浅色模式">
@@ -59,8 +60,24 @@
       </p>
       <div class="hero__actions">
         <a class="btn btn--primary" href="#projects">查看项目</a>
-        <a class="btn btn--ghost" href="https://github.com/Levileo-B" target="_blank" rel="noopener">GitHub 主页</a>
+        <a class="btn btn--ghost" href="games/">玩个小游戏</a>
       </div>
+    </div>
+  </section>
+
+  <!-- 每日热点 -->
+  <section class="section" id="news">
+    <div class="section__bar">
+      <h2 class="section__title">每日热点</h2>
+      <span class="news__stamp" id="news-updated"></span>
+    </div>
+    <div class="card">
+      <div class="news" id="news-body">
+        <p class="news__empty">正在加载新闻…</p>
+      </div>
+      <p class="news__foot">
+        由 GitHub Actions 每天自动抓取多个 RSS 源生成，内容与观点均来自各原始站点。
+      </p>
     </div>
   </section>
 
@@ -119,6 +136,24 @@
     </div>
   </section>
 
+  <!-- 小游戏 -->
+  <section class="section" id="games">
+    <h2 class="section__title">小游戏</h2>
+    <div class="card games-entry">
+      <div class="games-entry__text">
+        <h3 class="card__title">写着玩的几个小游戏</h3>
+        <p class="card__desc">
+          纯前端实现，没有后端也没有依赖，打开网页就能玩。电脑用键盘，手机可以直接滑动。
+        </p>
+        <a class="btn btn--primary" href="games/">进入游戏区 →</a>
+      </div>
+      <ul class="games-entry__list">
+        <li><a href="games/2048/"><span aria-hidden="true">🔢</span> 2048</a></li>
+        <li><a href="games/snake/"><span aria-hidden="true">🐍</span> 贪吃蛇</a></li>
+      </ul>
+    </div>
+  </section>
+
   <!-- 技能 -->
   <section class="section" id="skills">
     <h2 class="section__title">技能栈</h2>
@@ -157,5 +192,6 @@
 </footer>
 
 <script src="assets/main.js"></script>
+<script src="assets/news.js"></script>
 </body>
 </html>

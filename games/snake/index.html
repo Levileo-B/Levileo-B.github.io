@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>贪吃蛇 · Levileo-B</title>
+<meta name="description" content="浏览器里玩的贪吃蛇，支持键盘、滑动和方向键。">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐍</text></svg>">
+<link rel="stylesheet" href="../../assets/style.css">
+<link rel="stylesheet" href="../../assets/game.css">
+<script>
+  try {
+    var t = localStorage.getItem('theme');
+    if (t === 'dark' || t === 'light') document.documentElement.setAttribute('data-theme', t);
+  } catch (e) {}
+</script>
+</head>
+<body>
+
+<a class="skip-link" href="#main">跳到主要内容</a>
+
+<header class="site-header">
+  <nav class="nav" aria-label="主导航">
+    <a class="nav__brand" href="../">← 小游戏</a>
+    <ul class="nav__list">
+      <li><a href="../../">主页</a></li>
+      <li><a href="../2048/">2048</a></li>
+    </ul>
+    <button class="theme-toggle" type="button" aria-label="切换深色 / 浅色模式">
+      <span class="theme-toggle__icon" aria-hidden="true">◐</span>
+    </button>
+  </nav>
+</header>
+
+<main id="main" class="game">
+
+  <div class="game__head">
+    <div>
+      <h1 class="game__title">贪吃蛇</h1>
+      <p class="game__hint">方向键 / WASD 控制，空格暂停</p>
+    </div>
+    <div class="scores">
+      <div class="score-box">
+        <span class="score-box__label">得分</span>
+        <span class="score-box__value" id="score">0</span>
+      </div>
+      <div class="score-box">
+        <span class="score-box__label">最高</span>
+        <span class="score-box__value" id="best">0</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="game__stage">
+    <div class="canvas-wrap">
+      <canvas id="cv" width="440" height="440" aria-label="贪吃蛇游戏区域"></canvas>
+    </div>
+    <div class="overlay" id="overlay">
+      <h2 class="overlay__title" id="overlay-title"></h2>
+      <p class="overlay__text" id="overlay-text"></p>
+      <div class="game__actions">
+        <button class="btn btn--primary" type="button" id="overlay-btn">开始</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="dpad" aria-label="方向控制">
+    <button class="dpad__up"    type="button" data-dir="up"    aria-label="上">↑</button>
+    <button class="dpad__left"  type="button" data-dir="left"  aria-label="左">←</button>
+    <button class="dpad__down"  type="button" data-dir="down"  aria-label="下">↓</button>
+    <button class="dpad__right" type="button" data-dir="right" aria-label="右">→</button>
+  </div>
+
+  <div class="game__actions">
+    <button class="btn btn--ghost" type="button" id="restart">重新开始</button>
+    <a class="btn btn--ghost" href="../">返回列表</a>
+  </div>
+
+</main>
+
+<footer class="site-footer">
+  <p>© <span id="year">2026</span> Levileo-B · 由 GitHub Pages 托管</p>
+</footer>
+
+<script src="../../assets/main.js"></script>
+<script src="game.js"></script>
+</body>
+</html>
