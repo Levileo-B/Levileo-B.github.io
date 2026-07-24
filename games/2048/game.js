@@ -1,6 +1,7 @@
-// 2048 —— 无依赖实现，支持键盘与触屏
+// 2048 的界面层 —— 只负责渲染、输入和存档，棋盘运算全在 board.js 里
 (function () {
-  var SIZE = 4;
+  var B = window.Board2048;
+  var SIZE = B.SIZE;
   var KEY_BEST = 'best2048';
 
   var boardEl = document.getElementById('board');
@@ -21,119 +22,38 @@
     try { localStorage.setItem(KEY_BEST, String(v)); } catch (e) {}
   }
 
-  function empty() {
-    var out = [];
-    for (var r = 0; r < SIZE; r++) {
-      out.push([]);
-      for (var c = 0; c < SIZE; c++) out[r].push(0);
-    }
-    return out;
-  }
-
-  function freeCells() {
-    var cells = [];
-    for (var r = 0; r < SIZE; r++)
-      for (var c = 0; c < SIZE; c++)
-        if (!grid[r][c]) cells.push([r, c]);
-    return cells;
-  }
-
   function addTile() {
-    var cells = freeCells();
+    var cells = B.freeCells(grid);
     if (!cells.length) return null;
     var pick = cells[Math.floor(Math.random() * cells.length)];
     grid[pick[0]][pick[1]] = Math.random() < 0.9 ? 2 : 4;
     return pick;
   }
 
-  // 顺时针旋转，用来把四个方向都归约成「向左滑」
-  function rotateCW(b) {
-    var out = empty();
-    for (var r = 0; r < SIZE; r++)
-      for (var c = 0; c < SIZE; c++)
-        out[c][SIZE - 1 - r] = b[r][c];
-    return out;
-  }
-  function rotate(b, times) {
-    var out = b;
-    for (var i = 0; i < (times % 4 + 4) % 4; i++) out = rotateCW(out);
-    return out;
-  }
-
-  // 单行向左压缩合并，返回新行与本次得分
-  function slideRow(row) {
-    var vals = row.filter(function (v) { return v; });
-    var gained = 0;
-    for (var i = 0; i < vals.length - 1; i++) {
-      if (vals[i] === vals[i + 1]) {
-        vals[i] *= 2;
-        gained += vals[i];
-        vals.splice(i + 1, 1);
-      }
-    }
-    while (vals.length < SIZE) vals.push(0);
-    return { row: vals, gained: gained };
-  }
-
-  function same(a, b) {
-    for (var r = 0; r < SIZE; r++)
-      for (var c = 0; c < SIZE; c++)
-        if (a[r][c] !== b[r][c]) return false;
-    return true;
-  }
-
-  // 旋转 k 次后「向左滑」分别等价于：0 左、1 下、2 右、3 上
-  var TURNS = { left: 0, down: 1, right: 2, up: 3 };
-
   function move(dir) {
     if (dead) return;
-    var k = TURNS[dir];
-    var work = rotate(grid, k);
-    var gained = 0;
 
-    for (var r = 0; r < SIZE; r++) {
-      var res = slideRow(work[r]);
-      work[r] = res.row;
-      gained += res.gained;
-    }
+    var res = B.slide(grid, dir);
+    if (!res.moved) return;                 // 这个方向推不动，不算一步
 
-    var next = rotate(work, 4 - k);
-    if (same(grid, next)) return;   // 这个方向推不动，不消耗一步
-
-    grid = next;
-    score += gained;
+    grid = res.grid;
+    score += res.gained;
     if (score > best) { best = score; writeBest(best); }
 
     fresh = addTile();
     render();
 
-    if (!won && hasValue(2048)) {
+    if (!won && B.hasValue(grid, 2048)) {
       won = true;
-      if (!keptGoing) return finish('拼出 2048 了！', '还可以继续往上叠，看能走多远。', true);
+      if (!keptGoing) {
+        finish('拼出 2048 了！', '还可以继续往上叠，看能走多远。', true);
+        return;
+      }
     }
-    if (!canMove()) {
+    if (!B.canMove(grid)) {
       dead = true;
       finish('没有可走的步了', '最终得分 ' + score + '。', false);
     }
-  }
-
-  function hasValue(v) {
-    for (var r = 0; r < SIZE; r++)
-      for (var c = 0; c < SIZE; c++)
-        if (grid[r][c] === v) return true;
-    return false;
-  }
-
-  function canMove() {
-    if (freeCells().length) return true;
-    for (var r = 0; r < SIZE; r++) {
-      for (var c = 0; c < SIZE; c++) {
-        var v = grid[r][c];
-        if (c + 1 < SIZE && grid[r][c + 1] === v) return true;
-        if (r + 1 < SIZE && grid[r + 1][c] === v) return true;
-      }
-    }
-    return false;
   }
 
   function render() {
@@ -159,12 +79,10 @@
     overlay.classList.add('is-open');
   }
 
-  function closeOverlay() {
-    overlay.classList.remove('is-open');
-  }
+  function closeOverlay() { overlay.classList.remove('is-open'); }
 
   function reset() {
-    grid = empty();
+    grid = B.emptyGrid();
     score = 0;
     dead = false;
     won = false;
@@ -177,7 +95,7 @@
     render();
   }
 
-  // ---- 输入 ----
+  // ---------- 输入 ----------
   var KEYS = {
     ArrowLeft: 'left', ArrowRight: 'right', ArrowUp: 'up', ArrowDown: 'down',
     a: 'left', d: 'right', w: 'up', s: 'down',

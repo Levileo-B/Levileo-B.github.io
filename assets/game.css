@@ -164,6 +164,60 @@
   .dpad { display: none; }  /* 有鼠标键盘就不用方向键了 */
 }
 
+/* ---------- 跑步模拟（QWOP 式） ---------- */
+.game--wide { max-width: 760px; }
+
+#stage {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 12 / 5;
+  border-radius: 8px;
+}
+
+.keys {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: .5rem;
+  margin-top: 1.25rem;
+}
+
+.keys button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: .15rem;
+  padding: .6rem .3rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  color: var(--text);
+  cursor: pointer;
+  touch-action: none;
+  user-select: none;
+  transition: border-color .12s, background .12s;
+}
+.keys button b { font-size: 1.05rem; font-weight: 700; }
+.keys button span { font-size: .7rem; color: var(--text-muted); }
+.keys button.is-down,
+.keys button:active {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+.keys button.is-down b,
+.keys button:active b { color: var(--accent); }
+
+.howto {
+  margin-top: 1.5rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: .75rem 1rem;
+  background: var(--bg-soft);
+  font-size: .88rem;
+}
+.howto summary { cursor: pointer; font-weight: 600; }
+.howto p { margin: .75rem 0 0; color: var(--text-muted); line-height: 1.75; }
+
 /* ---------- 游戏列表 ---------- */
 .game-card { text-align: center; }
 .game-card__emoji { font-size: 2.4rem; line-height: 1; display: block; margin-bottom: .6rem; }

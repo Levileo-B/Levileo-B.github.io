@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>跑步模拟 · Levileo-B</title>
+<meta name="description" content="QWOP 式的物理跑步游戏：四个键分别控制大腿和小腿。">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏃</text></svg>">
+<link rel="stylesheet" href="../../assets/style.css">
+<link rel="stylesheet" href="../../assets/game.css">
+<script>
+  try {
+    var t = localStorage.getItem('theme');
+    if (t === 'dark' || t === 'light') document.documentElement.setAttribute('data-theme', t);
+  } catch (e) {}
+</script>
+</head>
+<body>
+
+<a class="skip-link" href="#main">跳到主要内容</a>
+
+<header class="site-header">
+  <nav class="nav" aria-label="主导航">
+    <a class="nav__brand" href="../">← 小游戏</a>
+    <ul class="nav__list">
+      <li><a href="../../">主页</a></li>
+      <li><a href="../2048/">2048</a></li>
+      <li><a href="../snake/">贪吃蛇</a></li>
+    </ul>
+    <button class="theme-toggle" type="button" aria-label="切换深色 / 浅色模式">
+      <span class="theme-toggle__icon" aria-hidden="true">◐</span>
+    </button>
+  </nav>
+</header>
+
+<main id="main" class="game game--wide">
+
+  <div class="game__head">
+    <div>
+      <h1 class="game__title">跑步模拟</h1>
+      <p class="game__hint">Q / W 控制大腿，O / P 控制小腿</p>
+    </div>
+    <div class="scores">
+      <div class="score-box">
+        <span class="score-box__label">距离</span>
+        <span class="score-box__value"><span id="dist">0.0</span><small>m</small></span>
+      </div>
+      <div class="score-box">
+        <span class="score-box__label">最远</span>
+        <span class="score-box__value"><span id="best">0.0</span><small>m</small></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="game__stage">
+    <div class="canvas-wrap">
+      <canvas id="stage" width="720" height="300" aria-label="跑步游戏区域"></canvas>
+    </div>
+    <div class="overlay" id="overlay">
+      <h2 class="overlay__title" id="overlay-title">准备起跑</h2>
+      <p class="overlay__text" id="overlay-text">
+        Q / W 交替摆动大腿，O / P 控制小腿落地。和原版 QWOP 一样，这很难。
+      </p>
+      <div class="game__actions">
+        <button class="btn btn--primary" type="button" id="overlay-btn">开始</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 触屏用的按键，桌面端隐藏 -->
+  <div class="keys" aria-label="肢体控制">
+    <button type="button" data-key="q"><b>Q</b><span>右腿前摆</span></button>
+    <button type="button" data-key="w"><b>W</b><span>左腿前摆</span></button>
+    <button type="button" data-key="o"><b>O</b><span>右小腿</span></button>
+    <button type="button" data-key="p"><b>P</b><span>左小腿</span></button>
+  </div>
+
+  <div class="game__actions">
+    <button class="btn btn--ghost" type="button" id="restart">重新开始</button>
+    <a class="btn btn--ghost" href="../">返回列表</a>
+  </div>
+
+  <details class="howto">
+    <summary>怎么才能跑起来？</summary>
+    <p>
+      这是一个物理模拟，没有「前进键」—— 位移完全来自你摆动四肢蹬地产生的反作用力。
+      基本节奏是 <b>Q → O → W → P</b> 循环：一条腿向前迈的同时另一条腿蹬地，
+      小腿在落地前伸直。动作太猛会前扑，太慢会向后坐倒。
+      上半身触地即结束。
+    </p>
+  </details>
+
+</main>
+
+<footer class="site-footer">
+  <p>© <span id="year">2026</span> Levileo-B · 由 GitHub Pages 托管</p>
+</footer>
+
+<script src="../../assets/main.js"></script>
+<script src="game.js"></script>
+</body>
+</html>
