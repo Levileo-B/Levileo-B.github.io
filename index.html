@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Levileo-B · 个人主页</title>
+<meta name="description" content="Levileo-B 的个人主页 —— 项目、文章与联系方式。">
+<meta name="theme-color" content="#0f172a">
+
+<!-- 社交分享卡片 -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Levileo-B · 个人主页">
+<meta property="og:description" content="Levileo-B 的个人主页 —— 项目、文章与联系方式。">
+<meta property="og:url" content="https://levileo-b.github.io/">
+<meta name="twitter:card" content="summary">
+
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌱</text></svg>">
+<link rel="stylesheet" href="assets/style.css">
+
+<!-- 在渲染前应用已保存的主题，避免闪烁 -->
+<script>
+  try {
+    var t = localStorage.getItem('theme');
+    if (t === 'dark' || t === 'light') document.documentElement.setAttribute('data-theme', t);
+  } catch (e) {}
+</script>
+</head>
+<body>
+
+<a class="skip-link" href="#main">跳到主要内容</a>
+
+<header class="site-header">
+  <nav class="nav" aria-label="主导航">
+    <a class="nav__brand" href="#top">Levileo-B</a>
+    <ul class="nav__list">
+      <li><a href="#about">关于</a></li>
+      <li><a href="#projects">项目</a></li>
+      <li><a href="#skills">技能</a></li>
+      <li><a href="#contact">联系</a></li>
+    </ul>
+    <button class="theme-toggle" type="button" aria-label="切换深色 / 浅色模式">
+      <span class="theme-toggle__icon" aria-hidden="true">◐</span>
+    </button>
+  </nav>
+</header>
+
+<main id="main">
+
+  <!-- 首屏 -->
+  <section class="hero" id="top">
+    <div class="hero__inner">
+      <img class="avatar" src="https://github.com/Levileo-B.png?size=240" alt="Levileo-B 的头像"
+           width="120" height="120" loading="eager"
+           onerror="this.style.display='none'">
+      <h1 class="hero__title">你好，我是 <span class="accent">Levileo-B</span></h1>
+      <p class="hero__subtitle">开发者 · 终身学习者 · 用代码解决实际问题</p>
+      <p class="hero__desc">
+        欢迎来到我的个人主页。这里记录我的项目、技术积累和一些想法。
+      </p>
+      <div class="hero__actions">
+        <a class="btn btn--primary" href="#projects">查看项目</a>
+        <a class="btn btn--ghost" href="https://github.com/Levileo-B" target="_blank" rel="noopener">GitHub 主页</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- 关于 -->
+  <section class="section" id="about">
+    <h2 class="section__title">关于我</h2>
+    <div class="card">
+      <p>
+        我是一名热爱技术的开发者，喜欢把复杂的问题拆解成清晰的方案。
+        平时关注 Web 开发、自动化工具和开源生态。
+      </p>
+      <p>
+        这个站点由 GitHub Pages 托管，源码完全开放。
+        你可以在 <a href="https://github.com/Levileo-B/Levileo-B.github.io" target="_blank" rel="noopener">仓库</a> 中看到它是如何构建的。
+      </p>
+      <ul class="facts">
+        <li><span class="facts__label">位置</span><span class="facts__value">中国</span></li>
+        <li><span class="facts__label">方向</span><span class="facts__value">Web / 工具开发</span></li>
+        <li><span class="facts__label">状态</span><span class="facts__value">持续学习中</span></li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- 项目 -->
+  <section class="section" id="projects">
+    <h2 class="section__title">精选项目</h2>
+    <div class="grid">
+
+      <article class="card card--project">
+        <h3 class="card__title">个人主页</h3>
+        <p class="card__desc">基于 GitHub Pages 的静态个人站点，零依赖、响应式、支持深色模式。</p>
+        <ul class="tags">
+          <li>HTML</li><li>CSS</li><li>GitHub Pages</li>
+        </ul>
+        <a class="card__link" href="https://github.com/Levileo-B/Levileo-B.github.io" target="_blank" rel="noopener">查看源码 →</a>
+      </article>
+
+      <article class="card card--project">
+        <h3 class="card__title">项目二</h3>
+        <p class="card__desc">在这里写一句话介绍你的项目：它解决了什么问题，用了什么技术。</p>
+        <ul class="tags">
+          <li>待补充</li>
+        </ul>
+        <a class="card__link" href="https://github.com/Levileo-B?tab=repositories" target="_blank" rel="noopener">查看仓库 →</a>
+      </article>
+
+      <article class="card card--project">
+        <h3 class="card__title">项目三</h3>
+        <p class="card__desc">在这里写一句话介绍你的项目：它解决了什么问题，用了什么技术。</p>
+        <ul class="tags">
+          <li>待补充</li>
+        </ul>
+        <a class="card__link" href="https://github.com/Levileo-B?tab=repositories" target="_blank" rel="noopener">查看仓库 →</a>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- 技能 -->
+  <section class="section" id="skills">
+    <h2 class="section__title">技能栈</h2>
+    <div class="grid grid--skills">
+      <div class="card">
+        <h3 class="card__title">前端</h3>
+        <ul class="tags tags--lg"><li>HTML</li><li>CSS</li><li>JavaScript</li></ul>
+      </div>
+      <div class="card">
+        <h3 class="card__title">后端 / 脚本</h3>
+        <ul class="tags tags--lg"><li>Python</li><li>Node.js</li><li>Shell</li></ul>
+      </div>
+      <div class="card">
+        <h3 class="card__title">工具</h3>
+        <ul class="tags tags--lg"><li>Git</li><li>Linux</li><li>VS Code</li></ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- 联系 -->
+  <section class="section" id="contact">
+    <h2 class="section__title">联系我</h2>
+    <div class="card card--center">
+      <p>欢迎交流合作，或者只是聊聊技术。</p>
+      <div class="links">
+        <a class="btn btn--primary" href="https://github.com/Levileo-B" target="_blank" rel="noopener">GitHub</a>
+        <a class="btn btn--ghost" href="mailto:01064801680k@gmail.com">发邮件</a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <p>© <span id="year">2026</span> Levileo-B · 由 GitHub Pages 托管</p>
+</footer>
+
+<script src="assets/main.js"></script>
+</body>
+</html>

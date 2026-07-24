@@ -1,0 +1,53 @@
+# Levileo-B.github.io
+
+我的个人主页，使用纯静态 HTML/CSS/JS 构建，由 GitHub Pages 托管。
+
+**访问地址：** https://levileo-b.github.io/
+
+## 特性
+
+- 零依赖、零构建，纯静态文件，加载快
+- 响应式布局，手机 / 平板 / 桌面均适配
+- 自动跟随系统深色模式，也可手动切换（选择会被记住）
+- 基础无障碍支持：跳转链接、语义化标签、键盘焦点样式
+- 自定义 404 页面
+
+## 文件结构
+
+```
+.
+├── index.html         # 主页
+├── 404.html           # 404 页面
+├── .nojekyll          # 跳过 Jekyll 处理，直接发布原始文件
+└── assets/
+    ├── style.css      # 样式（含主题变量）
+    └── main.js        # 主题切换、页脚年份
+```
+
+## 如何启用 GitHub Pages
+
+仓库名为 `Levileo-B.github.io`（用户站点），推送到默认分支后通常会自动发布。若未生效：
+
+1. 打开仓库的 **Settings → Pages**
+2. **Source** 选择 `Deploy from a branch`
+3. **Branch** 选择 `main`（或你的默认分支），目录选 `/ (root)`
+4. 保存，等待 1–2 分钟后访问 https://levileo-b.github.io/
+
+## 如何修改内容
+
+需要改动的地方都在 `index.html` 里，直接编辑文本即可：
+
+- **首屏介绍**：`<section class="hero">` 中的标题、副标题和描述
+- **关于我**：`#about` 区块的段落和 `.facts` 列表
+- **项目卡片**：`#projects` 区块，复制一个 `<article class="card card--project">` 即可新增一项；标记为「待补充」的两张卡片可以替换成你的真实项目
+- **技能栈**：`#skills` 区块的 `.tags` 列表项
+- **联系方式**：`#contact` 区块的链接
+
+配色在 `assets/style.css` 顶部的 `:root` 变量里统一定义，改 `--accent` 就能换主题色。
+
+## 本地预览
+
+```bash
+python3 -m http.server 8000
+# 然后打开 http://localhost:8000
+```
