@@ -1,0 +1,206 @@
+{
+  "updated": "2026-07-24T20:17:11+00:00",
+  "sources": [
+    {
+      "name": "BBC 中文",
+      "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
+      "items": [
+        {
+          "title": "曼德海峽：胡塞武裝的威脅會否觸發紅海航運危機？",
+          "link": "https://www.bbc.com/zhongwen/articles/c4g63djrgy8o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-24T00:03:29+00:00"
+        },
+        {
+          "title": "美中AI科技戰：白宮稱中國「月之暗面」Kimi K3模型竊取Anthropic技術",
+          "link": "https://www.bbc.com/zhongwen/articles/c62vqpqdqjwo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-24T04:16:29+00:00"
+        },
+        {
+          "title": "台灣陸配參選資格「設籍滿十年」改「除籍滿十年」意味什麼？",
+          "link": "https://www.bbc.com/zhongwen/articles/c77gr3163dxo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-23T10:00:32+00:00"
+        },
+        {
+          "title": "為什麼你總是在凌晨三點醒來？",
+          "link": "https://www.bbc.com/zhongwen/articles/cx2m5e7g3dyo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-24T03:38:53+00:00"
+        },
+        {
+          "title": "香港「47人案」前議員胡志偉英國機場險被遣返",
+          "link": "https://www.bbc.com/zhongwen/articles/cy8ep5lp2n6o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-23T12:36:40+00:00"
+        },
+        {
+          "title": "美國以「強迫勞動」為由徵新關稅，影響中國、台灣等60個貿易夥伴",
+          "link": "https://www.bbc.com/zhongwen/articles/clyezy3l60qo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-24T04:45:44+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Hacker News",
+      "url": "https://hnrss.org/frontpage?count=10",
+      "items": [
+        {
+          "title": "Postgres LISTEN/NOTIFY actually scales",
+          "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+          "date": "2026-07-24T19:05:53+00:00"
+        },
+        {
+          "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
+          "link": "https://blog.cloudflare.com/bgp-origin-attribute/",
+          "date": "2026-07-24T18:07:08+00:00"
+        },
+        {
+          "title": "I got into YC (Startup School) by hacking it",
+          "link": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
+          "date": "2026-07-24T18:03:22+00:00"
+        },
+        {
+          "title": "Gsxui – Shadcn-style components for Go",
+          "link": "https://ui.gsxhq.dev/",
+          "date": "2026-07-24T17:59:08+00:00"
+        },
+        {
+          "title": "The small, real, original web",
+          "link": "https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/",
+          "date": "2026-07-24T17:28:59+00:00"
+        },
+        {
+          "title": "DuckPGQ – A DuckDB community extension for graph workloads",
+          "link": "https://duckpgq.org/",
+          "date": "2026-07-24T17:00:23+00:00"
+        }
+      ]
+    },
+    {
+      "name": "少数派",
+      "url": "https://sspai.com/feed",
+      "items": [
+        {
+          "title": "本周看什么 | 最近值得一看的 13 部作品",
+          "link": "https://sspai.com/post/112692",
+          "date": "2026-07-24T09:38:35+00:00"
+        },
+        {
+          "title": "角落新声｜数字与实体、有线与无线：我的多场景有声角落构建",
+          "link": "https://sspai.com/post/112232",
+          "date": "2026-07-24T07:00:00+00:00"
+        },
+        {
+          "title": "赛博对话｜对话潘玮哲x老麦煮机：电子产品在悄悄变贵！",
+          "link": "https://sspai.com/post/112679",
+          "date": "2026-07-24T03:00:00+00:00"
+        },
+        {
+          "title": "派早报：Acrab 发布边缘 AI 芯片 GELIX 1 和个人 AI 系统 Agent Box 等",
+          "link": "https://sspai.com/post/112677",
+          "date": "2026-07-24T00:33:05+00:00"
+        },
+        {
+          "title": "新玩意 247｜少数派的编辑们最近买了啥？",
+          "link": "https://sspai.com/post/112668",
+          "date": "2026-07-23T09:38:21+00:00"
+        },
+        {
+          "title": "小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈",
+          "link": "https://sspai.com/post/112428",
+          "date": "2026-07-23T07:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "V2EX",
+      "url": "https://www.v2ex.com/index.xml",
+      "items": [
+        {
+          "title": "[问与答] 有 27 寸便携式显示器可以接 mac 的 usbc 供电的吗？",
+          "link": "https://www.v2ex.com/t/1229672#reply0",
+          "date": "2026-07-24T20:08:20+00:00"
+        },
+        {
+          "title": "[问与答] openai 账号被封？",
+          "link": "https://www.v2ex.com/t/1229671#reply2",
+          "date": "2026-07-24T18:25:17+00:00"
+        },
+        {
+          "title": "[问与答] 请教荨麻疹",
+          "link": "https://www.v2ex.com/t/1229670#reply0",
+          "date": "2026-07-24T17:46:51+00:00"
+        },
+        {
+          "title": "[分享发现] Claude Opus 5 发布了！",
+          "link": "https://www.v2ex.com/t/1229668#reply3",
+          "date": "2026-07-24T14:22:02+00:00"
+        },
+        {
+          "title": "[Claude] Claude Opus 5 发布，性能接近 Fable 5",
+          "link": "https://www.v2ex.com/t/1229667#reply3",
+          "date": "2026-07-24T18:27:59+00:00"
+        },
+        {
+          "title": "[DNS] 疑似出现 DNS 劫持, 腾讯/阿里 doh 也被污染",
+          "link": "https://www.v2ex.com/t/1229666#reply3",
+          "date": "2026-07-24T18:49:05+00:00"
+        }
+      ]
+    },
+    {
+      "name": "36 氪",
+      "url": "https://36kr.com/feed",
+      "items": [
+        {
+          "title": "AnySearch 面向全球推出 “学生与开发者成长计划”",
+          "link": "https://36kr.com/p/3909565569324163?f=rss",
+          "date": ""
+        },
+        {
+          "title": "氪星晚报 ｜黄仁勋力挺中国AI开源模型；市场监管总局：深入整治“内卷式”竞争",
+          "link": "https://36kr.com/p/3909160840451465?f=rss",
+          "date": ""
+        },
+        {
+          "title": "你的下一位面试官，可能不是人",
+          "link": "https://36kr.com/p/3909499179767169?f=rss",
+          "date": ""
+        },
+        {
+          "title": "对话曾鸣教授：AI时代，企业竞争的关键是构建智能复利，让AI真正进入业务流程",
+          "link": "https://36kr.com/p/3909358392988806?f=rss",
+          "date": ""
+        },
+        {
+          "title": "DeepSeek不是理想主义公司，它只是把现实服务于理想",
+          "link": "https://36kr.com/p/3909084356433025?f=rss",
+          "date": ""
+        },
+        {
+          "title": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！",
+          "link": "https://36kr.com/p/3909033052722310?f=rss",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "name": "阮一峰的网络日志",
+      "url": "https://www.ruanyifeng.com/blog/atom.xml",
+      "items": [
+        {
+          "title": "科技爱好者周刊（第 405 期）：资源，社会公平与算力",
+          "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html",
+          "date": "2026-07-24T18:10:52+00:00"
+        },
+        {
+          "title": "科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识",
+          "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html",
+          "date": "2026-07-23T07:16:06+00:00"
+        },
+        {
+          "title": "科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功",
+          "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html",
+          "date": "2026-07-17T06:30:39+00:00"
+        }
+      ]
+    }
+  ]
+}
