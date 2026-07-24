@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T20:17:11+00:00",
+  "updated": "2026-07-24T23:03:23+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -42,17 +42,22 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live",
+          "link": "https://github.com/apresta/max-studio-tools",
+          "date": "2026-07-24T21:03:10+00:00"
+        },
+        {
+          "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+          "link": "https://artificialanalysis.ai/models",
+          "date": "2026-07-24T19:45:10+00:00"
+        },
+        {
           "title": "Postgres LISTEN/NOTIFY actually scales",
           "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
           "date": "2026-07-24T19:05:53+00:00"
         },
         {
-          "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
-          "link": "https://blog.cloudflare.com/bgp-origin-attribute/",
-          "date": "2026-07-24T18:07:08+00:00"
-        },
-        {
-          "title": "I got into YC (Startup School) by hacking it",
+          "title": "I got into YC Startup School by hacking it",
           "link": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
           "date": "2026-07-24T18:03:22+00:00"
         },
@@ -62,14 +67,9 @@
           "date": "2026-07-24T17:59:08+00:00"
         },
         {
-          "title": "The small, real, original web",
-          "link": "https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/",
-          "date": "2026-07-24T17:28:59+00:00"
-        },
-        {
-          "title": "DuckPGQ – A DuckDB community extension for graph workloads",
-          "link": "https://duckpgq.org/",
-          "date": "2026-07-24T17:00:23+00:00"
+          "title": "Claude Opus 5",
+          "link": "https://www.anthropic.com/news/claude-opus-5",
+          "date": "2026-07-24T16:57:41+00:00"
         }
       ]
     },
@@ -114,34 +114,34 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
+          "title": "[OpenAI] 最近用的中转又拉闸了，想自己搞一个号了",
+          "link": "https://www.v2ex.com/t/1229677#reply1",
+          "date": "2026-07-24T23:02:09+00:00"
+        },
+        {
+          "title": "[VPS] ColoCrossing - Specials - 洛杉矶假日特惠补货",
+          "link": "https://www.v2ex.com/t/1229676#reply0",
+          "date": "2026-07-24T22:41:59+00:00"
+        },
+        {
+          "title": "[问与答] Qoder CN + qwen 8 max preview 还是差点意思",
+          "link": "https://www.v2ex.com/t/1229675#reply1",
+          "date": "2026-07-24T22:04:50+00:00"
+        },
+        {
+          "title": "[推广] Departures Connection —— 六端原生 App 的机场， iOS / 安卓 / macOS / Windows / Apple TV / Android TV",
+          "link": "https://www.v2ex.com/t/1229674#reply1",
+          "date": "2026-07-24T20:58:17+00:00"
+        },
+        {
+          "title": "[Wunder] 新功能：在每次回答末尾生成几个可点击的选项，方便用户继续对话",
+          "link": "https://www.v2ex.com/t/1229673#reply0",
+          "date": "2026-07-24T20:29:29+00:00"
+        },
+        {
           "title": "[问与答] 有 27 寸便携式显示器可以接 mac 的 usbc 供电的吗？",
-          "link": "https://www.v2ex.com/t/1229672#reply0",
+          "link": "https://www.v2ex.com/t/1229672#reply2",
           "date": "2026-07-24T20:08:20+00:00"
-        },
-        {
-          "title": "[问与答] openai 账号被封？",
-          "link": "https://www.v2ex.com/t/1229671#reply2",
-          "date": "2026-07-24T18:25:17+00:00"
-        },
-        {
-          "title": "[问与答] 请教荨麻疹",
-          "link": "https://www.v2ex.com/t/1229670#reply0",
-          "date": "2026-07-24T17:46:51+00:00"
-        },
-        {
-          "title": "[分享发现] Claude Opus 5 发布了！",
-          "link": "https://www.v2ex.com/t/1229668#reply3",
-          "date": "2026-07-24T14:22:02+00:00"
-        },
-        {
-          "title": "[Claude] Claude Opus 5 发布，性能接近 Fable 5",
-          "link": "https://www.v2ex.com/t/1229667#reply3",
-          "date": "2026-07-24T18:27:59+00:00"
-        },
-        {
-          "title": "[DNS] 疑似出现 DNS 劫持, 腾讯/阿里 doh 也被污染",
-          "link": "https://www.v2ex.com/t/1229666#reply3",
-          "date": "2026-07-24T18:49:05+00:00"
         }
       ]
     },
