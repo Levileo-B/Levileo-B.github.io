@@ -1,10 +1,16 @@
 {
-  "updated": "2026-07-24T23:03:23+00:00",
+  "updated": "2026-07-25T17:09:37+00:00",
   "sources": [
     {
       "name": "BBC 中文",
+      "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "中國兩學者破解百年難題，首奪全球數學最高榮譽",
+          "link": "https://www.bbc.com/zhongwen/articles/c86npjqxpx9o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-25T00:42:44+00:00"
+        },
         {
           "title": "曼德海峽：胡塞武裝的威脅會否觸發紅海航運危機？",
           "link": "https://www.bbc.com/zhongwen/articles/c4g63djrgy8o/trad?at_medium=RSS&at_campaign=rss",
@@ -24,59 +30,83 @@
           "title": "為什麼你總是在凌晨三點醒來？",
           "link": "https://www.bbc.com/zhongwen/articles/cx2m5e7g3dyo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-24T03:38:53+00:00"
-        },
-        {
-          "title": "香港「47人案」前議員胡志偉英國機場險被遣返",
-          "link": "https://www.bbc.com/zhongwen/articles/cy8ep5lp2n6o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-23T12:36:40+00:00"
-        },
-        {
-          "title": "美國以「強迫勞動」為由徵新關稅，影響中國、台灣等60個貿易夥伴",
-          "link": "https://www.bbc.com/zhongwen/articles/clyezy3l60qo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-24T04:45:44+00:00"
         }
       ]
     },
     {
-      "name": "Hacker News",
-      "url": "https://hnrss.org/frontpage?count=10",
+      "name": "BBC World",
+      "category": "综合",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live",
-          "link": "https://github.com/apresta/max-studio-tools",
-          "date": "2026-07-24T21:03:10+00:00"
+          "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+          "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-25T13:51:07+00:00"
         },
         {
-          "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-          "link": "https://artificialanalysis.ai/models",
-          "date": "2026-07-24T19:45:10+00:00"
+          "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+          "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-25T06:34:40+00:00"
         },
         {
-          "title": "Postgres LISTEN/NOTIFY actually scales",
-          "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-          "date": "2026-07-24T19:05:53+00:00"
+          "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+          "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-25T00:06:53+00:00"
         },
         {
-          "title": "I got into YC Startup School by hacking it",
-          "link": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
-          "date": "2026-07-24T18:03:22+00:00"
+          "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+          "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-24T23:01:06+00:00"
         },
         {
-          "title": "Gsxui – Shadcn-style components for Go",
-          "link": "https://ui.gsxhq.dev/",
-          "date": "2026-07-24T17:59:08+00:00"
+          "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+          "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-24T22:49:59+00:00"
+        }
+      ]
+    },
+    {
+      "name": "36 氪",
+      "category": "科技",
+      "url": "https://36kr.com/feed",
+      "items": [
+        {
+          "title": "从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目",
+          "link": "https://36kr.com/p/3910880823202948?f=rss",
+          "date": ""
         },
         {
-          "title": "Claude Opus 5",
-          "link": "https://www.anthropic.com/news/claude-opus-5",
-          "date": "2026-07-24T16:57:41+00:00"
+          "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+          "link": "https://36kr.com/p/3910351337821318?f=rss",
+          "date": ""
+        },
+        {
+          "title": "AnySearch 面向全球推出 “学生与开发者成长计划”",
+          "link": "https://36kr.com/p/3909565569324163?f=rss",
+          "date": ""
+        },
+        {
+          "title": "氪星晚报 ｜黄仁勋力挺中国AI开源模型；市场监管总局：深入整治“内卷式”竞争",
+          "link": "https://36kr.com/p/3909160840451465?f=rss",
+          "date": ""
+        },
+        {
+          "title": "你的下一位面试官，可能不是人",
+          "link": "https://36kr.com/p/3909499179767169?f=rss",
+          "date": ""
         }
       ]
     },
     {
       "name": "少数派",
+      "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "看不见、摸得着的家居要素：聊聊湿度管理的方法与实践",
+          "link": "https://sspai.com/post/112093",
+          "date": "2026-07-25T03:09:49+00:00"
+        },
         {
           "title": "本周看什么 | 最近值得一看的 13 部作品",
           "link": "https://sspai.com/post/112692",
@@ -96,99 +126,306 @@
           "title": "派早报：Acrab 发布边缘 AI 芯片 GELIX 1 和个人 AI 系统 Agent Box 等",
           "link": "https://sspai.com/post/112677",
           "date": "2026-07-24T00:33:05+00:00"
+        }
+      ]
+    },
+    {
+      "name": "爱范儿",
+      "category": "科技",
+      "url": "https://www.ifanr.com/feed",
+      "items": [
+        {
+          "title": "早报｜Claude Opus 5发布,半价追平Fable 5/小鹏人形机器人开启小批量试产/曝英伟达将上调显卡价格",
+          "link": "https://www.ifanr.com/1673124?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-07-25T00:23:18+00:00"
         },
         {
-          "title": "新玩意 247｜少数派的编辑们最近买了啥？",
-          "link": "https://sspai.com/post/112668",
-          "date": "2026-07-23T09:38:21+00:00"
+          "title": "Codex 键盘第一波上手来了，有人反手让 Codex 破解了它",
+          "link": "https://www.ifanr.com/1673060?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-07-24T09:19:08+00:00"
         },
         {
-          "title": "小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈",
-          "link": "https://sspai.com/post/112428",
-          "date": "2026-07-23T07:00:00+00:00"
+          "title": "16.98 万元起，华为乾崑六件套上车，奕派 M8 挤进拥挤的大六座市场",
+          "link": "https://www.ifanr.com/1673042?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-07-24T09:13:56+00:00"
+        },
+        {
+          "title": "对话吉利汽车林杰：「极氪向上、领克向宽」，领克找到了「向宽」的方向",
+          "link": "https://www.ifanr.com/1673069?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-07-24T08:14:41+00:00"
+        },
+        {
+          "title": "对话腾讯副总裁林松涛：意图正在代替入口，Agent 需要一颗「小脑」",
+          "link": "https://www.ifanr.com/1673039?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-07-24T07:43:20+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Solidot",
+      "category": "科技",
+      "url": "https://www.solidot.org/index.rss",
+      "items": [
+        {
+          "title": "Debian 讨论是否允许使用 LLM",
+          "link": "https://www.solidot.org/story?sid=84922",
+          "date": "2026-07-25T15:53:13+00:00"
+        },
+        {
+          "title": "美国司法部起诉一位公民提供了会导致手机数据自动删除的密码",
+          "link": "https://www.solidot.org/story?sid=84921",
+          "date": "2026-07-25T13:27:28+00:00"
+        },
+        {
+          "title": "英伟达、微软、OpenAI 等公司反对限制开放权重模型",
+          "link": "https://www.solidot.org/story?sid=84920",
+          "date": "2026-07-25T10:57:43+00:00"
+        },
+        {
+          "title": "IRGC 声称摧毁了亚马逊巴林数据中心",
+          "link": "https://www.solidot.org/story?sid=84919",
+          "date": "2026-07-24T16:13:35+00:00"
+        },
+        {
+          "title": "印度政府命令 GitHub 移除 Jack Dorsey 的蓝牙聊天应用 Bitchat",
+          "link": "https://www.solidot.org/story?sid=84918",
+          "date": "2026-07-24T15:46:29+00:00"
+        }
+      ]
+    },
+    {
+      "name": "The Verge",
+      "category": "科技",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "items": [
+        {
+          "title": "Synth historian Oli Freke will spend big on a good bicycle",
+          "link": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
+          "date": "2026-07-25T14:51:21+00:00"
+        },
+        {
+          "title": "Teenage Engineering’s unique music machines are 30 percent off",
+          "link": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
+          "date": "2026-07-24T17:42:46+00:00"
+        },
+        {
+          "title": "Warner Bros. is suing Amazon for poaching employees",
+          "link": "https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees",
+          "date": "2026-07-25T14:05:12+00:00"
+        },
+        {
+          "title": "Is this e-reader case a gun?",
+          "link": "https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun",
+          "date": "2026-07-23T20:56:07+00:00"
+        },
+        {
+          "title": "What Surrounds Us will make you think a lot about circles",
+          "link": "https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam",
+          "date": "2026-07-09T22:09:37+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Ars Technica",
+      "category": "科技",
+      "url": "https://feeds.arstechnica.com/arstechnica/index",
+      "items": [
+        {
+          "title": "With help from data, art museums are reframing the visitor experience",
+          "link": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
+          "date": "2026-07-25T11:00:32+00:00"
+        },
+        {
+          "title": "Big Tech accused of stonewalling European social media researchers",
+          "link": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
+          "date": "2026-07-25T10:45:32+00:00"
+        },
+        {
+          "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
+          "link": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
+          "date": "2026-07-24T22:28:20+00:00"
+        },
+        {
+          "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
+          "link": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
+          "date": "2026-07-24T21:56:02+00:00"
+        },
+        {
+          "title": "Canadian legislator reads out apparent LLM response in floor speech",
+          "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+          "date": "2026-07-24T21:25:15+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Hacker News",
+      "category": "开发",
+      "url": "https://hnrss.org/frontpage?count=10",
+      "items": [
+        {
+          "title": "Rauno's Field Notes #2",
+          "link": "https://rauno.me/notes/2",
+          "date": "2026-07-25T16:39:55+00:00"
+        },
+        {
+          "title": "Amen Break",
+          "link": "https://en.wikipedia.org/wiki/Amen_break",
+          "date": "2026-07-25T16:34:16+00:00"
+        },
+        {
+          "title": "Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer",
+          "link": "https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/",
+          "date": "2026-07-25T16:09:58+00:00"
+        },
+        {
+          "title": "Bringing PyTorch Monarch to AMD GPUs",
+          "link": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
+          "date": "2026-07-25T15:55:27+00:00"
+        },
+        {
+          "title": "The Dark Night of Mathematics",
+          "link": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
+          "date": "2026-07-25T15:54:59+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Lobsters",
+      "category": "开发",
+      "url": "https://lobste.rs/rss",
+      "items": [
+        {
+          "title": "A shell colon does nothing. Use it anyway",
+          "link": "https://refp.se/articles/your-shell-and-the-magic-colon",
+          "date": "2026-07-25T11:33:00+00:00"
+        },
+        {
+          "title": "stinkpot: sqlite-backed shell history",
+          "link": "https://tangled.org/oppi.li/stinkpot",
+          "date": "2026-07-25T09:10:12+00:00"
+        },
+        {
+          "title": "Chrome registers a global shortcut for Gemini popup window",
+          "link": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
+          "date": "2026-07-24T23:04:57+00:00"
+        },
+        {
+          "title": "We Are Not Special (2021)",
+          "link": "https://www.hillelwayne.com/post/we-are-not-special/",
+          "date": "2026-07-25T03:00:20+00:00"
+        },
+        {
+          "title": "Zig by Example",
+          "link": "https://zigbyexample.neocities.org/",
+          "date": "2026-07-25T12:58:43+00:00"
         }
       ]
     },
     {
       "name": "V2EX",
+      "category": "开发",
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[OpenAI] 最近用的中转又拉闸了，想自己搞一个号了",
-          "link": "https://www.v2ex.com/t/1229677#reply1",
-          "date": "2026-07-24T23:02:09+00:00"
+          "title": "[摄影] 猫猫探头！",
+          "link": "https://www.v2ex.com/t/1229808#reply1",
+          "date": "2026-07-25T16:09:34+00:00"
         },
         {
-          "title": "[VPS] ColoCrossing - Specials - 洛杉矶假日特惠补货",
-          "link": "https://www.v2ex.com/t/1229676#reply0",
-          "date": "2026-07-24T22:41:59+00:00"
+          "title": "[分享发现] 坏消息 openai 挂了,好消息中转站还能用",
+          "link": "https://www.v2ex.com/t/1229807#reply3",
+          "date": "2026-07-25T16:42:19+00:00"
         },
         {
-          "title": "[问与答] Qoder CN + qwen 8 max preview 还是差点意思",
-          "link": "https://www.v2ex.com/t/1229675#reply1",
-          "date": "2026-07-24T22:04:50+00:00"
+          "title": "[分享发现] 关于语言学习之词频",
+          "link": "https://www.v2ex.com/t/1229806#reply0",
+          "date": "2026-07-25T15:55:18+00:00"
         },
         {
-          "title": "[推广] Departures Connection —— 六端原生 App 的机场， iOS / 安卓 / macOS / Windows / Apple TV / Android TV",
-          "link": "https://www.v2ex.com/t/1229674#reply1",
-          "date": "2026-07-24T20:58:17+00:00"
+          "title": "[问与答] 大家日常的信息来源是什么",
+          "link": "https://www.v2ex.com/t/1229805#reply2",
+          "date": "2026-07-25T16:53:49+00:00"
         },
         {
-          "title": "[Wunder] 新功能：在每次回答末尾生成几个可点击的选项，方便用户继续对话",
-          "link": "https://www.v2ex.com/t/1229673#reply0",
-          "date": "2026-07-24T20:29:29+00:00"
-        },
-        {
-          "title": "[问与答] 有 27 寸便携式显示器可以接 mac 的 usbc 供电的吗？",
-          "link": "https://www.v2ex.com/t/1229672#reply2",
-          "date": "2026-07-24T20:08:20+00:00"
+          "title": "[问与答] 个人碎碎念",
+          "link": "https://www.v2ex.com/t/1229804#reply2",
+          "date": "2026-07-25T17:03:08+00:00"
         }
       ]
     },
     {
-      "name": "36 氪",
-      "url": "https://36kr.com/feed",
+      "name": "InfoQ 中文",
+      "category": "开发",
+      "url": "https://www.infoq.cn/feed",
       "items": [
         {
-          "title": "AnySearch 面向全球推出 “学生与开发者成长计划”",
-          "link": "https://36kr.com/p/3909565569324163?f=rss",
-          "date": ""
+          "title": "如何通过几行 Python 代码，使用BERT进行词嵌入？",
+          "link": "https://www.infoq.cn/article/QK7zfPgQPCmZyITumZNG?utm_source=rss&utm_medium=article",
+          "date": "2019-12-19T17:13:06+00:00"
         },
         {
-          "title": "氪星晚报 ｜黄仁勋力挺中国AI开源模型；市场监管总局：深入整治“内卷式”竞争",
-          "link": "https://36kr.com/p/3909160840451465?f=rss",
-          "date": ""
+          "title": "金融科技盛宴（三）：银行的移动端应用",
+          "link": "https://www.infoq.cn/article/TUoE8y6VxqCsBLfP2FFo?utm_source=rss&utm_medium=article",
+          "date": "2019-12-19T16:53:11+00:00"
         },
         {
-          "title": "你的下一位面试官，可能不是人",
-          "link": "https://36kr.com/p/3909499179767169?f=rss",
-          "date": ""
+          "title": "2019年终盘点：技术曲线再上升",
+          "link": "https://www.infoq.cn/article/BMV1dFLmyUTrkBkY2Tdt?utm_source=rss&utm_medium=article",
+          "date": "2019-12-19T15:50:22+00:00"
         },
         {
-          "title": "对话曾鸣教授：AI时代，企业竞争的关键是构建智能复利，让AI真正进入业务流程",
-          "link": "https://36kr.com/p/3909358392988806?f=rss",
-          "date": ""
+          "title": "Angular应用”老手“也未必掌握的十大实用特性",
+          "link": "https://www.infoq.cn/article/psaW3g989IC17RxCfkww?utm_source=rss&utm_medium=article",
+          "date": "2019-12-19T15:21:31+00:00"
         },
         {
-          "title": "DeepSeek不是理想主义公司，它只是把现实服务于理想",
-          "link": "https://36kr.com/p/3909084356433025?f=rss",
-          "date": ""
+          "title": "阿里巴巴架构再调整：鲁肃接棒行癫任CTO，孙权就任蚂蚁金服CEO",
+          "link": "https://www.infoq.cn/article/wogJJODkzi4whCqmSv92?utm_source=rss&utm_medium=article",
+          "date": "2019-12-19T15:05:42+00:00"
+        }
+      ]
+    },
+    {
+      "name": "GitHub Blog",
+      "category": "开发",
+      "url": "https://github.blog/feed/",
+      "items": [
+        {
+          "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
+          "link": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
+          "date": "2026-07-23T16:00:00+00:00"
         },
         {
-          "title": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！",
-          "link": "https://36kr.com/p/3909033052722310?f=rss",
-          "date": ""
+          "title": "Copilot vs. raw API access: What are you actually paying for?",
+          "link": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
+          "date": "2026-07-22T19:00:00+00:00"
+        },
+        {
+          "title": "Next chapter: Restructuring GitHub’s bug bounty program",
+          "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+          "date": "2026-07-22T16:00:00+00:00"
+        },
+        {
+          "title": "How to build interactive experiences with canvases",
+          "link": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/",
+          "date": "2026-07-21T16:00:00+00:00"
+        },
+        {
+          "title": "$100 million for open source: A milestone built by the community",
+          "link": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
+          "date": "2026-07-20T16:00:00+00:00"
         }
       ]
     },
     {
       "name": "阮一峰的网络日志",
+      "category": "开发",
       "url": "https://www.ruanyifeng.com/blog/atom.xml",
       "items": [
         {
           "title": "科技爱好者周刊（第 405 期）：资源，社会公平与算力",
           "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html",
-          "date": "2026-07-24T18:10:52+00:00"
+          "date": "2026-07-25T07:35:44+00:00"
         },
         {
           "title": "科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识",
@@ -201,6 +438,174 @@
           "date": "2026-07-17T06:30:39+00:00"
         }
       ]
+    },
+    {
+      "name": "酷壳",
+      "category": "开发",
+      "url": "https://coolshell.cn/feed",
+      "items": [
+        {
+          "title": "是微服务架构不香还是云不香？",
+          "link": "https://coolshell.cn/articles/22422.html",
+          "date": "2023-05-08T09:52:06+00:00"
+        },
+        {
+          "title": "我看ChatGPT: 为啥谷歌掉了千亿美金",
+          "link": "https://coolshell.cn/articles/22398.html",
+          "date": "2023-02-11T16:31:16+00:00"
+        },
+        {
+          "title": "聊聊 nostr 和 审查",
+          "link": "https://coolshell.cn/articles/22367.html",
+          "date": "2023-02-03T07:46:13+00:00"
+        },
+        {
+          "title": "感染新冠的经历",
+          "link": "https://coolshell.cn/articles/22341.html",
+          "date": "2022-12-13T07:39:39+00:00"
+        },
+        {
+          "title": "eBPF 介绍",
+          "link": "https://coolshell.cn/articles/22320.html",
+          "date": "2022-12-10T02:38:51+00:00"
+        }
+      ]
+    },
+    {
+      "name": "美团技术团队",
+      "category": "开发",
+      "url": "https://tech.meituan.com/feed/",
+      "items": [
+        {
+          "title": "正式开源！美团 LongCat-2.0 同步开放国产卡推理代码",
+          "link": "https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html",
+          "date": ""
+        },
+        {
+          "title": "直播回放·含 ACL&apos;26 杰出论文 | 美团 AI 顶会论文 32 篇精讲",
+          "link": "https://tech.meituan.com/2026/07/11/2026-meituan-32-papers.html",
+          "date": ""
+        },
+        {
+          "title": "美团 LongCat-2.0 正式发布：在国产算力集群上完成全流程训练与推理的万亿参数模型",
+          "link": "https://tech.meituan.com/2026/06/30/LongCat2.0.html",
+          "date": ""
+        },
+        {
+          "title": "ICML 2026 | 美团技术团队学术论文精选",
+          "link": "https://tech.meituan.com/2026/06/29/ICML-2026.html",
+          "date": ""
+        },
+        {
+          "title": "LongCat 开源 VitaBench 2.0：长期动态智能体基准新标杆",
+          "link": "https://tech.meituan.com/2026/06/29/LongCat-VitaBench-2.0.html",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "name": "量子位",
+      "category": "科研",
+      "url": "https://www.qbitai.com/feed",
+      "items": [
+        {
+          "title": "100%开源！吴恩达做了个个人桌面Agent",
+          "link": "https://www.qbitai.com/2026/07/460892.html",
+          "date": "2026-07-25T12:35:34+00:00"
+        },
+        {
+          "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+          "link": "https://www.qbitai.com/2026/07/460542.html",
+          "date": "2026-07-25T12:24:27+00:00"
+        },
+        {
+          "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+          "link": "https://www.qbitai.com/2026/07/460253.html",
+          "date": "2026-07-25T12:11:39+00:00"
+        },
+        {
+          "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+          "link": "https://www.qbitai.com/2026/07/460234.html",
+          "date": "2026-07-25T11:54:44+00:00"
+        },
+        {
+          "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
+          "link": "https://www.qbitai.com/2026/07/460186.html",
+          "date": "2026-07-25T11:07:25+00:00"
+        }
+      ]
+    },
+    {
+      "name": "MIT Technology Review",
+      "category": "科研",
+      "url": "https://www.technologyreview.com/feed/",
+      "items": [
+        {
+          "title": "The quest to keep organs alive outside the body",
+          "link": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+          "date": "2026-07-24T17:03:55+00:00"
+        },
+        {
+          "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+          "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+          "date": "2026-07-24T12:10:00+00:00"
+        },
+        {
+          "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
+          "link": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
+          "date": "2026-07-23T16:58:28+00:00"
+        },
+        {
+          "title": "The Download: energy transmission and US threats against Chinese AI",
+          "link": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
+          "date": "2026-07-23T12:10:00+00:00"
+        },
+        {
+          "title": "How AI helps scientists design the next generation of medicines",
+          "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+          "date": "2026-07-23T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "ScienceDaily",
+      "category": "科研",
+      "url": "https://www.sciencedaily.com/rss/all.xml",
+      "items": [
+        {
+          "title": "A daily fiber supplement reduced knee arthritis pain and improved strength",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260724061448.htm",
+          "date": "2026-07-25T10:01:05+00:00"
+        },
+        {
+          "title": "The Universe can outrun light without breaking Einstein’s rules",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
+          "date": "2026-07-25T13:17:03+00:00"
+        },
+        {
+          "title": "Oral GLP-1 drugs may quiet the brain’s food craving circuit",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260724061439.htm",
+          "date": "2026-07-25T11:34:04+00:00"
+        },
+        {
+          "title": "Scientists put the “recycling is a distraction” claim to the test",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260724061437.htm",
+          "date": "2026-07-25T14:00:35+00:00"
+        },
+        {
+          "title": "A single dose reversed autism-like symptoms in adult mice within hours",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260724061436.htm",
+          "date": "2026-07-25T15:09:37+00:00"
+        }
+      ]
     }
+  ],
+  "failed": [
+    "联合国新闻",
+    "虎嗅",
+    "极客公园",
+    "机器之心",
+    "Nature",
+    "arXiv cs.AI"
   ]
 }
