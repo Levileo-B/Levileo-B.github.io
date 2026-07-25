@@ -444,6 +444,59 @@ a:hover { text-decoration: underline; }
 .bgm__btn:hover { border-color: var(--accent); }
 .bgm.is-on .bgm__btn { border-color: var(--accent); background: var(--accent-soft); }
 
+.bgm__next {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 8px;
+  width: 30px;
+  height: 34px;
+  font-size: .8rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0;
+}
+.bgm__next:hover { border-color: var(--accent); color: var(--accent); }
+
+/* 正在播放：固定在左下角，兼作 CC 署名 */
+.bgm-now {
+  position: fixed;
+  left: 1rem;
+  bottom: 1rem;
+  z-index: 60;
+  max-width: min(340px, calc(100vw - 2rem));
+  display: flex;
+  align-items: center;
+  gap: .45rem;
+  padding: .45rem .75rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--surface) 92%, transparent);
+  backdrop-filter: blur(8px);
+  box-shadow: var(--shadow);
+  font-size: .78rem;
+}
+.bgm-now[hidden] { display: none; }
+.bgm-now__ico { color: var(--accent); flex-shrink: 0; }
+.bgm-now a {
+  color: var(--text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.bgm-now a:hover { color: var(--accent); }
+.bgm-now__lic {
+  color: var(--text-muted);
+  font-size: .68rem;
+  white-space: nowrap;
+  flex-shrink: 0;
+  padding-left: .35rem;
+  border-left: 1px solid var(--border);
+}
+@media (max-width: 560px) {
+  .bgm-now__lic { display: none; }
+}
+
 /* 音量条默认收起，开着或悬停时才展开，免得挤占导航栏 */
 .bgm__vol {
   width: 0;

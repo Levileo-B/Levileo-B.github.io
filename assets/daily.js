@@ -2,7 +2,8 @@
 (function () {
   var lcBox = document.getElementById('lc-body');
   var enBox = document.getElementById('en-body');
-  if (!lcBox && !enBox) return;
+  var vdBox = document.getElementById('video-body');
+  if (!lcBox && !enBox && !vdBox) return;
 
   function esc(s) {
     return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
@@ -61,6 +62,30 @@
       '</p>';
   }
 
+  function renderVideo(d) {
+    if (!d || !d.url) {
+      vdBox.innerHTML = '<p class="news__empty">今天的视频还没抓到。</p>';
+      return;
+    }
+    var who = [d.creator, d.year].filter(Boolean).join(' · ');
+    vdBox.innerHTML =
+      '<div class="video-wrap">' +
+        '<video controls preload="none" playsinline src="' + esc(d.url) + '">' +
+          '你的浏览器不支持内嵌视频。' +
+        '</video>' +
+      '</div>' +
+      '<h3 class="daily__title" style="margin-top:.75rem">' +
+        '<a href="' + esc(d.page) + '" target="_blank" rel="noopener noreferrer">' +
+          esc(d.title) + '</a>' +
+      '</h3>' +
+      (who ? '<p class="daily__sub">' + esc(who) + '</p>' : '') +
+      '<p class="daily__credit">' +
+        '来源：<a href="' + esc(d.page) + '" target="_blank" rel="noopener noreferrer">' +
+          esc(d.source) + '</a> · ' + esc(d.license) +
+        '　每天换一部，不点播放不消耗流量。' +
+      '</p>';
+  }
+
   fetch('data/daily.json', { cache: 'no-cache' })
     .then(function (r) {
       if (!r.ok) throw new Error('HTTP ' + r.status);
@@ -69,10 +94,12 @@
     .then(function (data) {
       if (lcBox) renderLeetCode(data.leetcode);
       if (enBox) renderEnglish(data.english);
+      if (vdBox) renderVideo(data.video);
     })
     .catch(function () {
       var msg = '<p class="news__empty">数据还没生成。等 GitHub Actions 跑过一次后就会有内容。</p>';
       if (lcBox) lcBox.innerHTML = msg;
       if (enBox) enBox.innerHTML = msg;
+      if (vdBox) vdBox.innerHTML = msg;
     });
 })();
