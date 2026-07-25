@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T21:17:50+00:00",
+  "updated": "2026-07-25T21:49:02+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -44,6 +44,11 @@
           "date": "2026-07-25T17:13:40+00:00"
         },
         {
+          "title": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
+          "link": "https://www.bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-25T21:33:00+00:00"
+        },
+        {
           "title": "Trump takes swipes at press during White House Correspondents' Dinner",
           "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-25T13:51:07+00:00"
@@ -57,11 +62,6 @@
           "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
           "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-25T06:34:40+00:00"
-        },
-        {
-          "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-          "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-25T00:06:53+00:00"
         }
       ]
     },
@@ -263,29 +263,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
-          "link": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
-          "date": "2026-07-25T19:30:24+00:00"
+          "title": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "link": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+          "date": "2026-07-25T21:18:06+00:00"
         },
         {
-          "title": "The growing vigilante movement to knock out Flock surveillance cameras",
-          "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras",
-          "date": "2026-07-25T19:02:17+00:00"
+          "title": "Multicast TV Distribution on My Home Network",
+          "link": "https://www.apalrd.net/posts/2026/isp_mcast/",
+          "date": "2026-07-25T20:55:12+00:00"
         },
         {
-          "title": "Tile's security is so bad it's a feature for stalkers",
-          "link": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
-          "date": "2026-07-25T18:18:42+00:00"
+          "title": "Fly.io CEO Kurt Mackey is stepping down",
+          "link": "https://fly.io/blog/kurt-scott-money-sprites/",
+          "date": "2026-07-25T20:43:11+00:00"
         },
         {
-          "title": "Memory Safety Absolutists",
-          "link": "https://itsallaboutthebit.com/memory-safety-absolutists/",
-          "date": "2026-07-25T18:08:52+00:00"
+          "title": "The new rules of context engineering for Claude 5 generation models",
+          "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "date": "2026-07-25T20:42:35+00:00"
         },
         {
-          "title": "Show HN: Brolly, a plain-text weather forecast site",
-          "link": "https://brolly.sh/forecast/RWFP2qW8",
-          "date": "2026-07-25T17:34:34+00:00"
+          "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
+          "link": "https://news.ycombinator.com/item?id=49051130",
+          "date": "2026-07-25T20:18:54+00:00"
         }
       ]
     },
@@ -315,9 +315,9 @@
           "date": "2026-07-24T23:04:57+00:00"
         },
         {
-          "title": "Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers",
-          "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-          "date": "2026-07-25T10:01:03+00:00"
+          "title": "Your harddrive is probably full",
+          "link": "https://www.marginalia.nu/log/a_139_hdd/",
+          "date": "2026-07-25T18:19:08+00:00"
         }
       ]
     },
@@ -348,7 +348,7 @@
         },
         {
           "title": "[Wunder] Pi Coding Agent",
-          "link": "https://www.v2ex.com/t/1229821#reply1",
+          "link": "https://www.v2ex.com/t/1229821#reply3",
           "date": "2026-07-25T20:27:41+00:00"
         }
       ]
@@ -568,6 +568,38 @@
       ]
     },
     {
+      "name": "Nature",
+      "category": "科研",
+      "url": "https://www.nature.com/nature.rss",
+      "items": [
+        {
+          "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
+          "link": "https://www.nature.com/articles/s41586-026-10911-y",
+          "date": "2026-07-24T00:00:00+00:00"
+        },
+        {
+          "title": "Personalized gene therapy relieves severe epilepsy in two boys",
+          "link": "https://www.nature.com/articles/d41586-026-02267-0",
+          "date": "2026-07-24T00:00:00+00:00"
+        },
+        {
+          "title": "Briefing Chat: Baby <i>T. rex</i> were killers from birth, suggest new fossils",
+          "link": "https://www.nature.com/articles/d41586-026-02338-2",
+          "date": "2026-07-24T00:00:00+00:00"
+        },
+        {
+          "title": "Bizarre CRISPR enzyme kills cancer cells by shredding their DNA",
+          "link": "https://www.nature.com/articles/d41586-026-02268-z",
+          "date": "2026-07-24T00:00:00+00:00"
+        },
+        {
+          "title": "White House rolls out AI funding — and signals a new era for US science",
+          "link": "https://www.nature.com/articles/d41586-026-02332-8",
+          "date": "2026-07-24T00:00:00+00:00"
+        }
+      ]
+    },
+    {
       "name": "ScienceDaily",
       "category": "科研",
       "url": "https://www.sciencedaily.com/rss/all.xml",
@@ -599,8 +631,5 @@
         }
       ]
     }
-  ],
-  "failed": [
-    "Nature"
   ]
 }
