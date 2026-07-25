@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>实时热点 · Levileo-B</title>
+<meta name="description" content="浏览器直连拉取的实时热榜：Hacker News、Reddit、GitHub 新星项目，以及各大热搜入口。">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔥</text></svg>">
+<link rel="stylesheet" href="../assets/style.css">
+<link rel="stylesheet" href="../assets/tools.css">
+<script>
+  try {
+    var t = localStorage.getItem('theme');
+    if (t === 'dark' || t === 'light') document.documentElement.setAttribute('data-theme', t);
+  } catch (e) {}
+</script>
+</head>
+<body>
+
+<a class="skip-link" href="#main">跳到主要内容</a>
+
+<header class="site-header">
+  <nav class="nav" aria-label="主导航">
+    <a class="nav__brand" href="../">← Levileo-B</a>
+    <ul class="nav__list">
+      <li><a href="../#news">每日热点</a></li>
+      <li><a href="../tools/">工具箱</a></li>
+      <li><a href="../games/">游戏</a></li>
+    </ul>
+    <button class="theme-toggle" type="button" aria-label="切换深色 / 浅色模式">
+      <span class="theme-toggle__icon" aria-hidden="true">◐</span>
+    </button>
+  </nav>
+</header>
+
+<main id="main" class="tool tool--wide">
+
+  <div class="tool__head">
+    <h1 class="tool__title">实时热点</h1>
+    <p class="tool__sub">
+      打开即拉取，不是定时快照。首页那个「每日热点」是 Actions 抓好的，这里是浏览器直连。
+    </p>
+  </div>
+
+  <div class="hot-bar">
+    <button class="btn btn--primary" type="button" id="refresh">刷新</button>
+    <label class="hot-auto">
+      <input type="checkbox" id="auto" checked> 每 5 分钟自动刷新
+    </label>
+    <span class="hot-stamp" id="stamp"></span>
+  </div>
+
+  <div class="hot-grid" id="live"></div>
+
+  <section class="section" id="portals" style="padding-left:0;padding-right:0">
+    <h2 class="section__title">热搜入口</h2>
+    <div class="card">
+      <p class="news__foot" style="margin:0 0 1rem;padding:0;border:0">
+        下面这些站点的热榜接口不开放跨域，静态页面拉不到内容，只能直接跳转过去看。
+      </p>
+
+      <div class="link-group">
+        <h3 class="link-group__title">中文热榜</h3>
+        <ul class="link-grid">
+          <li><a href="https://s.weibo.com/top/summary" target="_blank" rel="noopener"><strong>微博热搜</strong><span>实时热搜榜</span></a></li>
+          <li><a href="https://www.zhihu.com/hot" target="_blank" rel="noopener"><strong>知乎热榜</strong><span>热门讨论</span></a></li>
+          <li><a href="https://top.baidu.com/board" target="_blank" rel="noopener"><strong>百度热搜</strong><span>搜索风云榜</span></a></li>
+          <li><a href="https://www.douyin.com/hot" target="_blank" rel="noopener"><strong>抖音热点</strong><span>短视频热榜</span></a></li>
+          <li><a href="https://www.bilibili.com/v/popular/rank/all" target="_blank" rel="noopener"><strong>B 站排行榜</strong><span>全站排行</span></a></li>
+          <li><a href="https://tophub.today" target="_blank" rel="noopener"><strong>今日热榜</strong><span>各平台聚合</span></a></li>
+          <li><a href="https://www.36kr.com/hot-list/catalog" target="_blank" rel="noopener"><strong>36 氪热榜</strong><span>创投科技</span></a></li>
+          <li><a href="https://www.v2ex.com/?tab=hot" target="_blank" rel="noopener"><strong>V2EX 最热</strong><span>开发者社区</span></a></li>
+        </ul>
+      </div>
+
+      <div class="link-group">
+        <h3 class="link-group__title">英文与开发</h3>
+        <ul class="link-grid">
+          <li><a href="https://news.ycombinator.com" target="_blank" rel="noopener"><strong>Hacker News</strong><span>科技社区</span></a></li>
+          <li><a href="https://github.com/trending" target="_blank" rel="noopener"><strong>GitHub Trending</strong><span>官方趋势榜</span></a></li>
+          <li><a href="https://www.reddit.com/r/popular/" target="_blank" rel="noopener"><strong>Reddit Popular</strong><span>全站热门</span></a></li>
+          <li><a href="https://lobste.rs" target="_blank" rel="noopener"><strong>Lobsters</strong><span>技术聚合</span></a></li>
+          <li><a href="https://producthunt.com" target="_blank" rel="noopener"><strong>Product Hunt</strong><span>新产品榜</span></a></li>
+          <li><a href="https://trends.google.com/trending" target="_blank" rel="noopener"><strong>Google Trends</strong><span>搜索趋势</span></a></li>
+          <li><a href="https://huggingface.co/models?sort=trending" target="_blank" rel="noopener"><strong>HF Trending</strong><span>热门模型</span></a></li>
+          <li><a href="https://paperswithcode.com/" target="_blank" rel="noopener"><strong>Papers with Code</strong><span>热门论文</span></a></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <p>© <span id="year">2026</span> Levileo-B · 由 GitHub Pages 托管</p>
+</footer>
+
+<script src="../assets/main.js"></script>
+<script src="parse.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

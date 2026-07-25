@@ -35,6 +35,7 @@
     <a class="nav__brand" href="#top">Levileo-B</a>
     <ul class="nav__list">
       <li><a href="#news">热点</a></li>
+      <li><a href="hot/">实时</a></li>
       <li><a href="#tools">工具</a></li>
       <li><a href="#projects">项目</a></li>
       <li><a href="games/">游戏</a></li>
@@ -70,14 +71,14 @@
   <section class="section" id="news">
     <div class="section__bar">
       <h2 class="section__title">每日热点</h2>
-      <span class="news__stamp" id="news-updated"></span>
+      <span class="news__stamp"><span id="news-updated"></span>　<a href="hot/">实时热点 →</a></span>
     </div>
     <div class="card">
       <div class="news" id="news-body">
         <p class="news__empty">正在加载新闻…</p>
       </div>
       <p class="news__foot">
-        由 GitHub Actions 每天自动抓取多个 RSS 源生成，内容与观点均来自各原始站点。
+        由 GitHub Actions 每 3 小时抓取 25 个 RSS 源生成，内容与观点均来自各原始站点。想看当下的榜单，去<a href="hot/">实时热点</a>。
       </p>
     </div>
   </section>

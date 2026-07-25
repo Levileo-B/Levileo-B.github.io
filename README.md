@@ -11,7 +11,8 @@
 - 自动跟随系统深色模式，也可手动切换（选择会被记住）
 - 基础无障碍支持：跳转链接、语义化标签、键盘焦点样式
 - 自定义 404 页面
-- **每日热点窗格**：GitHub Actions 每天自动抓取多个 RSS 源
+- **热点窗格**：GitHub Actions 每 3 小时抓取 25 个 RSS 源，按分类聚合
+- **实时热点页**：浏览器直连拉取 HN / GitHub / Reddit 榜单，另附各大热搜入口
 - **小游戏**：2048、贪吃蛇、QWOP 式跑步模拟，纯前端实现，支持键盘与触屏
 - **工具箱**：视频链接解析（含一键下载）、论文检索、域名分析、博客编辑器，
   以及 30 个常用工具站点入口
@@ -35,6 +36,10 @@
 │   │   └── game.js         # 界面层：渲染 / 输入 / 存档
 │   ├── snake/              # 贪吃蛇
 │   └── qwop/               # QWOP 式跑步（Verlet 布娃娃物理）
+├── hot/
+│   ├── index.html          # 实时热点（浏览器直连）
+│   ├── parse.js            # 三个接口的响应整形（可单测）
+│   └── app.js              # 界面层
 ├── tools/
 │   ├── index.html          # 工具箱 + 常用网站清单
 │   ├── video/
@@ -53,21 +58,28 @@
 ├── scripts/
 │   └── fetch_news.py       # RSS 抓取脚本（仅标准库）
 └── .github/workflows/
-    └── update-news.yml     # 每日定时任务
+    └── update-news.yml     # 每 3 小时定时任务
 ```
 
-## 每日热点是怎么工作的
+## 两套热点有什么区别
 
-静态站点没有后端，所以新闻不是浏览器直接去抓的（会遇到 CORS 和 API key 问题），而是：
+**首页的「每日热点」是定时快照。** 绝大多数 RSS 源不开放跨域，浏览器直接抓会被拦，
+所以走 Actions 在服务端抓好再落地成静态文件：
 
-1. `.github/workflows/update-news.yml` 每天 UTC 22:00（北京时间次日 06:00）触发
-2. `scripts/fetch_news.py` 抓取 RSS 源，解析后写入 `data/news.json`
+1. `.github/workflows/update-news.yml` 每 3 小时触发一次
+2. `scripts/fetch_news.py` 并发抓取 25 个源（8 线程），写入 `data/news.json`
 3. 有变化就自动 commit 回仓库，Pages 随之更新
-4. 首页的 `assets/news.js` 只是读取这个静态 JSON 并渲染
+4. 首页 `assets/news.js` 读取这个静态 JSON，按 `category` 分类聚合后渲染
 
-**换新闻源**：编辑 `scripts/fetch_news.py` 顶部的 `FEEDS` 列表即可，`name` 是页面上显示的分组名。单个源失败不影响其他源，失败原因会写在 Actions 日志里。
+**`/hot/` 的「实时热点」是打开即拉。** 只收录那些开放 CORS 且不需要 API key 的接口，
+所以能在浏览器里直连：Hacker News（Firebase API）、GitHub（搜索 API 取近 7 天新星项目）、
+Reddit（`r/popular` 的 `.json`）。支持手动刷新与每 5 分钟自动刷新。
+微博、知乎、百度这些热榜接口不开放跨域，拉不到内容，所以只以链接入口的形式给出。
 
-**想立刻更新一次**：仓库 → Actions → 「更新每日热点」→ Run workflow。
+**换新闻源**：编辑 `scripts/fetch_news.py` 顶部的 `FEEDS`，每项含 `name`、`category`、`url`。
+`category` 决定它归到首页哪一栏。单个源失败不影响其他源，失败原因写在 Actions 日志里。
+
+**想立刻更新一次**：仓库 → Actions → 「更新热点」→ Run workflow。
 
 > 注意：定时任务需要仓库的 Actions 有写权限。若 push 步骤报 403，去 Settings → Actions → General → Workflow permissions，选 `Read and write permissions`。
 

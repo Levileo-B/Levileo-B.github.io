@@ -7,6 +7,7 @@
 - 全部源都失败时不覆盖旧文件，直接非零退出，避免把页面刷成空的
 """
 
+import concurrent.futures as cf
 import datetime
 import json
 import os
@@ -17,18 +18,46 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 
-# 想增删新闻源，改这个列表就行。name 是页面上显示的分组标题。
+# 想增删新闻源，改这个列表就行。
+# name 是条目上显示的来源名，category 决定它归到页面上哪一栏。
+# 某个源挂掉不影响其他源，失败原因会打在 Actions 日志里。
 FEEDS = [
-    {"name": "BBC 中文", "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml"},
-    {"name": "Hacker News", "url": "https://hnrss.org/frontpage?count=10"},
-    {"name": "少数派", "url": "https://sspai.com/feed"},
-    {"name": "V2EX", "url": "https://www.v2ex.com/index.xml"},
-    {"name": "36 氪", "url": "https://36kr.com/feed"},
-    {"name": "阮一峰的网络日志", "url": "https://www.ruanyifeng.com/blog/atom.xml"},
+    # ---- 综合 ----
+    {"name": "BBC 中文", "category": "综合", "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml"},
+    {"name": "BBC World", "category": "综合", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
+    {"name": "联合国新闻", "category": "综合", "url": "https://news.un.org/zh/feed/subscribe/zh/news/all/rss.xml"},
+
+    # ---- 科技 ----
+    {"name": "36 氪", "category": "科技", "url": "https://36kr.com/feed"},
+    {"name": "少数派", "category": "科技", "url": "https://sspai.com/feed"},
+    {"name": "爱范儿", "category": "科技", "url": "https://www.ifanr.com/feed"},
+    {"name": "虎嗅", "category": "科技", "url": "https://www.huxiu.com/rss/0.xml"},
+    {"name": "极客公园", "category": "科技", "url": "https://www.geekpark.net/rss"},
+    {"name": "Solidot", "category": "科技", "url": "https://www.solidot.org/index.rss"},
+    {"name": "The Verge", "category": "科技", "url": "https://www.theverge.com/rss/index.xml"},
+    {"name": "Ars Technica", "category": "科技", "url": "https://feeds.arstechnica.com/arstechnica/index"},
+
+    # ---- 开发 ----
+    {"name": "Hacker News", "category": "开发", "url": "https://hnrss.org/frontpage?count=10"},
+    {"name": "Lobsters", "category": "开发", "url": "https://lobste.rs/rss"},
+    {"name": "V2EX", "category": "开发", "url": "https://www.v2ex.com/index.xml"},
+    {"name": "InfoQ 中文", "category": "开发", "url": "https://www.infoq.cn/feed"},
+    {"name": "GitHub Blog", "category": "开发", "url": "https://github.blog/feed/"},
+    {"name": "阮一峰的网络日志", "category": "开发", "url": "https://www.ruanyifeng.com/blog/atom.xml"},
+    {"name": "酷壳", "category": "开发", "url": "https://coolshell.cn/feed"},
+    {"name": "美团技术团队", "category": "开发", "url": "https://tech.meituan.com/feed/"},
+
+    # ---- 科研 / AI ----
+    {"name": "机器之心", "category": "科研", "url": "https://www.jiqizhixin.com/rss"},
+    {"name": "量子位", "category": "科研", "url": "https://www.qbitai.com/feed"},
+    {"name": "MIT Technology Review", "category": "科研", "url": "https://www.technologyreview.com/feed/"},
+    {"name": "Nature", "category": "科研", "url": "https://www.nature.com/nature.rss"},
+    {"name": "ScienceDaily", "category": "科研", "url": "https://www.sciencedaily.com/rss/all.xml"},
+    {"name": "arXiv cs.AI", "category": "科研", "url": "https://rss.arxiv.org/rss/cs.AI"},
 ]
 
-PER_FEED = 6          # 每个源最多保留几条
-TIMEOUT = 20          # 秒
+PER_FEED = 5          # 每个源最多保留几条
+TIMEOUT = 15          # 秒
 ATOM = "{http://www.w3.org/2005/Atom}"
 UA = "Mozilla/5.0 (compatible; LevileoBot/1.0; +https://levileo-b.github.io/)"
 
@@ -115,20 +144,36 @@ def parse(raw: bytes):
     return [i for i in items if i["title"] and i["link"].startswith("http")]
 
 
+def load_one(feed: dict) -> dict:
+    """抓一个源。异常不外抛，塞进返回值里由调用方统一汇报。"""
+    try:
+        items = parse(fetch(feed["url"]))[:PER_FEED]
+        if not items:
+            raise ValueError("解析成功但没有条目")
+        return {
+            "name": feed["name"],
+            "category": feed.get("category", "其他"),
+            "url": feed["url"],
+            "items": items,
+        }
+    except Exception as exc:  # 网络错误、XML 畸形、结构不符都在这里兜住
+        return {"name": feed["name"], "error": f"{type(exc).__name__}: {exc}"}
+
+
 def main() -> int:
     sources, failed = [], []
 
-    for feed in FEEDS:
-        name, url = feed["name"], feed["url"]
-        try:
-            items = parse(fetch(url))[:PER_FEED]
-            if not items:
-                raise ValueError("解析成功但没有条目")
-            sources.append({"name": name, "url": url, "items": items})
-            print(f"[ok]   {name}: {len(items)} 条")
-        except Exception as exc:  # 网络错误、XML 畸形、结构不符都在这里兜住
-            failed.append(name)
-            print(f"[fail] {name}: {type(exc).__name__}: {exc}", file=sys.stderr)
+    # 源多了以后串行抓太慢（单个超时 20s × 25 个），并发跑
+    with cf.ThreadPoolExecutor(max_workers=8) as pool:
+        results = list(pool.map(load_one, FEEDS))
+
+    for res in results:
+        if "error" in res:
+            failed.append(res["name"])
+            print(f"[fail] {res['name']}: {res['error']}", file=sys.stderr)
+        else:
+            sources.append(res)
+            print(f"[ok]   {res['name']}（{res['category']}）: {len(res['items'])} 条")
 
     if not sources:
         print("所有新闻源都失败了，保留上一次的 data/news.json 不覆盖。", file=sys.stderr)

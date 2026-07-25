@@ -337,6 +337,15 @@ a:hover { text-decoration: underline; }
 }
 .news__item a:hover { color: var(--accent); text-decoration: none; }
 
+.news__line { display: flex; align-items: baseline; gap: .5rem; }
+.news__src {
+  font-size: .72rem;
+  color: var(--accent);
+  background: var(--accent-soft);
+  padding: 0 .4rem;
+  border-radius: 999px;
+  white-space: nowrap;
+}
 .news__time { font-size: .74rem; color: var(--text-muted); }
 
 .news__stamp { font-size: .8rem; color: var(--text-muted); }

@@ -1,9 +1,9 @@
-name: 更新每日热点
+name: 更新热点
 
 on:
   schedule:
-    # UTC 22:00 = 北京时间次日 06:00
-    - cron: '0 22 * * *'
+    # 每 3 小时抓一次；源多了以后一天一次太陈旧
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 
 permissions:
@@ -34,6 +34,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "内容无变化，跳过提交。"
           else
-            git commit -m "chore: 更新每日热点 $(date -u +%Y-%m-%d)"
+            git commit -m "chore: 更新热点 $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
           fi

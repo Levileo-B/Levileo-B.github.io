@@ -201,6 +201,74 @@
 
 .spinner { color: var(--text-muted); font-size: .9rem; }
 
+/* ---------- 实时热点 ---------- */
+.hot-bar {
+  display: flex;
+  align-items: center;
+  gap: .9rem;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+}
+.hot-auto { font-size: .85rem; color: var(--text-muted); display: flex; align-items: center; gap: .35rem; }
+.hot-stamp { font-size: .8rem; color: var(--text-muted); margin-left: auto; }
+
+.hot-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.25rem;
+  align-items: start;
+}
+
+.hot-panel {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  padding: 1rem 1.1rem 1.1rem;
+  box-shadow: var(--shadow);
+}
+.hot-panel__head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: .6rem;
+  padding-bottom: .6rem;
+  margin-bottom: .5rem;
+  border-bottom: 1px solid var(--border);
+}
+.hot-panel__title { margin: 0; font-size: 1rem; }
+.hot-panel__more { font-size: .74rem; color: var(--text-muted); white-space: nowrap; }
+.hot-panel__more:hover { color: var(--accent); text-decoration: none; }
+
+.hot-list { list-style: none; margin: 0; padding: 0; counter-reset: hot; }
+
+.hot-item { display: flex; gap: .6rem; padding: .5rem 0; }
+.hot-item + .hot-item { border-top: 1px dashed var(--border); }
+.hot-item__rank {
+  flex: 0 0 1.4rem;
+  font-size: .78rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  font-variant-numeric: tabular-nums;
+  padding-top: .1rem;
+}
+.hot-item:nth-child(-n+3) .hot-item__rank { color: var(--accent); }
+.hot-item__body { min-width: 0; flex: 1; }
+.hot-item__body > a { font-size: .9rem; line-height: 1.5; color: var(--text); }
+.hot-item__body > a:hover { color: var(--accent); text-decoration: none; }
+.hot-item__desc {
+  margin: .2rem 0 0;
+  font-size: .78rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.hot-item__meta { margin-top: .22rem; font-size: .72rem; color: var(--text-muted); }
+.hot-item__meta a { color: var(--text-muted); }
+.hot-item__meta a:hover { color: var(--accent); }
+
 /* ---------- 博客编辑器 ---------- */
 .tool--wide { max-width: 1100px; }
 
