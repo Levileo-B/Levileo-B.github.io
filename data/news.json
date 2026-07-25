@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T17:09:37+00:00",
+  "updated": "2026-07-25T17:12:20+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,6 +39,11 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "More than 250,000 flee wildfires in France and Spain",
+          "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-25T16:43:10+00:00"
+        },
+        {
           "title": "Trump takes swipes at press during White House Correspondents' Dinner",
           "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-25T13:51:07+00:00"
@@ -57,11 +62,6 @@
           "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
           "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-24T23:01:06+00:00"
-        },
-        {
-          "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-          "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-24T22:49:59+00:00"
         }
       ]
     },
@@ -329,27 +329,27 @@
         {
           "title": "[摄影] 猫猫探头！",
           "link": "https://www.v2ex.com/t/1229808#reply1",
-          "date": "2026-07-25T16:09:34+00:00"
+          "date": "2026-07-25T16:09:06+00:00"
         },
         {
           "title": "[分享发现] 坏消息 openai 挂了,好消息中转站还能用",
           "link": "https://www.v2ex.com/t/1229807#reply3",
-          "date": "2026-07-25T16:42:19+00:00"
+          "date": "2026-07-25T16:05:51+00:00"
         },
         {
           "title": "[分享发现] 关于语言学习之词频",
           "link": "https://www.v2ex.com/t/1229806#reply0",
-          "date": "2026-07-25T15:55:18+00:00"
+          "date": "2026-07-25T15:56:18+00:00"
         },
         {
           "title": "[问与答] 大家日常的信息来源是什么",
           "link": "https://www.v2ex.com/t/1229805#reply2",
-          "date": "2026-07-25T16:53:49+00:00"
+          "date": "2026-07-25T15:51:34+00:00"
         },
         {
           "title": "[问与答] 个人碎碎念",
           "link": "https://www.v2ex.com/t/1229804#reply2",
-          "date": "2026-07-25T17:03:08+00:00"
+          "date": "2026-07-25T15:17:34+00:00"
         }
       ]
     },
@@ -425,17 +425,17 @@
         {
           "title": "科技爱好者周刊（第 405 期）：资源，社会公平与算力",
           "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html",
-          "date": "2026-07-25T07:35:44+00:00"
+          "date": "2026-07-24T00:12:16+00:00"
         },
         {
           "title": "科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识",
           "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html",
-          "date": "2026-07-23T07:16:06+00:00"
+          "date": "2026-07-16T23:51:19+00:00"
         },
         {
           "title": "科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功",
           "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html",
-          "date": "2026-07-17T06:30:39+00:00"
+          "date": "2026-07-10T00:05:31+00:00"
         }
       ]
     },
@@ -568,6 +568,38 @@
       ]
     },
     {
+      "name": "Nature",
+      "category": "科研",
+      "url": "https://www.nature.com/nature.rss",
+      "items": [
+        {
+          "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
+          "link": "https://www.nature.com/articles/s41586-026-10911-y",
+          "date": "2026-07-24T00:00:00+00:00"
+        },
+        {
+          "title": "Personalized gene therapy relieves severe epilepsy in two boys",
+          "link": "https://www.nature.com/articles/d41586-026-02267-0",
+          "date": "2026-07-24T00:00:00+00:00"
+        },
+        {
+          "title": "Briefing Chat: Baby <i>T. rex</i> were killers from birth, suggest new fossils",
+          "link": "https://www.nature.com/articles/d41586-026-02338-2",
+          "date": "2026-07-24T00:00:00+00:00"
+        },
+        {
+          "title": "Bizarre CRISPR enzyme kills cancer cells by shredding their DNA",
+          "link": "https://www.nature.com/articles/d41586-026-02268-z",
+          "date": "2026-07-24T00:00:00+00:00"
+        },
+        {
+          "title": "White House rolls out AI funding — and signals a new era for US science",
+          "link": "https://www.nature.com/articles/d41586-026-02332-8",
+          "date": "2026-07-24T00:00:00+00:00"
+        }
+      ]
+    },
+    {
       "name": "ScienceDaily",
       "category": "科研",
       "url": "https://www.sciencedaily.com/rss/all.xml",
@@ -602,10 +634,7 @@
   ],
   "failed": [
     "联合国新闻",
-    "虎嗅",
-    "极客公园",
     "机器之心",
-    "Nature",
     "arXiv cs.AI"
   ]
 }
