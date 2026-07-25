@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T21:11:46+00:00",
+  "updated": "2026-07-25T21:17:50+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -568,38 +568,6 @@
       ]
     },
     {
-      "name": "Nature",
-      "category": "科研",
-      "url": "https://www.nature.com/nature.rss",
-      "items": [
-        {
-          "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
-          "link": "https://www.nature.com/articles/s41586-026-10911-y",
-          "date": "2026-07-24T00:00:00+00:00"
-        },
-        {
-          "title": "Personalized gene therapy relieves severe epilepsy in two boys",
-          "link": "https://www.nature.com/articles/d41586-026-02267-0",
-          "date": "2026-07-24T00:00:00+00:00"
-        },
-        {
-          "title": "Briefing Chat: Baby <i>T. rex</i> were killers from birth, suggest new fossils",
-          "link": "https://www.nature.com/articles/d41586-026-02338-2",
-          "date": "2026-07-24T00:00:00+00:00"
-        },
-        {
-          "title": "Bizarre CRISPR enzyme kills cancer cells by shredding their DNA",
-          "link": "https://www.nature.com/articles/d41586-026-02268-z",
-          "date": "2026-07-24T00:00:00+00:00"
-        },
-        {
-          "title": "White House rolls out AI funding — and signals a new era for US science",
-          "link": "https://www.nature.com/articles/d41586-026-02332-8",
-          "date": "2026-07-24T00:00:00+00:00"
-        }
-      ]
-    },
-    {
       "name": "ScienceDaily",
       "category": "科研",
       "url": "https://www.sciencedaily.com/rss/all.xml",
@@ -631,5 +599,8 @@
         }
       ]
     }
+  ],
+  "failed": [
+    "Nature"
   ]
 }

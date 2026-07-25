@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T21:12:12+00:00",
+  "updated": "2026-07-25T21:18:14+00:00",
   "regions": {
     "SG": {
       "name": "新加坡",
@@ -170,6 +170,12 @@
       "name": "中国台湾",
       "items": [
         {
+          "title": "俄擬徵3萬北韓兵參戰　澤倫斯基：烏克蘭將回應威脅",
+          "link": "https://www.cna.com.tw/news/aopl/202607260005.aspx",
+          "date": "2026-07-25T19:15:08+00:00",
+          "source": "中央社"
+        },
+        {
           "title": "路透：美官員欲質疑巴西大選公正性　簽證申請遭拒",
           "link": "https://www.cna.com.tw/news/aopl/202607260004.aspx",
           "date": "2026-07-25T18:50:06+00:00",
@@ -192,18 +198,18 @@
           "link": "https://www.cna.com.tw/news/aopl/202607250219.aspx",
           "date": "2026-07-25T14:21:43+00:00",
           "source": "中央社"
-        },
-        {
-          "title": "伊朗革命衛隊：攔截4艘欲通過荷莫茲海峽船隻",
-          "link": "https://www.cna.com.tw/news/aopl/202607250213.aspx",
-          "date": "2026-07-25T14:04:30+00:00",
-          "source": "中央社"
         }
       ]
     },
     "JP": {
       "name": "日本",
       "items": [
+        {
+          "title": "トランプ大統領がイラン攻撃しないよう指示か 米報道",
+          "link": "http://www3.nhk.or.jp/news/html/20260726/k10015186111000.html",
+          "date": "2026-07-25T21:11:07+00:00",
+          "source": "NHK"
+        },
         {
           "title": "「超新星背景ニュートリノ」の存在示す“兆候”初めて捉えたか",
           "link": "http://www3.nhk.or.jp/news/html/20260726/k10015186081000.html",
@@ -233,12 +239,6 @@
           "link": "https://www.japantimes.co.jp/culture/2026/07/25/books/studio-ghibli-books-adaptation/",
           "date": "2026-07-25T13:35:00+00:00",
           "source": "Japan Times"
-        },
-        {
-          "title": "山梨で猛烈な雨 新潟や東北でも大雨のおそれ",
-          "link": "http://www3.nhk.or.jp/news/html/20260725/k10015186061000.html",
-          "date": "2026-07-25T12:58:26+00:00",
-          "source": "NHK"
         },
         {
           "title": "The bittersweet nostalgia of the first season of ‘Vivant’",
@@ -301,19 +301,90 @@
         }
       ]
     },
+    "MY": {
+      "name": "马来西亚",
+      "items": [
+        {
+          "title": "Malaysia a homeland and not a place of transit, says Azalina",
+          "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/26/malaysia-a-homeland-and-not-a-place-of-transit-says-azalina",
+          "date": "2026-07-25T16:11:00+00:00",
+          "source": "Free Malaysia Today"
+        },
+        {
+          "title": "Sanusi bebas untuk berkempen di NS, kata Samsuri",
+          "link": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/07/25/sanusi-bebas-untuk-berkempen-di-ns-kata-samsuri",
+          "date": "2026-07-25T15:59:00+00:00",
+          "source": "Free Malaysia Today"
+        },
+        {
+          "title": "Samsuri leaves door open for Sanusi to campaign in Negeri Sembilan",
+          "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/25/samsuri-leaves-door-open-for-sanusi-to-campaign-in-negeri-sembilan",
+          "date": "2026-07-25T15:57:00+00:00",
+          "source": "Free Malaysia Today"
+        },
+        {
+          "title": "Kerajaan tak ada bincang PRU16 hujung tahun, kata Fahmi",
+          "link": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/07/25/kerajaan-tak-ada-bincang-pru16-hujung-tahun-kata-fahmi",
+          "date": "2026-07-25T15:45:00+00:00",
+          "source": "Free Malaysia Today"
+        },
+        {
+          "title": "Felda second-home policy to be settled ‘within a month’",
+          "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/25/felda-second-home-policy-to-be-settled-within-a-month",
+          "date": "2026-07-25T15:37:00+00:00",
+          "source": "Free Malaysia Today"
+        },
+        {
+          "title": "Australia pub manager loses licence after patron’s 21‑drink boozy binge and street collapse",
+          "link": "https://www.malaymail.com/news/world/2026/07/25/australia-pub-manager-loses-licence-after-patrons-21drink-boozy-binge-and-street-collapse/228927",
+          "date": "2026-07-25T13:00:00+00:00",
+          "source": "Malay Mail"
+        },
+        {
+          "title": "US measles outbreak is worst in 35 years as cases surge past 2,300, official data shows",
+          "link": "https://www.malaymail.com/news/world/2026/07/25/us-measles-outbreak-is-worst-in-35-years-as-cases-surge-past-2300-official-data-shows/228928",
+          "date": "2026-07-25T13:00:00+00:00",
+          "source": "Malay Mail"
+        },
+        {
+          "title": "Major Nasa site in Spain hit by wildfire, disrupting communications with space probes",
+          "link": "https://www.malaymail.com/news/life/2026/07/25/major-nasa-site-in-spain-hit-by-wildfire-disrupting-communications-with-space-probes/228931",
+          "date": "2026-07-25T13:00:00+00:00",
+          "source": "Malay Mail"
+        },
+        {
+          "title": "Akademi Fantasia Season 5 winner Mila Jirin makes music comeback with new single ‘Tersimpan Dalam Hati’",
+          "link": "https://www.malaymail.com/news/showbiz/2026/07/25/akademi-fantasia-season-5-winner-mila-jirin-makes-music-comeback-with-new-single-tersimpan-dalam-hati/228929",
+          "date": "2026-07-25T13:00:00+00:00",
+          "source": "Malay Mail"
+        },
+        {
+          "title": "​​​​​​​Three secondary school students in Ampang detained over bullying incident",
+          "link": "https://www.malaymail.com/news/malaysia/2026/07/25/three-secondary-school-students-in-ampang-detained-over-bullying-incident/228965",
+          "date": "2026-07-25T12:06:42+00:00",
+          "source": "Malay Mail"
+        }
+      ]
+    },
     "IN": {
       "name": "印度",
       "items": [
         {
-          "title": "Not security concerns, but erosion of political capital of the ruling party led to Pradhan’s resignation",
-          "link": "https://www.thehindu.com/news/national/not-security-concerns-but-erosion-of-political-capital-of-the-ruling-party-led-to-pradhans-resignation/article71267344.ece",
-          "date": "2026-07-25T20:25:06+00:00",
+          "title": "West Bengal Assembly passes Bill depriving panchayat pradhans of financial powers",
+          "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-assembly-passes-bill-depriving-panchayat-pradhans-of-financial-powers/article71267136.ece",
+          "date": "2026-07-25T21:09:22+00:00",
           "source": "The Hindu"
         },
         {
-          "title": "West Bengal Assembly passes Bill depriving panchayat pradhans of financial powers",
-          "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-assembly-passes-bill-depriving-panchayat-pradhans-of-financial-powers/article71267136.ece",
-          "date": "2026-07-25T20:23:04+00:00",
+          "title": "Youth have reclaimed Gandhi’s idea of India: Mehbooba Mufti",
+          "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/youth-have-reclaimed-gandhis-idea-of-india-mehbooba-mufti/article71266893.ece",
+          "date": "2026-07-25T21:03:03+00:00",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Not security concerns, but erosion of political capital of the ruling party led to Pradhan’s resignation",
+          "link": "https://www.thehindu.com/news/national/not-security-concerns-but-erosion-of-political-capital-of-the-ruling-party-led-to-pradhans-resignation/article71267344.ece",
+          "date": "2026-07-25T20:25:06+00:00",
           "source": "The Hindu"
         },
         {
@@ -326,12 +397,6 @@
           "title": "Drivers in Kerala’s Kochi demand well-maintained washrooms, common resting spaces at hotels, resorts",
           "link": "https://www.thehindu.com/news/national/kerala/drivers-in-keralas-kochi-demand-well-maintained-washrooms-common-resting-spaces-at-hotels-resorts/article71266960.ece",
           "date": "2026-07-25T19:53:10+00:00",
-          "source": "The Hindu"
-        },
-        {
-          "title": "Parties, youth forums in Kerala’s Kochi cheer Delhi protest victory",
-          "link": "https://www.thehindu.com/news/national/kerala/political-forums-students-celebrate-victory-of-student-protests-in-delhi-as-union-minister-steps-down/article71267041.ece",
-          "date": "2026-07-25T19:48:12+00:00",
           "source": "The Hindu"
         },
         {
@@ -506,7 +571,7 @@
           "source": "ABC News"
         },
         {
-          "title": "'RFK Jr spillover effect' seeing less newborn babies getting crucial vitamin K",
+          "title": "'RFK Jr spillover effect' seeing fewer newborns get crucial vitamin K",
           "link": "https://www.abc.net.au/news/2026-07-26/parents-refusing-lifesaving-vitamin-k-injection-for-newborns/106938860",
           "date": "2026-07-25T21:02:35+00:00",
           "source": "ABC News"
@@ -528,6 +593,41 @@
           "link": "https://www.abc.net.au/news/2026-07-26/citrus-season-challenges-extreme-weather/106926716",
           "date": "2026-07-25T19:45:02+00:00",
           "source": "ABC News"
+        }
+      ]
+    },
+    "CA": {
+      "name": "加拿大",
+      "items": [
+        {
+          "title": "Trump’s tariff threat already costing Canadian businesses, trade lawyer says",
+          "link": "https://globalnews.ca/news/11993583/gordie-howe-bridge-trade/",
+          "date": "2026-07-25T19:55:25+00:00",
+          "source": "Global News"
+        },
+        {
+          "title": "Alberta premier says she won’t retaliate Trump’s latest threats with alcohol ban",
+          "link": "https://globalnews.ca/news/11993638/alta-smith-radio-show/",
+          "date": "2026-07-25T19:32:37+00:00",
+          "source": "Global News"
+        },
+        {
+          "title": "After experiencing 2016 wildfire, Fort McMurray survivor addresses evacuation trauma",
+          "link": "https://globalnews.ca/news/11993053/fort-mcmurray-wildfire-survivor-on-evacuation-trauma/",
+          "date": "2026-07-25T18:57:14+00:00",
+          "source": "Global News"
+        },
+        {
+          "title": "Tre Ford leads Tiger-Cats into Montreal",
+          "link": "https://globalnews.ca/news/11993263/tre-ford-leads-tiger-cats-into-montreal/",
+          "date": "2026-07-25T16:25:20+00:00",
+          "source": "Global News"
+        },
+        {
+          "title": "Calgary’s Nose Hill parking lot, pathway closed as search continues for Parker",
+          "link": "https://globalnews.ca/news/11991104/nose-hill-missing-calgary-boy/",
+          "date": "2026-07-25T16:05:56+00:00",
+          "source": "Global News"
         }
       ]
     },
@@ -668,7 +768,6 @@
     }
   },
   "failed": [
-    "MY/The Star",
     "CA/CBC"
   ]
 }
