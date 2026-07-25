@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T17:12:20+00:00",
+  "updated": "2026-07-25T18:59:05+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -41,12 +41,17 @@
         {
           "title": "More than 250,000 flee wildfires in France and Spain",
           "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-25T16:43:10+00:00"
+          "date": "2026-07-25T17:13:40+00:00"
         },
         {
           "title": "Trump takes swipes at press during White House Correspondents' Dinner",
           "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-25T13:51:07+00:00"
+        },
+        {
+          "title": "India's 'cockroach' protest called off after education minister quits",
+          "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-25T17:44:46+00:00"
         },
         {
           "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
@@ -57,11 +62,6 @@
           "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
           "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-25T00:06:53+00:00"
-        },
-        {
-          "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-          "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-24T23:01:06+00:00"
         }
       ]
     },
@@ -199,6 +199,11 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Google basically confirms the Pixel 11 is getting a price hike",
+          "link": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
+          "date": "2026-07-25T18:13:36+00:00"
+        },
+        {
           "title": "Synth historian Oli Freke will spend big on a good bicycle",
           "link": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
           "date": "2026-07-25T14:51:21+00:00"
@@ -217,11 +222,6 @@
           "title": "Is this e-reader case a gun?",
           "link": "https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun",
           "date": "2026-07-23T20:56:07+00:00"
-        },
-        {
-          "title": "What Surrounds Us will make you think a lot about circles",
-          "link": "https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam",
-          "date": "2026-07-09T22:09:37+00:00"
         }
       ]
     },
@@ -230,6 +230,11 @@
       "category": "科技",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+          "link": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+          "date": "2026-07-25T17:47:22+00:00"
+        },
         {
           "title": "With help from data, art museums are reframing the visitor experience",
           "link": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
@@ -249,11 +254,6 @@
           "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
           "link": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
           "date": "2026-07-24T21:56:02+00:00"
-        },
-        {
-          "title": "Canadian legislator reads out apparent LLM response in floor speech",
-          "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-          "date": "2026-07-24T21:25:15+00:00"
         }
       ]
     },
@@ -263,19 +263,14 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "Tile's security is so bad it's a feature for stalkers",
+          "link": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
+          "date": "2026-07-25T18:18:42+00:00"
+        },
+        {
           "title": "Rauno's Field Notes #2",
           "link": "https://rauno.me/notes/2",
           "date": "2026-07-25T16:39:55+00:00"
-        },
-        {
-          "title": "Amen Break",
-          "link": "https://en.wikipedia.org/wiki/Amen_break",
-          "date": "2026-07-25T16:34:16+00:00"
-        },
-        {
-          "title": "Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer",
-          "link": "https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/",
-          "date": "2026-07-25T16:09:58+00:00"
         },
         {
           "title": "Bringing PyTorch Monarch to AMD GPUs",
@@ -286,6 +281,11 @@
           "title": "The Dark Night of Mathematics",
           "link": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
           "date": "2026-07-25T15:54:59+00:00"
+        },
+        {
+          "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
+          "link": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+          "date": "2026-07-25T15:51:26+00:00"
         }
       ]
     },
@@ -310,14 +310,14 @@
           "date": "2026-07-24T23:04:57+00:00"
         },
         {
-          "title": "We Are Not Special (2021)",
-          "link": "https://www.hillelwayne.com/post/we-are-not-special/",
-          "date": "2026-07-25T03:00:20+00:00"
-        },
-        {
           "title": "Zig by Example",
           "link": "https://zigbyexample.neocities.org/",
           "date": "2026-07-25T12:58:43+00:00"
+        },
+        {
+          "title": "Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers",
+          "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+          "date": "2026-07-25T10:01:03+00:00"
         }
       ]
     },
@@ -327,29 +327,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[摄影] 猫猫探头！",
-          "link": "https://www.v2ex.com/t/1229808#reply1",
-          "date": "2026-07-25T16:09:06+00:00"
+          "title": "[问与答] AI 时代感觉番茄工作法不是特别适合了，大家有什么替代品吗？",
+          "link": "https://www.v2ex.com/t/1229817#reply0",
+          "date": "2026-07-25T18:50:18+00:00"
         },
         {
-          "title": "[分享发现] 坏消息 openai 挂了,好消息中转站还能用",
-          "link": "https://www.v2ex.com/t/1229807#reply3",
-          "date": "2026-07-25T16:05:51+00:00"
+          "title": "[宽带症候群] 阿里云 ESA CDN 与广州广电居然也会走 ix",
+          "link": "https://www.v2ex.com/t/1229816#reply0",
+          "date": "2026-07-25T18:20:14+00:00"
         },
         {
-          "title": "[分享发现] 关于语言学习之词频",
-          "link": "https://www.v2ex.com/t/1229806#reply0",
-          "date": "2026-07-25T15:56:18+00:00"
+          "title": "[生活] 这种情况属于扰民吗？",
+          "link": "https://www.v2ex.com/t/1229815#reply1",
+          "date": "2026-07-25T18:02:01+00:00"
         },
         {
-          "title": "[问与答] 大家日常的信息来源是什么",
-          "link": "https://www.v2ex.com/t/1229805#reply2",
-          "date": "2026-07-25T15:51:34+00:00"
+          "title": "[问与答] 发布帖子需要满 4004 天？",
+          "link": "https://www.v2ex.com/t/1229814#reply7",
+          "date": "2026-07-25T17:48:31+00:00"
         },
         {
-          "title": "[问与答] 个人碎碎念",
-          "link": "https://www.v2ex.com/t/1229804#reply2",
-          "date": "2026-07-25T15:17:34+00:00"
+          "title": "[程序员] mac 平台用 Swift 6 写了一个原生的工具型应用，现在想进一步开发 win 平台的，推荐啥技术栈好啊",
+          "link": "https://www.v2ex.com/t/1229813#reply0",
+          "date": "2026-07-25T17:36:08+00:00"
         }
       ]
     },
@@ -568,38 +568,6 @@
       ]
     },
     {
-      "name": "Nature",
-      "category": "科研",
-      "url": "https://www.nature.com/nature.rss",
-      "items": [
-        {
-          "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
-          "link": "https://www.nature.com/articles/s41586-026-10911-y",
-          "date": "2026-07-24T00:00:00+00:00"
-        },
-        {
-          "title": "Personalized gene therapy relieves severe epilepsy in two boys",
-          "link": "https://www.nature.com/articles/d41586-026-02267-0",
-          "date": "2026-07-24T00:00:00+00:00"
-        },
-        {
-          "title": "Briefing Chat: Baby <i>T. rex</i> were killers from birth, suggest new fossils",
-          "link": "https://www.nature.com/articles/d41586-026-02338-2",
-          "date": "2026-07-24T00:00:00+00:00"
-        },
-        {
-          "title": "Bizarre CRISPR enzyme kills cancer cells by shredding their DNA",
-          "link": "https://www.nature.com/articles/d41586-026-02268-z",
-          "date": "2026-07-24T00:00:00+00:00"
-        },
-        {
-          "title": "White House rolls out AI funding — and signals a new era for US science",
-          "link": "https://www.nature.com/articles/d41586-026-02332-8",
-          "date": "2026-07-24T00:00:00+00:00"
-        }
-      ]
-    },
-    {
       "name": "ScienceDaily",
       "category": "科研",
       "url": "https://www.sciencedaily.com/rss/all.xml",
@@ -633,8 +601,6 @@
     }
   ],
   "failed": [
-    "联合国新闻",
-    "机器之心",
-    "arXiv cs.AI"
+    "Nature"
   ]
 }
