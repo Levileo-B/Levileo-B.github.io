@@ -9,7 +9,9 @@
 
 import concurrent.futures as cf
 import datetime
+import html
 import json
+import re
 import os
 import pathlib
 import sys
@@ -25,14 +27,12 @@ FEEDS = [
     # ---- 综合 ----
     {"name": "BBC 中文", "category": "综合", "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml"},
     {"name": "BBC World", "category": "综合", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
-    {"name": "联合国新闻", "category": "综合", "url": "https://news.un.org/zh/feed/subscribe/zh/news/all/rss.xml"},
+    {"name": "联合国新闻", "category": "综合", "url": "https://news.un.org/feed/subscribe/zh/news/all/rss.xml"},
 
     # ---- 科技 ----
     {"name": "36 氪", "category": "科技", "url": "https://36kr.com/feed"},
     {"name": "少数派", "category": "科技", "url": "https://sspai.com/feed"},
     {"name": "爱范儿", "category": "科技", "url": "https://www.ifanr.com/feed"},
-    {"name": "虎嗅", "category": "科技", "url": "https://www.huxiu.com/rss/0.xml"},
-    {"name": "极客公园", "category": "科技", "url": "https://www.geekpark.net/rss"},
     {"name": "Solidot", "category": "科技", "url": "https://www.solidot.org/index.rss"},
     {"name": "The Verge", "category": "科技", "url": "https://www.theverge.com/rss/index.xml"},
     {"name": "Ars Technica", "category": "科技", "url": "https://feeds.arstechnica.com/arstechnica/index"},
@@ -104,42 +104,104 @@ def norm_date(raw: str) -> str:
         return ""
 
 
+def _ln(tag) -> str:
+    """取标签的本地名，剥掉命名空间前缀。
+
+    RSS 1.0 / RDF 的 <item> 带命名空间（{http://purl.org/rss/1.0/}item），
+    直接用 .//item 是找不到的 —— Nature 和 arXiv 就栽在这上面。
+    统一按本地名匹配，RSS 2.0 / RSS 1.0 / Atom 就都能吃下。
+    """
+    return tag.rsplit("}", 1)[-1] if isinstance(tag, str) else ""
+
+
+def _child(el, *names):
+    for c in el:
+        if _ln(c.tag) in names:
+            return c
+    return None
+
+
+def _child_text(el, *names) -> str:
+    c = _child(el, *names)
+    return text_of(c) if c is not None else ""
+
+
+def _entry_link(el) -> str:
+    # RSS 系：<link>http://…</link>；Atom：<link rel="alternate" href="…"/>
+    txt = _child_text(el, "link")
+    if txt.startswith("http"):
+        return txt
+    alt = ""
+    first = ""
+    for c in el:
+        if _ln(c.tag) != "link":
+            continue
+        href = c.get("href", "")
+        if not href:
+            continue
+        first = first or href
+        if c.get("rel", "alternate") == "alternate":
+            alt = alt or href
+    return alt or first
+
+
+def _extract(root):
+    items = []
+    for el in root.iter():
+        if _ln(el.tag) not in ("item", "entry"):
+            continue
+        items.append(
+            {
+                "title": _child_text(el, "title"),
+                "link": _entry_link(el),
+                "date": norm_date(
+                    _child_text(el, "pubDate", "published", "updated", "date")
+                ),
+            }
+        )
+    return items
+
+
+# XML 畸形时的兜底：直接按文本抠出条目。某些源（如机器之心）会输出
+# 标签不闭合的 XML，严格解析器直接罢工，但内容其实是可用的。
+_ITEM_RE = re.compile(r"<(item|entry)\b[^>]*>(.*?)</\1>", re.S | re.I)
+_TITLE_RE = re.compile(r"<title\b[^>]*>(.*?)</title>", re.S | re.I)
+_LINK_RE = re.compile(r"<link\b[^>]*>(.*?)</link>|<link\b[^>]*href=[\"']([^\"']+)[\"']", re.S | re.I)
+_DATE_RE = re.compile(r"<(?:pubDate|published|updated|dc:date)\b[^>]*>(.*?)</", re.S | re.I)
+
+
+def _strip_tags(s: str) -> str:
+    s = re.sub(r"<!\[CDATA\[(.*?)\]\]>", r"\1", s, flags=re.S)
+    s = re.sub(r"<[^>]+>", "", s)
+    return html.unescape(s).strip()
+
+
+def _extract_loose(raw: bytes):
+    text = raw.decode("utf-8", "replace")
+    items = []
+    for m in _ITEM_RE.finditer(text):
+        body = m.group(2)
+        t = _TITLE_RE.search(body)
+        l = _LINK_RE.search(body)
+        d = _DATE_RE.search(body)
+        items.append(
+            {
+                "title": _strip_tags(t.group(1)) if t else "",
+                "link": _strip_tags(l.group(1) or l.group(2) or "") if l else "",
+                "date": norm_date(_strip_tags(d.group(1)) if d else ""),
+            }
+        )
+    return items
+
+
 def parse(raw: bytes):
     # 有些源会带 BOM 或前导空白，ET 对此很敏感（BOM 不是空白，lstrip() 去不掉）
     if raw.startswith(b"\xef\xbb\xbf"):
         raw = raw[3:]
-    root = ET.fromstring(raw.lstrip())
-    items = []
-
-    for it in root.iterfind(".//item"):  # RSS 2.0 / RDF
-        items.append(
-            {
-                "title": text_of(it.find("title")),
-                "link": text_of(it.find("link")),
-                "date": norm_date(text_of(it.find("pubDate")) or text_of(it.find("date"))),
-            }
-        )
-
-    if not items:  # Atom
-        for it in root.iterfind(f".//{ATOM}entry"):
-            link = ""
-            for ln in it.iterfind(f"{ATOM}link"):
-                rel = ln.get("rel", "alternate")
-                if rel == "alternate":
-                    link = ln.get("href", "")
-                    break
-            if not link:
-                ln = it.find(f"{ATOM}link")
-                link = ln.get("href", "") if ln is not None else ""
-            items.append(
-                {
-                    "title": text_of(it.find(f"{ATOM}title")),
-                    "link": link,
-                    "date": norm_date(
-                        text_of(it.find(f"{ATOM}updated")) or text_of(it.find(f"{ATOM}published"))
-                    ),
-                }
-            )
+    try:
+        items = _extract(ET.fromstring(raw.lstrip()))
+    except ET.ParseError:
+        items = _extract_loose(raw)
 
     return [i for i in items if i["title"] and i["link"].startswith("http")]
 
