@@ -13,6 +13,7 @@
 - 自定义 404 页面
 - **热点窗格**：GitHub Actions 每 3 小时抓取 20 个 RSS 源，按分类聚合
 - **实时热点页**：浏览器直连拉取 HN / GitHub / Reddit 榜单，另附各大热搜入口
+- **附近最热**：按访客所在地区展示当地新闻，可手动切换地区
 - **每日**：LeetCode 每日一题、每日英文短文（维基百科精选）、每日趣味视频（Prelinger 公有领域短片）
 - **背景音乐**：随机播放 Internet Archive 的 CC 授权曲目，可切歌，顶部导航栏开关
 - **小游戏**：2048、贪吃蛇、QWOP 式跑步模拟，纯前端实现，支持键盘与触屏
@@ -62,7 +63,8 @@
 │   └── daily.json          # 同上
 ├── scripts/
 │   ├── fetch_news.py       # RSS 抓取脚本（仅标准库）
-│   └── fetch_daily.py      # LeetCode 每日一题 + 维基百科精选
+│   ├── fetch_daily.py      # 每日一题 / 英文短文 / 视频 / 音乐歌单
+│   └── fetch_local.py      # 各地区本地新闻（复用 fetch_news 的解析器）
 └── .github/workflows/
     └── update-news.yml     # 每 3 小时定时任务
 ```
@@ -88,6 +90,27 @@ Reddit（`r/popular` 的 `.json`）。支持手动刷新与每 5 分钟自动刷
 **想立刻更新一次**：仓库 → Actions → 「更新热点」→ Run workflow。
 
 > 注意：定时任务需要仓库的 Actions 有写权限。若 push 步骤报 403，去 Settings → Actions → General → Workflow permissions，选 `Read and write permissions`。
+
+## 「附近最热」怎么判断地区
+
+各地新闻站的 RSS 同样不开放跨域，所以还是 Actions 预生成：`scripts/fetch_local.py`
+把所有地区抓好写进一个 `data/local.json`，前端按访客地区取对应那一段。
+
+前端判断地区的顺序：
+
+1. **用户手动选过** → 一律以手动选择为准，之后不再自动判断
+2. **浏览器时区** → `Intl` 直接给出 `Asia/Singapore` 这类值，不发请求、不涉及 IP，
+   所以放在网络请求前面先出结果，页面立刻有内容
+3. **IP 归属地** → 调 [api.country.is](https://api.country.is)（开放跨域、免费、无需 key）
+   再校正一次，比时区准
+4. 都不成 → 显示国际新闻
+
+**隐私**：第 3 步会把访客 IP 暴露给那个第三方服务，这是 IP 定位绕不开的代价，
+页面上写明了。用户可以直接手动选地区（选择被记住，此后不再自动判断），
+或者用扩展拦掉该请求 —— 拦掉不影响使用，只会退回按时区判断。
+
+**增删地区**：改 `scripts/fetch_local.py` 顶部的 `REGIONS`，键用 ISO 3166-1
+alpha-2 国家码，和前端拿到的 country code 对齐。`global` 是兜底，不能删。
 
 ## 每日内容与背景音乐
 

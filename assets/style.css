@@ -571,3 +571,27 @@ a:hover { text-decoration: underline; }
   .hero { padding: 3rem 1.25rem; }
   .section { padding: 2.5rem 1.25rem; }
 }
+
+/* ---------- 附近最热 ---------- */
+.local-picker {
+  font-family: inherit;
+  font-size: .78rem;
+  padding: .12rem .4rem;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  cursor: pointer;
+  max-width: 9rem;
+}
+.local-picker:disabled { opacity: .5; cursor: default; }
+
+.sr-only {
+  position: absolute;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
