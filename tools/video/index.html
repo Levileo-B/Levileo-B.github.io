@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>视频链接解析 · Levileo-B</title>
+<meta name="description" content="解析视频页面链接：规范化地址、播放器嵌入代码、封面直链，以及拼好的 yt-dlp 下载命令。">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎬</text></svg>">
+<link rel="stylesheet" href="../../assets/style.css">
+<link rel="stylesheet" href="../../assets/tools.css">
+<script>
+  try {
+    var t = localStorage.getItem('theme');
+    if (t === 'dark' || t === 'light') document.documentElement.setAttribute('data-theme', t);
+  } catch (e) {}
+</script>
+</head>
+<body>
+
+<a class="skip-link" href="#main">跳到主要内容</a>
+
+<header class="site-header">
+  <nav class="nav" aria-label="主导航">
+    <a class="nav__brand" href="../">← 工具箱</a>
+    <ul class="nav__list">
+      <li><a href="../../">主页</a></li>
+      <li><a href="../papers/">论文检索</a></li>
+    </ul>
+    <button class="theme-toggle" type="button" aria-label="切换深色 / 浅色模式">
+      <span class="theme-toggle__icon" aria-hidden="true">◐</span>
+    </button>
+  </nav>
+</header>
+
+<main id="main" class="tool">
+
+  <div class="tool__head">
+    <h1 class="tool__title">视频链接解析</h1>
+    <p class="tool__sub">粘贴视频页面地址，拿到规范链接、嵌入代码、封面直链和下载命令</p>
+  </div>
+
+  <p class="notice">
+    <strong>先说清楚这个工具不做什么：</strong>它不会替你破解出视频的真实流地址。
+    浏览器受同源策略限制拿不到那些接口，而且各平台直链都带签名、有时效，必须在服务端解密 ——
+    静态站点没有后端，做不到这件事。
+    所以这里做的是<strong>链接解析</strong>：认出平台和视频 ID，生成规范链接、播放器嵌入地址、
+    公开的封面图直链，并把 <strong>yt-dlp</strong> 命令拼好给你，真正的下载交给本地执行。
+  </p>
+
+  <form class="form" id="form">
+    <input type="text" id="input" inputmode="url" autocomplete="off"
+           placeholder="粘贴视频链接，例如 https://www.bilibili.com/video/BV..."
+           aria-label="视频链接">
+    <button class="btn btn--primary" type="submit">解析</button>
+  </form>
+
+  <div class="result" id="result" aria-live="polite"></div>
+
+  <p class="hint" style="margin-top:2rem">
+    支持 YouTube、哔哩哔哩、Vimeo、X / Twitter、抖音、TikTok。
+    没装 yt-dlp 的话：<code>pip install -U yt-dlp</code> 或 <code>brew install yt-dlp</code>。
+    请只下载你有权保存的内容，并遵守各平台的服务条款。
+  </p>
+
+</main>
+
+<footer class="site-footer">
+  <p>© <span id="year">2026</span> Levileo-B · 由 GitHub Pages 托管</p>
+</footer>
+
+<script src="../../assets/main.js"></script>
+<script src="parse.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

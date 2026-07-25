@@ -13,6 +13,7 @@
 - 自定义 404 页面
 - **每日热点窗格**：GitHub Actions 每天自动抓取多个 RSS 源
 - **小游戏**：2048、贪吃蛇、QWOP 式跑步模拟，纯前端实现，支持键盘与触屏
+- **工具箱**：视频链接解析、论文检索，以及 30 个常用工具站点入口
 
 ## 文件结构
 
@@ -33,6 +34,12 @@
 │   │   └── game.js         # 界面层：渲染 / 输入 / 存档
 │   ├── snake/              # 贪吃蛇
 │   └── qwop/               # QWOP 式跑步（Verlet 布娃娃物理）
+├── tools/
+│   ├── index.html          # 工具箱 + 常用网站清单
+│   ├── video/
+│   │   ├── parse.js        # 链接解析纯逻辑，可在 Node 里单测
+│   │   └── app.js          # 界面层
+│   └── papers/app.js       # 论文检索（OpenAlex，回退 Crossref）
 ├── data/
 │   └── news.json           # 由 Actions 生成，不要手工改
 ├── scripts/
@@ -55,6 +62,18 @@
 **想立刻更新一次**：仓库 → Actions → 「更新每日热点」→ Run workflow。
 
 > 注意：定时任务需要仓库的 Actions 有写权限。若 push 步骤报 403，去 Settings → Actions → General → Workflow permissions，选 `Read and write permissions`。
+
+## 工具箱的两个能力边界
+
+**视频链接解析**做的是链接解析，不是直链破解。浏览器受同源策略限制拿不到平台接口，
+而且各家的视频直链都带签名、有时效，必须服务端解密 —— 静态站点没有后端，做不到。
+所以它输出的是规范链接、播放器嵌入地址、公开的封面图直链，以及拼好的 `yt-dlp` 命令，
+真正的下载在本地终端完成。
+
+**论文检索**直接从浏览器请求 [OpenAlex](https://openalex.org)，失败时自动回退
+[Crossref](https://www.crossref.org)，两者都免费、无需 API key 且支持跨域。
+arXiv 官方 API 没有开放 CORS，所以没有用它。
+换数据源或调整每页数量，改 `tools/papers/app.js` 顶部即可。
 
 ## 如何启用 GitHub Pages
 

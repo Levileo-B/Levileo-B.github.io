@@ -1,0 +1,211 @@
+/* 工具页样式，配色沿用 style.css 的 CSS 变量 */
+
+.tool { max-width: 780px; margin: 0 auto; padding: 2rem 1.25rem 3rem; }
+
+.tool__head { margin-bottom: 1.5rem; }
+.tool__title { margin: 0; font-size: 1.7rem; letter-spacing: -.02em; }
+.tool__sub { color: var(--text-muted); margin: .4rem 0 0; font-size: .93rem; }
+
+/* ---------- 表单 ---------- */
+.form { display: flex; gap: .6rem; flex-wrap: wrap; }
+
+.form input[type="text"],
+.form input[type="search"],
+.form select {
+  flex: 1 1 240px;
+  min-width: 0;
+  padding: .65rem .9rem;
+  font-size: .95rem;
+  font-family: inherit;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+.form input:focus, .form select:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+.form select { flex: 0 1 auto; cursor: pointer; }
+
+.form button { flex: 0 0 auto; cursor: pointer; }
+
+.filters {
+  display: flex;
+  gap: .6rem;
+  flex-wrap: wrap;
+  margin-top: .75rem;
+  align-items: center;
+}
+.filters label { font-size: .82rem; color: var(--text-muted); }
+
+/* ---------- 结果区 ---------- */
+.result { margin-top: 1.75rem; }
+
+.result__block { margin-bottom: 1.25rem; }
+.result__label {
+  font-size: .74rem;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin: 0 0 .45rem;
+}
+/* 视频 ID 区分大小写，绝不能被标题的 uppercase 带偏 */
+.result__label code,
+.result__label .badge { text-transform: none; letter-spacing: 0; }
+
+.copy-row {
+  display: flex;
+  gap: .5rem;
+  align-items: stretch;
+}
+.copy-row code {
+  flex: 1;
+  min-width: 0;
+  overflow-x: auto;
+  white-space: nowrap;
+  padding: .55rem .75rem;
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-size: .84rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  color: var(--text);
+}
+.copy-btn {
+  flex: 0 0 auto;
+  padding: 0 .85rem;
+  font-size: .82rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--text);
+  cursor: pointer;
+  white-space: nowrap;
+  transition: border-color .12s, color .12s;
+}
+.copy-btn:hover { border-color: var(--accent); color: var(--accent); }
+.copy-btn.is-done { border-color: var(--accent); color: var(--accent); }
+
+.cmd-list { display: flex; flex-direction: column; gap: .5rem; }
+.cmd-list__name { font-size: .78rem; color: var(--text-muted); margin-bottom: .2rem; }
+
+.badge {
+  display: inline-block;
+  padding: .12rem .55rem;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: .76rem;
+  font-weight: 600;
+}
+
+.notice {
+  margin: 0 0 1.25rem;
+  padding: .8rem 1rem;
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: 8px;
+  background: var(--bg-soft);
+  font-size: .85rem;
+  color: var(--text-muted);
+  line-height: 1.7;
+}
+.notice strong { color: var(--text); }
+
+.hint { color: var(--text-muted); font-size: .88rem; }
+
+.thumb-preview {
+  max-width: 260px;
+  width: 100%;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  margin-top: .5rem;
+}
+
+/* ---------- 论文结果 ---------- */
+.papers { list-style: none; margin: 0; padding: 0; }
+
+.paper {
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--border);
+}
+.paper:first-child { padding-top: 0; }
+
+.paper__title { margin: 0 0 .35rem; font-size: 1rem; line-height: 1.5; }
+.paper__title a { color: var(--text); }
+.paper__title a:hover { color: var(--accent); text-decoration: none; }
+
+.paper__meta {
+  font-size: .8rem;
+  color: var(--text-muted);
+  display: flex;
+  flex-wrap: wrap;
+  gap: .3rem .8rem;
+  margin-bottom: .4rem;
+}
+
+.paper__links { display: flex; gap: .5rem; flex-wrap: wrap; }
+.paper__links a {
+  font-size: .76rem;
+  padding: .12rem .55rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--text-muted);
+}
+.paper__links a:hover { border-color: var(--accent); color: var(--accent); text-decoration: none; }
+
+/* 方向汇总 */
+.topics { display: flex; flex-wrap: wrap; gap: .4rem; margin: 0 0 1.5rem; padding: 0; list-style: none; }
+.topics li {
+  display: flex;
+  align-items: center;
+  gap: .4rem;
+  padding: .25rem .7rem;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: .8rem;
+}
+.topics b { font-weight: 700; }
+
+.spinner { color: var(--text-muted); font-size: .9rem; }
+
+/* ---------- 常用网站 ---------- */
+.link-group { margin-bottom: 1.75rem; }
+.link-group__title {
+  font-size: .78rem;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin: 0 0 .6rem;
+  padding-bottom: .4rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.link-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(158px, 1fr));
+  gap: .5rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.link-grid a {
+  display: block;
+  padding: .6rem .8rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--surface);
+  color: var(--text);
+  transition: border-color .12s, transform .12s;
+}
+.link-grid a:hover {
+  border-color: var(--accent);
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+.link-grid strong { display: block; font-size: .88rem; font-weight: 600; }
+.link-grid span { display: block; font-size: .72rem; color: var(--text-muted); margin-top: .1rem; }
+
+/* 工具入口卡片 */
+.tool-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 1rem; }
+.tool-card__emoji { font-size: 1.9rem; line-height: 1; display: block; margin-bottom: .5rem; }

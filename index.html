@@ -16,6 +16,7 @@
 
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌱</text></svg>">
 <link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/tools.css">
 
 <!-- 在渲染前应用已保存的主题，避免闪烁 -->
 <script>
@@ -34,7 +35,7 @@
     <a class="nav__brand" href="#top">Levileo-B</a>
     <ul class="nav__list">
       <li><a href="#news">热点</a></li>
-      <li><a href="#about">关于</a></li>
+      <li><a href="#tools">工具</a></li>
       <li><a href="#projects">项目</a></li>
       <li><a href="games/">游戏</a></li>
       <li><a href="#contact">联系</a></li>
@@ -77,6 +78,53 @@
       </div>
       <p class="news__foot">
         由 GitHub Actions 每天自动抓取多个 RSS 源生成，内容与观点均来自各原始站点。
+      </p>
+    </div>
+  </section>
+
+  <!-- 工具箱 -->
+  <section class="section" id="tools">
+    <div class="section__bar">
+      <h2 class="section__title">工具箱</h2>
+      <a class="news__stamp" href="tools/">全部工具与网站 →</a>
+    </div>
+
+    <div class="tool-cards" style="margin-bottom:1.25rem">
+      <article class="card card--project">
+        <span class="tool-card__emoji" aria-hidden="true">🎬</span>
+        <h3 class="card__title">视频链接解析</h3>
+        <p class="card__desc">
+          粘贴视频页面地址，拿到规范链接、播放器嵌入代码、封面图直链，
+          以及拼好的 yt-dlp 下载命令。
+        </p>
+        <a class="card__link" href="tools/video/">打开工具 →</a>
+      </article>
+
+      <article class="card card--project">
+        <span class="tool-card__emoji" aria-hidden="true">📄</span>
+        <h3 class="card__title">论文检索</h3>
+        <p class="card__desc">
+          输入关键词检索最新论文，可按时间和被引排序，
+          并汇总这批结果的研究方向分布。
+        </p>
+        <a class="card__link" href="tools/papers/">打开工具 →</a>
+      </article>
+    </div>
+
+    <div class="card">
+      <p class="result__label">常用网站</p>
+      <ul class="link-grid">
+        <li><a href="https://excalidraw.com" target="_blank" rel="noopener"><strong>Excalidraw</strong><span>手绘风白板</span></a></li>
+        <li><a href="https://www.tldraw.com" target="_blank" rel="noopener"><strong>tldraw</strong><span>无限画布</span></a></li>
+        <li><a href="https://app.diagrams.net" target="_blank" rel="noopener"><strong>draw.io</strong><span>流程图</span></a></li>
+        <li><a href="https://regex101.com" target="_blank" rel="noopener"><strong>Regex101</strong><span>正则测试</span></a></li>
+        <li><a href="https://gchq.github.io/CyberChef/" target="_blank" rel="noopener"><strong>CyberChef</strong><span>编码 / 加解密</span></a></li>
+        <li><a href="https://squoosh.app" target="_blank" rel="noopener"><strong>Squoosh</strong><span>图片压缩</span></a></li>
+        <li><a href="https://devdocs.io" target="_blank" rel="noopener"><strong>DevDocs</strong><span>文档聚合</span></a></li>
+        <li><a href="https://arxiv.org" target="_blank" rel="noopener"><strong>arXiv</strong><span>预印本</span></a></li>
+      </ul>
+      <p class="news__foot" style="margin-top:1rem">
+        完整清单（画图、开发、图像、科研等 30 个站点）在<a href="tools/#sites">工具箱页面</a>。
       </p>
     </div>
   </section>

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>工具箱 · Levileo-B</title>
+<meta name="description" content="视频链接解析、论文检索，以及一批常用的在线工具站点入口。">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧰</text></svg>">
+<link rel="stylesheet" href="../assets/style.css">
+<link rel="stylesheet" href="../assets/tools.css">
+<script>
+  try {
+    var t = localStorage.getItem('theme');
+    if (t === 'dark' || t === 'light') document.documentElement.setAttribute('data-theme', t);
+  } catch (e) {}
+</script>
+</head>
+<body>
+
+<a class="skip-link" href="#main">跳到主要内容</a>
+
+<header class="site-header">
+  <nav class="nav" aria-label="主导航">
+    <a class="nav__brand" href="../">← Levileo-B</a>
+    <ul class="nav__list">
+      <li><a href="../#news">热点</a></li>
+      <li><a href="../games/">游戏</a></li>
+      <li><a href="../#contact">联系</a></li>
+    </ul>
+    <button class="theme-toggle" type="button" aria-label="切换深色 / 浅色模式">
+      <span class="theme-toggle__icon" aria-hidden="true">◐</span>
+    </button>
+  </nav>
+</header>
+
+<main id="main">
+
+  <section class="hero">
+    <div class="hero__inner">
+      <h1 class="hero__title">工具箱</h1>
+      <p class="hero__subtitle">自己写的小工具，以及平时常开的那些网站</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2 class="section__title">自建工具</h2>
+    <div class="tool-cards">
+      <article class="card card--project">
+        <span class="tool-card__emoji" aria-hidden="true">🎬</span>
+        <h3 class="card__title">视频链接解析</h3>
+        <p class="card__desc">
+          认出平台和视频 ID，给出规范链接、播放器嵌入代码、封面图直链，
+          并拼好 yt-dlp 下载命令。
+        </p>
+        <a class="card__link" href="video/">打开工具 →</a>
+      </article>
+
+      <article class="card card--project">
+        <span class="tool-card__emoji" aria-hidden="true">📄</span>
+        <h3 class="card__title">论文检索</h3>
+        <p class="card__desc">
+          输入关键词检索最新论文，支持按时间和被引排序，
+          并汇总这批结果的研究方向分布。
+        </p>
+        <a class="card__link" href="papers/">打开工具 →</a>
+      </article>
+    </div>
+  </section>
+
+  <section class="section" id="sites">
+    <h2 class="section__title">常用网站</h2>
+    <div class="card">
+
+      <div class="link-group">
+        <h3 class="link-group__title">画图与白板</h3>
+        <ul class="link-grid">
+          <li><a href="https://excalidraw.com" target="_blank" rel="noopener"><strong>Excalidraw</strong><span>手绘风白板</span></a></li>
+          <li><a href="https://www.tldraw.com" target="_blank" rel="noopener"><strong>tldraw</strong><span>无限画布</span></a></li>
+          <li><a href="https://app.diagrams.net" target="_blank" rel="noopener"><strong>draw.io</strong><span>流程图 / 架构图</span></a></li>
+          <li><a href="https://mermaid.live" target="_blank" rel="noopener"><strong>Mermaid Live</strong><span>文本生成图表</span></a></li>
+          <li><a href="https://www.figma.com" target="_blank" rel="noopener"><strong>Figma</strong><span>界面设计</span></a></li>
+        </ul>
+      </div>
+
+      <div class="link-group">
+        <h3 class="link-group__title">开发调试</h3>
+        <ul class="link-grid">
+          <li><a href="https://regex101.com" target="_blank" rel="noopener"><strong>Regex101</strong><span>正则测试</span></a></li>
+          <li><a href="https://gchq.github.io/CyberChef/" target="_blank" rel="noopener"><strong>CyberChef</strong><span>编码 / 加解密</span></a></li>
+          <li><a href="https://godbolt.org" target="_blank" rel="noopener"><strong>Compiler Explorer</strong><span>看编译产物</span></a></li>
+          <li><a href="https://devdocs.io" target="_blank" rel="noopener"><strong>DevDocs</strong><span>文档聚合</span></a></li>
+          <li><a href="https://caniuse.com" target="_blank" rel="noopener"><strong>Can I use</strong><span>兼容性查询</span></a></li>
+          <li><a href="https://crontab.guru" target="_blank" rel="noopener"><strong>Crontab Guru</strong><span>cron 表达式</span></a></li>
+          <li><a href="https://jsoncrack.com" target="_blank" rel="noopener"><strong>JSON Crack</strong><span>JSON 可视化</span></a></li>
+          <li><a href="https://it-tools.tech" target="_blank" rel="noopener"><strong>IT Tools</strong><span>开发小工具合集</span></a></li>
+        </ul>
+      </div>
+
+      <div class="link-group">
+        <h3 class="link-group__title">图像与媒体</h3>
+        <ul class="link-grid">
+          <li><a href="https://squoosh.app" target="_blank" rel="noopener"><strong>Squoosh</strong><span>图片压缩</span></a></li>
+          <li><a href="https://tinypng.com" target="_blank" rel="noopener"><strong>TinyPNG</strong><span>PNG / JPG 压缩</span></a></li>
+          <li><a href="https://jakearchibald.github.io/svgomg/" target="_blank" rel="noopener"><strong>SVGOMG</strong><span>SVG 优化</span></a></li>
+          <li><a href="https://carbon.now.sh" target="_blank" rel="noopener"><strong>Carbon</strong><span>代码截图</span></a></li>
+          <li><a href="https://www.remove.bg" target="_blank" rel="noopener"><strong>remove.bg</strong><span>一键抠图</span></a></li>
+        </ul>
+      </div>
+
+      <div class="link-group">
+        <h3 class="link-group__title">科研</h3>
+        <ul class="link-grid">
+          <li><a href="https://arxiv.org" target="_blank" rel="noopener"><strong>arXiv</strong><span>预印本</span></a></li>
+          <li><a href="https://www.connectedpapers.com" target="_blank" rel="noopener"><strong>Connected Papers</strong><span>论文关系图</span></a></li>
+          <li><a href="https://www.semanticscholar.org" target="_blank" rel="noopener"><strong>Semantic Scholar</strong><span>语义检索</span></a></li>
+          <li><a href="https://paperswithcode.com" target="_blank" rel="noopener"><strong>Papers with Code</strong><span>论文配代码</span></a></li>
+          <li><a href="https://www.overleaf.com" target="_blank" rel="noopener"><strong>Overleaf</strong><span>在线 LaTeX</span></a></li>
+          <li><a href="https://huggingface.co" target="_blank" rel="noopener"><strong>Hugging Face</strong><span>模型与数据集</span></a></li>
+          <li><a href="https://www.zotero.org" target="_blank" rel="noopener"><strong>Zotero</strong><span>文献管理</span></a></li>
+          <li><a href="https://openalex.org" target="_blank" rel="noopener"><strong>OpenAlex</strong><span>开放学术数据</span></a></li>
+        </ul>
+      </div>
+
+      <div class="link-group">
+        <h3 class="link-group__title">其他</h3>
+        <ul class="link-grid">
+          <li><a href="https://www.wolframalpha.com" target="_blank" rel="noopener"><strong>WolframAlpha</strong><span>计算知识引擎</span></a></li>
+          <li><a href="https://tinywow.com" target="_blank" rel="noopener"><strong>TinyWow</strong><span>文件格式转换</span></a></li>
+          <li><a href="https://www.diffchecker.com" target="_blank" rel="noopener"><strong>Diffchecker</strong><span>文本对比</span></a></li>
+          <li><a href="https://ray.so" target="_blank" rel="noopener"><strong>ray.so</strong><span>代码美化截图</span></a></li>
+        </ul>
+      </div>
+
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <p>© <span id="year">2026</span> Levileo-B · 由 GitHub Pages 托管</p>
+</footer>
+
+<script src="../assets/main.js"></script>
+</body>
+</html>
