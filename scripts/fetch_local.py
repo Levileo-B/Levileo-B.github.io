@@ -47,7 +47,8 @@ REGIONS = {
         ("Korea Herald", "https://www.koreaherald.com/rss/newsAll"),
     ]},
     "MY": {"name": "马来西亚", "feeds": [
-        ("The Star", "https://www.thestar.com.my/rss/News/Nation"),
+        ("Malay Mail", "https://www.malaymail.com/feed/rss"),
+        ("Free Malaysia Today", "https://www.freemalaysiatoday.com/feed/"),
     ]},
     "IN": {"name": "印度", "feeds": [
         ("NDTV", "https://feeds.feedburner.com/ndtvnews-top-stories"),
@@ -65,7 +66,8 @@ REGIONS = {
         ("ABC News", "https://www.abc.net.au/news/feed/51120/rss.xml"),
     ]},
     "CA": {"name": "加拿大", "feeds": [
-        ("CBC", "https://www.cbc.ca/webfeed/rss/rss-topstories"),
+        ("Global News", "https://globalnews.ca/feed/"),
+        ("CBC", "https://www.cbc.ca/cmlink/rss-topstories"),
     ]},
     "DE": {"name": "德国", "feeds": [
         ("tagesschau", "https://www.tagesschau.de/xml/rss2/"),
