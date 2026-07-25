@@ -41,7 +41,17 @@ jobs:
           git add data/   # 用目录，避免某个文件还没生成时 git add 直接报错中断
           if git diff --staged --quiet; then
             echo "内容无变化，跳过提交。"
-          else
-            git commit -m "chore: 更新热点 $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
+            exit 0
           fi
+          git commit -m "chore: 更新热点 $(date -u +%Y-%m-%dT%H:%MZ)"
+          # 定时任务每 3 小时跑一次，很容易和人工推送撞上；
+          # 直接 push 会被拒然后整个 job 失败，所以拉取变基后重试。
+          for i in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "push 被拒绝，拉取远端后重试（第 $i 次）"
+            git pull --rebase origin "$GITHUB_REF_NAME" || exit 1
+          done
+          echo "重试 3 次仍未推送成功"
+          exit 1
