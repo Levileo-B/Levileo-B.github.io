@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>域名分析 · Levileo-B</title>
+<meta name="description" content="查询域名的 DNS 记录与注册信息：A/AAAA/MX/NS/TXT/CAA、注册商、注册与到期时间。">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌐</text></svg>">
+<link rel="stylesheet" href="../../assets/style.css">
+<link rel="stylesheet" href="../../assets/tools.css">
+<script>
+  try {
+    var t = localStorage.getItem('theme');
+    if (t === 'dark' || t === 'light') document.documentElement.setAttribute('data-theme', t);
+  } catch (e) {}
+</script>
+</head>
+<body>
+
+<a class="skip-link" href="#main">跳到主要内容</a>
+
+<header class="site-header">
+  <nav class="nav" aria-label="主导航">
+    <a class="nav__brand" href="../">← 工具箱</a>
+    <ul class="nav__list">
+      <li><a href="../../">主页</a></li>
+      <li><a href="../video/">视频解析</a></li>
+      <li><a href="../papers/">论文检索</a></li>
+    </ul>
+    <button class="theme-toggle" type="button" aria-label="切换深色 / 浅色模式">
+      <span class="theme-toggle__icon" aria-hidden="true">◐</span>
+    </button>
+  </nav>
+</header>
+
+<main id="main" class="tool">
+
+  <div class="tool__head">
+    <h1 class="tool__title">域名分析</h1>
+    <p class="tool__sub">查 DNS 解析记录与域名注册信息，粘贴网址或邮箱都能自动提取域名</p>
+  </div>
+
+  <form class="form" id="form">
+    <input type="text" id="q" inputmode="url" autocomplete="off"
+           placeholder="输入域名，例如 example.com" aria-label="域名">
+    <button class="btn btn--primary" type="submit" id="go">查询</button>
+  </form>
+
+  <div class="result" id="result" aria-live="polite">
+    <p class="hint">
+      DNS 记录通过 <a href="https://developers.google.com/speed/public-dns/docs/doh" target="_blank" rel="noopener">Google DNS-over-HTTPS</a>
+      查询（失败时回退 Cloudflare），注册信息来自
+      <a href="https://about.rdap.org" target="_blank" rel="noopener">RDAP</a> —— 也就是 WHOIS 的现代替代协议。
+      两者都开放跨域，无需注册。
+    </p>
+  </div>
+
+</main>
+
+<footer class="site-footer">
+  <p>© <span id="year">2026</span> Levileo-B · 由 GitHub Pages 托管</p>
+</footer>
+
+<script src="../../assets/main.js"></script>
+<script src="parse.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

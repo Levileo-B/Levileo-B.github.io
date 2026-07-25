@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>博客编辑器 · Levileo-B</title>
+<meta name="description" content="Markdown 博客编辑器：实时预览、front matter 生成、字数统计、草稿自动保存、导出 .md。">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>✍️</text></svg>">
+<link rel="stylesheet" href="../../assets/style.css">
+<link rel="stylesheet" href="../../assets/tools.css">
+<script>
+  try {
+    var t = localStorage.getItem('theme');
+    if (t === 'dark' || t === 'light') document.documentElement.setAttribute('data-theme', t);
+  } catch (e) {}
+</script>
+</head>
+<body>
+
+<a class="skip-link" href="#main">跳到主要内容</a>
+
+<header class="site-header">
+  <nav class="nav" aria-label="主导航">
+    <a class="nav__brand" href="../">← 工具箱</a>
+    <ul class="nav__list">
+      <li><a href="../../">主页</a></li>
+      <li><a href="../domain/">域名分析</a></li>
+      <li><a href="../papers/">论文检索</a></li>
+    </ul>
+    <button class="theme-toggle" type="button" aria-label="切换深色 / 浅色模式">
+      <span class="theme-toggle__icon" aria-hidden="true">◐</span>
+    </button>
+  </nav>
+</header>
+
+<main id="main" class="tool tool--wide">
+
+  <div class="tool__head">
+    <h1 class="tool__title">博客编辑器</h1>
+    <p class="tool__sub">写 Markdown，右侧实时预览。草稿存在本地浏览器里，刷新不丢</p>
+  </div>
+
+  <div class="meta-fields">
+    <input type="text" id="m-title" placeholder="文章标题" aria-label="文章标题">
+    <input type="date" id="m-date" aria-label="发布日期">
+    <input type="text" id="m-tags" placeholder="标签，逗号分隔" aria-label="标签">
+  </div>
+
+  <div class="editor">
+    <div class="editor__pane">
+      <div class="editor__bar">
+        <span class="editor__label">Markdown</span>
+        <span class="editor__stats" id="stats"></span>
+      </div>
+      <textarea id="src" spellcheck="false" aria-label="Markdown 正文"></textarea>
+    </div>
+    <div class="editor__pane">
+      <div class="editor__bar">
+        <span class="editor__label">预览</span>
+        <span class="editor__saved" id="saved"></span>
+      </div>
+      <div class="preview markdown" id="preview"></div>
+    </div>
+  </div>
+
+  <div class="game__actions" style="justify-content:flex-start">
+    <button class="btn btn--primary" type="button" id="dl-md">下载 .md</button>
+    <button class="btn btn--ghost" type="button" id="copy-md">复制 Markdown</button>
+    <button class="btn btn--ghost" type="button" id="copy-html">复制 HTML</button>
+    <button class="btn btn--ghost" type="button" id="clear">清空</button>
+  </div>
+
+  <details class="howto" style="margin-top:1.75rem">
+    <summary>怎么把文章发到这个站点上</summary>
+    <p>
+      这个编辑器只负责写作和导出，不会替你提交代码 —— 那需要 GitHub 令牌，
+      而把令牌存进网页是不安全的。发布流程建议这样：
+      先「下载 .md」拿到文件，然后在仓库里新建
+      <code>posts/你的文件名.md</code> 并粘贴内容，
+      直接用 GitHub 网页版的「Add file → Create new file」就能完成，不用装任何东西。
+    </p>
+    <p>
+      支持的语法：标题、<b>加粗</b>、<i>斜体</i>、删除线、行内代码、围栏代码块、
+      有序 / 无序列表、引用、分隔线、链接、图片。暂不支持表格和脚注。
+      正文里的原始 HTML 会按纯文本显示，不会被执行。
+    </p>
+  </details>
+
+</main>
+
+<footer class="site-footer">
+  <p>© <span id="year">2026</span> Levileo-B · 由 GitHub Pages 托管</p>
+</footer>
+
+<script src="../../assets/main.js"></script>
+<script src="md.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

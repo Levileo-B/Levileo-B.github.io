@@ -40,11 +40,11 @@
   </div>
 
   <p class="notice">
-    <strong>先说清楚这个工具不做什么：</strong>它不会替你破解出视频的真实流地址。
-    浏览器受同源策略限制拿不到那些接口，而且各平台直链都带签名、有时效，必须在服务端解密 ——
-    静态站点没有后端，做不到这件事。
-    所以这里做的是<strong>链接解析</strong>：认出平台和视频 ID，生成规范链接、播放器嵌入地址、
-    公开的封面图直链，并把 <strong>yt-dlp</strong> 命令拼好给你，真正的下载交给本地执行。
+    <strong>哪些能一键下载：</strong>直接是媒体文件的链接（.mp4/.jpg 等）、GIPHY、Reddit
+    的视频与图集、以及各平台的封面图 —— 这些都能拿到真实直链，点「下载」即可保存。<br>
+    <strong>哪些不能：</strong>YouTube、哔哩哔哩、抖音的<strong>视频本体</strong>。
+    它们的流地址带签名且有时效，必须服务端解密，静态页面做不到。
+    这类请用下方拼好的 <strong>yt-dlp</strong> 命令，或配置一个自建解析服务。
   </p>
 
   <form class="form" id="form">
@@ -54,7 +54,23 @@
     <button class="btn btn--primary" type="submit">解析</button>
   </form>
 
+  <div id="download" aria-live="polite"></div>
+
   <div class="result" id="result" aria-live="polite"></div>
+
+  <details class="howto" style="margin-top:2rem">
+    <summary>可选：接入自建解析服务，让平台视频也能一键下载</summary>
+    <p>
+      填入一个接受 <code>POST {"url": "..."}</code> 并返回 <code>{"url": "直链"}</code>
+      的接口地址（<a href="https://github.com/imputnet/cobalt" target="_blank" rel="noopener">cobalt</a>
+      自建实例即为此格式）。地址只存在你自己浏览器的 localStorage 里，不会上传到任何地方。
+      留空则不启用。
+    </p>
+    <div class="form" style="margin-top:.5rem">
+      <input type="text" id="resolver" inputmode="url" autocomplete="off"
+             placeholder="https://your-cobalt-instance.example/api/json" aria-label="解析服务地址">
+    </div>
+  </details>
 
   <p class="hint" style="margin-top:2rem">
     支持 YouTube、哔哩哔哩、Vimeo、X / Twitter、抖音、TikTok。
@@ -70,6 +86,7 @@
 
 <script src="../../assets/main.js"></script>
 <script src="parse.js"></script>
+<script src="direct.js"></script>
 <script src="app.js"></script>
 </body>
 </html>
