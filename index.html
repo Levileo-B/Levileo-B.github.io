@@ -36,6 +36,7 @@
     <ul class="nav__list">
       <li><a href="#news">热点</a></li>
       <li><a href="hot/">实时</a></li>
+      <li><a href="#daily">每日</a></li>
       <li><a href="#tools">工具</a></li>
       <li><a href="#projects">项目</a></li>
       <li><a href="games/">游戏</a></li>
@@ -79,6 +80,43 @@
       </div>
       <p class="news__foot">
         由 GitHub Actions 每 3 小时抓取 20 个 RSS 源生成，内容与观点均来自各原始站点。想看当下的榜单，去<a href="hot/">实时热点</a>。
+      </p>
+    </div>
+  </section>
+
+  <!-- 每日 -->
+  <section class="section" id="daily">
+    <div class="section__bar">
+      <h2 class="section__title">每日</h2>
+      <span class="news__stamp">每 3 小时随热点一起更新</span>
+    </div>
+
+    <div class="daily-grid">
+      <div class="card">
+        <p class="result__label">LeetCode 每日一题</p>
+        <div id="lc-body"><p class="news__empty">正在加载…</p></div>
+      </div>
+
+      <div class="card">
+        <p class="result__label">每日英文短文</p>
+        <div id="en-body"><p class="news__empty">正在加载…</p></div>
+      </div>
+    </div>
+
+    <div class="card" style="margin-top:1.25rem">
+      <p class="result__label">趣味视频</p>
+      <div class="video-wrap">
+        <video id="fun-video" controls preload="none" playsinline
+               poster="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 9'%3E%3Crect width='16' height='9' fill='%23e8eaed'/%3E%3C/svg%3E">
+          <source src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4">
+          你的浏览器不支持内嵌视频。
+        </video>
+      </div>
+      <p class="news__foot" id="video-note">
+        《Big Buck Bunny》—— Blender 基金会的开源动画短片，
+        <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank" rel="noopener">CC BY 3.0</a> 许可，
+        可自由播放与分发。想换成别的视频，改 <code>index.html</code> 里
+        <code>&lt;source&gt;</code> 的地址即可。
       </p>
     </div>
   </section>
@@ -262,6 +300,8 @@
 </footer>
 
 <script src="assets/main.js"></script>
+<script src="assets/bgm.js"></script>
 <script src="assets/news.js"></script>
+<script src="assets/daily.js"></script>
 </body>
 </html>

@@ -13,6 +13,8 @@
 - 自定义 404 页面
 - **热点窗格**：GitHub Actions 每 3 小时抓取 20 个 RSS 源，按分类聚合
 - **实时热点页**：浏览器直连拉取 HN / GitHub / Reddit 榜单，另附各大热搜入口
+- **每日**：LeetCode 每日一题、每日英文短文（维基百科精选，CC BY-SA）、趣味视频
+- **背景音乐**：顶部导航栏开关，声音由 Web Audio 实时合成，不含任何音乐文件
 - **小游戏**：2048、贪吃蛇、QWOP 式跑步模拟，纯前端实现，支持键盘与触屏
 - **工具箱**：视频链接解析（含一键下载）、论文检索、域名分析、博客编辑器，
   以及 30 个常用工具站点入口
@@ -28,7 +30,9 @@
 │   ├── style.css           # 站点样式（含主题变量）
 │   ├── game.css            # 游戏页样式
 │   ├── main.js             # 主题切换、页脚年份
-│   └── news.js             # 热点窗格渲染
+│   ├── news.js             # 热点窗格渲染
+│   ├── daily.js            # 每日一题 / 每日英文渲染
+│   └── bgm.js              # 背景音乐开关（Web Audio 合成）
 ├── games/
 │   ├── index.html          # 游戏列表
 │   ├── 2048/
@@ -54,9 +58,11 @@
 │       ├── md.js           # Markdown 渲染器（可单测）
 │       └── app.js          # 界面层
 ├── data/
-│   └── news.json           # 由 Actions 生成，不要手工改
+│   ├── news.json           # 由 Actions 生成，不要手工改
+│   └── daily.json          # 同上
 ├── scripts/
-│   └── fetch_news.py       # RSS 抓取脚本（仅标准库）
+│   ├── fetch_news.py       # RSS 抓取脚本（仅标准库）
+│   └── fetch_daily.py      # LeetCode 每日一题 + 维基百科精选
 └── .github/workflows/
     └── update-news.yml     # 每 3 小时定时任务
 ```
@@ -82,6 +88,30 @@ Reddit（`r/popular` 的 `.json`）。支持手动刷新与每 5 分钟自动刷
 **想立刻更新一次**：仓库 → Actions → 「更新热点」→ Run workflow。
 
 > 注意：定时任务需要仓库的 Actions 有写权限。若 push 步骤报 403，去 Settings → Actions → General → Workflow permissions，选 `Read and write permissions`。
+
+## 每日内容与背景音乐
+
+**LeetCode 每日一题**走服务端抓取（`scripts/fetch_daily.py`），因为 LeetCode 的
+GraphQL 接口不发 CORS 头，浏览器直连会被拦。先试 leetcode.cn（有中文标题），
+失败再退到 leetcode.com。**只存标题、难度、标签和链接这类元信息，不存题面正文** ——
+题目内容是 LeetCode 的版权材料，点链接过去看。
+
+**每日英文短文**取维基百科「每日精选条目」的摘要，CC BY-SA 4.0，页面上标注来源与
+许可并回链原文。选它是因为要每天更新又不能侵权，公有领域 / 开放许可的英文素材里
+这个质量和稳定性最好。当天精选还没发布时会自动往前回退最多 3 天。
+
+**趣味视频**用的是 Blender 基金会的开源动画《Big Buck Bunny》，CC BY 3.0，可自由
+播放分发。`preload="none"` 所以不点播放就不消耗流量。想换视频改 `index.html` 里
+`<source>` 的地址即可。
+
+**背景音乐**没有音频文件 —— 五声音阶上的随机音符加一层低音铺底，全部由 Web Audio
+实时合成，因此既没有版权问题也不增加加载体积。开关在每个页面顶部导航栏（由
+`bgm.js` 自动注入，不用逐页改 HTML），开关状态和音量存在 localStorage。
+浏览器禁止未经交互自动播放，所以首次必须点一下；之前开过的话，脚本只是预备好，
+等你在页面上第一次点击或按键时才出声。
+
+想换成自己的曲子：给引入脚本的标签加 `data-src`，例如
+`<script src="assets/bgm.js" data-src="assets/bgm.mp3"></script>`。
 
 ## 工具箱的能力边界
 
