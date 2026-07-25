@@ -11,7 +11,7 @@
 - 自动跟随系统深色模式，也可手动切换（选择会被记住）
 - 基础无障碍支持：跳转链接、语义化标签、键盘焦点样式
 - 自定义 404 页面
-- **热点窗格**：GitHub Actions 每 3 小时抓取 25 个 RSS 源，按分类聚合
+- **热点窗格**：GitHub Actions 每 3 小时抓取 20 个 RSS 源，按分类聚合
 - **实时热点页**：浏览器直连拉取 HN / GitHub / Reddit 榜单，另附各大热搜入口
 - **小游戏**：2048、贪吃蛇、QWOP 式跑步模拟，纯前端实现，支持键盘与触屏
 - **工具箱**：视频链接解析（含一键下载）、论文检索、域名分析、博客编辑器，
@@ -67,7 +67,7 @@
 所以走 Actions 在服务端抓好再落地成静态文件：
 
 1. `.github/workflows/update-news.yml` 每 3 小时触发一次
-2. `scripts/fetch_news.py` 并发抓取 25 个源（8 线程），写入 `data/news.json`
+2. `scripts/fetch_news.py` 并发抓取 20 个源（8 线程），写入 `data/news.json`
 3. 有变化就自动 commit 回仓库，Pages 随之更新
 4. 首页 `assets/news.js` 读取这个静态 JSON，按 `category` 分类聚合后渲染
 

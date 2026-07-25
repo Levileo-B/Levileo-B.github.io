@@ -23,11 +23,12 @@ from email.utils import parsedate_to_datetime
 # 想增删新闻源，改这个列表就行。
 # name 是条目上显示的来源名，category 决定它归到页面上哪一栏。
 # 某个源挂掉不影响其他源，失败原因会打在 Actions 日志里。
+# 下面这些源都经 Actions 实跑验证可用。想加新源直接往里塞，
+# 跑一次 workflow 看日志即可确认；解析不出条目通常是地址给错了。
 FEEDS = [
     # ---- 综合 ----
     {"name": "BBC 中文", "category": "综合", "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml"},
     {"name": "BBC World", "category": "综合", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
-    {"name": "联合国新闻", "category": "综合", "url": "https://news.un.org/feed/subscribe/zh/news/all/rss.xml"},
 
     # ---- 科技 ----
     {"name": "36 氪", "category": "科技", "url": "https://36kr.com/feed"},
@@ -48,12 +49,10 @@ FEEDS = [
     {"name": "美团技术团队", "category": "开发", "url": "https://tech.meituan.com/feed/"},
 
     # ---- 科研 / AI ----
-    {"name": "机器之心", "category": "科研", "url": "https://www.jiqizhixin.com/rss"},
     {"name": "量子位", "category": "科研", "url": "https://www.qbitai.com/feed"},
     {"name": "MIT Technology Review", "category": "科研", "url": "https://www.technologyreview.com/feed/"},
     {"name": "Nature", "category": "科研", "url": "https://www.nature.com/nature.rss"},
     {"name": "ScienceDaily", "category": "科研", "url": "https://www.sciencedaily.com/rss/all.xml"},
-    {"name": "arXiv cs.AI", "category": "科研", "url": "https://rss.arxiv.org/rss/cs.AI"},
 ]
 
 PER_FEED = 5          # 每个源最多保留几条
