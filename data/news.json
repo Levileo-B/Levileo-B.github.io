@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T02:12:00+00:00",
+  "updated": "2026-07-26T05:55:12+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -7,29 +7,29 @@
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
         {
+          "title": "《唯紅花綻放》馮哲芸專訪：看見「我是書店店員」被捕照落淚",
+          "link": "https://www.bbc.com/zhongwen/articles/c05qmrj6lgqo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-26T04:42:23+00:00"
+        },
+        {
+          "title": "柏林同志遊行遭汽車衝撞釀1死16傷  警方搜捕涉案人士",
+          "link": "https://www.bbc.com/zhongwen/articles/cly5q2r3pyyo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-26T03:19:42+00:00"
+        },
+        {
           "title": "中國兩學者破解百年難題，首奪全球數學最高榮譽",
           "link": "https://www.bbc.com/zhongwen/articles/c86npjqxpx9o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-25T00:42:44+00:00"
         },
         {
-          "title": "曼德海峽：胡塞武裝的威脅會否觸發紅海航運危機？",
-          "link": "https://www.bbc.com/zhongwen/articles/c4g63djrgy8o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-24T00:03:29+00:00"
+          "title": "怎樣辨識出「AI臉」？",
+          "link": "https://www.bbc.com/zhongwen/articles/cedjl1vvjdyo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-26T02:54:37+00:00"
         },
         {
           "title": "美中AI科技戰：白宮稱中國「月之暗面」Kimi K3模型竊取Anthropic技術",
           "link": "https://www.bbc.com/zhongwen/articles/c62vqpqdqjwo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-24T04:16:29+00:00"
-        },
-        {
-          "title": "台灣陸配參選資格「設籍滿十年」改「除籍滿十年」意味什麼？",
-          "link": "https://www.bbc.com/zhongwen/articles/c77gr3163dxo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-23T10:00:32+00:00"
-        },
-        {
-          "title": "為什麼你總是在凌晨三點醒來？",
-          "link": "https://www.bbc.com/zhongwen/articles/cx2m5e7g3dyo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-24T03:38:53+00:00"
         }
       ]
     },
@@ -263,29 +263,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Possible invasive species superspreader event near Strait of Hormuz",
-          "link": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
-          "date": "2026-07-26T01:13:19+00:00"
+          "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
+          "link": "https://github.com/mulfyx/w4me-station",
+          "date": "2026-07-26T04:19:59+00:00"
         },
         {
-          "title": "Git rebase -I is not that scary",
-          "link": "https://cachebag.sh/journal/interactive-rebasing/",
-          "date": "2026-07-26T00:37:54+00:00"
+          "title": "Humans haven't stopped evolving",
+          "link": "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure",
+          "date": "2026-07-26T03:09:46+00:00"
         },
         {
-          "title": "Systems and Delays",
-          "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-          "date": "2026-07-26T00:37:30+00:00"
+          "title": "JetZero",
+          "link": "https://www.jetzero.aero",
+          "date": "2026-07-26T02:55:50+00:00"
         },
         {
-          "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-          "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "date": "2026-07-26T00:36:30+00:00"
+          "title": "An ESP32 based plane radar for my desk",
+          "link": "https://blog.ktz.me/esp32-plane-radar/",
+          "date": "2026-07-26T02:35:43+00:00"
         },
         {
-          "title": "GNU Hurd gets 9pfs, OpenNTPD, dynamic /dev/ entries, and more",
-          "link": "https://www.osnews.com/story/145603/the-hurd-gets-9pfs-openntpd-dynamic-dev-entries-and-more/",
-          "date": "2026-07-26T00:19:13+00:00"
+          "title": "Show HN: I mapped every US golf course",
+          "link": "https://golfcoursebrowser.com/",
+          "date": "2026-07-26T02:22:26+00:00"
         }
       ]
     },
@@ -300,24 +300,24 @@
           "date": "2026-07-25T11:33:00+00:00"
         },
         {
-          "title": "stinkpot: sqlite-backed shell history",
-          "link": "https://tangled.org/oppi.li/stinkpot",
-          "date": "2026-07-25T09:10:12+00:00"
-        },
-        {
           "title": "Memory Safety Absolutists",
           "link": "https://itsallaboutthebit.com/memory-safety-absolutists/",
           "date": "2026-07-25T21:38:29+00:00"
         },
         {
-          "title": "Zig by Example",
-          "link": "https://zigbyexample.neocities.org/",
-          "date": "2026-07-25T12:58:43+00:00"
-        },
-        {
           "title": "Maybe we should revisit microkernels",
           "link": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
           "date": "2026-07-25T22:13:07+00:00"
+        },
+        {
+          "title": "stinkpot: sqlite-backed shell history",
+          "link": "https://tangled.org/oppi.li/stinkpot",
+          "date": "2026-07-25T09:10:12+00:00"
+        },
+        {
+          "title": "Zig by Example",
+          "link": "https://zigbyexample.neocities.org/",
+          "date": "2026-07-25T12:58:43+00:00"
         }
       ]
     },
@@ -327,29 +327,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[生活] 讲述下经历遭遇后，我的心理变化，目前正在调整期",
-          "link": "https://www.v2ex.com/t/1229836#reply1",
-          "date": "2026-07-26T02:01:41+00:00"
+          "title": "[微信] 通过导出聊天记录到电脑的 bug 严重怀疑微信团队是个草台班子",
+          "link": "https://www.v2ex.com/t/1229879#reply0",
+          "date": "2026-07-26T05:53:45+00:00"
         },
         {
-          "title": "[Apple] 要给 intel Macbook Air 升级， m2 16+256 还是 m3 8+256，二选一",
-          "link": "https://www.v2ex.com/t/1229835#reply2",
-          "date": "2026-07-26T02:00:59+00:00"
+          "title": "[Android] 二维码扫码用什么方案好？",
+          "link": "https://www.v2ex.com/t/1229878#reply0",
+          "date": "2026-07-26T05:51:36+00:00"
         },
         {
-          "title": "[职场话题] 看看大家的意见，这 3 个 offer 如何选择",
-          "link": "https://www.v2ex.com/t/1229834#reply4",
-          "date": "2026-07-26T01:20:50+00:00"
+          "title": "[分享发现] Claude 免费 20x 教程",
+          "link": "https://www.v2ex.com/t/1229877#reply1",
+          "date": "2026-07-26T05:48:32+00:00"
         },
         {
-          "title": "[Apple TV] Apple TV + Sony TV CEC 控制出问题了",
-          "link": "https://www.v2ex.com/t/1229833#reply2",
-          "date": "2026-07-26T01:20:46+00:00"
+          "title": "[分享创造] 用 codex vide 了一个 macbook 小工具",
+          "link": "https://www.v2ex.com/t/1229876#reply0",
+          "date": "2026-07-26T05:29:14+00:00"
         },
         {
-          "title": "[分享发现] 静听使用笔记｜导入之后，怎么把音乐整理成自己的资料库",
-          "link": "https://www.v2ex.com/t/1229832#reply0",
-          "date": "2026-07-26T01:20:38+00:00"
+          "title": "[问与答] 有没有什么好用的漫画翻译插件？付费的也行",
+          "link": "https://www.v2ex.com/t/1229875#reply0",
+          "date": "2026-07-26T05:26:17+00:00"
         }
       ]
     },
@@ -568,6 +568,38 @@
       ]
     },
     {
+      "name": "Nature",
+      "category": "科研",
+      "url": "https://www.nature.com/nature.rss",
+      "items": [
+        {
+          "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
+          "link": "https://www.nature.com/articles/s41586-026-10911-y",
+          "date": "2026-07-24T00:00:00+00:00"
+        },
+        {
+          "title": "Personalized gene therapy relieves severe epilepsy in two boys",
+          "link": "https://www.nature.com/articles/d41586-026-02267-0",
+          "date": "2026-07-24T00:00:00+00:00"
+        },
+        {
+          "title": "Briefing Chat: Baby <i>T. rex</i> were killers from birth, suggest new fossils",
+          "link": "https://www.nature.com/articles/d41586-026-02338-2",
+          "date": "2026-07-24T00:00:00+00:00"
+        },
+        {
+          "title": "Bizarre CRISPR enzyme kills cancer cells by shredding their DNA",
+          "link": "https://www.nature.com/articles/d41586-026-02268-z",
+          "date": "2026-07-24T00:00:00+00:00"
+        },
+        {
+          "title": "White House rolls out AI funding — and signals a new era for US science",
+          "link": "https://www.nature.com/articles/d41586-026-02332-8",
+          "date": "2026-07-24T00:00:00+00:00"
+        }
+      ]
+    },
+    {
       "name": "ScienceDaily",
       "category": "科研",
       "url": "https://www.sciencedaily.com/rss/all.xml",
@@ -599,8 +631,5 @@
         }
       ]
     }
-  ],
-  "failed": [
-    "Nature"
   ]
 }
