@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>实时热点 · Levileo-B</title>
-<meta name="description" content="浏览器直连拉取的实时热榜：Hacker News、Reddit、GitHub 新星项目，以及各大热搜入口。">
+<meta name="description" content="浏览器直连六个实时热榜：Hacker News、GitHub、DEV、Stack Overflow、Mastodon 与中文维基热榜。">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔥</text></svg>">
 <link rel="stylesheet" href="../assets/style.css">
 <link rel="stylesheet" href="../assets/tools.css">
@@ -39,7 +39,7 @@
   <div class="tool__head">
     <h1 class="tool__title">实时热点</h1>
     <p class="tool__sub">
-      打开即拉取，不是定时快照。首页那个「每日热点」是 Actions 抓好的，这里是浏览器直连。
+      打开即拉取，不是定时快照。六个免密钥且支持跨域的数据源独立加载，单个接口失败不会影响其他栏目。
     </p>
   </div>
 
@@ -57,7 +57,7 @@
     <h2 class="section__title">热搜入口</h2>
     <div class="card">
       <p class="news__foot" style="margin:0 0 1rem;padding:0;border:0">
-        下面这些站点的热榜接口不开放跨域，静态页面拉不到内容，只能直接跳转过去看。
+        下面保留常用站点的官方入口，适合在六栏实时订阅之外继续浏览；部分站点接口不开放跨域，只能直接跳转查看。
       </p>
 
       <div class="link-group">
@@ -79,7 +79,7 @@
         <ul class="link-grid">
           <li><a href="https://news.ycombinator.com" target="_blank" rel="noopener"><strong>Hacker News</strong><span>科技社区</span></a></li>
           <li><a href="https://github.com/trending" target="_blank" rel="noopener"><strong>GitHub Trending</strong><span>官方趋势榜</span></a></li>
-          <li><a href="https://www.reddit.com/r/popular/" target="_blank" rel="noopener"><strong>Reddit Popular</strong><span>全站热门</span></a></li>
+          <li><a href="https://mastodon.social/explore" target="_blank" rel="noopener"><strong>Mastodon Explore</strong><span>公开趋势</span></a></li>
           <li><a href="https://lobste.rs" target="_blank" rel="noopener"><strong>Lobsters</strong><span>技术聚合</span></a></li>
           <li><a href="https://producthunt.com" target="_blank" rel="noopener"><strong>Product Hunt</strong><span>新产品榜</span></a></li>
           <li><a href="https://trends.google.com/trending" target="_blank" rel="noopener"><strong>Google Trends</strong><span>搜索趋势</span></a></li>

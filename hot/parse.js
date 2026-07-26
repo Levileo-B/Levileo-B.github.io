@@ -5,7 +5,35 @@
 // 微博热搜、知乎热榜这类接口不开放跨域，只能以链接入口的形式给出。
 (function (root) {
 
-  function num(v) { return typeof v === 'number' && isFinite(v) ? v : 0; }
+  function num(v) {
+    var n = Number(v);
+    return v !== null && v !== '' && isFinite(n) ? n : 0;
+  }
+
+  function plainText(value) {
+    var named = { amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", nbsp: ' ' };
+    return String(value == null ? '' : value)
+      .replace(/<br\s*\/?>/gi, ' ')
+      .replace(/<\/p>/gi, ' ')
+      .replace(/<[^>]*>/g, ' ')
+      .replace(/&#x([0-9a-f]+);/gi, function (_, n) {
+        return String.fromCodePoint(parseInt(n, 16));
+      })
+      .replace(/&#(\d+);/g, function (_, n) {
+        return String.fromCodePoint(parseInt(n, 10));
+      })
+      .replace(/&([a-z]+);/gi, function (all, name) {
+        return Object.prototype.hasOwnProperty.call(named, name.toLowerCase()) ?
+          named[name.toLowerCase()] : all;
+      })
+      .replace(/\s+/g, ' ')
+      .trim();
+  }
+
+  function shorten(value, max) {
+    var text = plainText(value);
+    return text.length > max ? text.slice(0, max - 1).trim() + '…' : text;
+  }
 
   // Hacker News：https://hacker-news.firebaseio.com/v0/item/<id>.json
   function hnItem(it) {
@@ -20,26 +48,6 @@
       by: it.by || '',
       ts: num(it.time) * 1000
     };
-  }
-
-  // Reddit：https://www.reddit.com/r/popular/hot.json
-  function reddit(json) {
-    var children;
-    try { children = json.data.children; } catch (e) { return []; }
-    if (!Array.isArray(children)) return [];
-    return children.map(function (c) {
-      var d = c && c.data;
-      if (!d || !d.title) return null;
-      return {
-        title: String(d.title),
-        link: d.url_overridden_by_dest || ('https://www.reddit.com' + (d.permalink || '')),
-        comments: 'https://www.reddit.com' + (d.permalink || ''),
-        score: num(d.score),
-        count: num(d.num_comments),
-        by: d.subreddit ? 'r/' + d.subreddit : '',
-        ts: num(d.created_utc) * 1000
-      };
-    }).filter(Boolean);
   }
 
   // GitHub：https://api.github.com/search/repositories?q=created:>...&sort=stars
@@ -61,6 +69,88 @@
     }).filter(Boolean);
   }
 
+  // DEV Community：https://dev.to/api/articles?top=7
+  function dev(json) {
+    if (!Array.isArray(json)) return [];
+    return json.map(function (a) {
+      if (!a || !a.title || !a.url) return null;
+      return {
+        title: String(a.title),
+        desc: a.description || '',
+        link: a.url,
+        comments: a.url + '#comments',
+        score: num(a.public_reactions_count || a.positive_reactions_count),
+        count: num(a.comments_count),
+        by: a.user && (a.user.name || a.user.username) || '',
+        ts: Date.parse(a.published_timestamp || a.published_at || '') || 0
+      };
+    }).filter(Boolean);
+  }
+
+  // Stack Overflow：https://api.stackexchange.com/2.3/questions?sort=hot
+  function stackOverflow(json) {
+    var items = json && json.items;
+    if (!Array.isArray(items)) return [];
+    return items.map(function (q) {
+      if (!q || !q.title || !q.link) return null;
+      return {
+        title: plainText(q.title),
+        link: q.link,
+        comments: q.link,
+        score: num(q.score),
+        count: num(q.answer_count),
+        by: Array.isArray(q.tags) ? q.tags.slice(0, 2).join(' · ') : '',
+        ts: num(q.last_activity_date || q.creation_date) * 1000
+      };
+    }).filter(Boolean);
+  }
+
+  // Mastodon：https://mastodon.social/api/v1/trends/statuses
+  function mastodon(json) {
+    if (!Array.isArray(json)) return [];
+    return json.map(function (status) {
+      var s = status && (status.reblog || status);
+      var title = s && shorten(s.content || s.spoiler_text, 140);
+      if (!s || !title || !s.url) return null;
+      return {
+        title: title,
+        desc: s.card && s.card.title ? shorten(s.card.title, 100) : '',
+        link: s.url,
+        comments: s.url,
+        score: num(s.favourites_count) + num(s.reblogs_count),
+        count: num(s.replies_count),
+        by: s.account && (s.account.display_name || s.account.acct) || '',
+        ts: Date.parse(s.created_at || '') || 0
+      };
+    }).filter(Boolean);
+  }
+
+  // Wikimedia Analytics：中文维基百科前一日浏览量榜单
+  function wikipedia(json) {
+    var first = json && json.items && json.items[0];
+    var articles = first && first.articles;
+    if (!Array.isArray(articles)) return [];
+
+    var ts = first.year && first.month && first.day ?
+      Date.UTC(num(first.year), num(first.month) - 1, num(first.day)) : 0;
+
+    return articles.map(function (a) {
+      var raw = a && a.article;
+      if (!raw || /^(?:Main_Page$|首页$|Special:|特殊:|Wikipedia:|维基百科:|-$)/i.test(raw)) return null;
+      var title = raw.replace(/_/g, ' ');
+      try { title = decodeURIComponent(title); } catch (e) {}
+      return {
+        title: title,
+        link: 'https://zh.wikipedia.org/wiki/' + encodeURIComponent(raw),
+        comments: '',
+        score: num(a.views),
+        count: 0,
+        by: '中文维基百科',
+        ts: ts
+      };
+    }).filter(Boolean);
+  }
+
   // 取「最近 N 天内创建」的仓库，按星标排序
   function githubQuery(days, perPage) {
     var d = new Date(Date.now() - (days || 7) * 86400000);
@@ -70,7 +160,24 @@
            '&sort=stars&order=desc&per_page=' + (perPage || 12);
   }
 
-  var api = { hnItem: hnItem, reddit: reddit, github: github, githubQuery: githubQuery };
+  function wikipediaQuery(daysAgo) {
+    var d = new Date(Date.now() - (daysAgo || 1) * 86400000);
+    return 'https://wikimedia.org/api/rest_v1/metrics/pageviews/top/' +
+      'zh.wikipedia.org/all-access/' + d.getUTCFullYear() + '/' +
+      String(d.getUTCMonth() + 1).padStart(2, '0') + '/' +
+      String(d.getUTCDate()).padStart(2, '0');
+  }
+
+  var api = {
+    hnItem: hnItem,
+    github: github,
+    dev: dev,
+    stackOverflow: stackOverflow,
+    mastodon: mastodon,
+    wikipedia: wikipedia,
+    githubQuery: githubQuery,
+    wikipediaQuery: wikipediaQuery
+  };
   if (typeof module === 'object' && module.exports) module.exports = api;
   else root.HotParse = api;
 })(typeof self !== 'undefined' ? self : this);

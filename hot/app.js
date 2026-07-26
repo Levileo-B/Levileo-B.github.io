@@ -1,4 +1,4 @@
-// 实时热点：浏览器直连三个开放跨域的接口，整形逻辑在 parse.js
+// 实时热点：浏览器直连六个开放跨域的接口，整形逻辑在 parse.js
 (function () {
   var P = window.HotParse;
   var live = document.getElementById('live');
@@ -6,7 +6,7 @@
   var refreshBtn = document.getElementById('refresh');
   var autoEl = document.getElementById('auto');
 
-  var HN_TOP = 12;
+  var ITEM_LIMIT = 12;
   var AUTO_MS = 5 * 60 * 1000;
   var timer = null;
 
@@ -25,6 +25,10 @@
     return Math.floor(diff / 86400) + ' 天前';
   }
 
+  function formatNumber(n) {
+    return Number(n).toLocaleString('zh-CN');
+  }
+
   function getJSON(url) {
     return fetch(url, { headers: { Accept: 'application/json' } }).then(function (r) {
       if (!r.ok) throw new Error('HTTP ' + r.status);
@@ -32,12 +36,12 @@
     });
   }
 
-  // ---------- 三个数据源 ----------
+  // ---------- 六个数据源 ----------
   function loadHN() {
     return getJSON('https://hacker-news.firebaseio.com/v0/topstories.json')
       .then(function (ids) {
         if (!Array.isArray(ids)) throw new Error('响应格式异常');
-        return Promise.all(ids.slice(0, HN_TOP).map(function (id) {
+        return Promise.all(ids.slice(0, ITEM_LIMIT).map(function (id) {
           return getJSON('https://hacker-news.firebaseio.com/v0/item/' + id + '.json')
             .then(P.hnItem)
             .catch(function () { return null; });
@@ -46,29 +50,57 @@
       .then(function (list) { return list.filter(Boolean); });
   }
 
-  function loadReddit() {
-    return getJSON('https://www.reddit.com/r/popular/hot.json?limit=12&raw_json=1')
-      .then(P.reddit);
+  function loadGitHub() {
+    return getJSON(P.githubQuery(7, ITEM_LIMIT)).then(P.github);
   }
 
-  function loadGitHub() {
-    return getJSON(P.githubQuery(7, 12)).then(P.github);
+  function loadDev() {
+    return getJSON('https://dev.to/api/articles?top=7&per_page=' + ITEM_LIMIT).then(P.dev);
+  }
+
+  function loadStackOverflow() {
+    return getJSON('https://api.stackexchange.com/2.3/questions?' +
+      'site=stackoverflow&order=desc&sort=hot&pagesize=' + ITEM_LIMIT)
+      .then(P.stackOverflow);
+  }
+
+  function loadMastodon() {
+    return getJSON('https://mastodon.social/api/v1/trends/statuses?limit=' + ITEM_LIMIT)
+      .then(P.mastodon);
+  }
+
+  function loadWikipedia(daysAgo) {
+    var offset = daysAgo || 1;
+    return getJSON(P.wikipediaQuery(offset))
+      .then(P.wikipedia)
+      .then(function (items) { return items.slice(0, ITEM_LIMIT); })
+      .catch(function (error) {
+        // Wikimedia 日榜偶尔延迟生成，自动向前回退两天。
+        if (offset < 3) return loadWikipedia(offset + 1);
+        throw error;
+      });
   }
 
   var PANELS = [
-    { key: 'hn', title: 'Hacker News', note: '当前 Top', unit: '分', load: loadHN,
-      home: 'https://news.ycombinator.com' },
-    { key: 'gh', title: 'GitHub 新星', note: '近 7 天新建 · 按星标', unit: '★', load: loadGitHub,
-      home: 'https://github.com/trending' },
-    { key: 'rd', title: 'Reddit Popular', note: '全站热门', unit: '赞', load: loadReddit,
-      home: 'https://www.reddit.com/r/popular/' }
+    { key: 'hn', title: 'Hacker News', note: '当前 Top', unit: '分', countUnit: '评论',
+      load: loadHN, home: 'https://news.ycombinator.com' },
+    { key: 'gh', title: 'GitHub 新星', note: '近 7 天新建 · 按星标', unit: '★', countUnit: 'fork',
+      load: loadGitHub, home: 'https://github.com/trending' },
+    { key: 'dev', title: 'DEV Community', note: '近 7 天热门文章', unit: '反应', countUnit: '评论',
+      load: loadDev, home: 'https://dev.to/top/week' },
+    { key: 'so', title: 'Stack Overflow', note: '当前热门问题', unit: '分', countUnit: '回答',
+      load: loadStackOverflow, home: 'https://stackoverflow.com/questions?tab=Hot' },
+    { key: 'mastodon', title: 'Mastodon 趋势', note: '公开热门嘟文', unit: '互动', countUnit: '回复',
+      load: loadMastodon, home: 'https://mastodon.social/explore' },
+    { key: 'wiki', title: '中文维基热榜', note: '昨日浏览排行', unit: '次浏览', countUnit: '',
+      load: loadWikipedia, home: 'https://zh.wikipedia.org/wiki/Special:PopularPages' }
   ];
 
   // ---------- 渲染 ----------
-  function itemHtml(it, unit, i) {
+  function itemHtml(it, panel, i) {
     var meta = [];
-    if (it.score) meta.push(it.score + ' ' + unit);
-    if (it.count) meta.push(it.count + (unit === '★' ? ' fork' : ' 评论'));
+    if (it.score) meta.push(formatNumber(it.score) + ' ' + panel.unit);
+    if (it.count) meta.push(formatNumber(it.count) + ' ' + panel.countUnit);
     if (it.by) meta.push(esc(it.by));
     var when = ago(it.ts);
     if (when) meta.push(when);
@@ -91,7 +123,7 @@
     return '<section class="hot-panel" data-key="' + p.key + '">' +
              '<div class="hot-panel__head">' +
                '<h2 class="hot-panel__title">' + esc(p.title) + '</h2>' +
-               '<a class="hot-panel__more" href="' + p.home +
+               '<a class="hot-panel__more" href="' + esc(p.home) +
                  '" target="_blank" rel="noopener">' + esc(p.note) + ' →</a>' +
              '</div>' + inner +
            '</section>';
@@ -105,7 +137,7 @@
       '）。可能是接口限流、网络不通，或浏览器扩展拦截了请求。</p>';
     else if (!data.length) inner = '<p class="hint">暂时没有内容。</p>';
     else inner = '<ol class="hot-list">' + data.map(function (it, i) {
-      return itemHtml(it, p.unit, i);
+      return itemHtml(it, p, i);
     }).join('') + '</ol>';
 
     var html = panelShell(p, inner);
