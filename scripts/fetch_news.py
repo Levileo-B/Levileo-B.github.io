@@ -30,6 +30,10 @@ FEEDS = [
     {"name": "BBC 中文", "category": "综合", "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml"},
     {"name": "BBC World", "category": "综合", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
 
+    # ---- 财经 ----
+    {"name": "BBC Business", "category": "财经", "url": "https://feeds.bbci.co.uk/news/business/rss.xml"},
+    {"name": "CNBC", "category": "财经", "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html"},
+
     # ---- 科技 ----
     {"name": "36 氪", "category": "科技", "url": "https://36kr.com/feed"},
     {"name": "少数派", "category": "科技", "url": "https://sspai.com/feed"},
@@ -48,9 +52,10 @@ FEEDS = [
     {"name": "酷壳", "category": "开发", "url": "https://coolshell.cn/feed"},
     {"name": "美团技术团队", "category": "开发", "url": "https://tech.meituan.com/feed/"},
 
-    # ---- 科研 / AI ----
-    {"name": "量子位", "category": "科研", "url": "https://www.qbitai.com/feed"},
-    {"name": "MIT Technology Review", "category": "科研", "url": "https://www.technologyreview.com/feed/"},
+    # ---- AI ----
+    {"name": "量子位", "category": "AI", "url": "https://www.qbitai.com/feed"},
+    {"name": "MIT Technology Review", "category": "AI", "url": "https://www.technologyreview.com/feed/"},
+    # ---- 科研 ----
     {"name": "Nature", "category": "科研", "url": "https://www.nature.com/nature.rss"},
     {"name": "ScienceDaily", "category": "科研", "url": "https://www.sciencedaily.com/rss/all.xml"},
 ]

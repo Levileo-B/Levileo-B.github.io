@@ -1,11 +1,16 @@
 {
-  "updated": "2026-07-26T08:15:45+00:00",
+  "updated": "2026-07-26T09:11:55+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "今年最強颱風「紅霞」登陸中國廣東  逾71萬人疏散",
+          "link": "https://www.bbc.com/zhongwen/articles/cqx748q7zrwo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-26T08:35:51+00:00"
+        },
         {
           "title": "《唯紅花綻放》馮哲芸專訪：看見「我是書店店員」被捕照落淚",
           "link": "https://www.bbc.com/zhongwen/articles/c05qmrj6lgqo/trad?at_medium=RSS&at_campaign=rss",
@@ -14,7 +19,7 @@
         {
           "title": "柏林同志遊行遭汽車衝撞釀1死16傷  警方搜捕涉案人士",
           "link": "https://www.bbc.com/zhongwen/articles/cly5q2r3pyyo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-26T03:19:42+00:00"
+          "date": "2026-07-26T08:49:23+00:00"
         },
         {
           "title": "中國兩學者破解百年難題，首奪全球數學最高榮譽",
@@ -25,11 +30,6 @@
           "title": "怎樣辨識出「AI臉」？",
           "link": "https://www.bbc.com/zhongwen/articles/cedjl1vvjdyo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-26T02:54:37+00:00"
-        },
-        {
-          "title": "美中AI科技戰：白宮稱中國「月之暗面」Kimi K3模型竊取Anthropic技術",
-          "link": "https://www.bbc.com/zhongwen/articles/c62vqpqdqjwo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-24T04:16:29+00:00"
         }
       ]
     },
@@ -38,6 +38,11 @@
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
+        {
+          "title": "What we know so far about the Berlin Pride ramming attack",
+          "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-26T08:58:50+00:00"
+        },
         {
           "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
           "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
@@ -57,11 +62,70 @@
           "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
           "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-25T06:34:40+00:00"
+        }
+      ]
+    },
+    {
+      "name": "BBC Business",
+      "category": "财经",
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "items": [
+        {
+          "title": "Rental searches for pet friendly properties drop after law change",
+          "link": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-26T00:00:49+00:00"
         },
         {
-          "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-          "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-25T00:06:53+00:00"
+          "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
+          "link": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-26T00:17:50+00:00"
+        },
+        {
+          "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
+          "link": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-24T23:23:53+00:00"
+        },
+        {
+          "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+          "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-25T10:14:41+00:00"
+        },
+        {
+          "title": "Trump vows to investigate EU over fining of US tech companies",
+          "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-24T20:23:58+00:00"
+        }
+      ]
+    },
+    {
+      "name": "CNBC",
+      "category": "财经",
+      "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "items": [
+        {
+          "title": "Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’",
+          "link": "https://www.cnbc.com/2026/07/25/the-odyssey-imax-70mm-screenings.html",
+          "date": "2026-07-25T16:26:11+00:00"
+        },
+        {
+          "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
+          "link": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
+          "date": "2026-07-25T14:03:03+00:00"
+        },
+        {
+          "title": "Cocoa prices are easing. So why is chocolate still so expensive?",
+          "link": "https://www.cnbc.com/2026/07/26/cocoa-prices-chocolate-lindt-barry-callebaut-nestle.html",
+          "date": "2026-07-26T05:00:01+00:00"
+        },
+        {
+          "title": "Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot",
+          "link": "https://www.cnbc.com/2026/07/25/trump-ai-data-center-backlash.html",
+          "date": "2026-07-25T12:00:02+00:00"
+        },
+        {
+          "title": "Trump sued hours after new tariffs take effect, as experts say they may not hold up",
+          "link": "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html",
+          "date": "2026-07-25T14:23:53+00:00"
         }
       ]
     },
@@ -103,6 +167,11 @@
       "url": "https://sspai.com/feed",
       "items": [
         {
+          "title": "手冲咖啡指北：天太热了，来做一杯不寡淡的冰手冲吧",
+          "link": "https://sspai.com/post/112421",
+          "date": "2026-07-26T07:28:01+00:00"
+        },
+        {
           "title": "看不见、摸得着的家居要素：聊聊湿度管理的方法与实践",
           "link": "https://sspai.com/post/112093",
           "date": "2026-07-25T03:09:49+00:00"
@@ -121,11 +190,6 @@
           "title": "赛博对话｜对话潘玮哲x老麦煮机：电子产品在悄悄变贵！",
           "link": "https://sspai.com/post/112679",
           "date": "2026-07-24T03:00:00+00:00"
-        },
-        {
-          "title": "派早报：Acrab 发布边缘 AI 芯片 GELIX 1 和个人 AI 系统 Agent Box 等",
-          "link": "https://sspai.com/post/112677",
-          "date": "2026-07-24T00:33:05+00:00"
         }
       ]
     },
@@ -273,11 +337,6 @@
           "date": "2026-07-26T04:19:59+00:00"
         },
         {
-          "title": "Humans haven't stopped evolving",
-          "link": "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure",
-          "date": "2026-07-26T03:09:46+00:00"
-        },
-        {
           "title": "JetZero",
           "link": "https://www.jetzero.aero",
           "date": "2026-07-26T02:55:50+00:00"
@@ -286,6 +345,11 @@
           "title": "An ESP32 based plane radar for my desk",
           "link": "https://blog.ktz.me/esp32-plane-radar/",
           "date": "2026-07-26T02:35:43+00:00"
+        },
+        {
+          "title": "Show HN: I mapped every US golf course",
+          "link": "https://golfcoursebrowser.com/",
+          "date": "2026-07-26T02:22:26+00:00"
         }
       ]
     },
@@ -327,29 +391,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
+          "title": "[Codex] chatgpt 使用网页额度开发本地项目",
+          "link": "https://www.v2ex.com/t/1229920#reply0",
+          "date": "2026-07-26T08:46:10+00:00"
+        },
+        {
+          "title": "[推广] 为了获得各种渠道的 gpt 等 AI 订阅价格，我做了一个开源项目",
+          "link": "https://www.v2ex.com/t/1229919#reply0",
+          "date": "2026-07-26T08:34:06+00:00"
+        },
+        {
+          "title": "[问与答] 哪个城市生活成本低，适合搞 OPC？",
+          "link": "https://www.v2ex.com/t/1229916#reply6",
+          "date": "2026-07-26T08:24:59+00:00"
+        },
+        {
           "title": "[程序员] 为什么现在 CLI agent 应用那么火， GUI 不好用吗？",
-          "link": "https://www.v2ex.com/t/1229915#reply0",
+          "link": "https://www.v2ex.com/t/1229915#reply9",
           "date": "2026-07-26T08:14:18+00:00"
         },
         {
           "title": "[分享创造] 独立开发：手搓了一个群晖 NAS 客户端，欢迎体验",
           "link": "https://www.v2ex.com/t/1229914#reply0",
           "date": "2026-07-26T08:04:45+00:00"
-        },
-        {
-          "title": "[程序员] 梁文峰投资人演讲内容的子弹飞了一会了",
-          "link": "https://www.v2ex.com/t/1229913#reply0",
-          "date": "2026-07-26T08:03:32+00:00"
-        },
-        {
-          "title": "[分享创造] 一个纯文本思维导图 - 童童思维导图",
-          "link": "https://www.v2ex.com/t/1229912#reply0",
-          "date": "2026-07-26T08:00:20+00:00"
-        },
-        {
-          "title": "[问与答] 前两年在站里买的 Skinny 现在是不是要凉了？",
-          "link": "https://www.v2ex.com/t/1229910#reply0",
-          "date": "2026-07-26T07:42:40+00:00"
         }
       ]
     },
@@ -505,7 +569,7 @@
     },
     {
       "name": "量子位",
-      "category": "科研",
+      "category": "AI",
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
@@ -537,7 +601,7 @@
     },
     {
       "name": "MIT Technology Review",
-      "category": "科研",
+      "category": "AI",
       "url": "https://www.technologyreview.com/feed/",
       "items": [
         {
