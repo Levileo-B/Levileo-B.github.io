@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>科研工作台 · Levileo-B</title>
+<meta name="description" content="按科研流程整理的常用工具导航，覆盖文献检索、论文发现、阅读管理、学术写作、数据计算与开放科学。">
+<meta name="theme-color" content="#0f172a">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔬</text></svg>">
+<link rel="stylesheet" href="../assets/style.css">
+<link rel="stylesheet" href="../assets/tools.css">
+<link rel="stylesheet" href="../assets/research.css">
+<script>
+  try {
+    var t = localStorage.getItem('theme');
+    if (t === 'dark' || t === 'light') document.documentElement.setAttribute('data-theme', t);
+  } catch (e) {}
+</script>
+</head>
+<body>
+
+<a class="skip-link" href="#main">跳到主要内容</a>
+
+<header class="site-header">
+  <nav class="nav" aria-label="主导航">
+    <a class="nav__brand" href="../">← Levileo-B</a>
+    <ul class="nav__list">
+      <li><a href="../#news">热点</a></li>
+      <li><a href="../tools/">工具箱</a></li>
+      <li><a href="../tools/papers/">论文检索</a></li>
+      <li><a href="../#contact">联系</a></li>
+    </ul>
+    <button class="theme-toggle" type="button" aria-label="切换深色 / 浅色模式">
+      <span class="theme-toggle__icon" aria-hidden="true">◐</span>
+    </button>
+  </nav>
+</header>
+
+<main id="main">
+  <section class="hero research-hero">
+    <div class="hero__inner">
+      <p class="research-hero__eyebrow">RESEARCH WORKBENCH</p>
+      <h1 class="hero__title">科研工作台</h1>
+      <p class="hero__subtitle">从检索第一篇论文，到整理数据和公开研究成果</p>
+      <p class="hero__desc">按真实科研流程整理常用服务，减少在零散收藏夹里来回寻找工具的时间。</p>
+      <div class="hero__actions">
+        <a class="btn btn--primary" href="../tools/papers/">开始检索论文</a>
+        <a class="btn btn--ghost" href="#workflow">浏览科研流程</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="workflow">
+    <div class="section__bar">
+      <div>
+        <h2 class="section__title">科研流程导航</h2>
+        <p class="research-lead">六个阶段、36 个常用入口。每个阶段优先保留用途清晰、维护稳定的工具。</p>
+      </div>
+    </div>
+    <ol class="research-workflow">
+      <li><a href="#search"><b>01</b><span><strong>检索文献</strong><small>确定领域与关键词</small></span></a></li>
+      <li><a href="#discover"><b>02</b><span><strong>发现与评估</strong><small>追踪引用关系</small></span></a></li>
+      <li><a href="#reading"><b>03</b><span><strong>阅读与管理</strong><small>建立知识库</small></span></a></li>
+      <li><a href="#writing"><b>04</b><span><strong>写作与引用</strong><small>规范作者身份与格式</small></span></a></li>
+      <li><a href="#compute"><b>05</b><span><strong>数据与计算</strong><small>分析、复现和可视化</small></span></a></li>
+      <li><a href="#open-science"><b>06</b><span><strong>开放与发布</strong><small>保存数据和研究产物</small></span></a></li>
+    </ol>
+  </section>
+
+  <section class="section">
+    <div class="research-grid">
+      <article class="card research-stage" id="search">
+        <header class="research-stage__head"><span>01</span><div><h2>文献检索</h2><p>从主题、作者、DOI 或医学主题词开始查找资料。</p></div></header>
+        <ul class="link-grid research-links">
+          <li><a href="../tools/papers/"><strong>本站论文检索</strong><span>聚合 OpenAlex / Crossref 结果</span></a></li>
+          <li><a href="https://scholar.google.com" target="_blank" rel="noopener noreferrer"><strong>Google Scholar</strong><span>跨学科论文与引用检索</span></a></li>
+          <li><a href="https://pubmed.ncbi.nlm.nih.gov" target="_blank" rel="noopener noreferrer"><strong>PubMed</strong><span>生物医学与生命科学文献</span></a></li>
+          <li><a href="https://arxiv.org" target="_blank" rel="noopener noreferrer"><strong>arXiv</strong><span>理工领域开放预印本</span></a></li>
+          <li><a href="https://www.semanticscholar.org" target="_blank" rel="noopener noreferrer"><strong>Semantic Scholar</strong><span>AI 辅助的科学文献搜索</span></a></li>
+          <li><a href="https://explore.openalex.org" target="_blank" rel="noopener noreferrer"><strong>OpenAlex</strong><span>开放学术目录与知识图谱</span></a></li>
+        </ul>
+      </article>
+
+      <article class="card research-stage" id="discover">
+        <header class="research-stage__head"><span>02</span><div><h2>发现与评估</h2><p>从种子论文扩展阅读范围，并判断引用关系和证据质量。</p></div></header>
+        <ul class="link-grid research-links">
+          <li><a href="https://www.connectedpapers.com" target="_blank" rel="noopener noreferrer"><strong>Connected Papers</strong><span>可视化论文关联网络</span></a></li>
+          <li><a href="https://www.researchrabbit.ai" target="_blank" rel="noopener noreferrer"><strong>ResearchRabbit</strong><span>追踪论文、作者与引用关系</span></a></li>
+          <li><a href="https://www.litmaps.com" target="_blank" rel="noopener noreferrer"><strong>Litmaps</strong><span>建立并持续更新文献地图</span></a></li>
+          <li><a href="https://scite.ai" target="_blank" rel="noopener noreferrer"><strong>Scite</strong><span>查看支持、提及或反驳引用</span></a></li>
+          <li><a href="https://elicit.com" target="_blank" rel="noopener noreferrer"><strong>Elicit</strong><span>辅助整理文献综述信息</span></a></li>
+          <li><a href="https://consensus.app" target="_blank" rel="noopener noreferrer"><strong>Consensus</strong><span>从研究论文中检索证据</span></a></li>
+        </ul>
+      </article>
+
+      <article class="card research-stage" id="reading">
+        <header class="research-stage__head"><span>03</span><div><h2>阅读与知识管理</h2><p>保存论文、做批注、处理术语，并把零散阅读沉淀成知识库。</p></div></header>
+        <ul class="link-grid research-links">
+          <li><a href="https://www.zotero.org" target="_blank" rel="noopener noreferrer"><strong>Zotero</strong><span>文献收集、批注与资料管理</span></a></li>
+          <li><a href="https://scispace.com" target="_blank" rel="noopener noreferrer"><strong>SciSpace</strong><span>论文阅读与术语解释</span></a></li>
+          <li><a href="https://notebooklm.google.com" target="_blank" rel="noopener noreferrer"><strong>NotebookLM</strong><span>基于上传资料进行问答和整理</span></a></li>
+          <li><a href="https://www.deepl.com/translator" target="_blank" rel="noopener noreferrer"><strong>DeepL</strong><span>多语言学术文本翻译</span></a></li>
+          <li><a href="https://readwise.io/read" target="_blank" rel="noopener noreferrer"><strong>Readwise Reader</strong><span>集中阅读、标注与回顾资料</span></a></li>
+          <li><a href="https://apps.ankiweb.net" target="_blank" rel="noopener noreferrer"><strong>Anki</strong><span>用间隔重复记忆概念和术语</span></a></li>
+        </ul>
+      </article>
+
+      <article class="card research-stage" id="writing">
+        <header class="research-stage__head"><span>04</span><div><h2>写作与引用</h2><p>管理作者身份、引用格式、DOI 和多人协作文稿。</p></div></header>
+        <ul class="link-grid research-links">
+          <li><a href="https://www.overleaf.com" target="_blank" rel="noopener noreferrer"><strong>Overleaf</strong><span>在线 LaTeX 写作与协作</span></a></li>
+          <li><a href="https://zbib.org" target="_blank" rel="noopener noreferrer"><strong>ZoteroBib</strong><span>无需账户快速生成参考文献</span></a></li>
+          <li><a href="https://search.crossref.org" target="_blank" rel="noopener noreferrer"><strong>Crossref Search</strong><span>检索 DOI 与出版元数据</span></a></li>
+          <li><a href="https://doi.org" target="_blank" rel="noopener noreferrer"><strong>DOI Resolver</strong><span>通过 DOI 定位论文页面</span></a></li>
+          <li><a href="https://orcid.org" target="_blank" rel="noopener noreferrer"><strong>ORCID</strong><span>维护唯一研究者身份标识</span></a></li>
+          <li><a href="https://languagetool.org" target="_blank" rel="noopener noreferrer"><strong>LanguageTool</strong><span>多语言拼写与语法检查</span></a></li>
+        </ul>
+      </article>
+
+      <article class="card research-stage" id="compute">
+        <header class="research-stage__head"><span>05</span><div><h2>数据与计算</h2><p>准备在线计算环境，分析数据并共享可复现的实验过程。</p></div></header>
+        <ul class="link-grid research-links">
+          <li><a href="https://colab.research.google.com" target="_blank" rel="noopener noreferrer"><strong>Google Colab</strong><span>浏览器中的 Python Notebook</span></a></li>
+          <li><a href="https://www.kaggle.com" target="_blank" rel="noopener noreferrer"><strong>Kaggle</strong><span>数据集、Notebook 与计算环境</span></a></li>
+          <li><a href="https://mybinder.org" target="_blank" rel="noopener noreferrer"><strong>Binder</strong><span>从代码仓库启动可复现实验</span></a></li>
+          <li><a href="https://posit.cloud" target="_blank" rel="noopener noreferrer"><strong>Posit Cloud</strong><span>在线 RStudio 与数据分析项目</span></a></li>
+          <li><a href="https://www.wolframalpha.com" target="_blank" rel="noopener noreferrer"><strong>WolframAlpha</strong><span>公式、计算与知识查询</span></a></li>
+          <li><a href="https://usegalaxy.org" target="_blank" rel="noopener noreferrer"><strong>Galaxy</strong><span>可复现的生物信息分析平台</span></a></li>
+        </ul>
+      </article>
+
+      <article class="card research-stage" id="open-science">
+        <header class="research-stage__head"><span>06</span><div><h2>开放科学与发布</h2><p>保存研究计划、数据、代码与版本，并为成果分配持久标识。</p></div></header>
+        <ul class="link-grid research-links">
+          <li><a href="https://osf.io" target="_blank" rel="noopener noreferrer"><strong>OSF</strong><span>管理研究项目、注册与协作</span></a></li>
+          <li><a href="https://zenodo.org" target="_blank" rel="noopener noreferrer"><strong>Zenodo</strong><span>发布数据、软件并获取 DOI</span></a></li>
+          <li><a href="https://figshare.com" target="_blank" rel="noopener noreferrer"><strong>Figshare</strong><span>保存并分享研究产出</span></a></li>
+          <li><a href="https://github.com" target="_blank" rel="noopener noreferrer"><strong>GitHub</strong><span>研究代码、版本与协作记录</span></a></li>
+          <li><a href="https://huggingface.co/datasets" target="_blank" rel="noopener noreferrer"><strong>Hugging Face Datasets</strong><span>发现与发布机器学习数据集</span></a></li>
+          <li><a href="https://commons.datacite.org" target="_blank" rel="noopener noreferrer"><strong>DataCite Commons</strong><span>查找研究成果及其关联关系</span></a></li>
+        </ul>
+      </article>
+    </div>
+  </section>
+
+  <section class="section research-guidance">
+    <h2 class="section__title">使用提醒</h2>
+    <div class="card research-guidance__grid">
+      <div><strong>核验 AI 结果</strong><p>AI 生成的摘要、引用和 DOI 可能出错，重要结论应回到论文原文和出版页面核查。</p></div>
+      <div><strong>保护未公开数据</strong><p>上传受试者资料、审稿稿件或实验数据前，先确认伦理要求、机构政策与服务隐私条款。</p></div>
+      <div><strong>记录检索过程</strong><p>系统综述和正式研究应保存数据库、关键词、过滤条件和检索日期，确保过程可以复现。</p></div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <p>© <span id="year">2026</span> Levileo-B · 科研工具只作导航，请以官方说明为准</p>
+</footer>
+
+<script src="../assets/main.js"></script>
+<script src="../assets/bgm.js"></script>
+</body>
+</html>
