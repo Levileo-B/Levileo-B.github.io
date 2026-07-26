@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T19:02:19+00:00",
+  "updated": "2026-07-26T21:54:11+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,29 +39,29 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "Berlin Pride attack suspect shot and killed during police operation",
+          "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-26T19:21:26+00:00"
+        },
+        {
           "title": "What we know so far about the Berlin Pride ramming attack",
           "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-26T17:45:30+00:00"
+          "date": "2026-07-26T20:34:23+00:00"
         },
         {
           "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
           "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-26T10:26:05+00:00"
+          "date": "2026-07-26T21:23:53+00:00"
+        },
+        {
+          "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+          "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-26T21:30:20+00:00"
         },
         {
           "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
           "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-26T18:40:08+00:00"
-        },
-        {
-          "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-          "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-25T13:51:07+00:00"
-        },
-        {
-          "title": "India's 'cockroach' protest called off after education minister quits",
-          "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-25T17:44:46+00:00"
         }
       ]
     },
@@ -71,9 +71,9 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
-          "title": "Water returning to Gatwick Airport after major outage",
+          "title": "Water returns to Gatwick Airport after major outage",
           "link": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-26T18:50:47+00:00"
+          "date": "2026-07-26T21:15:21+00:00"
         },
         {
           "title": "Rental searches for pet friendly properties drop after law change",
@@ -263,6 +263,16 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Champagne and Bullets belongs on the Mount Rushmore of bad movies",
+          "link": "https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review",
+          "date": "2026-07-26T21:24:07+00:00"
+        },
+        {
+          "title": "Apple is banking on privacy to set its smart glasses apart",
+          "link": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+          "date": "2026-07-26T19:36:38+00:00"
+        },
+        {
           "title": "The US is charging an American citizen for wiping his phone at the border",
           "link": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
           "date": "2026-07-26T18:45:50+00:00"
@@ -276,16 +286,6 @@
           "title": "You can get three months of Xbox Game Pass Ultimate for almost half off",
           "link": "https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale",
           "date": "2026-07-24T20:24:05+00:00"
-        },
-        {
-          "title": "Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more",
-          "link": "https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con",
-          "date": "2026-07-26T14:51:33+00:00"
-        },
-        {
-          "title": "The vertical video takeover is here",
-          "link": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
-          "date": "2026-07-24T17:29:13+00:00"
         }
       ]
     },
@@ -327,29 +327,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Show HN: The Occult Gatsby",
-          "link": "https://occultgatsby.work",
-          "date": "2026-07-26T18:38:11+00:00"
+          "title": "Multiway Turing Machines (2021 pre-ai)",
+          "link": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
+          "date": "2026-07-26T20:49:43+00:00"
         },
         {
-          "title": "The Strongest El Niño Ever",
-          "link": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
-          "date": "2026-07-26T18:35:36+00:00"
+          "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
+          "link": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
+          "date": "2026-07-26T20:31:57+00:00"
         },
         {
-          "title": "How to Block Some of the Bots",
-          "link": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
-          "date": "2026-07-26T18:32:46+00:00"
+          "title": "Simulate cassette tape audio profiles using FFmpeg",
+          "link": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+          "date": "2026-07-26T20:02:15+00:00"
         },
         {
-          "title": "Decker",
-          "link": "https://beyondloom.com/decker/",
-          "date": "2026-07-26T18:23:06+00:00"
+          "title": "Show HN: Infinite Jigsaw Game",
+          "link": "https://infinitejigsaw.com",
+          "date": "2026-07-26T20:01:27+00:00"
         },
         {
-          "title": "Google Cache used to have a copy of this page at",
-          "link": "https://www.hornet.org/wikipedia-notes.txt",
-          "date": "2026-07-26T18:18:57+00:00"
+          "title": "What does GitHub's security team even do?",
+          "link": "https://orchidfiles.com/github-security-team/",
+          "date": "2026-07-26T19:51:05+00:00"
         }
       ]
     },
@@ -359,14 +359,19 @@
       "url": "https://lobste.rs/rss",
       "items": [
         {
-          "title": "A shell colon does nothing. Use it anyway",
-          "link": "https://refp.se/articles/your-shell-and-the-magic-colon",
-          "date": "2026-07-25T11:33:00+00:00"
+          "title": "Teaching Kids Forth",
+          "link": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+          "date": "2026-07-26T19:26:09+00:00"
         },
         {
           "title": "Maybe we should revisit microkernels",
           "link": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
           "date": "2026-07-25T22:13:07+00:00"
+        },
+        {
+          "title": "A shell colon does nothing. Use it anyway",
+          "link": "https://refp.se/articles/your-shell-and-the-magic-colon",
+          "date": "2026-07-25T11:33:00+00:00"
         },
         {
           "title": "Memory Safety Absolutists",
@@ -377,11 +382,6 @@
           "title": "Himalaya v2.0.0: CLI to manage emails",
           "link": "https://fosstodon.org/@pimalaya/116983467890532240",
           "date": "2026-07-26T00:45:08+00:00"
-        },
-        {
-          "title": "How I Find Problems to Solve as a Staff Engineer",
-          "link": "https://lalitm.com/post/find-problems-staff-engineer/",
-          "date": "2026-07-25T20:52:49+00:00"
         }
       ]
     },
@@ -390,6 +390,16 @@
       "category": "开发",
       "url": "https://www.v2ex.com/index.xml",
       "items": [
+        {
+          "title": "[程序员] 分享这几个月学习转 AI 以及面试被拷打的经验， Data-Driven AI",
+          "link": "https://www.v2ex.com/t/1229983#reply0",
+          "date": "2026-07-26T21:34:09+00:00"
+        },
+        {
+          "title": "[程序员] 写的开源股票数据库 free-stockdb 快速破 1000 星。日 k 分钟 k、etf 量化底座 2 分钟启动+完全免费",
+          "link": "https://www.v2ex.com/t/1229982#reply0",
+          "date": "2026-07-26T20:08:38+00:00"
+        },
         {
           "title": "[Codex] ChatGPT macOS「无法添加智能快照」的解决记录",
           "link": "https://www.v2ex.com/t/1229981#reply0",
@@ -404,16 +414,6 @@
           "title": "[OpenAI] max 还是得一直开着，否则总是忘记切",
           "link": "https://www.v2ex.com/t/1229979#reply4",
           "date": "2026-07-26T17:29:21+00:00"
-        },
-        {
-          "title": "[分享创造] [开源分享] Mac 优先的 Claude Code 桌面工作台。另支持菜单栏额度监控,桌面小组件等扩展能力",
-          "link": "https://www.v2ex.com/t/1229978#reply0",
-          "date": "2026-07-26T17:19:13+00:00"
-        },
-        {
-          "title": "[程序员] 5 年 PHPer，现在学 Java 还来得及吗？",
-          "link": "https://www.v2ex.com/t/1229977#reply4",
-          "date": "2026-07-26T17:07:25+00:00"
         }
       ]
     },
@@ -632,38 +632,6 @@
       ]
     },
     {
-      "name": "Nature",
-      "category": "科研",
-      "url": "https://www.nature.com/nature.rss",
-      "items": [
-        {
-          "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
-          "link": "https://www.nature.com/articles/s41586-026-10911-y",
-          "date": "2026-07-24T00:00:00+00:00"
-        },
-        {
-          "title": "Personalized gene therapy relieves severe epilepsy in two boys",
-          "link": "https://www.nature.com/articles/d41586-026-02267-0",
-          "date": "2026-07-24T00:00:00+00:00"
-        },
-        {
-          "title": "Briefing Chat: Baby <i>T. rex</i> were killers from birth, suggest new fossils",
-          "link": "https://www.nature.com/articles/d41586-026-02338-2",
-          "date": "2026-07-24T00:00:00+00:00"
-        },
-        {
-          "title": "Bizarre CRISPR enzyme kills cancer cells by shredding their DNA",
-          "link": "https://www.nature.com/articles/d41586-026-02268-z",
-          "date": "2026-07-24T00:00:00+00:00"
-        },
-        {
-          "title": "White House rolls out AI funding — and signals a new era for US science",
-          "link": "https://www.nature.com/articles/d41586-026-02332-8",
-          "date": "2026-07-24T00:00:00+00:00"
-        }
-      ]
-    },
-    {
       "name": "ScienceDaily",
       "category": "科研",
       "url": "https://www.sciencedaily.com/rss/all.xml",
@@ -695,5 +663,8 @@
         }
       ]
     }
+  ],
+  "failed": [
+    "Nature"
   ]
 }
