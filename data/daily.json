@@ -1,109 +1,54 @@
 {
-  "updated": "2026-07-25T21:49:02+00:00",
+  "updated": "2026-07-26T02:12:00+00:00",
   "leetcode": {
-    "date": "2026-07-25",
-    "id": "3536",
-    "title": "Maximum Product of Two Digits",
-    "titleEn": "Maximum Product of Two Digits",
-    "slug": "maximum-product-of-two-digits",
+    "date": "2026-07-26",
+    "id": "628",
+    "title": "Maximum Product of Three Numbers",
+    "titleEn": "Maximum Product of Three Numbers",
+    "slug": "maximum-product-of-three-numbers",
     "difficulty": "Easy",
     "tags": [
+      "Array",
       "Math",
       "Sorting"
     ],
-    "link": "https://leetcode.com/problems/maximum-product-of-two-digits/",
+    "link": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Las Meninas",
-    "text": "Las Meninas is a 1656 oil painting in the Museo del Prado in Madrid, by Diego Velázquez, the leading artist in the court of King Philip IV of Spain and Portugal, and of the Spanish Golden Age. It has become one of the most widely analysed works in Western painting for the way its complex and enigmatic composition raises questions about reality and illusion, and for the uncertain relationship it creates between the viewer and the figures depicted.",
-    "words": 78,
-    "url": "https://en.wikipedia.org/wiki/Las_Meninas",
-    "date": "2026-07-25",
+    "title": "Nile",
+    "text": "The Nile is a major north-flowing river in northeast Africa which empties into the Mediterranean Sea. At 7,088 kilometers (4,404 mi) long, it is the longest river in the world, although the volume of water it carries is much smaller than other major rivers such as the Amazon or the Congo. The Nile has played a central role in the environmental, economic, and cultural history of Africa for millennia.",
+    "words": 69,
+    "url": "https://en.wikipedia.org/wiki/Nile",
+    "date": "2026-07-26",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Fire",
-    "creator": "Encyclopaedia Britannica Films",
-    "year": "1946",
-    "url": "https://archive.org/download/Fire1946/Fire1946_512kb.mp4",
-    "page": "https://archive.org/details/Fire1946",
-    "date": "2026-07-25",
+    "title": "Home Movie: 71109: Detroit Family Wedding",
+    "creator": "",
+    "year": "1951",
+    "url": "https://archive.org/download/HMDetroitFamilyWedd71109/71109.mp4",
+    "page": "https://archive.org/details/HMDetroitFamilyWedd71109",
+    "date": "2026-07-26",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "cOmaWrek Presentz tha nOdcast (v31) mixed by dOOMED.sLACKER",
-      "artist": "cOmaRecOrdz",
-      "url": "https://archive.org/download/ComawrekPresentzThaNodcastv31MixedByDoomed.slacker/Tha_nodcastv31.mp3",
-      "page": "https://archive.org/details/ComawrekPresentzThaNodcastv31MixedByDoomed.slacker",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "Controlled Blue Lava",
+      "artist": "Yukiga Futte Uresii",
+      "url": "https://archive.org/download/ControlledBlueLava/01_Controlled_Blue_Lava.mp3",
+      "page": "https://archive.org/details/ControlledBlueLava",
+      "license": "http://creativecommons.org/licenses/by/4.0/"
     },
     {
-      "title": "Banging It",
-      "artist": "Cloverleafs",
-      "url": "https://archive.org/download/Cloverleafs_Banging_it__fracaso001/01_Cloverleafs_Banging_it_the_original_one_mix.mp3",
-      "page": "https://archive.org/details/Cloverleafs_Banging_it__fracaso001",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Ohmnoise Tridualimonoismus 2002",
-      "artist": "Ohmnoise",
-      "url": "https://archive.org/download/OhmnoiseTridualimonoismus2002/Ohmnoise%20-%20Tridualimonoismus%20-%202002.mp3",
-      "page": "https://archive.org/details/OhmnoiseTridualimonoismus2002",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Petcord Volume 1 - The Audio Fringe",
+      "title": "Cat Pain Black Udder- 150",
       "artist": "",
-      "url": "https://archive.org/download/pc1110-01/pc1110-01_-_djozr_-_11_-_saturation.mp3",
-      "page": "https://archive.org/details/pc1110-01",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Ceroform - Vicious Mind [hi016]",
-      "artist": "BjÃ¶rn Bommersheim & Bastian GÃ¶tz",
-      "url": "https://archive.org/download/Ceroform-ViciousMindhi016/hi01601-Ceroform-ViciousMind.mp3",
-      "page": "https://archive.org/details/Ceroform-ViciousMindhi016",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
-    },
-    {
-      "title": "Vesica Piscis - Imaginary Film Soundtrack #4",
-      "artist": "Vesica Piscis",
-      "url": "https://archive.org/download/vesica_piscis_-_imaginary_film_soundtrack_4/vesica_piscis_-_ifs4_-_10_organic_tape.mp3",
-      "page": "https://archive.org/details/vesica_piscis_-_imaginary_film_soundtrack_4",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/"
-    },
-    {
-      "title": "Cat 500 \"The Realist\"",
-      "artist": "Cat 500",
-      "url": "https://archive.org/download/Cat500TheRealist/The%20Realist%201.mp3",
-      "page": "https://archive.org/details/Cat500TheRealist",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "ANIMESHNAYXYNINY - EMSZ (2019)",
-      "artist": "ANIMESHNAYXYNINY",
-      "url": "https://archive.org/download/IBR_1536/01.%20%D0%A1%D0%B0%D0%BC%20%D0%B1%D0%BE%D0%B3%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D1%91%D1%81%20%D1%8D%D1%82%D0%BE%20%D0%B2%2000_00.mp3",
-      "page": "https://archive.org/details/IBR_1536",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Jug Jug to Dirt Years [CTR004]",
-      "artist": "Dance Danse Revulsion",
-      "url": "https://archive.org/download/CTR004/01_Lite.mp3",
-      "page": "https://archive.org/details/CTR004",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "NWTWO0173-Ariel Cubría´s Trio",
-      "artist": "Ariel Cubría´s Trio",
-      "url": "https://archive.org/download/Nwtwo0173-arielCubrasTrio-songA/Nwtwo0173-arielCubrasTrio-songA.mp3",
-      "page": "https://archive.org/details/Nwtwo0173-arielCubrasTrio-songA",
+      "url": "https://archive.org/download/CatPainBlackUdder-150/037.mp3",
+      "page": "https://archive.org/details/CatPainBlackUdder-150",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
@@ -114,11 +59,67 @@
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "DEEWORK_darker_than_me",
-      "artist": "DEEWORK",
-      "url": "https://archive.org/download/DEEWORK_darker_than_me/DEEWORK_darker_than_me_01_need_weed.mp3",
-      "page": "https://archive.org/details/DEEWORK_darker_than_me",
+      "title": "ET-027 | Christian Di Vito - Route Draft",
+      "artist": "",
+      "url": "https://archive.org/download/ET-027/ET-027-01-Route.mp3",
+      "page": "https://archive.org/details/ET-027",
       "license": "Creative Commons"
+    },
+    {
+      "title": "Tous les moyens sont mauvais (demo 2017)",
+      "artist": "Fiasco",
+      "url": "https://archive.org/download/DEGl012/01_Fix%20My%20Way.mp3",
+      "page": "https://archive.org/details/DEGl012",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    {
+      "title": "Calumet",
+      "artist": "Charles Rice Goff III",
+      "url": "https://archive.org/download/CalumetTapedRugs/01Concordant.mp3",
+      "page": "https://archive.org/details/CalumetTapedRugs",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "BTTLSHIP GRY",
+      "artist": "Fuck Sunshine",
+      "url": "https://archive.org/download/BttlshipGry/0101011.mp3",
+      "page": "https://archive.org/details/BttlshipGry",
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/us/"
+    },
+    {
+      "title": "AUTO OCOLECIONADORDESONS DOM 27 JUN 16 H",
+      "artist": "Luís Antero",
+      "url": "https://archive.org/download/AUTO_OCOLECIONADORDESONS_DOM_27JUN_16H.mp/AUTO_OCOLECIONADORDESONS_DOM_27JUN_16H.mp3",
+      "page": "https://archive.org/details/AUTO_OCOLECIONADORDESONS_DOM_27JUN_16H.mp",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "auspice - curling smoke [2019]",
+      "artist": "serocell",
+      "url": "https://archive.org/download/UN0102/01_sifu%3Dbrown_market.mp3",
+      "page": "https://archive.org/details/UN0102",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "ANIMESHNAYXYNINY - EMSZ (2019)",
+      "artist": "ANIMESHNAYXYNINY",
+      "url": "https://archive.org/download/IBR_1536/01.%20%D0%A1%D0%B0%D0%BC%20%D0%B1%D0%BE%D0%B3%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D1%91%D1%81%20%D1%8D%D1%82%D0%BE%20%D0%B2%2000_00.mp3",
+      "page": "https://archive.org/details/IBR_1536",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Car Crush Lullaby - The Creation",
+      "artist": "Car Crush Lullaby",
+      "url": "https://archive.org/download/CarCrushLullaby-TheCreation/01%20The%20Creation.mp3",
+      "page": "https://archive.org/details/CarCrushLullaby-TheCreation",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "the musk-rat cult - the last mark of the upcoming end (2010) [diss011]",
+      "artist": "the musk-rat cult",
+      "url": "https://archive.org/download/diss011/01_lead_your_plough_through_the_bones_of_the_dead.mp3",
+      "page": "https://archive.org/details/diss011",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     }
   ]
 }

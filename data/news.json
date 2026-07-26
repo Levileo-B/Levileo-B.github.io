@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T21:49:02+00:00",
+  "updated": "2026-07-26T02:12:00+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,14 +39,9 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "More than 250,000 flee wildfires in France and Spain",
+          "title": "More than 300,000 flee wildfires in France and Spain",
           "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-25T17:13:40+00:00"
-        },
-        {
-          "title": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
-          "link": "https://www.bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-25T21:33:00+00:00"
+          "date": "2026-07-26T00:54:06+00:00"
         },
         {
           "title": "Trump takes swipes at press during White House Correspondents' Dinner",
@@ -62,6 +57,11 @@
           "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
           "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-25T06:34:40+00:00"
+        },
+        {
+          "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+          "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-25T00:06:53+00:00"
         }
       ]
     },
@@ -70,6 +70,11 @@
       "category": "科技",
       "url": "https://36kr.com/feed",
       "items": [
+        {
+          "title": "硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资",
+          "link": "https://36kr.com/p/3911162147640456?f=rss",
+          "date": ""
+        },
         {
           "title": "从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目",
           "link": "https://36kr.com/p/3910880823202948?f=rss",
@@ -88,11 +93,6 @@
         {
           "title": "氪星晚报 ｜黄仁勋力挺中国AI开源模型；市场监管总局：深入整治“内卷式”竞争",
           "link": "https://36kr.com/p/3909160840451465?f=rss",
-          "date": ""
-        },
-        {
-          "title": "你的下一位面试官，可能不是人",
-          "link": "https://36kr.com/p/3909499179767169?f=rss",
           "date": ""
         }
       ]
@@ -231,6 +231,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
+          "link": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+          "date": "2026-07-25T20:52:30+00:00"
+        },
+        {
           "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
           "link": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
           "date": "2026-07-25T17:47:22+00:00"
@@ -249,11 +254,6 @@
           "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
           "link": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
           "date": "2026-07-24T22:28:20+00:00"
-        },
-        {
-          "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
-          "link": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
-          "date": "2026-07-24T21:56:02+00:00"
         }
       ]
     },
@@ -263,29 +263,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "'AI Mania Is Eviscerating Global Decision-Making'",
-          "link": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "date": "2026-07-25T21:18:06+00:00"
+          "title": "Possible invasive species superspreader event near Strait of Hormuz",
+          "link": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
+          "date": "2026-07-26T01:13:19+00:00"
         },
         {
-          "title": "Multicast TV Distribution on My Home Network",
-          "link": "https://www.apalrd.net/posts/2026/isp_mcast/",
-          "date": "2026-07-25T20:55:12+00:00"
+          "title": "Git rebase -I is not that scary",
+          "link": "https://cachebag.sh/journal/interactive-rebasing/",
+          "date": "2026-07-26T00:37:54+00:00"
         },
         {
-          "title": "Fly.io CEO Kurt Mackey is stepping down",
-          "link": "https://fly.io/blog/kurt-scott-money-sprites/",
-          "date": "2026-07-25T20:43:11+00:00"
+          "title": "Systems and Delays",
+          "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+          "date": "2026-07-26T00:37:30+00:00"
         },
         {
-          "title": "The new rules of context engineering for Claude 5 generation models",
-          "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "date": "2026-07-25T20:42:35+00:00"
+          "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+          "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
+          "date": "2026-07-26T00:36:30+00:00"
         },
         {
-          "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
-          "link": "https://news.ycombinator.com/item?id=49051130",
-          "date": "2026-07-25T20:18:54+00:00"
+          "title": "GNU Hurd gets 9pfs, OpenNTPD, dynamic /dev/ entries, and more",
+          "link": "https://www.osnews.com/story/145603/the-hurd-gets-9pfs-openntpd-dynamic-dev-entries-and-more/",
+          "date": "2026-07-26T00:19:13+00:00"
         }
       ]
     },
@@ -305,19 +305,19 @@
           "date": "2026-07-25T09:10:12+00:00"
         },
         {
+          "title": "Memory Safety Absolutists",
+          "link": "https://itsallaboutthebit.com/memory-safety-absolutists/",
+          "date": "2026-07-25T21:38:29+00:00"
+        },
+        {
           "title": "Zig by Example",
           "link": "https://zigbyexample.neocities.org/",
           "date": "2026-07-25T12:58:43+00:00"
         },
         {
-          "title": "Chrome registers a global shortcut for Gemini popup window",
-          "link": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
-          "date": "2026-07-24T23:04:57+00:00"
-        },
-        {
-          "title": "Your harddrive is probably full",
-          "link": "https://www.marginalia.nu/log/a_139_hdd/",
-          "date": "2026-07-25T18:19:08+00:00"
+          "title": "Maybe we should revisit microkernels",
+          "link": "https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html",
+          "date": "2026-07-25T22:13:07+00:00"
         }
       ]
     },
@@ -327,29 +327,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[OpenAI] Codex 又又又又又又又又又又又又又又又又又又又又又又又又又又又又重置了",
-          "link": "https://www.v2ex.com/t/1229825#reply0",
-          "date": "2026-07-25T21:05:57+00:00"
+          "title": "[生活] 讲述下经历遭遇后，我的心理变化，目前正在调整期",
+          "link": "https://www.v2ex.com/t/1229836#reply1",
+          "date": "2026-07-26T02:01:41+00:00"
         },
         {
-          "title": "[Apple] Apple Fitness+ 拼车 95RMB 一年",
-          "link": "https://www.v2ex.com/t/1229824#reply0",
-          "date": "2026-07-25T20:57:00+00:00"
+          "title": "[Apple] 要给 intel Macbook Air 升级， m2 16+256 还是 m3 8+256，二选一",
+          "link": "https://www.v2ex.com/t/1229835#reply2",
+          "date": "2026-07-26T02:00:59+00:00"
         },
         {
-          "title": "[生活] # 一辆摩托车 -- 我的人生塌了！",
-          "link": "https://www.v2ex.com/t/1229823#reply0",
-          "date": "2026-07-25T20:56:45+00:00"
+          "title": "[职场话题] 看看大家的意见，这 3 个 offer 如何选择",
+          "link": "https://www.v2ex.com/t/1229834#reply4",
+          "date": "2026-07-26T01:20:50+00:00"
         },
         {
-          "title": "[iPhone] [已成功] 利用 wloc，在国行 iOS26+不使用尾插开启 Wi-Fi calling 的方法",
-          "link": "https://www.v2ex.com/t/1229822#reply0",
-          "date": "2026-07-25T20:47:06+00:00"
+          "title": "[Apple TV] Apple TV + Sony TV CEC 控制出问题了",
+          "link": "https://www.v2ex.com/t/1229833#reply2",
+          "date": "2026-07-26T01:20:46+00:00"
         },
         {
-          "title": "[Wunder] Pi Coding Agent",
-          "link": "https://www.v2ex.com/t/1229821#reply3",
-          "date": "2026-07-25T20:27:41+00:00"
+          "title": "[分享发现] 静听使用笔记｜导入之后，怎么把音乐整理成自己的资料库",
+          "link": "https://www.v2ex.com/t/1229832#reply0",
+          "date": "2026-07-26T01:20:38+00:00"
         }
       ]
     },
@@ -568,38 +568,6 @@
       ]
     },
     {
-      "name": "Nature",
-      "category": "科研",
-      "url": "https://www.nature.com/nature.rss",
-      "items": [
-        {
-          "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
-          "link": "https://www.nature.com/articles/s41586-026-10911-y",
-          "date": "2026-07-24T00:00:00+00:00"
-        },
-        {
-          "title": "Personalized gene therapy relieves severe epilepsy in two boys",
-          "link": "https://www.nature.com/articles/d41586-026-02267-0",
-          "date": "2026-07-24T00:00:00+00:00"
-        },
-        {
-          "title": "Briefing Chat: Baby <i>T. rex</i> were killers from birth, suggest new fossils",
-          "link": "https://www.nature.com/articles/d41586-026-02338-2",
-          "date": "2026-07-24T00:00:00+00:00"
-        },
-        {
-          "title": "Bizarre CRISPR enzyme kills cancer cells by shredding their DNA",
-          "link": "https://www.nature.com/articles/d41586-026-02268-z",
-          "date": "2026-07-24T00:00:00+00:00"
-        },
-        {
-          "title": "White House rolls out AI funding — and signals a new era for US science",
-          "link": "https://www.nature.com/articles/d41586-026-02332-8",
-          "date": "2026-07-24T00:00:00+00:00"
-        }
-      ]
-    },
-    {
       "name": "ScienceDaily",
       "category": "科研",
       "url": "https://www.sciencedaily.com/rss/all.xml",
@@ -631,5 +599,8 @@
         }
       ]
     }
+  ],
+  "failed": [
+    "Nature"
   ]
 }
