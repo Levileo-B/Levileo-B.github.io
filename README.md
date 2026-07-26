@@ -12,7 +12,7 @@
 - 基础无障碍支持：跳转链接、语义化标签、键盘焦点样式
 - 自定义 404 页面
 - **热点窗格**：GitHub Actions 每 3 小时抓取 22 个 RSS 源，按六个分类聚合
-- **实时热点页**：浏览器直连拉取 HN / GitHub / Reddit 榜单，另附各大热搜入口
+- **实时热点页**：浏览器直连拉取 HN / GitHub / DEV / Stack Overflow / Mastodon / 中文维基六个榜单，另附各大热搜入口
 - **附近最热**：按访客所在地区展示当地新闻，可手动切换地区
 - **每日**：LeetCode 每日一题、每日英文短文（维基百科精选）、每日趣味视频（Prelinger 公有领域短片）
 - **背景音乐**：随机播放 Internet Archive 的 CC 授权曲目，可切歌，顶部导航栏开关
@@ -46,7 +46,7 @@
 │   └── index.html          # 科研工作台：检索、阅读、写作、计算与开放科学
 ├── hot/
 │   ├── index.html          # 实时热点（浏览器直连）
-│   ├── parse.js            # 三个接口的响应整形（可单测）
+│   ├── parse.js            # 六个接口的响应整形（可单测）
 │   └── app.js              # 界面层
 ├── tools/
 │   ├── index.html          # 工具箱 + 常用网站清单
@@ -83,8 +83,8 @@
 4. 首页 `assets/news.js` 读取这个静态 JSON，按 `category` 分类聚合后渲染
 
 **`/hot/` 的「实时热点」是打开即拉。** 只收录那些开放 CORS 且不需要 API key 的接口，
-所以能在浏览器里直连：Hacker News（Firebase API）、GitHub（搜索 API 取近 7 天新星项目）、
-Reddit（`r/popular` 的 `.json`）。支持手动刷新与每 5 分钟自动刷新。
+所以能在浏览器里直连：Hacker News、GitHub 近 7 天新星、DEV 近 7 天热门文章、Stack Overflow 热门问题、
+Mastodon 趋势与中文维基昨日浏览排行。六栏独立加载，支持手动刷新与每 5 分钟自动刷新。
 微博、知乎、百度这些热榜接口不开放跨域，拉不到内容，所以只以链接入口的形式给出。
 
 **换新闻源**：编辑 `scripts/fetch_news.py` 顶部的 `FEEDS`，每项含 `name`、`category`、`url`。
