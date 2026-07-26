@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T05:55:12+00:00",
+  "updated": "2026-07-26T08:15:45+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,9 +39,9 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "More than 300,000 flee wildfires in France and Spain",
-          "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-26T00:54:06+00:00"
+          "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
+          "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-26T07:21:11+00:00"
         },
         {
           "title": "Trump takes swipes at press during White House Correspondents' Dinner",
@@ -263,6 +263,11 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "GrapheneOS protections against data extraction from locked devices",
+          "link": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+          "date": "2026-07-26T05:57:22+00:00"
+        },
+        {
           "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
           "link": "https://github.com/mulfyx/w4me-station",
           "date": "2026-07-26T04:19:59+00:00"
@@ -281,11 +286,6 @@
           "title": "An ESP32 based plane radar for my desk",
           "link": "https://blog.ktz.me/esp32-plane-radar/",
           "date": "2026-07-26T02:35:43+00:00"
-        },
-        {
-          "title": "Show HN: I mapped every US golf course",
-          "link": "https://golfcoursebrowser.com/",
-          "date": "2026-07-26T02:22:26+00:00"
         }
       ]
     },
@@ -315,9 +315,9 @@
           "date": "2026-07-25T09:10:12+00:00"
         },
         {
-          "title": "Zig by Example",
-          "link": "https://zigbyexample.neocities.org/",
-          "date": "2026-07-25T12:58:43+00:00"
+          "title": "Himalaya v2.0.0: CLI to manage emails",
+          "link": "https://fosstodon.org/@pimalaya/116983467890532240",
+          "date": "2026-07-26T00:45:08+00:00"
         }
       ]
     },
@@ -327,29 +327,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[微信] 通过导出聊天记录到电脑的 bug 严重怀疑微信团队是个草台班子",
-          "link": "https://www.v2ex.com/t/1229879#reply0",
-          "date": "2026-07-26T05:53:45+00:00"
+          "title": "[程序员] 为什么现在 CLI agent 应用那么火， GUI 不好用吗？",
+          "link": "https://www.v2ex.com/t/1229915#reply0",
+          "date": "2026-07-26T08:14:18+00:00"
         },
         {
-          "title": "[Android] 二维码扫码用什么方案好？",
-          "link": "https://www.v2ex.com/t/1229878#reply0",
-          "date": "2026-07-26T05:51:36+00:00"
+          "title": "[分享创造] 独立开发：手搓了一个群晖 NAS 客户端，欢迎体验",
+          "link": "https://www.v2ex.com/t/1229914#reply0",
+          "date": "2026-07-26T08:04:45+00:00"
         },
         {
-          "title": "[分享发现] Claude 免费 20x 教程",
-          "link": "https://www.v2ex.com/t/1229877#reply1",
-          "date": "2026-07-26T05:48:32+00:00"
+          "title": "[程序员] 梁文峰投资人演讲内容的子弹飞了一会了",
+          "link": "https://www.v2ex.com/t/1229913#reply0",
+          "date": "2026-07-26T08:03:32+00:00"
         },
         {
-          "title": "[分享创造] 用 codex vide 了一个 macbook 小工具",
-          "link": "https://www.v2ex.com/t/1229876#reply0",
-          "date": "2026-07-26T05:29:14+00:00"
+          "title": "[分享创造] 一个纯文本思维导图 - 童童思维导图",
+          "link": "https://www.v2ex.com/t/1229912#reply0",
+          "date": "2026-07-26T08:00:20+00:00"
         },
         {
-          "title": "[问与答] 有没有什么好用的漫画翻译插件？付费的也行",
-          "link": "https://www.v2ex.com/t/1229875#reply0",
-          "date": "2026-07-26T05:26:17+00:00"
+          "title": "[问与答] 前两年在站里买的 Skinny 现在是不是要凉了？",
+          "link": "https://www.v2ex.com/t/1229910#reply0",
+          "date": "2026-07-26T07:42:40+00:00"
         }
       ]
     },
@@ -509,6 +509,11 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
+          "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+          "link": "https://www.qbitai.com/2026/07/460962.html",
+          "date": "2026-07-26T05:30:21+00:00"
+        },
+        {
           "title": "100%开源！吴恩达做了个个人桌面Agent",
           "link": "https://www.qbitai.com/2026/07/460892.html",
           "date": "2026-07-25T12:35:34+00:00"
@@ -527,11 +532,6 @@
           "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
           "link": "https://www.qbitai.com/2026/07/460234.html",
           "date": "2026-07-25T11:54:44+00:00"
-        },
-        {
-          "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
-          "link": "https://www.qbitai.com/2026/07/460186.html",
-          "date": "2026-07-25T11:07:25+00:00"
         }
       ]
     },
