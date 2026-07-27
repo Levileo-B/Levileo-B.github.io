@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T19:18:43+00:00",
+  "updated": "2026-07-27T22:00:50+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,14 +39,14 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+          "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
           "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-27T17:50:42+00:00"
+          "date": "2026-07-27T20:34:55+00:00"
         },
         {
-          "title": "Devastating European wildfires in maps - and how they're being tackled",
-          "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-27T15:59:27+00:00"
+          "title": "Trump says Iran war talks taking place during lull in strikes",
+          "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-27T21:10:56+00:00"
         },
         {
           "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
@@ -54,14 +54,14 @@
           "date": "2026-07-27T16:33:05+00:00"
         },
         {
-          "title": "More than 600 US military service members injured since Iran War began in February",
-          "link": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-27T13:31:57+00:00"
-        },
-        {
           "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
           "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-27T12:33:31+00:00"
+        },
+        {
+          "title": "US singer D4vd to go on trial for murder in death of teen",
+          "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-27T21:37:59+00:00"
         }
       ]
     },
@@ -70,6 +70,11 @@
       "category": "财经",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
+        {
+          "title": "Some people's chats with Claude AI made publicly available online",
+          "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-27T21:51:34+00:00"
+        },
         {
           "title": "Cracker Barrel chief executive steps down a year after rebrand chaos",
           "link": "https://www.bbc.co.uk/news/articles/cr49z0r54nko?at_medium=RSS&at_campaign=rss",
@@ -89,11 +94,6 @@
           "title": "Oil price dives as US and Iran pause attacks",
           "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-27T15:08:37+00:00"
-        },
-        {
-          "title": "Would you choose £50,000 over the chance of £1m?",
-          "link": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-26T23:11:36+00:00"
         }
       ]
     },
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
+          "title": "Apple ends day as world's most valuable company, passing Nvidia",
+          "link": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
+          "date": "2026-07-27T21:12:26+00:00"
+        },
+        {
+          "title": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
+          "link": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
+          "date": "2026-07-27T21:56:00+00:00"
+        },
+        {
+          "title": "SpaceX has now lost the equivalent of a full Tesla in market capitalization",
+          "link": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html",
+          "date": "2026-07-27T21:26:03+00:00"
+        },
+        {
           "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say",
           "link": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
-          "date": "2026-07-27T15:24:16+00:00"
+          "date": "2026-07-27T21:29:50+00:00"
         },
         {
-          "title": "Consolidated food supply may be worsening cyclospora outbreaks, experts say",
-          "link": "https://www.cnbc.com/2026/07/27/cyclospora-outbreak-food-industry-consolidation.html",
-          "date": "2026-07-27T17:19:29+00:00"
-        },
-        {
-          "title": "U.S. and Iran pause fighting, Trump dismisses concerns of dwindling stockpiles",
-          "link": "https://www.cnbc.com/2026/07/27/us-iran-war-trump-hormuz.html",
-          "date": "2026-07-27T17:43:48+00:00"
-        },
-        {
-          "title": "Netflix woes setting up for a Hollywood ending, says trader Mike Khouw",
-          "link": "https://www.cnbc.com/2026/07/27/netflix-woes-setting-up-for-a-hollywood-ending-says-trader-mike-khouw.html",
-          "date": "2026-07-27T17:25:45+00:00"
-        },
-        {
-          "title": "Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag",
-          "link": "https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html",
-          "date": "2026-07-27T19:14:30+00:00"
+          "title": "Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro's capture",
+          "link": "https://www.cnbc.com/2026/07/27/trump-says-us-has-sold-more-than-13-billion-of-venezuela-oil-.html",
+          "date": "2026-07-27T20:51:08+00:00"
         }
       ]
     },
@@ -263,6 +263,21 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Razer’s analog Huntsman V3 Pro is over 20 percent off",
+          "link": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale",
+          "date": "2026-07-27T21:29:22+00:00"
+        },
+        {
+          "title": "Xbox’s huge outage even blocked games on disc",
+          "link": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games",
+          "date": "2026-07-27T21:09:14+00:00"
+        },
+        {
+          "title": "Nanoleaf&#8217;s colorful pegboard and shelf kit is half off",
+          "link": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale",
+          "date": "2026-07-27T19:24:55+00:00"
+        },
+        {
           "title": "Why China is giving away its best AI models",
           "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
           "date": "2026-07-27T16:51:50+00:00"
@@ -271,21 +286,6 @@
           "title": "YouTube Premium will include Peacock starting next year",
           "link": "https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal",
           "date": "2026-07-27T16:24:38+00:00"
-        },
-        {
-          "title": "Amazon&#8217;s trying to launch a global satellite cellphone network in 2028",
-          "link": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
-          "date": "2026-07-27T15:40:38+00:00"
-        },
-        {
-          "title": "This is my new favorite laptop, but thanks to RAMageddon the price already went up by $800",
-          "link": "https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review",
-          "date": "2026-07-27T18:51:22+00:00"
-        },
-        {
-          "title": "Tariffs didn’t bring manufacturing jobs back to the US",
-          "link": "https://www.theverge.com/podcast/971306/tariffs-liberation-day-ai-trade-shipping-jobs-canada",
-          "date": "2026-07-27T13:56:02+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
+          "link": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
+          "date": "2026-07-27T19:18:02+00:00"
+        },
+        {
+          "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
+          "link": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+          "date": "2026-07-27T18:48:41+00:00"
+        },
+        {
+          "title": "Experts warn current Starship heat shield tech is a \"dead end\" for rapid reuse",
+          "link": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
+          "date": "2026-07-27T18:34:40+00:00"
+        },
+        {
+          "title": "ChatGPT starts blocking direct requests to copy an author's style",
+          "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+          "date": "2026-07-27T16:58:46+00:00"
+        },
+        {
           "title": "Activist charged with felony after giving border agent \"duress code\" that wiped his phone",
           "link": "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
           "date": "2026-07-27T15:58:34+00:00"
-        },
-        {
-          "title": "Framework Laptop 13 Pro review: Much better battery, much worse price",
-          "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-          "date": "2026-07-27T15:02:45+00:00"
-        },
-        {
-          "title": "What public health professionals can learn from anti-vaccine storytelling",
-          "link": "https://arstechnica.com/health/2026/07/how-emotionally-powerful-stories-fuel-vaccine-skepticism/",
-          "date": "2026-07-27T14:01:56+00:00"
-        },
-        {
-          "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
-          "link": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
-          "date": "2026-07-27T10:50:37+00:00"
-        },
-        {
-          "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
-          "link": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
-          "date": "2026-07-26T19:48:43+00:00"
         }
       ]
     },
@@ -327,6 +327,21 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "Forth",
+          "link": "https://xkcd.com/3277/",
+          "date": "2026-07-27T20:15:50+00:00"
+        },
+        {
+          "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+          "link": "https://www.rise-reforming.com",
+          "date": "2026-07-27T19:58:22+00:00"
+        },
+        {
+          "title": "The Author of Clean Code No Longer Reviews AI-Generated Code",
+          "link": "https://news.ycombinator.com/item?id=49074693",
+          "date": "2026-07-27T19:47:06+00:00"
+        },
+        {
           "title": "Self-contained highly-portable Python distributions",
           "link": "https://gregoryszorc.com/docs/python-build-standalone/main/",
           "date": "2026-07-27T18:43:31+00:00"
@@ -335,21 +350,6 @@
           "title": "The Artist Who Colored Ghibli",
           "link": "https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli",
           "date": "2026-07-27T18:32:09+00:00"
-        },
-        {
-          "title": "Exercise works for depression. So why isn't it treated like real medicine?",
-          "link": "https://bigthink.com/mind-behavior/exercise-works-for-depression-so-why-isnt-it-treated-like-real-medicine/",
-          "date": "2026-07-27T18:26:59+00:00"
-        },
-        {
-          "title": "Bytecode-to-Source Mapping",
-          "link": "https://tidefield.dev/bytecode-to-source-mapping/",
-          "date": "2026-07-27T18:25:21+00:00"
-        },
-        {
-          "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
-          "link": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
-          "date": "2026-07-27T18:15:35+00:00"
         }
       ]
     },
@@ -374,14 +374,14 @@
           "date": "2026-07-27T10:40:48+00:00"
         },
         {
-          "title": "How is the Bun Rewrite in Rust Going?",
-          "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-          "date": "2026-07-27T12:32:24+00:00"
-        },
-        {
           "title": "The Productivity Mirage",
           "link": "https://frantic.im/mirage",
           "date": "2026-07-27T10:54:37+00:00"
+        },
+        {
+          "title": "How is the Bun Rewrite in Rust Going?",
+          "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+          "date": "2026-07-27T12:32:24+00:00"
         }
       ]
     },
@@ -391,29 +391,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享发现] Grok Build vs Codex",
-          "link": "https://www.v2ex.com/t/1230267#reply0",
-          "date": "2026-07-27T18:10:31+00:00"
+          "title": "[程序员] 有用 codex 做 vibe research 的吗？",
+          "link": "https://www.v2ex.com/t/1230273#reply0",
+          "date": "2026-07-27T21:57:40+00:00"
         },
         {
-          "title": "[分享创造] 喝多了 有人在线聊天吗",
-          "link": "https://www.v2ex.com/t/1230266#reply10",
-          "date": "2026-07-27T17:44:19+00:00"
+          "title": "[Netflix] Netflix 巴西区老车缺一人(55/季 or 210/年)",
+          "link": "https://www.v2ex.com/t/1230272#reply0",
+          "date": "2026-07-27T21:16:35+00:00"
         },
         {
-          "title": "[程序员] iOS27 开通 gg 卡的 wificalling 失败",
-          "link": "https://www.v2ex.com/t/1230265#reply4",
-          "date": "2026-07-27T17:23:52+00:00"
+          "title": "[求职] # [北美招聘] 诚聘项目估价师助理 (支持应届生/无经验可培训)",
+          "link": "https://www.v2ex.com/t/1230271#reply0",
+          "date": "2026-07-27T19:58:26+00:00"
         },
         {
-          "title": "[分享创造] [开源] 闲置 Windows/Mac 变身机顶盒（无需键鼠）手机控制（支持 Emby/IPTV/投屏/B 站等）",
-          "link": "https://www.v2ex.com/t/1230264#reply1",
-          "date": "2026-07-27T16:54:13+00:00"
+          "title": "[VPS] (转帖)Gaffgiff 封禁情况下的预备方案",
+          "link": "https://www.v2ex.com/t/1230270#reply0",
+          "date": "2026-07-27T19:57:46+00:00"
         },
         {
-          "title": "[macOS] mac mini m4 GPU 性能支撑不住 4K",
-          "link": "https://www.v2ex.com/t/1230263#reply7",
-          "date": "2026-07-27T16:51:09+00:00"
+          "title": "[情感问题] 彩礼/嫁妆归属问题",
+          "link": "https://www.v2ex.com/t/1230269#reply0",
+          "date": "2026-07-27T19:56:25+00:00"
         }
       ]
     },
@@ -456,7 +456,7 @@
       "items": [
         {
           "title": "The harness is all you need (mostly)",
-          "link": "https://github.blog/company/the-harness-is-all-you-need-mostly/",
+          "link": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
           "date": "2026-07-27T18:00:00+00:00"
         },
         {
