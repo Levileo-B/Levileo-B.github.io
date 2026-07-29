@@ -1,11 +1,16 @@
 {
-  "updated": "2026-07-28T21:58:13+00:00",
+  "updated": "2026-07-29T02:03:27+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "中國使領館外牆的政治標語：如何從重慶擴展至全球",
+          "link": "https://www.bbc.com/zhongwen/articles/crrvd51lnp5o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-29T00:22:01+00:00"
+        },
         {
           "title": "唐山大地震50週年：從毛澤東批閱到44年後的餘震，五個鮮為人知的歷史細節",
           "link": "https://www.bbc.com/zhongwen/articles/cg5lvqre8lzo/trad?at_medium=RSS&at_campaign=rss",
@@ -22,14 +27,9 @@
           "date": "2026-07-28T07:32:39+00:00"
         },
         {
-          "title": "香港前議員胡志偉獲准如常逗留英國 向BBC中文談機場風波",
-          "link": "https://www.bbc.com/zhongwen/articles/c70gzyjnj44o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-28T02:14:35+00:00"
-        },
-        {
-          "title": "中國女童基因編輯治療後死亡，為何引發巨大爭議？",
-          "link": "https://www.bbc.com/zhongwen/articles/cjrv7vp8p53o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-27T09:19:49+00:00"
+          "title": "什麼是「火雲」? 為何會使野火更致命 ?",
+          "link": "https://www.bbc.com/zhongwen/articles/ce3q99dj835o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-29T01:24:40+00:00"
         }
       ]
     },
@@ -39,29 +39,29 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "Watch: The moment quake hit Japan",
+          "link": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-28T15:32:37+00:00"
+        },
+        {
+          "title": "Iran and US trade strikes, shattering brief lull in fighting",
+          "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-29T00:51:45+00:00"
+        },
+        {
+          "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+          "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-28T23:25:53+00:00"
+        },
+        {
+          "title": "Trump administration bans new Chinese humanoid robots",
+          "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-29T01:22:14+00:00"
+        },
+        {
           "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
           "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-28T16:14:03+00:00"
-        },
-        {
-          "title": "Uefa and PM criticise Infantino World Cup plan",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-28T15:36:29+00:00"
-        },
-        {
-          "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
-          "link": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-28T18:19:57+00:00"
-        },
-        {
-          "title": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
-          "link": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-28T16:37:02+00:00"
-        },
-        {
-          "title": "Odyssey translator writes scathing review of Nolan film adaptation",
-          "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-28T15:11:28+00:00"
         }
       ]
     },
@@ -71,29 +71,29 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
+          "title": "Burnham has no scope to increase borrowing, think tank warns",
+          "link": "https://www.bbc.co.uk/news/articles/c62ev62381mo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-28T23:00:12+00:00"
+        },
+        {
+          "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
+          "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-28T23:00:15+00:00"
+        },
+        {
+          "title": "Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack",
+          "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-28T23:00:10+00:00"
+        },
+        {
+          "title": "Trump administration bans new Chinese humanoid robots",
+          "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-29T01:22:14+00:00"
+        },
+        {
           "title": "eBay agrees $56m settlement with bloggers over harassment case",
           "link": "https://www.bbc.co.uk/news/articles/cj039p238r5o?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-28T21:49:16+00:00"
-        },
-        {
-          "title": "Some parents on benefits to get up to £4,500 for child starting apprenticeship",
-          "link": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-28T17:32:56+00:00"
-        },
-        {
-          "title": "Schools to offer technical subjects to pupils from age 14 in England, Burnham says",
-          "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-28T16:35:05+00:00"
-        },
-        {
-          "title": "Horror maestro Mike Flanagan joins Henry Cavill on Warhammer adaptations",
-          "link": "https://www.bbc.co.uk/news/articles/c62v8exggjeo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-28T13:59:24+00:00"
-        },
-        {
-          "title": "Is it safe to travel to France and Spain right now?",
-          "link": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-28T13:54:20+00:00"
         }
       ]
     },
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "Ford raises guidance after Q2 earnings beat, says F-Series recovery is on track",
-          "link": "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html",
-          "date": "2026-07-28T21:44:31+00:00"
+          "title": "Iran launches surprise ballistic missile attack on U.S. forces in the Middle East",
+          "link": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html",
+          "date": "2026-07-29T00:59:08+00:00"
         },
         {
-          "title": "Elon Musk stocks take $1.5 trillion hit with fresh test in SpaceX lockup ahead",
-          "link": "https://www.cnbc.com/2026/07/28/elon-musk-stocks-take-1point5-trillion-hit-with-fresh-test-in-spacex-lockup-ahead.html",
-          "date": "2026-07-28T18:56:34+00:00"
+          "title": "Oil jumps as U.S.-Iran resume strikes after a brief pause",
+          "link": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
+          "date": "2026-07-29T00:52:49+00:00"
         },
         {
-          "title": "Kentucky Gov. Beshear calls on Mitch McConnell to prove he can serve or resign",
-          "link": "https://www.cnbc.com/2026/07/28/beshear-mcconnell-health-resign-senate-vacancy.html",
-          "date": "2026-07-28T19:03:40+00:00"
+          "title": "SK Hynix second-quarter revenue more than triples — but misses estimates",
+          "link": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
+          "date": "2026-07-29T00:00:33+00:00"
         },
         {
-          "title": "Senate set to vote on Trump's pick for spy chief, ending Bill Pulte's brief tenure",
+          "title": "Senate confirms Jay Clayton as Trump's director of national intelligence, replacing Pulte",
           "link": "https://www.cnbc.com/2026/07/28/jay-clayton-bill-pulte-senate-vote-trump-spy-chief.html",
-          "date": "2026-07-28T21:05:36+00:00"
+          "date": "2026-07-29T00:04:25+00:00"
         },
         {
-          "title": "Blurred front lines: Trump meets Zelenskyy as Ukraine, Iran wars collide",
-          "link": "https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html",
-          "date": "2026-07-28T15:59:04+00:00"
+          "title": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off",
+          "link": "https://www.cnbc.com/2026/07/28/hyperscalers-face-higher-capex-scrutiny-after-alphabet-report-panned.html",
+          "date": "2026-07-28T19:45:10+00:00"
         }
       ]
     },
@@ -135,28 +135,28 @@
       "url": "https://36kr.com/feed",
       "items": [
         {
+          "title": "柔性触觉感知企业获新一轮融资，预计2026年公司营收翻10倍｜硬氪首发",
+          "link": "https://36kr.com/p/3915175290901889?f=rss",
+          "date": ""
+        },
+        {
+          "title": "自研SNN类脑芯片、做医疗设备的“上游大脑”，「米能科技」获数千万元融资｜36氪首发",
+          "link": "https://36kr.com/p/3878652674715905?f=rss",
+          "date": ""
+        },
+        {
+          "title": "8点1氪丨韩国考虑为“借钱炒股”封顶20%；雷军打新长鑫科技浮盈7亿？小米高管回应；月之暗面Kimi K3正式开源",
+          "link": "https://36kr.com/p/3915953688604296?f=rss",
+          "date": ""
+        },
+        {
+          "title": "36氪研究院 | 2026年中国智能硬件行业发展研究报告",
+          "link": "https://36kr.com/p/3915066350327176?f=rss",
+          "date": ""
+        },
+        {
           "title": "科氪 | 定义AI睡眠健康新赛道 东莞数字人体与智慧睡眠创新联合体落地慕思",
           "link": "https://36kr.com/p/3915239611739781?f=rss",
-          "date": ""
-        },
-        {
-          "title": "氪星晚报｜Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心；“国科超导”完成超亿元融资；我国启动人工智能大模型IPv6能力提升专项行动",
-          "link": "https://36kr.com/p/3913321294369924?f=rss",
-          "date": ""
-        },
-        {
-          "title": "UCLA博士团队创业做人形机器人基础模型，拿下近5亿元天使++轮融资｜硬氪首发",
-          "link": "https://36kr.com/p/3913213962540164?f=rss",
-          "date": ""
-        },
-        {
-          "title": "沃尔沃中国全面\"吉利化\"，首款超豪轿车对标尊界S800｜36氪独家",
-          "link": "https://36kr.com/p/3913637793059968?f=rss",
-          "date": ""
-        },
-        {
-          "title": "Kando AI完成数千万元种子轮融资，要做“决策领域的Cursor”｜涌现新项目",
-          "link": "https://36kr.com/p/3915057199535233?f=rss",
           "date": ""
         }
       ]
@@ -166,6 +166,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "派早报：微软发布网络安全模型 MAI-Cyber-1-Flash、美团发布 AI Agent 平台等",
+          "link": "https://sspai.com/post/112837",
+          "date": "2026-07-29T00:39:00+00:00"
+        },
         {
           "title": "社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包",
           "link": "https://sspai.com/post/112820",
@@ -185,11 +190,6 @@
           "title": "索尼抛弃实体游戏光盘，谁成为了转型代价？",
           "link": "https://sspai.com/post/112774",
           "date": "2026-07-28T03:02:53+00:00"
-        },
-        {
-          "title": "派早报：月之暗面开源 Kimi K3 模型等",
-          "link": "https://sspai.com/post/112805",
-          "date": "2026-07-28T00:04:27+00:00"
         }
       ]
     },
@@ -198,6 +198,11 @@
       "category": "科技",
       "url": "https://www.ifanr.com/feed",
       "items": [
+        {
+          "title": "早报｜苹果智能家居新品曝光,AI Siri加持/马斯克X钱包在美国上线/携程CEO全员信曝光:诚恳接受处罚",
+          "link": "https://www.ifanr.com/1673331?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-07-29T00:55:00+00:00"
+        },
         {
           "title": "少一个座位便宜 1.4 万，极氪 9X 五座版上市，47.19 万起",
           "link": "https://www.ifanr.com/1673295?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -214,14 +219,9 @@
           "date": "2026-07-28T04:10:08+00:00"
         },
         {
-          "title": "香港卖得最好的 MPV，不是丰田埃尔法，而是五菱的星光 730",
-          "link": "https://www.ifanr.com/1673226?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-07-28T01:27:28+00:00"
-        },
-        {
-          "title": "早报｜雷军解释小米澎程为何无纯电版/腾讯QQ宠物官宣回归/曝三星手机拟采用长鑫内存",
-          "link": "https://www.ifanr.com/1673221?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-07-28T00:13:38+00:00"
+          "title": "苹果 AI 眼镜明年 WWDC 见，但这次「隐私」不好做",
+          "link": "https://www.ifanr.com/1673147?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-07-28T03:30:38+00:00"
         }
       ]
     },
@@ -263,6 +263,11 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "The US is banning foreign robots",
+          "link": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
+          "date": "2026-07-28T22:49:40+00:00"
+        },
+        {
           "title": "Ariana Grande is suing the hackers who&#8217;ve been leaking her songs and videos for years",
           "link": "https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit",
           "date": "2026-07-28T21:48:50+00:00"
@@ -270,22 +275,17 @@
         {
           "title": "The union drive at the Wikimedia Foundation is expanding",
           "link": "https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike",
-          "date": "2026-07-28T21:11:31+00:00"
+          "date": "2026-07-28T23:32:36+00:00"
         },
         {
           "title": "eBay&#8217;s bizarre cyberstalking saga ends with a $56 million settlement",
           "link": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
-          "date": "2026-07-28T21:11:11+00:00"
+          "date": "2026-07-28T22:48:10+00:00"
         },
         {
-          "title": "AI leaders sign statement asking the government to do something about automated AI",
+          "title": "AI leaders sign a statement asking the government to do something about automated AI",
           "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-          "date": "2026-07-28T19:48:50+00:00"
-        },
-        {
-          "title": "Is it illegal to trick the US government into wiping your phone during a questionably legal search?",
-          "link": "https://www.theverge.com/report/972146/cbp-phone-search-airport-duress-password",
-          "date": "2026-07-28T19:32:24+00:00"
+          "date": "2026-07-28T23:14:53+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "New airliner sets record flying 24 hrs nonstop from Australia to France",
-          "link": "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/",
-          "date": "2026-07-28T18:43:36+00:00"
+          "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
+          "link": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
+          "date": "2026-07-28T22:09:00+00:00"
         },
         {
-          "title": "Judge blocks first state law that would have banned prediction markets",
-          "link": "https://arstechnica.com/tech-policy/2026/07/judge-blocks-first-state-law-that-would-have-banned-prediction-markets/",
-          "date": "2026-07-28T18:31:13+00:00"
+          "title": "College lab class ends with 32 people on antibiotics for deadly germ exposure",
+          "link": "https://arstechnica.com/health/2026/07/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-exposure/",
+          "date": "2026-07-28T21:49:52+00:00"
         },
         {
-          "title": "Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link",
-          "link": "https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/",
-          "date": "2026-07-28T16:16:25+00:00"
+          "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+          "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+          "date": "2026-07-28T21:36:39+00:00"
         },
         {
-          "title": "As US measles cases rise, biotech firms start developing new treatments",
-          "link": "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/",
-          "date": "2026-07-28T13:32:23+00:00"
+          "title": "eBay pays $46M to journalists it targeted in bizarre harassment campaign",
+          "link": "https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case/",
+          "date": "2026-07-28T21:02:15+00:00"
         },
         {
-          "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-          "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-          "date": "2026-07-27T21:56:14+00:00"
+          "title": "Study: Dinosaurs were charbroiled after Chicxulub impact",
+          "link": "https://arstechnica.com/science/2026/07/dust-cloud-from-dino-killing-asteroid-charbroiled-the-earth/",
+          "date": "2026-07-28T20:51:45+00:00"
         }
       ]
     },
@@ -327,29 +327,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Half-Life ported to Mac OS 9",
-          "link": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-          "date": "2026-07-28T20:58:39+00:00"
+          "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
+          "link": "https://andreadimatteo.com/md-to-html-compiler.html",
+          "date": "2026-07-29T01:04:30+00:00"
         },
         {
-          "title": "OpenAI just open-sourced Codex Security",
-          "link": "https://github.com/openai/codex-security",
-          "date": "2026-07-28T20:52:55+00:00"
+          "title": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
+          "link": "https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf",
+          "date": "2026-07-29T00:44:26+00:00"
         },
         {
-          "title": "Recursion is lying to you",
-          "link": "https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/",
-          "date": "2026-07-28T20:20:51+00:00"
+          "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+          "link": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
+          "date": "2026-07-29T00:32:08+00:00"
         },
         {
-          "title": "Hulios: An eBPF-powered, transparent Tor gateway for Linux",
-          "link": "https://github.com/ghaziwali/Hulios",
-          "date": "2026-07-28T19:54:38+00:00"
+          "title": "The Difference Between a Button and a Link",
+          "link": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+          "date": "2026-07-29T00:12:14+00:00"
         },
         {
-          "title": "Uv 0.12.0",
-          "link": "https://github.com/astral-sh/uv/releases/tag/0.12.0",
-          "date": "2026-07-28T19:41:33+00:00"
+          "title": "Hubble: Open-source notetaking app for you and your agents",
+          "link": "https://www.hubble.md/",
+          "date": "2026-07-29T00:11:23+00:00"
         }
       ]
     },
@@ -369,19 +369,19 @@
           "date": "2026-07-28T13:33:00+00:00"
         },
         {
+          "title": "Why Rocq is better than Lean for program verification",
+          "link": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+          "date": "2026-07-28T21:16:29+00:00"
+        },
+        {
           "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
           "link": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
           "date": "2026-07-28T10:32:54+00:00"
         },
         {
-          "title": "Framework 13 Pro review: Much better battery, much worse price",
-          "link": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-          "date": "2026-07-28T03:15:40+00:00"
-        },
-        {
-          "title": "What even are microservices?",
-          "link": "https://var0.xyz/posts/what-even-are-microservices.html",
-          "date": "2026-07-28T12:14:24+00:00"
+          "title": "The mean means nothing",
+          "link": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
+          "date": "2026-07-28T18:53:28+00:00"
         }
       ]
     },
@@ -391,29 +391,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[OpenAI] Free 账号有居然是周限额， XD 们你们有吗？",
-          "link": "https://www.v2ex.com/t/1230565#reply0",
-          "date": "2026-07-28T21:39:11+00:00"
+          "title": "[问与答] 兄弟们都买了什么新能源车？理想 I6、ModelY、极氪？",
+          "link": "https://www.v2ex.com/t/1230594#reply2",
+          "date": "2026-07-29T01:56:47+00:00"
         },
         {
-          "title": "[分享发现] 分享一下逾期经历中的几个问题",
-          "link": "https://www.v2ex.com/t/1230564#reply2",
-          "date": "2026-07-28T18:10:09+00:00"
+          "title": "[程序员] 根据隔壁反馈 gg 申请退款的工单差不多上万了",
+          "link": "https://www.v2ex.com/t/1230593#reply0",
+          "date": "2026-07-29T01:56:23+00:00"
         },
         {
-          "title": "[程序员] 我做了一个可以看 skill， agent，和插件是否真的能提高成功率和减少 token 的测试架构",
-          "link": "https://www.v2ex.com/t/1230562#reply0",
-          "date": "2026-07-28T17:03:07+00:00"
+          "title": "[iMac] 想买个 Mac mini 放家里做远程开发",
+          "link": "https://www.v2ex.com/t/1230592#reply2",
+          "date": "2026-07-29T01:52:27+00:00"
         },
         {
-          "title": "[分享发现] 终于找回账号了",
-          "link": "https://www.v2ex.com/t/1230561#reply0",
-          "date": "2026-07-28T16:30:02+00:00"
+          "title": "[分享创造] 昨晚上来了一批国际友人给我的项目 star",
+          "link": "https://www.v2ex.com/t/1230590#reply4",
+          "date": "2026-07-29T01:45:37+00:00"
         },
         {
-          "title": "[创业组队] 诚寻创业(搞钱)合伙人(base 上海)",
-          "link": "https://www.v2ex.com/t/1230560#reply2",
-          "date": "2026-07-28T16:20:44+00:00"
+          "title": "[Claude Code] claude code 封号 会退款吗 需要自己手动申请吗",
+          "link": "https://www.v2ex.com/t/1230589#reply6",
+          "date": "2026-07-29T01:44:23+00:00"
         }
       ]
     },

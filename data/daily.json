@@ -1,124 +1,125 @@
 {
-  "updated": "2026-07-28T21:58:13+00:00",
+  "updated": "2026-07-29T02:03:27+00:00",
   "leetcode": {
-    "date": "2026-07-28",
-    "id": "3517",
-    "title": "Smallest Palindromic Rearrangement I",
-    "titleEn": "Smallest Palindromic Rearrangement I",
-    "slug": "smallest-palindromic-rearrangement-i",
-    "difficulty": "Medium",
+    "date": "2026-07-29",
+    "id": "3518",
+    "title": "Smallest Palindromic Rearrangement II",
+    "titleEn": "Smallest Palindromic Rearrangement II",
+    "slug": "smallest-palindromic-rearrangement-ii",
+    "difficulty": "Hard",
     "tags": [
+      "Hash Table",
+      "Math",
       "String",
-      "Sorting",
-      "Counting Sort"
+      "Combinatorics"
     ],
-    "link": "https://leetcode.com/problems/smallest-palindromic-rearrangement-i/",
+    "link": "https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Silent Parade",
-    "text": "The Negro Silent Protest Parade, commonly known as the Silent Parade, was a political protest in New York City on July 28, 1917. The primary objective of the march was to draw national attention to the widespread racial violence and entrenched systemic discrimination endured by African Americans. It was organized in direct response to a series of racially motivated attacks in 1916 and 1917, including the East St. Louis massacre and lynchings in Waco and Memphis.",
-    "words": 76,
-    "url": "https://en.wikipedia.org/wiki/Silent_Parade",
-    "date": "2026-07-28",
+    "title": "Tiger",
+    "text": "The tiger is a large cat and a member of the genus Panthera native to Asia. It has a powerful, muscular body with a large head and paws, a long tail and orange fur with black, mostly vertical stripes. It is traditionally classified into nine recent subspecies, though some recognise only two subspecies, mainland Asian tigers and the island tigers of the Sunda Islands.",
+    "words": 64,
+    "url": "https://en.wikipedia.org/wiki/Tiger",
+    "date": "2026-07-29",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Caltex: A Major Scientific Breakthrough",
+    "title": "Siam",
     "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/6155_Caltex_A_Major_Scientific_Breakthrough_01_21_24_20/6155_Caltex_A_Major_Scientific_Breakthrough_01_21_24_20.m4v",
-    "page": "https://archive.org/details/6155_Caltex_A_Major_Scientific_Breakthrough_01_21_24_20",
-    "date": "2026-07-28",
+    "year": "1941",
+    "url": "https://archive.org/download/6111_Siam_00_50_54_12/6111_Siam_00_50_54_12.m4v",
+    "page": "https://archive.org/details/6111_Siam_00_50_54_12",
+    "date": "2026-07-29",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "jabberwacky - швы чужой хиросимы (2012) [MNMN173]",
-      "artist": "jabberwacky",
-      "url": "https://archive.org/download/MNMN173/01.%20%D0%BD%D0%B5%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%8B%D0%B9%20%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81.mp3",
-      "page": "https://archive.org/details/MNMN173",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "O Colecionador de Sons_Emissao # 51_2012.05.21",
-      "artist": "luis antero",
-      "url": "https://archive.org/download/OColecionadorDeSons_emissao51_2012.05.21/Ocds51.mp3",
-      "page": "https://archive.org/details/OColecionadorDeSons_emissao51_2012.05.21",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Mark Ward: \"Rise\"",
-      "artist": "Mark Ward",
-      "url": "https://archive.org/download/dsp002/01-NorthBayPrelude.mp3",
-      "page": "https://archive.org/details/dsp002",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "NWTWO0296-Killing Option (Party Session)",
-      "artist": "Killing Option",
-      "url": "https://archive.org/download/Nwtwo0296-killingOptionpartySession-untitledSong/Nwtwo0296-killingOptionpartySession.mp3",
-      "page": "https://archive.org/details/Nwtwo0296-killingOptionpartySession-untitledSong",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "[NrM068] Ariu Kara - Is It Alive? (2016) (Nenormalizm Records)",
-      "artist": "Nenormalizm Records",
-      "url": "https://archive.org/download/Ariu_Kara/01%20%D0%9B%D0%B5%D1%81%20%D0%A1%D0%B2%D0%B0%D0%B9%20-%20Forest%20of%20Piles.mp3",
-      "page": "https://archive.org/details/Ariu_Kara",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "(o2 label 05 - 055) MonsterTools - Thousand Voices [ Single]",
-      "artist": "",
-      "url": "https://archive.org/download/MonsterToolsThousandVoicesSingle/01.Thousand%20voices.mp3",
-      "page": "https://archive.org/details/MonsterToolsThousandVoicesSingle",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "Elements One",
-      "artist": "Another Neglected Hobby",
-      "url": "https://archive.org/download/ANH999008/01_-_Another_Neglected_Hobby_-_Beeswax_and_Rust.mp3",
-      "page": "https://archive.org/details/ANH999008",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "DIENSTbar @ dfm.nu Transmission No. 68 Special Theme: Concerts #8",
-      "artist": "Ohmnoise",
-      "url": "https://archive.org/download/dbdfmnu68/dbdfmnu68.mp3",
-      "page": "https://archive.org/details/dbdfmnu68",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "TFR455 - Vacillation - The Sadistic Nature of Mankind",
-      "artist": "Vacillation",
-      "url": "https://archive.org/download/TFR455-Vacillation-TheSadisticNatureOfMankind/01-SadisticNatureOfMankind.mp3",
-      "page": "https://archive.org/details/TFR455-Vacillation-TheSadisticNatureOfMankind",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Crashed By Car - 8bit EP [8bit0012]",
-      "artist": "",
-      "url": "https://archive.org/download/8bit0012/crashedbycar_elizabethdidyoueverheard.mp3",
-      "page": "https://archive.org/details/8bit0012",
+      "title": "bruit (Dutch supports socialist medicine)",
+      "artist": "Christopher Taylor",
+      "url": "https://archive.org/download/BruitdutchSupportsSocialistMedicine/BruitdutchSupportsSocialistMedicine.mp3",
+      "page": "https://archive.org/details/BruitdutchSupportsSocialistMedicine",
       "license": "Creative Commons"
     },
     {
-      "title": "Зомби Утёсов - 1.234 (2016) [MNMN388]",
-      "artist": "Зомби Утёсов",
-      "url": "https://archive.org/download/MNMN388/01.%20%D0%9B%D1%83%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BB%D1%8E%D0%B4%D0%B8%20%D1%81%D0%BD%D0%B5%D0%B3%D0%B0.mp3",
-      "page": "https://archive.org/details/MNMN388",
+      "title": "Corní­zio (partes 1 e 3)",
+      "artist": "luis antero",
+      "url": "https://archive.org/download/Cornziopartes1E3/Cornzio1.mp3",
+      "page": "https://archive.org/details/Cornziopartes1E3",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "oceanrising - growth (2011) [diss017]",
-      "artist": "oceanrising",
-      "url": "https://archive.org/download/diss017/01_redhead.mp3",
-      "page": "https://archive.org/details/diss017",
+      "title": "DCRPS009",
+      "artist": "",
+      "url": "https://archive.org/download/DCRPS009/KaktusIce-001-FeelingLikeeNumberOne.mp3",
+      "page": "https://archive.org/details/DCRPS009",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "[unfound27] dario zenker - black sword ep",
+      "artist": "dario zenker",
+      "url": "https://archive.org/download/unfound27/unfound27_01_-_dario_zenker_-_don_perignon.mp3",
+      "page": "https://archive.org/details/unfound27",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
+    },
+    {
+      "title": "Feliz Navidad Higher Love",
+      "artist": "Christian & Boogis Man Hahaha :O",
+      "url": "https://archive.org/download/Christian-BoogisManHahahaO-FelizNavidadHigherLove/Christian%20%26%20Boogis%20Man%20Hahaha%20-O%20-%20Feliz%20Navidad%20Higher%20Love%20-%2001%20Feliz%20Navidad%20Higher%20Love.mp3",
+      "page": "https://archive.org/details/Christian-BoogisManHahahaO-FelizNavidadHigherLove",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Cthulhu Youth - Demo (2010)",
+      "artist": "Cthulhu Youth",
+      "url": "https://archive.org/download/CthulhuYouth-Demo2010/01-MentalAbuse.mp3",
+      "page": "https://archive.org/details/CthulhuYouth-Demo2010",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "ANIMESHNAYXYNINY - EMSZ (2019)",
+      "artist": "ANIMESHNAYXYNINY",
+      "url": "https://archive.org/download/IBR_1536/01.%20%D0%A1%D0%B0%D0%BC%20%D0%B1%D0%BE%D0%B3%20%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D1%91%D1%81%20%D1%8D%D1%82%D0%BE%20%D0%B2%2000_00.mp3",
+      "page": "https://archive.org/details/IBR_1536",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "[PCR051] Technox PL - Reloading EP",
+      "artist": "S. Müller",
+      "url": "https://archive.org/download/pcr051_technox_pl_reloading_ep/pcr051_01_technox_pl_system_error.mp3",
+      "page": "https://archive.org/details/pcr051_technox_pl_reloading_ep",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Creeping Lawler 2",
+      "artist": "Warfare 3.0",
+      "url": "https://archive.org/download/Creeping_Lawler_2/011creepinglawler2.mp3",
+      "page": "https://archive.org/details/Creeping_Lawler_2",
+      "license": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "title": "Demo Rose",
+      "artist": "Casio Judiciaire",
+      "url": "https://archive.org/download/DEGl022/1%20penetrator%202.mp3",
+      "page": "https://archive.org/details/DEGl022",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Corrupted - Feed On The Weak (Demo 2002) + Agony Design (Unreleased 2008)",
+      "artist": "Corrupted",
+      "url": "https://archive.org/download/Corrupted_FeedOnTheWeak_Demo2002Unreleased2008/Corrupted%20-%20Feed%20On%20The%20Weak%20%28Demo%202002%29%20-%2001%20Devil%2527s%20Breath.mp3",
+      "page": "https://archive.org/details/Corrupted_FeedOnTheWeak_Demo2002Unreleased2008",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+    },
+    {
+      "title": "[GV-489] Quanthe - Dust",
+      "artist": "Quanthe",
+      "url": "https://archive.org/download/gv489/Quanthe%20-%20Dust%20-%2001%20Trom.mp3",
+      "page": "https://archive.org/details/gv489",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     }
   ]
