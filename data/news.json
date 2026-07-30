@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T11:02:42+00:00",
+  "updated": "2026-07-30T13:45:51+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -7,9 +7,9 @@
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
         {
-          "title": "澳門國安法首案：區錦新被羈押滿一年，家人「無法聯繫」",
+          "title": "澳門國安法首案：區錦新被羈押滿一年，「外界難以聯絡」",
           "link": "https://www.bbc.com/zhongwen/articles/ce852385914o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T10:51:00+00:00"
+          "date": "2026-07-30T11:55:00+00:00"
         },
         {
           "title": "中國機器人大軍如何改變英國零售業？",
@@ -51,12 +51,12 @@
         {
           "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
           "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T09:56:06+00:00"
+          "date": "2026-07-30T13:38:50+00:00"
         },
         {
-          "title": "Thousands evacuated in Crete as European wildfires continue to rage",
+          "title": "Thousands evacuated in Crete as Europe battles wildfires",
           "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T09:10:11+00:00"
+          "date": "2026-07-30T12:46:16+00:00"
         },
         {
           "title": "Nicaraguan leader proposes extending presidential term by another year",
@@ -71,9 +71,14 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
+          "title": "US economic growth slows to 1.5% in second quarter",
+          "link": "https://www.bbc.co.uk/news/articles/cd0xvrmlx2eo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-30T13:05:49+00:00"
+        },
+        {
           "title": "Virtual interviews don't show bosses your personality, says Burnham",
           "link": "https://www.bbc.co.uk/news/articles/c4g4dkr40deo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T09:48:21+00:00"
+          "date": "2026-07-30T13:17:56+00:00"
         },
         {
           "title": "Shell profits double as oil prices rise due to Iran war",
@@ -84,11 +89,6 @@
           "title": "What happens here has a big impact on your money",
           "link": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-29T16:00:24+00:00"
-        },
-        {
-          "title": "Beauty Pie founder on how she dropped out of university and built five beauty businesses",
-          "link": "https://www.bbc.co.uk/news/articles/c8jngmk93p9o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-29T23:02:18+00:00"
         },
         {
           "title": "The Chinese robot army transforming the UK's retail industry",
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "Meta tanks nearly 9%, Microsoft jumps 9% as the AI trade splits Big Tech",
+          "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+          "link": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
+          "date": "2026-07-30T13:13:53+00:00"
+        },
+        {
+          "title": "Star AI investor Leopold Aschenbrenner is unwinding trades after steep losses, sources say",
+          "link": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
+          "date": "2026-07-30T13:38:22+00:00"
+        },
+        {
+          "title": "New details in the OpenAI Hugging Face hack show how far agents will go: 'It's now remarkably easy'",
+          "link": "https://www.cnbc.com/2026/07/30/open-ai-hugging-face-hack-latest.html",
+          "date": "2026-07-30T13:26:18+00:00"
+        },
+        {
+          "title": "Cyclospora outbreak has hurt Taco Bell but sales are already improving, Yum Brands CEO says",
+          "link": "https://www.cnbc.com/2026/07/30/yum-brands-yum-q2-2026-earnings.html",
+          "date": "2026-07-30T13:06:54+00:00"
+        },
+        {
+          "title": "Meta tanks 9%, continuing record losing streak, while Microsoft jumps 14% as AI trade splits",
           "link": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
-          "date": "2026-07-30T10:27:12+00:00"
-        },
-        {
-          "title": "Iran says it will 'punish the aggressor today' after 'heavy wave' of U.S. strikes",
-          "link": "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html",
-          "date": "2026-07-30T08:22:33+00:00"
-        },
-        {
-          "title": "Here are the five big takeaways from this week's Fed meeting",
-          "link": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
-          "date": "2026-07-29T22:54:09+00:00"
-        },
-        {
-          "title": "Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting",
-          "link": "https://www.cnbc.com/2026/07/30/trump-iowa-farmers-agriculture.html",
-          "date": "2026-07-30T10:45:01+00:00"
-        },
-        {
-          "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
-          "link": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
-          "date": "2026-07-30T02:52:30+00:00"
+          "date": "2026-07-30T13:40:43+00:00"
         }
       ]
     },
@@ -226,6 +226,38 @@
       ]
     },
     {
+      "name": "Solidot",
+      "category": "科技",
+      "url": "https://www.solidot.org/index.rss",
+      "items": [
+        {
+          "title": "辣椒有助于减轻极端疼痛",
+          "link": "https://www.solidot.org/story?sid=84964",
+          "date": "2026-07-30T12:42:07+00:00"
+        },
+        {
+          "title": "熊本地震导致当地半导体工厂停工",
+          "link": "https://www.solidot.org/story?sid=84963",
+          "date": "2026-07-30T09:02:58+00:00"
+        },
+        {
+          "title": "日本人口 42 年来首次跌破 1.2 亿",
+          "link": "https://www.solidot.org/story?sid=84962",
+          "date": "2026-07-30T07:50:28+00:00"
+        },
+        {
+          "title": "网信办发布反网暴法征求意见稿",
+          "link": "https://www.solidot.org/story?sid=84961",
+          "date": "2026-07-30T07:43:40+00:00"
+        },
+        {
+          "title": "顶尖 AI 初创公司很少发表论文",
+          "link": "https://www.solidot.org/story?sid=84959",
+          "date": "2026-07-30T05:47:43+00:00"
+        }
+      ]
+    },
+    {
       "name": "The Verge",
       "category": "科技",
       "url": "https://www.theverge.com/rss/index.xml",
@@ -295,29 +327,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Gpiozero Flow",
-          "link": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
-          "date": "2026-07-30T10:32:41+00:00"
+          "title": "RFC 8890 – The Internet is for End Users (2020)",
+          "link": "https://mnot.net/blog/2020/for_the_users",
+          "date": "2026-07-30T13:07:53+00:00"
         },
         {
-          "title": "Atomarine: Nuclear Data Centers at Sea",
-          "link": "https://atomarine.co/",
-          "date": "2026-07-30T10:31:46+00:00"
+          "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+          "link": "https://remysharp.com/links/2026-07-23-35890312",
+          "date": "2026-07-30T13:03:27+00:00"
         },
         {
-          "title": "Google will expand age checks on Android worldwide till the end of the year",
-          "link": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
-          "date": "2026-07-30T10:13:46+00:00"
+          "title": "Why Is Everyone Trying to Build a Solid-State Battery?",
+          "link": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
+          "date": "2026-07-30T12:38:51+00:00"
         },
         {
-          "title": "Kuna: Decompiler Development in the Age of Coding Agents",
-          "link": "https://noelo.org/blog/kuna-release/",
-          "date": "2026-07-30T02:41:16+00:00"
+          "title": "OpenJDK Interim Policy on Generative AI",
+          "link": "https://openjdk.org/legal/ai",
+          "date": "2026-07-30T12:36:38+00:00"
         },
         {
-          "title": "Logic for Programmers",
-          "link": "https://logicforprogrammers.com/",
-          "date": "2026-07-30T00:51:39+00:00"
+          "title": "Why Don't People Use Formal Methods?",
+          "link": "https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/",
+          "date": "2026-07-30T12:21:34+00:00"
         }
       ]
     },
@@ -332,14 +364,14 @@
           "date": "2026-07-30T03:47:26+00:00"
         },
         {
-          "title": "AI Mania Is Eviscerating Global Decision-Making",
-          "link": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
-          "date": "2026-07-29T10:42:50+00:00"
-        },
-        {
           "title": "What side projects have you enjoyed the most?",
           "link": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
           "date": "2026-07-30T01:40:31+00:00"
+        },
+        {
+          "title": "AI Mania Is Eviscerating Global Decision-Making",
+          "link": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+          "date": "2026-07-29T10:42:50+00:00"
         },
         {
           "title": "It doesn’t matter whether “Matz is nice”",
@@ -347,9 +379,9 @@
           "date": "2026-07-29T13:12:17+00:00"
         },
         {
-          "title": "First CHERIoT Silicon",
-          "link": "https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html",
-          "date": "2026-07-29T18:11:44+00:00"
+          "title": "deskhop: Fast Desktop Switching Device",
+          "link": "https://github.com/hrvach/deskhop",
+          "date": "2026-07-30T07:52:39+00:00"
         }
       ]
     },
@@ -359,29 +391,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享创造] 极速磁盘扫描清理工具 RustDiskCleaner",
-          "link": "https://www.v2ex.com/t/1231063#reply0",
-          "date": "2026-07-30T10:54:43+00:00"
+          "title": "[分享创造] [开源] 给 agent-browser 做了个 Provider：复用日常 Chrome 登录态，不用调试端口，也不抢焦点",
+          "link": "https://www.v2ex.com/t/1231082#reply0",
+          "date": "2026-07-30T13:34:05+00:00"
         },
         {
-          "title": "[投资] 客观表达资本市场观点",
-          "link": "https://www.v2ex.com/t/1231062#reply0",
-          "date": "2026-07-30T10:54:14+00:00"
+          "title": "[OpenAI] 开源了个 Codex 任务状态监视器：并行任务不用反复切窗口",
+          "link": "https://www.v2ex.com/t/1231081#reply1",
+          "date": "2026-07-30T13:33:59+00:00"
         },
         {
-          "title": "[问与答] 车被剐蹭，要自己翻将近 100 小时的视频，请教工具",
-          "link": "https://www.v2ex.com/t/1231061#reply0",
-          "date": "2026-07-30T10:45:59+00:00"
+          "title": "[职场话题] 分享最近一次面试 五面被拒",
+          "link": "https://www.v2ex.com/t/1231079#reply3",
+          "date": "2026-07-30T13:06:22+00:00"
         },
         {
-          "title": "[问与答] 佬们，有没有稳一点的 GEMINI 中转站",
-          "link": "https://www.v2ex.com/t/1231060#reply0",
-          "date": "2026-07-30T10:41:28+00:00"
+          "title": "[程序员] GitHub Star History 是不是已经完全没法用了",
+          "link": "https://www.v2ex.com/t/1231077#reply1",
+          "date": "2026-07-30T12:53:30+00:00"
         },
         {
-          "title": "[职场话题] 体会到了, 上班的一种可怕之处是,在美好的年纪我居然期盼时间快点过去",
-          "link": "https://www.v2ex.com/t/1231059#reply1",
-          "date": "2026-07-30T10:39:01+00:00"
+          "title": "[全球工单系统] 有道笔记无法登录",
+          "link": "https://www.v2ex.com/t/1231076#reply0",
+          "date": "2026-07-30T12:44:34+00:00"
         }
       ]
     },
@@ -573,6 +605,11 @@
       "url": "https://www.technologyreview.com/feed/",
       "items": [
         {
+          "title": "The Download: tricking LLMs, and reviving geothermal plants",
+          "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+          "date": "2026-07-30T12:10:00+00:00"
+        },
+        {
           "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
           "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
           "date": "2026-07-30T10:15:19+00:00"
@@ -591,11 +628,38 @@
           "title": "The AI Hype Index: Unsexy AI",
           "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
           "date": "2026-07-29T08:42:57+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Nature",
+      "category": "科研",
+      "url": "https://www.nature.com/nature.rss",
+      "items": [
+        {
+          "title": "Job insecurity is chipping away at me and my cohort. Is it us, or the state of the economy?",
+          "link": "https://www.nature.com/articles/d41586-026-01843-8",
+          "date": "2026-07-30T00:00:00+00:00"
         },
         {
-          "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
-          "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
-          "date": "2026-07-28T12:10:00+00:00"
+          "title": "Demand for lithium is surging: here’s how to make mining more sustainable",
+          "link": "https://www.nature.com/articles/d41586-026-02195-z",
+          "date": "2026-07-30T00:00:00+00:00"
+        },
+        {
+          "title": "How I use statistics and my law degree to fight human-rights abuses",
+          "link": "https://www.nature.com/articles/d41586-026-02079-2",
+          "date": "2026-07-30T00:00:00+00:00"
+        },
+        {
+          "title": "Author Correction: A ductile solid electrolyte interphase for solid-state batteries",
+          "link": "https://www.nature.com/articles/s41586-026-10945-2",
+          "date": "2026-07-29T00:00:00+00:00"
+        },
+        {
+          "title": "Retraction Note: Human HDAC6 senses valine abundancy to regulate DNA damage",
+          "link": "https://www.nature.com/articles/s41586-026-10942-5",
+          "date": "2026-07-29T00:00:00+00:00"
         }
       ]
     },
@@ -605,35 +669,31 @@
       "url": "https://www.sciencedaily.com/rss/all.xml",
       "items": [
         {
+          "title": "Scientists found evolution repeating itself in the Galápagos Islands",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
+          "date": "2026-07-30T12:13:37+00:00"
+        },
+        {
           "title": "New microwave frying method could make french fries much healthier",
           "link": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
           "date": "2026-07-29T10:15:04+00:00"
         },
         {
-          "title": "Can’t sleep in the heat? These 8 tricks could save your night",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260729010722.htm",
-          "date": "2026-07-29T05:35:45+00:00"
+          "title": "What if the brain does not create consciousness?",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260729043829.htm",
+          "date": "2026-07-30T13:23:33+00:00"
         },
         {
-          "title": "Scientists find a simple way to stop cavities without drilling",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260729010719.htm",
-          "date": "2026-07-29T12:35:36+00:00"
+          "title": "Rice bran compound may help ease irritable bowel symptoms",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260729010742.htm",
+          "date": "2026-07-30T12:44:29+00:00"
         },
         {
-          "title": "Daily multivitamin may help older adults stay independent",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260729010716.htm",
-          "date": "2026-07-29T23:44:16+00:00"
-        },
-        {
-          "title": "Your gut may help your brain decide what to remember",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260729010713.htm",
-          "date": "2026-07-29T12:20:24+00:00"
+          "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
+          "link": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
+          "date": "2026-07-30T06:34:21+00:00"
         }
       ]
     }
-  ],
-  "failed": [
-    "Solidot",
-    "Nature"
   ]
 }
