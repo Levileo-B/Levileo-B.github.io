@@ -1,102 +1,6 @@
 {
-  "updated": "2026-07-30T05:34:34+00:00",
+  "updated": "2026-07-30T08:13:58+00:00",
   "sources": [
-    {
-      "name": "BBC 中文",
-      "category": "综合",
-      "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
-      "items": [
-        {
-          "title": "日本熊本縣發生6.8級地震，這是目前已知的情況",
-          "link": "https://www.bbc.com/zhongwen/articles/cx2jxz2xdw4o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-29T07:08:24+00:00"
-        },
-        {
-          "title": "中國使領館外牆的政治標語：如何從重慶擴展至全球",
-          "link": "https://www.bbc.com/zhongwen/articles/crrvd51lnp5o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-29T00:22:01+00:00"
-        },
-        {
-          "title": "四名女性指控傑瑞德·萊托涉及刑事不當性行為",
-          "link": "https://www.bbc.com/zhongwen/articles/c36d5l57e7no/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-29T10:35:20+00:00"
-        },
-        {
-          "title": "特朗普政府禁止中國人形機械人進口 北京批「泛化國家安全」",
-          "link": "https://www.bbc.com/zhongwen/articles/c3ekn91y5j5o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-29T11:14:21+00:00"
-        },
-        {
-          "title": "健身練得滿身肌肉 為何有人卻因此英年早逝？",
-          "link": "https://www.bbc.com/zhongwen/articles/c98vjejn839o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T00:17:50+00:00"
-        }
-      ]
-    },
-    {
-      "name": "BBC World",
-      "category": "综合",
-      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "items": [
-        {
-          "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-          "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T03:33:01+00:00"
-        },
-        {
-          "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-          "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-29T18:41:31+00:00"
-        },
-        {
-          "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
-          "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T01:53:25+00:00"
-        },
-        {
-          "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
-          "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-29T16:49:41+00:00"
-        },
-        {
-          "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-          "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-29T20:21:46+00:00"
-        }
-      ]
-    },
-    {
-      "name": "BBC Business",
-      "category": "财经",
-      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "items": [
-        {
-          "title": "Interest rates expected to be held again by Bank of England",
-          "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-29T23:01:56+00:00"
-        },
-        {
-          "title": "What happens here has a big impact on your money",
-          "link": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-29T16:00:24+00:00"
-        },
-        {
-          "title": "Burnham says nuclear sub investment will protect UK and boost jobs",
-          "link": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T02:36:53+00:00"
-        },
-        {
-          "title": "I dropped out of university and built five beauty businesses. Here's how I did it",
-          "link": "https://www.bbc.co.uk/news/articles/c8jngmk93p9o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-29T23:02:18+00:00"
-        },
-        {
-          "title": "'No magic wand' to tackle high prices, Fed boss says as US interest rates held",
-          "link": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-29T20:32:50+00:00"
-        }
-      ]
-    },
     {
       "name": "CNBC",
       "category": "财经",
@@ -105,7 +9,7 @@
         {
           "title": "U.S. strikes Iran after surprise missile attack, dashing hopes of de-escalation",
           "link": "https://www.cnbc.com/2026/07/30/us-iran-war-hormuz-centcom-trump-.html",
-          "date": "2026-07-30T03:50:29+00:00"
+          "date": "2026-07-30T06:46:17+00:00"
         },
         {
           "title": "Analysis: Fed Chairman Warsh's credibility in question after leaving interest rates unchanged",
@@ -113,19 +17,19 @@
           "date": "2026-07-30T01:00:01+00:00"
         },
         {
-          "title": "The Strait of Hormuz is just one trade chokepoint facing a new era of maritime warfare",
-          "link": "https://www.cnbc.com/2026/07/30/strait-hormuz-drone-shipping-risks.html",
-          "date": "2026-07-30T05:20:55+00:00"
+          "title": "Jeep maker Stellantis swings to profit on rising demand in North America; shares fall 5%",
+          "link": "https://www.cnbc.com/2026/07/30/stellantis-q2-earnings-autos-jeep.html",
+          "date": "2026-07-30T07:51:10+00:00"
         },
         {
-          "title": "Here’s why Europe’s hot summers are becoming an expensive challenge",
-          "link": "https://www.cnbc.com/2026/07/30/europe-heatwaves-economy-wildfires-summer.html",
-          "date": "2026-07-30T05:11:14+00:00"
+          "title": "Shell posts best quarterly profit in four years as Iran war boosts oil and gas prices",
+          "link": "https://www.cnbc.com/2026/07/30/shell-2q-earnings-iran-war-oil.html",
+          "date": "2026-07-30T07:46:42+00:00"
         },
         {
-          "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
-          "link": "https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
-          "date": "2026-07-30T02:52:30+00:00"
+          "title": "Treasury sell-off continues after divided Fed holds interest rates steady",
+          "link": "https://www.cnbc.com/2026/07/30/us-treasury-yields-divided-fed-interest-rates-hold-steady-.html",
+          "date": "2026-07-30T06:56:06+00:00"
         }
       ]
     },
@@ -167,6 +71,11 @@
       "url": "https://sspai.com/feed",
       "items": [
         {
+          "title": "在流媒体时代，搭建一个专属于自己的「音乐探索系统」",
+          "link": "https://sspai.com/post/112656",
+          "date": "2026-07-30T06:53:18+00:00"
+        },
+        {
           "title": "少数派会员年度更新：把共同的热爱随身携带",
           "link": "https://sspai.com/post/112858",
           "date": "2026-07-30T03:01:11+00:00"
@@ -185,11 +94,6 @@
           "title": "陕北看海，黄土难寻",
           "link": "https://sspai.com/post/112761",
           "date": "2026-07-29T07:00:51+00:00"
-        },
-        {
-          "title": "角落新声｜没有书房，也要给音乐留一个角落：聊聊我的黑胶「窝棚」",
-          "link": "https://sspai.com/post/112715",
-          "date": "2026-07-29T03:00:01+00:00"
         }
       ]
     },
@@ -198,6 +102,11 @@
       "category": "科技",
       "url": "https://www.ifanr.com/feed",
       "items": [
+        {
+          "title": "高通和 IDC 说，智能眼镜会是手机之外，最重要的 AI 设备",
+          "link": "https://www.ifanr.com/1673429?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-07-30T08:04:55+00:00"
+        },
         {
           "title": "埃安再推全新车系，新车 Ray 7 定位运动瞄准年轻人，将要直面小米 SU7",
           "link": "https://www.ifanr.com/1673361?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -217,11 +126,6 @@
           "title": "还没上市就被「网暴」，小米澎程 N90 能加 92，得罪了谁？",
           "link": "https://www.ifanr.com/1673400?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-07-29T11:49:38+00:00"
-        },
-        {
-          "title": "苹果这块 AI 屏幕，想让 Siri 接管你家的一切",
-          "link": "https://www.ifanr.com/1673412?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-07-29T11:42:46+00:00"
         }
       ]
     },
@@ -230,6 +134,16 @@
       "category": "科技",
       "url": "https://www.solidot.org/index.rss",
       "items": [
+        {
+          "title": "网信办发布反网暴法征求意见稿",
+          "link": "https://www.solidot.org/story?sid=84961",
+          "date": "2026-07-30T07:43:40+00:00"
+        },
+        {
+          "title": "顶尖 AI 初创公司很少发表论文",
+          "link": "https://www.solidot.org/story?sid=84959",
+          "date": "2026-07-30T05:47:43+00:00"
+        },
         {
           "title": "GCC 宣布 AI 政策",
           "link": "https://www.solidot.org/story?sid=84958",
@@ -244,16 +158,6 @@
           "title": "Google 研究未发现有证据显示 AI 将导致大规模自动化以及能取代白领",
           "link": "https://www.solidot.org/story?sid=84956",
           "date": "2026-07-29T15:19:14+00:00"
-        },
-        {
-          "title": "50 岁以上工人的睡眠危机",
-          "link": "https://www.solidot.org/story?sid=84955",
-          "date": "2026-07-29T14:33:18+00:00"
-        },
-        {
-          "title": "美国科技巨头现金流失加速",
-          "link": "https://www.solidot.org/story?sid=84954",
-          "date": "2026-07-29T10:59:57+00:00"
         }
       ]
     },
@@ -364,6 +268,11 @@
           "date": "2026-07-29T10:42:50+00:00"
         },
         {
+          "title": "C++ float-to-int conversion can be undefined behavior",
+          "link": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
+          "date": "2026-07-30T03:47:26+00:00"
+        },
+        {
           "title": "It doesn’t matter whether “Matz is nice”",
           "link": "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
           "date": "2026-07-29T13:12:17+00:00"
@@ -377,11 +286,6 @@
           "title": "Overengineered calculator: Zig + QBE",
           "link": "https://tomekw.com/overengineered-calculator-zig-qbe/",
           "date": "2026-07-29T13:22:18+00:00"
-        },
-        {
-          "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse",
-          "link": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
-          "date": "2026-07-29T13:00:44+00:00"
         }
       ]
     },
@@ -391,29 +295,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[问与答] ai 只是进入了公司，却没有进入业务",
-          "link": "https://www.v2ex.com/t/1230966#reply1",
-          "date": "2026-07-30T05:29:16+00:00"
+          "title": "[推广] 直供 Claude 等海外模型官网 key，有需求的企业大厂来看看",
+          "link": "https://www.v2ex.com/t/1231012#reply0",
+          "date": "2026-07-30T08:09:40+00:00"
         },
         {
-          "title": "[分享发现] SEA-H2X 国际海缆经海缆组验收，正式商用",
-          "link": "https://www.v2ex.com/t/1230964#reply0",
-          "date": "2026-07-30T05:23:51+00:00"
+          "title": "[Wunder] 自从 2026 年 7 月 8 日 AI 角色功能上线，到现在 20 天时间跑了 1.1B tokens",
+          "link": "https://www.v2ex.com/t/1231011#reply0",
+          "date": "2026-07-30T08:06:09+00:00"
         },
         {
-          "title": "[酷工作] 全栈工程师 AI Agent + Web3 远程全职 45-50K",
-          "link": "https://www.v2ex.com/t/1230962#reply2",
-          "date": "2026-07-30T05:03:44+00:00"
+          "title": "[OpenAI] 5.6 又和 5.5 末期一样了，又傻又慢，简直了",
+          "link": "https://www.v2ex.com/t/1231010#reply0",
+          "date": "2026-07-30T08:03:53+00:00"
         },
         {
-          "title": "[Apple] 国区支付，各位日常使用什么方式",
-          "link": "https://www.v2ex.com/t/1230961#reply0",
-          "date": "2026-07-30T04:48:58+00:00"
+          "title": "[程序员] 大佬们你们的多模型搭配工作流是怎么样的",
+          "link": "https://www.v2ex.com/t/1231009#reply0",
+          "date": "2026-07-30T08:01:56+00:00"
         },
         {
-          "title": "[问与答] 想问问现在还能怎么开 claude 号",
-          "link": "https://www.v2ex.com/t/1230960#reply0",
-          "date": "2026-07-30T04:42:14+00:00"
+          "title": "[程序员] vibe coding 需要养成不写注释的好习惯",
+          "link": "https://www.v2ex.com/t/1231008#reply0",
+          "date": "2026-07-30T07:59:05+00:00"
         }
       ]
     },
@@ -573,29 +477,29 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
+          "title": "“接力跑”盘活全国算力，PD分离终于破局：延迟砍半、成本直降近40%！",
+          "link": "https://www.qbitai.com/2026/07/463012.html",
+          "date": "2026-07-30T06:14:43+00:00"
+        },
+        {
+          "title": "传奇AlphaFold团队全员解散！诺奖得主投奔Anthropic，资源转向Gemini",
+          "link": "https://www.qbitai.com/2026/07/463123.html",
+          "date": "2026-07-30T06:14:26+00:00"
+        },
+        {
+          "title": "一年连融三轮数亿元！字节+清华姚班，重构企业软件工程",
+          "link": "https://www.qbitai.com/2026/07/463013.html",
+          "date": "2026-07-30T06:10:13+00:00"
+        },
+        {
+          "title": "WorkBuddy重大升级，AI时代的Office来了",
+          "link": "https://www.qbitai.com/2026/07/462979.html",
+          "date": "2026-07-30T05:30:06+00:00"
+        },
+        {
           "title": "这这这…翁荔光速回OpenAI上班了",
           "link": "https://www.qbitai.com/2026/07/462947.html",
           "date": "2026-07-30T00:31:19+00:00"
-        },
-        {
-          "title": "中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径",
-          "link": "https://www.qbitai.com/2026/07/462943.html",
-          "date": "2026-07-29T11:25:21+00:00"
-        },
-        {
-          "title": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
-          "link": "https://www.qbitai.com/2026/07/462447.html",
-          "date": "2026-07-29T08:13:03+00:00"
-        },
-        {
-          "title": "Opus 5游戏提示词爆火！24小时复刻3A巨作",
-          "link": "https://www.qbitai.com/2026/07/462384.html",
-          "date": "2026-07-29T08:04:50+00:00"
-        },
-        {
-          "title": "OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通",
-          "link": "https://www.qbitai.com/2026/07/462380.html",
-          "date": "2026-07-29T06:39:43+00:00"
         }
       ]
     },
@@ -695,5 +599,10 @@
         }
       ]
     }
+  ],
+  "failed": [
+    "BBC 中文",
+    "BBC World",
+    "BBC Business"
   ]
 }
