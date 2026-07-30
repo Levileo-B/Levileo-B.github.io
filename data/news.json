@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T19:16:44+00:00",
+  "updated": "2026-07-30T22:07:36+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,6 +39,11 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "Uefa to boycott World Cups if Fifa plans approved",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-30T16:47:40+00:00"
+        },
+        {
           "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
           "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-30T10:49:14+00:00"
@@ -51,17 +56,12 @@
         {
           "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
           "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T17:19:27+00:00"
+          "date": "2026-07-30T21:24:31+00:00"
         },
         {
           "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
           "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-30T15:35:50+00:00"
-        },
-        {
-          "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T15:20:19+00:00"
         }
       ]
     },
@@ -70,6 +70,11 @@
       "category": "财经",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
+        {
+          "title": "Andy Burnham to give regional mayors share of income tax",
+          "link": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-30T21:32:09+00:00"
+        },
         {
           "title": "Bank holds interest rates but says it is ready to raise them if Iran war escalates",
           "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
@@ -81,14 +86,9 @@
           "date": "2026-07-30T17:34:26+00:00"
         },
         {
-          "title": "US economic growth sees surprise slowdown in second quarter",
-          "link": "https://www.bbc.co.uk/news/articles/cd0xvrmlx2eo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T14:24:41+00:00"
-        },
-        {
-          "title": "Virtual interviews don't show bosses your personality, says Burnham",
-          "link": "https://www.bbc.co.uk/news/articles/c4g4dkr40deo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T19:04:55+00:00"
+          "title": "Burnham says he told Trump UK will be pragmatic about North Sea oil",
+          "link": "https://www.bbc.co.uk/news/articles/c70gr75xzg5o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-30T16:19:08+00:00"
         },
         {
           "title": "Hundreds of jobs to go at Jaguar Land Rover",
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
+          "title": "Amazon hikes 2026 capex to $220 billion due to higher memory costs",
+          "link": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
+          "date": "2026-07-30T21:31:31+00:00"
+        },
+        {
           "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
           "link": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
-          "date": "2026-07-30T19:01:38+00:00"
+          "date": "2026-07-30T21:29:19+00:00"
         },
         {
-          "title": "Jersey Mike's stock falls 3% in public market debut after pricing shares at $23",
-          "link": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
-          "date": "2026-07-30T17:59:19+00:00"
+          "title": "Reddit shares sink 11% on 'choppy' search referrals even as results blow past estimates",
+          "link": "https://www.cnbc.com/2026/07/30/reddit-rddt-q2-2026-earnings-report.html",
+          "date": "2026-07-30T21:17:37+00:00"
         },
         {
-          "title": "China’s open-weight model lead exposes America’s AI blind spot",
-          "link": "https://www.cnbc.com/2026/07/30/china-open-source-trump-ai.html",
-          "date": "2026-07-30T18:51:42+00:00"
+          "title": "Nexus Data Centers in advanced talks to secure $15B for Google-backed Anthropic data center",
+          "link": "https://www.cnbc.com/2026/07/30/nexus-data-centers-in-advanced-talks-to-secure-15b-for-google-backed-anthropic-data-center.html",
+          "date": "2026-07-30T21:50:17+00:00"
         },
         {
-          "title": "Apple and Amazon report after the bell. Here's what the options market is saying",
-          "link": "https://www.cnbc.com/2026/07/30/apple-and-amazon-report-after-the-bell-heres-what-the-options-market-is-saying.html",
-          "date": "2026-07-30T18:17:29+00:00"
-        },
-        {
-          "title": "UEFA threatens World Cup boycott over FIFA private equity investment plan",
-          "link": "https://www.cnbc.com/2026/07/30/uefa-threatens-world-cup-boycott-over-fifa-investment-plan.html",
-          "date": "2026-07-30T17:30:06+00:00"
+          "title": "Rivian reduces 2026 spending plans, narrows earnings guidance",
+          "link": "https://www.cnbc.com/2026/07/30/rivian-rivn-q2-2026-earnings.html",
+          "date": "2026-07-30T21:19:16+00:00"
         }
       ]
     },
@@ -263,6 +263,16 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages",
+          "link": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
+          "date": "2026-07-30T21:58:41+00:00"
+        },
+        {
+          "title": "The loss of Situational Awareness",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+          "date": "2026-07-30T20:46:25+00:00"
+        },
+        {
           "title": "Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies",
           "link": "https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale",
           "date": "2026-07-30T18:36:37+00:00"
@@ -276,16 +286,6 @@
           "title": "Govee&#8217;s portable smart lamp is down to one of its best prices to date",
           "link": "https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale",
           "date": "2026-07-30T18:01:26+00:00"
-        },
-        {
-          "title": "NASA’s Curiosity rover found a ‘sea of polygons’ on Mars",
-          "link": "https://www.theverge.com/science/973314/nasa-curiosity-rover-mars-polygons",
-          "date": "2026-07-30T17:20:06+00:00"
-        },
-        {
-          "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-          "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-          "date": "2026-07-30T17:18:45+00:00"
         }
       ]
     },
@@ -327,12 +327,17 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+          "link": "https://github.com/AminBlg/SimpleEnglish",
+          "date": "2026-07-30T19:34:27+00:00"
+        },
+        {
           "title": "UEFA and its national associations will not participate in FIFA competitions",
           "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
           "date": "2026-07-30T18:40:52+00:00"
         },
         {
-          "title": "Postgres Queues Actually Scale",
+          "title": "Making Postgres queues scale",
           "link": "https://www.dbos.dev/blog/making-postgres-queues-scale",
           "date": "2026-07-30T18:39:32+00:00"
         },
@@ -342,14 +347,9 @@
           "date": "2026-07-30T18:31:02+00:00"
         },
         {
-          "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
-          "link": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
-          "date": "2026-07-30T18:08:48+00:00"
-        },
-        {
-          "title": "Show HN: Tally – check a spreadsheet's numbers against their source, in-browser",
-          "link": "https://tally.jiegou.ai/",
-          "date": "2026-07-30T17:55:54+00:00"
+          "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+          "link": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "date": "2026-07-30T18:13:06+00:00"
         }
       ]
     },
@@ -359,24 +359,24 @@
       "url": "https://lobste.rs/rss",
       "items": [
         {
-          "title": "C++ float-to-int conversion can be undefined behavior",
-          "link": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
-          "date": "2026-07-30T03:47:26+00:00"
-        },
-        {
           "title": "The AI Aesthetic",
           "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
           "date": "2026-07-30T13:57:07+00:00"
         },
         {
+          "title": "Stacked pull requests are now in public preview",
+          "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+          "date": "2026-07-30T16:52:25+00:00"
+        },
+        {
+          "title": "C++ float-to-int conversion can be undefined behavior",
+          "link": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
+          "date": "2026-07-30T03:47:26+00:00"
+        },
+        {
           "title": "deskhop: Fast Desktop Switching Device",
           "link": "https://github.com/hrvach/deskhop",
           "date": "2026-07-30T07:52:39+00:00"
-        },
-        {
-          "title": "What side projects have you enjoyed the most?",
-          "link": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
-          "date": "2026-07-30T01:40:31+00:00"
         },
         {
           "title": "Building Progressively Enhanced Forms Using htmx",
@@ -391,29 +391,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
+          "title": "[iPhone] 请教有关香港旅游开通 eSIM 的问题",
+          "link": "https://www.v2ex.com/t/1231114#reply0",
+          "date": "2026-07-30T22:05:53+00:00"
+        },
+        {
+          "title": "[分享发现] nixos 这系统和 ai 简直是绝配啊。",
+          "link": "https://www.v2ex.com/t/1231113#reply0",
+          "date": "2026-07-30T22:04:46+00:00"
+        },
+        {
+          "title": "[成都] 快 40 了，准备从美国回成都退休了",
+          "link": "https://www.v2ex.com/t/1231112#reply3",
+          "date": "2026-07-30T20:37:33+00:00"
+        },
+        {
+          "title": "[分享创造] 做了一个 12 分钟内说出 100 位女性名字的网页小游戏，欢迎来挑战",
+          "link": "https://www.v2ex.com/t/1231111#reply0",
+          "date": "2026-07-30T20:02:45+00:00"
+        },
+        {
           "title": "[宽带症候群] 关掉 IPv6、封禁 QUIC，到底是稳妥还是摆烂？",
-          "link": "https://www.v2ex.com/t/1231110#reply0",
+          "link": "https://www.v2ex.com/t/1231110#reply5",
           "date": "2026-07-30T19:12:25+00:00"
-        },
-        {
-          "title": "[macOS] macos 中，休眠一段时间和触控板拖动变得卡顿， windowserver 进程 CPU 占用超过 30%，可能是什么原因",
-          "link": "https://www.v2ex.com/t/1231108#reply0",
-          "date": "2026-07-30T18:18:07+00:00"
-        },
-        {
-          "title": "[程序员] GG 卡真的 GG 后怎么办",
-          "link": "https://www.v2ex.com/t/1231107#reply2",
-          "date": "2026-07-30T16:45:47+00:00"
-        },
-        {
-          "title": "[分享创造] 一周多没迭代我的开源项目了，因为确实遇到瓶颈了",
-          "link": "https://www.v2ex.com/t/1231105#reply0",
-          "date": "2026-07-30T16:40:23+00:00"
-        },
-        {
-          "title": "[分享创造] 用 ai 做了个国家发展模拟器：从 1949 年起按月经营中国",
-          "link": "https://www.v2ex.com/t/1231104#reply9",
-          "date": "2026-07-30T16:07:36+00:00"
         }
       ]
     },
