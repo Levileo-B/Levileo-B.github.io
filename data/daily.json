@@ -1,126 +1,125 @@
 {
-  "updated": "2026-07-29T21:55:06+00:00",
+  "updated": "2026-07-30T01:53:26+00:00",
   "leetcode": {
-    "date": "2026-07-29",
-    "id": "3518",
-    "title": "Smallest Palindromic Rearrangement II",
-    "titleEn": "Smallest Palindromic Rearrangement II",
-    "slug": "smallest-palindromic-rearrangement-ii",
-    "difficulty": "Hard",
+    "date": "2026-07-30",
+    "id": "3014",
+    "title": "Minimum Number of Pushes to Type Word I",
+    "titleEn": "Minimum Number of Pushes to Type Word I",
+    "slug": "minimum-number-of-pushes-to-type-word-i",
+    "difficulty": "Easy",
     "tags": [
-      "Hash Table",
       "Math",
       "String",
-      "Combinatorics"
+      "Greedy"
     ],
-    "link": "https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/",
+    "link": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Tiger",
-    "text": "The tiger is a large cat and a member of the genus Panthera native to Asia. It has a powerful, muscular body with a large head and paws, a long tail and orange fur that fades to white in parts, with black, mostly vertical stripes. It is traditionally classified into nine subspecies, though some recognise only two subspecies, the mainland Asian tiger and the Sunda Islands tiger.",
-    "words": 67,
-    "url": "https://en.wikipedia.org/wiki/Tiger",
-    "date": "2026-07-29",
+    "title": "Sam & Max: Freelance Police",
+    "text": "Sam & Max: Freelance Police was a graphic adventure video game developed by LucasArts from 2002 until its cancellation in 2004, and the final game in the company's adventure game era. Freelance Police was originally intended for release for Windows in early 2004 as a sequel to the 1993 title Sam & Max Hit the Road. The game was based on the characters Sam & Max: an anthropomorphic dog and \"hyperkinetic rabbity thing\" who debuted in a 1987 comic book series created by Steve Purcell. Freelance Police was announced in August 2002, and showcased at the Electronic Entertainment Expo (E3) in 2003. Like its predecessor, Freelance Police was designed as a point-and-click adventure game, but used a 3D game engine in place of the SCUMM and GrimE engines used in older LucasArts adventure games. The project's development was led by Michael Stemmle, one of the original designers for Sam & Max Hit the Road, while Steve Purcell assisted in developing the game's plot and providing artistic direction.",
+    "words": 167,
+    "url": "https://en.wikipedia.org/wiki/Sam_%26_Max%3A_Freelance_Police",
+    "date": "2026-07-30",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Home Movie: 000464: Charles E. Smith Collection: Agriculture, Labor, Harvest, Grapes, Cotton, Wind and Landscapes, Kern County, California, Spring 1938",
-    "creator": "Charles E. Smith, M.D.",
+    "title": "Sections From \"History of the Atomic Bomb\" Magtrack",
+    "creator": "",
     "year": "",
-    "url": "https://archive.org/download/000464/000464.mp4",
-    "page": "https://archive.org/details/000464",
-    "date": "2026-07-29",
+    "url": "https://archive.org/download/201186_Sections_From_History_of_the_Atomic_Bomb_Magtrack/201186_Sections_From_History_of_the_Atomic_Bomb_Magtrack_master.intros.mp4",
+    "page": "https://archive.org/details/201186_Sections_From_History_of_the_Atomic_Bomb_Magtrack",
+    "date": "2026-07-30",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Cáçassons (2º A. O.)",
-      "artist": "Quarto Nove Ilda. feat. Macarra",
-      "url": "https://archive.org/download/Quarto_Nove_Ilda_feat_Macarra_-_Cacassons_-_2_A_O_-_SINGLE_-_IE000_-_2014/01_-_Quarto_Nove_Ilda_feat_Macarra_-_Cacassons_-_2_A_O.mp3",
-      "page": "https://archive.org/details/Quarto_Nove_Ilda_feat_Macarra_-_Cacassons_-_2_A_O_-_SINGLE_-_IE000_-_2014",
+      "title": "Floppycore! 30-05-26",
+      "artist": "",
+      "url": "https://archive.org/download/floppycore-30-05-26/Floppycore%21%2030-05-26.mp3",
+      "page": "https://archive.org/details/floppycore-30-05-26",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "Serendip 29​-​10​-​17",
+      "artist": "OD Bongo",
+      "url": "https://archive.org/download/DEGl037/ODB%20-%20Edit%20live%2029-10-17%20Serendip-DIGITAL1.mp3",
+      "page": "https://archive.org/details/DEGl037",
       "license": "Creative Commons"
     },
     {
-      "title": "Ana y Pedro - Rodolfo H. No Futuro",
-      "artist": "",
-      "url": "https://archive.org/download/anaypedro/Ana%20y%20Pedro/01%20Chanchullos%20y%20Milagros.mp3",
-      "page": "https://archive.org/details/anaypedro",
+      "title": "Car Crush Lullaby - The Creation",
+      "artist": "Car Crush Lullaby",
+      "url": "https://archive.org/download/CarCrushLullaby-TheCreation/01%20The%20Creation.mp3",
+      "page": "https://archive.org/details/CarCrushLullaby-TheCreation",
       "license": "Creative Commons"
     },
     {
-      "title": "NWTWO0296-Killing Option (Party Session)",
-      "artist": "Killing Option",
-      "url": "https://archive.org/download/Nwtwo0296-killingOptionpartySession-untitledSong/Nwtwo0296-killingOptionpartySession.mp3",
-      "page": "https://archive.org/details/Nwtwo0296-killingOptionpartySession-untitledSong",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "≠ZIL¿H - Caressing The Void Lovingly",
-      "artist": "Zan Hoffman",
-      "url": "https://archive.org/download/ZH27383/383%20%E2%89%A0ZIL%C2%BFH%20-%20Caressing%20the%20Void%20Lovingly%20.mp3",
-      "page": "https://archive.org/details/ZH27383",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
-    },
-    {
-      "title": "The Autopsy Report Metal Radio Show No 556 - 1st - 7th December 2014",
-      "artist": "Gramie Dee",
-      "url": "https://archive.org/download/AR0107Dec14/AR-01-07Dec14.mp3",
-      "page": "https://archive.org/details/AR0107Dec14",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "adrian carter - magnetic (emp009)",
+      "title": "Control Z-Jurumeya [Split Session]",
       "artist": "",
-      "url": "https://archive.org/download/adrian_carter_magnetic/adrian_carter_magnetic_01_Tegretol.mp3",
-      "page": "https://archive.org/details/adrian_carter_magnetic",
+      "url": "https://archive.org/download/ControlZ-jurumeyasplitSession/Control-z-01PersonalityDisorder.mp3",
+      "page": "https://archive.org/details/ControlZ-jurumeyasplitSession",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "cheats accumulate toxins",
-      "artist": "x-flow",
-      "url": "https://archive.org/download/abdicate_cellcontextsonicflow0506_04/cheats_accumulate_toxins.mp3",
-      "page": "https://archive.org/details/abdicate_cellcontextsonicflow0506_04",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/"
-    },
-    {
-      "title": "O Colecionador de Sons_Emissao # 51_2012.05.21",
-      "artist": "luis antero",
-      "url": "https://archive.org/download/OColecionadorDeSons_emissao51_2012.05.21/Ocds51.mp3",
-      "page": "https://archive.org/details/OColecionadorDeSons_emissao51_2012.05.21",
+      "title": "Jug Jug to Dirt Years [CTR004]",
+      "artist": "Dance Danse Revulsion",
+      "url": "https://archive.org/download/CTR004/01_Lite.mp3",
+      "page": "https://archive.org/details/CTR004",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "NWTWO0285-Dva Gozdova (Two Forests)-Excerpt (Marko Karlovčec, Žiga Pucelj, Neža Naglič)",
-      "artist": "Marko Karlovćec, Žiga Pucelj, Neža Naglič",
-      "url": "https://archive.org/download/Nwtwo0285-dvaGozdovatwoForests-excerptmarkoKarlovecigaPucelj/Nwtwo0285-dvaGozdovatwoForests-excerptmarkoKarlovecigaPuceljNeaNagli.mp3",
-      "page": "https://archive.org/details/Nwtwo0285-dvaGozdovatwoForests-excerptmarkoKarlovecigaPucelj",
-      "license": "Creative Commons"
+      "title": "Tsabeat - Attractive Synthesis",
+      "artist": "",
+      "url": "https://archive.org/download/tsabeat_-_attractive_synthesis/01_Tsabeat_-_Attractive_Synthesis_-_Flash_From_The_Future.mp3",
+      "page": "https://archive.org/details/tsabeat_-_attractive_synthesis",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Nathan McLaughlin \"sun dogs\"",
-      "artist": "Nathan McLaughlin",
-      "url": "https://archive.org/download/NathanMclaughlinsunDogs/SunDogs.mp3",
-      "page": "https://archive.org/details/NathanMclaughlinsunDogs",
+      "title": "BTTLSHIP GRY",
+      "artist": "Fuck Sunshine",
+      "url": "https://archive.org/download/BttlshipGry/0101011.mp3",
+      "page": "https://archive.org/details/BttlshipGry",
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/us/"
+    },
+    {
+      "title": "cold and waterless land (TaSe-60)",
+      "artist": "Rory Storm",
+      "url": "https://archive.org/download/ColdAndWaterlessLandtase-60/01AngelOfBrokenHill.mp3",
+      "page": "https://archive.org/details/ColdAndWaterlessLandtase-60",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "Cherly KaCherly - Misadventure of a Meaty Machine",
+      "artist": "Cherly KaCherly",
+      "url": "https://archive.org/download/CherlyKacherly-MisadventureOfAMeatyMachine/01_Cherly_KaCherly-Hell_Dog_From_Outer_Space_or_From_Hell_at_Least.mp3",
+      "page": "https://archive.org/details/CherlyKacherly-MisadventureOfAMeatyMachine",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Cat Pain Black Udder- 150",
+      "artist": "",
+      "url": "https://archive.org/download/CatPainBlackUdder-150/037.mp3",
+      "page": "https://archive.org/details/CatPainBlackUdder-150",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "[AMR354] August 8th 2010",
+      "artist": "Shadows on the Snow",
+      "url": "https://archive.org/download/amr354August8th2010/August8th2010.mp3",
+      "page": "https://archive.org/details/amr354August8th2010",
       "license": "http://creativecommons.org/licenses/by-nd/3.0/"
     },
     {
-      "title": "UL006: Johan Hjort - Bright Light",
+      "title": "DCRPS054",
       "artist": "",
-      "url": "https://archive.org/download/UL006/ul006__johan_hjort-bright_light.mp3",
-      "page": "https://archive.org/details/UL006",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "(o2 label 05 - 067) Yuri Sky - Draw Angels (EP 2015)",
-      "artist": "",
-      "url": "https://archive.org/download/YuriSkyDrawAngels/01.Yuri%20Sky%20-%20Draw%20Angels.mp3",
-      "page": "https://archive.org/details/YuriSkyDrawAngels",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "url": "https://archive.org/download/DCRPS054_ALEXTUNE/AleX%20Tune%20-%2001%20-%20Remix%20%27Em%20All%20%28Intro%29.mp3",
+      "page": "https://archive.org/details/DCRPS054_ALEXTUNE",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     }
   ]
 }
