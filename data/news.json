@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T22:07:36+00:00",
+  "updated": "2026-07-31T02:12:09+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -7,14 +7,19 @@
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
         {
-          "title": "澳門國安法首案：區錦新被羈押滿一年，「外界難以聯絡」",
-          "link": "https://www.bbc.com/zhongwen/articles/ce852385914o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T11:55:00+00:00"
-        },
-        {
           "title": "中國機器人大軍如何改變英國零售業？",
           "link": "https://www.bbc.com/zhongwen/articles/cevm082pgm7o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-30T09:33:51+00:00"
+        },
+        {
+          "title": "香港科大研究：兩歲前限制攝取糖分與較佳腦部健康有關聯",
+          "link": "https://www.bbc.com/zhongwen/articles/c78gny39xl8o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-31T00:27:53+00:00"
+        },
+        {
+          "title": "澳門國安法首案：區錦新被羈押滿一年，「外界難以聯絡」",
+          "link": "https://www.bbc.com/zhongwen/articles/ce852385914o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-30T11:55:00+00:00"
         },
         {
           "title": "中國使領館外牆的政治標語：如何從重慶擴展至全球",
@@ -22,14 +27,9 @@
           "date": "2026-07-29T00:22:01+00:00"
         },
         {
-          "title": "特朗普政府禁止中國人形機械人進口 北京批「泛化國家安全」",
-          "link": "https://www.bbc.com/zhongwen/articles/c3ekn91y5j5o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-29T11:14:21+00:00"
-        },
-        {
-          "title": "健身練得滿身肌肉 為何有人卻因此英年早逝？",
-          "link": "https://www.bbc.com/zhongwen/articles/c98vjejn839o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T00:17:50+00:00"
+          "title": "驗血與超聲波檢查：韓國正成為全球醫療旅遊樞紐之一",
+          "link": "https://www.bbc.com/zhongwen/articles/cgjegwxddeqo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-31T00:27:49+00:00"
         }
       ]
     },
@@ -39,19 +39,9 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Uefa to boycott World Cups if Fifa plans approved",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T16:47:40+00:00"
-        },
-        {
-          "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-          "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T10:49:14+00:00"
-        },
-        {
-          "title": "Why limited war with the US may suit Iran better than peace",
-          "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T17:26:01+00:00"
+          "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+          "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-31T01:48:36+00:00"
         },
         {
           "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
@@ -59,9 +49,19 @@
           "date": "2026-07-30T21:24:31+00:00"
         },
         {
-          "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-          "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T15:35:50+00:00"
+          "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
+          "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-31T00:52:54+00:00"
+        },
+        {
+          "title": "Uefa to boycott World Cups if Fifa plans approved",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-30T16:47:40+00:00"
+        },
+        {
+          "title": "Anthropic says Claude AI hacked three firms during cyber tests",
+          "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-31T01:31:14+00:00"
         }
       ]
     },
@@ -71,29 +71,29 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
-          "title": "Andy Burnham to give regional mayors share of income tax",
-          "link": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T21:32:09+00:00"
+          "title": "Thames Water boss says leakage targets 'not realistic'",
+          "link": "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-30T23:06:37+00:00"
         },
         {
-          "title": "Bank holds interest rates but says it is ready to raise them if Iran war escalates",
-          "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T16:33:40+00:00"
+          "title": "Anthropic says Claude AI hacked three firms during cyber tests",
+          "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-31T01:31:14+00:00"
         },
         {
-          "title": "British Airways flight called mayday on approach to Heathrow",
-          "link": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T17:34:26+00:00"
+          "title": "'I pay £580 a month to live in a disused care home': Property guardians show us around",
+          "link": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-30T23:05:41+00:00"
         },
         {
-          "title": "Burnham says he told Trump UK will be pragmatic about North Sea oil",
-          "link": "https://www.bbc.co.uk/news/articles/c70gr75xzg5o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T16:19:08+00:00"
+          "title": "Three things we learned about AI from Big Tech earnings",
+          "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-31T01:31:50+00:00"
         },
         {
-          "title": "Hundreds of jobs to go at Jaguar Land Rover",
-          "link": "https://www.bbc.co.uk/news/articles/cq6dmjv1jpdo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T16:53:17+00:00"
+          "title": "Apple warns of future 'supply constraints' for Mac, iPhone, iPad",
+          "link": "https://www.bbc.co.uk/news/articles/c204nw64xwno?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-30T23:25:42+00:00"
         }
       ]
     },
@@ -108,24 +108,24 @@
           "date": "2026-07-30T21:31:31+00:00"
         },
         {
+          "title": "China’s U.S.-bound shipments fall in July after brief recovery, survey shows",
+          "link": "https://www.cnbc.com/2026/07/30/china-us-exports-drop.html",
+          "date": "2026-07-30T22:01:01+00:00"
+        },
+        {
+          "title": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon'",
+          "link": "https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html",
+          "date": "2026-07-31T00:23:53+00:00"
+        },
+        {
           "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
           "link": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
           "date": "2026-07-30T21:29:19+00:00"
         },
         {
-          "title": "Reddit shares sink 11% on 'choppy' search referrals even as results blow past estimates",
-          "link": "https://www.cnbc.com/2026/07/30/reddit-rddt-q2-2026-earnings-report.html",
-          "date": "2026-07-30T21:17:37+00:00"
-        },
-        {
-          "title": "Nexus Data Centers in advanced talks to secure $15B for Google-backed Anthropic data center",
-          "link": "https://www.cnbc.com/2026/07/30/nexus-data-centers-in-advanced-talks-to-secure-15b-for-google-backed-anthropic-data-center.html",
-          "date": "2026-07-30T21:50:17+00:00"
-        },
-        {
-          "title": "Rivian reduces 2026 spending plans, narrows earnings guidance",
-          "link": "https://www.cnbc.com/2026/07/30/rivian-rivn-q2-2026-earnings.html",
-          "date": "2026-07-30T21:19:16+00:00"
+          "title": "China's factory activity unexpectedly contracts in July as export rush fades",
+          "link": "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html",
+          "date": "2026-07-31T02:06:06+00:00"
         }
       ]
     },
@@ -135,6 +135,21 @@
       "url": "https://36kr.com/feed",
       "items": [
         {
+          "title": "菜鸟CTO李强创业做Physical AI平台，获云启、商汤超亿元种子轮融资｜硬氪首发",
+          "link": "https://36kr.com/p/3917874427555457?f=rss",
+          "date": ""
+        },
+        {
+          "title": "中层消失，Token狂热退潮，硅谷工程师眼里的「AI创业下半场」",
+          "link": "https://36kr.com/p/3918250549931394?f=rss",
+          "date": ""
+        },
+        {
+          "title": "8点1氪丨宇树科技：8月10日网下申购；字节跳动成立新的豆包产品团队；美股三大指数集体收涨，微软创近18年以来最大单日涨幅",
+          "link": "https://36kr.com/p/3918776472022402?f=rss",
+          "date": ""
+        },
+        {
           "title": "氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台",
           "link": "https://36kr.com/p/3917972674735747?f=rss",
           "date": ""
@@ -142,21 +157,6 @@
         {
           "title": "和我们同龄，却提前告别的人",
           "link": "https://36kr.com/p/3918001898073737?f=rss",
-          "date": ""
-        },
-        {
-          "title": "36氪联合PureblueAI清蓝发布第二期「2026消费品牌AI推荐力名册」",
-          "link": "https://36kr.com/p/3917984470576769?f=rss",
-          "date": ""
-        },
-        {
-          "title": "MORROR ART莫纳发布全透明歌词音响A2，“电子家居”布局更进一步丨最前线",
-          "link": "https://36kr.com/p/3917989583236738?f=rss",
-          "date": ""
-        },
-        {
-          "title": "易方达「戒酒」",
-          "link": "https://36kr.com/p/3917548470218371?f=rss",
           "date": ""
         }
       ]
@@ -166,6 +166,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "派早报：小米汽车举行 SKYNOMAD 小米澎程技术发布会等",
+          "link": "https://sspai.com/post/112930",
+          "date": "2026-07-31T00:37:53+00:00"
+        },
         {
           "title": "App+1 | 免费、多功能的远程控制新选择：网易 UU 远程",
           "link": "https://sspai.com/post/112405",
@@ -185,11 +190,6 @@
           "title": "派早报：中国电信将不再通过第三方互联网渠道提供号卡办理服务等",
           "link": "https://sspai.com/post/112881",
           "date": "2026-07-30T00:32:38+00:00"
-        },
-        {
-          "title": "离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新",
-          "link": "https://sspai.com/post/112787",
-          "date": "2026-07-29T09:30:00+00:00"
         }
       ]
     },
@@ -198,6 +198,11 @@
       "category": "科技",
       "url": "https://www.ifanr.com/feed",
       "items": [
+        {
+          "title": "早报｜29.99万,小米澎程N90 Max综合续航1705km/苹果iPhone、Mac收入创新高/高通确认9月起芯片涨价",
+          "link": "https://www.ifanr.com/1673460?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-07-31T00:16:51+00:00"
+        },
         {
           "title": "AI 加速了科学，也在掏空大学",
           "link": "https://www.ifanr.com/1673384?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -217,11 +222,6 @@
           "title": "AI 提不出下一个「王的猜想」",
           "link": "https://www.ifanr.com/1673371?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-07-30T01:09:58+00:00"
-        },
-        {
-          "title": "早报｜旗舰手机核心三件套成本超4000元/理想回应i6自动泊车反复调整/Kimi完成超35亿美元F轮融资",
-          "link": "https://www.ifanr.com/1673418?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-07-30T00:34:36+00:00"
         }
       ]
     },
@@ -263,6 +263,16 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+          "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+          "date": "2026-07-30T22:31:59+00:00"
+        },
+        {
+          "title": "Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;",
+          "link": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
+          "date": "2026-07-30T22:29:50+00:00"
+        },
+        {
           "title": "Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages",
           "link": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
           "date": "2026-07-30T21:58:41+00:00"
@@ -270,22 +280,12 @@
         {
           "title": "The loss of Situational Awareness",
           "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
-          "date": "2026-07-30T20:46:25+00:00"
+          "date": "2026-07-30T23:02:41+00:00"
         },
         {
           "title": "Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies",
           "link": "https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale",
           "date": "2026-07-30T18:36:37+00:00"
-        },
-        {
-          "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
-          "date": "2026-07-30T18:43:26+00:00"
-        },
-        {
-          "title": "Govee&#8217;s portable smart lamp is down to one of its best prices to date",
-          "link": "https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale",
-          "date": "2026-07-30T18:01:26+00:00"
         }
       ]
     },
@@ -327,29 +327,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-          "link": "https://github.com/AminBlg/SimpleEnglish",
-          "date": "2026-07-30T19:34:27+00:00"
+          "title": "The AI Aesthetic",
+          "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+          "date": "2026-07-30T23:22:16+00:00"
         },
         {
-          "title": "UEFA and its national associations will not participate in FIFA competitions",
-          "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
-          "date": "2026-07-30T18:40:52+00:00"
+          "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+          "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+          "date": "2026-07-30T23:00:51+00:00"
         },
         {
-          "title": "Making Postgres queues scale",
-          "link": "https://www.dbos.dev/blog/making-postgres-queues-scale",
-          "date": "2026-07-30T18:39:32+00:00"
+          "title": "I flagged two research papers for fake authors and both were accepted as orals",
+          "link": "https://geospatialml.com/posts/reviewing-ai-slop/",
+          "date": "2026-07-30T22:33:11+00:00"
         },
         {
-          "title": "So you want to use plants to reduce CO₂",
-          "link": "https://dynomight.net/plants/",
-          "date": "2026-07-30T18:31:02+00:00"
+          "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+          "link": "https://rune.build/blog/rune-1-1-release",
+          "date": "2026-07-30T21:47:31+00:00"
         },
         {
-          "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-          "link": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-          "date": "2026-07-30T18:13:06+00:00"
+          "title": "Saber-toothed cats became inbred–and struggled to move–before they went extinct",
+          "link": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
+          "date": "2026-07-30T21:31:03+00:00"
         }
       ]
     },
@@ -369,19 +369,19 @@
           "date": "2026-07-30T16:52:25+00:00"
         },
         {
+          "title": "You have been mislead about lightbulbs",
+          "link": "https://maurycyz.com/misc/tungsten/",
+          "date": "2026-07-30T21:02:32+00:00"
+        },
+        {
+          "title": "Progress toward compiling Linux with gccrs",
+          "link": "https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/",
+          "date": "2026-07-30T18:06:16+00:00"
+        },
+        {
           "title": "C++ float-to-int conversion can be undefined behavior",
           "link": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
           "date": "2026-07-30T03:47:26+00:00"
-        },
-        {
-          "title": "deskhop: Fast Desktop Switching Device",
-          "link": "https://github.com/hrvach/deskhop",
-          "date": "2026-07-30T07:52:39+00:00"
-        },
-        {
-          "title": "Building Progressively Enhanced Forms Using htmx",
-          "link": "https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/",
-          "date": "2026-07-30T12:17:01+00:00"
         }
       ]
     },
@@ -391,29 +391,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[iPhone] 请教有关香港旅游开通 eSIM 的问题",
-          "link": "https://www.v2ex.com/t/1231114#reply0",
-          "date": "2026-07-30T22:05:53+00:00"
+          "title": "[OpenAI] 额度用完了，没等到官方重置",
+          "link": "https://www.v2ex.com/t/1231148#reply0",
+          "date": "2026-07-31T02:06:34+00:00"
         },
         {
-          "title": "[分享发现] nixos 这系统和 ai 简直是绝配啊。",
-          "link": "https://www.v2ex.com/t/1231113#reply0",
-          "date": "2026-07-30T22:04:46+00:00"
+          "title": "[程序员] [开源] 文件上传到 Arweave 区块链，永久存储，不会丢",
+          "link": "https://www.v2ex.com/t/1231147#reply0",
+          "date": "2026-07-31T02:03:45+00:00"
         },
         {
-          "title": "[成都] 快 40 了，准备从美国回成都退休了",
-          "link": "https://www.v2ex.com/t/1231112#reply3",
-          "date": "2026-07-30T20:37:33+00:00"
+          "title": "[分享创造] 让 AI 输出的文档简洁、说人话更新第二版，重大提升！",
+          "link": "https://www.v2ex.com/t/1231146#reply0",
+          "date": "2026-07-31T02:03:44+00:00"
         },
         {
-          "title": "[分享创造] 做了一个 12 分钟内说出 100 位女性名字的网页小游戏，欢迎来挑战",
-          "link": "https://www.v2ex.com/t/1231111#reply0",
-          "date": "2026-07-30T20:02:45+00:00"
+          "title": "[分享创造] 做了一个随机宝可梦生成器，可以按世代、属性和地区组队",
+          "link": "https://www.v2ex.com/t/1231145#reply0",
+          "date": "2026-07-31T02:03:41+00:00"
         },
         {
-          "title": "[宽带症候群] 关掉 IPv6、封禁 QUIC，到底是稳妥还是摆烂？",
-          "link": "https://www.v2ex.com/t/1231110#reply5",
-          "date": "2026-07-30T19:12:25+00:00"
+          "title": "[程序员] 以前公司前后端开发比例 1:2，现在前后端开发比例 1:10",
+          "link": "https://www.v2ex.com/t/1231144#reply0",
+          "date": "2026-07-31T02:02:39+00:00"
         }
       ]
     },
@@ -487,6 +487,11 @@
       "url": "https://www.ruanyifeng.com/blog/atom.xml",
       "items": [
         {
+          "title": "科技爱好者周刊（第 406 期）：道可，道非，常道",
+          "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html",
+          "date": "2026-07-31T00:08:55+00:00"
+        },
+        {
           "title": "科技爱好者周刊（第 405 期）：资源，社会公平与算力",
           "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html",
           "date": "2026-07-24T00:12:16+00:00"
@@ -495,11 +500,6 @@
           "title": "科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识",
           "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html",
           "date": "2026-07-16T23:51:19+00:00"
-        },
-        {
-          "title": "科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功",
-          "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html",
-          "date": "2026-07-10T00:05:31+00:00"
         }
       ]
     },
@@ -632,38 +632,6 @@
       ]
     },
     {
-      "name": "Nature",
-      "category": "科研",
-      "url": "https://www.nature.com/nature.rss",
-      "items": [
-        {
-          "title": "Somatic mutations reveal the ontogeny of microglia in human aging",
-          "link": "https://www.nature.com/articles/s41586-026-10939-0",
-          "date": "2026-07-30T00:00:00+00:00"
-        },
-        {
-          "title": "Author Correction: Sleep chart of biological ageing clocks in middle and late life",
-          "link": "https://www.nature.com/articles/s41586-026-10920-x",
-          "date": "2026-07-30T00:00:00+00:00"
-        },
-        {
-          "title": "Job insecurity is chipping away at me and my cohort. Is it us, or the state of the economy?",
-          "link": "https://www.nature.com/articles/d41586-026-01843-8",
-          "date": "2026-07-30T00:00:00+00:00"
-        },
-        {
-          "title": "Demand for lithium is surging: here’s how to make mining more sustainable",
-          "link": "https://www.nature.com/articles/d41586-026-02195-z",
-          "date": "2026-07-30T00:00:00+00:00"
-        },
-        {
-          "title": "Fires in Europe are breaking records: here’s what the future holds",
-          "link": "https://www.nature.com/articles/d41586-026-02361-3",
-          "date": "2026-07-30T00:00:00+00:00"
-        }
-      ]
-    },
-    {
       "name": "ScienceDaily",
       "category": "科研",
       "url": "https://www.sciencedaily.com/rss/all.xml",
@@ -695,5 +663,8 @@
         }
       ]
     }
+  ],
+  "failed": [
+    "Nature"
   ]
 }

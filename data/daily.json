@@ -1,124 +1,125 @@
 {
-  "updated": "2026-07-30T22:07:36+00:00",
+  "updated": "2026-07-31T02:12:09+00:00",
   "leetcode": {
-    "date": "2026-07-30",
-    "id": "3014",
-    "title": "Minimum Number of Pushes to Type Word I",
-    "titleEn": "Minimum Number of Pushes to Type Word I",
-    "slug": "minimum-number-of-pushes-to-type-word-i",
-    "difficulty": "Easy",
+    "date": "2026-07-31",
+    "id": "3016",
+    "title": "Minimum Number of Pushes to Type Word II",
+    "titleEn": "Minimum Number of Pushes to Type Word II",
+    "slug": "minimum-number-of-pushes-to-type-word-ii",
+    "difficulty": "Medium",
     "tags": [
-      "Math",
+      "Hash Table",
       "String",
-      "Greedy"
+      "Greedy",
+      "Sorting"
     ],
-    "link": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/",
+    "link": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Sam & Max: Freelance Police",
-    "text": "Sam & Max: Freelance Police was a graphic adventure video game developed by LucasArts from 2002 until its cancellation in 2004, and the final game in the company's adventure game era. Freelance Police was originally intended for release for Windows in early 2004 as a sequel to the 1993 title Sam & Max Hit the Road. The game was based on the characters Sam & Max: an anthropomorphic dog and \"hyperkinetic rabbity thing\" who debuted in a 1987 comic book series created by Steve Purcell. Freelance Police was announced in August 2002, and showcased at the Electronic Entertainment Expo (E3) in 2003. Like its predecessor, Freelance Police was designed as a point-and-click adventure game, but used a 3D game engine in place of the SCUMM and GrimE engines used in older LucasArts adventure games. The project's development was led by Michael Stemmle, one of the original designers for Sam & Max Hit the Road, while Steve Purcell assisted in developing the game's plot and providing artistic direction.",
-    "words": 167,
-    "url": "https://en.wikipedia.org/wiki/Sam_%26_Max%3A_Freelance_Police",
-    "date": "2026-07-30",
+    "title": "William Hardham",
+    "text": "William James Hardham was a New Zealand soldier who was a recipient of the Victoria Cross, the highest award for gallantry \"in the face of the enemy\" that could be awarded at the time to military personnel of the British Empire.",
+    "words": 41,
+    "url": "https://en.wikipedia.org/wiki/William_Hardham",
+    "date": "2026-07-31",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "RP 000773",
-    "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/rp000773/RP-000773.mp4",
-    "page": "https://archive.org/details/rp000773",
-    "date": "2026-07-30",
+    "title": "Homes for Defense: A Defense Report on Film",
+    "creator": "U.S. Office for Emergency Management, Film Unit",
+    "year": "1940",
+    "url": "https://archive.org/download/6239_Homes_for_Defense_A_Defense_Report_on_Film_01_43_34_07/6239_Homes_for_Defense_A_Defense_Report_on_Film_01_43_34_07_3mb.m4v",
+    "page": "https://archive.org/details/6239_Homes_for_Defense_A_Defense_Report_on_Film_01_43_34_07",
+    "date": "2026-07-31",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Prisoner Of The Coral Deep",
-      "artist": "Cousin Silas",
-      "url": "https://archive.org/download/CousinSilas-PrisonerOfTheCoralDeep/001-StrangeDreams.mp3",
-      "page": "https://archive.org/details/CousinSilas-PrisonerOfTheCoralDeep",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "Whalt Thisney – Holothisc",
+      "artist": "",
+      "url": "https://archive.org/download/whaltthisney-holothisc/01.%20Whalt%20Thisney%20-%20Clouds%20Never%20Wait%20%28Uncanny%20Mix%29.mp3",
+      "page": "https://archive.org/details/whaltthisney-holothisc",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "Netz Klang - Ausgabe 22.05.06",
-      "artist": "Tobi Tobsucht",
-      "url": "https://archive.org/download/netzklang-22-05-06/netzklang-22-05-06.mp3",
-      "page": "https://archive.org/details/netzklang-22-05-06",
+      "title": "[AR001] 3. Subterranean by T:M",
+      "artist": "T:M",
+      "url": "https://archive.org/download/ar0013.SubterraneanByTm_353/AluraRecords-CompilationOne.-03Subterranean.mp3",
+      "page": "https://archive.org/details/ar0013.SubterraneanByTm_353",
       "license": "Creative Commons"
     },
     {
-      "title": "Card Paintings Loops",
-      "artist": "SG",
-      "url": "https://archive.org/download/CARDPAINTINGS/6CP-004B.mp3",
-      "page": "https://archive.org/details/CARDPAINTINGS",
-      "license": "http://creativecommons.org/licenses/by/3.0/"
+      "title": "DIENSTbar @ dfm.nu Transmission No. 209 Special Theme: The Electronic Radio Station",
+      "artist": "DIENSTbar",
+      "url": "https://archive.org/download/dbdfmnu209/dbdfmnu209.mp3",
+      "page": "https://archive.org/details/dbdfmnu209",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "Jason Kahn \"For Nam June Paik\"",
-      "artist": "Jason Kahn",
-      "url": "https://archive.org/download/JasonKahnforNamJunePaik/for_nam_june_paik.mp3",
-      "page": "https://archive.org/details/JasonKahnforNamJunePaik",
+      "title": "DIENSTbar @ dfm.nu Transmission No. 68 Special Theme: Concerts #8",
+      "artist": "Ohmnoise",
+      "url": "https://archive.org/download/dbdfmnu68/dbdfmnu68.mp3",
+      "page": "https://archive.org/details/dbdfmnu68",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "DIYChurch @ Radio226",
+      "artist": "G.O:D",
+      "url": "https://archive.org/download/DIYChurchAtRadio226/DIYChurchatRadio226.mp3",
+      "page": "https://archive.org/details/DIYChurchAtRadio226",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Ice Guild Kaiser - Rain 2 [wh235]",
+      "artist": "C.P. McDill",
+      "url": "https://archive.org/download/wh235/wh235_01_Ice-Guild-Kaiser_Rain-2.mp3",
+      "page": "https://archive.org/details/wh235",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
+    },
+    {
+      "title": "The Autopsy Report Metal Radio Show No 513 - 3rd - 9th February 2014",
+      "artist": "Gramie Dee",
+      "url": "https://archive.org/download/AR0309Feb14/AR-03-09Feb14.mp3",
+      "page": "https://archive.org/details/AR0309Feb14",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "First & Last",
-      "artist": "Matti T",
-      "url": "https://archive.org/download/siko-034/01firstlast.mp3",
-      "page": "https://archive.org/details/siko-034",
-      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/fi/"
+      "title": "i didn't go to easttek",
+      "artist": "debilbenga",
+      "url": "https://archive.org/download/wanklank.six/ididntgotoeasttek.mp3",
+      "page": "https://archive.org/details/wanklank.six",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "DELUSION OF THE FURY Live 23 10 2015 Zarata Madrid",
+      "title": "Service Fee",
+      "artist": "Jazzaria.com",
+      "url": "https://archive.org/download/service-fee/service-fee.mp3",
+      "page": "https://archive.org/details/service-fee",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "O Colecionador de Sons_Emissao # 51_2012.05.21",
+      "artist": "luis antero",
+      "url": "https://archive.org/download/OColecionadorDeSons_emissao51_2012.05.21/Ocds51.mp3",
+      "page": "https://archive.org/details/OColecionadorDeSons_emissao51_2012.05.21",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Dronescape 042 (waag_drs042) by Cousin Silas",
+      "artist": "Cousin Silas",
+      "url": "https://archive.org/download/waag_drs042/01_Dronescape-042.mp3",
+      "page": "https://archive.org/details/waag_drs042",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "[gargan060] Sascha Mueller - Welten",
       "artist": "",
-      "url": "https://archive.org/download/DELUSIONOFTHEFURYLive23102015ZarataMadrid/01-delusion_of_the_fury.mp3",
-      "page": "https://archive.org/details/DELUSIONOFTHEFURYLive23102015ZarataMadrid",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Kemadrin - strains [2006]",
-      "artist": "serocell",
-      "url": "https://archive.org/download/UN0042/01_kemadrin%3Dthese_rooms.mp3",
-      "page": "https://archive.org/details/UN0042",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "87. Candles in Rituals, Magic Spells",
-      "artist": "MWroblewski",
-      "url": "https://archive.org/download/CandlesInRitualsMagicSpells/1.%20Candles%20in%20Rituals%2C%20Magic%20Spells.mp3",
-      "page": "https://archive.org/details/CandlesInRitualsMagicSpells",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/"
-    },
-    {
-      "title": "Part Of Endless",
-      "artist": "microwave D",
-      "url": "https://archive.org/download/madang_mail_Qz23/part%20of%20endless.mp3",
-      "page": "https://archive.org/details/madang_mail_Qz23",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Drone # 2 July 2018",
-      "artist": "the.synthetic.awakening",
-      "url": "https://archive.org/download/Drone2July2018/Drone%20Number%202%20July%202018.mp3",
-      "page": "https://archive.org/details/Drone2July2018",
-      "license": "http://creativecommons.org/licenses/by-nd/4.0/"
-    },
-    {
-      "title": "DOTD019 - ESMECTATONS - CULT OF DEMENTIA",
-      "artist": "ESMECTATONS",
-      "url": "https://archive.org/download/DOTD019cultofdementia/01%20-%20Thee%20Kvlt%20Ov%20Dementia.mp3",
-      "page": "https://archive.org/details/DOTD019cultofdementia",
-      "license": "http://creativecommons.org/licenses/by/3.0/"
-    },
-    {
-      "title": "0003 survey 5th November 2008",
-      "artist": "",
-      "url": "https://archive.org/download/CWK_0003/01classwarkaraokeAnLAfterIAnNBeforeEWithoutYouImNothingBegintheBeguine.mp3",
-      "page": "https://archive.org/details/CWK_0003",
+      "url": "https://archive.org/download/gargan060SaschaMller-Welten/gargan060_01_Sascha_Mueller_-_Dach_Der_Welt.mp3",
+      "page": "https://archive.org/details/gargan060SaschaMller-Welten",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     }
   ]
