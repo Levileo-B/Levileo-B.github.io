@@ -1,11 +1,16 @@
 {
-  "updated": "2026-07-31T11:25:38+00:00",
+  "updated": "2026-07-31T13:50:29+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "網傳胡錦濤舉家身亡，「原始消息」疑點重重",
+          "link": "https://www.bbc.com/zhongwen/articles/cx2r3xzp5z9o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-31T13:11:49+00:00"
+        },
         {
           "title": "特朗普公佈加沙繳械計劃 哈馬斯向BBC證實同意",
           "link": "https://www.bbc.com/zhongwen/articles/c8xn5pd7zneo/trad?at_medium=RSS&at_campaign=rss",
@@ -25,11 +30,6 @@
           "title": "中國機器人大軍如何改變英國零售業？",
           "link": "https://www.bbc.com/zhongwen/articles/cevm082pgm7o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-30T09:33:51+00:00"
-        },
-        {
-          "title": "澳門國安法首案：區錦新被羈押滿一年，「外界難以聯絡」",
-          "link": "https://www.bbc.com/zhongwen/articles/ce852385914o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T11:55:00+00:00"
         }
       ]
     },
@@ -39,14 +39,9 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
+          "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
           "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-31T11:14:29+00:00"
-        },
-        {
-          "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-          "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-31T07:03:29+00:00"
+          "date": "2026-07-31T13:04:04+00:00"
         },
         {
           "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
@@ -62,6 +57,11 @@
           "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
           "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-31T10:32:17+00:00"
+        },
+        {
+          "title": "Fifa says 'nobody selling football' as plan continues",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-31T08:21:37+00:00"
         }
       ]
     },
@@ -71,9 +71,14 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
+          "title": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
+          "link": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-31T12:19:20+00:00"
+        },
+        {
           "title": "Sainsbury's agrees to sell Argos for £120m",
           "link": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-31T10:19:47+00:00"
+          "date": "2026-07-31T12:42:22+00:00"
         },
         {
           "title": "UK petrol prices hit highest level since Iran war began",
@@ -83,12 +88,7 @@
         {
           "title": "BP puts North Sea business up for sale",
           "link": "https://www.bbc.co.uk/news/articles/c62q7w003lro?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-31T09:43:09+00:00"
-        },
-        {
-          "title": "Thames Water boss says leakage targets 'not realistic'",
-          "link": "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T23:06:37+00:00"
+          "date": "2026-07-31T13:27:29+00:00"
         },
         {
           "title": "'I pay £580 a month to live in a disused care home': Property guardians show us around",
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
+          "title": "Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag",
+          "link": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html",
+          "date": "2026-07-31T13:26:59+00:00"
+        },
+        {
           "title": "Exxon and Chevron profits surge on rising oil prices due to Iran war",
           "link": "https://www.cnbc.com/2026/07/31/exxon-xom-chevron-cvx-q2-earnings.html",
-          "date": "2026-07-31T11:18:27+00:00"
+          "date": "2026-07-31T12:49:14+00:00"
         },
         {
-          "title": "Apple drops 7%, Amazon surges 12% as investors pick AI winners after earnings",
-          "link": "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
-          "date": "2026-07-31T08:50:14+00:00"
+          "title": "Fed officials who voted to hike rates say action is needed now against inflation",
+          "link": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
+          "date": "2026-07-31T12:40:00+00:00"
         },
         {
-          "title": "Hamas says Trump's Gaza 'disarmament' claim depends on Israel honoring commitments",
-          "link": "https://www.cnbc.com/2026/07/31/trump-hamas-disarmament-conditions.html",
-          "date": "2026-07-31T10:46:49+00:00"
+          "title": "GM to launch its own in-vehicle AI system later this year",
+          "link": "https://www.cnbc.com/2026/07/31/gm-in-vehicle-ai-system.html",
+          "date": "2026-07-31T13:39:28+00:00"
         },
         {
-          "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
-          "link": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
-          "date": "2026-07-31T01:11:49+00:00"
-        },
-        {
-          "title": "Iran targets strategic U.S. assets in Kuwait, Bahrain after Egypt drone attack",
-          "link": "https://www.cnbc.com/2026/07/31/us-iran-war-trump-hormuz.html",
-          "date": "2026-07-31T10:32:14+00:00"
+          "title": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
+          "link": "https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html",
+          "date": "2026-07-31T12:41:34+00:00"
         }
       ]
     },
@@ -167,6 +167,11 @@
       "url": "https://sspai.com/feed",
       "items": [
         {
+          "title": "本月玩什么｜节奏天国、斯普拉遁 涂击队、刺客信条：黑旗 记忆重置",
+          "link": "https://sspai.com/post/112962",
+          "date": "2026-07-31T10:49:07+00:00"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 10 部作品",
           "link": "https://sspai.com/post/112961",
           "date": "2026-07-31T09:57:39+00:00"
@@ -185,11 +190,6 @@
           "title": "派早报：小米汽车举行 SKYNOMAD 小米澎程技术发布会等",
           "link": "https://sspai.com/post/112930",
           "date": "2026-07-31T00:37:53+00:00"
-        },
-        {
-          "title": "App+1 | 免费、多功能的远程控制新选择：网易 UU 远程",
-          "link": "https://sspai.com/post/112405",
-          "date": "2026-07-30T09:30:00+00:00"
         }
       ]
     },
@@ -198,6 +198,16 @@
       "category": "科技",
       "url": "https://www.ifanr.com/feed",
       "items": [
+        {
+          "title": "马斯克要用 AI 打造《奥德赛》电影，我用小云雀 Seedance 2.5 提前实现了",
+          "link": "https://www.ifanr.com/1673556?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-07-31T13:27:40+00:00"
+        },
+        {
+          "title": "实测 DeepSeek V4 正式版：3 块钱干完 5 件事，AI「智价比」之战开打了",
+          "link": "https://www.ifanr.com/1673553?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-07-31T11:50:59+00:00"
+        },
         {
           "title": "三腔空悬、16° 后轮转向，岚图「虎踞」率先落地泰山 X8",
           "link": "https://www.ifanr.com/1673544?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -212,16 +222,6 @@
           "title": "29.99 万元！小米澎程 N90 开启预售，同级唯一大七座 SUV",
           "link": "https://www.ifanr.com/1673511?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-07-31T07:03:01+00:00"
-        },
-        {
-          "title": "Seedance 级别的全模态控制，MiniMax H3 的商业视频成片新解法",
-          "link": "https://www.ifanr.com/1673481?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-07-31T05:21:55+00:00"
-        },
-        {
-          "title": "早报｜29.99万,小米澎程N90 Max综合续航1705km/苹果iPhone、Mac收入创新高/高通确认9月起芯片涨价",
-          "link": "https://www.ifanr.com/1673460?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-07-31T00:16:51+00:00"
         }
       ]
     },
@@ -263,29 +263,29 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Anthropic says Claude accidentally hacked real companies too",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+          "date": "2026-07-31T13:41:17+00:00"
+        },
+        {
+          "title": "D&#038;D is getting World of Warcraft and Star Wars crossovers",
+          "link": "https://www.theverge.com/games/973652/dnd-dungeons-dragons-world-of-warcraft-star-wars-universes-beyond",
+          "date": "2026-07-31T13:07:24+00:00"
+        },
+        {
+          "title": "This tattoo is permanent, pain-free, and might soon come in the mail",
+          "link": "https://www.theverge.com/tech/972466/cipherx-permanent-pain-free-tattoo-microdot-patches",
+          "date": "2026-07-31T12:16:27+00:00"
+        },
+        {
+          "title": "Apple TV’s Cape Fear remake turns it into a paranoid tech thriller",
+          "link": "https://www.theverge.com/entertainment/973530/apple-tv-cape-fear-finale-technology",
+          "date": "2026-07-30T22:05:40+00:00"
+        },
+        {
           "title": "Sony pushes forward with ditching discs, despite backlash",
           "link": "https://www.theverge.com/tech/973621/sony-playstation-ending-discs-pushing-forward",
           "date": "2026-07-31T11:23:23+00:00"
-        },
-        {
-          "title": "Tim Cook hints at iCloud Plus tier for AI power users",
-          "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
-          "date": "2026-07-30T22:31:59+00:00"
-        },
-        {
-          "title": "Xbox CEO lays out priorities in memo after major &#8216;reset&#8217;",
-          "link": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
-          "date": "2026-07-31T09:28:15+00:00"
-        },
-        {
-          "title": "Apple&#8217;s iPhone and Mac sales keep growing despite RAM shortages",
-          "link": "https://www.theverge.com/tech/973430/apple-q3-2026-earnings",
-          "date": "2026-07-30T21:58:41+00:00"
-        },
-        {
-          "title": "The loss of Situational Awareness",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
-          "date": "2026-07-30T23:02:41+00:00"
         }
       ]
     },
@@ -327,6 +327,21 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "Ruby Central's Destructive Legacy",
+          "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
+          "date": "2026-07-31T12:10:55+00:00"
+        },
+        {
+          "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+          "link": "https://tasklet.ai/careers/customer-success-engineer",
+          "date": "2026-07-31T12:00:59+00:00"
+        },
+        {
+          "title": "The End of an Era",
+          "link": "https://hughhowey.com/the-end-of-an-era/",
+          "date": "2026-07-31T11:51:46+00:00"
+        },
+        {
           "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
           "link": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
           "date": "2026-07-31T07:59:11+00:00"
@@ -335,21 +350,6 @@
           "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
           "link": "https://blog.google/security/chrome-stronger-with-every-update/",
           "date": "2026-07-31T07:29:22+00:00"
-        },
-        {
-          "title": "DeepSeek-V4-Flash Update",
-          "link": "https://api-docs.deepseek.com/updates/",
-          "date": "2026-07-31T06:08:36+00:00"
-        },
-        {
-          "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
-          "link": "https://github.com/mokshablr/gander",
-          "date": "2026-07-31T05:45:13+00:00"
-        },
-        {
-          "title": "Show HN: What should the GUI for AI agents look like?",
-          "link": "https://marbleos.com/demo",
-          "date": "2026-07-31T05:17:29+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://lobste.rs/rss",
       "items": [
         {
-          "title": "A question about a factorial operator",
-          "link": "https://lobste.rs/s/itp1nm/question_about_factorial_operator",
-          "date": "2026-07-31T05:05:46+00:00"
-        },
-        {
           "title": "How to speed up the Rust compiler in July 2026",
           "link": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
           "date": "2026-07-31T05:46:14+00:00"
         },
         {
+          "title": "Go 1.27 interactive tour",
+          "link": "https://victoriametrics.com/blog/go-1-27/",
+          "date": "2026-07-31T11:15:54+00:00"
+        },
+        {
+          "title": "Stripe Just Wants a Number",
+          "link": "https://blog.exe.dev/billable-facts",
+          "date": "2026-07-31T10:36:22+00:00"
+        },
+        {
+          "title": "A question about a factorial operator",
+          "link": "https://lobste.rs/s/itp1nm/question_about_factorial_operator",
+          "date": "2026-07-31T05:05:46+00:00"
+        },
+        {
           "title": "The AI Aesthetic",
           "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
           "date": "2026-07-30T13:57:07+00:00"
-        },
-        {
-          "title": "Stacked pull requests are now in public preview",
-          "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-          "date": "2026-07-30T16:52:25+00:00"
-        },
-        {
-          "title": "Progress toward compiling Linux with gccrs",
-          "link": "https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/",
-          "date": "2026-07-30T18:06:16+00:00"
         }
       ]
     },
@@ -391,29 +391,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享发现] gemini pro 额度该咋办，怎么消耗掉？",
-          "link": "https://www.v2ex.com/t/1231323#reply0",
-          "date": "2026-07-31T11:17:21+00:00"
+          "title": "[分享创造] 我把 Claude Code 的 statusline 和主题配置整理成了一个可版本化仓库",
+          "link": "https://www.v2ex.com/t/1231338#reply0",
+          "date": "2026-07-31T13:43:50+00:00"
         },
         {
-          "title": "[程序员] ai 好用，一个小插件，就实现了“网络倾听者”",
-          "link": "https://www.v2ex.com/t/1231322#reply0",
-          "date": "2026-07-31T11:15:27+00:00"
+          "title": "[问与答] 用了一下午时间， 用 v4 flash 做了个小游戏",
+          "link": "https://www.v2ex.com/t/1231337#reply3",
+          "date": "2026-07-31T13:22:43+00:00"
         },
         {
-          "title": "[分享创造] [开源] 基于 Atoll 删减出来一个 macos 刘海媒体播放控制 app， Atoll 本身的杂七杂八功能太多了导致一堆 bug",
-          "link": "https://www.v2ex.com/t/1231321#reply3",
-          "date": "2026-07-31T11:07:39+00:00"
+          "title": "[生活] 房贷真是太狠了",
+          "link": "https://www.v2ex.com/t/1231336#reply6",
+          "date": "2026-07-31T13:17:48+00:00"
         },
         {
-          "title": "[DeepSeek] DeepSeek 这个发布命名机制是不是不太友好呀",
-          "link": "https://www.v2ex.com/t/1231319#reply0",
-          "date": "2026-07-31T10:59:35+00:00"
+          "title": "[推广] 恭喜这五位大佬获得懒猫 AI 摄像头",
+          "link": "https://www.v2ex.com/t/1231335#reply0",
+          "date": "2026-07-31T13:15:24+00:00"
         },
         {
-          "title": "[奇思妙想] 数字永生：意识的连续性与永生可行性方案",
-          "link": "https://www.v2ex.com/t/1231318#reply1",
-          "date": "2026-07-31T10:29:56+00:00"
+          "title": "[分享创造] 写了一个 MMPI（明尼苏达多项人格问卷）的测试站",
+          "link": "https://www.v2ex.com/t/1231334#reply2",
+          "date": "2026-07-31T13:12:42+00:00"
         }
       ]
     },
@@ -605,6 +605,11 @@
       "url": "https://www.technologyreview.com/feed/",
       "items": [
         {
+          "title": "The Download: Montana’s new experimental drug rules",
+          "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+          "date": "2026-07-31T12:16:00+00:00"
+        },
+        {
           "title": "Montana’s new “right to try” law can’t come soon enough for some",
           "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
           "date": "2026-07-31T09:00:00+00:00"
@@ -623,11 +628,38 @@
           "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
           "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
           "date": "2026-07-30T10:15:19+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Nature",
+      "category": "科研",
+      "url": "https://www.nature.com/nature.rss",
+      "items": [
+        {
+          "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
+          "link": "https://www.nature.com/articles/s41586-026-10921-w",
+          "date": "2026-07-31T00:00:00+00:00"
         },
         {
-          "title": "How an overlooked geothermal plant got a second chance",
-          "link": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
-          "date": "2026-07-29T17:58:44+00:00"
+          "title": "The power of ignorance and peering into the Milky Way: Books in brief",
+          "link": "https://www.nature.com/articles/d41586-026-02371-1",
+          "date": "2026-07-31T00:00:00+00:00"
+        },
+        {
+          "title": "Meat allergy is on the rise — what scientists want to know",
+          "link": "https://www.nature.com/articles/d41586-026-02362-2",
+          "date": "2026-07-31T00:00:00+00:00"
+        },
+        {
+          "title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
+          "link": "https://www.nature.com/articles/d41586-026-02366-y",
+          "date": "2026-07-31T00:00:00+00:00"
+        },
+        {
+          "title": "Somatic mutations reveal the ontogeny of microglia in human aging",
+          "link": "https://www.nature.com/articles/s41586-026-10939-0",
+          "date": "2026-07-30T00:00:00+00:00"
         }
       ]
     },
@@ -663,8 +695,5 @@
         }
       ]
     }
-  ],
-  "failed": [
-    "Nature"
   ]
 }
