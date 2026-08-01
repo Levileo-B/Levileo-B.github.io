@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T19:00:14+00:00",
+  "updated": "2026-08-01T21:48:49+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,14 +39,19 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-          "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-01T15:46:08+00:00"
+          "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+          "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-01T20:09:27+00:00"
         },
         {
           "title": "Call for 'full review' as pressure grows on Infantino",
           "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-01T17:07:46+00:00"
+        },
+        {
+          "title": "Tourist plane crashes in Peru, killing 13",
+          "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-01T20:51:09+00:00"
         },
         {
           "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
@@ -57,11 +62,6 @@
           "title": "Italy putting nearly all major cities on highest heat alert",
           "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-01T17:51:46+00:00"
-        },
-        {
-          "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-          "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-01T15:25:30+00:00"
         }
       ]
     },
@@ -110,7 +110,7 @@
         {
           "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
           "link": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
-          "date": "2026-08-01T10:56:11+00:00"
+          "date": "2026-08-01T20:55:55+00:00"
         },
         {
           "title": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
@@ -263,6 +263,16 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Pixel 11 specs and price leak with no surprises",
+          "link": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
+          "date": "2026-08-01T21:31:24+00:00"
+        },
+        {
+          "title": "Angela Nissel faces down grief with a laugh",
+          "link": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
+          "date": "2026-08-01T20:13:56+00:00"
+        },
+        {
           "title": "Is this Billboard Hot 100 hit AI slop?",
           "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
           "date": "2026-08-01T18:18:49+00:00"
@@ -276,16 +286,6 @@
           "title": "Trump blames Tim Walz for water hacks even though it’s probably Iran",
           "link": "https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran",
           "date": "2026-08-01T15:23:35+00:00"
-        },
-        {
-          "title": "The Verge’s 2026 back-to-school shopping guide",
-          "link": "https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts",
-          "date": "2026-07-30T15:28:25+00:00"
-        },
-        {
-          "title": "You could be taking way better photos on your phone",
-          "link": "https://www.theverge.com/tech/973055/how-to-take-better-smartphone-photos",
-          "date": "2026-08-01T16:26:37+00:00"
         }
       ]
     },
@@ -294,6 +294,11 @@
       "category": "科技",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+          "link": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+          "date": "2026-08-01T18:20:11+00:00"
+        },
         {
           "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
           "link": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
@@ -313,11 +318,6 @@
           "title": "Defcon's new badge is a security key you can see inside",
           "link": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
           "date": "2026-08-01T10:05:21+00:00"
-        },
-        {
-          "title": "How fruit flies chase invisible ribbons of smell to get to their source",
-          "link": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
-          "date": "2026-08-01T10:00:19+00:00"
         }
       ]
     },
@@ -327,29 +327,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Postmortem for Kernel Soundness Bug #14576",
-          "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-          "date": "2026-08-01T18:32:20+00:00"
+          "title": "The 14 Steps it takes to open my office door with a new phone",
+          "link": "https://shub.club/writings/2026/august/14-steps-to-open-a-door/",
+          "date": "2026-08-01T21:37:27+00:00"
         },
         {
-          "title": "Oil companies report sky-high profits thanks to wartime crude prices",
-          "link": "https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026",
-          "date": "2026-08-01T18:28:06+00:00"
+          "title": "Diátaxis",
+          "link": "https://diataxis.fr/",
+          "date": "2026-08-01T20:33:27+00:00"
         },
         {
-          "title": "Tell HN: I hate your fuzzy search",
-          "link": "https://news.ycombinator.com/item?id=49136990",
-          "date": "2026-08-01T18:25:00+00:00"
+          "title": "The Silicon Valley Founder Meat Grinder",
+          "link": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
+          "date": "2026-08-01T20:20:58+00:00"
         },
         {
-          "title": "NetBSD 11.0 Released",
-          "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-          "date": "2026-08-01T17:56:41+00:00"
+          "title": "But can your calculator run Linux?",
+          "link": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+          "date": "2026-08-01T19:44:48+00:00"
         },
         {
-          "title": "A directory of people who love RSS",
-          "link": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
-          "date": "2026-08-01T16:52:41+00:00"
+          "title": "Google has abandoned Google News?",
+          "link": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+          "date": "2026-08-01T19:39:43+00:00"
         }
       ]
     },
@@ -359,9 +359,14 @@
       "url": "https://lobste.rs/rss",
       "items": [
         {
-          "title": "Test the Email Verification Protocol with an origin trial",
-          "link": "https://developer.chrome.com/blog/email-verification-protocol-origin-trial",
-          "date": "2026-08-01T12:34:25+00:00"
+          "title": "NetBSD 11.0 released",
+          "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+          "date": "2026-08-01T17:57:00+00:00"
+        },
+        {
+          "title": "An old-new take on argument parsing in Rust",
+          "link": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
+          "date": "2026-08-01T19:31:15+00:00"
         },
         {
           "title": "wiff",
@@ -369,19 +374,14 @@
           "date": "2026-08-01T13:27:00+00:00"
         },
         {
+          "title": "Test the Email Verification Protocol with an origin trial",
+          "link": "https://developer.chrome.com/blog/email-verification-protocol-origin-trial",
+          "date": "2026-08-01T12:34:25+00:00"
+        },
+        {
           "title": "Elevators",
           "link": "https://john.fun/elevators",
           "date": "2026-08-01T05:49:28+00:00"
-        },
-        {
-          "title": "Ruby Central's Destructive Legacy",
-          "link": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
-          "date": "2026-07-31T14:47:21+00:00"
-        },
-        {
-          "title": "Why I forked rand",
-          "link": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
-          "date": "2026-07-31T15:02:41+00:00"
         }
       ]
     },
@@ -390,6 +390,16 @@
       "category": "开发",
       "url": "https://www.v2ex.com/index.xml",
       "items": [
+        {
+          "title": "[分享发现] OpenAI 的十个重大数学成果：数学核爆已成常态",
+          "link": "https://www.v2ex.com/t/1231496#reply0",
+          "date": "2026-08-01T21:34:43+00:00"
+        },
+        {
+          "title": "[分享创造] 闭源 Coding Agent 有没有偷偷外联，能不能不靠每版反编译？",
+          "link": "https://www.v2ex.com/t/1231495#reply0",
+          "date": "2026-08-01T21:28:15+00:00"
+        },
         {
           "title": "[问与答] [求助]了解一下「中科酷原科技」这家公司",
           "link": "https://www.v2ex.com/t/1231494#reply0",
@@ -404,16 +414,6 @@
           "title": "[程序员] macOS 原生终端 Termite 1.10 版本发布",
           "link": "https://www.v2ex.com/t/1231491#reply0",
           "date": "2026-08-01T17:31:31+00:00"
-        },
-        {
-          "title": "[问与答] GiffGaff 转 CTExcel 可行嘛",
-          "link": "https://www.v2ex.com/t/1231490#reply0",
-          "date": "2026-08-01T16:59:40+00:00"
-        },
-        {
-          "title": "[推广] Giffgaff 难民新出路 lebara",
-          "link": "https://www.v2ex.com/t/1231489#reply1",
-          "date": "2026-08-01T16:39:46+00:00"
         }
       ]
     },
@@ -632,6 +632,38 @@
       ]
     },
     {
+      "name": "Nature",
+      "category": "科研",
+      "url": "https://www.nature.com/nature.rss",
+      "items": [
+        {
+          "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
+          "link": "https://www.nature.com/articles/s41586-026-10921-w",
+          "date": "2026-07-31T00:00:00+00:00"
+        },
+        {
+          "title": "Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why",
+          "link": "https://www.nature.com/articles/d41586-026-02419-2",
+          "date": "2026-07-31T00:00:00+00:00"
+        },
+        {
+          "title": "The physics of fizz: why some bubbles are louder than others",
+          "link": "https://www.nature.com/articles/d41586-026-02334-6",
+          "date": "2026-07-31T00:00:00+00:00"
+        },
+        {
+          "title": "The power of ignorance and peering into the Milky Way: Books in brief",
+          "link": "https://www.nature.com/articles/d41586-026-02371-1",
+          "date": "2026-07-31T00:00:00+00:00"
+        },
+        {
+          "title": "Meat allergy is on the rise — what scientists want to know",
+          "link": "https://www.nature.com/articles/d41586-026-02362-2",
+          "date": "2026-07-31T00:00:00+00:00"
+        }
+      ]
+    },
+    {
       "name": "ScienceDaily",
       "category": "科研",
       "url": "https://www.sciencedaily.com/rss/all.xml",
@@ -663,8 +695,5 @@
         }
       ]
     }
-  ],
-  "failed": [
-    "Nature"
   ]
 }
