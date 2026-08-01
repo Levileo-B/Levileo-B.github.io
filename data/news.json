@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T21:59:42+00:00",
+  "updated": "2026-08-01T02:13:15+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -71,6 +71,11 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
+          "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
+          "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-07-31T21:57:59+00:00"
+        },
+        {
           "title": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
           "link": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-31T12:19:20+00:00"
@@ -89,11 +94,6 @@
           "title": "Budget to be held in October, Healey announces",
           "link": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-31T15:58:42+00:00"
-        },
-        {
-          "title": "UK petrol prices hit highest level since Iran war began",
-          "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-31T11:19:23+00:00"
         }
       ]
     },
@@ -118,14 +118,14 @@
           "date": "2026-07-31T21:46:32+00:00"
         },
         {
+          "title": "Pirro moves to drop case against Olympian, says Reflecting Pool damage caused by 'flawed installation'",
+          "link": "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html",
+          "date": "2026-07-31T23:19:16+00:00"
+        },
+        {
           "title": "Alphabet, Amazon and Microsoft added nearly $1.5 trillion in combined value this week",
           "link": "https://www.cnbc.com/2026/07/31/apple-aapl-amazon-amzn-stock-today.html",
           "date": "2026-07-31T20:17:54+00:00"
-        },
-        {
-          "title": "Trump appeals order that slammed his IRS lawsuit and referred his lawyer to bar",
-          "link": "https://www.cnbc.com/2026/07/31/trump-appeals-irs-lawsuit-blanche-fund.html",
-          "date": "2026-07-31T21:07:05+00:00"
         }
       ]
     },
@@ -134,6 +134,11 @@
       "category": "科技",
       "url": "https://36kr.com/feed",
       "items": [
+        {
+          "title": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
+          "link": "https://36kr.com/p/3920241240419720?f=rss",
+          "date": ""
+        },
         {
           "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
           "link": "https://36kr.com/p/3919386961177985?f=rss",
@@ -152,11 +157,6 @@
         {
           "title": "开云的转折：在中国，做一个AI乐观派",
           "link": "https://36kr.com/p/3919225763540611?f=rss",
-          "date": ""
-        },
-        {
-          "title": "最前线｜创客工具赛道升温，国内首个Maker Tool行业联盟成立",
-          "link": "https://36kr.com/p/3919301778288261?f=rss",
           "date": ""
         }
       ]
@@ -263,6 +263,11 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
+          "link": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
+          "date": "2026-07-31T23:11:42+00:00"
+        },
+        {
           "title": "Apple’s new AirTags are back down to their best price",
           "link": "https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale",
           "date": "2026-07-31T19:35:45+00:00"
@@ -281,11 +286,6 @@
           "title": "Google might launch a ‘Pixel Tag’",
           "link": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker",
           "date": "2026-07-31T18:27:24+00:00"
-        },
-        {
-          "title": "The ban on robot vacuums won’t make them safer, only worse",
-          "link": "https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices",
-          "date": "2026-07-31T18:40:33+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
+          "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
+          "link": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
+          "date": "2026-07-31T22:17:05+00:00"
+        },
+        {
+          "title": "Doctors took a look at man's painful shoulder—they found the joint was missing",
+          "link": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
+          "date": "2026-07-31T21:51:52+00:00"
+        },
+        {
+          "title": "Google plans to exempt sanctioned nations from Android developer verification",
+          "link": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
+          "date": "2026-07-31T21:35:56+00:00"
+        },
+        {
+          "title": "Reddit keeps its strange DMCA fight over Google search results alive",
+          "link": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
+          "date": "2026-07-31T21:19:39+00:00"
+        },
+        {
+          "title": "Claude published malicious code to the Internet and attacked 3 real companies",
           "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
           "date": "2026-07-31T20:39:14+00:00"
-        },
-        {
-          "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
-          "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
-          "date": "2026-07-31T20:21:05+00:00"
-        },
-        {
-          "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
-          "link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
-          "date": "2026-07-31T19:04:56+00:00"
-        },
-        {
-          "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
-          "link": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
-          "date": "2026-07-31T18:11:55+00:00"
-        },
-        {
-          "title": "Researchers devise a full-color night vision goggle",
-          "link": "https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/",
-          "date": "2026-07-31T17:58:38+00:00"
         }
       ]
     },
@@ -326,6 +326,16 @@
       "category": "开发",
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
+        {
+          "title": "How to Exist",
+          "link": "https://www.raptitude.com/2026/07/how-to-exist/",
+          "date": "2026-08-01T00:25:00+00:00"
+        },
+        {
+          "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+          "link": "https://code.intellios.ai/cwbrowser/",
+          "date": "2026-07-31T21:39:52+00:00"
+        },
         {
           "title": "Loops (YC W22) Is Hiring a Product Educator",
           "link": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
@@ -340,16 +350,6 @@
           "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
           "link": "https://jwlabs.vercel.app/post/biting-the-bullet",
           "date": "2026-07-31T19:55:41+00:00"
-        },
-        {
-          "title": "Tailscale didn't stop the Hugging Face intrusion",
-          "link": "https://tailscale.com/blog/hugging-face-intrusion",
-          "date": "2026-07-31T19:03:45+00:00"
-        },
-        {
-          "title": "Golang proposal: container/: generic collection types",
-          "link": "https://github.com/golang/go/issues/80590",
-          "date": "2026-07-31T18:39:47+00:00"
         }
       ]
     },
@@ -364,24 +364,24 @@
           "date": "2026-07-31T14:47:21+00:00"
         },
         {
-          "title": "Go 1.27 interactive tour",
-          "link": "https://victoriametrics.com/blog/go-1-27/",
-          "date": "2026-07-31T11:15:54+00:00"
-        },
-        {
           "title": "Why I forked rand",
           "link": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
           "date": "2026-07-31T15:02:41+00:00"
         },
         {
+          "title": "Go 1.27 interactive tour",
+          "link": "https://victoriametrics.com/blog/go-1-27/",
+          "date": "2026-07-31T11:15:54+00:00"
+        },
+        {
+          "title": "Guix shell now inside Emacs",
+          "link": "https://tusharhero.codeberg.page/guix-shell-in-emacs.html",
+          "date": "2026-07-31T17:58:24+00:00"
+        },
+        {
           "title": "How to speed up the Rust compiler in July 2026",
           "link": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
           "date": "2026-07-31T05:46:14+00:00"
-        },
-        {
-          "title": "Stripe Just Wants a Number",
-          "link": "https://blog.exe.dev/billable-facts",
-          "date": "2026-07-31T10:36:22+00:00"
         }
       ]
     },
@@ -391,29 +391,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[程序员] AI Code Review 是不是更适合做低噪声筛查，而不是合并闸门？",
-          "link": "https://www.v2ex.com/t/1231364#reply0",
-          "date": "2026-07-31T21:17:46+00:00"
+          "title": "[程序员] 在 DeepSeek 官方 Harness 没有出来之前，用什么 Agent 更好？",
+          "link": "https://www.v2ex.com/t/1231381#reply0",
+          "date": "2026-08-01T02:03:32+00:00"
         },
         {
-          "title": "[推广] ModelGate 八月优惠： GPT 分组 0.18、Claude 倍率 0.28，首充赠送 + 邀请返利",
-          "link": "https://www.v2ex.com/t/1231363#reply0",
-          "date": "2026-07-31T20:35:07+00:00"
+          "title": "[深圳] 新买的空调第三天开始漏水，如何投诉处理",
+          "link": "https://www.v2ex.com/t/1231380#reply7",
+          "date": "2026-08-01T01:45:14+00:00"
         },
         {
-          "title": "[人工智能] 折腾了一晚 MiniMax H3，感觉真正有意思的并不是 2K",
-          "link": "https://www.v2ex.com/t/1231362#reply0",
-          "date": "2026-07-31T19:45:35+00:00"
+          "title": "[llms.txt] minih3.video llms.txt",
+          "link": "https://www.v2ex.com/t/1231379#reply0",
+          "date": "2026-08-01T01:43:11+00:00"
         },
         {
-          "title": "[Claude] 2 人用同一个 claude 账号的话，在 claude windows app 的历史里是否能看到对方的记录？",
-          "link": "https://www.v2ex.com/t/1231361#reply1",
-          "date": "2026-07-31T19:23:01+00:00"
+          "title": "[分享发现] 打电话的信用都负数了，一天里 90%来电都是垃圾电话",
+          "link": "https://www.v2ex.com/t/1231377#reply0",
+          "date": "2026-08-01T01:28:46+00:00"
         },
         {
-          "title": "[推广] 合租巴士 - API 中转站 | 夏季大促 · 8 月王炸活动正式开启",
-          "link": "https://www.v2ex.com/t/1231360#reply0",
-          "date": "2026-07-31T17:54:55+00:00"
+          "title": "[新手求助] 怎么看自己的 V2EX 号有没有被限？或者标记违规",
+          "link": "https://www.v2ex.com/t/1231376#reply6",
+          "date": "2026-08-01T01:03:20+00:00"
         }
       ]
     },
