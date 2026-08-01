@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T08:11:04+00:00",
+  "updated": "2026-08-01T10:36:01+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -7,14 +7,14 @@
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
         {
+          "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
+          "link": "https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-01T09:56:01+00:00"
+        },
+        {
           "title": "網傳胡錦濤舉家身亡　秦楓稱流傳帖文屬冒用",
           "link": "https://www.bbc.com/zhongwen/articles/cx2r3xzp5z9o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-31T14:53:52+00:00"
-        },
-        {
-          "title": "特朗普公佈加沙繳械計劃 哈馬斯向BBC證實同意",
-          "link": "https://www.bbc.com/zhongwen/articles/c8xn5pd7zneo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-31T06:10:24+00:00"
         },
         {
           "title": "Apple警告Mac、iPhone及iPad未來將面臨「供應限制」",
@@ -39,14 +39,14 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Fifa scraps controversial World Cup investment plan",
-          "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-01T05:42:31+00:00"
+          "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+          "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-01T10:11:39+00:00"
         },
         {
-          "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-          "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-31T17:03:47+00:00"
+          "title": "Uefa has 'lost confidence' in Fifa leadership",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-01T09:51:05+00:00"
         },
         {
           "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
@@ -56,7 +56,7 @@
         {
           "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
           "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-01T07:21:46+00:00"
+          "date": "2026-08-01T08:24:09+00:00"
         },
         {
           "title": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
@@ -103,6 +103,11 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
+          "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
+          "link": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
+          "date": "2026-08-01T10:26:41+00:00"
+        },
+        {
           "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
           "link": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
           "date": "2026-07-31T20:19:03+00:00"
@@ -113,19 +118,14 @@
           "date": "2026-07-31T16:51:30+00:00"
         },
         {
-          "title": "Iran's overlapping power centers make ending the war more complicated",
-          "link": "https://www.cnbc.com/2026/08/01/iran-ceasefire-power-structure.html",
-          "date": "2026-08-01T06:52:42+00:00"
-        },
-        {
           "title": "Trump's AI executive order nears key deadline as regulation debate intensifies",
           "link": "https://www.cnbc.com/2026/07/31/trump-ai-executive-order-nears-key-deadline-regulation-debate-heats-up.html",
           "date": "2026-07-31T21:46:32+00:00"
         },
         {
-          "title": "Building for 131°F: Europe races to protect its infrastructure from a ‘quiet catastrophe’",
-          "link": "https://www.cnbc.com/2026/08/01/europe-extreme-heat-climate-change-55c.html",
-          "date": "2026-08-01T06:58:41+00:00"
+          "title": "Investors may want to focus on front end of yield curve — as Street anticipates next Fed meetings",
+          "link": "https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html",
+          "date": "2026-07-31T18:46:45+00:00"
         }
       ]
     },
@@ -327,29 +327,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Ten advances in mathematics and theoretical computer science",
-          "link": "https://openai.com/index/ten-advances-in-mathematics/",
-          "date": "2026-08-01T07:37:44+00:00"
+          "title": "RamenHaus",
+          "link": "https://ramen.haus/",
+          "date": "2026-08-01T08:48:58+00:00"
         },
         {
-          "title": "Ten Ways NAS Is Getting Enshitified",
-          "link": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
-          "date": "2026-08-01T05:38:16+00:00"
+          "title": "EU will mandate labels on authentic-looking AI content starting August 2",
+          "link": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
+          "date": "2026-08-01T08:26:55+00:00"
         },
         {
-          "title": "The development pipeline is a production system",
-          "link": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-          "date": "2026-08-01T03:16:09+00:00"
+          "title": "How to Do Great Work",
+          "link": "https://paulgraham.com/greatwork.html",
+          "date": "2026-08-01T08:19:44+00:00"
         },
         {
-          "title": "Flint: A Visualization Language for the AI Era",
-          "link": "https://microsoft.github.io/flint-chart/",
-          "date": "2026-08-01T02:45:09+00:00"
+          "title": "AI doesn't generate working products, that's still your job",
+          "link": "https://weeraman.com/the-prototype-isnt-the-product/",
+          "date": "2026-08-01T07:52:10+00:00"
         },
         {
-          "title": "A week in Matrix",
-          "link": "https://piegames.de/dumps/a-week-in-matrix/",
-          "date": "2026-08-01T01:35:53+00:00"
+          "title": "Solid Queue 1.6.0 now supports fiber workers",
+          "link": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
+          "date": "2026-08-01T07:42:08+00:00"
         }
       ]
     },
@@ -391,29 +391,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[问与答] 出入境管理办法出台后，普通人出国是不是就难了？",
-          "link": "https://www.v2ex.com/t/1231437#reply0",
-          "date": "2026-08-01T08:07:33+00:00"
+          "title": "[分享发现] 今天怎么回事？ x 都在发收益？",
+          "link": "https://www.v2ex.com/t/1231452#reply0",
+          "date": "2026-08-01T10:33:59+00:00"
         },
         {
-          "title": "[分享创造] [开源] Mktero：在 Zotero 里把 PDF 转成可重排的 Markdown 阅读",
-          "link": "https://www.v2ex.com/t/1231436#reply0",
-          "date": "2026-08-01T08:07:10+00:00"
+          "title": "[Wunder] V2EX AI Chat 可用模型列表新增 DeepSeek-V4-Flash 0731 版本",
+          "link": "https://www.v2ex.com/t/1231448#reply0",
+          "date": "2026-08-01T10:05:09+00:00"
         },
         {
-          "title": "[问与答] 现在国内是买电车好还是买油车好啊",
-          "link": "https://www.v2ex.com/t/1231435#reply0",
-          "date": "2026-08-01T08:02:16+00:00"
+          "title": "[汽车] 问一下大家： NOA/辅助驾驶 之类的，使用频率高吗？",
+          "link": "https://www.v2ex.com/t/1231446#reply0",
+          "date": "2026-08-01T09:41:13+00:00"
         },
         {
-          "title": "[Claude] 淘宝上买的独立 claude 5x，商家会不会同一个号卖 2 遍，怎么查看是否多人共用？",
-          "link": "https://www.v2ex.com/t/1231434#reply1",
-          "date": "2026-08-01T07:52:28+00:00"
+          "title": "[问与答] 使用 openrouter API 报错",
+          "link": "https://www.v2ex.com/t/1231445#reply4",
+          "date": "2026-08-01T09:39:34+00:00"
         },
         {
-          "title": "[AI Agent 智能体] 你们都是怎么实现两个不同的大模型互相协作 coding 呢？",
-          "link": "https://www.v2ex.com/t/1231430#reply0",
-          "date": "2026-08-01T07:11:33+00:00"
+          "title": "[分享创造] 做了一个完全在浏览器本地处理的图片拼接工具： MergeImage",
+          "link": "https://www.v2ex.com/t/1231444#reply0",
+          "date": "2026-08-01T09:25:16+00:00"
         }
       ]
     },
@@ -632,38 +632,6 @@
       ]
     },
     {
-      "name": "Nature",
-      "category": "科研",
-      "url": "https://www.nature.com/nature.rss",
-      "items": [
-        {
-          "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
-          "link": "https://www.nature.com/articles/s41586-026-10921-w",
-          "date": "2026-07-31T00:00:00+00:00"
-        },
-        {
-          "title": "Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why",
-          "link": "https://www.nature.com/articles/d41586-026-02419-2",
-          "date": "2026-07-31T00:00:00+00:00"
-        },
-        {
-          "title": "The physics of fizz: why some bubbles are louder than others",
-          "link": "https://www.nature.com/articles/d41586-026-02334-6",
-          "date": "2026-07-31T00:00:00+00:00"
-        },
-        {
-          "title": "The power of ignorance and peering into the Milky Way: Books in brief",
-          "link": "https://www.nature.com/articles/d41586-026-02371-1",
-          "date": "2026-07-31T00:00:00+00:00"
-        },
-        {
-          "title": "Meat allergy is on the rise — what scientists want to know",
-          "link": "https://www.nature.com/articles/d41586-026-02362-2",
-          "date": "2026-07-31T00:00:00+00:00"
-        }
-      ]
-    },
-    {
       "name": "ScienceDaily",
       "category": "科研",
       "url": "https://www.sciencedaily.com/rss/all.xml",
@@ -695,5 +663,8 @@
         }
       ]
     }
+  ],
+  "failed": [
+    "Nature"
   ]
 }
