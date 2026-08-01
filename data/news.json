@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T02:13:15+00:00",
+  "updated": "2026-08-01T05:50:05+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,6 +39,16 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+          "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-01T05:01:56+00:00"
+        },
+        {
+          "title": "Fifa scraps controversial World Cup investment plan",
+          "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-01T05:42:31+00:00"
+        },
+        {
           "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
           "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-31T17:03:47+00:00"
@@ -52,16 +62,6 @@
           "title": "Body of US climber the latest recovered after Pakistan avalanche",
           "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-31T20:22:46+00:00"
-        },
-        {
-          "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
-          "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-31T10:32:17+00:00"
-        },
-        {
-          "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
-          "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-31T14:26:07+00:00"
         }
       ]
     },
@@ -93,7 +93,7 @@
         {
           "title": "Budget to be held in October, Healey announces",
           "link": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-31T15:58:42+00:00"
+          "date": "2026-08-01T03:34:26+00:00"
         }
       ]
     },
@@ -251,9 +251,9 @@
           "date": "2026-07-31T09:41:19+00:00"
         },
         {
-          "title": "智利木乃伊保存的天花基因组确认天花来自欧洲殖民者",
-          "link": "https://www.solidot.org/story?sid=84974",
-          "date": "2026-07-31T06:48:02+00:00"
+          "title": "特朗普和哥斯拉有什么共同之处？",
+          "link": "https://www.solidot.org/story?sid=84975",
+          "date": "2026-07-31T08:01:54+00:00"
         }
       ]
     },
@@ -327,29 +327,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "How to Exist",
-          "link": "https://www.raptitude.com/2026/07/how-to-exist/",
-          "date": "2026-08-01T00:25:00+00:00"
+          "title": "What Liberal Arts Education Is for (2024)",
+          "link": "https://innig.net/teaching/liberal-arts-manifesto",
+          "date": "2026-08-01T04:28:13+00:00"
         },
         {
-          "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
-          "link": "https://code.intellios.ai/cwbrowser/",
-          "date": "2026-07-31T21:39:52+00:00"
+          "title": "Firefighter arson a long-standing issue – expert",
+          "link": "https://www.firerescue1.com/arson-investigation/articles/expert-firefighter-arson-a-long-standing-issue-xHXLFAdYVcQPiuPU/",
+          "date": "2026-08-01T03:50:30+00:00"
         },
         {
-          "title": "Loops (YC W22) Is Hiring a Product Educator",
-          "link": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
-          "date": "2026-07-31T21:00:40+00:00"
+          "title": "BMW Spider-Man in-car advertising",
+          "link": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
+          "date": "2026-08-01T03:25:12+00:00"
         },
         {
-          "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
-          "link": "https://arxiv.org/abs/2607.28233",
-          "date": "2026-07-31T20:44:29+00:00"
+          "title": "The development pipeline is a production system",
+          "link": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+          "date": "2026-08-01T03:16:09+00:00"
         },
         {
-          "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
-          "link": "https://jwlabs.vercel.app/post/biting-the-bullet",
-          "date": "2026-07-31T19:55:41+00:00"
+          "title": "Flint: A Visualization Language for the AI Era",
+          "link": "https://microsoft.github.io/flint-chart/",
+          "date": "2026-08-01T02:45:09+00:00"
         }
       ]
     },
@@ -379,9 +379,9 @@
           "date": "2026-07-31T17:58:24+00:00"
         },
         {
-          "title": "How to speed up the Rust compiler in July 2026",
-          "link": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
-          "date": "2026-07-31T05:46:14+00:00"
+          "title": "Accepting a messy git history",
+          "link": "https://beza1e1.tuxen.de/git_two_users.html",
+          "date": "2026-07-31T18:27:28+00:00"
         }
       ]
     },
@@ -391,29 +391,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[程序员] 在 DeepSeek 官方 Harness 没有出来之前，用什么 Agent 更好？",
-          "link": "https://www.v2ex.com/t/1231381#reply0",
-          "date": "2026-08-01T02:03:32+00:00"
+          "title": "[问与答] 你们买了车之后有没有后悔过？",
+          "link": "https://www.v2ex.com/t/1231419#reply0",
+          "date": "2026-08-01T05:47:01+00:00"
         },
         {
-          "title": "[深圳] 新买的空调第三天开始漏水，如何投诉处理",
-          "link": "https://www.v2ex.com/t/1231380#reply7",
-          "date": "2026-08-01T01:45:14+00:00"
+          "title": "[推广] [中转] 91token 小站上线， Claude Code， GPT， Seedance2.0 有需求的客观瞅一眼",
+          "link": "https://www.v2ex.com/t/1231418#reply0",
+          "date": "2026-08-01T05:37:28+00:00"
         },
         {
-          "title": "[llms.txt] minih3.video llms.txt",
-          "link": "https://www.v2ex.com/t/1231379#reply0",
-          "date": "2026-08-01T01:43:11+00:00"
+          "title": "[VPS] DigVPS 测评 - Bandwagon（搬瓦工）新增 US - Los Angeles DC5 SLA (USCA_5)产品详评数据：很强悍的六边形战士。",
+          "link": "https://www.v2ex.com/t/1231415#reply1",
+          "date": "2026-08-01T05:09:16+00:00"
         },
         {
-          "title": "[分享发现] 打电话的信用都负数了，一天里 90%来电都是垃圾电话",
-          "link": "https://www.v2ex.com/t/1231377#reply0",
-          "date": "2026-08-01T01:28:46+00:00"
+          "title": "[分享创造] make song",
+          "link": "https://www.v2ex.com/t/1231414#reply0",
+          "date": "2026-08-01T05:08:24+00:00"
         },
         {
-          "title": "[新手求助] 怎么看自己的 V2EX 号有没有被限？或者标记违规",
-          "link": "https://www.v2ex.com/t/1231376#reply6",
-          "date": "2026-08-01T01:03:20+00:00"
+          "title": "[宽带症候群] 什么叫 Win11 IPv4 栈崩了， IPv6 栈还活着",
+          "link": "https://www.v2ex.com/t/1231413#reply2",
+          "date": "2026-08-01T05:06:52+00:00"
         }
       ]
     },
@@ -573,29 +573,29 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
-          "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
-          "link": "https://www.qbitai.com/2026/07/464328.html",
-          "date": "2026-07-31T09:11:32+00:00"
+          "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+          "link": "https://www.qbitai.com/2026/08/464693.html",
+          "date": "2026-08-01T05:02:49+00:00"
         },
         {
-          "title": "刚刚，即梦 Seedance 2.5来了！我狂测测测测……",
-          "link": "https://www.qbitai.com/2026/07/464329.html",
-          "date": "2026-07-31T08:48:22+00:00"
+          "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+          "link": "https://www.qbitai.com/2026/08/464532.html",
+          "date": "2026-08-01T04:53:33+00:00"
         },
         {
-          "title": "视频后期，危！MiniMax H3手绘即特效，多模态的「Coding时刻」来了",
-          "link": "https://www.qbitai.com/2026/07/464277.html",
-          "date": "2026-07-31T08:28:30+00:00"
+          "title": "黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来",
+          "link": "https://www.qbitai.com/2026/08/464452.html",
+          "date": "2026-08-01T03:38:10+00:00"
         },
         {
-          "title": "米哈游蔡浩宇AI创业生变",
-          "link": "https://www.qbitai.com/2026/07/464169.html",
-          "date": "2026-07-31T07:22:37+00:00"
+          "title": "Anthropic模型，也失控了。。。",
+          "link": "https://www.qbitai.com/2026/08/464412.html",
+          "date": "2026-08-01T03:18:46+00:00"
         },
         {
-          "title": "姚顺雨拿50年数学难题成绩单，招人了",
-          "link": "https://www.qbitai.com/2026/07/464100.html",
-          "date": "2026-07-31T06:54:57+00:00"
+          "title": "AI顶会现场，见到了一家美妆巨头",
+          "link": "https://www.qbitai.com/2026/08/464364.html",
+          "date": "2026-08-01T02:52:18+00:00"
         }
       ]
     },
