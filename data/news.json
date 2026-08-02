@@ -1,11 +1,21 @@
 {
-  "updated": "2026-08-02T02:10:35+00:00",
+  "updated": "2026-08-02T05:50:51+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "特朗普表示同意取消對伊朗的打擊，前提是能「迅速」達成協議",
+          "link": "https://www.bbc.com/zhongwen/articles/cly97n5k6j6o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-02T04:17:46+00:00"
+        },
+        {
+          "title": "「台灣太美啦」：1000公里環台單車之旅為何令人著迷？",
+          "link": "https://www.bbc.com/zhongwen/articles/ce97r8g44mlo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-02T05:40:11+00:00"
+        },
         {
           "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
           "link": "https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad?at_medium=RSS&at_campaign=rss",
@@ -20,16 +30,6 @@
           "title": "Apple警告Mac、iPhone及iPad未來將面臨「供應限制」",
           "link": "https://www.bbc.com/zhongwen/articles/cx27x8yxzmmo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-31T06:32:17+00:00"
-        },
-        {
-          "title": "香港科大研究：兩歲前限制攝取糖分與較佳腦部健康有關聯",
-          "link": "https://www.bbc.com/zhongwen/articles/c78gny39xl8o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-31T00:27:53+00:00"
-        },
-        {
-          "title": "中國機器人大軍如何改變英國零售業？",
-          "link": "https://www.bbc.com/zhongwen/articles/cevm082pgm7o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-30T09:33:51+00:00"
         }
       ]
     },
@@ -38,6 +38,11 @@
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
+        {
+          "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+          "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-02T03:05:16+00:00"
+        },
         {
           "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
           "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
@@ -49,19 +54,14 @@
           "date": "2026-08-01T20:09:27+00:00"
         },
         {
-          "title": "Call for 'full review' as pressure grows on Infantino",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-01T17:07:46+00:00"
-        },
-        {
-          "title": "Tourist plane crashes in Peru, killing 13",
-          "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-02T00:29:55+00:00"
-        },
-        {
           "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
           "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-01T23:03:35+00:00"
+        },
+        {
+          "title": "The Sopranos star Vincent Pastore dies aged 80",
+          "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-01T22:57:55+00:00"
         }
       ]
     },
@@ -327,29 +327,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Go 1.27 Interactive Tour",
-          "link": "https://victoriametrics.com/blog/go-1-27/index.html",
-          "date": "2026-08-02T01:35:51+00:00"
+          "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "link": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "date": "2026-08-02T04:21:14+00:00"
         },
         {
-          "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
-          "link": "https://zenodo.org/records/21753002",
-          "date": "2026-08-02T01:01:45+00:00"
+          "title": "Don't credit the LLM",
+          "link": "https://isaacsu.com/2026/08/dont-credit-the-llm/",
+          "date": "2026-08-02T04:07:46+00:00"
         },
         {
-          "title": "Walsh: Multi-agent research pipeline with risk manager that can veto trades",
-          "link": "https://github.com/ats4321/walsh",
-          "date": "2026-08-02T00:13:52+00:00"
+          "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+          "link": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+          "date": "2026-08-02T03:12:52+00:00"
         },
         {
-          "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
-          "link": "https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/",
-          "date": "2026-08-02T00:06:25+00:00"
+          "title": "Linux desktop market share has hit over 10% in North America",
+          "link": "https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/",
+          "date": "2026-08-02T03:10:00+00:00"
         },
         {
-          "title": "Kobuk the Destroyer – Tales from the Wild, Unseen World of Test Engineering",
-          "link": "https://wwnorton.com/books/9781324051299",
-          "date": "2026-08-02T00:01:46+00:00"
+          "title": "Plug-in solar is coming. Plug-in batteries should follow",
+          "link": "https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow",
+          "date": "2026-08-02T02:57:51+00:00"
         }
       ]
     },
@@ -369,6 +369,11 @@
           "date": "2026-08-01T19:31:15+00:00"
         },
         {
+          "title": "Resigning from Arch Linux",
+          "link": "https://linderud.dev/blog/resigning-from-arch-linux/",
+          "date": "2026-08-01T22:47:01+00:00"
+        },
+        {
           "title": "But can your calculator run Linux?",
           "link": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
           "date": "2026-08-01T19:44:40+00:00"
@@ -377,11 +382,6 @@
           "title": "wiff",
           "link": "https://wezfurlong.org/wiff/",
           "date": "2026-08-01T13:27:00+00:00"
-        },
-        {
-          "title": "Resigning from Arch Linux",
-          "link": "https://linderud.dev/blog/resigning-from-arch-linux/",
-          "date": "2026-08-01T22:47:01+00:00"
         }
       ]
     },
@@ -391,29 +391,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享创造] Side Project 上线 30 天，真的有用户了",
-          "link": "https://www.v2ex.com/t/1231505#reply0",
-          "date": "2026-08-02T02:04:51+00:00"
+          "title": "[Claude] 写了两个脚本， Claude Code 干活时 Mac 不睡觉（合盖也行），干完自动恢复睡眠",
+          "link": "https://www.v2ex.com/t/1231529#reply0",
+          "date": "2026-08-02T05:43:40+00:00"
         },
         {
-          "title": "[Apple] 求助！关于如何用 Frida gadget hook ios 软件",
-          "link": "https://www.v2ex.com/t/1231503#reply1",
-          "date": "2026-08-02T01:35:20+00:00"
+          "title": "[程序员] 似乎开源项目作者不知道/不想利用 AI 来加速自己的开发？",
+          "link": "https://www.v2ex.com/t/1231528#reply4",
+          "date": "2026-08-02T05:43:08+00:00"
         },
         {
-          "title": "[随想] 资本喜欢利用女性收割男性，部分低质女性蠢不自知",
-          "link": "https://www.v2ex.com/t/1231502#reply1",
-          "date": "2026-08-02T01:33:36+00:00"
+          "title": "[分享创造] [Mailbike] 一个网页反馈收集的小插件",
+          "link": "https://www.v2ex.com/t/1231527#reply0",
+          "date": "2026-08-02T05:40:47+00:00"
         },
         {
-          "title": "[推广] 做了个 AI API 聚合，一个 Key 用所有模型，想听听大家意见",
-          "link": "https://www.v2ex.com/t/1231501#reply0",
-          "date": "2026-08-02T01:31:56+00:00"
+          "title": "[问与答] 知乎里一眼望去都是 gpt 生成的文章，为什么每个文章下面都是一片祥和",
+          "link": "https://www.v2ex.com/t/1231526#reply3",
+          "date": "2026-08-02T05:23:56+00:00"
         },
         {
-          "title": "[程序员] codex 现在怎么这么慢了，用的 sol 中、高都很慢",
-          "link": "https://www.v2ex.com/t/1231499#reply4",
-          "date": "2026-08-02T01:09:50+00:00"
+          "title": "[分享创造] 做了一个把普通视频转成深度视频的小工具，方便 AI 视频复刻动作",
+          "link": "https://www.v2ex.com/t/1231525#reply0",
+          "date": "2026-08-02T05:05:10+00:00"
         }
       ]
     },
