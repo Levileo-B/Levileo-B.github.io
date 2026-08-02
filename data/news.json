@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T10:29:30+00:00",
+  "updated": "2026-08-02T13:07:55+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -41,17 +41,17 @@
         {
           "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
           "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-02T09:10:51+00:00"
+          "date": "2026-08-02T11:12:00+00:00"
         },
         {
           "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
           "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-02T00:55:16+00:00"
+          "date": "2026-08-02T10:32:28+00:00"
         },
         {
           "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
           "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-02T10:02:19+00:00"
+          "date": "2026-08-02T11:49:40+00:00"
         },
         {
           "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
@@ -59,9 +59,9 @@
           "date": "2026-08-01T23:03:35+00:00"
         },
         {
-          "title": "The Sopranos star Vincent Pastore dies aged 80",
-          "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-01T22:57:55+00:00"
+          "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-01T22:23:20+00:00"
         }
       ]
     },
@@ -108,14 +108,14 @@
           "date": "2026-08-02T10:18:35+00:00"
         },
         {
+          "title": "Why flights are so expensive and will likely stay that way",
+          "link": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
+          "date": "2026-08-02T12:00:01+00:00"
+        },
+        {
           "title": "As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners",
           "link": "https://www.cnbc.com/2026/08/01/glp-1-prescriptions-weight-loss-walmart-costco-amazon.html",
           "date": "2026-08-01T12:30:01+00:00"
-        },
-        {
-          "title": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
-          "link": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
-          "date": "2026-08-01T12:00:01+00:00"
         },
         {
           "title": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
@@ -123,9 +123,9 @@
           "date": "2026-08-02T05:18:21+00:00"
         },
         {
-          "title": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
-          "link": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
-          "date": "2026-08-01T12:00:01+00:00"
+          "title": "Top Wall Street analysts are bullish on these 3 dividend stocks for passive income",
+          "link": "https://www.cnbc.com/2026/08/02/top-analysts-are-bullish-on-these-dividend-stocks-for-passive-income-.html",
+          "date": "2026-08-02T12:01:00+00:00"
         }
       ]
     },
@@ -263,6 +263,16 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Is paying artists enough to convince them to embrace AI?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+          "date": "2026-07-31T21:16:29+00:00"
+        },
+        {
+          "title": "Foldables are sort of boring now — and that’s great news for Apple",
+          "link": "https://www.theverge.com/column/972937/foldable-phones-boring-apple",
+          "date": "2026-07-29T22:27:11+00:00"
+        },
+        {
           "title": "Pixel 11 specs and price leak with no surprises",
           "link": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
           "date": "2026-08-01T21:31:24+00:00"
@@ -276,16 +286,6 @@
           "title": "Is this Billboard Hot 100 hit AI slop?",
           "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
           "date": "2026-08-01T18:18:49+00:00"
-        },
-        {
-          "title": "Spider-Man: Brand New Day leak racks up millions of views",
-          "link": "https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records",
-          "date": "2026-08-01T17:00:12+00:00"
-        },
-        {
-          "title": "Trump blames Tim Walz for water hacks even though it’s probably Iran",
-          "link": "https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran",
-          "date": "2026-08-01T15:23:35+00:00"
         }
       ]
     },
@@ -327,29 +327,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
-          "link": "https://github.com/syncular/syncular",
-          "date": "2026-08-02T09:48:08+00:00"
+          "title": "Twenty Years of RISC OS Open",
+          "link": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+          "date": "2026-08-02T12:36:07+00:00"
         },
         {
-          "title": "Show HN: Bor – Open-source policy management for Linux desktops",
-          "link": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-          "date": "2026-08-02T09:06:33+00:00"
+          "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "link": "https://twitter.com/polynoamial/status/2083467194663571701",
+          "date": "2026-08-02T12:01:37+00:00"
         },
         {
-          "title": "The time filter in Google Search broke a few days ago",
-          "link": "https://mastodon.online/@mwichary/117023736804129342",
-          "date": "2026-08-02T08:48:53+00:00"
+          "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+          "link": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
+          "date": "2026-08-02T12:01:00+00:00"
         },
         {
-          "title": "Cyberscript",
-          "link": "https://cyberscript.dev",
-          "date": "2026-08-02T07:58:30+00:00"
+          "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "link": "https://website-auditor.io/ai-visibility-index",
+          "date": "2026-08-02T11:53:52+00:00"
         },
         {
-          "title": "Mathematics Without Mathematicians",
-          "link": "https://borretti.me/article/mathematics-without-mathematicians",
-          "date": "2026-08-02T07:47:26+00:00"
+          "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+          "link": "https://meshdiff.com/",
+          "date": "2026-08-02T11:34:41+00:00"
         }
       ]
     },
@@ -359,24 +359,24 @@
       "url": "https://lobste.rs/rss",
       "items": [
         {
-          "title": "NetBSD 11.0 released",
-          "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-          "date": "2026-08-01T17:57:00+00:00"
-        },
-        {
           "title": "Atom is better than RSS, in ways that matter",
           "link": "https://chrismorgan.info/atom%3Erss",
           "date": "2026-08-02T04:40:17+00:00"
         },
         {
-          "title": "An old-new take on argument parsing in Rust",
-          "link": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
-          "date": "2026-08-01T19:31:15+00:00"
+          "title": "NetBSD 11.0 released",
+          "link": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+          "date": "2026-08-01T17:57:00+00:00"
         },
         {
           "title": "sizeof is surprisingly difficult to parse in c",
           "link": "https://sebsite.pw/w/20260802-sizeof.html",
           "date": "2026-08-02T06:01:51+00:00"
+        },
+        {
+          "title": "An old-new take on argument parsing in Rust",
+          "link": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
+          "date": "2026-08-01T19:31:15+00:00"
         },
         {
           "title": "Resigning from Arch Linux",
@@ -391,29 +391,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[OpenAI] 发现我的 gpt 账号有个免费试用 Plus",
-          "link": "https://www.v2ex.com/t/1231550#reply0",
-          "date": "2026-08-02T10:08:45+00:00"
+          "title": "[分享创造] ATBCmder ‐‐ MacOS 平台的双面板文件管理利器",
+          "link": "https://www.v2ex.com/t/1231563#reply2",
+          "date": "2026-08-02T12:49:08+00:00"
         },
         {
-          "title": "[推广] 做了一个从一张照片开始的 AI 面部分析工具，想收集真实反馈",
-          "link": "https://www.v2ex.com/t/1231549#reply0",
-          "date": "2026-08-02T10:04:45+00:00"
+          "title": "[分享发现] 分享一个 vibe coding 做的小程序：叮叮提醒",
+          "link": "https://www.v2ex.com/t/1231562#reply1",
+          "date": "2026-08-02T12:24:20+00:00"
         },
         {
-          "title": "[推广] 网站新手，开发了一款快速、免费的有用工具",
-          "link": "https://www.v2ex.com/t/1231548#reply0",
-          "date": "2026-08-02T09:35:03+00:00"
+          "title": "[酷工作] 联想 天津 直招 急聘 又来了",
+          "link": "https://www.v2ex.com/t/1231559#reply0",
+          "date": "2026-08-02T11:41:03+00:00"
         },
         {
-          "title": "[问与答] 人都去哪里了？",
-          "link": "https://www.v2ex.com/t/1231547#reply14",
-          "date": "2026-08-02T08:53:48+00:00"
+          "title": "[程序员] 冒险岛 083 网页版",
+          "link": "https://www.v2ex.com/t/1231558#reply2",
+          "date": "2026-08-02T11:40:17+00:00"
         },
         {
-          "title": "[程序员] Clash 的规则集现在都怎么选？ rule-provider 感觉不够用了？",
-          "link": "https://www.v2ex.com/t/1231545#reply6",
-          "date": "2026-08-02T08:33:33+00:00"
+          "title": "[求职] [远程工作/项目外包]-老板炒币破产跑路-急需远程工作或项目外包",
+          "link": "https://www.v2ex.com/t/1231556#reply0",
+          "date": "2026-08-02T11:32:57+00:00"
         }
       ]
     },
@@ -600,6 +600,38 @@
       ]
     },
     {
+      "name": "Nature",
+      "category": "科研",
+      "url": "https://www.nature.com/nature.rss",
+      "items": [
+        {
+          "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
+          "link": "https://www.nature.com/articles/s41586-026-10921-w",
+          "date": "2026-07-31T00:00:00+00:00"
+        },
+        {
+          "title": "Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why",
+          "link": "https://www.nature.com/articles/d41586-026-02419-2",
+          "date": "2026-07-31T00:00:00+00:00"
+        },
+        {
+          "title": "The physics of fizz: why some bubbles are louder than others",
+          "link": "https://www.nature.com/articles/d41586-026-02334-6",
+          "date": "2026-07-31T00:00:00+00:00"
+        },
+        {
+          "title": "The power of ignorance and peering into the Milky Way: Books in brief",
+          "link": "https://www.nature.com/articles/d41586-026-02371-1",
+          "date": "2026-07-31T00:00:00+00:00"
+        },
+        {
+          "title": "Meat allergy is on the rise — what scientists want to know",
+          "link": "https://www.nature.com/articles/d41586-026-02362-2",
+          "date": "2026-07-31T00:00:00+00:00"
+        }
+      ]
+    },
+    {
       "name": "ScienceDaily",
       "category": "科研",
       "url": "https://www.sciencedaily.com/rss/all.xml",
@@ -633,7 +665,6 @@
     }
   ],
   "failed": [
-    "量子位",
-    "Nature"
+    "量子位"
   ]
 }
