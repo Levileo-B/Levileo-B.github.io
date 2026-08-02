@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T19:01:38+00:00",
+  "updated": "2026-08-02T21:50:13+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,9 +39,9 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
+          "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
           "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-02T18:04:44+00:00"
+          "date": "2026-08-02T20:36:37+00:00"
         },
         {
           "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
@@ -108,6 +108,11 @@
           "date": "2026-08-02T10:18:35+00:00"
         },
         {
+          "title": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
+          "link": "https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html",
+          "date": "2026-08-02T20:12:41+00:00"
+        },
+        {
           "title": "'Spider-Man: Brand New Day' chases 'Avengers: Endgame' opening record with $355 million domestic debut",
           "link": "https://www.cnbc.com/2026/08/02/spider-man-brand-new-day-box-office-355-million-domestic-opening.html",
           "date": "2026-08-02T15:54:05+00:00"
@@ -118,14 +123,9 @@
           "date": "2026-08-02T12:00:01+00:00"
         },
         {
-          "title": "Investors scored on Iran war's oil market boom. Staying long the trade will get trickier",
-          "link": "https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html",
-          "date": "2026-08-02T13:00:01+00:00"
-        },
-        {
-          "title": "As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners",
-          "link": "https://www.cnbc.com/2026/08/01/glp-1-prescriptions-weight-loss-walmart-costco-amazon.html",
-          "date": "2026-08-01T12:30:01+00:00"
+          "title": "GOP Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in House, needs 'serious psychological help'",
+          "link": "https://www.cnbc.com/2026/08/02/bernie-moreno-max-miller-house-psychological-help-emily-moreno.html",
+          "date": "2026-08-02T19:13:47+00:00"
         }
       ]
     },
@@ -263,6 +263,21 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+          "date": "2026-08-02T19:40:58+00:00"
+        },
+        {
+          "title": "Xbox prices are increasing by up to €200 or £170",
+          "link": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+          "date": "2026-08-02T16:18:38+00:00"
+        },
+        {
+          "title": "Skylight&#8217;s smart calendars are up to $90 off during its back-to-school sale",
+          "link": "https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale",
+          "date": "2026-07-31T18:40:27+00:00"
+        },
+        {
           "title": "HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was",
           "link": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
           "date": "2026-08-01T06:07:38+00:00"
@@ -271,21 +286,6 @@
           "title": "Is paying artists enough to convince them to embrace AI?",
           "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
           "date": "2026-07-31T21:16:29+00:00"
-        },
-        {
-          "title": "Foldables are sort of boring now — and that’s great news for Apple",
-          "link": "https://www.theverge.com/column/972937/foldable-phones-boring-apple",
-          "date": "2026-07-29T22:27:11+00:00"
-        },
-        {
-          "title": "Pixel 11 specs and price leak with no surprises",
-          "link": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
-          "date": "2026-08-01T21:31:24+00:00"
-        },
-        {
-          "title": "Angela Nissel faces down grief with a laugh",
-          "link": "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
-          "date": "2026-08-01T20:13:56+00:00"
         }
       ]
     },
@@ -327,29 +327,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
-          "link": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
-          "date": "2026-08-02T17:45:51+00:00"
+          "title": "Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust",
+          "link": "https://github.com/0xchasercat/draco/",
+          "date": "2026-08-02T20:48:45+00:00"
         },
         {
-          "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
-          "link": "https://github.com/graham33/nixos-dgx-spark",
-          "date": "2026-08-02T17:05:54+00:00"
+          "title": "AI Mania: From Tulips to Tokens",
+          "link": "https://seanhelvey.com/tools-and-their-tools/",
+          "date": "2026-08-02T20:48:28+00:00"
         },
         {
-          "title": "Pushes to arch AUR are suspendended right now.",
-          "link": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/",
-          "date": "2026-08-02T17:03:02+00:00"
+          "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
+          "link": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
+          "date": "2026-08-02T20:44:24+00:00"
         },
         {
-          "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-          "link": "https://github.com/wie-project/kakehashi",
-          "date": "2026-08-02T16:26:40+00:00"
+          "title": "Show HN: Make your Framework 12 sound like a creaky door",
+          "link": "https://github.com/ArcaEge/creakwork12",
+          "date": "2026-08-02T20:33:01+00:00"
         },
         {
-          "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
-          "link": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
-          "date": "2026-08-02T16:19:17+00:00"
+          "title": "Sharing an X11 Server Across Hosts with FamilyWild",
+          "link": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
+          "date": "2026-08-02T20:26:47+00:00"
         }
       ]
     },
@@ -362,6 +362,11 @@
           "title": "Atom is better than RSS, in ways that matter",
           "link": "https://chrismorgan.info/atom%3Erss",
           "date": "2026-08-02T04:40:17+00:00"
+        },
+        {
+          "title": "I'm (mostly) picking models on speed now, not intelligence",
+          "link": "https://martinalderson.com/posts/speed-vs-intelligence/",
+          "date": "2026-08-02T13:49:23+00:00"
         },
         {
           "title": "sizeof is surprisingly difficult to parse in c",
@@ -377,11 +382,6 @@
           "title": "Where's your website?",
           "link": "https://www.arscyni.cc/file/warez_your_website.html",
           "date": "2026-08-02T11:44:01+00:00"
-        },
-        {
-          "title": "I'm (mostly) picking models on speed now, not intelligence",
-          "link": "https://martinalderson.com/posts/speed-vs-intelligence/",
-          "date": "2026-08-02T13:49:23+00:00"
         }
       ]
     },
@@ -391,13 +391,18 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
+          "title": "[OpenAI] 中专站号池的疑惑",
+          "link": "https://www.v2ex.com/t/1231591#reply2",
+          "date": "2026-08-02T19:34:05+00:00"
+        },
+        {
           "title": "[分享发现] 问了 Claude、GPT、DeepSeek 同一个问题:\"如果你能删掉我一条聊天记录,你会删哪条?\" 三个回答绷不住了",
-          "link": "https://www.v2ex.com/t/1231590#reply0",
+          "link": "https://www.v2ex.com/t/1231590#reply1",
           "date": "2026-08-02T18:54:31+00:00"
         },
         {
           "title": "[分享创造] 一个人搞了个浏览器插件,量很小但很稳,聊聊为什么我不打算做大",
-          "link": "https://www.v2ex.com/t/1231589#reply1",
+          "link": "https://www.v2ex.com/t/1231589#reply2",
           "date": "2026-08-02T18:34:21+00:00"
         },
         {
@@ -409,11 +414,6 @@
           "title": "[Claude Code] 历时 29 天， 145 个用户， 306 亿 token 调用量！",
           "link": "https://www.v2ex.com/t/1231587#reply0",
           "date": "2026-08-02T17:07:05+00:00"
-        },
-        {
-          "title": "[分享发现] 总结了一下 Claude， Gpt， Deepseek 性格，分别发给他们看看对我总结的反应。",
-          "link": "https://www.v2ex.com/t/1231586#reply0",
-          "date": "2026-08-02T16:47:40+00:00"
         }
       ]
     },
@@ -600,6 +600,38 @@
       ]
     },
     {
+      "name": "Nature",
+      "category": "科研",
+      "url": "https://www.nature.com/nature.rss",
+      "items": [
+        {
+          "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
+          "link": "https://www.nature.com/articles/s41586-026-10921-w",
+          "date": "2026-07-31T00:00:00+00:00"
+        },
+        {
+          "title": "Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why",
+          "link": "https://www.nature.com/articles/d41586-026-02419-2",
+          "date": "2026-07-31T00:00:00+00:00"
+        },
+        {
+          "title": "The physics of fizz: why some bubbles are louder than others",
+          "link": "https://www.nature.com/articles/d41586-026-02334-6",
+          "date": "2026-07-31T00:00:00+00:00"
+        },
+        {
+          "title": "The power of ignorance and peering into the Milky Way: Books in brief",
+          "link": "https://www.nature.com/articles/d41586-026-02371-1",
+          "date": "2026-07-31T00:00:00+00:00"
+        },
+        {
+          "title": "Meat allergy is on the rise — what scientists want to know",
+          "link": "https://www.nature.com/articles/d41586-026-02362-2",
+          "date": "2026-07-31T00:00:00+00:00"
+        }
+      ]
+    },
+    {
       "name": "ScienceDaily",
       "category": "科研",
       "url": "https://www.sciencedaily.com/rss/all.xml",
@@ -633,7 +665,6 @@
     }
   ],
   "failed": [
-    "量子位",
-    "Nature"
+    "量子位"
   ]
 }
