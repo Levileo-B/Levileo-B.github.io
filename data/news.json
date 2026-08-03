@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T21:50:13+00:00",
+  "updated": "2026-08-03T02:12:40+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -7,14 +7,19 @@
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
         {
+          "title": "AI衝擊就業：中國畢業生的陣痛與機遇",
+          "link": "https://www.bbc.com/zhongwen/articles/cp8xzegl95jo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-03T01:19:18+00:00"
+        },
+        {
           "title": "特朗普表示同意取消對伊朗的打擊，前提是能「迅速」達成協議",
           "link": "https://www.bbc.com/zhongwen/articles/cly97n5k6j6o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-02T04:17:46+00:00"
         },
         {
-          "title": "西班牙移民危機如何引發政治風暴  社交媒體推波助瀾",
-          "link": "https://www.bbc.com/zhongwen/articles/cy07vj18epyo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-02T09:38:44+00:00"
+          "title": "讓人遍體鱗傷的24小時過後，國際足協與恩凡蒂諾如何走下去？",
+          "link": "https://www.bbc.com/zhongwen/articles/c5ywjq8ywp5o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-03T00:01:11+00:00"
         },
         {
           "title": "「台灣太美啦」：1000公里環台單車之旅為何令人著迷？",
@@ -25,11 +30,6 @@
           "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
           "link": "https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-01T09:56:01+00:00"
-        },
-        {
-          "title": "網傳胡錦濤舉家身亡　秦楓稱流傳帖文屬冒用",
-          "link": "https://www.bbc.com/zhongwen/articles/cx2r3xzp5z9o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-31T14:53:52+00:00"
         }
       ]
     },
@@ -41,7 +41,7 @@
         {
           "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
           "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-02T20:36:37+00:00"
+          "date": "2026-08-03T01:03:31+00:00"
         },
         {
           "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
@@ -71,6 +71,16 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
+          "title": "The change that may help you get a mortgage as a first-time buyer",
+          "link": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-02T23:16:32+00:00"
+        },
+        {
+          "title": "US and Japan jointly intervene to prop up yen in rare move",
+          "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-03T02:02:34+00:00"
+        },
+        {
           "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
           "link": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-01T12:41:17+00:00"
@@ -84,16 +94,6 @@
           "title": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
           "link": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss",
           "date": "2026-07-31T12:19:20+00:00"
-        },
-        {
-          "title": "AI firms must answer for rogue bots, says boss of hacked company",
-          "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-31T18:10:28+00:00"
-        },
-        {
-          "title": "Sainsbury's agrees to sell Argos for £120m",
-          "link": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-07-31T12:42:22+00:00"
         }
       ]
     },
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
+          "title": "U.S., Japan confirm coordinated yen intervention, signal readiness for more",
+          "link": "https://www.cnbc.com/2026/08/03/yen-intervention-us-japan-trump-bessent-katayama.html",
+          "date": "2026-08-03T00:59:33+00:00"
+        },
+        {
+          "title": "Oil drops over 4% after Trump calls off planned strike on Iran",
+          "link": "https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
+          "date": "2026-08-02T23:33:07+00:00"
+        },
+        {
+          "title": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
+          "link": "https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html",
+          "date": "2026-08-02T22:17:47+00:00"
+        },
+        {
           "title": "Trump cancels planned attack on Iran, saying he reached an agreement over the 'perimeters of a deal'",
           "link": "https://www.cnbc.com/2026/08/02/trump-planned-attack-on-iran-canceled-after-reaching-outline-of-deal.html",
           "date": "2026-08-02T10:18:35+00:00"
         },
         {
-          "title": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
-          "link": "https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html",
-          "date": "2026-08-02T20:12:41+00:00"
-        },
-        {
           "title": "'Spider-Man: Brand New Day' chases 'Avengers: Endgame' opening record with $355 million domestic debut",
           "link": "https://www.cnbc.com/2026/08/02/spider-man-brand-new-day-box-office-355-million-domestic-opening.html",
           "date": "2026-08-02T15:54:05+00:00"
-        },
-        {
-          "title": "Why flights are so expensive and will likely stay that way",
-          "link": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
-          "date": "2026-08-02T12:00:01+00:00"
-        },
-        {
-          "title": "GOP Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in House, needs 'serious psychological help'",
-          "link": "https://www.cnbc.com/2026/08/02/bernie-moreno-max-miller-house-psychological-help-emily-moreno.html",
-          "date": "2026-08-02T19:13:47+00:00"
         }
       ]
     },
@@ -134,6 +134,16 @@
       "category": "科技",
       "url": "https://36kr.com/feed",
       "items": [
+        {
+          "title": "让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
+          "link": "https://36kr.com/p/3919025939246727?f=rss",
+          "date": ""
+        },
+        {
+          "title": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
+          "link": "https://36kr.com/p/3923043072634498?f=rss",
+          "date": ""
+        },
         {
           "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
           "link": "https://36kr.com/p/3920595518533250?f=rss",
@@ -148,16 +158,6 @@
           "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
           "link": "https://36kr.com/p/3919386961177985?f=rss",
           "date": ""
-        },
-        {
-          "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
-          "link": "https://36kr.com/p/3910776673064073?f=rss",
-          "date": ""
-        },
-        {
-          "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
-          "link": "https://36kr.com/p/3919378312670857?f=rss",
-          "date": ""
         }
       ]
     },
@@ -166,6 +166,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "派早报：DeepSeek V4 Flash 正式版发布",
+          "link": "https://sspai.com/post/113014",
+          "date": "2026-08-02T22:49:31+00:00"
+        },
         {
           "title": "从拉萨到雅鲁藏布江大峡谷，我的春日西藏游记",
           "link": "https://sspai.com/post/112843",
@@ -185,11 +190,6 @@
           "title": "本周看什么 | 最近值得一看的 10 部作品",
           "link": "https://sspai.com/post/112961",
           "date": "2026-07-31T09:57:39+00:00"
-        },
-        {
-          "title": "App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图",
-          "link": "https://sspai.com/post/112730",
-          "date": "2026-07-31T07:00:36+00:00"
         }
       ]
     },
@@ -198,6 +198,11 @@
       "category": "科技",
       "url": "https://www.ifanr.com/feed",
       "items": [
+        {
+          "title": "早报｜MacBook Air严重缺货/OpenAI新模型突破10项菲尔兹奖级难题/微信地震预警能力迎来更新",
+          "link": "https://www.ifanr.com/1673624?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-08-03T00:26:20+00:00"
+        },
         {
           "title": "马斯克要用 AI 打造《奥德赛》电影，我用小云雀 Seedance 2.5 提前实现了",
           "link": "https://www.ifanr.com/1673556?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -217,11 +222,6 @@
           "title": "25.99 万元预售，小米澎程 N70 Max 开始抢家庭用户，理想问界多了一个对手",
           "link": "https://www.ifanr.com/1673535?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-07-31T08:21:22+00:00"
-        },
-        {
-          "title": "29.99 万元！小米澎程 N90 开启预售，同级唯一大七座 SUV",
-          "link": "https://www.ifanr.com/1673511?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-07-31T07:03:01+00:00"
         }
       ]
     },
@@ -263,6 +263,11 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
+          "link": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
+          "date": "2026-08-02T21:53:15+00:00"
+        },
+        {
           "title": "Fender’s CEO seems to think your bandmates are just analog AI",
           "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
           "date": "2026-08-02T19:40:58+00:00"
@@ -281,11 +286,6 @@
           "title": "HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was",
           "link": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
           "date": "2026-08-01T06:07:38+00:00"
-        },
-        {
-          "title": "Is paying artists enough to convince them to embrace AI?",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-          "date": "2026-07-31T21:16:29+00:00"
         }
       ]
     },
@@ -327,29 +327,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust",
-          "link": "https://github.com/0xchasercat/draco/",
-          "date": "2026-08-02T20:48:45+00:00"
+          "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
+          "link": "https://www.rfc-editor.org/rfc/rfc9851.html",
+          "date": "2026-08-03T01:23:26+00:00"
         },
         {
-          "title": "AI Mania: From Tulips to Tokens",
-          "link": "https://seanhelvey.com/tools-and-their-tools/",
-          "date": "2026-08-02T20:48:28+00:00"
+          "title": "Show HN: Isopolis – isometric pixel map of SF",
+          "link": "https://sf.isopolis.city/",
+          "date": "2026-08-03T00:46:38+00:00"
         },
         {
-          "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
-          "link": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
-          "date": "2026-08-02T20:44:24+00:00"
+          "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+          "link": "https://github.com/johnsonjh/cpm386",
+          "date": "2026-08-03T00:38:10+00:00"
         },
         {
-          "title": "Show HN: Make your Framework 12 sound like a creaky door",
-          "link": "https://github.com/ArcaEge/creakwork12",
-          "date": "2026-08-02T20:33:01+00:00"
+          "title": "Show HN: ssh ssh.place",
+          "link": "https://ssh.place",
+          "date": "2026-08-03T00:23:21+00:00"
         },
         {
-          "title": "Sharing an X11 Server Across Hosts with FamilyWild",
-          "link": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
-          "date": "2026-08-02T20:26:47+00:00"
+          "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+          "link": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+          "date": "2026-08-03T00:12:16+00:00"
         }
       ]
     },
@@ -359,14 +359,14 @@
       "url": "https://lobste.rs/rss",
       "items": [
         {
-          "title": "Atom is better than RSS, in ways that matter",
-          "link": "https://chrismorgan.info/atom%3Erss",
-          "date": "2026-08-02T04:40:17+00:00"
-        },
-        {
           "title": "I'm (mostly) picking models on speed now, not intelligence",
           "link": "https://martinalderson.com/posts/speed-vs-intelligence/",
           "date": "2026-08-02T13:49:23+00:00"
+        },
+        {
+          "title": "Atom is better than RSS, in ways that matter",
+          "link": "https://chrismorgan.info/atom%3Erss",
+          "date": "2026-08-02T04:40:17+00:00"
         },
         {
           "title": "sizeof is surprisingly difficult to parse in c",
@@ -374,14 +374,14 @@
           "date": "2026-08-02T06:01:51+00:00"
         },
         {
+          "title": "Getting Started with Google Wave (2010)",
+          "link": "https://www.youtube.com/watch?v=eKUAqNGVwX0",
+          "date": "2026-08-02T17:25:00+00:00"
+        },
+        {
           "title": "Prevent cognitive debt by manually retyping LLM-generated code",
           "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
           "date": "2026-08-02T10:31:38+00:00"
-        },
-        {
-          "title": "Where's your website?",
-          "link": "https://www.arscyni.cc/file/warez_your_website.html",
-          "date": "2026-08-02T11:44:01+00:00"
         }
       ]
     },
@@ -391,29 +391,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[OpenAI] 中专站号池的疑惑",
-          "link": "https://www.v2ex.com/t/1231591#reply2",
-          "date": "2026-08-02T19:34:05+00:00"
+          "title": "[程序员] 在模拟 Linux 终端后，我又做了个 JS Repl 版博客终端",
+          "link": "https://www.v2ex.com/t/1231642#reply0",
+          "date": "2026-08-03T02:11:11+00:00"
         },
         {
-          "title": "[分享发现] 问了 Claude、GPT、DeepSeek 同一个问题:\"如果你能删掉我一条聊天记录,你会删哪条?\" 三个回答绷不住了",
-          "link": "https://www.v2ex.com/t/1231590#reply1",
-          "date": "2026-08-02T18:54:31+00:00"
+          "title": "[问与答] 前端代码全部让 ai 写的话, 选 TailwindCSS ?",
+          "link": "https://www.v2ex.com/t/1231641#reply0",
+          "date": "2026-08-03T02:11:06+00:00"
         },
         {
-          "title": "[分享创造] 一个人搞了个浏览器插件,量很小但很稳,聊聊为什么我不打算做大",
-          "link": "https://www.v2ex.com/t/1231589#reply2",
-          "date": "2026-08-02T18:34:21+00:00"
+          "title": "[求职] [求职][全职远程|深圳] 全栈|后端| PHP &Laravel| Python |Node",
+          "link": "https://www.v2ex.com/t/1231640#reply0",
+          "date": "2026-08-03T02:10:01+00:00"
         },
         {
-          "title": "[分享创造] AI 图像工具",
-          "link": "https://www.v2ex.com/t/1231588#reply0",
-          "date": "2026-08-02T17:51:41+00:00"
+          "title": "[推广] 来玩 AgentDuel ！瓜分 $200 token 额度，参赛即送 $3 体验额度！",
+          "link": "https://www.v2ex.com/t/1231639#reply0",
+          "date": "2026-08-03T02:08:01+00:00"
         },
         {
-          "title": "[Claude Code] 历时 29 天， 145 个用户， 306 亿 token 调用量！",
-          "link": "https://www.v2ex.com/t/1231587#reply0",
-          "date": "2026-08-02T17:07:05+00:00"
+          "title": "[分享创造] Quotify: 一个自用的 Windows 端的 Codexbar alternative",
+          "link": "https://www.v2ex.com/t/1231638#reply0",
+          "date": "2026-08-03T02:07:49+00:00"
         }
       ]
     },
@@ -568,6 +568,38 @@
       ]
     },
     {
+      "name": "量子位",
+      "category": "AI",
+      "url": "https://www.qbitai.com/feed",
+      "items": [
+        {
+          "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
+          "link": "https://www.qbitai.com/2026/08/464781.html",
+          "date": "2026-08-01T10:45:46+00:00"
+        },
+        {
+          "title": "获奖之后，王虹最想感谢的人",
+          "link": "https://www.qbitai.com/2026/08/464761.html",
+          "date": "2026-08-01T10:38:47+00:00"
+        },
+        {
+          "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
+          "link": "https://www.qbitai.com/2026/08/464713.html",
+          "date": "2026-08-01T10:33:18+00:00"
+        },
+        {
+          "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+          "link": "https://www.qbitai.com/2026/08/464693.html",
+          "date": "2026-08-01T05:02:49+00:00"
+        },
+        {
+          "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+          "link": "https://www.qbitai.com/2026/08/464532.html",
+          "date": "2026-08-01T04:53:33+00:00"
+        }
+      ]
+    },
+    {
       "name": "MIT Technology Review",
       "category": "AI",
       "url": "https://www.technologyreview.com/feed/",
@@ -663,8 +695,5 @@
         }
       ]
     }
-  ],
-  "failed": [
-    "量子位"
   ]
 }
