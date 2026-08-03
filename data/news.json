@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T17:06:23+00:00",
+  "updated": "2026-08-03T19:23:50+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,6 +39,11 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+          "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-03T18:04:30+00:00"
+        },
+        {
           "title": "Rhine falls to record low levels as drought strains Europe's rivers",
           "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-03T16:27:43+00:00"
@@ -46,7 +51,7 @@
         {
           "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
           "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-03T15:59:48+00:00"
+          "date": "2026-08-03T17:41:27+00:00"
         },
         {
           "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
@@ -57,11 +62,6 @@
           "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
           "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-03T03:32:21+00:00"
-        },
-        {
-          "title": "Russian anti-war politician says he has fled the country",
-          "link": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-03T15:41:08+00:00"
         }
       ]
     },
@@ -110,22 +110,22 @@
         {
           "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
           "link": "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
-          "date": "2026-08-03T16:30:54+00:00"
+          "date": "2026-08-03T17:28:17+00:00"
         },
         {
-          "title": "FAA clears smallest Boeing 737 Max to fly after years of delays",
-          "link": "https://www.cnbc.com/2026/08/03/faa-boeing-737-max-certification.html",
-          "date": "2026-08-03T17:04:44+00:00"
+          "title": "Trump says Exxon and Chevron made 'too much money' off high oil prices during Iran conflict: 'I don't like it'",
+          "link": "https://www.cnbc.com/2026/08/03/trump-says-exxon-and-chevron-made-too-much-money-off-high-oil-prices-during-iran-conflict-i-dont-like-it.html",
+          "date": "2026-08-03T19:19:33+00:00"
         },
         {
-          "title": "White House to host AI companies Tuesday to review new model-testing framework",
-          "link": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
-          "date": "2026-08-03T16:56:52+00:00"
+          "title": "Michigan confirms first two deaths in cyclospora outbreak",
+          "link": "https://www.cnbc.com/2026/08/03/cyclospora-outbreak-first-two-deaths-reported-in-michigan.html",
+          "date": "2026-08-03T18:32:42+00:00"
         },
         {
-          "title": "Trump insists Iran talks are underway despite Tehran's 'duplicitous' denials",
-          "link": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html",
-          "date": "2026-08-03T16:39:37+00:00"
+          "title": "Can Palantir pull off a Microsoft-style comeback? Here's what options say",
+          "link": "https://www.cnbc.com/2026/08/03/can-palantir-pull-off-a-microsoft-style-comeback-heres-what-options-say.html",
+          "date": "2026-08-03T18:34:52+00:00"
         }
       ]
     },
@@ -263,29 +263,29 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Europe’s AI labeling and transparency rules are now in effect",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "date": "2026-08-03T17:46:48+00:00"
+        },
+        {
+          "title": "The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished",
+          "link": "https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale",
+          "date": "2026-08-03T17:17:54+00:00"
+        },
+        {
           "title": "Microsoft is bringing Xbox 360 games to PC",
           "link": "https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program",
-          "date": "2026-08-03T16:52:21+00:00"
+          "date": "2026-08-03T17:53:30+00:00"
         },
         {
           "title": "Bluesky’s new CEO wants a big tent, not a bubble",
           "link": "https://www.theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere",
-          "date": "2026-08-03T16:12:37+00:00"
+          "date": "2026-08-03T19:21:36+00:00"
         },
         {
           "title": "Palworld’s expanding to mobile with a new MMORPG",
           "link": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo",
           "date": "2026-08-03T14:58:10+00:00"
-        },
-        {
-          "title": "Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend",
-          "link": "https://www.theverge.com/entertainment/974411/spider-man-the-odyssey-imax",
-          "date": "2026-08-03T14:26:47+00:00"
-        },
-        {
-          "title": "Samsung’s 2TB 9100 Pro SSD is actually somewhat reasonably priced",
-          "link": "https://www.theverge.com/gadgets/974391/samsung-nvme-ssd-2tb-steelseries-arctis-omni-pixel-10a-deal-sale",
-          "date": "2026-08-03T14:16:13+00:00"
         }
       ]
     },
@@ -294,6 +294,11 @@
       "category": "科技",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
+          "link": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
+          "date": "2026-08-03T16:10:22+00:00"
+        },
         {
           "title": "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
           "link": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/",
@@ -313,11 +318,6 @@
           "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
           "link": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
           "date": "2026-08-01T18:20:11+00:00"
-        },
-        {
-          "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
-          "link": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
-          "date": "2026-08-01T15:19:04+00:00"
         }
       ]
     },
@@ -327,29 +327,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-          "link": "https://hoplite.sh",
-          "date": "2026-08-03T16:32:06+00:00"
+          "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
+          "link": "https://blog.cloudflare.com/billable-usage-api/",
+          "date": "2026-08-03T17:18:06+00:00"
         },
         {
-          "title": "Ten advances in mathematics and theoretical computer science",
-          "link": "https://openai.com/index/ten-advances-in-mathematics/",
-          "date": "2026-08-03T16:27:12+00:00"
+          "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+          "link": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+          "date": "2026-08-03T17:08:46+00:00"
         },
         {
-          "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
-          "link": "https://armature.tech/",
-          "date": "2026-08-03T16:17:59+00:00"
+          "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+          "link": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+          "date": "2026-08-03T17:02:10+00:00"
         },
         {
-          "title": "What's the largest software project AI can complete on its own?",
-          "link": "https://epoch.ai/MirrorCode",
-          "date": "2026-08-03T16:16:40+00:00"
+          "title": "Use Task Runners for Common Coding Tasks",
+          "link": "https://hamvocke.com/blog/task-runners/",
+          "date": "2026-08-03T16:51:51+00:00"
         },
         {
-          "title": "Explanation of INT8 ConvRot (FP8 is no longer needed)",
-          "link": "https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en",
-          "date": "2026-08-03T16:07:09+00:00"
+          "title": "SearXNG in Rust",
+          "link": "https://github.com/MikeLuu99/searxng-rust",
+          "date": "2026-08-03T16:41:40+00:00"
         }
       ]
     },
@@ -369,6 +369,11 @@
           "date": "2026-08-03T13:31:05+00:00"
         },
         {
+          "title": "help wanted",
+          "link": "https://lake.computer/blog/help-wanted/",
+          "date": "2026-08-03T14:20:18+00:00"
+        },
+        {
           "title": "Your JSON Is Lying to You",
           "link": "https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/",
           "date": "2026-08-03T01:40:30+00:00"
@@ -377,11 +382,6 @@
           "title": "9front \"THIS WAS SUPPOSED TO BE FUN\" Released",
           "link": "https://9front.org/releases/2026/08/02/0/",
           "date": "2026-08-03T04:34:48+00:00"
-        },
-        {
-          "title": "help wanted",
-          "link": "https://lake.computer/blog/help-wanted/",
-          "date": "2026-08-03T14:20:18+00:00"
         }
       ]
     },
@@ -391,29 +391,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
+          "title": "[程序员] 想收集下大家是怎么使用 codex 这类工具开发(新/老)软件的",
+          "link": "https://www.v2ex.com/t/1231870#reply0",
+          "date": "2026-08-03T18:32:01+00:00"
+        },
+        {
+          "title": "[分享创造] 有趣新闻头条生成网站",
+          "link": "https://www.v2ex.com/t/1231869#reply1",
+          "date": "2026-08-03T18:16:58+00:00"
+        },
+        {
+          "title": "[搜索引擎优化] 做了一个导航站,收集了 200 个国外国内可以发外链的平台",
+          "link": "https://www.v2ex.com/t/1231868#reply0",
+          "date": "2026-08-03T17:36:28+00:00"
+        },
+        {
+          "title": "[Solana] 20260803 - sol.build 上的稳定性修复和升级",
+          "link": "https://www.v2ex.com/t/1231867#reply0",
+          "date": "2026-08-03T17:26:44+00:00"
+        },
+        {
           "title": "[OpenAI] 重新启用 gskctl, 一个基于 dsl 的代码生成工具",
           "link": "https://www.v2ex.com/t/1231866#reply0",
           "date": "2026-08-03T16:56:46+00:00"
-        },
-        {
-          "title": "[酷工作] 深圳外企： Senior Data engineer（可以非金融行业，年薪可到 100W，英语口语流利）",
-          "link": "https://www.v2ex.com/t/1231865#reply0",
-          "date": "2026-08-03T16:51:27+00:00"
-        },
-        {
-          "title": "[Apple] Mellow 正式发布到 app store 喽，欢迎大家试用哈👋",
-          "link": "https://www.v2ex.com/t/1231864#reply0",
-          "date": "2026-08-03T16:34:43+00:00"
-        },
-        {
-          "title": "[分享发现] 莫名其妙被 Chatgpt 骂了，这是正常现象吗？",
-          "link": "https://www.v2ex.com/t/1231862#reply4",
-          "date": "2026-08-03T16:31:00+00:00"
-        },
-        {
-          "title": "[分享创造] 做了一个在线图片去模糊工具，欢迎大家帮忙测试",
-          "link": "https://www.v2ex.com/t/1231861#reply0",
-          "date": "2026-08-03T16:15:14+00:00"
         }
       ]
     },
@@ -605,6 +605,11 @@
       "url": "https://www.technologyreview.com/feed/",
       "items": [
         {
+          "title": "Trump’s AI protectionism has come for robotics",
+          "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+          "date": "2026-08-03T18:43:30+00:00"
+        },
+        {
           "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
           "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
           "date": "2026-08-03T12:08:00+00:00"
@@ -623,11 +628,6 @@
           "title": "Montana’s new “right to try” law can’t come soon enough for some",
           "link": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
           "date": "2026-07-31T09:00:00+00:00"
-        },
-        {
-          "title": "Montana’s plan to become an experimental medical hub just pushed forward",
-          "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
-          "date": "2026-07-30T17:10:00+00:00"
         }
       ]
     },
