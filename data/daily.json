@@ -1,84 +1,48 @@
 {
-  "updated": "2026-08-03T02:12:40+00:00",
+  "updated": "2026-08-04T11:19:17+00:00",
   "leetcode": {
-    "date": "2026-08-03",
-    "id": "1406",
-    "title": "Stone Game III",
-    "titleEn": "Stone Game III",
-    "slug": "stone-game-iii",
-    "difficulty": "Hard",
+    "date": "2026-08-04",
+    "id": "3731",
+    "title": "Find Missing Elements",
+    "titleEn": "Find Missing Elements",
+    "slug": "find-missing-elements",
+    "difficulty": "Easy",
     "tags": [
       "Array",
-      "Math",
-      "Dynamic Programming",
-      "Game Theory"
+      "Hash Table",
+      "Sorting"
     ],
-    "link": "https://leetcode.com/problems/stone-game-iii/",
+    "link": "https://leetcode.com/problems/find-missing-elements/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Russian battleship Petropavlovsk (1894)",
-    "text": "Petropavlovsk was the lead ship of her class of three pre-dreadnought battleships built for the Imperial Russian Navy during the last decade of the 19th century. The ship was sent to the Far East almost immediately after entering service in 1899, where she participated in the suppression of the Boxer Rebellion the next year and was the flagship of the First Pacific Squadron.",
-    "words": 63,
-    "url": "https://en.wikipedia.org/wiki/Russian_battleship_Petropavlovsk_(1894)",
-    "date": "2026-08-03",
+    "title": "Black Prince's chevauchée of 1356",
+    "text": "The Black Prince's chevauchée of 1356 was a large-scale mounted raid by an Anglo-Gascon force under the command of Edward, the Black Prince, between 4 August and 2 October 1356 as a part of the Hundred Years' War. The war had broken out in 1337, but a truce and the ravages of the Black Death had restricted the extent of the fighting since 1347. In 1355 the French king, John II, determined to resume full-scale war. That autumn, while Edward III of England threatened northern France, his son, Edward of Woodstock, later known as the Black Prince, carried out a devastating mounted raid, or chevauchée: an Anglo-Gascon army marched from the English possession of Gascony 675 miles (1,086 km) to Narbonne and back. The French refused battle, despite suffering enormous economic damage.",
+    "words": 132,
+    "url": "https://en.wikipedia.org/wiki/Black_Prince's_chevauch%C3%A9e_of_1356",
+    "date": "2026-08-04",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Operation Doorstep",
-    "creator": "Byron, Inc.",
-    "year": "",
-    "url": "https://archive.org/download/202270_Operation_Doorstep/202270_Operation_Doorstep_master.intros.mp4",
-    "page": "https://archive.org/details/202270_Operation_Doorstep",
-    "date": "2026-08-03",
+    "title": "Oklahoma: Heartland USA",
+    "creator": "University of Oklahoma",
+    "year": "1953",
+    "url": "https://archive.org/download/0819_Oklahoma_Heartland_USA_02_00_56_00/0819_Oklahoma_Heartland_USA_02_00_56_00.m4v",
+    "page": "https://archive.org/details/0819_Oklahoma_Heartland_USA_02_00_56_00",
+    "date": "2026-08-04",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "DJ L'embrouille - Netlabel 2006 Week 20 Radiomix [Mel030]",
-      "artist": "DJ L'embrouille",
-      "url": "https://archive.org/download/mel030/Netlabel2006MixWeek20_vbr.mp3",
-      "page": "https://archive.org/details/mel030",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Jaan Patterson - 'Ergo Protagonist'",
-      "artist": "Jaan Patterson",
-      "url": "https://archive.org/download/sPE_0134/Jaan_Patterson_-_Ergo_Protagonist.mp3",
-      "page": "https://archive.org/details/sPE_0134",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "Dari Kita Untuk Kamu Mixtapes - Painsugar",
-      "artist": "",
-      "url": "https://archive.org/download/DariKitaUntukKamuMixtapesPainsugar/Dari%20Kita%20Untuk%20Kamu%20Mixtapes%20-%20Painsugar.mp3",
-      "page": "https://archive.org/details/DariKitaUntukKamuMixtapesPainsugar",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "[DLR062] Koobaatoo Asparagus - Ganja Cowboyz",
-      "artist": "",
-      "url": "https://archive.org/download/DLR062/01%20-%20Run%20Away%20Deer.mp3",
-      "page": "https://archive.org/details/DLR062",
-      "license": "http://creativecommons.org/licenses/by-sa/3.0/"
-    },
-    {
-      "title": "The Autopsy Report Online Metal Promo Special Show No 598 - 12th - 18th October 2015",
-      "artist": "Gramie Dee",
-      "url": "https://archive.org/download/AR1218Oct15/AR-12-18Oct15.mp3",
-      "page": "https://archive.org/details/AR1218Oct15",
+      "title": "[Eg0_108] L'anorkhestra: Smashed Bulbs Enlightment",
+      "artist": "L'anorkhestra",
+      "url": "https://archive.org/download/eg0_108/1%20Head%20full%20of%20night%20bulbs.mp3",
+      "page": "https://archive.org/details/eg0_108",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "New Big Black Mr. Super-Soul Bad Sugar Man - October 14, 2000 [BNW014]",
-      "artist": "New Big Black Mr. Super-Soul Bad Sugar Man",
-      "url": "https://archive.org/download/BNW014/BNW014-01-Movement_I.mp3",
-      "page": "https://archive.org/details/BNW014",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
     },
     {
       "title": "[GV-418] Sokpb Avabodha - Velitchiye Gor",
@@ -88,39 +52,74 @@
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "[Eg0_239] Failure Circle : Frozen Clinamen #5",
-      "artist": "Failure Circle",
-      "url": "https://archive.org/download/eg0_239/Frozen%20Clinamen%205.mp3",
-      "page": "https://archive.org/details/eg0_239",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-    },
-    {
-      "title": "Diagram Of Square",
-      "artist": "Charles Rice Goff III",
-      "url": "https://archive.org/download/DiagramOfSquare/24November2010.mp3",
-      "page": "https://archive.org/details/DiagramOfSquare",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "[ET026] the wolfgirl liberation - The Lighthouse",
-      "artist": "the wolfgirl liberation",
-      "url": "https://archive.org/download/et026_thewolfgirlliberation_thelighthouse/1%20Stupor.mp3",
-      "page": "https://archive.org/details/et026_thewolfgirlliberation_thelighthouse",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "[ENDE482] Noistruct - Live At Noize Picnic 2015",
-      "artist": "",
-      "url": "https://archive.org/download/ende482-noistruct-live-at-noize-picnic-2015/01%20-%20Noistruct%20-%20Live%20At%20Noize%20Picnic%202015.mp3",
-      "page": "https://archive.org/details/ende482-noistruct-live-at-noize-picnic-2015",
+      "title": "feederback",
+      "artist": "Brian W Redfern",
+      "url": "https://archive.org/download/feederback/feederback.mp3",
+      "page": "https://archive.org/details/feederback",
       "license": "Creative Commons"
     },
     {
-      "title": "Gusev K.P. - Vb K.",
+      "title": "[Siro497] Television Sky - Gorgeous EP",
       "artist": "",
-      "url": "https://archive.org/download/pc2011-16/pc2011-16_-_gusev_kp_-_01_-_vb_k.mp3",
-      "page": "https://archive.org/details/pc2011-16",
+      "url": "https://archive.org/download/siro497TelevisionSky-GorgeousEp/01-TelevisionSky-4U.mp3",
+      "page": "https://archive.org/details/siro497TelevisionSky-GorgeousEp",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "oceanrising - growth (2011) [diss017]",
+      "artist": "oceanrising",
+      "url": "https://archive.org/download/diss017/01_redhead.mp3",
+      "page": "https://archive.org/details/diss017",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "EG111111 - Full Turn (2014) - Cota 303 Label",
+      "artist": "EG111111",
+      "url": "https://archive.org/download/COTA004/01Bug.mp3",
+      "page": "https://archive.org/details/COTA004",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "[ENDE008] Etiolation - Etiolation",
+      "artist": "",
+      "url": "https://archive.org/download/ende008-etiolation/01%20-%20Etiolation%20-%20Piano%20Forte.mp3",
+      "page": "https://archive.org/details/ende008-etiolation",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "[SAR_085].Femau - Topeng",
+      "artist": "Hark! Its A Crawling Tar Tar, Extreme Decay, Squadron47, Cekal, Rajasinga",
+      "url": "https://archive.org/download/sar_085.femau-Topeng/03.JualDakiTukSesuapNasiharkItsACrawlingTarTarCover.mp3",
+      "page": "https://archive.org/details/sar_085.femau-Topeng",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Thomas Park- Dead City Dub The Remixes [treetrunk 456]",
+      "artist": "Thomas Park",
+      "url": "https://archive.org/download/DeadCityDubTheRemixes/Dead_City_Dub_Remix_1.mp3",
+      "page": "https://archive.org/details/DeadCityDubTheRemixes",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    {
+      "title": "[DADA171] Figurative Theatre - Early Works 1999-2006",
+      "artist": "Figurative Theatre",
+      "url": "https://archive.org/download/DADA171/00FigurativeTheatreConversationWithAMachine.mp3",
+      "page": "https://archive.org/details/DADA171",
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/nl/"
+    },
+    {
+      "title": "Five Suspicious Nights At Uncle Freds House",
+      "artist": "Ryder Thomas",
+      "url": "https://archive.org/download/five-suspicious-nights-at-uncle-freds-house/Ryder%20Thomas%20-%20Five%20Suspicious%20Nights%20at%20Uncle%20Fred%27s%20House/Five_Suspicious_Nights_at_Uncle_Freds_House.mp3",
+      "page": "https://archive.org/details/five-suspicious-nights-at-uncle-freds-house",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Fascinating Earthbound Objects - Coordinate Points",
+      "artist": "Fascinating Earthbound Objects",
+      "url": "https://archive.org/download/Coordinate_Points/fascinating_earthbound_objects-01-overcast.mp3",
+      "page": "https://archive.org/details/Coordinate_Points",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     }
   ]
 }
