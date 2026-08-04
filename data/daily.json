@@ -1,126 +1,125 @@
 {
-  "updated": "2026-08-03T22:02:45+00:00",
+  "updated": "2026-08-04T01:58:29+00:00",
   "leetcode": {
-    "date": "2026-08-03",
-    "id": "1406",
-    "title": "Stone Game III",
-    "titleEn": "Stone Game III",
-    "slug": "stone-game-iii",
-    "difficulty": "Hard",
+    "date": "2026-08-04",
+    "id": "3731",
+    "title": "Find Missing Elements",
+    "titleEn": "Find Missing Elements",
+    "slug": "find-missing-elements",
+    "difficulty": "Easy",
     "tags": [
       "Array",
-      "Math",
-      "Dynamic Programming",
-      "Minimax"
+      "Hash Table",
+      "Sorting"
     ],
-    "link": "https://leetcode.com/problems/stone-game-iii/",
+    "link": "https://leetcode.com/problems/find-missing-elements/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Russian battleship Petropavlovsk (1894)",
-    "text": "Petropavlovsk was the lead ship of her class of three pre-dreadnought battleships built for the Imperial Russian Navy during the last decade of the 19th century. The ship was sent to the Far East almost immediately after entering service in 1899, where she participated in the suppression of the Boxer Rebellion the next year and served as the flagship of the First Pacific Squadron.",
-    "words": 64,
-    "url": "https://en.wikipedia.org/wiki/Russian_battleship_Petropavlovsk_(1894)",
-    "date": "2026-08-03",
+    "title": "Black Prince's chevauchée of 1356",
+    "text": "The Black Prince's chevauchée of 1356 was a large-scale mounted raid by an Anglo-Gascon force under the command of Edward, the Black Prince, between 4 August and 2 October 1356 as a part of the Hundred Years' War. The war had broken out in 1337, but a truce and the ravages of the Black Death had restricted the extent of the fighting since 1347. In 1355 the French king, John II, determined to resume full-scale war. That autumn, while Edward III of England threatened northern France, his son, Edward of Woodstock, later known as the Black Prince, carried out a devastating mounted raid, or chevauchée: an Anglo-Gascon army marched from the English possession of Gascony 675 miles (1,086 km) to Narbonne and back. The French refused battle, despite suffering enormous economic damage.",
+    "words": 132,
+    "url": "https://en.wikipedia.org/wiki/Black_Prince's_chevauch%C3%A9e_of_1356",
+    "date": "2026-08-04",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Home Movie: 004167",
-    "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/202025_Home_Movie_004167/202025_Home_Movie_004167_master.intros.mp4",
-    "page": "https://archive.org/details/202025_Home_Movie_004167",
-    "date": "2026-08-03",
+    "title": "Choosing for Happiness",
+    "creator": "Affiliated Film Producers",
+    "year": "1950",
+    "url": "https://archive.org/download/Choosing1950/Choosing1950_512kb.mp4",
+    "page": "https://archive.org/details/Choosing1950",
+    "date": "2026-08-04",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "DJ 4RCA$H - x SOFM (Single) (2018)",
-      "artist": "DJ 4RCA$H",
-      "url": "https://archive.org/download/IBR_770/01.%20x%20SOFM.mp3",
-      "page": "https://archive.org/details/IBR_770",
-      "license": "Creative Commons"
+      "title": "Saved by his Grace",
+      "artist": "Scottish Border Quartet",
+      "url": "https://archive.org/download/raretunes_456_saved-his-grace/raretunesbordersgrace.mp3",
+      "page": "https://archive.org/details/raretunes_456_saved-his-grace",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/scotland/"
     },
     {
-      "title": "Impulsantwort + Pharmakustik - Antinomie (ca284)",
-      "artist": "Impulsantwort + Pharmakustik",
-      "url": "https://archive.org/download/ca284_ip/01_gra_n2.mp3",
-      "page": "https://archive.org/details/ca284_ip",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "DIENSTbar @ dfm.nu Transmission No. 195 Special Theme: Get The Noise Session",
-      "artist": "DIENSTbar",
-      "url": "https://archive.org/download/dbdfmnu195/dbdfmnu195.mp3",
-      "page": "https://archive.org/details/dbdfmnu195",
+      "title": "[ET026] the wolfgirl liberation - The Lighthouse",
+      "artist": "the wolfgirl liberation",
+      "url": "https://archive.org/download/et026_thewolfgirlliberation_thelighthouse/1%20Stupor.mp3",
+      "page": "https://archive.org/details/et026_thewolfgirlliberation_thelighthouse",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "Bubamara Brass Band - Bubamarija / Kashtanizma (EP) (ca457)",
-      "artist": "Bubamara Brass Band",
-      "url": "https://archive.org/download/ca457_bbb/01-Bubamara.mp3",
-      "page": "https://archive.org/details/ca457_bbb",
+      "title": "Ice Guild Kaiser - Rain 2 [wh235]",
+      "artist": "C.P. McDill",
+      "url": "https://archive.org/download/wh235/wh235_01_Ice-Guild-Kaiser_Rain-2.mp3",
+      "page": "https://archive.org/details/wh235",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
+    },
+    {
+      "title": "Ice Guild Kaiser - Rain [wh201]",
+      "artist": "C.P. McDill",
+      "url": "https://archive.org/download/wh201/wh201_01_Ice-Guild-Kaiser_Rain.mp3",
+      "page": "https://archive.org/details/wh201",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
+    },
+    {
+      "title": "NWTWO0112-Howitzer-Good For Nothing",
+      "artist": "Howitzer",
+      "url": "https://archive.org/download/Nwtwo0112-howitzer-goodForNothing/Nwtwo0112-howitzer-goodForNothing.mp3",
+      "page": "https://archive.org/details/Nwtwo0112-howitzer-goodForNothing",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Gabriel Sanchez - Algorithmic Composition Works I (ca254)",
-      "artist": "Gabriel Sanchez",
-      "url": "https://archive.org/download/ca254_gs/01_Asynchronous_Frustration_I.mp3",
-      "page": "https://archive.org/details/ca254_gs",
+      "title": "O Colecionador de Sons_Emissao # 51_2012.05.21",
+      "artist": "luis antero",
+      "url": "https://archive.org/download/OColecionadorDeSons_emissao51_2012.05.21/Ocds51.mp3",
+      "page": "https://archive.org/details/OColecionadorDeSons_emissao51_2012.05.21",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Enough Records Radio Show #039",
-      "artist": "ps",
-      "url": "https://archive.org/download/enrshow039_enough_records_radio_show__039/00_ps_-_enough_records_radio_show__039.mp3",
-      "page": "https://archive.org/details/enrshow039_enough_records_radio_show__039",
-      "license": "https://creativecommons.org/licenses/by-sa/4.0/"
+      "title": "Dronescape 042 (waag_drs042) by Cousin Silas",
+      "artist": "Cousin Silas",
+      "url": "https://archive.org/download/waag_drs042/01_Dronescape-042.mp3",
+      "page": "https://archive.org/details/waag_drs042",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "Yonograph - Silent Opening (ca466)",
-      "artist": "folk; rock; acoustic",
-      "url": "https://archive.org/download/ca466_y/01SilentOpening.mp3",
-      "page": "https://archive.org/details/ca466_y",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "Flux (waag_rel120) by Matthew VandenBrook",
+      "artist": "Matthew VandenBrook",
+      "url": "https://archive.org/download/waag_rel120/01_Covert.mp3",
+      "page": "https://archive.org/details/waag_rel120",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "ZAKOZAKO",
-      "artist": "Zan Hoffman",
-      "url": "https://archive.org/download/ZH27014/014%20ZAKOZAKO.mp3",
-      "page": "https://archive.org/details/ZH27014",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+      "title": "Apta - Visions (waag_rel007)",
+      "artist": "Apta",
+      "url": "https://archive.org/download/waag_rel007/01_-_Apta_-_At-Least-A-Day-Away.mp3",
+      "page": "https://archive.org/details/waag_rel007",
+      "license": "Creative Commons"
     },
     {
-      "title": "Зомби Утёсов - 1.234 (2016) [MNMN388]",
-      "artist": "Зомби Утёсов",
-      "url": "https://archive.org/download/MNMN388/01.%20%D0%9B%D1%83%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BB%D1%8E%D0%B4%D0%B8%20%D1%81%D0%BD%D0%B5%D0%B3%D0%B0.mp3",
-      "page": "https://archive.org/details/MNMN388",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "Mystified - Cardboard Hotel Revisited [wh295]",
+      "artist": "Mystified",
+      "url": "https://archive.org/download/wh295/wh295_01_Mystified_Cardboard-Hotel-Revisited.mp3",
+      "page": "https://archive.org/details/wh295",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
     },
     {
-      "title": "archpd008",
-      "artist": "Sven laux",
-      "url": "https://archive.org/download/archpd008/archpd008.mp3",
-      "page": "https://archive.org/details/archpd008",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/ca/"
+      "title": "[YESNO 012] Serigala Jahanam - Ketika Pria Memakan Wanita - Ketika Wanita Memakan Pria",
+      "artist": "Yes No Wave Music",
+      "url": "https://archive.org/download/yesno012/01_-_serigala_jahanam_-_semoga_mimpimu_indah_intro.mp3",
+      "page": "https://archive.org/details/yesno012",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "Thomas Park- 1000 Funk Songs (In A Day)- [treetrunk 655]",
-      "artist": "Thomas Park",
-      "url": "https://archive.org/download/1000FunkSongsInADay/Track20210501044108569066.0.mp3",
-      "page": "https://archive.org/details/1000FunkSongsInADay",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/"
-    },
-    {
-      "title": "NWTWO0289-Godba Na Pihala Sv. Anton",
-      "artist": "Godba Na Pihala Sv. Anton",
-      "url": "https://archive.org/download/Nwtwo0289-godbaNaPihalaSv.Anton-untitledSong/Nwtwo0289-godbaNaPihalaSv.Anton.mp3",
-      "page": "https://archive.org/details/Nwtwo0289-godbaNaPihalaSv.Anton-untitledSong",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "[deepx126] Mr.Dee - Winter Remixes P2",
+      "artist": "Deep-X Recordings",
+      "url": "https://archive.org/download/deepx126/deepx126-01_-_Mr.Dee_-_Winter__Edit__11_.mp3",
+      "page": "https://archive.org/details/deepx126",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     }
   ]
 }
