@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T01:58:29+00:00",
+  "updated": "2026-08-04T05:42:20+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,9 +39,14 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "EU calls for stronger borders after Ceuta migrant crossings",
+          "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-03T21:43:10+00:00"
+        },
+        {
           "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
           "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-03T18:04:30+00:00"
+          "date": "2026-08-04T03:37:14+00:00"
         },
         {
           "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
@@ -49,19 +54,14 @@
           "date": "2026-08-03T19:42:55+00:00"
         },
         {
-          "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
-          "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-03T15:57:27+00:00"
+          "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+          "link": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-03T23:25:14+00:00"
         },
         {
-          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-          "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-03T16:27:43+00:00"
-        },
-        {
-          "title": "US reports first two deaths linked to  'explosive diarrhoea' outbreak",
-          "link": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-03T20:05:46+00:00"
+          "title": "France wildfires reveal hundreds of WW2 shells in village",
+          "link": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-04T04:22:12+00:00"
         }
       ]
     },
@@ -74,6 +74,11 @@
           "title": "Half price rail travel extended to 18-year-olds",
           "link": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-03T23:34:13+00:00"
+        },
+        {
+          "title": "US states sue to block Trump tariffs impacting dozens of countries",
+          "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-04T02:53:00+00:00"
         },
         {
           "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
@@ -89,11 +94,6 @@
           "title": "Tokenomics: Why making AI pay is tricky",
           "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-03T23:21:10+00:00"
-        },
-        {
-          "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
-          "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-03T11:49:41+00:00"
         }
       ]
     },
@@ -103,24 +103,24 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
+          "title": "Saudi Aramco profits soar in second quarter as Iran war squeezes oil supply",
+          "link": "https://www.cnbc.com/2026/08/04/saudi-aramco-earnings-2q-oil-iran-war.html",
+          "date": "2026-08-04T05:26:45+00:00"
+        },
+        {
+          "title": "HSBC pretax profit beats estimates, boosted by higher net interest income and fees",
+          "link": "https://www.cnbc.com/2026/08/04/hsbc-profit-beats-estimates-higher-net-interest-income-fees.html",
+          "date": "2026-08-04T04:50:05+00:00"
+        },
+        {
+          "title": "AI is helping Grab ship products more than 30% faster, CFO says, as company raises forecasts",
+          "link": "https://www.cnbc.com/2026/08/04/grab-earnings-ai-forecast-cfo-.html",
+          "date": "2026-08-04T04:36:35+00:00"
+        },
+        {
           "title": "Palantir soars 12% on blowout quarter, with U.S. commercial revenue soaring nearly 150%",
           "link": "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html",
           "date": "2026-08-03T22:47:54+00:00"
-        },
-        {
-          "title": "Snap's stock jumps 8% on earnings beat and strong sales forecast",
-          "link": "https://www.cnbc.com/2026/08/03/snap-q2-earnings-report-2026.html",
-          "date": "2026-08-03T22:03:52+00:00"
-        },
-        {
-          "title": "Twenty five states sue Trump administration over latest global tariffs",
-          "link": "https://www.cnbc.com/2026/08/03/trump-tariffs-25-states-lawsuit-supreme-court.html",
-          "date": "2026-08-03T20:57:02+00:00"
-        },
-        {
-          "title": "Analysis: Federal Reserve may be pulled into Bessent’s effort to support Japan’s yen",
-          "link": "https://www.cnbc.com/2026/08/03/bessent-fed-japan-yen-fima-repo-facility.html",
-          "date": "2026-08-03T23:20:54+00:00"
         },
         {
           "title": "CNBC's The China Connection newsletter: AI wins come with an old investor risk",
@@ -135,6 +135,16 @@
       "url": "https://36kr.com/feed",
       "items": [
         {
+          "title": "3氪首发 | 两位“三清”博士联合创业做空间态势感知服务，完成数千万天使+轮融资",
+          "link": "https://36kr.com/p/3924634192673153?f=rss",
+          "date": ""
+        },
+        {
+          "title": "36氪首发 | 为果链、头部灵巧手公司供货，新型减速器厂商完成超亿元融资，估值破10亿",
+          "link": "https://36kr.com/p/3924628805351811?f=rss",
+          "date": ""
+        },
+        {
           "title": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
           "link": "https://36kr.com/p/3924467692927369?f=rss",
           "date": ""
@@ -148,16 +158,6 @@
           "title": "德明利今日跌超9%，36氪企业全情报提前捕捉到这一市场信号",
           "link": "https://36kr.com/p/3923603053686151?f=rss",
           "date": ""
-        },
-        {
-          "title": "可灵观察②｜用可灵重现《霸王别姬》：电影感足了，复杂叙事如何更稳？",
-          "link": "https://36kr.com/p/3923465542364545?f=rss",
-          "date": ""
-        },
-        {
-          "title": "硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案",
-          "link": "https://36kr.com/p/3923374038265217?f=rss",
-          "date": ""
         }
       ]
     },
@@ -166,6 +166,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "角落新声｜成年的快乐，是可以将角落铺满全家",
+          "link": "https://sspai.com/post/112738",
+          "date": "2026-08-04T02:59:26+00:00"
+        },
         {
           "title": "派早报：MiniMax H3 开源、Qwen3.8-Max 发布等",
           "link": "https://sspai.com/post/113053",
@@ -185,11 +190,6 @@
           "title": "职人专访 #001：少数派背后的理想主义",
           "link": "https://sspai.com/post/112966",
           "date": "2026-08-03T06:03:08+00:00"
-        },
-        {
-          "title": "角落新声｜两平米、两个角落，安放两个自己",
-          "link": "https://sspai.com/post/112551",
-          "date": "2026-08-03T02:52:56+00:00"
         }
       ]
     },
@@ -198,6 +198,11 @@
       "category": "科技",
       "url": "https://www.ifanr.com/feed",
       "items": [
+        {
+          "title": "阔折叠是新时代的小折叠吗？｜三星 Z Fold8 评测",
+          "link": "https://www.ifanr.com/1673815?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-08-04T04:11:12+00:00"
+        },
         {
           "title": "早报｜曝三星中国收缩手机布局/EA 550亿美元收购获批/京东外卖推出AI智能头盔",
           "link": "https://www.ifanr.com/1673796?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -217,11 +222,6 @@
           "title": "AI 改变打工人之后，千问办公盯上了企业 Agent 化",
           "link": "https://www.ifanr.com/1673691?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-08-03T10:06:32+00:00"
-        },
-        {
-          "title": "大五座市场又有新产品：小鹏 G9L 增程纯电两手抓，既要好开还要好坐",
-          "link": "https://www.ifanr.com/1673763?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-08-03T09:29:15+00:00"
         }
       ]
     },
@@ -327,6 +327,16 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "The Myth, the Mythos, and the Man",
+          "link": "https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/",
+          "date": "2026-08-04T01:22:35+00:00"
+        },
+        {
+          "title": "Why did we wait so long for the bicycle? (2019)",
+          "link": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
+          "date": "2026-08-03T23:44:19+00:00"
+        },
+        {
           "title": "There Will Come Soft Rains (1950) [pdf]",
           "link": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
           "date": "2026-08-03T23:24:53+00:00"
@@ -340,16 +350,6 @@
           "title": "ZX Spectrum System Tour: Text Mode",
           "link": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
           "date": "2026-08-03T21:39:12+00:00"
-        },
-        {
-          "title": "LLMs reward expertise",
-          "link": "https://www.seangoedecke.com/llms-reward-expertise/",
-          "date": "2026-08-03T21:13:53+00:00"
-        },
-        {
-          "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
-          "link": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
-          "date": "2026-08-03T19:39:34+00:00"
         }
       ]
     },
@@ -391,29 +391,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[问与答] 为什么 v 站有这么多人都觉得结婚出彩礼是应该的？",
-          "link": "https://www.v2ex.com/t/1231911#reply0",
-          "date": "2026-08-04T01:57:58+00:00"
+          "title": "[程序员] Gemini 3.5 Pro 来了，会达到 Fable 5 的水平吗？",
+          "link": "https://www.v2ex.com/t/1231986#reply0",
+          "date": "2026-08-04T05:40:40+00:00"
         },
         {
-          "title": "[Codex] 今天 codex 额度会有重置吗?",
-          "link": "https://www.v2ex.com/t/1231908#reply1",
-          "date": "2026-08-04T01:41:58+00:00"
+          "title": "[程序员] 没有后端的产品怎么做付费墙？",
+          "link": "https://www.v2ex.com/t/1231985#reply2",
+          "date": "2026-08-04T05:32:44+00:00"
         },
         {
-          "title": "[程序员] 手机号你们通常怎么在加密保存的同时兼具模糊搜索的功能？",
-          "link": "https://www.v2ex.com/t/1231907#reply2",
-          "date": "2026-08-04T01:39:41+00:00"
+          "title": "[宽带症候群] 请问有人知道湖南联通 2000M 宽带¥480 是什么套餐吗？",
+          "link": "https://www.v2ex.com/t/1231984#reply0",
+          "date": "2026-08-04T05:32:36+00:00"
         },
         {
-          "title": "[程序员] opencode 的 deepseek 可能不再来自官方 api",
-          "link": "https://www.v2ex.com/t/1231905#reply0",
-          "date": "2026-08-04T01:37:55+00:00"
+          "title": "[硬件] 友善的售后是真慢啊",
+          "link": "https://www.v2ex.com/t/1231983#reply0",
+          "date": "2026-08-04T05:24:13+00:00"
         },
         {
-          "title": "[吉他] 完全免费且开源吉他/贝斯音箱建模项目 Neural Amp Modeler (NAM)",
-          "link": "https://www.v2ex.com/t/1231904#reply0",
-          "date": "2026-08-04T01:36:56+00:00"
+          "title": "[Steam] 现在 Steamdeck 二手多少钱？想卖了",
+          "link": "https://www.v2ex.com/t/1231981#reply0",
+          "date": "2026-08-04T05:18:05+00:00"
         }
       ]
     },
@@ -573,6 +573,16 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
+          "title": "激流：中国科技投资的势能与锚点｜甲子引力X",
+          "link": "https://www.qbitai.com/2026/08/465767.html",
+          "date": "2026-08-04T03:46:38+00:00"
+        },
+        {
+          "title": "亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群",
+          "link": "https://www.qbitai.com/2026/08/465732.html",
+          "date": "2026-08-04T01:27:41+00:00"
+        },
+        {
           "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
           "link": "https://www.qbitai.com/2026/08/465673.html",
           "date": "2026-08-03T11:59:32+00:00"
@@ -586,16 +596,6 @@
           "title": "当品牌开始争夺AI的答案：翰智GEO入场",
           "link": "https://www.qbitai.com/2026/08/465662.html",
           "date": "2026-08-03T06:58:06+00:00"
-        },
-        {
-          "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
-          "link": "https://www.qbitai.com/2026/08/465361.html",
-          "date": "2026-08-03T06:49:27+00:00"
-        },
-        {
-          "title": "Demo的高估值时代结束了，具身智能开始按生产力重新算账",
-          "link": "https://www.qbitai.com/2026/08/465225.html",
-          "date": "2026-08-03T05:42:02+00:00"
         }
       ]
     },
@@ -632,10 +632,47 @@
       ]
     },
     {
+      "name": "Nature",
+      "category": "科研",
+      "url": "https://www.nature.com/nature.rss",
+      "items": [
+        {
+          "title": "Gasdermin D-mediated delivery of caspase inhibitors to suppress pyroptosis",
+          "link": "https://www.nature.com/articles/s41586-026-10957-y",
+          "date": "2026-08-03T00:00:00+00:00"
+        },
+        {
+          "title": "Author Correction: Maturation and circuit integration of transplanted human cortical organoids",
+          "link": "https://www.nature.com/articles/s41586-026-10943-4",
+          "date": "2026-08-03T00:00:00+00:00"
+        },
+        {
+          "title": "Sickle-cell disease linked to prematurely aged stem cells in mice",
+          "link": "https://www.nature.com/articles/d41586-026-02339-1",
+          "date": "2026-08-03T00:00:00+00:00"
+        },
+        {
+          "title": "Venus’s rift valleys could be its secret to staying active",
+          "link": "https://www.nature.com/articles/d41586-026-02372-0",
+          "date": "2026-08-03T00:00:00+00:00"
+        },
+        {
+          "title": "Plans for nuclear-powered merchant ships must confront risks",
+          "link": "https://www.nature.com/articles/d41586-026-02388-6",
+          "date": "2026-08-03T00:00:00+00:00"
+        }
+      ]
+    },
+    {
       "name": "ScienceDaily",
       "category": "科研",
       "url": "https://www.sciencedaily.com/rss/all.xml",
       "items": [
+        {
+          "title": "Your brain may be wired to regain lost weight",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm",
+          "date": "2026-08-04T03:38:28+00:00"
+        },
         {
           "title": "Two new compounds could reveal hidden drivers of Alzheimer’s disease",
           "link": "https://www.sciencedaily.com/releases/2026/08/260802223437.htm",
@@ -647,24 +684,16 @@
           "date": "2026-08-03T11:17:07+00:00"
         },
         {
-          "title": "Ancient Arctic carbon is pouring into the sea, but the seabed captures most of it",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260802223424.htm",
-          "date": "2026-08-03T13:23:30+00:00"
+          "title": "Scientists went looking for giant trees in Taiwan and found a lost world",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260802223431.htm",
+          "date": "2026-08-04T01:18:59+00:00"
         },
         {
-          "title": "Scientists reveal the hidden force driving the universe’s hottest fluid",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260802223422.htm",
-          "date": "2026-08-03T11:58:59+00:00"
-        },
-        {
-          "title": "Moonquakes could reveal hidden water beneath the lunar surface",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260802223420.htm",
-          "date": "2026-08-03T12:32:07+00:00"
+          "title": "These bizarre new beetles look so stretchy scientists named them Luffy",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260802223430.htm",
+          "date": "2026-08-04T02:26:39+00:00"
         }
       ]
     }
-  ],
-  "failed": [
-    "Nature"
   ]
 }
