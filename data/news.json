@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T16:28:21+00:00",
+  "updated": "2026-08-05T19:21:31+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,6 +39,11 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+          "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-05T18:19:51+00:00"
+        },
+        {
           "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
           "link": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-05T16:20:14+00:00"
@@ -47,11 +52,6 @@
           "title": "Drone carrying explosives found at German airport, police say",
           "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-05T16:06:30+00:00"
-        },
-        {
-          "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
-          "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-05T12:26:26+00:00"
         },
         {
           "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
@@ -76,6 +76,11 @@
           "date": "2026-08-05T10:10:02+00:00"
         },
         {
+          "title": "Trump's 'Liberation Day' tariff refunds hit $100bn",
+          "link": "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-05T18:08:22+00:00"
+        },
+        {
           "title": "Vegetables to get smaller and more expensive due to hot weather, farmers warn",
           "link": "https://www.bbc.co.uk/news/articles/c4gwv9590xeo?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-05T08:53:01+00:00"
@@ -89,11 +94,6 @@
           "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
           "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-05T14:04:43+00:00"
-        },
-        {
-          "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
-          "link": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-04T22:10:00+00:00"
         }
       ]
     },
@@ -103,14 +103,19 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "Google chief scientist Jeff Dean leaving in AI reshuffle after 27 years at company",
+          "title": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
           "link": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
-          "date": "2026-08-05T16:17:52+00:00"
+          "date": "2026-08-05T18:51:53+00:00"
         },
         {
           "title": "Trump admin refunds $100 billion in 'liberation day' tariffs",
           "link": "https://www.cnbc.com/2026/08/05/trump-tariffs-refunds-ieepa-lawsuit.html",
-          "date": "2026-08-05T14:46:54+00:00"
+          "date": "2026-08-05T16:47:52+00:00"
+        },
+        {
+          "title": "Iran, Oman say Strait of Hormuz talks in final stages, as Trump again teases a deal being close",
+          "link": "https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html",
+          "date": "2026-08-05T18:47:59+00:00"
         },
         {
           "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
@@ -121,11 +126,6 @@
           "title": "Lisa Su brushes off Musk's Nvidia commitment as AMD stock sinks after earnings",
           "link": "https://www.cnbc.com/2026/08/05/amd-stock-today-earnings-q2.html",
           "date": "2026-08-05T16:00:55+00:00"
-        },
-        {
-          "title": "Abdul El-Sayed wins Michigan Democratic Senate primary as voters pivot to the left",
-          "link": "https://www.cnbc.com/2026/08/04/abdul-el-sayed-haley-stevens-michigan-primary.html",
-          "date": "2026-08-05T15:40:22+00:00"
         }
       ]
     },
@@ -199,6 +199,11 @@
       "url": "https://www.solidot.org/index.rss",
       "items": [
         {
+          "title": "Google DeepMind CEO Demis Hassabis 卸任",
+          "link": "https://www.solidot.org/story?sid=85019",
+          "date": "2026-08-05T17:08:13+00:00"
+        },
+        {
           "title": "微软要求工程师不要最大化 AI Token 使用",
           "link": "https://www.solidot.org/story?sid=85018",
           "date": "2026-08-05T16:12:38+00:00"
@@ -217,11 +222,6 @@
           "title": "Telegram 因用户分享 CSAM 材料被苹果短暂下架",
           "link": "https://www.solidot.org/story?sid=85015",
           "date": "2026-08-05T10:59:59+00:00"
-        },
-        {
-          "title": "新药研发推动实验猴价格翻倍",
-          "link": "https://www.solidot.org/story?sid=85014",
-          "date": "2026-08-05T09:30:01+00:00"
         }
       ]
     },
@@ -231,29 +231,29 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
-          "title": "Reddit is introducing a new moderator: AI",
-          "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
-          "date": "2026-08-05T16:06:50+00:00"
+          "title": "Two of Ring&#8217;s latest video doorbells are a lot cheaper than usual",
+          "link": "https://www.theverge.com/gadgets/975723/ring-wired-doorbell-pro-battery-doorbell-plus-deal-sale",
+          "date": "2026-08-05T17:53:43+00:00"
         },
         {
-          "title": "Rogue AI agents created fake online identities in another hacking attempt",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
-          "date": "2026-08-05T15:14:57+00:00"
+          "title": "Uber CEO brushes off reports of a Waymo break-up",
+          "link": "https://www.theverge.com/transportation/975651/uber-ceo-earnings-waymo-partnership",
+          "date": "2026-08-05T17:34:48+00:00"
         },
         {
-          "title": "Sunbird relaunched its iMessage app for Android users after three years away",
-          "link": "https://www.theverge.com/tech/975563/imessage-android-sunbird",
-          "date": "2026-08-05T14:13:15+00:00"
+          "title": "Apple’s selling refurbished MacBook Neos with a $100 discount",
+          "link": "https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale",
+          "date": "2026-08-05T18:20:15+00:00"
         },
         {
-          "title": "Ring upgraded its peephole doorbell camera to 2K",
-          "link": "https://www.theverge.com/tech/975538/amazon-ring-peephole-cam-2k-smart-doorbell-preorder-easy-install",
-          "date": "2026-08-05T14:01:20+00:00"
+          "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+          "date": "2026-08-05T18:04:57+00:00"
         },
         {
-          "title": "Traveling this summer? Don’t go without these essential gadgets",
-          "link": "https://www.theverge.com/gadgets/974436/summer-travel-tech-gadget-gift-guide",
-          "date": "2026-08-04T17:58:27+00:00"
+          "title": "Google just announced a major shakeup of its top AI leadership",
+          "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+          "date": "2026-08-05T18:01:29+00:00"
         }
       ]
     },
@@ -263,29 +263,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
+          "link": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/",
+          "date": "2026-08-05T17:12:39+00:00"
+        },
+        {
+          "title": "EVgo starts building Tesla Superchargers under license",
+          "link": "https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/",
+          "date": "2026-08-05T17:00:38+00:00"
+        },
+        {
+          "title": "D-Wave shows off its new entry in quantum computing race",
+          "link": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
+          "date": "2026-08-05T16:37:07+00:00"
+        },
+        {
+          "title": "Google plans to kill Assistant on your phone on September 4",
+          "link": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+          "date": "2026-08-05T15:30:02+00:00"
+        },
+        {
           "title": "SpaceX spooks investors with debut earnings report",
           "link": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
           "date": "2026-08-05T13:59:17+00:00"
-        },
-        {
-          "title": "Pushing the limits: Infinite Machine's Olto is barely a bicycle",
-          "link": "https://arstechnica.com/cars/2026/08/pushing-the-limits-infinite-machines-olto-is-barely-a-bicycle/",
-          "date": "2026-08-05T11:00:26+00:00"
-        },
-        {
-          "title": "Senators demand crackdown on wildfire \"prediction market\" bets",
-          "link": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
-          "date": "2026-08-04T21:52:31+00:00"
-        },
-        {
-          "title": "Trump killed the Digital Equity Act but US was forced to bring part of it back",
-          "link": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
-          "date": "2026-08-04T21:27:05+00:00"
-        },
-        {
-          "title": "Texas halts data center connections to power grid amid overwhelming demand",
-          "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
-          "date": "2026-08-04T20:34:28+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Google DeepMind CEO Demis Hassabis is stepping down",
-          "link": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
-          "date": "2026-08-05T16:05:37+00:00"
+          "title": "Zed DeltaDB",
+          "link": "https://zed.dev/deltadb",
+          "date": "2026-08-05T18:52:54+00:00"
         },
         {
-          "title": "Jeff Dean leaving Alphabet",
-          "link": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html",
-          "date": "2026-08-05T16:04:33+00:00"
+          "title": "Born Against, or why hobby programming communities are against LLM usage",
+          "link": "https://blog.fogus.me/llm/born-against.html",
+          "date": "2026-08-05T18:37:49+00:00"
         },
         {
-          "title": "Fed's Kashkari says 'now is the time to start slowly moving' rates up",
-          "link": "https://www.cnbc.com/2026/08/05/feds-kashkari-says-now-is-the-time-to-start-slowly-moving-rates-up.html",
-          "date": "2026-08-05T15:24:38+00:00"
+          "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show",
+          "date": "2026-08-05T18:19:10+00:00"
         },
         {
-          "title": "The Valley of Webhooks",
-          "link": "https://weli.dev/blog/the-valley-of-webhooks/",
-          "date": "2026-08-05T15:22:06+00:00"
+          "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+          "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+          "date": "2026-08-05T18:18:56+00:00"
         },
         {
-          "title": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search",
-          "link": "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/",
-          "date": "2026-08-05T15:20:11+00:00"
+          "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+          "link": "https://arxiv.org/abs/2510.01395",
+          "date": "2026-08-05T18:17:03+00:00"
         }
       ]
     },
@@ -337,19 +337,19 @@
           "date": "2026-08-05T12:34:15+00:00"
         },
         {
-          "title": "Security is Hard, Y’all",
-          "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
-          "date": "2026-08-04T18:31:48+00:00"
-        },
-        {
           "title": "Faster Than Ninja",
           "link": "https://build2.org/blog/faster-than-ninja.xhtml",
           "date": "2026-08-05T10:37:51+00:00"
         },
         {
-          "title": "Born Against, or why hobby programming communities are aggressively against LLM usage",
-          "link": "https://blog.fogus.me/llm/born-against.html",
-          "date": "2026-08-04T20:24:33+00:00"
+          "title": "Nix Overrides That Expire Themselves",
+          "link": "https://jezenthomas.com/2026/07/nix-overrides-that-expire-themselves/",
+          "date": "2026-08-05T12:17:35+00:00"
+        },
+        {
+          "title": "Security is Hard, Y’all",
+          "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
+          "date": "2026-08-04T18:31:48+00:00"
         }
       ]
     },
@@ -359,8 +359,18 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
+          "title": "[分享创造] [分享创造] PickZ（chrome 插件） —— 选中即翻译/总结/改写/解释的轻量 AI 悬浮助手",
+          "link": "https://www.v2ex.com/t/1232331#reply2",
+          "date": "2026-08-05T17:13:50+00:00"
+        },
+        {
+          "title": "[推广] Seedance 2.5 / H3 / Kling 3.0 有人测过哪家强吗？",
+          "link": "https://www.v2ex.com/t/1232329#reply0",
+          "date": "2026-08-05T16:49:14+00:00"
+        },
+        {
           "title": "[程序员] 👏香港高才通批复了,可以办香港 ID 了",
-          "link": "https://www.v2ex.com/t/1232327#reply2",
+          "link": "https://www.v2ex.com/t/1232327#reply4",
           "date": "2026-08-05T16:14:13+00:00"
         },
         {
@@ -372,16 +382,6 @@
           "title": "[分享发现] 利用精确时间轴精确识别日语字幕",
           "link": "https://www.v2ex.com/t/1232325#reply8",
           "date": "2026-08-05T15:24:23+00:00"
-        },
-        {
-          "title": "[分享创造] 各位都 vibe 了哪些有趣的应用？",
-          "link": "https://www.v2ex.com/t/1232324#reply9",
-          "date": "2026-08-05T15:15:49+00:00"
-        },
-        {
-          "title": "[产品发布] 做了一个停车优惠信息汇总的小程序",
-          "link": "https://www.v2ex.com/t/1232323#reply0",
-          "date": "2026-08-05T14:49:31+00:00"
         }
       ]
     },
