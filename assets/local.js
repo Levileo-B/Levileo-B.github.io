@@ -87,13 +87,28 @@
     if (label) {
       label.textContent = region.name + (how ? '（' + how + '）' : '');
     }
-    box.innerHTML = '<ul class="news__list">' + region.items.slice(0, 10).map(function (it) {
+    // 优先保证来源多样性：同一来源先取两条，再用其余内容补足 10 条。
+    var counts = {};
+    var overflow = [];
+    var mixed = region.items.filter(function (it) {
+      var source = it.source || '';
+      counts[source] = counts[source] || 0;
+      if (counts[source] >= 2) {
+        overflow.push(it);
+        return false;
+      }
+      counts[source] += 1;
+      return true;
+    }).concat(overflow).slice(0, 10);
+
+    box.innerHTML = '<ul class="news__list">' + mixed.map(function (it) {
       var when = ago(it.date);
       return '<li class="news__item">' +
                '<a href="' + esc(it.link) + '" target="_blank" rel="noopener noreferrer">' +
                  esc(it.title) + '</a>' +
                '<span class="news__line">' +
-                 '<span class="news__src">' + esc(it.source) + '</span>' +
+                 '<span class="news__src">' + esc(it.source) +
+                   (it.channel ? ' · ' + esc(it.channel) : '') + '</span>' +
                  (when ? '<time class="news__time">' + esc(when) + '</time>' : '') +
                '</span>' +
              '</li>';

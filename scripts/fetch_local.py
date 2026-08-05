@@ -20,6 +20,7 @@ sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from fetch_news import fetch, parse  # noqa: E402  复用抓取与解析
 
 PER_FEED = 5
+MAX_ITEM_AGE_DAYS = 7
 OUT = pathlib.Path(__file__).resolve().parent.parent / "data" / "local.json"
 
 # 地区代码用 ISO 3166-1 alpha-2，与前端拿到的 country code 对齐。
@@ -30,8 +31,15 @@ REGIONS = {
         ("The Straits Times", "https://www.straitstimes.com/news/singapore/rss.xml"),
     ]},
     "CN": {"name": "中国大陆", "feeds": [
-        ("澎湃新闻", "https://feedx.net/rss/thepaper.xml"),
-        ("Solidot", "https://www.solidot.org/index.rss"),
+        ("中新网即时", "https://www.chinanews.com.cn/rss/scroll-news.xml", "综合"),
+        ("36氪快讯", "https://36kr.com/feed-newsflash", "科技"),
+        ("IT之家", "https://www.ithome.com/rss/", "科技"),
+        ("开源中国", "https://www.oschina.net/news/rss", "科技"),
+        ("少数派", "https://sspai.com/feed", "科技"),
+        ("爱范儿", "https://www.ifanr.com/feed", "科技"),
+        ("量子位", "https://www.qbitai.com/feed", "科技"),
+        ("科学网", "https://www.sciencenet.cn/xml/news-0.aspx?news=0", "科技", -8),
+        ("Solidot", "https://www.solidot.org/index.rss", "科技"),
     ]},
     "HK": {"name": "中国香港", "feeds": [
         ("RTHK", "https://rthk.hk/rthk/news/rss/c_expressnews_clocal.xml"),
@@ -82,42 +90,107 @@ REGIONS = {
 }
 
 
+def fresh_items(items):
+    """丢弃日期明确且已经过期的条目，避免冻结的代理源长期占位。"""
+    now = datetime.datetime.now(datetime.timezone.utc)
+    oldest = now - datetime.timedelta(days=MAX_ITEM_AGE_DAYS)
+    fresh = []
+    for item in items:
+        raw = item.get("date") or ""
+        if raw:
+            try:
+                published = datetime.datetime.fromisoformat(raw.replace("Z", "+00:00"))
+                if published.tzinfo is None:
+                    published = published.replace(tzinfo=datetime.timezone.utc)
+                if published < oldest:
+                    continue
+            except ValueError:
+                pass
+        fresh.append(item)
+    return fresh
+
+
+def shift_dates(items, hours):
+    """修正明确使用本地时间、但 RSS 未携带时区的信源。"""
+    if not hours:
+        return items
+    shifted = []
+    for item in items:
+        item = dict(item)
+        raw = item.get("date") or ""
+        if raw:
+            try:
+                published = datetime.datetime.fromisoformat(raw.replace("Z", "+00:00"))
+                item["date"] = (published + datetime.timedelta(hours=hours)).isoformat()
+            except ValueError:
+                pass
+        shifted.append(item)
+    return shifted
+
+
 def load_feed(job):
-    code, source, url = job
+    code, source, url, channel, date_shift = job
     try:
-        items = parse(fetch(url))[:PER_FEED]
+        items = shift_dates(parse(fetch(url)), date_shift)
+        items = fresh_items(items)[:PER_FEED]
         if not items:
-            raise ValueError("解析成功但没有条目")
-        return code, source, items, None
+            raise ValueError(f"解析成功但没有 {MAX_ITEM_AGE_DAYS} 天内的条目")
+        return code, source, channel, items, None
     except Exception as exc:
-        return code, source, [], f"{type(exc).__name__}: {exc}"
+        return code, source, channel, [], f"{type(exc).__name__}: {exc}"
 
 
 def main() -> int:
     jobs = []
     for code, cfg in REGIONS.items():
-        for source, url in cfg["feeds"]:
-            jobs.append((code, source, url))
+        for feed in cfg["feeds"]:
+            source, url = feed[:2]
+            channel = feed[2] if len(feed) > 2 else ""
+            date_shift = feed[3] if len(feed) > 3 else 0
+            jobs.append((code, source, url, channel, date_shift))
 
     with cf.ThreadPoolExecutor(max_workers=8) as pool:
         results = list(pool.map(load_feed, jobs))
 
+    try:
+        previous = json.loads(OUT.read_text(encoding="utf-8")).get("regions", {})
+    except (OSError, ValueError):
+        previous = {}
+
     regions, failed = {}, []
-    for code, source, items, err in results:
+    for code, source, channel, items, err in results:
         if err:
             failed.append(f"{code}/{source}")
             print(f"[fail] {code} {source}: {err}", file=sys.stderr)
-            continue
+            old_items = previous.get(code, {}).get("items", [])
+            items = fresh_items([
+                item for item in old_items if item.get("source") == source
+            ])[:PER_FEED]
+            if not items:
+                continue
+            print(f"[reuse] {code} {source}: 沿用 {len(items)} 条未过期内容")
+        else:
+            print(f"[ok]   {code} {source}: {len(items)} 条")
+
         bucket = regions.setdefault(code, {"name": REGIONS[code]["name"], "items": []})
         for it in items:
             it = dict(it)
             it["source"] = source
+            if channel:
+                it["channel"] = channel
             bucket["items"].append(it)
-        print(f"[ok]   {code} {source}: {len(items)} 条")
 
     # 组内按时间倒序，最新的排前面
     for code in regions:
         regions[code]["items"].sort(key=lambda x: x.get("date") or "", reverse=True)
+        seen, unique = set(), []
+        for item in regions[code]["items"]:
+            key = (item.get("title") or "").strip().casefold()
+            if not key or key in seen:
+                continue
+            seen.add(key)
+            unique.append(item)
+        regions[code]["items"] = unique
 
     if "global" not in regions:
         print("兜底地区 global 都没抓到，不覆盖旧文件。", file=sys.stderr)
