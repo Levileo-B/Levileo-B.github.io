@@ -1,124 +1,123 @@
 {
-  "updated": "2026-08-05T22:07:34+00:00",
+  "updated": "2026-08-06T02:01:42+00:00",
   "leetcode": {
-    "date": "2026-08-05",
-    "id": "3310",
-    "title": "Remove Methods From Project",
-    "titleEn": "Remove Methods From Project",
-    "slug": "remove-methods-from-project",
-    "difficulty": "Medium",
+    "date": "2026-08-06",
+    "id": "3345",
+    "title": "Smallest Divisible Digit Product I",
+    "titleEn": "Smallest Divisible Digit Product I",
+    "slug": "smallest-divisible-digit-product-i",
+    "difficulty": "Easy",
     "tags": [
-      "Depth-First Search",
-      "Breadth-First Search",
-      "Graph Theory"
+      "Math",
+      "Enumeration"
     ],
-    "link": "https://leetcode.com/problems/remove-methods-from-project/",
+    "link": "https://leetcode.com/problems/smallest-divisible-digit-product-i/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Yeah Yeah Yeahs (EP)",
-    "text": "Yeah Yeah Yeahs is the debut extended play (EP) by the American indie rock band Yeah Yeah Yeahs. It was self-released on July 9, 2001, and reissued in 2002 by Wichita in the United Kingdom and Touch and Go in the United States. It was recorded as a demo over two days in early 2001 with producer Jerry Teel, and developed into their debut EP in an effort to land more shows. Yeah Yeah Yeahs features the band's early garage rock and art punk influences, and lead singer and lyricist Karen O's themes of romance and sex.",
-    "words": 97,
-    "url": "https://en.wikipedia.org/wiki/Yeah_Yeah_Yeahs_(EP)",
-    "date": "2026-08-05",
+    "title": "Big Duck",
+    "text": "The Big Duck is a 20-foot-tall (6.1 m) ferrocement building in the shape of a duck: a canonical example of novelty architecture. Built in 1931 in Riverhead, New York, United States, it was moved several times to various locations on eastern Long Island, ending up in Flanders in 2007. Well-known for its distinctive appearance, this structure inspired the word duck as a common term in academic literature used to refer to buildings shaped like everyday objects or describe excessive ornamentation used in graphical presentations of data.",
+    "words": 86,
+    "url": "https://en.wikipedia.org/wiki/Big_Duck",
+    "date": "2026-08-06",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Home Movie: 97460: Possibly in Arizona",
-    "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/HMPossiblyinArizona97460/97460.mp4",
-    "page": "https://archive.org/details/HMPossiblyinArizona97460",
-    "date": "2026-08-05",
+    "title": "America Goes Over (Part I)",
+    "creator": "U.S. Army, Signal Corps",
+    "year": "1918",
+    "url": "https://archive.org/download/AmericaG1918/AmericaG1918_512kb.mp4",
+    "page": "https://archive.org/details/AmericaG1918",
+    "date": "2026-08-06",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "[ENDE384] Doris Butterspam - We Need To Talk About Sean",
+      "title": "[DPH036] Dub Riots & Indamouse ft. Bluez - Creation",
       "artist": "",
-      "url": "https://archive.org/download/ende384-doris-butterspam-we-need-to-talk-about-sean/01%20-%20Doris%20Butterspam%20-%20We%20Need%20To%20Talk%20About%20Sean.mp3",
-      "page": "https://archive.org/details/ende384-doris-butterspam-we-need-to-talk-about-sean",
+      "url": "https://archive.org/download/DPH036/01_Dub_Riots_%26%20_Indamouse_-_Creation.mp3",
+      "page": "https://archive.org/details/DPH036",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "user - hellovapella [2011]",
+      "artist": "serocell",
+      "url": "https://archive.org/download/UN0129/01_user%3Dhellovapella.mp3",
+      "page": "https://archive.org/details/UN0129",
       "license": "Creative Commons"
     },
     {
-      "title": "ST09 Over and Over by Linear Bells",
-      "artist": "Linear Bells",
-      "url": "https://archive.org/download/ST09OverAndOver/Over%20%26%20Over.mp3",
-      "page": "https://archive.org/details/ST09OverAndOver",
+      "title": "NWTWO0411-Matej Kranjc In Marko Samec-V Pisarni",
+      "artist": "Matej Kranjc In Marko Samec",
+      "url": "https://archive.org/download/Nwtwo0411-matejKranjcInMarkoSamec-vPisarni/Nwtwo0411-matejKranjcInMarkoSamec-vPisarni.mp3",
+      "page": "https://archive.org/details/Nwtwo0411-matejKranjcInMarkoSamec-vPisarni",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Dr. Mindflip - Is Itching To Play",
-      "artist": "Dr. Mindflip",
-      "url": "https://archive.org/download/BSMX0081/01-Workin.mp3",
-      "page": "https://archive.org/details/BSMX0081",
+      "title": "[SAR_085].Femau - Topeng",
+      "artist": "Hark! Its A Crawling Tar Tar, Extreme Decay, Squadron47, Cekal, Rajasinga",
+      "url": "https://archive.org/download/sar_085.femau-Topeng/03.JualDakiTukSesuapNasiharkItsACrawlingTarTarCover.mp3",
+      "page": "https://archive.org/details/sar_085.femau-Topeng",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "[DS014DE] Bloody Art - E.B. Music",
+      "artist": "Bloody Art",
+      "url": "https://archive.org/download/darksystem_ds014/Bloody%20Art%20-%20E.B.%20Music%20-%2001%20Bloody%20Dances.mp3",
+      "page": "https://archive.org/details/darksystem_ds014",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Amitron_7 Special 131126 [enrmix21]",
-      "artist": "Amitron_7",
-      "url": "https://archive.org/download/enrmix21_amitron_7_special_131126/00_amitron_7_special_131126.mp3",
-      "page": "https://archive.org/details/enrmix21_amitron_7_special_131126",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+      "title": "[TAN186] Seism - Dojje",
+      "artist": "Jason Campbell",
+      "url": "https://archive.org/download/TAN186/Dojje.mp3",
+      "page": "https://archive.org/details/TAN186",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
     },
     {
-      "title": "Enough Records Radio Show #041",
-      "artist": "ps",
-      "url": "https://archive.org/download/enrshow041_enough_records_radio_show__041/00_ps_-_enough_records_radio_show__041.mp3",
-      "page": "https://archive.org/details/enrshow041_enough_records_radio_show__041",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      "title": "DIENSTbar @ dfm.nu Transmission No. 64 Special Guest: ?Alos",
+      "artist": "Ohmnoise",
+      "url": "https://archive.org/download/dbdfmnu64/dbdfmnu64.mp3",
+      "page": "https://archive.org/details/dbdfmnu64",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "Jaan Patterson - 'Ergo Protagonist'",
-      "artist": "Jaan Patterson",
-      "url": "https://archive.org/download/sPE_0134/Jaan_Patterson_-_Ergo_Protagonist.mp3",
-      "page": "https://archive.org/details/sPE_0134",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+      "title": "HNR025 | Koldusk | About Deceased",
+      "artist": "Anonymous",
+      "url": "https://archive.org/download/hnr025/01.ASecretEntrance.mp3",
+      "page": "https://archive.org/details/hnr025",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
     },
     {
-      "title": "Clive Wilkinson - Excassette Missile [CW2]",
-      "artist": "Clive Wilkinson",
-      "url": "https://archive.org/download/excassette/01.%20Best%20Before%20End.mp3",
-      "page": "https://archive.org/details/excassette",
-      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
+      "title": "Castero - Consequences Of Thought (2010)",
+      "artist": "Castero",
+      "url": "https://archive.org/download/Castero_ConsequencesOfThought_2010/01_smokes_of_doom.mp3",
+      "page": "https://archive.org/details/Castero_ConsequencesOfThought_2010",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "[deepx101] Andrey Varcev - Mental EP",
+      "title": "The Autopsy Report Online Metal Promo Special Show No 598 - 12th - 18th October 2015",
+      "artist": "Gramie Dee",
+      "url": "https://archive.org/download/AR1218Oct15/AR-12-18Oct15.mp3",
+      "page": "https://archive.org/details/AR1218Oct15",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "[deepx126] Mr.Dee - Winter Remixes P2",
       "artist": "Deep-X Recordings",
-      "url": "https://archive.org/download/deepx101/deepx101-01_-_Andrey_Varcev_-_Road_Sign.mp3",
-      "page": "https://archive.org/details/deepx101",
+      "url": "https://archive.org/download/deepx126/deepx126-01_-_Mr.Dee_-_Winter__Edit__11_.mp3",
+      "page": "https://archive.org/details/deepx126",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "Nattens Madrigal - Ãtte Balladene til Veien i Mennesket",
-      "artist": "Lucas Darklord",
-      "url": "https://archive.org/download/Nattens_Madrigal/HymneI.mp3",
-      "page": "https://archive.org/details/Nattens_Madrigal",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "psychosonic aether 021 - podcast from n0theen",
-      "artist": "litmus0001 (curator)",
-      "url": "https://archive.org/download/PsychosonicAether021-PodcastFromN0theen/Litmus0001-PsychosonicAether021-2009-12-06n0theen.mp3",
-      "page": "https://archive.org/details/PsychosonicAether021-PodcastFromN0theen",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "[gargan044] Scerbas - Call You EP",
-      "artist": "",
-      "url": "https://archive.org/download/gargan44Scerbas-CallYouEp/01_Scerbas_-_Ill_Call_You.mp3",
-      "page": "https://archive.org/details/gargan44Scerbas-CallYouEp",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/de/"
-    },
-    {
-      "title": "DIENSTbar @ dfm.nu Transmission No. 195 Special Theme: Get The Noise Session",
-      "artist": "DIENSTbar",
-      "url": "https://archive.org/download/dbdfmnu195/dbdfmnu195.mp3",
-      "page": "https://archive.org/details/dbdfmnu195",
+      "title": "Brevyn - Spires [2019]",
+      "artist": "Brevyn",
+      "url": "https://archive.org/download/Brevyn-Spires2019/Brevyn%20-%20Spires%20-%2001%20Cosmic.mp3",
+      "page": "https://archive.org/details/Brevyn-Spires2019",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     }
   ]
