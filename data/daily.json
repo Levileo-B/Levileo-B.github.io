@@ -1,123 +1,125 @@
 {
-  "updated": "2026-08-06T23:53:20+00:00",
+  "updated": "2026-08-07T02:22:43+00:00",
   "leetcode": {
-    "date": "2026-08-06",
-    "id": "3345",
-    "title": "Smallest Divisible Digit Product I",
-    "titleEn": "Smallest Divisible Digit Product I",
-    "slug": "smallest-divisible-digit-product-i",
-    "difficulty": "Easy",
+    "date": "2026-08-07",
+    "id": "3348",
+    "title": "Smallest Divisible Digit Product II",
+    "titleEn": "Smallest Divisible Digit Product II",
+    "slug": "smallest-divisible-digit-product-ii",
+    "difficulty": "Hard",
     "tags": [
       "Math",
-      "Enumeration"
+      "String",
+      "Backtracking",
+      "Greedy"
     ],
-    "link": "https://leetcode.com/problems/smallest-divisible-digit-product-i/",
+    "link": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Big Duck",
-    "text": "The Big Duck is a 20-foot-tall (6.1 m) ferrocement building in the shape of a duck: a canonical example of novelty architecture. Built in 1931 in Riverhead, New York, United States, it was moved several times to various locations on eastern Long Island, ending up in Flanders in 2007. Well-known for its distinctive appearance, this structure inspired the word duck as a common term in academic literature used to refer to buildings shaped like everyday objects or describe excessive ornamentation used in graphical presentations of data.",
-    "words": 86,
-    "url": "https://en.wikipedia.org/wiki/Big_Duck",
-    "date": "2026-08-06",
+    "title": "Henry Macandrew",
+    "text": "Major-General Sir Henry John Milnes Macandrew, was a British Indian Army officer who fought in the Boer War and First World War, rising to command cavalry divisions on the Western Front and in the Sinai and Palestine campaign.",
+    "words": 38,
+    "url": "https://en.wikipedia.org/wiki/Henry_Macandrew",
+    "date": "2026-08-07",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Big City, The",
-    "creator": "Guggenheim (Charles) & Associates, Inc.",
-    "year": "2026",
-    "url": "https://archive.org/download/0744_Big_City_The_05_35_38_00/0744_Big_City_The_05_35_38_00.m4v",
-    "page": "https://archive.org/details/0744_Big_City_The_05_35_38_00",
-    "date": "2026-08-06",
+    "title": "Home Movie: 098161",
+    "creator": "",
+    "year": "",
+    "url": "https://archive.org/download/203203_Home_Movie_098161/203203_Home_Movie_098161_master.intros.mp4",
+    "page": "https://archive.org/details/203203_Home_Movie_098161",
+    "date": "2026-08-07",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "[DS014DE] Bloody Art - E.B. Music",
-      "artist": "Bloody Art",
-      "url": "https://archive.org/download/darksystem_ds014/Bloody%20Art%20-%20E.B.%20Music%20-%2001%20Bloody%20Dances.mp3",
-      "page": "https://archive.org/details/darksystem_ds014",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "[ENDE008] Etiolation - Etiolation",
+      "title": "halal kebab hut - high brow low art music (emp010)",
       "artist": "",
-      "url": "https://archive.org/download/ende008-etiolation/01%20-%20Etiolation%20-%20Piano%20Forte.mp3",
-      "page": "https://archive.org/details/ende008-etiolation",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "auspice - ardisson duet [2008]",
-      "artist": "serocell",
-      "url": "https://archive.org/download/UN0076/01_auspice%3Dclean_towels.mp3",
-      "page": "https://archive.org/details/UN0076",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "DIENSTbar @ dfm.nu Transmission No. 231 Special Theme: Concerts #57",
-      "artist": "DIENSTbar",
-      "url": "https://archive.org/download/dbdfmnu231/dbdfmnu231.mp3",
-      "page": "https://archive.org/details/dbdfmnu231",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "H.U.T GiGAR & Kyou - seqtion:03 {WTF-0006}",
-      "artist": "",
-      "url": "https://archive.org/download/wtf-0006/01%20-%20H.U.T%20GiGAR%20-%20%E5%BF%9C%E6%8F%B4%E6%AD%8C%E3%83%8F%E3%83%BC%E3%83%89%E3%82%B3%E3%82%A2.mp3",
-      "page": "https://archive.org/details/wtf-0006",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "DJ_Iterate- CodeBeats [treetrunk 531]",
-      "artist": "Thomas Park",
-      "url": "https://archive.org/download/DJIterateCodeBeats/Beat_1.mp3",
-      "page": "https://archive.org/details/DJIterateCodeBeats",
-      "license": "http://creativecommons.org/licenses/by/4.0/"
-    },
-    {
-      "title": "[top-108] DropouT - Tourist",
-      "artist": "",
-      "url": "https://archive.org/download/top.108/DropouT%20-%20Tourist.mp3",
-      "page": "https://archive.org/details/top.108",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "NWTWO0296-Killing Option (Party Session)",
-      "artist": "Killing Option",
-      "url": "https://archive.org/download/Nwtwo0296-killingOptionpartySession-untitledSong/Nwtwo0296-killingOptionpartySession.mp3",
-      "page": "https://archive.org/details/Nwtwo0296-killingOptionpartySession-untitledSong",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Yucatan Bar Mix",
-      "artist": "Gypsy",
-      "url": "https://archive.org/download/YucatanBarMix/Early%20Yucatan%20Bar%20mix.mp3",
-      "page": "https://archive.org/details/YucatanBarMix",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "Unatoba - Contest Murnoff",
-      "artist": "Zan Hoffman",
-      "url": "https://archive.org/download/ZH27267/267%20Contest%20Murnoff.mp3",
-      "page": "https://archive.org/details/ZH27267",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
-    },
-    {
-      "title": "[deepx126] Mr.Dee - Winter Remixes P2",
-      "artist": "Deep-X Recordings",
-      "url": "https://archive.org/download/deepx126/deepx126-01_-_Mr.Dee_-_Winter__Edit__11_.mp3",
-      "page": "https://archive.org/details/deepx126",
+      "url": "https://archive.org/download/halal_kebab_hut_hblam/halal_kebab_hut_hblam_01_carpet_bowls_4.mp3",
+      "page": "https://archive.org/details/halal_kebab_hut_hblam",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "[Siro497] Television Sky - Gorgeous EP",
+      "title": "[brq09] Cie - Erde und Sterne EP",
       "artist": "",
-      "url": "https://archive.org/download/siro497TelevisionSky-GorgeousEp/01-TelevisionSky-4U.mp3",
-      "page": "https://archive.org/details/siro497TelevisionSky-GorgeousEp",
+      "url": "https://archive.org/download/brq09CieErdeUndSterneEP/01Fruehlingsblume.mp3",
+      "page": "https://archive.org/details/brq09CieErdeUndSterneEP",
+      "license": "http://creativecommons.org/licenses/by-nd/2.0/"
+    },
+    {
+      "title": "Dead+Hurt - The Glitch Punk Youth Gone Wild EP [Fukk God 006]",
+      "artist": "",
+      "url": "https://archive.org/download/fukkgod006/fukkgod006_-_dead_plus_hurt_-_01_-_the_glitch_punk_youth_gone_wild.mp3",
+      "page": "https://archive.org/details/fukkgod006",
+      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
+    },
+    {
+      "title": "#CCmixtape - Over Clouds",
+      "artist": "Happy Puppy Records",
+      "url": "https://archive.org/download/hprccmix001/CCMIXTAPE001_-_Over_Clouds_160.mp3",
+      "page": "https://archive.org/details/hprccmix001",
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
+    },
+    {
+      "title": "Baltasara",
+      "artist": "",
+      "url": "https://archive.org/download/baltasara/LP%20Baltasara/01%20Mi%20Hombre.mp3",
+      "page": "https://archive.org/details/baltasara",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Obtekar - Raining",
+      "artist": "Obtekar (aka Kustota)",
+      "url": "https://archive.org/download/heavymental.ru_hm01/01.mp3",
+      "page": "https://archive.org/details/heavymental.ru_hm01",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "[Hujan005] Various Artist - Milisi Digital #1",
+      "artist": "Various Artist",
+      "url": "https://archive.org/download/hujan005/01_-_Medusa_Terror_-_I_Killed_Pathetic_Core_With_My_Monsterbation_Vengeance_vbr.mp3",
+      "page": "https://archive.org/details/hujan005",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/us/"
+    },
+    {
+      "title": "[GT425] Sleep Column - Wall Rack",
+      "artist": "Ivan Sandakov",
+      "url": "https://archive.org/download/gt425SleepColumn-WallRack/1.Untitled.mp3",
+      "page": "https://archive.org/details/gt425SleepColumn-WallRack",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "title": "Bruitsnetlabel Remanences [b060s]",
+      "artist": "various artists",
+      "url": "https://archive.org/download/b060s_remanences/01-Hy01_bis.mp3",
+      "page": "https://archive.org/details/b060s_remanences",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "[GT257] Sleep Column - Sleep Column",
+      "artist": "",
+      "url": "https://archive.org/download/gt257SleepColumn-SleepColumn/1.Untitled.mp3",
+      "page": "https://archive.org/details/gt257SleepColumn-SleepColumn",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "title": "[GT275] Intracranial Penetration",
+      "artist": "",
+      "url": "https://archive.org/download/gt275IntracranialPenetration/01.Humanhater.mp3",
+      "page": "https://archive.org/details/gt275IntracranialPenetration",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "title": "Buchstabe D",
+      "artist": "Letter D",
+      "url": "https://archive.org/download/geekcore008/01-Letter_D-Impossible.mp3",
+      "page": "https://archive.org/details/geekcore008",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     }
   ]
