@@ -1,11 +1,16 @@
 {
-  "updated": "2026-08-07T04:50:29+00:00",
+  "updated": "2026-08-07T07:05:34+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "泰國校園槍擊案至少六人死亡 槍手同告斃命",
+          "link": "https://www.bbc.com/zhongwen/articles/cn8n2yxew0eo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-07T06:30:18+00:00"
+        },
         {
           "title": "特朗普簽署新行政命令 試圖重新限制美國出生公民權",
           "link": "https://www.bbc.com/zhongwen/articles/c1e1v7gxwzdo/trad?at_medium=RSS&at_campaign=rss",
@@ -25,11 +30,6 @@
           "title": "歐洲乾旱與河流乾涸：炸彈、戰艦殘骸、猛獁象骨骸重見天日",
           "link": "https://www.bbc.com/zhongwen/articles/c86n5vgell5o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-07T00:06:39+00:00"
-        },
-        {
-          "title": "「免冷藏」疫苗首次人體實驗，可望減少浪費",
-          "link": "https://www.bbc.com/zhongwen/articles/cp9ekjrznngo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-07T03:43:54+00:00"
         }
       ]
     },
@@ -44,9 +44,9 @@
           "date": "2026-08-07T00:54:03+00:00"
         },
         {
-          "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-          "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-06T18:53:51+00:00"
+          "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+          "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-07T00:34:14+00:00"
         },
         {
           "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
@@ -56,12 +56,12 @@
         {
           "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
           "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-07T04:02:18+00:00"
+          "date": "2026-08-07T05:44:29+00:00"
         },
         {
-          "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-          "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-07T00:34:14+00:00"
+          "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+          "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-06T18:53:51+00:00"
         }
       ]
     },
@@ -103,14 +103,19 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "Oil rises amid supply disruption fears following Iran's restrictive draft plan for the Strait of Hormuz",
+          "title": "Oil rises as Iran's draft plan sees U.S. and Israel banned from Strait of Hormuz",
           "link": "https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html",
-          "date": "2026-08-07T02:30:49+00:00"
+          "date": "2026-08-07T05:27:03+00:00"
         },
         {
           "title": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
           "link": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
           "date": "2026-08-07T02:08:42+00:00"
+        },
+        {
+          "title": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
+          "link": "https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html",
+          "date": "2026-08-07T01:28:57+00:00"
         },
         {
           "title": "A 'weaponized' yen: How the U.S.-Japan intervention may reshape global currency markets",
@@ -120,12 +125,7 @@
         {
           "title": "China's exports growth beats estimates in July, as AI-driven shipments surge",
           "link": "https://www.cnbc.com/2026/08/07/china-july-trade-exports-imports-surplus-imbalance-tariffs-.html",
-          "date": "2026-08-07T04:44:17+00:00"
-        },
-        {
-          "title": "The 72-hour crisis that could upend Meta’s business in India as firm risks losing legal protection",
-          "link": "https://www.cnbc.com/2026/08/07/meta-india-zuckerberg-apology-genz-protest.html",
-          "date": "2026-08-07T04:11:09+00:00"
+          "date": "2026-08-07T06:09:26+00:00"
         }
       ]
     },
@@ -295,14 +295,19 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "Framework discloses data breach via Metabase 0-day",
+          "link": "https://community.frame.work/t/framework-data-breach-discussion/83939",
+          "date": "2026-08-07T05:17:57+00:00"
+        },
+        {
+          "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+          "link": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+          "date": "2026-08-07T00:37:30+00:00"
+        },
+        {
           "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
           "link": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
           "date": "2026-08-07T00:06:28+00:00"
-        },
-        {
-          "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
-          "link": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
-          "date": "2026-08-06T23:30:03+00:00"
         },
         {
           "title": "Welcoming the Nepalese Government to Have I Been Pwned",
@@ -313,11 +318,6 @@
           "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
           "link": "https://www.aleksagordic.com/blog/vllm",
           "date": "2026-08-06T21:30:21+00:00"
-        },
-        {
-          "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-          "date": "2026-08-06T21:18:32+00:00"
         }
       ]
     },
@@ -337,6 +337,11 @@
           "date": "2026-08-06T20:12:06+00:00"
         },
         {
+          "title": "A shell exclamation mark is not for yelling. Be lazy",
+          "link": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+          "date": "2026-08-07T01:18:25+00:00"
+        },
+        {
           "title": "jujutsu 0.44.0",
           "link": "https://github.com/jj-vcs/jj/releases/tag/v0.44.0",
           "date": "2026-08-06T09:03:51+00:00"
@@ -345,11 +350,6 @@
           "title": "i wonder if you could make a useful DOS executable with just emoji",
           "link": "https://oldbytes.space/@gloriouscow/117044736309312697",
           "date": "2026-08-06T08:11:35+00:00"
-        },
-        {
-          "title": "I got a 1998 CD-ROM world atlas running on Windows 11",
-          "link": "https://trevmex.com/post/824245295374303232/my-son-found-a-world-atlas-in-a-thrift-store-so-i",
-          "date": "2026-08-07T00:36:39+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[Local LLM] 两台 dgx-spark 部署满血 deepseek v4 flash 完全指南,稳定 60~70tok/s 单流",
-          "link": "https://www.v2ex.com/t/1232688#reply0",
-          "date": "2026-08-07T04:44:27+00:00"
+          "title": "[问与答] 有没有外贸跨境的同行？建了一个外贸交流群，目前近 200 人",
+          "link": "https://www.v2ex.com/t/1232725#reply0",
+          "date": "2026-08-07T07:04:39+00:00"
         },
         {
-          "title": "[Claude] kyc 人脸验证一般在付费时做，还是在使用过程中会要求 kyc 呢？",
-          "link": "https://www.v2ex.com/t/1232687#reply1",
-          "date": "2026-08-07T04:29:38+00:00"
+          "title": "[推广] 众安银行开户共赚 1400+HKD 填邀请码返 350HKD",
+          "link": "https://www.v2ex.com/t/1232724#reply0",
+          "date": "2026-08-07T07:03:35+00:00"
         },
         {
-          "title": "[Claude] 站内首发？ Claude 被封禁后 5 天解封",
-          "link": "https://www.v2ex.com/t/1232686#reply1",
-          "date": "2026-08-07T04:25:24+00:00"
+          "title": "[分享创造] Fillin：一个会理解页面语境的 AI 填表插件（开源）",
+          "link": "https://www.v2ex.com/t/1232723#reply0",
+          "date": "2026-08-07T07:01:22+00:00"
         },
         {
-          "title": "[问与答] GPT5.6 sol 过度防御很严重啊，一步一个 SHA256",
-          "link": "https://www.v2ex.com/t/1232685#reply0",
-          "date": "2026-08-07T04:22:19+00:00"
+          "title": "[问与答] 询问一下，你们公司电脑会被标准化吗？",
+          "link": "https://www.v2ex.com/t/1232722#reply0",
+          "date": "2026-08-07T06:57:59+00:00"
         },
         {
-          "title": "[推广] 送 500mb 住宅流量 静态住宅等于 2 刀/月起 美国机房 1 刀/月",
-          "link": "https://www.v2ex.com/t/1232684#reply0",
-          "date": "2026-08-07T04:22:07+00:00"
+          "title": "[问与答] [寻源] 求购 BGP+IEPL / BGP+IPLC 跨境专线资源（长期合作）",
+          "link": "https://www.v2ex.com/t/1232721#reply0",
+          "date": "2026-08-07T06:55:23+00:00"
         }
       ]
     },
@@ -541,6 +541,16 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
+          "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
+          "link": "https://www.qbitai.com/2026/08/468305.html",
+          "date": "2026-08-07T06:18:51+00:00"
+        },
+        {
+          "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
+          "link": "https://www.qbitai.com/2026/08/467878.html",
+          "date": "2026-08-07T05:30:08+00:00"
+        },
+        {
           "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
           "link": "https://www.qbitai.com/2026/08/467877.html",
           "date": "2026-08-07T03:23:54+00:00"
@@ -554,16 +564,6 @@
           "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
           "link": "https://www.qbitai.com/2026/08/467871.html",
           "date": "2026-08-07T03:08:51+00:00"
-        },
-        {
-          "title": "AI SSD：大模型推理的存储范式转移",
-          "link": "https://www.qbitai.com/2026/08/467840.html",
-          "date": "2026-08-07T02:56:46+00:00"
-        },
-        {
-          "title": "PPIO正式发布“Fusion融合模型”：用十分之一的价格超越顶级模型的智商",
-          "link": "https://www.qbitai.com/2026/08/467834.html",
-          "date": "2026-08-07T01:39:16+00:00"
         }
       ]
     },
