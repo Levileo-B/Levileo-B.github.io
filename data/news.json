@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T06:40:38+00:00",
+  "updated": "2026-08-08T09:31:41+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -44,6 +44,11 @@
           "date": "2026-08-08T06:12:56+00:00"
         },
         {
+          "title": "The phone book that led us to Assad's spy chief in hiding",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-07T23:23:12+00:00"
+        },
+        {
           "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
           "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-07T22:13:55+00:00"
@@ -57,11 +62,6 @@
           "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
           "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-07T14:20:27+00:00"
-        },
-        {
-          "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-08T00:02:49+00:00"
         }
       ]
     },
@@ -231,6 +231,11 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Nitecore’s latest power bank is the lightest and most compact yet",
+          "link": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+          "date": "2026-08-08T07:17:24+00:00"
+        },
+        {
           "title": "The gaming site sponsored by Walmart lays off its editorial staff",
           "link": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
           "date": "2026-08-07T22:05:08+00:00"
@@ -249,11 +254,6 @@
           "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
           "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
           "date": "2026-08-07T18:40:34+00:00"
-        },
-        {
-          "title": "The only instant cameras worth your money",
-          "link": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
-          "date": "2026-08-07T18:04:08+00:00"
         }
       ]
     },
@@ -290,61 +290,29 @@
       ]
     },
     {
-      "name": "Hacker News",
-      "category": "开发",
-      "url": "https://hnrss.org/frontpage?count=10",
-      "items": [
-        {
-          "title": "Mythos social engineering AISI INC-2026-07-28-01",
-          "link": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
-          "date": "2026-08-08T03:41:56+00:00"
-        },
-        {
-          "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
-          "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
-          "date": "2026-08-08T01:49:11+00:00"
-        },
-        {
-          "title": "The Nixpkgs core team has disbanded",
-          "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-          "date": "2026-08-08T01:12:45+00:00"
-        },
-        {
-          "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-          "link": "https://genesisopenmodels.anl.gov/",
-          "date": "2026-08-07T22:24:27+00:00"
-        },
-        {
-          "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
-          "link": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
-          "date": "2026-08-07T21:19:57+00:00"
-        }
-      ]
-    },
-    {
       "name": "Lobsters",
       "category": "开发",
       "url": "https://lobste.rs/rss",
       "items": [
-        {
-          "title": "Am I the problem? Interviewing another team to find out",
-          "link": "https://www.macchaffee.com/blog/2026/am-i-the-problem/",
-          "date": "2026-08-07T19:27:16+00:00"
-        },
         {
           "title": "The Nixpkgs core team has disbanded",
           "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
           "date": "2026-08-08T02:33:45+00:00"
         },
         {
-          "title": "PS3 emulation is fast on ARM now",
-          "link": "https://www.youtube.com/watch?v=-aI_XEwmKFk",
-          "date": "2026-08-07T17:50:55+00:00"
+          "title": "Am I the problem? Interviewing another team to find out",
+          "link": "https://www.macchaffee.com/blog/2026/am-i-the-problem/",
+          "date": "2026-08-07T19:27:16+00:00"
         },
         {
           "title": "Assembly Hall of Shame: Racing to the bottom of CPU performance",
           "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
           "date": "2026-08-07T20:29:37+00:00"
+        },
+        {
+          "title": "PS3 emulation is fast on ARM now",
+          "link": "https://www.youtube.com/watch?v=-aI_XEwmKFk",
+          "date": "2026-08-07T17:50:55+00:00"
         },
         {
           "title": "A shell exclamation mark is not for yelling. Be lazy",
@@ -359,29 +327,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[业界八卦] 准备入 his 坑",
-          "link": "https://www.v2ex.com/t/1232898#reply0",
-          "date": "2026-08-08T06:28:50+00:00"
+          "title": "[分享创造] 油猴插件-保存浏览器图片",
+          "link": "https://www.v2ex.com/t/1232926#reply0",
+          "date": "2026-08-08T09:27:55+00:00"
         },
         {
-          "title": "[Claude] 买了个 claude 号，为啥卖家强调，要在网页上先用几天，再用 app 登录呢？",
-          "link": "https://www.v2ex.com/t/1232897#reply2",
-          "date": "2026-08-08T06:22:46+00:00"
+          "title": "[酷工作] 有人在 星巴克中国创新科技中心 做开发吗？想问问是不是 WLB",
+          "link": "https://www.v2ex.com/t/1232925#reply0",
+          "date": "2026-08-08T09:11:12+00:00"
         },
         {
-          "title": "[开源软件] 推荐自用「文字转朗读音频」工具： Edge TTS 语音合成助手（开源 · 免费 · Windows）",
-          "link": "https://www.v2ex.com/t/1232896#reply0",
-          "date": "2026-08-08T06:15:31+00:00"
+          "title": "[分享发现] Apple AI 国行真的来了！",
+          "link": "https://www.v2ex.com/t/1232924#reply5",
+          "date": "2026-08-08T09:09:41+00:00"
         },
         {
-          "title": "[酷工作] 测试工程师 / QA 工程师（区块链方向优先）",
-          "link": "https://www.v2ex.com/t/1232895#reply0",
-          "date": "2026-08-08T06:09:12+00:00"
+          "title": "[程序员] 真的不建议任何人用中转 2",
+          "link": "https://www.v2ex.com/t/1232923#reply8",
+          "date": "2026-08-08T09:01:59+00:00"
         },
         {
-          "title": "[OpenAI] Codex for oss 过了，送了 6 个月 pro，但是要绑定银行卡才能激活，求大佬们支招",
-          "link": "https://www.v2ex.com/t/1232892#reply3",
-          "date": "2026-08-08T05:39:44+00:00"
+          "title": "[分享创造] Note.my 一次性笔记分享，开源 加密 安全",
+          "link": "https://www.v2ex.com/t/1232922#reply0",
+          "date": "2026-08-08T09:01:55+00:00"
         }
       ]
     },
@@ -541,6 +509,21 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
+          "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+          "link": "https://www.qbitai.com/2026/08/468631.html",
+          "date": "2026-08-08T07:57:35+00:00"
+        },
+        {
+          "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
+          "link": "https://www.qbitai.com/2026/08/468555.html",
+          "date": "2026-08-08T07:56:09+00:00"
+        },
+        {
+          "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
+          "link": "https://www.qbitai.com/2026/08/468498.html",
+          "date": "2026-08-08T07:51:53+00:00"
+        },
+        {
           "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
           "link": "https://www.qbitai.com/2026/08/468462.html",
           "date": "2026-08-08T04:33:53+00:00"
@@ -549,21 +532,6 @@
           "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
           "link": "https://www.qbitai.com/2026/08/468398.html",
           "date": "2026-08-08T02:45:02+00:00"
-        },
-        {
-          "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
-          "link": "https://www.qbitai.com/2026/08/468338.html",
-          "date": "2026-08-08T02:35:38+00:00"
-        },
-        {
-          "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
-          "link": "https://www.qbitai.com/2026/08/468324.html",
-          "date": "2026-08-07T07:43:06+00:00"
-        },
-        {
-          "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
-          "link": "https://www.qbitai.com/2026/08/466738.html",
-          "date": "2026-08-07T06:21:05+00:00"
         }
       ]
     },
@@ -637,9 +605,19 @@
       "url": "https://www.sciencedaily.com/rss/all.xml",
       "items": [
         {
+          "title": "Sunlight creates quantum entanglement once thought to require lasers",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm",
+          "date": "2026-08-08T03:49:26+00:00"
+        },
+        {
           "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
           "link": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm",
           "date": "2026-08-06T09:50:21+00:00"
+        },
+        {
+          "title": "Teen cannabis use linked to slower memory and thinking growth",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260806050726.htm",
+          "date": "2026-08-08T01:25:25+00:00"
         },
         {
           "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
@@ -650,21 +628,12 @@
           "title": "Scientists find unexpected life on Ötzi the Iceman’s 5,300-year-old body",
           "link": "https://www.sciencedaily.com/releases/2026/08/260806050721.htm",
           "date": "2026-08-07T04:24:49+00:00"
-        },
-        {
-          "title": "Vitamin C may fight cancer — but not the way scientists once thought",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260806050717.htm",
-          "date": "2026-08-07T13:02:16+00:00"
-        },
-        {
-          "title": "Earth’s molten core suddenly reversed direction — and scientists don’t know why",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260806050713.htm",
-          "date": "2026-08-07T10:24:52+00:00"
         }
       ]
     }
   ],
   "failed": [
-    "36 氪"
+    "36 氪",
+    "Hacker News"
   ]
 }
