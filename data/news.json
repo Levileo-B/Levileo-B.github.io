@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T18:28:28+00:00",
+  "updated": "2026-08-08T21:23:40+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,6 +39,11 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+          "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-08T19:18:57+00:00"
+        },
+        {
           "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
           "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-08T15:56:39+00:00"
@@ -52,11 +57,6 @@
           "title": "Messi's father Jorge dies aged 68 after illness",
           "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-08T15:51:11+00:00"
-        },
-        {
-          "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-          "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-08T14:25:19+00:00"
         },
         {
           "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
@@ -231,6 +231,11 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+          "link": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+          "date": "2026-08-08T21:15:12+00:00"
+        },
+        {
           "title": "An Amazon data center could have the worst polluting power plant in the country",
           "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
           "date": "2026-08-08T17:53:34+00:00"
@@ -249,11 +254,6 @@
           "title": "Is this $450 laptop from an unknown brand too good to be true?",
           "link": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
           "date": "2026-08-08T04:23:20+00:00"
-        },
-        {
-          "title": "My favorite feel-good show is back",
-          "link": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
-          "date": "2026-08-08T02:15:16+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+          "link": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+          "date": "2026-08-08T19:38:08+00:00"
+        },
+        {
+          "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "link": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+          "date": "2026-08-08T18:09:31+00:00"
+        },
+        {
+          "title": "TinySol, a tiny solitaire game for DOS",
+          "link": "https://classicbits.net/coding-and-software/my-software/monosol/",
+          "date": "2026-08-08T17:42:40+00:00"
+        },
+        {
+          "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
+          "link": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
+          "date": "2026-08-08T17:27:52+00:00"
+        },
+        {
           "title": "LinkedIn Feed Blocker",
           "link": "https://github.com/andrewpollack/linkedin-feed-blocker",
           "date": "2026-08-08T16:49:07+00:00"
-        },
-        {
-          "title": "Wireblast a 100 Gbps packet generator in Go using AF_XDP",
-          "link": "https://toonk.io/index.html",
-          "date": "2026-08-08T16:07:00+00:00"
-        },
-        {
-          "title": "Fastmail offers EU data region",
-          "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-          "date": "2026-08-08T16:04:51+00:00"
-        },
-        {
-          "title": "Can Intel finally beat ARM on performance per Watt?",
-          "link": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
-          "date": "2026-08-08T16:04:36+00:00"
-        },
-        {
-          "title": "\"Code was never the hard part\" is an insult to all programmers",
-          "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-          "date": "2026-08-08T14:32:33+00:00"
         }
       ]
     },
@@ -347,9 +347,9 @@
           "date": "2026-08-08T08:57:33+00:00"
         },
         {
-          "title": "Enabling the next iteration of the borrow checker on nightly",
-          "link": "https://blog.rust-lang.org/2026/08/04/enabling-polonius-alpha-on-nightly/",
-          "date": "2026-08-08T15:34:43+00:00"
+          "title": "robot.villas – RSS-to-Mastodon Bridge",
+          "link": "https://robot.villas",
+          "date": "2026-08-08T18:18:28+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[OpenAI] [薅羊毛] mirasim（注册账号赠送额度：等于 Codex Pro 5× + Claude Code Max 5×）",
-          "link": "https://www.v2ex.com/t/1232965#reply0",
-          "date": "2026-08-08T18:19:00+00:00"
+          "title": "[Apple] iPhone 横屏",
+          "link": "https://www.v2ex.com/t/1232972#reply0",
+          "date": "2026-08-08T21:17:31+00:00"
         },
         {
-          "title": "[推广] 转一个 L 站看到的羊毛，可以免费一年用 codex 和 claude",
-          "link": "https://www.v2ex.com/t/1232964#reply5",
-          "date": "2026-08-08T16:53:07+00:00"
+          "title": "[分享发现] 盛大 mirasim 前 1000 人注册送 12 个月 $89/月套餐",
+          "link": "https://www.v2ex.com/t/1232970#reply7",
+          "date": "2026-08-08T19:10:55+00:00"
         },
         {
-          "title": "[问与答] vibe 用多 agent 的好处是什么？",
-          "link": "https://www.v2ex.com/t/1232963#reply0",
-          "date": "2026-08-08T16:27:51+00:00"
+          "title": "[淘宝] 淘宝这种验证码已经不能用恶心来形容了，这是人干的事吗",
+          "link": "https://www.v2ex.com/t/1232969#reply3",
+          "date": "2026-08-08T19:10:25+00:00"
         },
         {
-          "title": "[分享创造] m5stack cardputer adv 固件 Sparks v1.10",
-          "link": "https://www.v2ex.com/t/1232962#reply0",
-          "date": "2026-08-08T16:06:45+00:00"
+          "title": "[Claude] 极简使用环境 Claude 订阅存活记录",
+          "link": "https://www.v2ex.com/t/1232968#reply0",
+          "date": "2026-08-08T18:54:15+00:00"
         },
         {
-          "title": "[问与答] 关于被封后的问题",
-          "link": "https://www.v2ex.com/t/1232961#reply0",
-          "date": "2026-08-08T15:43:17+00:00"
+          "title": "[OpenAI] mirasim 注册可以领一年会员 对应 codex、cc 200$",
+          "link": "https://www.v2ex.com/t/1232967#reply2",
+          "date": "2026-08-08T18:40:40+00:00"
         }
       ]
     },
@@ -568,6 +568,38 @@
       ]
     },
     {
+      "name": "MIT Technology Review",
+      "category": "AI",
+      "url": "https://www.technologyreview.com/feed/",
+      "items": [
+        {
+          "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+          "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+          "date": "2026-08-07T14:20:00+00:00"
+        },
+        {
+          "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+          "link": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+          "date": "2026-08-07T14:00:00+00:00"
+        },
+        {
+          "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+          "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+          "date": "2026-08-06T12:10:00+00:00"
+        },
+        {
+          "title": "Puzzle Corner",
+          "link": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+          "date": "2026-08-05T14:56:29+00:00"
+        },
+        {
+          "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
+          "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+          "date": "2026-08-05T12:10:00+00:00"
+        }
+      ]
+    },
+    {
       "name": "Nature",
       "category": "科研",
       "url": "https://www.nature.com/nature.rss",
@@ -633,7 +665,6 @@
     }
   ],
   "failed": [
-    "36 氪",
-    "MIT Technology Review"
+    "36 氪"
   ]
 }
