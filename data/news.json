@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T04:08:02+00:00",
+  "updated": "2026-08-08T06:40:38+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,6 +39,11 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "Child among three killed in Russian missile attacks near Kyiv",
+          "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-08T06:12:56+00:00"
+        },
+        {
           "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
           "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-07T22:13:55+00:00"
@@ -54,14 +59,9 @@
           "date": "2026-08-07T14:20:27+00:00"
         },
         {
-          "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-          "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-07T17:42:54+00:00"
-        },
-        {
-          "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-          "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-07T16:13:45+00:00"
+          "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-08T00:02:49+00:00"
         }
       ]
     },
@@ -113,6 +113,11 @@
           "date": "2026-08-07T18:09:18+00:00"
         },
         {
+          "title": "Inside the startup drone maker powering Ukraine's deep-strike campaign",
+          "link": "https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html",
+          "date": "2026-08-08T05:21:12+00:00"
+        },
+        {
           "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
           "link": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
           "date": "2026-08-07T20:22:17+00:00"
@@ -121,11 +126,6 @@
           "title": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
           "link": "https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html",
           "date": "2026-08-07T16:55:42+00:00"
-        },
-        {
-          "title": "Burger King overtakes Wendy's as the nation's second-largest burger chain",
-          "link": "https://www.cnbc.com/2026/08/07/burger-king-wendys-hamburger-restaurants.html",
-          "date": "2026-08-07T18:19:39+00:00"
         }
       ]
     },
@@ -134,6 +134,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "就内容创作而言，说话还是替代不了打字",
+          "link": "https://sspai.com/post/112901",
+          "date": "2026-08-08T05:11:00+00:00"
+        },
         {
           "title": "本周看什么 | 最近值得一看的 10 部作品",
           "link": "https://sspai.com/post/113191",
@@ -153,11 +158,6 @@
           "title": "派早报：Bose 发布新款 QuietComfort 头戴式耳机等",
           "link": "https://sspai.com/post/113162",
           "date": "2026-08-07T00:51:06+00:00"
-        },
-        {
-          "title": "新玩意 248｜少数派的编辑们最近买了啥？",
-          "link": "https://sspai.com/post/113139",
-          "date": "2026-08-06T09:30:00+00:00"
         }
       ]
     },
@@ -310,14 +310,14 @@
           "date": "2026-08-08T01:12:45+00:00"
         },
         {
-          "title": "Show HN: Modern C++ Build Tools for Module Feature",
-          "link": "https://github.com/mcpp-community/mcpp",
-          "date": "2026-08-08T00:30:52+00:00"
-        },
-        {
           "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
           "link": "https://genesisopenmodels.anl.gov/",
           "date": "2026-08-07T22:24:27+00:00"
+        },
+        {
+          "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+          "link": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+          "date": "2026-08-07T21:19:57+00:00"
         }
       ]
     },
@@ -332,14 +332,14 @@
           "date": "2026-08-07T19:27:16+00:00"
         },
         {
+          "title": "The Nixpkgs core team has disbanded",
+          "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+          "date": "2026-08-08T02:33:45+00:00"
+        },
+        {
           "title": "PS3 emulation is fast on ARM now",
           "link": "https://www.youtube.com/watch?v=-aI_XEwmKFk",
           "date": "2026-08-07T17:50:55+00:00"
-        },
-        {
-          "title": "A shell exclamation mark is not for yelling. Be lazy",
-          "link": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-          "date": "2026-08-07T01:18:25+00:00"
         },
         {
           "title": "Assembly Hall of Shame: Racing to the bottom of CPU performance",
@@ -347,9 +347,9 @@
           "date": "2026-08-07T20:29:37+00:00"
         },
         {
-          "title": "The Nixpkgs core team has disbanded",
-          "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-          "date": "2026-08-08T02:33:45+00:00"
+          "title": "A shell exclamation mark is not for yelling. Be lazy",
+          "link": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+          "date": "2026-08-07T01:18:25+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[程序员] Claude Code 能不能接便宜点的 Claude 中转？官方有点用不起了",
-          "link": "https://www.v2ex.com/t/1232879#reply0",
-          "date": "2026-08-08T04:03:00+00:00"
+          "title": "[业界八卦] 准备入 his 坑",
+          "link": "https://www.v2ex.com/t/1232898#reply0",
+          "date": "2026-08-08T06:28:50+00:00"
         },
         {
-          "title": "[程序员] CFTun-UI：为 Nas 设计的 Cloudflare Tunnel 可视化管理面板 🐳",
-          "link": "https://www.v2ex.com/t/1232878#reply0",
-          "date": "2026-08-08T03:58:40+00:00"
+          "title": "[Claude] 买了个 claude 号，为啥卖家强调，要在网页上先用几天，再用 app 登录呢？",
+          "link": "https://www.v2ex.com/t/1232897#reply2",
+          "date": "2026-08-08T06:22:46+00:00"
         },
         {
-          "title": "[分享发现] opencode go 这是崩了吗？",
-          "link": "https://www.v2ex.com/t/1232876#reply0",
-          "date": "2026-08-08T03:50:36+00:00"
+          "title": "[开源软件] 推荐自用「文字转朗读音频」工具： Edge TTS 语音合成助手（开源 · 免费 · Windows）",
+          "link": "https://www.v2ex.com/t/1232896#reply0",
+          "date": "2026-08-08T06:15:31+00:00"
         },
         {
-          "title": "[分享创造] 搁置很久的 AI 工具导航站 PickApps，最近重新捡起来重做了",
-          "link": "https://www.v2ex.com/t/1232875#reply0",
-          "date": "2026-08-08T03:38:19+00:00"
+          "title": "[酷工作] 测试工程师 / QA 工程师（区块链方向优先）",
+          "link": "https://www.v2ex.com/t/1232895#reply0",
+          "date": "2026-08-08T06:09:12+00:00"
         },
         {
-          "title": "[分享创造] 分享好玩的桌搭",
-          "link": "https://www.v2ex.com/t/1232874#reply3",
-          "date": "2026-08-08T03:35:59+00:00"
+          "title": "[OpenAI] Codex for oss 过了，送了 6 个月 pro，但是要绑定银行卡才能激活，求大佬们支招",
+          "link": "https://www.v2ex.com/t/1232892#reply3",
+          "date": "2026-08-08T05:39:44+00:00"
         }
       ]
     },
@@ -541,6 +541,11 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
+          "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
+          "link": "https://www.qbitai.com/2026/08/468462.html",
+          "date": "2026-08-08T04:33:53+00:00"
+        },
+        {
           "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
           "link": "https://www.qbitai.com/2026/08/468398.html",
           "date": "2026-08-08T02:45:02+00:00"
@@ -559,11 +564,6 @@
           "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
           "link": "https://www.qbitai.com/2026/08/466738.html",
           "date": "2026-08-07T06:21:05+00:00"
-        },
-        {
-          "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
-          "link": "https://www.qbitai.com/2026/08/468305.html",
-          "date": "2026-08-07T06:18:51+00:00"
         }
       ]
     },
