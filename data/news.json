@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T01:14:04+00:00",
+  "updated": "2026-08-09T04:13:48+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -12,6 +12,11 @@
           "date": "2026-08-07T10:34:10+00:00"
         },
         {
+          "title": "「瘦瘦針」如何改變人們的飲酒習慣？",
+          "link": "https://www.bbc.com/zhongwen/articles/c36d3735ng1o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-09T03:59:09+00:00"
+        },
+        {
           "title": "特朗普簽署新行政命令 試圖重新限制美國出生公民權",
           "link": "https://www.bbc.com/zhongwen/articles/c1e1v7gxwzdo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-07T02:50:00+00:00"
@@ -20,11 +25,6 @@
           "title": "人工智能被用於設計全新病毒",
           "link": "https://www.bbc.com/zhongwen/articles/crrvndrv1pyo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-07T09:24:48+00:00"
-        },
-        {
-          "title": "軍政府因中國再次強硬 緬甸百姓的革命夢想幻滅了嗎？",
-          "link": "https://www.bbc.com/zhongwen/articles/c2elpyr132vo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-06T13:34:05+00:00"
         },
         {
           "title": "歐洲乾旱與河流乾涸：炸彈、戰艦殘骸、猛獁象骨骸重見天日",
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "ChatGPT starts blocking direct requests to copy an author's style",
+          "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+          "date": "2026-08-09T02:01:38+00:00"
+        },
+        {
+          "title": "The phone book that led us to Assad's spy chief in hiding",
+          "link": "https://www.bbc.com/news/articles/c4gyrzn8p94o",
+          "date": "2026-08-09T01:55:53+00:00"
+        },
+        {
+          "title": "TheoremDB · A public workspace for machine mathematics",
+          "link": "https://theoremdb.org/",
+          "date": "2026-08-09T01:23:36+00:00"
+        },
+        {
           "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
           "link": "https://os8088.com/",
           "date": "2026-08-08T23:37:27+00:00"
         },
         {
-          "title": "Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal",
-          "link": "https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal",
-          "date": "2026-08-08T23:19:44+00:00"
-        },
-        {
-          "title": "Depression has tripled in the last 15 years. Arthur Brooks about the cause",
-          "link": "https://bigthink.com/series/full-interview/meaning-crisis-brooks/",
-          "date": "2026-08-08T23:09:07+00:00"
-        },
-        {
           "title": "Dithered QR Codes",
           "link": "https://www.andrewt.net/dithered-qr-codes/wtf/",
           "date": "2026-08-08T23:05:24+00:00"
-        },
-        {
-          "title": "My server is a phone now",
-          "link": "https://seg6.space/posts/phone-server/",
-          "date": "2026-08-08T22:49:23+00:00"
         }
       ]
     },
@@ -332,24 +332,24 @@
           "date": "2026-08-08T13:48:36+00:00"
         },
         {
-          "title": "The Nixpkgs core team has disbanded",
-          "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-          "date": "2026-08-08T02:33:45+00:00"
-        },
-        {
           "title": "\"Code was never the hard part\" is an insult to all programmers",
           "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
           "date": "2026-08-08T19:23:48+00:00"
         },
         {
-          "title": "They don’t make ’em like Sublime Text anymore",
-          "link": "https://dbushell.com/2026/08/07/sublime-text/",
-          "date": "2026-08-08T08:57:33+00:00"
+          "title": "The Nixpkgs core team has disbanded",
+          "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+          "date": "2026-08-08T02:33:45+00:00"
         },
         {
           "title": "robot.villas – RSS-to-Mastodon Bridge",
           "link": "https://robot.villas",
           "date": "2026-08-08T18:18:28+00:00"
+        },
+        {
+          "title": "They don’t make ’em like Sublime Text anymore",
+          "link": "https://dbushell.com/2026/08/07/sublime-text/",
+          "date": "2026-08-08T08:57:33+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[Claude] claude 被封了 3 次，用了 3 个苹果账号订阅",
-          "link": "https://www.v2ex.com/t/1232990#reply0",
-          "date": "2026-08-09T01:06:23+00:00"
+          "title": "[分享创造] 昨天一天用 Codex 5.6 Sol 搞定的，基于 ESP32-C5 WiFi CSI 睡眠监测，经过一夜的睡眠监测，确实很准",
+          "link": "https://www.v2ex.com/t/1233022#reply0",
+          "date": "2026-08-09T04:12:51+00:00"
         },
         {
-          "title": "[推广] Coachix：让 AI Agent 推理过程更容易复盘和改进",
-          "link": "https://www.v2ex.com/t/1232988#reply0",
-          "date": "2026-08-09T00:57:58+00:00"
+          "title": "[iPhone] iOS 上买了 stay 还有必要买 tampermonkey 吗？",
+          "link": "https://www.v2ex.com/t/1233021#reply0",
+          "date": "2026-08-09T04:08:53+00:00"
         },
         {
-          "title": "[中转站测评] 推荐一下我自己的中转站",
-          "link": "https://www.v2ex.com/t/1232987#reply1",
-          "date": "2026-08-09T00:53:51+00:00"
+          "title": "[分享创造] [首发] VidServe 一键将电脑上的视频目录变为局域网视频网站，手机电脑都能看",
+          "link": "https://www.v2ex.com/t/1233020#reply0",
+          "date": "2026-08-09T03:54:22+00:00"
         },
         {
-          "title": "[OpenAI] 兄弟们，重置了，昨天正好用到剩余 1%，今天 100%了",
-          "link": "https://www.v2ex.com/t/1232986#reply0",
-          "date": "2026-08-09T00:52:13+00:00"
+          "title": "[问与答] Codex 的邀请好友奖励到底是要怎样才能完成的？",
+          "link": "https://www.v2ex.com/t/1233019#reply0",
+          "date": "2026-08-09T03:37:41+00:00"
         },
         {
-          "title": "[程序员] 有人真的用过 mini swe agent 来 debug 或是开发吗",
-          "link": "https://www.v2ex.com/t/1232985#reply0",
-          "date": "2026-08-09T00:43:46+00:00"
+          "title": "[Apple] Mac 和 Windows 可以共用一套键鼠吗",
+          "link": "https://www.v2ex.com/t/1233018#reply9",
+          "date": "2026-08-09T03:31:16+00:00"
         }
       ]
     },
