@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T01:16:02+00:00",
+  "updated": "2026-08-10T04:25:09+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -103,6 +103,11 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
+          "title": "Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal",
+          "link": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
+          "date": "2026-08-10T04:17:48+00:00"
+        },
+        {
           "title": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery",
           "link": "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
           "date": "2026-08-09T18:15:57+00:00"
@@ -121,11 +126,6 @@
           "title": "Myspace eyes comeback as an 'antidote' to social media fatigue — but it may be a long shot",
           "link": "https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html",
           "date": "2026-08-09T12:23:54+00:00"
-        },
-        {
-          "title": "Ocasio-Cortez hasn't 'ruled out' running for president or Senate in 2028",
-          "link": "https://www.cnbc.com/2026/08/09/ocasio-cortez-hasnt-ruled-out-running-for-president-or-senate-in-2028.html",
-          "date": "2026-08-09T14:45:17+00:00"
         }
       ]
     },
@@ -134,6 +134,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕",
+          "link": "https://sspai.com/post/113202",
+          "date": "2026-08-10T03:00:56+00:00"
+        },
         {
           "title": "派早报：央视曝光酒店评级标识消费陷阱",
           "link": "https://sspai.com/post/113268",
@@ -153,11 +158,6 @@
           "title": "本周看什么 | 最近值得一看的 10 部作品",
           "link": "https://sspai.com/post/113191",
           "date": "2026-08-07T09:52:38+00:00"
-        },
-        {
-          "title": "[限时优惠] 数据分析：用好 Excel 中的数据透视表",
-          "link": "https://sspai.com/post/113108",
-          "date": "2026-08-07T07:39:58+00:00"
         }
       ]
     },
@@ -166,6 +166,16 @@
       "category": "科技",
       "url": "https://www.ifanr.com/feed",
       "items": [
+        {
+          "title": "卡西欧小方块，是我今年最想要的智能戒指",
+          "link": "https://www.ifanr.com/1674518?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-08-10T04:19:44+00:00"
+        },
+        {
+          "title": "AI 开始帮写朋友圈了，但我更想念「古法手作」文字",
+          "link": "https://www.ifanr.com/1673846?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-08-10T03:40:53+00:00"
+        },
         {
           "title": "早报｜国行苹果AI上线官网后被撤下/曝Apple Watch将迎来大升级/宇树科技今日开启科创板申购",
           "link": "https://www.ifanr.com/1674507?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -180,16 +190,6 @@
           "title": "最后一辆 W16 布加迪，成为了拥有 1600 马力的艺术品",
           "link": "https://www.ifanr.com/1674436?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-08-07T11:28:46+00:00"
-        },
-        {
-          "title": "在 ChinaJoy ，我看到了第一台「科技潮玩」机器人",
-          "link": "https://www.ifanr.com/1674308?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-08-07T10:12:32+00:00"
-        },
-        {
-          "title": "解读｜OpenAI 音箱：果味设计，但比苹果多走一步",
-          "link": "https://www.ifanr.com/1674363?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-08-07T04:00:19+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "To Recruit Teachers, School Districts Are Building Homes",
-          "link": "https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html",
-          "date": "2026-08-09T22:00:36+00:00"
+          "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+          "link": "https://www.whodunnitai.com/",
+          "date": "2026-08-10T03:18:40+00:00"
         },
         {
-          "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-          "link": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
-          "date": "2026-08-09T21:52:23+00:00"
+          "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+          "link": "https://github.com/shinyquagsire23/Klepton",
+          "date": "2026-08-10T03:12:48+00:00"
         },
         {
-          "title": "Georgia police officers fired after Flock camera misuse",
-          "link": "https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/",
-          "date": "2026-08-09T21:20:24+00:00"
+          "title": "Turn satellite imagery into a paper globe you fold yourself",
+          "link": "https://foldingglobes.com/",
+          "date": "2026-08-10T02:57:38+00:00"
         },
         {
-          "title": "Tuxedo No. 2 – Cocktail recipes",
-          "link": "https://tuxedono2.com",
-          "date": "2026-08-09T20:48:46+00:00"
+          "title": "What Happened to HackerOne?",
+          "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+          "date": "2026-08-10T02:23:17+00:00"
         },
         {
-          "title": "New Zealand lost its music media, and what we're building to replace it",
-          "link": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-          "date": "2026-08-09T20:42:29+00:00"
+          "title": "Taylor Farms recalls salsa and guacamole over salmonella risk",
+          "link": "https://www.cnbc.com/2026/08/09/taylor-farms-recalls-salsa-and-guacamole-over-salmonella-risk.html",
+          "date": "2026-08-10T02:13:54+00:00"
         }
       ]
     },
@@ -347,9 +347,9 @@
           "date": "2026-08-09T08:16:46+00:00"
         },
         {
-          "title": "Relying on Go",
-          "link": "https://antonz.org/relying-on-go/",
-          "date": "2026-08-09T14:43:04+00:00"
+          "title": "nixpkgs-multiverse: every version that ever existed",
+          "link": "https://fzakaria.com/2026/08/09/nixpkgs-multiverse-every-version-that-ever-existed",
+          "date": "2026-08-09T23:06:03+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[问与答] 大家有在用 QQ 做内容，做私域的嘛？",
-          "link": "https://www.v2ex.com/t/1233126#reply0",
-          "date": "2026-08-10T01:14:03+00:00"
+          "title": "[问与答] 非码农如何在 Windows 上选择 Ai 帮忙配置软路由，写规则脚本呢？",
+          "link": "https://www.v2ex.com/t/1233213#reply1",
+          "date": "2026-08-10T04:15:54+00:00"
         },
         {
-          "title": "[问与答] 如果给你两年时间，你会如何准备或谋划你的职业",
-          "link": "https://www.v2ex.com/t/1233125#reply0",
-          "date": "2026-08-10T01:12:28+00:00"
+          "title": "[问与答] 你们在电脑上看文字的时候会拿鼠标大概指着看吗",
+          "link": "https://www.v2ex.com/t/1233212#reply1",
+          "date": "2026-08-10T04:15:17+00:00"
         },
         {
-          "title": "[问与答] 减肥真的不难啊，为什么要靠打药这种方式呢？",
-          "link": "https://www.v2ex.com/t/1233124#reply0",
-          "date": "2026-08-10T01:11:18+00:00"
+          "title": "[分享创造] 梗仓 MemeVault： B 站神评「⭐ 收藏」插件",
+          "link": "https://www.v2ex.com/t/1233211#reply0",
+          "date": "2026-08-10T04:07:31+00:00"
         },
         {
-          "title": "[职场话题] 看了兄弟们的发言，感觉耗着没啥意义了，拖欠工资超过 3 个月了，能不能被迫离职，有类似经验的兄弟们么。。。",
-          "link": "https://www.v2ex.com/t/1233123#reply12",
-          "date": "2026-08-10T01:05:26+00:00"
+          "title": "[推广] 送 送 500mb 住宅流量 静态住宅等于 2 刀/月 美国机房 1 刀/月起",
+          "link": "https://www.v2ex.com/t/1233210#reply0",
+          "date": "2026-08-10T03:59:48+00:00"
         },
         {
-          "title": "[问与答] 有没有 Netflix 的号？求",
-          "link": "https://www.v2ex.com/t/1233122#reply0",
-          "date": "2026-08-10T00:57:01+00:00"
+          "title": "[分享创造] 做了个 Agent 版的百万像素，快来占领首页！",
+          "link": "https://www.v2ex.com/t/1233209#reply0",
+          "date": "2026-08-10T03:58:01+00:00"
         }
       ]
     },
@@ -541,29 +541,29 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
-          "title": "180万刀，连亚马逊都烧不起Claude了",
-          "link": "https://www.qbitai.com/2026/08/469010.html",
-          "date": "2026-08-09T09:25:10+00:00"
+          "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
+          "link": "https://www.qbitai.com/2026/08/469493.html",
+          "date": "2026-08-10T03:24:23+00:00"
         },
         {
-          "title": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
-          "link": "https://www.qbitai.com/2026/08/468913.html",
-          "date": "2026-08-09T09:16:58+00:00"
+          "title": "苹果开测长鑫存储！百度、千问也一起挤进苹果供应链",
+          "link": "https://www.qbitai.com/2026/08/469475.html",
+          "date": "2026-08-10T02:34:48+00:00"
         },
         {
-          "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
-          "link": "https://www.qbitai.com/2026/08/468782.html",
-          "date": "2026-08-09T03:40:25+00:00"
+          "title": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒",
+          "link": "https://www.qbitai.com/2026/08/469454.html",
+          "date": "2026-08-10T02:25:55+00:00"
         },
         {
-          "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
-          "link": "https://www.qbitai.com/2026/08/468766.html",
-          "date": "2026-08-09T03:25:00+00:00"
+          "title": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只",
+          "link": "https://www.qbitai.com/2026/08/469213.html",
+          "date": "2026-08-10T01:34:10+00:00"
         },
         {
-          "title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
-          "link": "https://www.qbitai.com/2026/08/468715.html",
-          "date": "2026-08-09T03:17:18+00:00"
+          "title": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
+          "link": "https://www.qbitai.com/2026/08/469076.html",
+          "date": "2026-08-10T01:12:33+00:00"
         }
       ]
     },
