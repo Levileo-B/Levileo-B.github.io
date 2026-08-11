@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T04:15:16+00:00",
+  "updated": "2026-08-11T06:56:47+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -71,14 +71,14 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
-          "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
-          "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-10T22:31:42+00:00"
-        },
-        {
           "title": "Trump Media reports $238m loss as crypto falls",
           "link": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-11T02:21:31+00:00"
+          "date": "2026-08-11T06:55:32+00:00"
+        },
+        {
+          "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
+          "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-10T22:31:42+00:00"
         },
         {
           "title": "Councils to get more powers to stop vape and betting shops, PM announces",
@@ -113,14 +113,14 @@
           "date": "2026-08-10T22:09:00+00:00"
         },
         {
-          "title": "CNBC's The China Connection newsletter: 'Spider-Man' and 'The Odyssey' come courting the massive filmgoer market",
-          "link": "https://www.cnbc.com/2026/08/11/hollywood-returns-to-china-as-chinese-rivals-push-abroad.html",
-          "date": "2026-08-10T23:00:14+00:00"
+          "title": "Hormuz Deadlock: Where oil prices could head next as prospects for an imminent deal fade",
+          "link": "https://www.cnbc.com/2026/08/11/hormuz-oil-prices-us-iran.html",
+          "date": "2026-08-11T05:01:40+00:00"
         },
         {
-          "title": "Singapore revises its annual growth forecast sharply higher on AI-related boost",
-          "link": "https://www.cnbc.com/2026/08/11/singapore-gdp-forecast-ai-boost-oil.html",
-          "date": "2026-08-11T02:58:27+00:00"
+          "title": "OpenAI wraps $7 billion share sale ahead of potential IPO",
+          "link": "https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html",
+          "date": "2026-08-10T22:15:31+00:00"
         },
         {
           "title": "Trump signs executive order calling for fewer childhood vaccines, falsely linking shots to autism",
@@ -134,6 +134,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你",
+          "link": "https://sspai.com/post/113288",
+          "date": "2026-08-11T04:00:00+00:00"
+        },
         {
           "title": "不喜欢对照式译文的阅读体验？Ovid 让你「按需」查看原版书籍",
           "link": "https://sspai.com/post/113263",
@@ -153,11 +158,6 @@
           "title": "派评 | 近期值得关注的 App",
           "link": "https://sspai.com/post/113283",
           "date": "2026-08-10T10:00:00+00:00"
-        },
-        {
-          "title": "写给「跑两步就喘」的你：调整跑步姿势，舒适开跑",
-          "link": "https://sspai.com/post/113115",
-          "date": "2026-08-10T07:00:00+00:00"
         }
       ]
     },
@@ -295,6 +295,11 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
+          "link": "https://github.com/activeing123/mcptoon",
+          "date": "2026-08-11T05:26:58+00:00"
+        },
+        {
           "title": "Hyperspace",
           "link": "https://hypercritical.co/hyperspace/",
           "date": "2026-08-11T02:04:35+00:00"
@@ -305,7 +310,7 @@
           "date": "2026-08-11T02:01:01+00:00"
         },
         {
-          "title": "Antirez/h3.c: MiniMax H3 inference engine for Mac computers",
+          "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
           "link": "https://github.com/antirez/h3.c",
           "date": "2026-08-11T01:22:09+00:00"
         },
@@ -313,11 +318,6 @@
           "title": "Chicken Scheme 6.0",
           "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
           "date": "2026-08-11T00:24:15+00:00"
-        },
-        {
-          "title": "The UK's War on Anonymity Has Come to America",
-          "link": "https://www.effort.news/uk-lobby",
-          "date": "2026-08-10T23:45:50+00:00"
         }
       ]
     },
@@ -337,14 +337,14 @@
           "date": "2026-08-10T13:30:18+00:00"
         },
         {
-          "title": "Firefox Containers Preview",
-          "link": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
-          "date": "2026-08-10T09:37:18+00:00"
-        },
-        {
           "title": "A researcher bought noreply.net. Companies started sending him secrets",
           "link": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
           "date": "2026-08-10T16:47:33+00:00"
+        },
+        {
+          "title": "Firefox Containers Preview",
+          "link": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+          "date": "2026-08-10T09:37:18+00:00"
         },
         {
           "title": "a pure css implementation of some sunlight streaming in through the window",
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[推广] 住宅 IP 免费送 原生独享 Ip 只要几块钱 codex chatgpt 等业务随便用",
-          "link": "https://www.v2ex.com/t/1233503#reply0",
-          "date": "2026-08-11T04:08:59+00:00"
+          "title": "[生活] 鉴于社区关于减肥/健身的话题火热，是时候掏出俺的小程序了：鉴定自己的减脂人格",
+          "link": "https://www.v2ex.com/t/1233559#reply0",
+          "date": "2026-08-11T06:48:04+00:00"
         },
         {
-          "title": "[推广] [推广] Codex Pro 20x 拼车继续，订阅账单直接放出来",
-          "link": "https://www.v2ex.com/t/1233502#reply0",
-          "date": "2026-08-11T04:00:34+00:00"
+          "title": "[分享创造] 整理了一套锤子系统 Smartisan OS 经典拟物的 Icon Pack",
+          "link": "https://www.v2ex.com/t/1233558#reply0",
+          "date": "2026-08-11T06:47:18+00:00"
         },
         {
-          "title": "[问与答] 如何看待\"百年京张 AI 创新带城市设计开源征集\"",
-          "link": "https://www.v2ex.com/t/1233501#reply0",
-          "date": "2026-08-11T03:58:50+00:00"
+          "title": "[电影] 聊聊电影、影院及观影团",
+          "link": "https://www.v2ex.com/t/1233557#reply0",
+          "date": "2026-08-11T06:46:15+00:00"
         },
         {
-          "title": "[问与答] clashbox 的平替",
-          "link": "https://www.v2ex.com/t/1233500#reply3",
-          "date": "2026-08-11T03:58:47+00:00"
+          "title": "[程序员] 你们觉得有 AI 辅助以后，不同水平的程序员的差距是被缩小了还是拉大了？",
+          "link": "https://www.v2ex.com/t/1233556#reply5",
+          "date": "2026-08-11T06:42:58+00:00"
         },
         {
-          "title": "[分享创造] 给豆包做了一款增强插件：把「文件整理、对话导航、注释标记、提示词队列、导出、快捷进入、本地读写、主体」等更多功能集成进去",
-          "link": "https://www.v2ex.com/t/1233499#reply0",
-          "date": "2026-08-11T03:56:32+00:00"
+          "title": "[分享创造] 做了一个 App 图标生成器，把 iOS/Android/Web 图标尺寸的坑都踩了一遍",
+          "link": "https://www.v2ex.com/t/1233555#reply0",
+          "date": "2026-08-11T06:39:05+00:00"
         }
       ]
     },
@@ -541,29 +541,29 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
-          "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
-          "link": "https://www.qbitai.com/2026/08/469869.html",
-          "date": "2026-08-11T03:11:12+00:00"
+          "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+          "link": "https://www.qbitai.com/2026/08/470485.html",
+          "date": "2026-08-11T05:12:20+00:00"
         },
         {
-          "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
-          "link": "https://www.qbitai.com/2026/08/469860.html",
-          "date": "2026-08-11T00:46:23+00:00"
+          "title": "宇树会破发吗？王兴兴回应了",
+          "link": "https://www.qbitai.com/2026/08/470307.html",
+          "date": "2026-08-11T04:42:50+00:00"
         },
         {
-          "title": "AI倒查论文100年！99.2%的顶刊都有问题…",
-          "link": "https://www.qbitai.com/2026/08/469795.html",
-          "date": "2026-08-10T13:58:46+00:00"
+          "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
+          "link": "https://www.qbitai.com/2026/08/470254.html",
+          "date": "2026-08-11T04:31:39+00:00"
         },
         {
-          "title": "PDF当死，ARA该立！论文是时候Agent原生了",
-          "link": "https://www.qbitai.com/2026/08/469721.html",
-          "date": "2026-08-10T13:53:22+00:00"
+          "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
+          "link": "https://www.qbitai.com/2026/08/470228.html",
+          "date": "2026-08-11T03:51:24+00:00"
         },
         {
-          "title": "模型路线趋同之后，Physical AI的胜负手变了",
-          "link": "https://www.qbitai.com/2026/08/469544.html",
-          "date": "2026-08-10T09:20:50+00:00"
+          "title": "机器人赛道新岗位：月入6000元的“骨科大夫”，专治缺胳膊断腿",
+          "link": "https://www.qbitai.com/2026/08/469880.html",
+          "date": "2026-08-11T03:37:31+00:00"
         }
       ]
     },
