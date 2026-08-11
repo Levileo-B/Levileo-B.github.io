@@ -1,11 +1,16 @@
 {
-  "updated": "2026-08-11T01:14:20+00:00",
+  "updated": "2026-08-11T04:15:16+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "哥倫比亞多年來最大地震造成至少132人死亡",
+          "link": "https://www.bbc.com/zhongwen/articles/cy9w1n5vgljo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-11T03:43:53+00:00"
+        },
         {
           "title": "想要開放霍爾木茲海峽 伊朗向特朗普提出的六個條件",
           "link": "https://www.bbc.com/zhongwen/articles/cdrv28lg4y3o/trad?at_medium=RSS&at_campaign=rss",
@@ -22,11 +27,6 @@
           "date": "2026-08-10T05:54:01+00:00"
         },
         {
-          "title": "為什麼航空公司對鋰電池日趨警惕",
-          "link": "https://www.bbc.com/zhongwen/articles/clyjvy7zzngo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-10T09:16:11+00:00"
-        },
-        {
           "title": "MySpace 要回歸？粉絲想念那個無濾鏡、原圖直出的年代",
           "link": "https://www.bbc.com/zhongwen/articles/clyqg037d5yo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-11T00:02:22+00:00"
@@ -39,6 +39,21 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "At least 132 killed in Colombia's largest  earthquake in years",
+          "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-11T04:06:07+00:00"
+        },
+        {
+          "title": "Canada flight cancelled after child refuses to wear seat belt",
+          "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-10T21:06:27+00:00"
+        },
+        {
+          "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
+          "link": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-10T20:45:29+00:00"
+        },
+        {
           "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
           "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-10T14:34:25+00:00"
@@ -47,21 +62,6 @@
           "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
           "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-10T14:43:08+00:00"
-        },
-        {
-          "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-          "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-10T19:17:11+00:00"
-        },
-        {
-          "title": "Canada flight cancelled after child refuses to wear seat belt",
-          "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-10T21:06:27+00:00"
-        },
-        {
-          "title": "30 years later, a former gang member will stand trial for Tupac's murder",
-          "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-10T16:52:47+00:00"
         }
       ]
     },
@@ -74,6 +74,11 @@
           "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
           "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-10T22:31:42+00:00"
+        },
+        {
+          "title": "Trump Media reports $238m loss as crypto falls",
+          "link": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-11T02:21:31+00:00"
         },
         {
           "title": "Councils to get more powers to stop vape and betting shops, PM announces",
@@ -89,11 +94,6 @@
           "title": "Ban on 'subscription traps' brought forward by three months",
           "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-10T09:57:54+00:00"
-        },
-        {
-          "title": "Consortium advances talks for stake in Liverpool",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-10T13:16:51+00:00"
         }
       ]
     },
@@ -103,14 +103,14 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
+          "title": "Trump claims total control of Hormuz, demands Iran pay reparations as standoff deepens",
+          "link": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
+          "date": "2026-08-11T01:52:04+00:00"
+        },
+        {
           "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
           "link": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
           "date": "2026-08-10T22:09:00+00:00"
-        },
-        {
-          "title": "Trump signs executive order calling for fewer childhood vaccines, falsely linking shots to autism",
-          "link": "https://www.cnbc.com/2026/08/10/trump-vaccine-executive-order-autism.html",
-          "date": "2026-08-10T20:51:17+00:00"
         },
         {
           "title": "CNBC's The China Connection newsletter: 'Spider-Man' and 'The Odyssey' come courting the massive filmgoer market",
@@ -118,14 +118,14 @@
           "date": "2026-08-10T23:00:14+00:00"
         },
         {
-          "title": "Trump says he spoke recently to Fed Chairman Warsh, denies regular calls",
-          "link": "https://www.cnbc.com/2026/08/10/trump-spoke-to-fed-chair-kevin-warsh-denies-regular-calls.html",
-          "date": "2026-08-10T21:23:04+00:00"
+          "title": "Singapore revises its annual growth forecast sharply higher on AI-related boost",
+          "link": "https://www.cnbc.com/2026/08/11/singapore-gdp-forecast-ai-boost-oil.html",
+          "date": "2026-08-11T02:58:27+00:00"
         },
         {
-          "title": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
-          "link": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
-          "date": "2026-08-10T14:27:15+00:00"
+          "title": "Trump signs executive order calling for fewer childhood vaccines, falsely linking shots to autism",
+          "link": "https://www.cnbc.com/2026/08/10/trump-vaccine-executive-order-autism.html",
+          "date": "2026-08-10T20:51:17+00:00"
         }
       ]
     },
@@ -134,6 +134,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "不喜欢对照式译文的阅读体验？Ovid 让你「按需」查看原版书籍",
+          "link": "https://sspai.com/post/113263",
+          "date": "2026-08-11T02:17:21+00:00"
+        },
         {
           "title": "派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等",
           "link": "https://sspai.com/post/113301",
@@ -153,11 +158,6 @@
           "title": "写给「跑两步就喘」的你：调整跑步姿势，舒适开跑",
           "link": "https://sspai.com/post/113115",
           "date": "2026-08-10T07:00:00+00:00"
-        },
-        {
-          "title": "我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕",
-          "link": "https://sspai.com/post/113202",
-          "date": "2026-08-10T03:00:56+00:00"
         }
       ]
     },
@@ -166,6 +166,11 @@
       "category": "科技",
       "url": "https://www.ifanr.com/feed",
       "items": [
+        {
+          "title": "对话智界赵长江：用旧时代的逻辑，经营不好 AI 时代的汽车公司",
+          "link": "https://www.ifanr.com/1674637?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-08-11T02:27:27+00:00"
+        },
         {
           "title": "早报｜苹果20周年iPhone或因良率问题取消/小米校招AI岗位增加50%/极氪回应7X充电场站过热",
           "link": "https://www.ifanr.com/1674633?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -185,11 +190,6 @@
           "title": "22.99万元起，阿维塔07L上市：车身加长，华为ADS 5全系上车",
           "link": "https://www.ifanr.com/1674579?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-08-10T09:27:17+00:00"
-        },
-        {
-          "title": "马斯克的新生图模型，让我笑了一整晚",
-          "link": "https://www.ifanr.com/1674531?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-08-10T07:44:41+00:00"
         }
       ]
     },
@@ -295,24 +295,24 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don't",
-          "link": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
-          "date": "2026-08-11T00:59:50+00:00"
+          "title": "Hyperspace",
+          "link": "https://hypercritical.co/hyperspace/",
+          "date": "2026-08-11T02:04:35+00:00"
         },
         {
-          "title": "Harry Potter fans force diverting UK-Ireland power link to avoid Dobby's grave",
-          "link": "https://www.bbc.com/news/articles/cy8mgpl27dpo",
-          "date": "2026-08-11T00:43:06+00:00"
+          "title": "Recycle – Floppydisks",
+          "link": "https://www.floppydisk.com/recycle",
+          "date": "2026-08-11T02:01:01+00:00"
         },
         {
-          "title": "Chicken Scheme 6.0 Released",
+          "title": "Antirez/h3.c: MiniMax H3 inference engine for Mac computers",
+          "link": "https://github.com/antirez/h3.c",
+          "date": "2026-08-11T01:22:09+00:00"
+        },
+        {
+          "title": "Chicken Scheme 6.0",
           "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
           "date": "2026-08-11T00:24:15+00:00"
-        },
-        {
-          "title": "ICE to Pay LexisNexis Millions for Data to Feed to Palantir",
-          "link": "https://www.404media.co/ice-to-pay-lexisnexis-millions-for-data-to-feed-to-palantir/",
-          "date": "2026-08-11T00:16:20+00:00"
         },
         {
           "title": "The UK's War on Anonymity Has Come to America",
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[问与答] 算了一笔账， AI 中转站有那么赚钱吗？",
-          "link": "https://www.v2ex.com/t/1233419#reply0",
-          "date": "2026-08-11T01:10:49+00:00"
+          "title": "[推广] 住宅 IP 免费送 原生独享 Ip 只要几块钱 codex chatgpt 等业务随便用",
+          "link": "https://www.v2ex.com/t/1233503#reply0",
+          "date": "2026-08-11T04:08:59+00:00"
         },
         {
-          "title": "[问与答] 你会选择哪个颜色代表夏天？",
-          "link": "https://www.v2ex.com/t/1233418#reply4",
-          "date": "2026-08-11T01:10:41+00:00"
+          "title": "[推广] [推广] Codex Pro 20x 拼车继续，订阅账单直接放出来",
+          "link": "https://www.v2ex.com/t/1233502#reply0",
+          "date": "2026-08-11T04:00:34+00:00"
         },
         {
-          "title": "[分享创造] 做了一款浏览器插件： ChatGPT / Claude / DeepSeek 生成的 HTML， MD 代码，点一下就变成可分享的公开链接",
-          "link": "https://www.v2ex.com/t/1233417#reply0",
-          "date": "2026-08-11T01:05:09+00:00"
+          "title": "[问与答] 如何看待\"百年京张 AI 创新带城市设计开源征集\"",
+          "link": "https://www.v2ex.com/t/1233501#reply0",
+          "date": "2026-08-11T03:58:50+00:00"
         },
         {
-          "title": "[Codex] 终于重置了",
-          "link": "https://www.v2ex.com/t/1233416#reply0",
-          "date": "2026-08-11T00:58:16+00:00"
+          "title": "[问与答] clashbox 的平替",
+          "link": "https://www.v2ex.com/t/1233500#reply3",
+          "date": "2026-08-11T03:58:47+00:00"
         },
         {
-          "title": "[旅行] 旅行归来分享游记，去了深圳香港澳门，还有自驾南太行",
-          "link": "https://www.v2ex.com/t/1233415#reply1",
-          "date": "2026-08-11T00:57:45+00:00"
+          "title": "[分享创造] 给豆包做了一款增强插件：把「文件整理、对话导航、注释标记、提示词队列、导出、快捷进入、本地读写、主体」等更多功能集成进去",
+          "link": "https://www.v2ex.com/t/1233499#reply0",
+          "date": "2026-08-11T03:56:32+00:00"
         }
       ]
     },
@@ -541,6 +541,16 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
+          "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
+          "link": "https://www.qbitai.com/2026/08/469869.html",
+          "date": "2026-08-11T03:11:12+00:00"
+        },
+        {
+          "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
+          "link": "https://www.qbitai.com/2026/08/469860.html",
+          "date": "2026-08-11T00:46:23+00:00"
+        },
+        {
           "title": "AI倒查论文100年！99.2%的顶刊都有问题…",
           "link": "https://www.qbitai.com/2026/08/469795.html",
           "date": "2026-08-10T13:58:46+00:00"
@@ -554,16 +564,6 @@
           "title": "模型路线趋同之后，Physical AI的胜负手变了",
           "link": "https://www.qbitai.com/2026/08/469544.html",
           "date": "2026-08-10T09:20:50+00:00"
-        },
-        {
-          "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
-          "link": "https://www.qbitai.com/2026/08/469520.html",
-          "date": "2026-08-10T06:58:58+00:00"
-        },
-        {
-          "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
-          "link": "https://www.qbitai.com/2026/08/469500.html",
-          "date": "2026-08-10T05:37:51+00:00"
         }
       ]
     },
