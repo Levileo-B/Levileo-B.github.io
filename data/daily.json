@@ -1,125 +1,125 @@
 {
-  "updated": "2026-08-11T21:39:56+00:00",
+  "updated": "2026-08-12T01:22:06+00:00",
   "leetcode": {
-    "date": "2026-08-11",
-    "id": "2996",
-    "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
-    "titleEn": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
-    "slug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
-    "difficulty": "Easy",
+    "date": "2026-08-12",
+    "id": "2958",
+    "title": "Length of Longest Subarray With at Most K Frequency",
+    "titleEn": "Length of Longest Subarray With at Most K Frequency",
+    "slug": "length-of-longest-subarray-with-at-most-k-frequency",
+    "difficulty": "Medium",
     "tags": [
       "Array",
       "Hash Table",
-      "Sorting"
+      "Sliding Window"
     ],
-    "link": "https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/",
+    "link": "https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Grey-cowled wood rail",
-    "text": "The grey-cowled wood rail or grey-necked wood rail is a species of bird in the family Rallidae, the rails. It lives primarily in the forests, mangroves, and swamps of Central and South America. Of the two subspecies, A. c. avicenniae is found in southeastern Brazil, while the nominate is found throughout the portion of the range not occupied by the other subspecies. The species as a whole is usually found at elevations from sea level to 2,000 metres (6,600 ft), although some have been found above that. This bird's large range, along with its significant population, is why it is considered to be least-concern by the International Union for Conservation of Nature (IUCN). In some places, it is occasionally hunted and kept for food.",
-    "words": 124,
-    "url": "https://en.wikipedia.org/wiki/Grey-cowled_wood_rail",
-    "date": "2026-08-11",
+    "title": "Yongle Emperor",
+    "text": "The Yongle Emperor, personal name Zhu Di, was the third emperor of the Ming dynasty of China, reigning from 1402 to 1424. He was the fourth son of the Hongwu Emperor, the founder of the dynasty.",
+    "words": 36,
+    "url": "https://en.wikipedia.org/wiki/Yongle_Emperor",
+    "date": "2026-08-12",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Color Harmony for Your Home",
-    "creator": "Rippey, Henderson and Bucknum, Inc.",
-    "year": "1956",
-    "url": "https://archive.org/download/color_harmony_for_your_home/color_harmony_for_your_home_512kb.mp4",
-    "page": "https://archive.org/details/color_harmony_for_your_home",
-    "date": "2026-08-11",
+    "title": "Sunbeam Bread Commercial #6",
+    "creator": "",
+    "year": "",
+    "url": "https://archive.org/download/sunbeam_commercial_6/sunbeam_commercial_6_512kb.mp4",
+    "page": "https://archive.org/details/sunbeam_commercial_6",
+    "date": "2026-08-12",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "[inr008cd]Monoceros_-_I feel apocalyptic today",
-      "artist": "Monoceros",
-      "url": "https://archive.org/download/inr008cd_monoceros_-_i_feel_apocalyptic_today/01_monoceros_-_moment_of_light_vbr.mp3",
-      "page": "https://archive.org/details/inr008cd_monoceros_-_i_feel_apocalyptic_today",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "chemicaL_Knowledge",
-      "artist": "sOuL_sCientiSt",
-      "url": "https://archive.org/download/chemicaL_Knowledge/chemicaLKnowledge.mp3",
-      "page": "https://archive.org/details/chemicaL_Knowledge",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
-    },
-    {
-      "title": "[insubcdr05] DIATRIBES+JACQUES DEMIERRE+JOHANN BOURQUENEZ piano(s)",
-      "artist": "DIATRIBES+JACQUES DEMIERRE+JOHANN BOURQUENEZ",
-      "url": "https://archive.org/download/insubcdr05DiatribesjacquesDemierrejohannBourquenezPianos/insubcdr0501_diatribesdemierrebourquenez-Tornade.mp3",
-      "page": "https://archive.org/details/insubcdr05DiatribesjacquesDemierrejohannBourquenezPianos",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/ch/"
-    },
-    {
-      "title": "Filmy Ghost & JackCote - Dark Slow Echoes (EP) (2018)",
-      "artist": "Filmy Ghost & JackCote",
-      "url": "https://archive.org/download/jack-cote-filmy-ghost-dark-slow-echoes/01%20-%20Psychedelic%20Witch.mp3",
-      "page": "https://archive.org/details/jack-cote-filmy-ghost-dark-slow-echoes",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "Pedro Uñero - Su Son Entero",
-      "artist": "",
-      "url": "https://archive.org/download/susonentero/Pedro%20U%C3%B1ero%20Su%20Son%20Entero/01%20Pedro%20Hura%C3%B1o.mp3",
-      "page": "https://archive.org/details/susonentero",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "ne:o - ne:omuzic [tonAtom.036]",
-      "artist": "ne:o",
-      "url": "https://archive.org/download/tonAtom.036/tonAtom.036_01_ne-o_der-kleine-keks.mp3",
-      "page": "https://archive.org/details/tonAtom.036",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/"
-    },
-    {
-      "title": "NWTWO0285-Dva Gozdova (Two Forests)-Excerpt (Marko Karlovčec, Žiga Pucelj, Neža Naglič)",
-      "artist": "Marko Karlovćec, Žiga Pucelj, Neža Naglič",
-      "url": "https://archive.org/download/Nwtwo0285-dvaGozdovatwoForests-excerptmarkoKarlovecigaPucelj/Nwtwo0285-dvaGozdovatwoForests-excerptmarkoKarlovecigaPuceljNeaNagli.mp3",
-      "page": "https://archive.org/details/Nwtwo0285-dvaGozdovatwoForests-excerptmarkoKarlovecigaPucelj",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "The Cabinet EP",
-      "artist": "EGOamp",
-      "url": "https://archive.org/download/ion025_egoamp_the-cabinet-ep/01_egoamp_-_the_cabinet_edit_version.mp3",
-      "page": "https://archive.org/details/ion025_egoamp_the-cabinet-ep",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Merzbau EP Guitar Solo",
-      "artist": "Out Level",
-      "url": "https://archive.org/download/mi112_outlevel_merzbau_ep/1_Guitar1_vbr.mp3",
-      "page": "https://archive.org/details/mi112_outlevel_merzbau_ep",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "vex",
-      "artist": "",
-      "url": "https://archive.org/download/vex.lt004/vex.mp3",
-      "page": "https://archive.org/details/vex.lt004",
+      "title": "Vitaliy Baldych - Music for Planetarium in Yaroslavl [USC-WR-1210.0119]",
+      "artist": "Vitaliy Baldych",
+      "url": "https://archive.org/download/vitaliy-baldych-music-planetarium-yaroslavl/01.Shining.mp3",
+      "page": "https://archive.org/details/vitaliy-baldych-music-planetarium-yaroslavl",
       "license": "http://creativecommons.org/licenses/by-sa/3.0/"
     },
     {
-      "title": "NWTWO0296-Killing Option (Party Session)",
-      "artist": "Killing Option",
-      "url": "https://archive.org/download/Nwtwo0296-killingOptionpartySession-untitledSong/Nwtwo0296-killingOptionpartySession.mp3",
-      "page": "https://archive.org/details/Nwtwo0296-killingOptionpartySession-untitledSong",
+      "title": "pv - mellow spring {fdg-022}",
+      "artist": "pv",
+      "url": "https://archive.org/download/fdg-022/01%20-%20mellow%20spring.mp3",
+      "page": "https://archive.org/details/fdg-022",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "[EPH024] ALESSIO OISSELA - Avant-garde Jouets",
+      "artist": "Ephedrina's Crew",
+      "url": "https://archive.org/download/eph024AlessioOissela-Avant-gardeJouets/01AlessioOissela-1603.mp3",
+      "page": "https://archive.org/details/eph024AlessioOissela-Avant-gardeJouets",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Anton Vodnik-Iz Pisem Dori Pegam Vodnik",
+      "artist": "Anton Vodnik",
+      "url": "https://archive.org/download/AntonVodnik-izPisemDoriPegamVodnik/AntonVodnik-izPisemDoriPegamVodnik.mp3",
+      "page": "https://archive.org/details/AntonVodnik-izPisemDoriPegamVodnik",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "title": "[ffs54] Adrian Aniol - Backwads",
+      "artist": "Adrian Aniol",
+      "url": "https://archive.org/download/ffs54/ffs54_adrian_aniol_01_the_collapse.mp3",
+      "page": "https://archive.org/details/ffs54",
+      "license": "http://creativecommons.org/licenses/by-nc/2.5/"
+    },
+    {
+      "title": "loke - noname {#033}",
+      "artist": "loke",
+      "url": "https://archive.org/download/voodoo-033/01%20-%20noname.mp3",
+      "page": "https://archive.org/details/voodoo-033",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Salvation disorder no.1",
+      "artist": "RDI crucifixion project",
+      "url": "https://archive.org/download/fri060/01nightmares.mp3",
+      "page": "https://archive.org/details/fri060",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "ELLAIM - Air",
+      "artist": "",
+      "url": "https://archive.org/download/HAZE102/01_vbr.mp3",
+      "page": "https://archive.org/details/HAZE102",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "MIHIDEA - Follow your intuition EP [snr29]",
-      "artist": "Mihidea",
-      "url": "https://archive.org/download/snr29/MIHIDEA-Ash_force.mp3",
-      "page": "https://archive.org/details/snr29",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
+      "title": "[doku58] tomas gris . nördlicht(2)",
+      "artist": "tomas gris",
+      "url": "https://archive.org/download/doku58/doku58-tomas_gris-nordlicht_2.mp3",
+      "page": "https://archive.org/details/doku58",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "(dis)PERSE Dispatch Episode #592",
+      "artist": "Alan Herrick",
+      "url": "https://archive.org/download/disperseDispatchEpisode592/disperse_592.mp3",
+      "page": "https://archive.org/details/disperseDispatchEpisode592",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "RR.77 - anima l - a divination for modern terrain",
+      "artist": "",
+      "url": "https://archive.org/download/anima_l__modern_terrain/01_Anima_L__aDivination_pt_1.mp3",
+      "page": "https://archive.org/details/anima_l__modern_terrain",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Zanstones 92 - Trident True",
+      "artist": "Zan Hoffman",
+      "url": "https://archive.org/download/zh27664/664%20Zanstones%2092%20-%20Trident%20True.mp3",
+      "page": "https://archive.org/details/zh27664",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     }
   ]
 }
