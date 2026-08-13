@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T04:46:38+00:00",
+  "updated": "2026-08-13T07:18:07+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,9 +39,9 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-          "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-13T03:28:56+00:00"
+          "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-13T04:55:58+00:00"
         },
         {
           "title": "Israeli settlers besieging Palestinian families in West Bank village",
@@ -71,9 +71,19 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
+          "title": "Economy grew in April to June as sun and World Cup helped some UK businesses",
+          "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-13T07:10:29+00:00"
+        },
+        {
           "title": "Trump sued over Truth Social's $100,000 early access service",
           "link": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-12T17:48:56+00:00"
+        },
+        {
+          "title": "Twitch users can block Amazon from using content for AI",
+          "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-13T06:44:53+00:00"
         },
         {
           "title": "Discord ordered to suspend livestreams in Brazil",
@@ -81,19 +91,9 @@
           "date": "2026-08-12T17:10:31+00:00"
         },
         {
-          "title": "Burnham warned Iran war could hit UK growth next year",
-          "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-12T14:17:26+00:00"
-        },
-        {
-          "title": "Twitch users can now block Amazon from using their content to train AI",
-          "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-13T02:46:04+00:00"
-        },
-        {
-          "title": "US inflation eases as food and fuel costs cool",
-          "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-12T17:03:05+00:00"
+          "title": "Why Japanese firms are being so slow to use AI",
+          "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-12T23:00:47+00:00"
         }
       ]
     },
@@ -105,17 +105,7 @@
         {
           "title": "‘Hormuz remains blocked’: Iran disputes Trump claims as traffic sinks to near 3-month lows",
           "link": "https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html",
-          "date": "2026-08-13T04:05:34+00:00"
-        },
-        {
-          "title": "South Korea’s Kospi has staged a stunning comeback. How long will the bull market last?",
-          "link": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-surge.html",
-          "date": "2026-08-13T04:22:36+00:00"
-        },
-        {
-          "title": "Cerebras stock plunges 14% after second earnings report following IPO",
-          "link": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
-          "date": "2026-08-12T23:49:23+00:00"
+          "date": "2026-08-13T05:19:50+00:00"
         },
         {
           "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
@@ -123,9 +113,19 @@
           "date": "2026-08-13T02:59:50+00:00"
         },
         {
+          "title": "South Korea’s Kospi has staged a stunning comeback. How long will the bull market last?",
+          "link": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-surge.html",
+          "date": "2026-08-13T05:22:03+00:00"
+        },
+        {
           "title": "Trump says Karoline Leavitt resigning as White House press secretary",
           "link": "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html",
           "date": "2026-08-12T22:08:51+00:00"
+        },
+        {
+          "title": "Cerebras stock plunges 14% after second earnings report following IPO",
+          "link": "https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
+          "date": "2026-08-12T23:49:23+00:00"
         }
       ]
     },
@@ -167,6 +167,11 @@
       "url": "https://www.ifanr.com/feed",
       "items": [
         {
+          "title": "Pixel 11 上手：AI 不支棱，涨价不消停",
+          "link": "https://www.ifanr.com/1675041?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-08-13T06:00:08+00:00"
+        },
+        {
           "title": "具身智能迎来「DeepSeek 时刻」：国产机器人用更低成本反超 Figure AI",
           "link": "https://www.ifanr.com/1675007?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-08-13T04:01:16+00:00"
@@ -185,11 +190,6 @@
           "title": "早报｜9999起，荣耀Robot Phone发布/Google发布Pixel 11系列/岚图董事长卢放:开发周期短不等于「速成车」",
           "link": "https://www.ifanr.com/1674986?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-08-13T00:04:10+00:00"
-        },
-        {
-          "title": "回来了，马斯克带着 24 小时干活的 Agent 回来了",
-          "link": "https://www.ifanr.com/1674851?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-08-12T22:55:47+00:00"
         }
       ]
     },
@@ -295,6 +295,16 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+          "link": "https://openai.com/codex/",
+          "date": "2026-08-13T04:53:41+00:00"
+        },
+        {
+          "title": "Celld: Self-hosted, distributed Durable Objects",
+          "link": "https://celld.dev/",
+          "date": "2026-08-13T04:37:31+00:00"
+        },
+        {
           "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
           "link": "https://www.ballet.dev/",
           "date": "2026-08-13T00:01:43+00:00"
@@ -305,19 +315,9 @@
           "date": "2026-08-12T23:50:33+00:00"
         },
         {
-          "title": "Build Wide, Ship Narrow",
-          "link": "https://adapt.com/blog/build-wide-ship-narrow",
-          "date": "2026-08-12T23:43:48+00:00"
-        },
-        {
-          "title": "Principia Mathematica is modern and insightful",
-          "link": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
-          "date": "2026-08-12T23:26:21+00:00"
-        },
-        {
-          "title": "Process as a Proxy for Motivation",
-          "link": "https://bengodfrey.dev/blog/process/",
-          "date": "2026-08-12T22:01:43+00:00"
+          "title": "Flutter 3.47",
+          "link": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+          "date": "2026-08-12T23:46:00+00:00"
         }
       ]
     },
@@ -337,6 +337,11 @@
           "date": "2026-08-12T15:01:27+00:00"
         },
         {
+          "title": "python's pre-declared constants are kinda weird",
+          "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
+          "date": "2026-08-13T05:28:40+00:00"
+        },
+        {
           "title": "Guide to (not) fucking up QR codes",
           "link": "https://infosec.exchange/@rebane2001/117078420917152774",
           "date": "2026-08-12T11:27:11+00:00"
@@ -345,11 +350,6 @@
           "title": "GitHub Stacks in Jujutsu",
           "link": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
           "date": "2026-08-13T00:55:03+00:00"
-        },
-        {
-          "title": "My Homelab Got Hacked - A Postmortem",
-          "link": "https://phunky.cafe/my-homelab-got-hacked/",
-          "date": "2026-08-12T15:50:16+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[macOS] 炸了， macOS 26 钥匙串突然无法访问，几乎所有软件的登录、激活、认证状态瞬间归零",
-          "link": "https://www.v2ex.com/t/1234067#reply0",
-          "date": "2026-08-13T04:45:24+00:00"
+          "title": "[问与答] 做了一个 Android 消息转发工具「消息接力」，开源出来听听大家意见",
+          "link": "https://www.v2ex.com/t/1234117#reply0",
+          "date": "2026-08-13T07:15:59+00:00"
         },
         {
-          "title": "[问与答] 特殊的数据线要求 A-C 口",
-          "link": "https://www.v2ex.com/t/1234064#reply1",
-          "date": "2026-08-13T04:26:31+00:00"
+          "title": "[分享创造] [更新]：是语输入法大幅提升了输入准确率",
+          "link": "https://www.v2ex.com/t/1234116#reply0",
+          "date": "2026-08-13T07:13:47+00:00"
         },
         {
-          "title": "[程序员] 突然发现，我拿 VSCode 作为文件管理&浏览器已经多过当编辑器了",
-          "link": "https://www.v2ex.com/t/1234063#reply0",
-          "date": "2026-08-13T04:21:47+00:00"
+          "title": "[职场话题] 传统开发肯定药丸，有没有前后端大佬，转 Agent 应用开发工程师 成功了的？",
+          "link": "https://www.v2ex.com/t/1234115#reply1",
+          "date": "2026-08-13T07:10:43+00:00"
         },
         {
-          "title": "[分享发现] 用了 Grok 4.6 直接瘫坐！ 仿佛原子弹爆炸",
-          "link": "https://www.v2ex.com/t/1234062#reply2",
-          "date": "2026-08-13T04:13:24+00:00"
+          "title": "[分享发现] 每日分享禅宗故事",
+          "link": "https://www.v2ex.com/t/1234114#reply0",
+          "date": "2026-08-13T07:09:03+00:00"
         },
         {
-          "title": "[OpenAI] 我好像发现了省 tokens 的方法",
-          "link": "https://www.v2ex.com/t/1234061#reply9",
-          "date": "2026-08-13T04:10:17+00:00"
+          "title": "[分享发现] GEO 排名优化怎么做，做了一个 GEO 工具，欢迎大家交流讨论",
+          "link": "https://www.v2ex.com/t/1234113#reply0",
+          "date": "2026-08-13T07:07:11+00:00"
         }
       ]
     },
@@ -541,6 +541,21 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
+          "title": "联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期",
+          "link": "https://www.qbitai.com/2026/08/471697.html",
+          "date": "2026-08-13T06:33:52+00:00"
+        },
+        {
+          "title": "倒计时｜2026世界机器人大会主论坛议程发布！",
+          "link": "https://www.qbitai.com/2026/08/471668.html",
+          "date": "2026-08-13T05:10:50+00:00"
+        },
+        {
+          "title": "刚刚，DeepSeek V4 Pro正式版发布，多项对标Fable 5",
+          "link": "https://www.qbitai.com/2026/08/471642.html",
+          "date": "2026-08-13T03:54:01+00:00"
+        },
+        {
           "title": "360纳米大片流水线携手《知识就是力量》发布“知力·纳米”科普科幻AI大片创作平台",
           "link": "https://www.qbitai.com/2026/08/471624.html",
           "date": "2026-08-13T03:11:48+00:00"
@@ -549,21 +564,6 @@
           "title": "引领智能手机迈入具身交互时代 全球首款机器人手机荣耀Robot Phone发布",
           "link": "https://www.qbitai.com/2026/08/471451.html",
           "date": "2026-08-13T03:00:41+00:00"
-        },
-        {
-          "title": "《置身谷内》！Jeff Dean上顶会自曝离职现场：被1500人围堵",
-          "link": "https://www.qbitai.com/2026/08/471254.html",
-          "date": "2026-08-12T13:46:12+00:00"
-        },
-        {
-          "title": "Anthropic CEO整天神神叨叨，投资人受不了了",
-          "link": "https://www.qbitai.com/2026/08/471162.html",
-          "date": "2026-08-12T13:38:09+00:00"
-        },
-        {
-          "title": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键",
-          "link": "https://www.qbitai.com/2026/08/471049.html",
-          "date": "2026-08-12T13:10:55+00:00"
         }
       ]
     },
@@ -596,38 +596,6 @@
           "title": "How the “censorship-industrial complex” is changing the internet and US policy",
           "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
           "date": "2026-08-11T17:58:57+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Nature",
-      "category": "科研",
-      "url": "https://www.nature.com/nature.rss",
-      "items": [
-        {
-          "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
-          "link": "https://www.nature.com/articles/s41586-026-10994-7",
-          "date": "2026-08-12T00:00:00+00:00"
-        },
-        {
-          "title": "Reply to: Pre-clinical data interpretation requires clinical context",
-          "link": "https://www.nature.com/articles/s41586-026-10773-4",
-          "date": "2026-08-12T00:00:00+00:00"
-        },
-        {
-          "title": "Pre-clinical data interpretation requires clinical context",
-          "link": "https://www.nature.com/articles/s41586-026-10774-3",
-          "date": "2026-08-12T00:00:00+00:00"
-        },
-        {
-          "title": "Giant balloon gives rise to new view of the Milky Way’s centre",
-          "link": "https://www.nature.com/articles/d41586-026-02463-y",
-          "date": "2026-08-12T00:00:00+00:00"
-        },
-        {
-          "title": "Rattlesnakes’ own anti-venom could protect humans too",
-          "link": "https://www.nature.com/articles/d41586-026-02461-0",
-          "date": "2026-08-12T00:00:00+00:00"
         }
       ]
     },
@@ -665,6 +633,7 @@
     }
   ],
   "failed": [
-    "36 氪"
+    "36 氪",
+    "Nature"
   ]
 }
