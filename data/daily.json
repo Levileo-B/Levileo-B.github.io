@@ -1,47 +1,111 @@
 {
-  "updated": "2026-08-12T21:39:07+00:00",
+  "updated": "2026-08-13T01:24:28+00:00",
   "leetcode": {
-    "date": "2026-08-12",
-    "id": "2958",
-    "title": "Length of Longest Subarray With at Most K Frequency",
-    "titleEn": "Length of Longest Subarray With at Most K Frequency",
-    "slug": "length-of-longest-subarray-with-at-most-k-frequency",
-    "difficulty": "Medium",
+    "date": "2026-08-13",
+    "id": "2213",
+    "title": "Longest Substring of One Repeating Character",
+    "titleEn": "Longest Substring of One Repeating Character",
+    "slug": "longest-substring-of-one-repeating-character",
+    "difficulty": "Hard",
     "tags": [
       "Array",
-      "Hash Table",
-      "Sliding Window"
+      "String",
+      "Segment Tree",
+      "Ordered Set"
     ],
-    "link": "https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/",
+    "link": "https://leetcode.com/problems/longest-substring-of-one-repeating-character/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Yongle Emperor",
-    "text": "The Yongle Emperor, personal name Zhu Di, was the third emperor of the Ming dynasty of China, reigning from 1402 to 1424. He was the fourth son of the Hongwu Emperor, the founder of the dynasty.",
-    "words": 36,
-    "url": "https://en.wikipedia.org/wiki/Yongle_Emperor",
-    "date": "2026-08-12",
+    "title": "Ellis Wackett",
+    "text": "Air Vice-Marshal Ellis Charles Wackett, CB, CBE was a senior commander in the Royal Australian Air Force (RAAF). Its chief engineer from 1935 to 1959, he served on the RAAF's controlling body, the Air Board, for a record seventeen years, and has been credited with infusing operations with new standards of airworthiness. Commencing his service career as a Royal Australian Navy cadet during World War I, Wackett transferred to the Air Force in 1923 while on an engineering course in Britain. He qualified as a pilot before completing his studies and returning to Australia, where he inaugurated parachute instruction within the RAAF and made the country's first freefall descent from a military aircraft in 1926. The following year, he led a three-month survey flight to Papua New Guinea.",
+    "words": 128,
+    "url": "https://en.wikipedia.org/wiki/Ellis_Wackett",
+    "date": "2026-08-13",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Her Fractured Voice",
+    "title": "Home Movie: 98618: Family and Children",
     "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/her_fractured_voice/her_fractured_voice_512kb.mp4",
-    "page": "https://archive.org/details/her_fractured_voice",
-    "date": "2026-08-12",
+    "year": "1929",
+    "url": "https://archive.org/download/HMFamilyandChildren98618/98618.mp4",
+    "page": "https://archive.org/details/HMFamilyandChildren98618",
+    "date": "2026-08-13",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Бактериальные Промоторы - Старый Новый Вася (2012)",
-      "artist": "Бактериальные Промоторы",
-      "url": "https://archive.org/download/IBR_1441/01.mp3",
-      "page": "https://archive.org/details/IBR_1441",
+      "title": "The Sound Of Anything",
+      "artist": "JCM",
+      "url": "https://archive.org/download/JCM-TheSoundOfAnything/01ListlessTravel.mp3",
+      "page": "https://archive.org/details/JCM-TheSoundOfAnything",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Fear of Erny",
+      "artist": "Deadman & Digi Hartatak",
+      "url": "https://archive.org/download/Fear_of_Erny/FearofErny.mp3",
+      "page": "https://archive.org/details/Fear_of_Erny",
+      "license": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "title": "xxlounge 10",
+      "artist": "ton99.de",
+      "url": "https://archive.org/download/xxlounge-10-kw40-2006-www.ton99.de/xxlounge-10-kw40-2006-part1-www.ton99.de.mp3",
+      "page": "https://archive.org/details/xxlounge-10-kw40-2006-www.ton99.de",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "World In Decline",
+      "artist": "Dead By Hanging",
+      "url": "https://archive.org/download/world-in-decline/01%20-%20Back%20On%20The%20Fun%20Fair.mp3",
+      "page": "https://archive.org/details/world-in-decline",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "Cubenx-01-01-07",
+      "artist": "Cubenx",
+      "url": "https://archive.org/download/Cubenx-01-01-07/Cubenx-01-01-07.mp3",
+      "page": "https://archive.org/details/Cubenx-01-01-07",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "[xgn012] Martsman",
+      "artist": "Martsman",
+      "url": "https://archive.org/download/xgn012_-_martsman/a-martsman_-_geister.mp3",
+      "page": "https://archive.org/details/xgn012_-_martsman",
+      "license": "http://creativecommons.org/licenses/by-nd/2.0/"
+    },
+    {
+      "title": "Noia",
+      "artist": "the INNIT project",
+      "url": "https://archive.org/download/the_innit_project_2006_noia/01-extraction-1_vbr.mp3",
+      "page": "https://archive.org/details/the_innit_project_2006_noia",
+      "license": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "title": "[YESNO 048] Sungsang Lebam Telak - Sapuan Feses Waria Meledak",
+      "artist": "Sungsang Lebam Telak",
+      "url": "https://archive.org/download/yesno048/1-TertangkapnyaKecepatanWalAfiatYangMampuDiramalkanSetiapKancah.mp3",
+      "page": "https://archive.org/details/yesno048",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "The Other - The Arctic Realm (EP) (2019)",
+      "artist": "The Other",
+      "url": "https://archive.org/download/the-other-the-arctic-realm-ep/01-Subglacial%20Radiance.mp3",
+      "page": "https://archive.org/details/the-other-the-arctic-realm-ep",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "Chefkirk - MEGAmix",
+      "artist": "Roger H. Smith",
+      "url": "https://archive.org/download/tibmp3s63/chefkirk-megamix.mp3",
+      "page": "https://archive.org/details/tibmp3s63",
       "license": "Creative Commons"
     },
     {
@@ -52,74 +116,11 @@
       "license": "Creative Commons"
     },
     {
-      "title": "city birds",
-      "artist": "luis antero",
-      "url": "https://archive.org/download/CityBirds_317/CityBirds2_st.mp3",
-      "page": "https://archive.org/details/CityBirds_317",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
-    },
-    {
-      "title": "D-503/Andy Kisaragi - Live Improv February 2001 [LLR010]",
-      "artist": "Andrew Johnson/Andrew McGowan",
-      "url": "https://archive.org/download/LLR010/01_Blind_Drawing.mp3",
-      "page": "https://archive.org/details/LLR010",
-      "license": "http://creativecommons.org/licenses/by-nc/2.5/"
-    },
-    {
-      "title": "undefined label release: technologybrain - cyborg",
-      "artist": "technologybrain",
-      "url": "https://archive.org/download/undefined-label-technologybrain-cyborg/technologybrain%20-%20cyborg%20-%2001%20-%20cyborg.mp3",
-      "page": "https://archive.org/details/undefined-label-technologybrain-cyborg",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "[SAR_060].Dredd - Cursed Earth",
-      "artist": "Dredd",
-      "url": "https://archive.org/download/sar_060.dredd-CursedEarth/01.Slaves.mp3",
-      "page": "https://archive.org/details/sar_060.dredd-CursedEarth",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "MG MUCUS & Kotaks - Numérique Ou Analogique Tordu Et Cousu (2019)",
-      "artist": "MG MUCUS & Kotaks",
-      "url": "https://archive.org/download/IBR_1169/01.%20Kotaks%20-%20Hr_1.mp3",
-      "page": "https://archive.org/details/IBR_1169",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "JESUS (TaFe-70)",
-      "artist": "Lain into Wired",
-      "url": "https://archive.org/download/Jesustafe-70/01I.mp3",
-      "page": "https://archive.org/details/Jesustafe-70",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "[FNet048] Azotic Compounds Laboratory - Island Of Secrets",
-      "artist": "Azotic Compounds Laboratory",
-      "url": "https://archive.org/download/FNet048/01.Illusion_Part2.mp3",
-      "page": "https://archive.org/details/FNet048",
-      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-    },
-    {
-      "title": "[AMR354] August 8th 2010",
-      "artist": "Shadows on the Snow",
-      "url": "https://archive.org/download/amr354August8th2010/August8th2010.mp3",
-      "page": "https://archive.org/details/amr354August8th2010",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
-    },
-    {
-      "title": "Secret of the Chocolate",
-      "artist": "Jazzaria.com",
-      "url": "https://archive.org/download/secret-of-the-chocolate/secret-of-the-chocolate.mp3",
-      "page": "https://archive.org/details/secret-of-the-chocolate",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "[xgn002] The Destruction Process vs Auan",
-      "artist": "The Destruction Process/Auan",
-      "url": "https://archive.org/download/xgn002-The_Destruction_Process_vs_Auan/a-the_destruction_process_-_revenge_tactics.mp3",
-      "page": "https://archive.org/details/xgn002-The_Destruction_Process_vs_Auan",
-      "license": "Creative Commons"
+      "title": "The Longer Road",
+      "artist": "Gypsy",
+      "url": "https://archive.org/download/the-longer-road/01%20-%20Engineered%20The%20World%20Over.mp3",
+      "page": "https://archive.org/details/the-longer-road",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     }
   ]
 }
