@@ -1,112 +1,118 @@
 {
-  "updated": "2026-08-13T21:38:45+00:00",
+  "updated": "2026-08-14T01:23:01+00:00",
   "leetcode": {
-    "date": "2026-08-13",
-    "id": "2213",
-    "title": "Longest Substring of One Repeating Character",
-    "titleEn": "Longest Substring of One Repeating Character",
-    "slug": "longest-substring-of-one-repeating-character",
-    "difficulty": "Hard",
+    "date": "2026-08-14",
+    "id": "3090",
+    "title": "Maximum Length Substring With Two Occurrences",
+    "titleEn": "Maximum Length Substring With Two Occurrences",
+    "slug": "maximum-length-substring-with-two-occurrences",
+    "difficulty": "Easy",
     "tags": [
-      "Array",
+      "Hash Table",
       "String",
-      "Segment Tree",
-      "Ordered Set"
+      "Sliding Window"
     ],
-    "link": "https://leetcode.com/problems/longest-substring-of-one-repeating-character/",
+    "link": "https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Ellis Wackett",
-    "text": "Air Vice-Marshal Ellis Charles Wackett was a senior commander in the Royal Australian Air Force (RAAF). Its chief engineer from 1935 to 1959, he served on the RAAF's controlling body, the Air Board, for a record seventeen years, and has been credited with infusing operations with new standards of airworthiness. Commencing his service career as a Royal Australian Navy cadet during World War I, Wackett transferred to the Air Force in 1923 while on an engineering course in Britain. He qualified as a pilot before completing his studies and returning to Australia, where he inaugurated parachute instruction within the RAAF and made the country's first freefall descent from a military aircraft in 1926. The following year, he led a three-month survey flight to Papua New Guinea.",
-    "words": 126,
-    "url": "https://en.wikipedia.org/wiki/Ellis_Wackett",
-    "date": "2026-08-13",
+    "title": "European rabbit",
+    "text": "The European rabbit or coney is a species of rabbit native to the Iberian Peninsula and southwestern France. It has been introduced to hundreds of locations around the world. Wild and domesticated European rabbits around the world can vary widely in size, shape, and colour. The average adult European rabbit is smaller than the European hare, though size and weight vary with habitat and diet.",
+    "words": 65,
+    "url": "https://en.wikipedia.org/wiki/European_rabbit",
+    "date": "2026-08-14",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Home Movie: 97273: Unidentified",
-    "creator": "",
-    "year": "1930",
-    "url": "https://archive.org/download/97273_hm_unidentified/97273.mp4",
-    "page": "https://archive.org/details/97273_hm_unidentified",
-    "date": "2026-08-13",
+    "title": "Quiet Revolution, The",
+    "creator": "Ford Motor Company, Tractor and Implement Division",
+    "year": "1956",
+    "url": "https://archive.org/download/QuietRev1956/QuietRev1956_512kb.mp4",
+    "page": "https://archive.org/details/QuietRev1956",
+    "date": "2026-08-14",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Andy N and Antonionioni - Write Out Loud - Sale October 2008",
-      "artist": "",
-      "url": "https://archive.org/download/andynandantonnniwriteoutloudsaleoct08/01tonyredriverpoem_vbr.mp3",
-      "page": "https://archive.org/details/andynandantonnniwriteoutloudsaleoct08",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "NWTWO0269-BeatBastard-New",
-      "artist": "BeatBastard",
-      "url": "https://archive.org/download/Nwtwo0269-beatbastard-new-songY4/Nwtwo0269-beatbastard-new.mp3",
-      "page": "https://archive.org/details/Nwtwo0269-beatbastard-new-songY4",
+      "title": "The Autopsy Report Metal Radio Show No 556 - 1st - 7th December 2014",
+      "artist": "Gramie Dee",
+      "url": "https://archive.org/download/AR0107Dec14/AR-01-07Dec14.mp3",
+      "page": "https://archive.org/details/AR0107Dec14",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "A New Funk",
-      "artist": "Jazzaria.com",
-      "url": "https://archive.org/download/anewfunk/a-new-funk.mp3",
-      "page": "https://archive.org/details/anewfunk",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "Teleomorph: Teleomorph (sfa004)",
+      "artist": "Teleomorph",
+      "url": "https://archive.org/download/sfa004_Teleomorph/01_Clarifying.mp3",
+      "page": "https://archive.org/details/sfa004_Teleomorph",
+      "license": "Creative Commons"
     },
     {
-      "title": "Open A Window",
-      "artist": "Dumb Haircuts",
-      "url": "https://archive.org/download/OpenAWindow/01%20Nice%20Skating.mp3",
-      "page": "https://archive.org/details/OpenAWindow",
+      "title": "Lifestreaming EP",
+      "artist": "Unshaped",
+      "url": "https://archive.org/download/TTRR008/01-Unshaped-MagneticWaves.mp3",
+      "page": "https://archive.org/details/TTRR008",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "[DADA171] Figurative Theatre - Early Works 1999-2006",
+      "artist": "Figurative Theatre",
+      "url": "https://archive.org/download/DADA171/00FigurativeTheatreConversationWithAMachine.mp3",
+      "page": "https://archive.org/details/DADA171",
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/nl/"
+    },
+    {
+      "title": "[EPH024] ALESSIO OISSELA - Avant-garde Jouets",
+      "artist": "Ephedrina's Crew",
+      "url": "https://archive.org/download/eph024AlessioOissela-Avant-gardeJouets/01AlessioOissela-1603.mp3",
+      "page": "https://archive.org/details/eph024AlessioOissela-Avant-gardeJouets",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Faxi Nadu - Downtempo Mix - September 25 2003",
+      "artist": "Faxi Nadu",
+      "url": "https://archive.org/download/faxi_nadu_-_downtempo_mix_-_sep_25_2003/faxi_nadu_-_downtempo_mix_-_sep_25_2003.mp3",
+      "page": "https://archive.org/details/faxi_nadu_-_downtempo_mix_-_sep_25_2003",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/"
+    },
+    {
+      "title": "[escala 1:9] vvaa - escala No Uniforme",
+      "artist": "vvaa",
+      "url": "https://archive.org/download/escala19_vvaa_escala_no_uniforme/01-Pirata_-_Azimut.mp3",
+      "page": "https://archive.org/details/escala19_vvaa_escala_no_uniforme",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Hidden - In The Darkest Maze Without Surfaces (2019)",
+      "artist": "Hidden",
+      "url": "https://archive.org/download/RAWCOFFIN330/01.%20In%20The%20Darkest%20Maze%20Without%20Surfaces.mp3",
+      "page": "https://archive.org/details/RAWCOFFIN330",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "[ffs67] D'incise - Anatheme (ep)",
+      "artist": "D'incise",
+      "url": "https://archive.org/download/ffs67/ffs67_dincise_01_une_semaine_sans.mp3",
+      "page": "https://archive.org/details/ffs67",
+      "license": "http://creativecommons.org/licenses/by-nc/2.5/"
+    },
+    {
+      "title": "[ar063] Ute Wassermann",
+      "artist": "A Retrospective Tribute | 1984-2012",
+      "url": "https://archive.org/download/ar063UteWassermann/01.Skvala.mp3",
+      "page": "https://archive.org/details/ar063UteWassermann",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Adham Shaikh with Shankar - Live at OM 2002",
-      "artist": "Adham Shaikh with Shankar",
-      "url": "https://archive.org/download/adhamshaikh/Adham_Shaikh_with_Shankar-Arc_En_Ciel_Tabla_Funk_Mix.mp3",
-      "page": "https://archive.org/details/adhamshaikh",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "!aqpa! - classic pop mix & dance core [b?_046]",
-      "artist": "",
-      "url": "https://archive.org/download/aqpa-ClassicPopMixDanceCoreb_046/01_aqpaorkiestra_t_t.mp3",
-      "page": "https://archive.org/details/aqpa-ClassicPopMixDanceCoreb_046",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Mark Allan - t.a.f. series one .ep [cnv 02]",
-      "artist": "mark allan",
-      "url": "https://archive.org/download/CNV02/cnv02-mark_allan-taf_series_one-01-shift.mp3",
-      "page": "https://archive.org/details/CNV02",
-      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
-    },
-    {
-      "title": "CH2O-04 - No Code - RG8GGS2FVY",
-      "artist": "No Code",
-      "url": "https://archive.org/download/NoCode-RG8GGS2FVY/No%20Code%20-%20RG8GGS2FVY/01%20Untitled.mp3",
-      "page": "https://archive.org/details/NoCode-RG8GGS2FVY",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "India del Espacio - Cadenas de Agüero",
-      "artist": "",
-      "url": "https://archive.org/download/cadenasdeaguero/Cadenas%20de%20Ag%C3%BCero/01%20Narciartistas.mp3",
-      "page": "https://archive.org/details/cadenasdeaguero",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "[ar015] Live at Den Haag",
-      "artist": "Rubén Patiño",
-      "url": "https://archive.org/download/ar015Pato/01.LiveAtDenHaag.mp3",
-      "page": "https://archive.org/details/ar015Pato",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "les idees saines de serge dassault [ antisocial001 ]",
+      "artist": "les idees saines de serge dassault [ antisocial001 ]",
+      "url": "https://archive.org/download/antisocial001-les-idees-saines-de-serge-dassault/01-Le_Vrai_Bernardo-Le_Charme_Dassault.mp3",
+      "page": "https://archive.org/details/antisocial001-les-idees-saines-de-serge-dassault",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
     },
     {
       "title": "Andy N - Rehearsals for Chorlton Arts Festival Poetry Reading May 2008",
@@ -114,13 +120,6 @@
       "url": "https://archive.org/download/andynchorltonfestivalrehearsals08/01formyunborn_vbr.mp3",
       "page": "https://archive.org/details/andynchorltonfestivalrehearsals08",
       "license": "Creative Commons"
-    },
-    {
-      "title": "RC004_.alter-livedemo2016",
-      "artist": ".alter",
-      "url": "https://archive.org/download/RC004_.alter-livedemo2016/01_geht_doch.mp3",
-      "page": "https://archive.org/details/RC004_.alter-livedemo2016",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     }
   ]
 }
