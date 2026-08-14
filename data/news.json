@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T07:16:02+00:00",
+  "updated": "2026-08-14T09:54:07+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -7,19 +7,19 @@
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
         {
+          "title": "時隔20年，台灣前總統陳水扁女兒陳幸妤再次成為媒體焦點",
+          "link": "https://www.bbc.com/zhongwen/articles/cn7n5zxmmr1o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-14T09:48:04+00:00"
+        },
+        {
           "title": "美軍林肯號航母航行250天 引發官兵人道狀況擔憂",
           "link": "https://www.bbc.com/zhongwen/articles/ce34eqlg2ppo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-14T06:31:11+00:00"
         },
         {
-          "title": "美國稱數十國助中國避特朗普關稅",
-          "link": "https://www.bbc.com/zhongwen/articles/cq6d1y1212po/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-14T05:11:59+00:00"
-        },
-        {
-          "title": "朱鎔基：台灣記住「搞台獨沒好下場」 香港感念「挺港功臣」",
+          "title": "朱鎔基的話：從「搞台獨沒好下場」 到「搞壞香港是民族罪人」",
           "link": "https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-13T09:58:02+00:00"
+          "date": "2026-08-14T09:20:28+00:00"
         },
         {
           "title": "伊朗跟美國、以色列打仗 還能撐多久？",
@@ -39,7 +39,7 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "'Unprecedented' rains in Japan kill six people",
+          "title": "'Unprecedented' rain in Japan kills six people",
           "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-14T07:00:56+00:00"
         },
@@ -51,17 +51,17 @@
         {
           "title": "US says dozens of countries helped China dodge Trump's tariffs",
           "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-14T03:09:48+00:00"
-        },
-        {
-          "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-          "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-13T19:46:27+00:00"
+          "date": "2026-08-14T08:39:46+00:00"
         },
         {
           "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
           "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-13T21:43:47+00:00"
+        },
+        {
+          "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+          "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-13T23:06:23+00:00"
         }
       ]
     },
@@ -73,12 +73,17 @@
         {
           "title": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
           "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-13T23:03:07+00:00"
+          "date": "2026-08-14T07:45:51+00:00"
         },
         {
           "title": "US says dozens of countries helped China dodge Trump's tariffs",
           "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-14T03:09:48+00:00"
+          "date": "2026-08-14T08:39:46+00:00"
+        },
+        {
+          "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+          "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-13T21:43:47+00:00"
         },
         {
           "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
@@ -89,11 +94,6 @@
           "title": "Water bills set to rise for many after firms permitted extra funding",
           "link": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-13T13:38:30+00:00"
-        },
-        {
-          "title": "Harvey Nichols bought by owner of Sports Direct",
-          "link": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-13T14:27:43+00:00"
         }
       ]
     },
@@ -103,9 +103,9 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
-          "link": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
-          "date": "2026-08-14T01:52:07+00:00"
+          "title": "Treasury yields rise as U.S. threatens Iran with more economic sanctions",
+          "link": "https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html",
+          "date": "2026-08-14T08:55:17+00:00"
         },
         {
           "title": "How a niche copper trade became a real-time gauge of Trump’s next tariff move",
@@ -113,14 +113,14 @@
           "date": "2026-08-14T05:00:01+00:00"
         },
         {
-          "title": "From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore",
-          "link": "https://www.cnbc.com/2026/08/14/china-tech-global-appeal-apple-ford-catl-deepseek.html",
-          "date": "2026-08-14T00:09:11+00:00"
+          "title": "‘Absolutely unacceptable’: Japan PM Takaichi condemns Putin’s visit to disputed Kuril Islands",
+          "link": "https://www.cnbc.com/2026/08/14/putin-kuril-islands-japan.html",
+          "date": "2026-08-14T08:08:16+00:00"
         },
         {
-          "title": "Trump ally Nigel Farage wins special election to return to UK parliament",
-          "link": "https://www.cnbc.com/2026/08/14/nigel-farage-reform-uk-parliament-re-election.html",
-          "date": "2026-08-14T07:08:29+00:00"
+          "title": "AI’s infrastructure boom is getting more leveraged — and harder to track",
+          "link": "https://www.cnbc.com/2026/08/14/ai-infrastructure-debt-leverage-risks.html",
+          "date": "2026-08-14T08:29:50+00:00"
         },
         {
           "title": "Trade court upholds Trump's closure of 'de minimis' loophole",
@@ -134,6 +134,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "你初高中时的书单里，总有本「东野圭吾」吧？",
+          "link": "https://sspai.com/post/113416",
+          "date": "2026-08-14T07:00:00+00:00"
+        },
         {
           "title": "声擎×少数派｜「角落新声」征文活动获奖结果公布",
           "link": "https://sspai.com/post/111709",
@@ -153,11 +158,6 @@
           "title": "不用改签名，给 Mac 微信聊天记录「搬个家」",
           "link": "https://sspai.com/post/113225",
           "date": "2026-08-13T09:30:00+00:00"
-        },
-        {
-          "title": "从原理出发，高效搞定夏日营养冷食",
-          "link": "https://sspai.com/prime/story/summer-cold-meal-guide",
-          "date": "2026-08-13T08:01:56+00:00"
         }
       ]
     },
@@ -166,6 +166,11 @@
       "category": "科技",
       "url": "https://www.ifanr.com/feed",
       "items": [
+        {
+          "title": "实测GLM-5.3: 在神仙打架的一周杀回国模顶流，还按下了重置键",
+          "link": "https://www.ifanr.com/1675225?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-08-14T09:44:28+00:00"
+        },
         {
           "title": "首发 | 澎湃OS 4 体验：小米第一个 AIOS，用起来怎么样？",
           "link": "https://www.ifanr.com/1675208?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -185,11 +190,6 @@
           "title": "早报｜曝iPhone全线涨价100美元/ChatGPT开始拥有你的电脑历史/长鑫科技市值超过腾讯",
           "link": "https://www.ifanr.com/1675193?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-08-14T00:30:02+00:00"
-        },
-        {
-          "title": "9.99 万元起，EV 版 9 分钟充到 97%，秦 MAX 正式上市",
-          "link": "https://www.ifanr.com/1675157?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-08-13T13:35:08+00:00"
         }
       ]
     },
@@ -199,29 +199,29 @@
       "url": "https://www.solidot.org/index.rss",
       "items": [
         {
+          "title": "uBlock Origin 放弃与 Facebook 的猫鼠游戏",
+          "link": "https://www.solidot.org/story?sid=85096",
+          "date": "2026-08-14T09:03:00+00:00"
+        },
+        {
+          "title": "苹果与阿里巴巴合作为中国市场训练专用大模型",
+          "link": "https://www.solidot.org/story?sid=85095",
+          "date": "2026-08-14T07:28:21+00:00"
+        },
+        {
+          "title": "YouTube 要求新内容创作者一年至少 8000 小时观看量才能获得收入",
+          "link": "https://www.solidot.org/story?sid=85094",
+          "date": "2026-08-14T06:54:33+00:00"
+        },
+        {
+          "title": "VLC 因 Microsoft Defender 而启动缓慢",
+          "link": "https://www.solidot.org/story?sid=85093",
+          "date": "2026-08-14T06:24:44+00:00"
+        },
+        {
           "title": "科学家观测到核子内部奇特结构",
           "link": "https://www.solidot.org/story?sid=85092",
           "date": "2026-08-14T05:43:05+00:00"
-        },
-        {
-          "title": "小鼠在一半以上突触连接暂时失去后记忆仍能保留",
-          "link": "https://www.solidot.org/story?sid=85091",
-          "date": "2026-08-14T05:36:00+00:00"
-        },
-        {
-          "title": "微软正从中国撤退",
-          "link": "https://www.solidot.org/story?sid=85090",
-          "date": "2026-08-14T03:57:52+00:00"
-        },
-        {
-          "title": "NASA 延长旅行者2号的科学使命",
-          "link": "https://www.solidot.org/story?sid=85089",
-          "date": "2026-08-13T16:48:19+00:00"
-        },
-        {
-          "title": "科技巨头想要收集你的思想",
-          "link": "https://www.solidot.org/story?sid=85088",
-          "date": "2026-08-13T15:46:10+00:00"
         }
       ]
     },
@@ -231,9 +231,19 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Apple trained its own AI model for China with help from Alibaba",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+          "date": "2026-08-14T09:30:10+00:00"
+        },
+        {
+          "title": "Help build a monument to that ‘sad little bitch’ Elon Musk",
+          "link": "https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument",
+          "date": "2026-08-14T08:40:13+00:00"
+        },
+        {
           "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
           "link": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
-          "date": "2026-08-14T01:13:47+00:00"
+          "date": "2026-08-14T09:50:49+00:00"
         },
         {
           "title": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
@@ -244,16 +254,6 @@
           "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
           "link": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
           "date": "2026-08-14T01:08:18+00:00"
-        },
-        {
-          "title": "The fight over Flock and other ALPRs",
-          "link": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
-          "date": "2026-08-13T21:46:21+00:00"
-        },
-        {
-          "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-          "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-          "date": "2026-08-13T21:53:09+00:00"
         }
       ]
     },
@@ -262,6 +262,11 @@
       "category": "科技",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "Organic-looking brake assemblies debut on new Czinger 21C Spyder",
+          "link": "https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/",
+          "date": "2026-08-14T07:01:15+00:00"
+        },
         {
           "title": "US wait times for cancer surgeries are getting longer and longer",
           "link": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
@@ -281,11 +286,6 @@
           "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
           "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
           "date": "2026-08-13T18:31:56+00:00"
-        },
-        {
-          "title": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
-          "link": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
-          "date": "2026-08-13T18:10:14+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+          "title": "Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun",
+          "link": "https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil",
+          "date": "2026-08-14T07:03:56+00:00"
+        },
+        {
+          "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+          "link": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+          "date": "2026-08-14T06:09:04+00:00"
+        },
+        {
+          "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
           "link": "https://z.ai/blog/glm-5.3",
           "date": "2026-08-14T05:19:59+00:00"
+        },
+        {
+          "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+          "link": "https://github.com/JustVugg/lumabri",
+          "date": "2026-08-14T00:47:04+00:00"
         },
         {
           "title": "Bluesky Protocol Services",
           "link": "https://atproto.com/blog/introducing-bluesky-protocol-services",
           "date": "2026-08-14T00:14:28+00:00"
-        },
-        {
-          "title": "Blog about things you don't understand yet",
-          "link": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
-          "date": "2026-08-13T23:39:33+00:00"
-        },
-        {
-          "title": "NP-overrated",
-          "link": "https://gruhn.me/blog/2026-08-13/",
-          "date": "2026-08-13T20:14:17+00:00"
-        },
-        {
-          "title": "How Gödel's Proof Works (2020)",
-          "link": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
-          "date": "2026-08-13T19:44:46+00:00"
         }
       ]
     },
@@ -337,6 +337,11 @@
           "date": "2026-08-13T05:28:40+00:00"
         },
         {
+          "title": "Let's not call it \"tech debt,\" it's just \"mess\"",
+          "link": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
+          "date": "2026-08-13T23:09:13+00:00"
+        },
+        {
           "title": "Unlocking _everything_ on the CPU with DRAM scrambling",
           "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
           "date": "2026-08-13T16:06:04+00:00"
@@ -345,11 +350,6 @@
           "title": "EuroZig",
           "link": "http://eurozig.eu/",
           "date": "2026-08-13T16:24:02+00:00"
-        },
-        {
-          "title": "AI is removing the middle class of software engineering",
-          "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-          "date": "2026-08-13T14:03:13+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[程序员] 参与了 Deepseek Harness 的内测，写了一篇参与体验，欢迎讨论",
-          "link": "https://www.v2ex.com/t/1234396#reply0",
-          "date": "2026-08-14T07:15:11+00:00"
+          "title": "[问与答] 关于我国各省市农民退休金",
+          "link": "https://www.v2ex.com/t/1234451#reply0",
+          "date": "2026-08-14T09:52:32+00:00"
         },
         {
-          "title": "[Adobe] 求 Adobe 全家桶低价订阅😂",
-          "link": "https://www.v2ex.com/t/1234395#reply0",
-          "date": "2026-08-14T07:13:13+00:00"
+          "title": "[Local LLM] local.ai，开个帖子接力",
+          "link": "https://www.v2ex.com/t/1234450#reply0",
+          "date": "2026-08-14T09:51:50+00:00"
         },
         {
-          "title": "[程序员] 想知道你们手头的 AI 项目最多烧了多少 B 的 token？",
-          "link": "https://www.v2ex.com/t/1234394#reply0",
-          "date": "2026-08-14T07:12:08+00:00"
+          "title": "[分享创造] 小工具： macOS 状态栏显示 Cursor 的用量情况",
+          "link": "https://www.v2ex.com/t/1234449#reply0",
+          "date": "2026-08-14T09:50:49+00:00"
         },
         {
-          "title": "[Local LLM] 接力接力 local.ai",
-          "link": "https://www.v2ex.com/t/1234393#reply1",
-          "date": "2026-08-14T07:09:07+00:00"
+          "title": "[问与答] 如何出 ai 时代的软件面试题目？",
+          "link": "https://www.v2ex.com/t/1234448#reply0",
+          "date": "2026-08-14T09:49:42+00:00"
         },
         {
-          "title": "[Local LLM] local.ai 接力，老爷们 lllll",
-          "link": "https://www.v2ex.com/t/1234392#reply2",
-          "date": "2026-08-14T07:08:47+00:00"
+          "title": "[分享创造] [开源]我又开始造轮子了,闲着没事,搓了一下网页版 ChatGPT 查看余量的插件",
+          "link": "https://www.v2ex.com/t/1234447#reply0",
+          "date": "2026-08-14T09:46:07+00:00"
         }
       ]
     },
@@ -541,6 +541,16 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
+          "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
+          "link": "https://www.qbitai.com/2026/08/473144.html",
+          "date": "2026-08-14T08:36:00+00:00"
+        },
+        {
+          "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」",
+          "link": "https://www.qbitai.com/2026/08/472722.html",
+          "date": "2026-08-14T07:29:22+00:00"
+        },
+        {
           "title": "德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集",
           "link": "https://www.qbitai.com/2026/08/472718.html",
           "date": "2026-08-14T06:18:56+00:00"
@@ -554,16 +564,6 @@
           "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
           "link": "https://www.qbitai.com/2026/08/472059.html",
           "date": "2026-08-13T12:34:42+00:00"
-        },
-        {
-          "title": "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
-          "link": "https://www.qbitai.com/2026/08/472067.html",
-          "date": "2026-08-13T12:04:29+00:00"
-        },
-        {
-          "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
-          "link": "https://www.qbitai.com/2026/08/472060.html",
-          "date": "2026-08-13T11:53:02+00:00"
         }
       ]
     },
@@ -573,6 +573,21 @@
       "url": "https://www.technologyreview.com/feed/",
       "items": [
         {
+          "title": "This scientist is helping build a missing map of childhood",
+          "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+          "date": "2026-08-14T09:00:00+00:00"
+        },
+        {
+          "title": "Job titles of the future: Space travel agent",
+          "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+          "date": "2026-08-14T09:00:00+00:00"
+        },
+        {
+          "title": "Cloning could be used to save species—or make human “organ sacks”",
+          "link": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+          "date": "2026-08-14T09:00:00+00:00"
+        },
+        {
           "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
           "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
           "date": "2026-08-13T21:00:00+00:00"
@@ -581,21 +596,6 @@
           "title": "Building a practical path to post-quantum cryptography",
           "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
           "date": "2026-08-13T18:11:42+00:00"
-        },
-        {
-          "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-          "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-          "date": "2026-08-13T13:41:10+00:00"
-        },
-        {
-          "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
-          "link": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-          "date": "2026-08-13T12:10:00+00:00"
-        },
-        {
-          "title": "What’s behind this summer’s heat, and why 2027 could be worse",
-          "link": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
-          "date": "2026-08-13T10:00:00+00:00"
         }
       ]
     },
