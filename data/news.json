@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T04:44:45+00:00",
+  "updated": "2026-08-14T07:16:02+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -7,9 +7,14 @@
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
         {
-          "title": "伊朗跟美國、以色列打仗 還能撐多久？",
-          "link": "https://www.bbc.com/zhongwen/articles/c4g48ryvnz2o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-14T00:01:11+00:00"
+          "title": "美軍林肯號航母航行250天 引發官兵人道狀況擔憂",
+          "link": "https://www.bbc.com/zhongwen/articles/ce34eqlg2ppo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-14T06:31:11+00:00"
+        },
+        {
+          "title": "美國稱數十國助中國避特朗普關稅",
+          "link": "https://www.bbc.com/zhongwen/articles/cq6d1y1212po/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-14T05:11:59+00:00"
         },
         {
           "title": "朱鎔基：台灣記住「搞台獨沒好下場」 香港感念「挺港功臣」",
@@ -17,19 +22,14 @@
           "date": "2026-08-13T09:58:02+00:00"
         },
         {
+          "title": "伊朗跟美國、以色列打仗 還能撐多久？",
+          "link": "https://www.bbc.com/zhongwen/articles/c4g48ryvnz2o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-14T00:01:11+00:00"
+        },
+        {
           "title": "台灣首度模擬戰時「斷網」，30分鐘演練了什麼？",
           "link": "https://www.bbc.com/zhongwen/articles/cm2gpjnyl98o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-13T03:13:24+00:00"
-        },
-        {
-          "title": "近30年最壯觀日食登場 數百萬英歐民眾抬頭見證",
-          "link": "https://www.bbc.com/zhongwen/articles/cgq5pgl1ln3o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-13T03:19:02+00:00"
-        },
-        {
-          "title": "為了安全旅行，女性付出了什麼代價？",
-          "link": "https://www.bbc.com/zhongwen/articles/ckgep55q2ldo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-13T02:58:16+00:00"
         }
       ]
     },
@@ -38,6 +38,11 @@
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
+        {
+          "title": "'Unprecedented' rains in Japan kill six people",
+          "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-14T07:00:56+00:00"
+        },
         {
           "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
           "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
@@ -57,11 +62,6 @@
           "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
           "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-13T21:43:47+00:00"
-        },
-        {
-          "title": "Person fined after using foghorn to wake sleeping polar bear",
-          "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-13T15:30:57+00:00"
         }
       ]
     },
@@ -108,24 +108,24 @@
           "date": "2026-08-14T01:52:07+00:00"
         },
         {
+          "title": "How a niche copper trade became a real-time gauge of Trump’s next tariff move",
+          "link": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
+          "date": "2026-08-14T05:00:01+00:00"
+        },
+        {
           "title": "From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore",
           "link": "https://www.cnbc.com/2026/08/14/china-tech-global-appeal-apple-ford-catl-deepseek.html",
           "date": "2026-08-14T00:09:11+00:00"
         },
         {
+          "title": "Trump ally Nigel Farage wins special election to return to UK parliament",
+          "link": "https://www.cnbc.com/2026/08/14/nigel-farage-reform-uk-parliament-re-election.html",
+          "date": "2026-08-14T07:08:29+00:00"
+        },
+        {
           "title": "Trade court upholds Trump's closure of 'de minimis' loophole",
           "link": "https://www.cnbc.com/2026/08/13/trump-trade-court-de-minimis-tariffs-ieepa.html",
           "date": "2026-08-13T19:56:06+00:00"
-        },
-        {
-          "title": "China built robots that can do backflips – but can they make money?",
-          "link": "https://www.cnbc.com/2026/08/14/china-humanoid-robots-unitree-ipo-tesla-optimus.html",
-          "date": "2026-08-14T04:11:33+00:00"
-        },
-        {
-          "title": "OpenAI loses revenue chief Denise Dresser, second major executive departure in days",
-          "link": "https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html",
-          "date": "2026-08-13T19:59:46+00:00"
         }
       ]
     },
@@ -167,6 +167,11 @@
       "url": "https://www.ifanr.com/feed",
       "items": [
         {
+          "title": "首发 | 澎湃OS 4 体验：小米第一个 AIOS，用起来怎么样？",
+          "link": "https://www.ifanr.com/1675208?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-08-14T06:00:53+00:00"
+        },
+        {
           "title": "爱范儿独家｜谷歌不再追逐前沿， DeepMind 或大幅裁员",
           "link": "https://www.ifanr.com/1675196?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-08-14T02:22:17+00:00"
@@ -185,11 +190,6 @@
           "title": "9.99 万元起，EV 版 9 分钟充到 97%，秦 MAX 正式上市",
           "link": "https://www.ifanr.com/1675157?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-08-13T13:35:08+00:00"
-        },
-        {
-          "title": "首发体验 | DeepSeek Harness 来了，它不想做下一个Codex",
-          "link": "https://www.ifanr.com/1675083?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-08-13T12:46:11+00:00"
         }
       ]
     },
@@ -199,6 +199,21 @@
       "url": "https://www.solidot.org/index.rss",
       "items": [
         {
+          "title": "科学家观测到核子内部奇特结构",
+          "link": "https://www.solidot.org/story?sid=85092",
+          "date": "2026-08-14T05:43:05+00:00"
+        },
+        {
+          "title": "小鼠在一半以上突触连接暂时失去后记忆仍能保留",
+          "link": "https://www.solidot.org/story?sid=85091",
+          "date": "2026-08-14T05:36:00+00:00"
+        },
+        {
+          "title": "微软正从中国撤退",
+          "link": "https://www.solidot.org/story?sid=85090",
+          "date": "2026-08-14T03:57:52+00:00"
+        },
+        {
           "title": "NASA 延长旅行者2号的科学使命",
           "link": "https://www.solidot.org/story?sid=85089",
           "date": "2026-08-13T16:48:19+00:00"
@@ -207,21 +222,6 @@
           "title": "科技巨头想要收集你的思想",
           "link": "https://www.solidot.org/story?sid=85088",
           "date": "2026-08-13T15:46:10+00:00"
-        },
-        {
-          "title": "爬楼梯有助于延寿",
-          "link": "https://www.solidot.org/story?sid=85087",
-          "date": "2026-08-13T14:32:43+00:00"
-        },
-        {
-          "title": "火星岩石中发现刚玉",
-          "link": "https://www.solidot.org/story?sid=85086",
-          "date": "2026-08-13T14:23:08+00:00"
-        },
-        {
-          "title": "Django 项目宣布采用每年发布一个版本的发布模式",
-          "link": "https://www.solidot.org/story?sid=85085",
-          "date": "2026-08-13T10:53:08+00:00"
         }
       ]
     },
@@ -295,14 +295,14 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+          "link": "https://z.ai/blog/glm-5.3",
+          "date": "2026-08-14T05:19:59+00:00"
+        },
+        {
           "title": "Bluesky Protocol Services",
           "link": "https://atproto.com/blog/introducing-bluesky-protocol-services",
           "date": "2026-08-14T00:14:28+00:00"
-        },
-        {
-          "title": "SparrowMap – Cameras that watch government vehicles",
-          "link": "https://sparrowmap.com/",
-          "date": "2026-08-14T00:10:04+00:00"
         },
         {
           "title": "Blog about things you don't understand yet",
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[VPS] DigVPS 测评 - 新增商户干杯 Cloud，并奉上美国加州 AT&T 家宽产品详评数据：顶尖 IP 你值得拥有！九五折出售中。",
-          "link": "https://www.v2ex.com/t/1234335#reply0",
-          "date": "2026-08-14T04:36:37+00:00"
+          "title": "[程序员] 参与了 Deepseek Harness 的内测，写了一篇参与体验，欢迎讨论",
+          "link": "https://www.v2ex.com/t/1234396#reply0",
+          "date": "2026-08-14T07:15:11+00:00"
         },
         {
-          "title": "[问与答] 有没有办法用 AI 签到各种 app",
-          "link": "https://www.v2ex.com/t/1234334#reply0",
-          "date": "2026-08-14T04:29:45+00:00"
+          "title": "[Adobe] 求 Adobe 全家桶低价订阅😂",
+          "link": "https://www.v2ex.com/t/1234395#reply0",
+          "date": "2026-08-14T07:13:13+00:00"
         },
         {
-          "title": "[分享创造] 摸鱼写的小程序又更新了：现在可以查看历史记录了",
-          "link": "https://www.v2ex.com/t/1234333#reply1",
-          "date": "2026-08-14T04:22:37+00:00"
+          "title": "[程序员] 想知道你们手头的 AI 项目最多烧了多少 B 的 token？",
+          "link": "https://www.v2ex.com/t/1234394#reply0",
+          "date": "2026-08-14T07:12:08+00:00"
         },
         {
-          "title": "[随想] 第一次在本站拉黑人",
-          "link": "https://www.v2ex.com/t/1234332#reply10",
-          "date": "2026-08-14T04:11:46+00:00"
+          "title": "[Local LLM] 接力接力 local.ai",
+          "link": "https://www.v2ex.com/t/1234393#reply1",
+          "date": "2026-08-14T07:09:07+00:00"
         },
         {
-          "title": "[分享发现] 分享一个 Linux 命令行工具-用于更新订阅并启动 xray",
-          "link": "https://www.v2ex.com/t/1234331#reply0",
-          "date": "2026-08-14T04:11:03+00:00"
+          "title": "[Local LLM] local.ai 接力，老爷们 lllll",
+          "link": "https://www.v2ex.com/t/1234392#reply2",
+          "date": "2026-08-14T07:08:47+00:00"
         }
       ]
     },
@@ -541,6 +541,11 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
+          "title": "德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集",
+          "link": "https://www.qbitai.com/2026/08/472718.html",
+          "date": "2026-08-14T06:18:56+00:00"
+        },
+        {
           "title": "深度体验DeepSeek Harness，我原谅它涨价了",
           "link": "https://www.qbitai.com/2026/08/472208.html",
           "date": "2026-08-13T16:03:19+00:00"
@@ -559,11 +564,6 @@
           "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
           "link": "https://www.qbitai.com/2026/08/472060.html",
           "date": "2026-08-13T11:53:02+00:00"
-        },
-        {
-          "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
-          "link": "https://www.qbitai.com/2026/08/472016.html",
-          "date": "2026-08-13T11:29:04+00:00"
         }
       ]
     },
