@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T06:27:52+00:00",
+  "updated": "2026-08-15T09:19:58+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,9 +39,14 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-          "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-14T19:20:43+00:00"
+          "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+          "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-15T08:52:55+00:00"
+        },
+        {
+          "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
+          "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-14T18:54:58+00:00"
         },
         {
           "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
@@ -49,19 +54,14 @@
           "date": "2026-08-15T00:01:53+00:00"
         },
         {
-          "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
-          "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-15T06:21:31+00:00"
-        },
-        {
-          "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-          "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-14T18:25:38+00:00"
-        },
-        {
           "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
           "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-14T17:36:27+00:00"
+        },
+        {
+          "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+          "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-14T17:03:17+00:00"
         }
       ]
     },
@@ -135,6 +135,11 @@
       "url": "https://sspai.com/feed",
       "items": [
         {
+          "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
+          "link": "https://sspai.com/post/111974",
+          "date": "2026-08-15T07:07:54+00:00"
+        },
+        {
           "title": "本周看什么 | 最近值得一看的 9 部作品",
           "link": "https://sspai.com/post/113459",
           "date": "2026-08-14T09:50:02+00:00"
@@ -153,11 +158,6 @@
           "title": "App+1 | 把图标收进格子，DeskBox 让桌面整洁有序",
           "link": "https://sspai.com/post/112279",
           "date": "2026-08-14T02:54:21+00:00"
-        },
-        {
-          "title": "派早报：深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态",
-          "link": "https://sspai.com/post/113434",
-          "date": "2026-08-14T00:52:24+00:00"
         }
       ]
     },
@@ -290,38 +290,6 @@
       ]
     },
     {
-      "name": "Hacker News",
-      "category": "开发",
-      "url": "https://hnrss.org/frontpage?count=10",
-      "items": [
-        {
-          "title": "\"That's not SoC 2 compliant\"",
-          "link": "https://ampcode.com/notes/thats-not-soc-2-compliant",
-          "date": "2026-08-15T06:01:19+00:00"
-        },
-        {
-          "title": "Ask HN: How do you keep up with HN these days?",
-          "link": "https://news.ycombinator.com/item?id=49308059",
-          "date": "2026-08-15T05:59:12+00:00"
-        },
-        {
-          "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "link": "https://chenxiachan.github.io/thoughtdag/",
-          "date": "2026-08-15T04:42:07+00:00"
-        },
-        {
-          "title": "The other Sean Byrne doesn't exist",
-          "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-          "date": "2026-08-15T04:18:44+00:00"
-        },
-        {
-          "title": "The End of Mathematics",
-          "link": "https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics",
-          "date": "2026-08-15T03:37:00+00:00"
-        }
-      ]
-    },
-    {
       "name": "Lobsters",
       "category": "开发",
       "url": "https://lobste.rs/rss",
@@ -332,6 +300,11 @@
           "date": "2026-08-14T19:12:53+00:00"
         },
         {
+          "title": "Firefox is now the last major browser that still supports uBlock Origin",
+          "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+          "date": "2026-08-15T05:08:35+00:00"
+        },
+        {
           "title": "ActivityPub Won by Being Boring",
           "link": "https://o.ee/blog/activitypub-won-by-being-boring/",
           "date": "2026-08-14T18:44:17+00:00"
@@ -340,11 +313,6 @@
           "title": "My comment section is static HTML",
           "link": "https://jva.lol/weblog/my-comment-section-is-static-html/",
           "date": "2026-08-14T23:58:27+00:00"
-        },
-        {
-          "title": "Curl Performance",
-          "link": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
-          "date": "2026-08-14T11:33:57+00:00"
         },
         {
           "title": "Thunderbird’s Desktop Calendar Visual Redesign",
@@ -359,29 +327,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[问与答] 1818 黄金眼看到一个骗子八年了还在活跃，上新闻都成连续剧了。法律对这种经济纠纷老赖真没办法吗",
-          "link": "https://www.v2ex.com/t/1234594#reply0",
-          "date": "2026-08-15T06:23:49+00:00"
+          "title": "[Harness] dsh 高强度生产使用：直接杀死 harness 比赛， Agent 工程化迎来了自己的 gulp/webpack 时刻。",
+          "link": "https://www.v2ex.com/t/1234635#reply0",
+          "date": "2026-08-15T09:18:20+00:00"
         },
         {
-          "title": "[推广] Banyane 周末特惠 Chatgpt 低至 0.05 倍，速速来蹬",
-          "link": "https://www.v2ex.com/t/1234593#reply0",
-          "date": "2026-08-15T06:20:37+00:00"
+          "title": "[酷工作] （区块链方向优先）测试工程师 / QA 工程师",
+          "link": "https://www.v2ex.com/t/1234634#reply0",
+          "date": "2026-08-15T09:17:07+00:00"
         },
         {
-          "title": "[贵阳] 有没有想去参加「贵客松」的？一起组队玩去？贵州的小伙伴看过来！",
-          "link": "https://www.v2ex.com/t/1234592#reply0",
-          "date": "2026-08-15T06:18:29+00:00"
+          "title": "[宽带症候群] 上海联通宽带为何时而 clash 节点全部都 timeout",
+          "link": "https://www.v2ex.com/t/1234633#reply1",
+          "date": "2026-08-15T09:09:38+00:00"
         },
         {
-          "title": "[奇思妙想] 最近发现几个 DeepSeek Harness / DSH 插件相关网站",
-          "link": "https://www.v2ex.com/t/1234591#reply0",
-          "date": "2026-08-15T06:13:00+00:00"
+          "title": "[分享创造] 分享一个极简 twitter/x 广告拉黑脚本",
+          "link": "https://www.v2ex.com/t/1234632#reply0",
+          "date": "2026-08-15T09:08:32+00:00"
         },
         {
-          "title": "[问与答] cursor 在 window 上生成的中文乱码",
-          "link": "https://www.v2ex.com/t/1234590#reply0",
-          "date": "2026-08-15T06:12:02+00:00"
+          "title": "[程序员] 大家在开发时用的 Agent 记忆管理插件有哪些？可以推荐一下吗？",
+          "link": "https://www.v2ex.com/t/1234631#reply0",
+          "date": "2026-08-15T09:06:45+00:00"
         }
       ]
     },
@@ -541,6 +509,21 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
+          "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
+          "link": "https://www.qbitai.com/2026/08/473876.html",
+          "date": "2026-08-15T06:42:23+00:00"
+        },
+        {
+          "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
+          "link": "https://www.qbitai.com/2026/08/473866.html",
+          "date": "2026-08-15T06:36:05+00:00"
+        },
+        {
+          "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
+          "link": "https://www.qbitai.com/2026/08/473669.html",
+          "date": "2026-08-15T06:05:31+00:00"
+        },
+        {
           "title": "DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了",
           "link": "https://www.qbitai.com/2026/08/473597.html",
           "date": "2026-08-15T05:53:01+00:00"
@@ -549,21 +532,6 @@
           "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
           "link": "https://www.qbitai.com/2026/08/473407.html",
           "date": "2026-08-15T04:21:09+00:00"
-        },
-        {
-          "title": "高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！",
-          "link": "https://www.qbitai.com/2026/08/473395.html",
-          "date": "2026-08-15T04:03:37+00:00"
-        },
-        {
-          "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
-          "link": "https://www.qbitai.com/2026/08/473379.html",
-          "date": "2026-08-14T15:41:12+00:00"
-        },
-        {
-          "title": "7亿年薪留不住！余家辉离职Meta创业",
-          "link": "https://www.qbitai.com/2026/08/473261.html",
-          "date": "2026-08-14T14:59:25+00:00"
         }
       ]
     },
@@ -596,6 +564,38 @@
           "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
           "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
           "date": "2026-08-13T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Nature",
+      "category": "科研",
+      "url": "https://www.nature.com/nature.rss",
+      "items": [
+        {
+          "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+          "link": "https://www.nature.com/articles/s41586-026-11023-3",
+          "date": "2026-08-14T00:00:00+00:00"
+        },
+        {
+          "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+          "link": "https://www.nature.com/articles/s41586-026-11022-4",
+          "date": "2026-08-14T00:00:00+00:00"
+        },
+        {
+          "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+          "link": "https://www.nature.com/articles/d41586-026-02562-w",
+          "date": "2026-08-14T00:00:00+00:00"
+        },
+        {
+          "title": "Einstein the musician, AI prophets and more: Books in brief",
+          "link": "https://www.nature.com/articles/d41586-026-02504-6",
+          "date": "2026-08-14T00:00:00+00:00"
+        },
+        {
+          "title": "Undocumented migration does not raise crime rates, huge study finds",
+          "link": "https://www.nature.com/articles/d41586-026-02542-0",
+          "date": "2026-08-14T00:00:00+00:00"
         }
       ]
     },
@@ -634,6 +634,6 @@
   ],
   "failed": [
     "36 氪",
-    "Nature"
+    "Hacker News"
   ]
 }
