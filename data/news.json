@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T21:19:22+00:00",
+  "updated": "2026-08-15T00:53:40+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,9 +39,19 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+          "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-14T19:20:43+00:00"
+        },
+        {
           "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
           "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-14T18:25:38+00:00"
+        },
+        {
+          "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+          "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-14T17:36:27+00:00"
         },
         {
           "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
@@ -52,16 +62,6 @@
           "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
           "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-14T17:03:17+00:00"
-        },
-        {
-          "title": "'Unprecedented' rain in Japan kills eight people",
-          "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-14T10:36:14+00:00"
-        },
-        {
-          "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
-          "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-14T13:18:08+00:00"
         }
       ]
     },
@@ -108,24 +108,24 @@
           "date": "2026-08-14T19:07:11+00:00"
         },
         {
-          "title": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
-          "link": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
-          "date": "2026-08-14T20:47:41+00:00"
+          "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
+          "link": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
+          "date": "2026-08-14T21:06:48+00:00"
+        },
+        {
+          "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
+          "link": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
+          "date": "2026-08-14T21:45:19+00:00"
+        },
+        {
+          "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
+          "link": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
+          "date": "2026-08-14T23:41:50+00:00"
         },
         {
           "title": "Regulators and banks step up scrutiny of prediction markets",
           "link": "https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html",
           "date": "2026-08-14T19:21:49+00:00"
-        },
-        {
-          "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
-          "link": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
-          "date": "2026-08-14T21:10:27+00:00"
-        },
-        {
-          "title": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
-          "link": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
-          "date": "2026-08-14T19:50:11+00:00"
         }
       ]
     },
@@ -167,6 +167,11 @@
       "url": "https://www.ifanr.com/feed",
       "items": [
         {
+          "title": "早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付",
+          "link": "https://www.ifanr.com/1675280?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-08-15T00:40:29+00:00"
+        },
+        {
           "title": "23.98 万元起，大五座魏牌 V8X 上市，并非 V9X 的减法",
           "link": "https://www.ifanr.com/1675246?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-08-14T13:55:07+00:00"
@@ -185,11 +190,6 @@
           "title": "爱范儿独家｜谷歌不再追逐前沿， DeepMind 或大幅裁员",
           "link": "https://www.ifanr.com/1675196?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-08-14T02:22:17+00:00"
-        },
-        {
-          "title": "DeepSeek V4 Flash 之后，大模型开始卷「智效比」了",
-          "link": "https://www.ifanr.com/1675156?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-08-14T02:14:56+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Every exterior shot in The Taking of Pelham 123",
-          "link": "https://iafisher.com/2026/07/pelham-123",
-          "date": "2026-08-14T20:10:49+00:00"
+          "title": "Jane Street suffers $15B hit after meltdown at Situational Awareness",
+          "link": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697",
+          "date": "2026-08-14T23:40:37+00:00"
         },
         {
-          "title": "New Lower and Upper Bounds for the Grothendieck Constant",
-          "link": "https://arxiv.org/abs/2608.11158",
-          "date": "2026-08-14T19:41:42+00:00"
+          "title": "The case for overhauling American science",
+          "link": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
+          "date": "2026-08-14T23:11:34+00:00"
         },
         {
-          "title": "CEO who fired 900 people on Zoom just before Christmas wants his job back",
-          "link": "https://www.cnn.com/2026/08/14/business/vishal-garg-better-ceo",
-          "date": "2026-08-14T19:36:18+00:00"
+          "title": "Stop sending me huge PRs; a rant",
+          "link": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
+          "date": "2026-08-14T22:48:15+00:00"
         },
         {
-          "title": "Anthropic Risk August 2026 [pdf]",
-          "link": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
-          "date": "2026-08-14T19:32:15+00:00"
+          "title": "RISC-V: They should have known better",
+          "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+          "date": "2026-08-14T22:38:34+00:00"
         },
         {
-          "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
-          "link": "https://www.aletheionagi.com",
-          "date": "2026-08-14T19:28:17+00:00"
+          "title": "eigendrum",
+          "link": "https://eigendrum.com/#p=circle",
+          "date": "2026-08-14T22:15:12+00:00"
         }
       ]
     },
@@ -326,6 +326,16 @@
       "category": "开发",
       "url": "https://lobste.rs/rss",
       "items": [
+        {
+          "title": "RISC-V: They Should Have Known Better",
+          "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+          "date": "2026-08-14T19:12:53+00:00"
+        },
+        {
+          "title": "ActivityPub Won by Being Boring",
+          "link": "https://o.ee/blog/activitypub-won-by-being-boring/",
+          "date": "2026-08-14T18:44:17+00:00"
+        },
         {
           "title": "Curl Performance",
           "link": "https://daniel.haxx.se/blog/2026/08/14/curl-performance-2/",
@@ -337,19 +347,9 @@
           "date": "2026-08-14T09:10:45+00:00"
         },
         {
-          "title": "SlopScan: Displays a \"slop score\" when viewing public git repositories",
-          "link": "https://addons.mozilla.org/en-US/firefox/addon/slopscan/",
-          "date": "2026-08-14T09:43:51+00:00"
-        },
-        {
-          "title": "ActivityPub Won by Being Boring",
-          "link": "https://o.ee/blog/activitypub-won-by-being-boring/",
-          "date": "2026-08-14T18:44:17+00:00"
-        },
-        {
-          "title": "Let's not call it \"tech debt,\" it's just \"mess\"",
-          "link": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
-          "date": "2026-08-13T23:09:13+00:00"
+          "title": "Thunderbird’s Desktop Calendar Visual Redesign",
+          "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
+          "date": "2026-08-14T17:03:04+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享创造] [开源] 多邻听：英语逐句精听与内容制作平台，招募共建伙伴",
-          "link": "https://www.v2ex.com/t/1234519#reply2",
-          "date": "2026-08-14T17:28:30+00:00"
+          "title": "[问与答] 有没有免费在线设计海报的网站",
+          "link": "https://www.v2ex.com/t/1234527#reply0",
+          "date": "2026-08-15T00:52:47+00:00"
         },
         {
-          "title": "[Google Gemini] Gemini 抽风了，又好了",
-          "link": "https://www.v2ex.com/t/1234517#reply0",
-          "date": "2026-08-14T16:26:03+00:00"
+          "title": "[职场话题] 仲裁胜利-记一次不太艰辛的仲裁之路",
+          "link": "https://www.v2ex.com/t/1234526#reply2",
+          "date": "2026-08-15T00:31:07+00:00"
         },
         {
-          "title": "[分享创造] 花了 2 个 5 小时额度， vibe 了一个 DeepSeek Harness GitHub 连接器插件",
-          "link": "https://www.v2ex.com/t/1234516#reply0",
-          "date": "2026-08-14T16:08:26+00:00"
+          "title": "[分享创造] DeepSeek Harness 插件：支持微信扫码连接",
+          "link": "https://www.v2ex.com/t/1234525#reply0",
+          "date": "2026-08-15T00:16:16+00:00"
         },
         {
-          "title": "[OpenAI] Codex 重置是什么力度的活动？可能没有想象的那么多",
-          "link": "https://www.v2ex.com/t/1234515#reply0",
-          "date": "2026-08-14T16:08:24+00:00"
+          "title": "[程序员] 做一个思想实验，如果 dsh 没有打着 deepseek 的旗号",
+          "link": "https://www.v2ex.com/t/1234524#reply1",
+          "date": "2026-08-14T23:55:26+00:00"
         },
         {
-          "title": "[Harness] DeepSeek Harness 刚开源，有人一起折腾插件体系吗？",
-          "link": "https://www.v2ex.com/t/1234514#reply0",
-          "date": "2026-08-14T16:02:51+00:00"
+          "title": "[程序员] 把 codex 桌面端的批注功能移植到 deekseep harness 生态",
+          "link": "https://www.v2ex.com/t/1234523#reply0",
+          "date": "2026-08-14T23:44:27+00:00"
         }
       ]
     },
@@ -600,6 +600,38 @@
       ]
     },
     {
+      "name": "Nature",
+      "category": "科研",
+      "url": "https://www.nature.com/nature.rss",
+      "items": [
+        {
+          "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+          "link": "https://www.nature.com/articles/s41586-026-11023-3",
+          "date": "2026-08-14T00:00:00+00:00"
+        },
+        {
+          "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+          "link": "https://www.nature.com/articles/s41586-026-11022-4",
+          "date": "2026-08-14T00:00:00+00:00"
+        },
+        {
+          "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+          "link": "https://www.nature.com/articles/d41586-026-02562-w",
+          "date": "2026-08-14T00:00:00+00:00"
+        },
+        {
+          "title": "Einstein the musician, AI prophets and more: Books in brief",
+          "link": "https://www.nature.com/articles/d41586-026-02504-6",
+          "date": "2026-08-14T00:00:00+00:00"
+        },
+        {
+          "title": "Undocumented migration does not raise crime rates, huge study finds",
+          "link": "https://www.nature.com/articles/d41586-026-02542-0",
+          "date": "2026-08-14T00:00:00+00:00"
+        }
+      ]
+    },
+    {
       "name": "ScienceDaily",
       "category": "科研",
       "url": "https://www.sciencedaily.com/rss/all.xml",
@@ -633,7 +665,6 @@
     }
   ],
   "failed": [
-    "36 氪",
-    "Nature"
+    "36 氪"
   ]
 }

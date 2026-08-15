@@ -1,83 +1,89 @@
 {
-  "updated": "2026-08-14T21:19:22+00:00",
+  "updated": "2026-08-15T00:53:40+00:00",
   "leetcode": {
-    "date": "2026-08-14",
-    "id": "3090",
-    "title": "Maximum Length Substring With Two Occurrences",
-    "titleEn": "Maximum Length Substring With Two Occurrences",
-    "slug": "maximum-length-substring-with-two-occurrences",
-    "difficulty": "Easy",
+    "date": "2026-08-15",
+    "id": "3702",
+    "title": "Longest Subsequence With Non-Zero Bitwise XOR",
+    "titleEn": "Longest Subsequence With Non-Zero Bitwise XOR",
+    "slug": "longest-subsequence-with-non-zero-bitwise-xor",
+    "difficulty": "Medium",
     "tags": [
-      "Hash Table",
-      "String",
-      "Sliding Window"
+      "Array",
+      "Bit Manipulation"
     ],
-    "link": "https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/",
+    "link": "https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "European rabbit",
-    "text": "The European rabbit or coney is a species of rabbit native to the Iberian Peninsula and southwestern France. It has been introduced to hundreds of locations around the world. Wild and domesticated European rabbits around the world can vary widely in size, shape, and colour. The average adult European rabbit is smaller than the European hare, though size and weight vary with habitat and diet.",
-    "words": 65,
-    "url": "https://en.wikipedia.org/wiki/European_rabbit",
-    "date": "2026-08-14",
+    "title": "Mesklin",
+    "text": "Mesklin is a fictional planet created by Hal Clement and used in a number of his hard science fiction stories, starting with Mission of Gravity (1954). Alongside the novel's original 1953 serialization in Astounding Science Fiction, Clement published an essay titled \"Whirligig World\" on how he designed the planet to have the properties he wanted. The idea came from an object that was at the time believed to exist in the 61 Cygni system, and which might represent an extrasolar planet.",
+    "words": 81,
+    "url": "https://en.wikipedia.org/wiki/Mesklin",
+    "date": "2026-08-15",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "[Gould can 5483.3: Kinograms Newsreel]",
+    "title": "Home Movie: 98312: Miscellaneous",
     "creator": "",
-    "year": "1927",
-    "url": "https://archive.org/download/Gould_can_5483_3_Kinograms_Newsreel/0206_Gould_can_5483_3_Kinograms_Newsreel_01_46_44_18_3mb.mp4",
-    "page": "https://archive.org/details/Gould_can_5483_3_Kinograms_Newsreel",
-    "date": "2026-08-14",
+    "year": "1954",
+    "url": "https://archive.org/download/HMMiscellaneous98312/98312.mp4",
+    "page": "https://archive.org/details/HMMiscellaneous98312",
+    "date": "2026-08-15",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Digital Mass - Rain [wh183]",
-      "artist": "Digital Mass",
-      "url": "https://archive.org/download/wh183/wh183_01_Digital-Mass_Rain.mp3",
-      "page": "https://archive.org/details/wh183",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
-    },
-    {
-      "title": "[unfound27] dario zenker - black sword ep",
-      "artist": "dario zenker",
-      "url": "https://archive.org/download/unfound27/unfound27_01_-_dario_zenker_-_don_perignon.mp3",
-      "page": "https://archive.org/details/unfound27",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
-    },
-    {
-      "title": "Good Morning Batman",
-      "artist": "Deadman & Digi Hartatak",
-      "url": "https://archive.org/download/Good_Morning_Batman/gmb.mp3",
-      "page": "https://archive.org/details/Good_Morning_Batman",
-      "license": "http://creativecommons.org/licenses/by-sa/3.0/"
-    },
-    {
-      "title": "Hfr005-Dash.&.Poke:-Tematika",
-      "artist": "",
-      "url": "https://archive.org/download/Hfr005-Dash..Poke-Tematika/CaperGirlInHighHeels.mp3",
-      "page": "https://archive.org/details/Hfr005-Dash..Poke-Tematika",
-      "license": "http://creativecommons.org/licenses/by-nd/2.0/uk/"
-    },
-    {
-      "title": "wave002 ~ Makkadessia ~ Moonou",
-      "artist": "Makkadessia",
-      "url": "https://archive.org/download/wave002/wave002.1_Makkadessia_-_Moonou_-_Original.mp3",
-      "page": "https://archive.org/details/wave002",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Angel of Magnolia by Scott Bruzenak",
-      "artist": "Scott Bruzenak",
-      "url": "https://archive.org/download/luvs005/AngelOfMagnolia.mp3",
-      "page": "https://archive.org/details/luvs005",
+      "title": "Back Of the Beat Generation",
+      "artist": "Parrhesia Sound System",
+      "url": "https://archive.org/download/BackOfTheBeatGeneration/01.Calling_All_Active_Agents_Parrhesia_Sound_System_Back_Of_Beat_Generation.mp3",
+      "page": "https://archive.org/details/BackOfTheBeatGeneration",
       "license": "Creative Commons"
+    },
+    {
+      "title": "[YESNO 016] The Upstairs - Ku Nobatkan Jadi Fantasi",
+      "artist": "Yes No Wave Music",
+      "url": "https://archive.org/download/yesno16/01_-_Ku_Nobatkan_Jadi_Fantasi.mp3",
+      "page": "https://archive.org/details/yesno16",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "xtnddOrgsm_jaimeMunarriz",
+      "artist": "Jaime Munarriz",
+      "url": "https://archive.org/download/xtnddOrgsm_jaimeMunarriz/xtnddOrgsm_jaimeMunarriz.mp3",
+      "page": "https://archive.org/details/xtnddOrgsm_jaimeMunarriz",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "[YESNO 048] Sungsang Lebam Telak - Sapuan Feses Waria Meledak",
+      "artist": "Sungsang Lebam Telak",
+      "url": "https://archive.org/download/yesno048/1-TertangkapnyaKecepatanWalAfiatYangMampuDiramalkanSetiapKancah.mp3",
+      "page": "https://archive.org/details/yesno048",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "V. - Live At Deadtech [zero147a]",
+      "artist": "v.",
+      "url": "https://archive.org/download/zero147a/chicago-live.mp3",
+      "page": "https://archive.org/details/zero147a",
+      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
+    },
+    {
+      "title": "Take Pills Die - 08.01.18 Terrorist [tpdm087]",
+      "artist": "Andrew Cauthen",
+      "url": "https://archive.org/download/tpdm087/tpdm087_08.01.18_Terrorist.mp3",
+      "page": "https://archive.org/details/tpdm087",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/us/"
+    },
+    {
+      "title": "PATRIK GLASSEL & BRANDSTIFTER - You Have The Job",
+      "artist": "",
+      "url": "https://archive.org/download/you-have-the-job/01%20-%20Computer%20Assembly%20Line.mp3",
+      "page": "https://archive.org/details/you-have-the-job",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
       "title": "VBR Podcast #12",
@@ -87,39 +93,32 @@
       "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
     },
     {
-      "title": "undefined label: eggbrain - hatching",
-      "artist": "eggbrain",
-      "url": "https://archive.org/download/undefined-label-eggbrain-hatching/eggbrain%20-%20hatching%20-%2001%20-%20hatching.mp3",
-      "page": "https://archive.org/details/undefined-label-eggbrain-hatching",
+      "title": "[xgn002] The Destruction Process vs Auan",
+      "artist": "The Destruction Process/Auan",
+      "url": "https://archive.org/download/xgn002-The_Destruction_Process_vs_Auan/a-the_destruction_process_-_revenge_tactics.mp3",
+      "page": "https://archive.org/details/xgn002-The_Destruction_Process_vs_Auan",
       "license": "Creative Commons"
     },
     {
-      "title": "NWTWO0173-Ariel Cubría´s Trio",
-      "artist": "Ariel Cubría´s Trio",
-      "url": "https://archive.org/download/Nwtwo0173-arielCubrasTrio-songA/Nwtwo0173-arielCubrasTrio-songA.mp3",
-      "page": "https://archive.org/details/Nwtwo0173-arielCubrasTrio-songA",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Zaman Cheh - Crap Remixes",
-      "artist": "",
-      "url": "https://archive.org/download/HAZE257/01.mp3",
-      "page": "https://archive.org/details/HAZE257",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
-    },
-    {
-      "title": "waveo11 ~ illocanblo ~ Timedat",
-      "artist": "illocanblo",
-      "url": "https://archive.org/download/wave011/wave011.01_illocanblo_-_As_Can_Be.mp3",
-      "page": "https://archive.org/details/wave011",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
-    },
-    {
-      "title": "Voyagers 2014 Soundtrack",
-      "artist": "NoiseCollector",
-      "url": "https://archive.org/download/voyagers2014soundtrack/01_Voyagers_2014.mp3",
-      "page": "https://archive.org/details/voyagers2014soundtrack",
+      "title": "Turning Torso - Jacaranda [YARN004]",
+      "artist": "Turning Torso",
+      "url": "https://archive.org/download/yarn004/Turning_Torso-Jacaranda.mp3",
+      "page": "https://archive.org/details/yarn004",
       "license": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "title": "Laptop Kid - 4 Shades of Medusa [rod010]",
+      "artist": "Laptop Kid",
+      "url": "https://archive.org/download/rod010-laptop_kid_-_4_shades_of_medusa/rod010-01-Laptop%20Kid-Escalles.mp3",
+      "page": "https://archive.org/details/rod010-laptop_kid_-_4_shades_of_medusa",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "w.x & thescientist - Laboratory",
+      "artist": "",
+      "url": "https://archive.org/download/wx_thescientist_laboratory/01HazardousMaterials.mp3",
+      "page": "https://archive.org/details/wx_thescientist_laboratory",
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
     }
   ]
 }
