@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T18:19:06+00:00",
+  "updated": "2026-08-15T21:15:06+00:00",
   "leetcode": {
     "date": "2026-08-15",
     "id": "3702",
@@ -24,8 +24,101 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
-  "failed": [
-    "每日趣味视频",
-    "背景音乐歌单"
+  "video": {
+    "title": "[Home Movies: Rural Family, Ashland County, Ohio and Niagara Falls, ca. 1941]",
+    "creator": "",
+    "year": "1941",
+    "url": "https://archive.org/download/6307_HM_Rural_Family_Ashland_County_Ohio_and_Niagara_Falls_ca_1941_01_17_46_00/6307_HM_Rural_Family_Ashland_County_Ohio_and_Niagara_Falls_ca_1941_01_17_46_00_3mb.mp4",
+    "page": "https://archive.org/details/6307_HM_Rural_Family_Ashland_County_Ohio_and_Niagara_Falls_ca_1941_01_17_46_00",
+    "date": "2026-08-15",
+    "source": "Internet Archive · Prelinger Archives",
+    "license": "公有领域",
+    "licenseUrl": "https://archive.org/details/prelinger"
+  },
+  "music": [
+    {
+      "title": "Thomas Park- 1000 Funk Songs (In A Day)- [treetrunk 655]",
+      "artist": "Thomas Park",
+      "url": "https://archive.org/download/1000FunkSongsInADay/Track20210501044108569066.0.mp3",
+      "page": "https://archive.org/details/1000FunkSongsInADay",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    {
+      "title": "[AR001] 3. Subterranean by T:M",
+      "artist": "T:M",
+      "url": "https://archive.org/download/ar0013.SubterraneanByTm_353/AluraRecords-CompilationOne.-03Subterranean.mp3",
+      "page": "https://archive.org/details/ar0013.SubterraneanByTm_353",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "The Easton Ellises - EP Two [enrmp299]",
+      "artist": "The Easton Ellises",
+      "url": "https://archive.org/download/enrmp299_the_easton_ellises_-_ep_two/01_the_easton_ellises_-_sexdrugsrocknroll.mp3",
+      "page": "https://archive.org/details/enrmp299_the_easton_ellises_-_ep_two",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Where Are We Going Tonight (No End In Sight)",
+      "artist": "Tears of Vomit",
+      "url": "https://archive.org/download/APOS0032/Tears_of_Vomit_-_Where_Are_We_Going_Tonight_No_End_In_Sight.mp3",
+      "page": "https://archive.org/details/APOS0032",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/"
+    },
+    {
+      "title": "NWTWO0341-Fregatura-Naša Idiocija",
+      "artist": "Fregatura",
+      "url": "https://archive.org/download/Nwtwo0341-fregatura-naaIdiocija/Nwtwo0341-fregatura-naaIdiocija.mp3",
+      "page": "https://archive.org/details/Nwtwo0341-fregatura-naaIdiocija",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "WPRK ( Winter Park, FL) News, Late August 1990",
+      "artist": "",
+      "url": "https://archive.org/download/WPRKWinterParkFLNewsLateAugust1990_201307/WPRK%20%28Winter%20Park%2C%20FL%29%20news%2C%20late%20August%201990.mp3",
+      "page": "https://archive.org/details/WPRKWinterParkFLNewsLateAugust1990_201307",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "BS033 Esoteric Zoo",
+      "artist": "Subterrestrial",
+      "url": "https://archive.org/download/BS033/01-Melusine.mp3",
+      "page": "https://archive.org/details/BS033",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "qbs-004 - Mulita Multicolor",
+      "artist": "A de Large",
+      "url": "https://archive.org/download/qbs-004_Mulita_Multicolor_A_de_Large/01_qubit_sound_004_Mulita_Multicolor_a_de_large.mp3",
+      "page": "https://archive.org/details/qbs-004_Mulita_Multicolor_A_de_Large",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "La Chamanita con Ali & Ramiro",
+      "artist": "",
+      "url": "https://archive.org/download/chamanitaaliramiro/La%20Chamanita%20con%20Ali%20y%20Ramiro/01%20Todo%20est%C3%A1%20tan%20solo%20que%20me%20da%20miedo.mp3",
+      "page": "https://archive.org/details/chamanitaaliramiro",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Drubius - Black Angus [aCb.nl.0002]",
+      "artist": "Drubius",
+      "url": "https://archive.org/download/angus/drubius_-_01_-_trap_door_baby_money.mp3",
+      "page": "https://archive.org/details/angus",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
+    },
+    {
+      "title": "Oxygenfad - Mustard Saleswomen [illep050]",
+      "artist": "Oxygenfad",
+      "url": "https://archive.org/download/illep050/01_-_Oxygenfad_-_Cogito_Cena.mp3",
+      "page": "https://archive.org/details/illep050",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "[LF228MP3] nottanishi - golden ratio 2",
+      "artist": "nottanishi",
+      "url": "https://archive.org/download/lf228mp3/01.%20nottanishi%20-%20Infernoid.mp3",
+      "page": "https://archive.org/details/lf228mp3",
+      "license": "Creative Commons"
+    }
   ]
 }
