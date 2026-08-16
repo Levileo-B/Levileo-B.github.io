@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T06:29:43+00:00",
+  "updated": "2026-08-16T09:21:25+00:00",
   "leetcode": {
     "date": "2026-08-16",
     "id": "2029",
@@ -26,8 +26,101 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
-  "failed": [
-    "每日趣味视频",
-    "背景音乐歌单"
+  "video": {
+    "title": "American Frontier",
+    "creator": "Affiliated Film Producers",
+    "year": "1953",
+    "url": "https://archive.org/download/0007_American_Frontier_07_30_37_00/0007_American_Frontier_07_30_37_00_3mb.mp4",
+    "page": "https://archive.org/details/0007_American_Frontier_07_30_37_00",
+    "date": "2026-08-16",
+    "source": "Internet Archive · Prelinger Archives",
+    "license": "公有领域",
+    "licenseUrl": "https://archive.org/details/prelinger"
+  },
+  "music": [
+    {
+      "title": "Faxi Nadu - Downtempo Mix - September 25 2003",
+      "artist": "Faxi Nadu",
+      "url": "https://archive.org/download/faxi_nadu_-_downtempo_mix_-_sep_25_2003/faxi_nadu_-_downtempo_mix_-_sep_25_2003.mp3",
+      "page": "https://archive.org/details/faxi_nadu_-_downtempo_mix_-_sep_25_2003",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/"
+    },
+    {
+      "title": "[ffs67] D'incise - Anatheme (ep)",
+      "artist": "D'incise",
+      "url": "https://archive.org/download/ffs67/ffs67_dincise_01_une_semaine_sans.mp3",
+      "page": "https://archive.org/details/ffs67",
+      "license": "http://creativecommons.org/licenses/by-nc/2.5/"
+    },
+    {
+      "title": "[EPH038] NIGNUS -Dubstep animal (Ephedrin7\")",
+      "artist": "Ephedrina's Crew",
+      "url": "https://archive.org/download/eph038Nignus-DubstepAnimal7inch/Latoa-DubstepAnimal.mp3",
+      "page": "https://archive.org/details/eph038Nignus-DubstepAnimal7inch",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "(AE052)Alpha Rhytmika-Retina EP",
+      "artist": "",
+      "url": "https://archive.org/download/ae052alphaRhytmika-retinaEp/Ae052.1-Retina.mp3",
+      "page": "https://archive.org/details/ae052alphaRhytmika-retinaEp",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "[EPH024] ALESSIO OISSELA - Avant-garde Jouets",
+      "artist": "Ephedrina's Crew",
+      "url": "https://archive.org/download/eph024AlessioOissela-Avant-gardeJouets/01AlessioOissela-1603.mp3",
+      "page": "https://archive.org/details/eph024AlessioOissela-Avant-gardeJouets",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "(dis)PERSE Dispatch Episode #592",
+      "artist": "Alan Herrick",
+      "url": "https://archive.org/download/disperseDispatchEpisode592/disperse_592.mp3",
+      "page": "https://archive.org/details/disperseDispatchEpisode592",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "(Cajanegra-060) Changoz - Terrorcore Kommando",
+      "artist": "Changoz",
+      "url": "https://archive.org/download/cajanegra060/01-Esto-no-es-m%C3%BAsica-es-ruido.mp3",
+      "page": "https://archive.org/details/cajanegra060",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Kill_brendan - Blood And Air [Broke018]",
+      "artist": "Brendan S",
+      "url": "https://archive.org/download/Broke018/01WeJustKilledSomeone.mp3",
+      "page": "https://archive.org/details/Broke018",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "[ar063] Ute Wassermann",
+      "artist": "A Retrospective Tribute | 1984-2012",
+      "url": "https://archive.org/download/ar063UteWassermann/01.Skvala.mp3",
+      "page": "https://archive.org/details/ar063UteWassermann",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "(AE056)Hoplon - Obstetric Methods",
+      "artist": "",
+      "url": "https://archive.org/download/ae056hoplon-ObstetricMethods/AE056.2-DARK222012.mp3",
+      "page": "https://archive.org/details/ae056hoplon-ObstetricMethods",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "[ar039] Ready Media",
+      "artist": "Mexico 1970 -2009",
+      "url": "https://archive.org/download/ar039ReadyMediaMexico1970.2009/01.JulioClavijo.mp3",
+      "page": "https://archive.org/details/ar039ReadyMediaMexico1970.2009",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "arch043 Gezellig",
+      "artist": "Russian Linesman",
+      "url": "https://archive.org/download/arch043/arch043_1-Russian_Linesman_-_Mouth.mp3",
+      "page": "https://archive.org/details/arch043",
+      "license": "http://creativecommons.org/licenses/by-nd/2.5/ca/"
+    }
   ]
 }
