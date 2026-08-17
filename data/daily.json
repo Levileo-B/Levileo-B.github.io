@@ -1,33 +1,126 @@
 {
-  "updated": "2026-08-16T21:13:59+00:00",
+  "updated": "2026-08-17T00:55:25+00:00",
   "leetcode": {
-    "date": "2026-08-16",
-    "id": "2029",
-    "title": "Stone Game IX",
-    "titleEn": "Stone Game IX",
-    "slug": "stone-game-ix",
-    "difficulty": "Medium",
+    "date": "2026-08-17",
+    "id": "1563",
+    "title": "Stone Game V",
+    "titleEn": "Stone Game V",
+    "slug": "stone-game-v",
+    "difficulty": "Hard",
     "tags": [
       "Array",
       "Math",
-      "Greedy",
-      "Minimax"
+      "Dynamic Programming",
+      "Game Theory"
     ],
-    "link": "https://leetcode.com/problems/stone-game-ix/",
+    "link": "https://leetcode.com/problems/stone-game-v/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Madonna",
-    "text": "Madonna Louise Ciccone is an American singer, songwriter, record producer, and actress. Dubbed the \"Queen of Pop\", she is known for her continual reinvention and versatility in music production, songwriting, and visual presentation. Her works, which concern social, political, sexual, and religious themes, have generated both controversy and critical acclaim. Regarded as one of the most influential musicians of all time, Madonna broke gender barriers in popular music and has had a significant socio-cultural impact across her career.",
-    "words": 78,
-    "url": "https://en.wikipedia.org/wiki/Madonna",
-    "date": "2026-08-16",
+    "title": "Hurricane Camille",
+    "text": "Hurricane Camille was one of the most powerful hurricanes to make landfall in the United States when it hit southern Mississippi in August 1969. A devastating tropical cyclone, Camille was one of four Atlantic hurricanes to strike the United States as a Category 5 on the Saffir–Simpson scale, the highest category corresponding to maximum sustained winds of at least 157 mph (253 km/h). The third named storm of the 1969 Atlantic hurricane season, Camille originated as a tropical depression on August 14 south of Cuba from a long-tracked tropical wave. Amid favorable conditions for development, Camille strengthened and struck western Cuba the next day as a hurricane. Upon entering the Gulf of Mexico on August 16, Camille strengthened further, first into a major hurricane, and then into a Category 5 hurricane, late on August 16. After briefly weakening, the hurricane intensified as it approached the northern gulf coastline. Early on August 18 as it moved ashore near Bay St. Louis, Mississippi, Camille attained maximum sustained winds of 175 miles per hour, and a minimum pressure of 900 millibars. Throughout the United States, Camille killed at least 343 people. This included 55 indirect fatalities, mostly from cardiovascular failure. The hurricane also caused at least $1.42 billion in damages in the United States, making it the country's most expensive hurricane at the time, surpassing Hurricane Betsy in 1965.",
+    "words": 226,
+    "url": "https://en.wikipedia.org/wiki/Hurricane_Camille",
+    "date": "2026-08-17",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
-  "failed": [
-    "每日趣味视频",
-    "背景音乐歌单"
+  "video": {
+    "title": "Two Ways About It",
+    "creator": "",
+    "year": "",
+    "url": "https://archive.org/download/rptwowaysaboutit/RP-two_ways_about_it.mp4",
+    "page": "https://archive.org/details/rptwowaysaboutit",
+    "date": "2026-08-17",
+    "source": "Internet Archive · Prelinger Archives",
+    "license": "公有领域",
+    "licenseUrl": "https://archive.org/details/prelinger"
+  },
+  "music": [
+    {
+      "title": "a/oc - see through dreams {#064}",
+      "artist": "a/oc",
+      "url": "https://archive.org/download/voodoo-064/01%20-%20see%20through%20dreams.mp3",
+      "page": "https://archive.org/details/voodoo-064",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Saluki Regicide - Mirage Emigrants [wh012]",
+      "artist": "C.P. McDill",
+      "url": "https://archive.org/download/wh012/wh012_01_snowinthelibrary.mp3",
+      "page": "https://archive.org/details/wh012",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
+    },
+    {
+      "title": "Live",
+      "artist": "Fundstücke",
+      "url": "https://archive.org/download/zero157/Fundstuecke%20-%20Live%20-%2001%20Der%20Erste.mp3",
+      "page": "https://archive.org/details/zero157",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "mystified - Bone Drones [wh171]",
+      "artist": "mystified",
+      "url": "https://archive.org/download/wh171/wh171_01_Mystified_Bone_Drone.mp3",
+      "page": "https://archive.org/details/wh171",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
+    },
+    {
+      "title": "Mika Björklund - Gunkanjima [wh069]",
+      "artist": "Mika Bjorklund",
+      "url": "https://archive.org/download/wh069/Mika_Bjorklund_-_01_-_Birds_in_fog.mp3",
+      "page": "https://archive.org/details/wh069",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
+    },
+    {
+      "title": "Alpha #1",
+      "artist": "",
+      "url": "https://archive.org/download/Alpha1_201608/01.-%20OBSERVATORIO%2051%20-%20DOPA.mp3",
+      "page": "https://archive.org/details/Alpha1_201608",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "V/A - ｐａｓ†ｅｌ░ｗｉ†ｃｈ░",
+      "artist": "Witch Spectra Netlabel",
+      "url": "https://archive.org/download/v-a-pastel-witch/01%20-%20ZytPyf.RjulfNshjlBkcz%20-321312.mp3",
+      "page": "https://archive.org/details/v-a-pastel-witch",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "Whorecrushing Bastards - MMXIX (Demo) (2019)",
+      "artist": "Whorecrushing Bastards",
+      "url": "https://archive.org/download/IBR_1028/01.%20MMXIX%20%28Demo%29.mp3",
+      "page": "https://archive.org/details/IBR_1028",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Laser Acoustic",
+      "artist": "CoLo & Cory O'Brien",
+      "url": "https://archive.org/download/zero154/CoLo%20%26%20Cory%20O%27Brien%20-%20Laser%20Acoustic%20-%2001%20Laser%20Acoustic.mp3",
+      "page": "https://archive.org/details/zero154",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "dotCommunism - With Gusto",
+      "artist": "dotCommunism",
+      "url": "https://archive.org/download/withgusto/01-con_mojo.mp3",
+      "page": "https://archive.org/details/withgusto",
+      "license": "http://creativecommons.org/licenses/by/2.5/"
+    },
+    {
+      "title": "World In Decline",
+      "artist": "Dead By Hanging",
+      "url": "https://archive.org/download/world-in-decline/01%20-%20Back%20On%20The%20Fun%20Fair.mp3",
+      "page": "https://archive.org/details/world-in-decline",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "V/A - Post-Witch Music from Internet III",
+      "artist": "Internet Daemon",
+      "url": "https://archive.org/download/v-a-post-witch-music-from-internet-iii/01%20-%20Alkhemist%20-%20Where.mp3",
+      "page": "https://archive.org/details/v-a-post-witch-music-from-internet-iii",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    }
   ]
 }
