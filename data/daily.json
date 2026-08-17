@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T09:35:06+00:00",
+  "updated": "2026-08-17T12:31:47+00:00",
   "leetcode": {
     "date": "2026-08-17",
     "id": "1563",
@@ -18,8 +18,8 @@
   },
   "english": {
     "title": "Hurricane Camille",
-    "text": "Hurricane Camille was one of the most powerful hurricanes to make landfall in the United States when it hit southern Mississippi in August 1969. A devastating tropical cyclone, Camille was one of four Atlantic hurricanes to strike the United States as a Category 5 on the Saffir–Simpson scale, the highest category corresponding to maximum sustained winds of at least 157 mph (253 km/h). The third named storm of the 1969 Atlantic hurricane season, Camille originated as a tropical depression on August 14 south of Cuba from a long-tracked tropical wave. Amid favorable conditions for development, Camille strengthened and struck western Cuba the next day as a hurricane. Upon entering the Gulf of Mexico on August 16, Camille strengthened further, first into a major hurricane, and then into a Category 5 hurricane, late on August 16. After briefly weakening, the hurricane intensified as it approached the northern gulf coastline. Early on August 18 as it moved ashore near Bay St. Louis, Mississippi, Camille attained maximum sustained winds of 175 miles per hour, and a minimum pressure of 900 millibars. Throughout the United States, Camille killed at least 343 people. This included 55 indirect fatalities, mostly from cardiovascular failure. The hurricane also caused at least $1.42 billion in damages in the United States, making it the country's most expensive hurricane at the time, surpassing Hurricane Betsy in 1965.",
-    "words": 226,
+    "text": "Hurricane Camille was one of the most powerful hurricanes to make landfall in the United States when it hit southern Mississippi in August 1969. A devastating tropical cyclone, Camille was one of four Atlantic hurricanes to strike the United States as a Category 5 on the Saffir–Simpson scale, the highest category corresponding to maximum sustained winds of at least 157 mph (253 km/h). The third named storm of the 1969 Atlantic hurricane season, Camille originated as a tropical depression on August 14 south of Cuba from a long-tracked tropical wave. Amid favorable conditions for development, Camille strengthened and struck western Cuba the next day as a hurricane. Upon entering the Gulf of Mexico on August 16, Camille strengthened further, first into a major hurricane, and then into a Category 5 hurricane, late on August 16. After briefly weakening, the hurricane intensified as it approached the northern gulf coastline. Early on August 18 as it moved ashore near Bay St. Louis, Mississippi, Camille attained maximum sustained winds of 175 miles per hour, and a minimum pressure of 900 millibars. Throughout the United States, Camille killed at least 343 people. This included 55 indirect fatalities, mostly from cardiovascular failure. The hurricane also caused at least $1.42 billion in damages in the United States, making it the country's most expensive hurricane at the time, surpassing 1965's Hurricane Betsy.",
+    "words": 225,
     "url": "https://en.wikipedia.org/wiki/Hurricane_Camille",
     "date": "2026-08-17",
     "source": "Wikipedia 每日精选条目",
@@ -27,17 +27,100 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Stillman Fires Collection: FDNY Chief Officers",
+    "title": "Home Movie: 97273: Unidentified",
     "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/Pa2098FdnyCh_2/Pa2098FdnyCh_2_512kb.mp4",
-    "page": "https://archive.org/details/Pa2098FdnyCh_2",
+    "year": "1930",
+    "url": "https://archive.org/download/97273_hm_unidentified/97273.mp4",
+    "page": "https://archive.org/details/97273_hm_unidentified",
     "date": "2026-08-17",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
-  "failed": [
-    "背景音乐歌单"
+  "music": [
+    {
+      "title": "Roma Laptop Orchestra - Live Improvisation (Stato Elettrico)",
+      "artist": "Stato Elettrico",
+      "url": "https://archive.org/download/RomaLaptopOrchestraLiveImprovvisation/Roma%20Laptop%20Orchestra%20-%20Live%20Improvvisation%20Part%201.mp3",
+      "page": "https://archive.org/details/RomaLaptopOrchestraLiveImprovvisation",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "ELLAIM - Air",
+      "artist": "",
+      "url": "https://archive.org/download/HAZE102/01_vbr.mp3",
+      "page": "https://archive.org/details/HAZE102",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "user - hellovapella [2011]",
+      "artist": "serocell",
+      "url": "https://archive.org/download/UN0129/01_user%3Dhellovapella.mp3",
+      "page": "https://archive.org/details/UN0129",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "NWTWO0059-It's Everyone Else-Moss",
+      "artist": "It's Everyone Else",
+      "url": "https://archive.org/download/Nwtwo0059-itsEveryoneElse-moss/Nwtwo0059-itsEveryoneElse-moss.mp3",
+      "page": "https://archive.org/details/Nwtwo0059-itsEveryoneElse-moss",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "01",
+      "artist": "",
+      "url": "https://archive.org/download/info_autoeditados-distro_01_201304/01.mp3",
+      "page": "https://archive.org/details/info_autoeditados-distro_01_201304",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    {
+      "title": "[TAN014] Steam flow - Mist",
+      "artist": "Mad God",
+      "url": "https://archive.org/download/TAN014/Mist.mp3",
+      "page": "https://archive.org/details/TAN014",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+    },
+    {
+      "title": "chemicaL_Knowledge",
+      "artist": "sOuL_sCientiSt",
+      "url": "https://archive.org/download/chemicaL_Knowledge/chemicaLKnowledge.mp3",
+      "page": "https://archive.org/details/chemicaL_Knowledge",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
+    },
+    {
+      "title": "Ting",
+      "artist": "indek",
+      "url": "https://archive.org/download/indek-ting_202509/indek%20-%20Ting.mp3",
+      "page": "https://archive.org/details/indek-ting_202509",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "NACH AFTER: INNOVATE (LP)",
+      "artist": "tachyon netlabel",
+      "url": "https://archive.org/download/Nach_After_-_Innovate_LP/01.Innovate.mp3",
+      "page": "https://archive.org/details/Nach_After_-_Innovate_LP",
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
+    },
+    {
+      "title": "[inr008cd]Monoceros_-_I feel apocalyptic today",
+      "artist": "Monoceros",
+      "url": "https://archive.org/download/inr008cd_monoceros_-_i_feel_apocalyptic_today/01_monoceros_-_moment_of_light_vbr.mp3",
+      "page": "https://archive.org/details/inr008cd_monoceros_-_i_feel_apocalyptic_today",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Necktar III",
+      "artist": "",
+      "url": "https://archive.org/download/NecktarIii/01.Pork_Song_Intervention_Necktar_III.mp3",
+      "page": "https://archive.org/details/NecktarIii",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "[inoquo005] Clase Muzique live @ LeKashba",
+      "artist": "Clase Muzique",
+      "url": "https://archive.org/download/inoquo005/1-clasemuzique_intro.mp3",
+      "page": "https://archive.org/details/inoquo005",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/"
+    }
   ]
 }
