@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T09:26:14+00:00",
+  "updated": "2026-08-18T12:33:27+00:00",
   "leetcode": {
     "date": "2026-08-18",
     "id": "3471",
@@ -37,32 +37,74 @@
   },
   "music": [
     {
-      "title": "Michael Renk - A Eight Byte",
-      "artist": "deepindub.org",
-      "url": "https://archive.org/download/Michael_Renk_A_Eighth_Byte/Michael_Renk_A_Eighth_Byte.mp3",
-      "page": "https://archive.org/details/Michael_Renk_A_Eighth_Byte",
+      "title": "Si fuéramos SINGLE",
+      "artist": "ideadelsur",
+      "url": "https://archive.org/download/SINGLEPOBRETOPO1/PobreTopo-SiFuramos.mp3",
+      "page": "https://archive.org/details/SINGLEPOBRETOPO1",
       "license": "Creative Commons"
     },
     {
-      "title": "Hidden - In The Darkest Maze Without Surfaces (2019)",
-      "artist": "Hidden",
-      "url": "https://archive.org/download/RAWCOFFIN330/01.%20In%20The%20Darkest%20Maze%20Without%20Surfaces.mp3",
-      "page": "https://archive.org/details/RAWCOFFIN330",
+      "title": "Christorgy - Eaten By Angry Vegans (2010)",
+      "artist": "IRISH-METAL ARCHIVE",
+      "url": "https://archive.org/download/Christorgy-EatenByAngryVegans2010/BrowncoreToTheMax.mp3",
+      "page": "https://archive.org/details/Christorgy-EatenByAngryVegans2010",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/ie/"
+    },
+    {
+      "title": "Nerve Breaks 004",
+      "artist": "Paul Reset, Noisy Minority, remix from Hoista",
+      "url": "https://archive.org/download/NerveBreaks004/PaulReset-Crisis.mp3",
+      "page": "https://archive.org/details/NerveBreaks004",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "tob.rek - Start EP [rest001]",
+      "artist": "Tobi Tobsucht",
+      "url": "https://archive.org/download/rest001/rest001-01-tobrek_-_staffelstab.mp3",
+      "page": "https://archive.org/details/rest001",
       "license": "Creative Commons"
     },
     {
-      "title": "DIENSTbar @ dfm.nu Transmission No. 64 Special Guest: ?Alos",
-      "artist": "Ohmnoise",
-      "url": "https://archive.org/download/dbdfmnu64/dbdfmnu64.mp3",
-      "page": "https://archive.org/details/dbdfmnu64",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "[TAN186] Seism - Dojje",
+      "artist": "Jason Campbell",
+      "url": "https://archive.org/download/TAN186/Dojje.mp3",
+      "page": "https://archive.org/details/TAN186",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
     },
     {
-      "title": "Fucking Power",
-      "artist": "Psy Goose",
-      "url": "https://archive.org/download/Psy_Goose_-_Fucking_Power_-_MIX_-_LRU012/01_-_Psy_Goose_-_Fucking_Power.mp3",
-      "page": "https://archive.org/details/Psy_Goose_-_Fucking_Power_-_MIX_-_LRU012",
+      "title": "Various Artists - Quintessence 2008 - 2018",
+      "artist": "afmusic",
+      "url": "https://archive.org/download/Quintessence2008-2018/01_-_The_Search_-_Swimmer.mp3",
+      "page": "https://archive.org/details/Quintessence2008-2018",
       "license": "Creative Commons"
+    },
+    {
+      "title": "Indulgence",
+      "artist": "Jazzaria.com",
+      "url": "https://archive.org/download/indulgence/indulgence.mp3",
+      "page": "https://archive.org/details/indulgence",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "August Traeger Pd_Works",
+      "artist": "August Traeger",
+      "url": "https://archive.org/download/AugustTraeger_Pd_Works/august%20traeger%20-%20pd_works%20-%201%20-%20arpedsa.mp3",
+      "page": "https://archive.org/details/AugustTraeger_Pd_Works",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "[insubcdr05] DIATRIBES+JACQUES DEMIERRE+JOHANN BOURQUENEZ piano(s)",
+      "artist": "DIATRIBES+JACQUES DEMIERRE+JOHANN BOURQUENEZ",
+      "url": "https://archive.org/download/insubcdr05DiatribesjacquesDemierrejohannBourquenezPianos/insubcdr0501_diatribesdemierrebourquenez-Tornade.mp3",
+      "page": "https://archive.org/details/insubcdr05DiatribesjacquesDemierrejohannBourquenezPianos",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/ch/"
+    },
+    {
+      "title": "NXL016 Palabras",
+      "artist": "Fuerza Interior",
+      "url": "https://archive.org/download/NXL016/05MoriremosGritando.mp3",
+      "page": "https://archive.org/details/NXL016",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
       "title": "BH024XEP - Gemini 7 - Tunguzka! Ep",
@@ -72,53 +114,11 @@
       "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/hu/"
     },
     {
-      "title": "Rantau Ranjau x ASKGATT | Minutes Of Short, Loud And Harshviolence",
-      "artist": "Rantau Ranjau and Asgatt",
-      "url": "https://archive.org/download/RantauRanjauXASKGATTMinutesOfShortLoudAndHarshviolence/Dirahim%20Ada%20Serigala.mp3",
-      "page": "https://archive.org/details/RantauRanjauXASKGATTMinutesOfShortLoudAndHarshviolence",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Liz - Lizbox - chat 006",
-      "artist": "Liz",
-      "url": "https://archive.org/download/chat006/liz_lizbox_001_02_singing.mp3",
-      "page": "https://archive.org/details/chat006",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/"
-    },
-    {
-      "title": "РВЁМ ТАНЦПОЛ - I Dont Give a Fuck (2017) [MNMN431]",
-      "artist": "РВЁМ ТАНЦПОЛ",
-      "url": "https://archive.org/download/MNMN431/01.%208%20Bit%20Party.mp3",
-      "page": "https://archive.org/details/MNMN431",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "NACH AFTER: INNOVATE (LP)",
-      "artist": "tachyon netlabel",
-      "url": "https://archive.org/download/Nach_After_-_Innovate_LP/01.Innovate.mp3",
-      "page": "https://archive.org/details/Nach_After_-_Innovate_LP",
-      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-    },
-    {
-      "title": "BH046EPB - Dereck - Tesla Ep - Part.2",
-      "artist": "Dereck",
-      "url": "https://archive.org/download/bh046epb/01-dereck-ephtonasia_vbr.mp3",
-      "page": "https://archive.org/details/bh046epb",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/hu/"
-    },
-    {
-      "title": "ELLAIM - Air",
-      "artist": "",
-      "url": "https://archive.org/download/HAZE102/01_vbr.mp3",
-      "page": "https://archive.org/details/HAZE102",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Si fuéramos SINGLE",
-      "artist": "ideadelsur",
-      "url": "https://archive.org/download/SINGLEPOBRETOPO1/PobreTopo-SiFuramos.mp3",
-      "page": "https://archive.org/details/SINGLEPOBRETOPO1",
-      "license": "Creative Commons"
+      "title": "Virgin Ghost",
+      "artist": "Fabio Keiner",
+      "url": "https://archive.org/download/earsheltering114/01_Fabio_Keiner_-_virgin_ghost_-_virgin_ghost-cheonyeo-gwishin.mp3",
+      "page": "https://archive.org/details/earsheltering114",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     }
   ]
 }
