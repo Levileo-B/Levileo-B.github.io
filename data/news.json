@@ -1,11 +1,16 @@
 {
-  "updated": "2026-08-18T06:32:45+00:00",
+  "updated": "2026-08-18T09:26:14+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "朱鎔基在京火化：從民間悼念到八寶山公墓，中國領導人「身後事」的政治邏輯",
+          "link": "https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-18T07:41:22+00:00"
+        },
         {
           "title": "江澤民紀念規格比肩「開國元老」：中共如何紀念已故領導人？",
           "link": "https://www.bbc.com/zhongwen/articles/cx25z9pkll0o/trad?at_medium=RSS&at_campaign=rss",
@@ -25,11 +30,6 @@
           "title": "日本企業應用人工智慧為何如此緩慢？",
           "link": "https://www.bbc.com/zhongwen/articles/cy74z6ln0m2o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-18T00:06:44+00:00"
-        },
-        {
-          "title": "「我在遊戲中當了兩年英國首相，然後閣員們都離我而去」",
-          "link": "https://www.bbc.com/zhongwen/articles/cqx7vr7qjwjo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-18T00:15:00+00:00"
         }
       ]
     },
@@ -41,7 +41,12 @@
         {
           "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
           "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-18T05:00:04+00:00"
+          "date": "2026-08-18T08:07:37+00:00"
+        },
+        {
+          "title": "Russia warns UK will pay for supplying drones to Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-18T09:11:57+00:00"
         },
         {
           "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
@@ -54,14 +59,9 @@
           "date": "2026-08-18T05:02:58+00:00"
         },
         {
-          "title": "Russia warns UK over supplying drones to Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-18T04:59:25+00:00"
-        },
-        {
-          "title": "Watch: Why has Trump shifted on North Korea?",
-          "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-17T23:42:38+00:00"
+          "title": "China censors public mourning as it holds former premier's funeral",
+          "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-18T07:17:07+00:00"
         }
       ]
     },
@@ -73,12 +73,12 @@
         {
           "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
           "link": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-18T06:25:19+00:00"
+          "date": "2026-08-18T08:59:28+00:00"
         },
         {
-          "title": "To joke or not to joke?: How to write a good out-of-office message",
+          "title": "'I'm in Barbados': The dos and don'ts of writing an out-of-office reply",
           "link": "https://www.bbc.co.uk/news/articles/c934xy32919o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-17T23:00:41+00:00"
+          "date": "2026-08-18T07:52:24+00:00"
         },
         {
           "title": "US-Canada trade talks 'intense' as new tariff deadline looms",
@@ -86,14 +86,14 @@
           "date": "2026-08-18T00:02:31+00:00"
         },
         {
-          "title": "Instagram and Facebook could change forever if Meta loses child privacy trial",
-          "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-17T05:00:25+00:00"
+          "title": "Ferguson shipyard to cut a quarter of its workforce",
+          "link": "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-18T09:01:57+00:00"
         },
         {
-          "title": "Disabled people in England to get 24-hour free bus travel",
-          "link": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-18T06:11:30+00:00"
+          "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
+          "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-18T09:00:33+00:00"
         }
       ]
     },
@@ -102,11 +102,6 @@
       "category": "财经",
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
-        {
-          "title": "Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict",
-          "link": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
-          "date": "2026-08-18T04:34:22+00:00"
-        },
         {
           "title": "The 30-year Treasury yield just hit a 19-year high. Three things could drive it even higher",
           "link": "https://www.cnbc.com/2026/08/18/30-year-treasury-yield-three-things-that-could-drive-it-even-higher.html",
@@ -118,14 +113,19 @@
           "date": "2026-08-18T05:16:51+00:00"
         },
         {
-          "title": "30-year Treasury yield tops 5.31%, the highest in 19 years",
-          "link": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
-          "date": "2026-08-17T20:04:53+00:00"
+          "title": "Trump's Oman bomb threat an attempt to get their 'attention,' says former ambassador",
+          "link": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
+          "date": "2026-08-18T09:18:27+00:00"
         },
         {
-          "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
-          "link": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
-          "date": "2026-08-17T16:06:28+00:00"
+          "title": "Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner",
+          "link": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
+          "date": "2026-08-17T23:47:54+00:00"
+        },
+        {
+          "title": "L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
+          "link": "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
+          "date": "2026-08-17T22:52:11+00:00"
         }
       ]
     },
@@ -134,6 +134,16 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会",
+          "link": "https://sspai.com/post/113564",
+          "date": "2026-08-18T07:05:05+00:00"
+        },
+        {
+          "title": "App+1 | 让任务栏更有用：WindowSill",
+          "link": "https://sspai.com/post/113438",
+          "date": "2026-08-18T06:30:00+00:00"
+        },
         {
           "title": "7月音乐精选：夏天赠予我们的 9张专辑",
           "link": "https://sspai.com/post/113454",
@@ -148,16 +158,6 @@
           "title": "派评 | 近期值得关注的 App",
           "link": "https://sspai.com/post/113544",
           "date": "2026-08-17T10:14:56+00:00"
-        },
-        {
-          "title": "分享我知识管理 12 年来最重要的经验：INL 结构",
-          "link": "https://sspai.com/post/113368",
-          "date": "2026-08-17T07:00:00+00:00"
-        },
-        {
-          "title": "当陶瓷水杯遇上像素屏：PixelMug 体验",
-          "link": "https://sspai.com/post/113448",
-          "date": "2026-08-17T05:55:17+00:00"
         }
       ]
     },
@@ -166,6 +166,11 @@
       "category": "科技",
       "url": "https://www.ifanr.com/feed",
       "items": [
+        {
+          "title": "奔驰连发两款重磅油车：C 级全面焕新，国产 GLE 剑指 X5L",
+          "link": "https://www.ifanr.com/1675486?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-08-18T06:52:06+00:00"
+        },
         {
           "title": "Claude 给所有 AI 文字加了水印，全球用户彻底怒了！",
           "link": "https://www.ifanr.com/1675465?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -185,11 +190,6 @@
           "title": "网友把DeepSeek Harness玩成了赛博乐高，我们挑出了最有意思的11 个插件",
           "link": "https://www.ifanr.com/1675387?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-08-18T00:39:58+00:00"
-        },
-        {
-          "title": "22.39 万元起，岚图追光 S 上市，大回环是噱头，运动底盘才是正题",
-          "link": "https://www.ifanr.com/1675423?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-08-17T09:57:19+00:00"
         }
       ]
     },
@@ -199,29 +199,29 @@
       "url": "https://www.solidot.org/index.rss",
       "items": [
         {
-          "title": "对一批珍稀图书的跟踪显示它们进入了亚马逊的 AI 训练设施",
-          "link": "https://www.solidot.org/story?sid=85119",
-          "date": "2026-08-17T16:21:45+00:00"
+          "title": "日常饮用含糖饮料与胃癌风险上升相关",
+          "link": "https://www.solidot.org/story?sid=85124",
+          "date": "2026-08-18T08:34:06+00:00"
         },
         {
-          "title": "阿里巴巴开放权重模型下载量过去半年突破 30 亿",
-          "link": "https://www.solidot.org/story?sid=85118",
-          "date": "2026-08-17T15:44:15+00:00"
+          "title": "Meta 面临修改社媒算法和设计的诉讼",
+          "link": "https://www.solidot.org/story?sid=85123",
+          "date": "2026-08-18T07:54:29+00:00"
         },
         {
-          "title": "OpenAI 举报了一名在与 ChatGPT 聊天中透露奸杀前女友计划的佛罗里达男子",
-          "link": "https://www.solidot.org/story?sid=85117",
-          "date": "2026-08-17T13:59:16+00:00"
+          "title": "Anthropic CEO 称对 AI 的抵触根源在于信任危机",
+          "link": "https://www.solidot.org/story?sid=85122",
+          "date": "2026-08-18T07:44:02+00:00"
         },
         {
-          "title": "谁决定中文维基条目的删除？",
-          "link": "https://www.solidot.org/story?sid=85116",
-          "date": "2026-08-17T13:29:05+00:00"
+          "title": "Web 开发者不再重视 Web 标准",
+          "link": "https://www.solidot.org/story?sid=85121",
+          "date": "2026-08-18T06:57:19+00:00"
         },
         {
-          "title": "中国货轮开辟北极航线",
-          "link": "https://www.solidot.org/story?sid=85115",
-          "date": "2026-08-17T12:46:22+00:00"
+          "title": "通过 Zoom 解雇 900 名雇员的 CEO 被解雇",
+          "link": "https://www.solidot.org/story?sid=85120",
+          "date": "2026-08-18T05:43:29+00:00"
         }
       ]
     },
@@ -230,6 +230,11 @@
       "category": "科技",
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
+        {
+          "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
+          "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+          "date": "2026-08-18T09:00:01+00:00"
+        },
         {
           "title": "Reddit’s AI is turning posts into podcasts and short videos",
           "link": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
@@ -249,11 +254,6 @@
           "title": "Wordle meets Clippy in this new word game",
           "link": "https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game",
           "date": "2026-08-17T19:03:41+00:00"
-        },
-        {
-          "title": "YouTube is changing how it counts views to give the numbers a boost",
-          "link": "https://www.theverge.com/streaming/981105/youtube-video-view-counting-update",
-          "date": "2026-08-17T18:38:34+00:00"
         }
       ]
     },
@@ -295,6 +295,21 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "Linux 7.3 improves performance when running out of vRAM",
+          "link": "https://pixelcluster.dev/VRAM-Overcommit/",
+          "date": "2026-08-18T07:51:50+00:00"
+        },
+        {
+          "title": "Rethinking Database Programming",
+          "link": "https://acadia.engineering/blog/rethinking-database-programming",
+          "date": "2026-08-18T07:28:27+00:00"
+        },
+        {
+          "title": "Exercise intensity modulates interorgan communication and is associated with",
+          "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
+          "date": "2026-08-18T04:51:33+00:00"
+        },
+        {
           "title": "The Benchmarkpocalypse",
           "link": "https://danluu.com/benchpocalypse/",
           "date": "2026-08-18T02:11:02+00:00"
@@ -303,21 +318,6 @@
           "title": "Repair Cafe – Fix Your Broken Items",
           "link": "https://www.repaircafe.org/",
           "date": "2026-08-17T23:28:28+00:00"
-        },
-        {
-          "title": "How Bluesky draws its logo on screenshots",
-          "link": "https://timmarinin.net/2026/bluesky-screenshots/",
-          "date": "2026-08-17T22:20:40+00:00"
-        },
-        {
-          "title": "scScript for Linux",
-          "link": "https://scapplications.com/",
-          "date": "2026-08-17T22:18:05+00:00"
-        },
-        {
-          "title": "Quake Shareware, a CD-ROM just a little too full",
-          "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-          "date": "2026-08-17T22:06:14+00:00"
         }
       ]
     },
@@ -327,14 +327,14 @@
       "url": "https://lobste.rs/rss",
       "items": [
         {
-          "title": "GitHub has alternatives, but no replacement",
-          "link": "https://lalitm.com/post/github-alternatives/",
-          "date": "2026-08-17T17:12:44+00:00"
-        },
-        {
           "title": "How Bluesky draws its logo on screenshots",
           "link": "https://timmarinin.net/2026/bluesky-screenshots/",
           "date": "2026-08-17T21:46:01+00:00"
+        },
+        {
+          "title": "GitHub has alternatives, but no replacement",
+          "link": "https://lalitm.com/post/github-alternatives/",
+          "date": "2026-08-17T17:12:44+00:00"
         },
         {
           "title": "Does it make sense to switch to a Github Alternative ?",
@@ -342,14 +342,14 @@
           "date": "2026-08-17T14:03:05+00:00"
         },
         {
+          "title": "AI;DR (AI; Didn’t Read)",
+          "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+          "date": "2026-08-17T20:14:47+00:00"
+        },
+        {
           "title": "Quake Shareware, a CD-ROM just a little too full",
           "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
           "date": "2026-08-17T22:58:03+00:00"
-        },
-        {
-          "title": "Vetted AI code is hard to justify",
-          "link": "https://amoffat.github.io/blog/vetting-burnout.html",
-          "date": "2026-08-17T11:11:39+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[问与答] 有人刷到重庆长江国际大厦下近两三天发生的事情吗",
-          "link": "https://www.v2ex.com/t/1235286#reply0",
-          "date": "2026-08-18T06:28:29+00:00"
+          "title": "[深圳] 有没有老哥认识正儿八经靠谱的、建筑施工公司、就是总包的那种、从挖坑到高楼大厦，总包的楼宇建筑公司",
+          "link": "https://www.v2ex.com/t/1235370#reply1",
+          "date": "2026-08-18T09:23:13+00:00"
         },
         {
-          "title": "[问与答] 老哥们，预算 3w 左右想弄一套小型化本地大模型硬件，求推荐",
-          "link": "https://www.v2ex.com/t/1235285#reply0",
-          "date": "2026-08-18T06:27:26+00:00"
+          "title": "[OpenAI] 中转站什么比例才是与 codex 官方的价格齐平的？",
+          "link": "https://www.v2ex.com/t/1235369#reply0",
+          "date": "2026-08-18T09:21:55+00:00"
         },
         {
-          "title": "[智能家电] 智能门锁选鹿客 S6Max 怎么样？",
-          "link": "https://www.v2ex.com/t/1235284#reply0",
-          "date": "2026-08-18T06:15:41+00:00"
+          "title": "[推广] DeepSeek Harness Guide: plugin-first agent runtime",
+          "link": "https://www.v2ex.com/t/1235368#reply0",
+          "date": "2026-08-18T09:20:55+00:00"
         },
         {
-          "title": "[Codex] 发 Codex 1000 额度的邀请",
-          "link": "https://www.v2ex.com/t/1235283#reply6",
-          "date": "2026-08-18T06:06:15+00:00"
+          "title": "[程序员] 现在招聘基本上都是 AI 相关的了",
+          "link": "https://www.v2ex.com/t/1235367#reply0",
+          "date": "2026-08-18T09:19:19+00:00"
         },
         {
-          "title": "[问与答] 对于 Notion 完全懵了，是不是不适合当笔记软件",
-          "link": "https://www.v2ex.com/t/1235281#reply4",
-          "date": "2026-08-18T05:56:04+00:00"
+          "title": "[AI Tools 精品 AI 工具导航] 给 DeepSeek Harness 的插件生态做了个「精选」目录",
+          "link": "https://www.v2ex.com/t/1235366#reply0",
+          "date": "2026-08-18T09:14:39+00:00"
         }
       ]
     },
@@ -541,6 +541,21 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
+          "title": "6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
+          "link": "https://www.qbitai.com/2026/08/474806.html",
+          "date": "2026-08-18T07:33:00+00:00"
+        },
+        {
+          "title": "今日起，阿里“千问办公”接入企业微信",
+          "link": "https://www.qbitai.com/2026/08/474803.html",
+          "date": "2026-08-18T07:17:42+00:00"
+        },
+        {
+          "title": "吉利汽车业绩高点，李书福激流勇退",
+          "link": "https://www.qbitai.com/2026/08/474736.html",
+          "date": "2026-08-18T06:46:46+00:00"
+        },
+        {
           "title": "650亿美元！IPO前夕，Anthropic营收底牌曝光",
           "link": "https://www.qbitai.com/2026/08/474673.html",
           "date": "2026-08-18T05:58:57+00:00"
@@ -549,21 +564,6 @@
           "title": "阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了",
           "link": "https://www.qbitai.com/2026/08/474647.html",
           "date": "2026-08-18T04:40:03+00:00"
-        },
-        {
-          "title": "AI Infra进入自进化时代！清华团队AI优化AI造就国产万亿Token工厂",
-          "link": "https://www.qbitai.com/2026/08/474611.html",
-          "date": "2026-08-18T03:31:33+00:00"
-        },
-        {
-          "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
-          "link": "https://www.qbitai.com/2026/08/474537.html",
-          "date": "2026-08-17T09:30:49+00:00"
-        },
-        {
-          "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
-          "link": "https://www.qbitai.com/2026/08/474518.html",
-          "date": "2026-08-17T09:04:37+00:00"
         }
       ]
     },
@@ -572,6 +572,11 @@
       "category": "AI",
       "url": "https://www.technologyreview.com/feed/",
       "items": [
+        {
+          "title": "The role of the astronaut is in flux",
+          "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+          "date": "2026-08-18T09:00:00+00:00"
+        },
         {
           "title": "What Flock’s defenders are missing",
           "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
@@ -591,11 +596,6 @@
           "title": "What happens when a kid’s robot best friend dies?",
           "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
           "date": "2026-08-17T09:00:00+00:00"
-        },
-        {
-          "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
-          "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
-          "date": "2026-08-14T12:17:21+00:00"
         }
       ]
     },
