@@ -1,11 +1,16 @@
 {
-  "updated": "2026-08-19T09:27:21+00:00",
+  "updated": "2026-08-19T12:34:42+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "中國動畫電影《牛來》爆紅背後：為爛片還是真誠買單",
+          "link": "https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-19T10:33:54+00:00"
+        },
         {
           "title": "經濟放緩、「掃黑除惡」下中國民商事律師重新評估風險",
           "link": "https://www.bbc.com/zhongwen/articles/c36d2rezx7lo/trad?at_medium=RSS&at_campaign=rss",
@@ -25,11 +30,6 @@
           "title": "她指控：一名法國公務員下藥，讓我們小便失禁",
           "link": "https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-19T06:41:30+00:00"
-        },
-        {
-          "title": "「爛到爆紅」的動畫電影成為中國票房黑馬",
-          "link": "https://www.bbc.com/zhongwen/articles/c07rl9x87lvo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-17T09:40:26+00:00"
         }
       ]
     },
@@ -39,9 +39,14 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+          "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-19T12:34:10+00:00"
+        },
+        {
           "title": "Sacked Ukrainian defence minister calls for presidential election",
           "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-19T09:02:08+00:00"
+          "date": "2026-08-19T11:00:21+00:00"
         },
         {
           "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
@@ -54,14 +59,9 @@
           "date": "2026-08-19T03:56:35+00:00"
         },
         {
-          "title": "Meta hooked children on Facebook and Instagram, US court hears",
-          "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-18T22:11:07+00:00"
-        },
-        {
-          "title": "South Korea shortens war games with US, citing Washington request",
-          "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-19T05:53:53+00:00"
+          "title": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
+          "link": "https://www.bbc.co.uk/news/articles/c2dk64d10rko?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-19T11:30:40+00:00"
         }
       ]
     },
@@ -71,6 +71,11 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
+          "title": "Inflation is heating up but don't expect another crisis",
+          "link": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-19T11:27:39+00:00"
+        },
+        {
           "title": "Jump in energy bills drives UK inflation to highest rate for four months",
           "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-19T09:02:03+00:00"
@@ -78,7 +83,7 @@
         {
           "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
           "link": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-19T09:11:08+00:00"
+          "date": "2026-08-19T11:08:42+00:00"
         },
         {
           "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
@@ -86,14 +91,9 @@
           "date": "2026-08-18T23:14:49+00:00"
         },
         {
-          "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
-          "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-19T03:56:35+00:00"
-        },
-        {
-          "title": "Mobile payments on the rise but cash decline slows",
-          "link": "https://www.bbc.co.uk/news/articles/cd7l9en2qrjo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-18T23:04:53+00:00"
+          "title": "The critical tech staying safe by going underground",
+          "link": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-18T23:25:21+00:00"
         }
       ]
     },
@@ -103,9 +103,19 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran",
+          "title": "UAE severs trade with Iran after reported missile strike",
           "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
-          "date": "2026-08-19T08:51:29+00:00"
+          "date": "2026-08-19T11:27:32+00:00"
+        },
+        {
+          "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 100%",
+          "link": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+          "date": "2026-08-19T11:53:58+00:00"
+        },
+        {
+          "title": "Target hikes outlook as sales rebound and huge tariff refund boosts bottom line",
+          "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
+          "date": "2026-08-19T11:41:43+00:00"
         },
         {
           "title": "Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa",
@@ -113,19 +123,9 @@
           "date": "2026-08-19T03:18:57+00:00"
         },
         {
-          "title": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election",
-          "link": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
-          "date": "2026-08-19T07:06:09+00:00"
-        },
-        {
-          "title": "Goldman studied where AI is squeezing labor markets. Here's what it found",
-          "link": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html",
-          "date": "2026-08-19T06:55:57+00:00"
-        },
-        {
-          "title": "World’s largest olive oil company pops over 15% as rivals circle in takeover battle",
-          "link": "https://www.cnbc.com/2026/08/19/deoleo-takeover-battle-olive-oil-dcoop.html",
-          "date": "2026-08-19T09:14:32+00:00"
+          "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
+          "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
+          "date": "2026-08-19T12:24:19+00:00"
         }
       ]
     },
@@ -134,6 +134,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息",
+          "link": "https://sspai.com/post/113618",
+          "date": "2026-08-19T09:39:05+00:00"
+        },
         {
           "title": "《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了",
           "link": "https://sspai.com/post/113588",
@@ -153,11 +158,6 @@
           "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
           "link": "https://sspai.com/post/113593",
           "date": "2026-08-18T09:01:31+00:00"
-        },
-        {
-          "title": "线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会",
-          "link": "https://sspai.com/post/113564",
-          "date": "2026-08-18T07:05:05+00:00"
         }
       ]
     },
@@ -166,6 +166,11 @@
       "category": "科技",
       "url": "https://www.ifanr.com/feed",
       "items": [
+        {
+          "title": "预售 21.99 万元起，全新一代智己 L6 把全线控底盘带进 20 万级，还有一个高定限量版",
+          "link": "https://www.ifanr.com/1675639?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-08-19T09:49:39+00:00"
+        },
         {
           "title": "制糖工厂发布「绿魔」细雳线 Pro：2m 主动式高速贴贴线，重塑专业体验",
           "link": "https://www.ifanr.com/1675607?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -185,11 +190,6 @@
           "title": "OpenAI 紧急暂停新模型训练，AI 开始进入「越聪明越危险」阶段",
           "link": "https://www.ifanr.com/1675512?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-08-19T03:28:17+00:00"
-        },
-        {
-          "title": "牛来了又走了，AI 股神暴亏 300 亿内幕曝光：成也 AI，败也 AI",
-          "link": "https://www.ifanr.com/1675462?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-08-19T00:36:53+00:00"
         }
       ]
     },
@@ -199,6 +199,21 @@
       "url": "https://www.solidot.org/index.rss",
       "items": [
         {
+          "title": "童年创伤可能导致成年后快感缺失",
+          "link": "https://www.solidot.org/story?sid=85138",
+          "date": "2026-08-19T10:35:40+00:00"
+        },
+        {
+          "title": "量子存储器间纠缠距离提升至 420 公里",
+          "link": "https://www.solidot.org/story?sid=85137",
+          "date": "2026-08-19T10:06:41+00:00"
+        },
+        {
+          "title": "数字信号处理先驱刘必治去世，享年 91 岁",
+          "link": "https://www.solidot.org/story?sid=85136",
+          "date": "2026-08-19T08:58:21+00:00"
+        },
+        {
           "title": "诺基亚大幅缩减中国业务",
           "link": "https://www.solidot.org/story?sid=85135",
           "date": "2026-08-19T07:32:02+00:00"
@@ -207,21 +222,6 @@
           "title": "蓝箭航天成功回收朱雀三号火箭第一级",
           "link": "https://www.solidot.org/story?sid=85134",
           "date": "2026-08-19T07:08:48+00:00"
-        },
-        {
-          "title": "DDR5 内存条价格在 12 个月内上涨 500%",
-          "link": "https://www.solidot.org/story?sid=85133",
-          "date": "2026-08-19T06:35:15+00:00"
-        },
-        {
-          "title": "Comcast 将数百万路由器变成运动探测器",
-          "link": "https://www.solidot.org/story?sid=85132",
-          "date": "2026-08-19T06:13:13+00:00"
-        },
-        {
-          "title": "出生后限制摄入糖分与成年后更低的癌症风险相关",
-          "link": "https://www.solidot.org/story?sid=85131",
-          "date": "2026-08-19T05:11:23+00:00"
         }
       ]
     },
@@ -231,29 +231,29 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
-          "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",
-          "link": "https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale",
-          "date": "2026-08-18T20:03:14+00:00"
+          "title": "Amazon seemingly leaked Jason Statham’s entire Mutiny movie",
+          "link": "https://www.theverge.com/entertainment/981943/amazon-prime-video-mutiny-movie-leak",
+          "date": "2026-08-19T12:32:00+00:00"
         },
         {
-          "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-          "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-          "date": "2026-08-18T19:48:26+00:00"
+          "title": "Nvidia’s new financial strategy does not compute",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+          "date": "2026-08-19T00:24:27+00:00"
         },
         {
-          "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-          "date": "2026-08-18T19:28:30+00:00"
+          "title": "The women’s soccer league trying to fix fantasy sports",
+          "link": "https://www.theverge.com/entertainment/981880/womens-super-league-wsl-fantasy-league-app",
+          "date": "2026-08-19T12:29:57+00:00"
         },
         {
-          "title": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
-          "link": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
-          "date": "2026-08-18T18:56:52+00:00"
+          "title": "Amazon’s drones will soon deliver to nearly 500 US cities and towns",
+          "link": "https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion",
+          "date": "2026-08-19T11:53:27+00:00"
         },
         {
-          "title": "PlayStation&#8217;s wireless gaming speakers launch in November",
-          "link": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
-          "date": "2026-08-18T17:18:57+00:00"
+          "title": "The everyday tech I use to track my corgi",
+          "link": "https://www.theverge.com/gadgets/981143/airtag-corgi-pet-tech-tracking",
+          "date": "2026-08-17T19:18:39+00:00"
         }
       ]
     },
@@ -295,19 +295,19 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "GrapheneOS in 2027 available on high-end Motorola phones",
+          "link": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+          "date": "2026-08-19T11:46:58+00:00"
+        },
+        {
+          "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+          "link": "https://theremin.bizibah.com/",
+          "date": "2026-08-19T10:15:00+00:00"
+        },
+        {
           "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
           "link": "https://www.modular.com/blog/modcon-announcements",
           "date": "2026-08-19T07:47:19+00:00"
-        },
-        {
-          "title": "Where Human Sleep Went Wrong",
-          "link": "https://nautil.us/where-human-sleep-went-wrong-1283797",
-          "date": "2026-08-19T07:40:32+00:00"
-        },
-        {
-          "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
-          "link": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
-          "date": "2026-08-19T07:35:59+00:00"
         },
         {
           "title": "λλ: A Programming Language for Silicon Photonics",
@@ -332,9 +332,9 @@
           "date": "2026-08-19T06:20:33+00:00"
         },
         {
-          "title": "Mojo is now open source",
-          "link": "https://www.modular.com/blog/mojo-open-source",
-          "date": "2026-08-18T16:34:21+00:00"
+          "title": "Mastodon 5.0: Laying the foundation",
+          "link": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
+          "date": "2026-08-19T00:03:41+00:00"
         },
         {
           "title": "How I browse the Web with uBlock (Hard Mode)",
@@ -342,14 +342,14 @@
           "date": "2026-08-18T12:30:18+00:00"
         },
         {
-          "title": "What software do you use daily in 2026?",
-          "link": "https://lobste.rs/s/ttxwdz/what_software_do_you_use_daily_2026",
-          "date": "2026-08-18T14:31:11+00:00"
+          "title": "Mojo is now open source",
+          "link": "https://www.modular.com/blog/mojo-open-source",
+          "date": "2026-08-18T16:34:21+00:00"
         },
         {
-          "title": "Mastodon 5.0: Laying the foundation",
-          "link": "https://blog.joinmastodon.org/2026/08/5.0-laying-the-foundation/",
-          "date": "2026-08-19T00:03:41+00:00"
+          "title": "HTML Can Do That",
+          "link": "https://chrisburnell.com/html-can-do-that/",
+          "date": "2026-08-19T10:55:29+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[问与答] 求助：电动自定车怎么选",
-          "link": "https://www.v2ex.com/t/1235667#reply0",
-          "date": "2026-08-19T09:25:20+00:00"
+          "title": "[Windows] Windows“快速启动”不工作——混合关闭已被磁盘检查请求覆盖。系统将改为执行完全关闭。",
+          "link": "https://www.v2ex.com/t/1235705#reply0",
+          "date": "2026-08-19T12:32:53+00:00"
         },
         {
-          "title": "[股票] 哎呦好烦机器人解套解早了啊",
-          "link": "https://www.v2ex.com/t/1235666#reply0",
-          "date": "2026-08-19T09:25:07+00:00"
+          "title": "[分享发现] 小红书也发模型了，可白嫖，不知道什么水平",
+          "link": "https://www.v2ex.com/t/1235703#reply0",
+          "date": "2026-08-19T12:28:44+00:00"
         },
         {
-          "title": "[开源软件] 开源：虎牙，斗鱼， B 站转发推流，老设备福音，中年男人的最后一点爱好。",
-          "link": "https://www.v2ex.com/t/1235665#reply0",
-          "date": "2026-08-19T09:24:23+00:00"
+          "title": "[酷工作] 发个兼职 招募游戏玩家参加座谈会",
+          "link": "https://www.v2ex.com/t/1235702#reply1",
+          "date": "2026-08-19T12:10:36+00:00"
         },
         {
-          "title": "[程序员] 20 天 2 折国内模型，可在 workbuddy 中使用， 90%的情况稳定，作为补充通道，算不算便宜",
-          "link": "https://www.v2ex.com/t/1235663#reply0",
-          "date": "2026-08-19T09:22:57+00:00"
+          "title": "[生活] 今天生日，晚上搞一包螺蛳粉回去煮了吃，佬们也犒劳下自己",
+          "link": "https://www.v2ex.com/t/1235701#reply4",
+          "date": "2026-08-19T12:10:20+00:00"
         },
         {
-          "title": "[分享创造] Gyrondo 沉浸式番茄钟 Beta 公测版本它来了",
-          "link": "https://www.v2ex.com/t/1235662#reply0",
-          "date": "2026-08-19T09:20:40+00:00"
+          "title": "[分享创造] Deepseek Harness 桌面端开源了",
+          "link": "https://www.v2ex.com/t/1235700#reply0",
+          "date": "2026-08-19T11:50:12+00:00"
         }
       ]
     },
@@ -541,6 +541,21 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
+          "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
+          "link": "https://www.qbitai.com/2026/08/475931.html",
+          "date": "2026-08-19T10:54:07+00:00"
+        },
+        {
+          "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
+          "link": "https://www.qbitai.com/2026/08/475907.html",
+          "date": "2026-08-19T10:12:09+00:00"
+        },
+        {
+          "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
+          "link": "https://www.qbitai.com/2026/08/475901.html",
+          "date": "2026-08-19T08:34:36+00:00"
+        },
+        {
           "title": "MiniMax核心工程负责人阿岛离职",
           "link": "https://www.qbitai.com/2026/08/475869.html",
           "date": "2026-08-19T08:23:05+00:00"
@@ -549,21 +564,6 @@
           "title": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
           "link": "https://www.qbitai.com/2026/08/475477.html",
           "date": "2026-08-19T07:42:27+00:00"
-        },
-        {
-          "title": "用DeepSeek网页版就能瓜分鹅厂600万？？！",
-          "link": "https://www.qbitai.com/2026/08/475764.html",
-          "date": "2026-08-19T07:40:36+00:00"
-        },
-        {
-          "title": "写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”",
-          "link": "https://www.qbitai.com/2026/08/475476.html",
-          "date": "2026-08-19T07:22:19+00:00"
-        },
-        {
-          "title": "从沙子到会“思考”的智能材料，张朝阳与物理学家刘若微揭秘世界的底层逻辑",
-          "link": "https://www.qbitai.com/2026/08/475460.html",
-          "date": "2026-08-19T06:35:42+00:00"
         }
       ]
     },
@@ -572,6 +572,11 @@
       "category": "AI",
       "url": "https://www.technologyreview.com/feed/",
       "items": [
+        {
+          "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+          "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+          "date": "2026-08-19T12:10:00+00:00"
+        },
         {
           "title": "Child-monitoring apps might need a reboot",
           "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
@@ -591,11 +596,6 @@
           "title": "The role of the astronaut is in flux",
           "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
           "date": "2026-08-18T09:00:00+00:00"
-        },
-        {
-          "title": "AI’s recursive self-improvement might not come so quickly after all",
-          "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-          "date": "2026-08-18T09:00:00+00:00"
         }
       ]
     },
@@ -605,6 +605,21 @@
       "url": "https://www.nature.com/nature.rss",
       "items": [
         {
+          "title": "Twenty-two easy ways to power up your lab meetings",
+          "link": "https://www.nature.com/articles/d41586-026-02037-y",
+          "date": "2026-08-19T00:00:00+00:00"
+        },
+        {
+          "title": "South Africa’s scientists must register with official body or risk prison, according to draft law",
+          "link": "https://www.nature.com/articles/d41586-026-02516-2",
+          "date": "2026-08-19T00:00:00+00:00"
+        },
+        {
+          "title": "Screening babies’ genomes could save lives. Here’s how it would work",
+          "link": "https://www.nature.com/articles/d41586-026-02528-y",
+          "date": "2026-08-19T00:00:00+00:00"
+        },
+        {
           "title": "Heatwaves expose weak links in food systems",
           "link": "https://www.nature.com/articles/d41586-026-02577-3",
           "date": "2026-08-18T00:00:00+00:00"
@@ -612,21 +627,6 @@
         {
           "title": "Scientific expedition makes the best of bad weather",
           "link": "https://www.nature.com/articles/d41586-026-02381-z",
-          "date": "2026-08-18T00:00:00+00:00"
-        },
-        {
-          "title": "Treat biological databases as infrastructure, not projects",
-          "link": "https://www.nature.com/articles/d41586-026-02575-5",
-          "date": "2026-08-18T00:00:00+00:00"
-        },
-        {
-          "title": "Europe must adapt to live with megafires",
-          "link": "https://www.nature.com/articles/d41586-026-02578-2",
-          "date": "2026-08-18T00:00:00+00:00"
-        },
-        {
-          "title": "Asia’s longevity gains must be translated into better health",
-          "link": "https://www.nature.com/articles/d41586-026-02576-4",
           "date": "2026-08-18T00:00:00+00:00"
         }
       ]
@@ -637,29 +637,29 @@
       "url": "https://www.sciencedaily.com/rss/all.xml",
       "items": [
         {
-          "title": "Scientists turn DNA into a memory device that uses 100x less power",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
-          "date": "2026-08-17T08:06:45+00:00"
+          "title": "Pollen has a surprising problem — and honeybees have found a way around it",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260819041237.htm",
+          "date": "2026-08-19T11:25:45+00:00"
         },
         {
-          "title": "The bacteria that make cheese taste so good may also benefit your gut",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260816044847.htm",
-          "date": "2026-08-17T22:18:03+00:00"
+          "title": "Coffee drinkers have less fat, more muscle, and surprising hormone differences",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260819041228.htm",
+          "date": "2026-08-19T12:30:05+00:00"
         },
         {
-          "title": "Einstein’s biggest “mistake” came back — and changed cosmology forever",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260816044835.htm",
-          "date": "2026-08-18T05:58:07+00:00"
+          "title": "This 23-foot crocodylian may have ruled South America’s food chain",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260819041226.htm",
+          "date": "2026-08-19T09:55:34+00:00"
         },
         {
-          "title": "Scientists reveal why walking gets so much harder with age",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260815065014.htm",
-          "date": "2026-08-16T09:13:25+00:00"
+          "title": "Tiny quantum engines reveal useful energy hiding in “waste heat”",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260819041222.htm",
+          "date": "2026-08-19T11:49:52+00:00"
         },
         {
-          "title": "Scientists may have finally proved that “empty” space isn’t really empty",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
-          "date": "2026-08-18T06:08:04+00:00"
+          "title": "16 mummies and a dog reveal a hidden order inside an ancient Egyptian tomb",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260819041218.htm",
+          "date": "2026-08-19T08:57:10+00:00"
         }
       ]
     }
