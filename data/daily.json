@@ -1,124 +1,126 @@
 {
-  "updated": "2026-08-18T21:17:36+00:00",
+  "updated": "2026-08-19T00:54:27+00:00",
   "leetcode": {
-    "date": "2026-08-18",
-    "id": "3471",
-    "title": "Find the Largest Almost Missing Integer",
-    "titleEn": "Find the Largest Almost Missing Integer",
-    "slug": "find-the-largest-almost-missing-integer",
-    "difficulty": "Easy",
+    "date": "2026-08-19",
+    "id": "1386",
+    "title": "Cinema Seat Allocation",
+    "titleEn": "Cinema Seat Allocation",
+    "slug": "cinema-seat-allocation",
+    "difficulty": "Medium",
     "tags": [
       "Array",
-      "Hash Table"
+      "Hash Table",
+      "Greedy",
+      "Bit Manipulation"
     ],
-    "link": "https://leetcode.com/problems/find-the-largest-almost-missing-integer/",
+    "link": "https://leetcode.com/problems/cinema-seat-allocation/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Siege of Brest (1342)",
-    "text": "The siege of Brest took place in 1342 during the Breton Civil War. When John III, the duke of Brittany, died childless in 1341 the title was contested by Charles of Blois and John of Montfort. Charles was the nephew of the French king, Philip VI, who supported him with a large army. Charles invaded Brittany, making good progress and taking John prisoner. John's wife, Joanna of Flanders, took up the Montfortist cause and fought on. As France and England had been fighting the Hundred Years' War since 1337 Joanna appealed to Edward III, the English king, for military assistance, which was promised.",
-    "words": 103,
-    "url": "https://en.wikipedia.org/wiki/Siege_of_Brest_(1342)",
-    "date": "2026-08-18",
+    "title": "SMS Schwaben",
+    "text": "SMS Schwaben was the fourth ship of the Wittelsbach class of pre-dreadnought battleships of the German Imperial Navy. Schwaben was built at the Imperial Dockyard in Wilhelmshaven. She was laid down in 1900, and completed in April 1904. Her sister ships were Wittelsbach, Zähringen, Wettin and Mecklenburg; they were the first capital ships built under the Navy Law of 1898, championed by Admiral Alfred von Tirpitz. Schwaben was armed with a main battery of four 24-centimeter (9.4 in) guns and had a top speed of 18 knots.",
+    "words": 87,
+    "url": "https://en.wikipedia.org/wiki/SMS_Schwaben",
+    "date": "2026-08-19",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Christ The Healer",
+    "title": "Home Movie: 10831: Golden Gate International Exposition, San Francisco]",
     "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/203505_Christ_the_Healer/203505_Christ_the_Healer_master.intros.mp4",
-    "page": "https://archive.org/details/203505_Christ_the_Healer",
-    "date": "2026-08-18",
+    "year": "1939",
+    "url": "https://archive.org/download/HMGoldenGateInterna10831/10831.mp4",
+    "page": "https://archive.org/details/HMGoldenGateInterna10831",
+    "date": "2026-08-19",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "[inr008cd]Monoceros_-_I feel apocalyptic today",
-      "artist": "Monoceros",
-      "url": "https://archive.org/download/inr008cd_monoceros_-_i_feel_apocalyptic_today/01_monoceros_-_moment_of_light_vbr.mp3",
-      "page": "https://archive.org/details/inr008cd_monoceros_-_i_feel_apocalyptic_today",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "QuXXX-OFFROAD_VentiSessantuno",
+      "artist": "jaeck the bit",
+      "url": "https://archive.org/download/QuXXX-OFFROAD_VentiSessantuno/OFFROAD_VentiSessantuno.mp3",
+      "page": "https://archive.org/details/QuXXX-OFFROAD_VentiSessantuno",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/it/"
     },
     {
-      "title": "ouimnet-set055",
-      "artist": "",
-      "url": "https://archive.org/download/ouimnet-set055/Ouimnet-set055-victors_mob_-_djSet_vinylSession_promo_30Apr_09.mp3",
-      "page": "https://archive.org/details/ouimnet-set055",
+      "title": "WMRI - Sound Archives 2003-2006: CD10 - WMRemIx [USC-WR-1201.0001]",
+      "artist": "WMRI",
+      "url": "https://archive.org/download/wmri-sound-archives-2003-2006-wmremix/01.afterRaintechnoMix.mp3",
+      "page": "https://archive.org/details/wmri-sound-archives-2003-2006-wmremix",
+      "license": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "title": "v.+Zanstones - NOW! [zero137a]",
+      "artist": "v.+Zanstones",
+      "url": "https://archive.org/download/zero137a/1.mp3",
+      "page": "https://archive.org/details/zero137a",
+      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
+    },
+    {
+      "title": "Андрей Гаев - 17 мгновений Донбасса (Single) (2018)",
+      "artist": "Андрей Гаев",
+      "url": "https://archive.org/download/IBR_681/01.%2017%20%D0%BC%D0%B3%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81%D1%81%D0%B0.mp3",
+      "page": "https://archive.org/details/IBR_681",
       "license": "Creative Commons"
     },
     {
-      "title": "[TAN014] Steam flow - Mist",
-      "artist": "Mad God",
-      "url": "https://archive.org/download/TAN014/Mist.mp3",
-      "page": "https://archive.org/details/TAN014",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
-    },
-    {
-      "title": "BernieLomax - Massage",
-      "artist": "BernieLomax",
-      "url": "https://archive.org/download/bernielomax-massage/massage.mp3",
-      "page": "https://archive.org/details/bernielomax-massage",
-      "license": "http://creativecommons.org/licenses/by-nc/1.0/"
-    },
-    {
-      "title": "Various Artists - Quintessence 2008 - 2018",
-      "artist": "afmusic",
-      "url": "https://archive.org/download/Quintessence2008-2018/01_-_The_Search_-_Swimmer.mp3",
-      "page": "https://archive.org/details/Quintessence2008-2018",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Like Life Easily Ended",
-      "artist": "A.F.F.E.N",
-      "url": "https://archive.org/download/AFFEN-LikeLifeEasilyEnded/AFFEN-LikeLifeEasilyEnded.mp3",
-      "page": "https://archive.org/details/AFFEN-LikeLifeEasilyEnded",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Filmy Ghost & JackCote - Dark Slow Echoes (EP) (2018)",
-      "artist": "Filmy Ghost & JackCote",
-      "url": "https://archive.org/download/jack-cote-filmy-ghost-dark-slow-echoes/01%20-%20Psychedelic%20Witch.mp3",
-      "page": "https://archive.org/details/jack-cote-filmy-ghost-dark-slow-echoes",
+      "title": "Tim Rowe - The Elegy Suite (waag_rel062)",
+      "artist": "Tim Rowe",
+      "url": "https://archive.org/download/waag_rel062/01_-_Tim-Rowe_-_The-Elegy-Suite-part-I.mp3",
+      "page": "https://archive.org/details/waag_rel062",
       "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "[inoquo060] v.a. - sixty",
-      "artist": "v.a.",
-      "url": "https://archive.org/download/inoquo060/01_SG_-_night-oblivion.mp3",
-      "page": "https://archive.org/details/inoquo060",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+      "title": "Cubenx-01-01-07",
+      "artist": "Cubenx",
+      "url": "https://archive.org/download/Cubenx-01-01-07/Cubenx-01-01-07.mp3",
+      "page": "https://archive.org/details/Cubenx-01-01-07",
+      "license": "Creative Commons"
     },
     {
-      "title": "NXL001 V de Vaka - La Venganza de la Vaka",
-      "artist": "V de Vaka",
-      "url": "https://archive.org/download/NXL001/01-Intro.mp3",
-      "page": "https://archive.org/details/NXL001",
+      "title": "Twilight Kamikaze - Believer",
+      "artist": "",
+      "url": "https://archive.org/download/twilight-kamikaze-believer/01.%20Twilight%20Kamikaze%20-%20World%20Eaters.mp3",
+      "page": "https://archive.org/details/twilight-kamikaze-believer",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "DaP Station Podcast 1 (transmission one) by ABF",
+      "artist": "",
+      "url": "https://archive.org/download/DapStationPodcast1transmissionOneByAbf/DapStationTransmisionOne.mp3",
+      "page": "https://archive.org/details/DapStationPodcast1transmissionOneByAbf",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "EOM114 / Pollux & My Anus Burns-Fucking Free",
+      "artist": "Pollux, My Anus Burns,",
+      "url": "https://archive.org/download/Eom114PolluxMyAnusBurns-fuckingFree/01-Pollux-LeutibahTeEuquitoahcLiever.mp3",
+      "page": "https://archive.org/details/Eom114PolluxMyAnusBurns-fuckingFree",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Oxygenfad - Mustard Saleswomen [illep050]",
-      "artist": "Oxygenfad",
-      "url": "https://archive.org/download/illep050/01_-_Oxygenfad_-_Cogito_Cena.mp3",
-      "page": "https://archive.org/details/illep050",
+      "title": "Бактериальные Промоторы - Старый Новый Вася (2012)",
+      "artist": "Бактериальные Промоторы",
+      "url": "https://archive.org/download/IBR_1441/01.mp3",
+      "page": "https://archive.org/details/IBR_1441",
       "license": "Creative Commons"
     },
     {
-      "title": "Roma Laptop Orchestra - Live Improvisation (Stato Elettrico)",
-      "artist": "Stato Elettrico",
-      "url": "https://archive.org/download/RomaLaptopOrchestraLiveImprovvisation/Roma%20Laptop%20Orchestra%20-%20Live%20Improvvisation%20Part%201.mp3",
-      "page": "https://archive.org/details/RomaLaptopOrchestraLiveImprovvisation",
+      "title": "Бактериальные Промоторы - Трансгрессивный Портвейн (2011)",
+      "artist": "Бактериальные Промоторы",
+      "url": "https://archive.org/download/IBR_1413/01.%20%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%20%D0%A1%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D1%85%20%D0%A9%D0%B5%D0%B9.mp3",
+      "page": "https://archive.org/details/IBR_1413",
       "license": "Creative Commons"
     },
     {
-      "title": "BH030XEP - Gemini 7 - Put-up Job Scenes In The Space Capsule Ep",
-      "artist": "Gemini 7",
-      "url": "https://archive.org/download/bh030xep/01-gemini_7-was_bertalan_farkas_on_the_mercury_vbr.mp3",
-      "page": "https://archive.org/details/bh030xep",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/hu/"
+      "title": "VBR Podcast #13",
+      "artist": "Banyek",
+      "url": "https://archive.org/download/vbr013/vbr_013.mp3",
+      "page": "https://archive.org/details/vbr013",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
     }
   ]
 }
