@@ -1,11 +1,16 @@
 {
-  "updated": "2026-08-20T18:30:09+00:00",
+  "updated": "2026-08-20T21:22:06+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
+          "link": "https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-20T20:55:34+00:00"
+        },
         {
           "title": "恆大許家印被判處無期徒刑 集團罰款近160億元人民幣",
           "link": "https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/trad?at_medium=RSS&at_campaign=rss",
@@ -25,11 +30,6 @@
           "title": "台灣再提「普發一萬」：背後的K型經濟與政治算盤",
           "link": "https://www.bbc.com/zhongwen/articles/cvg96l8e5q9o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-20T08:36:06+00:00"
-        },
-        {
-          "title": "《牛來》爆紅：觀眾、導演與電影業者解讀「粗糙」動畫的意外狂歡",
-          "link": "https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-19T10:33:54+00:00"
         }
       ]
     },
@@ -39,29 +39,29 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+          "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-20T19:52:48+00:00"
+        },
+        {
+          "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+          "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-20T18:55:14+00:00"
+        },
+        {
           "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
           "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-20T17:14:55+00:00"
         },
         {
-          "title": "Trump vows tougher economic measures on Iran and supporting countries",
-          "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-20T09:13:18+00:00"
+          "title": "Dozens dead after boat capsizes in north-western Nigeria",
+          "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-20T20:27:36+00:00"
         },
         {
-          "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-          "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-20T06:08:02+00:00"
-        },
-        {
-          "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
+          "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
           "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-20T16:53:20+00:00"
-        },
-        {
-          "title": "Assad officer extradited to Syria on war crimes charges for first time",
-          "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-20T12:38:35+00:00"
+          "date": "2026-08-20T20:08:29+00:00"
         }
       ]
     },
@@ -103,9 +103,14 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "Bessent says Treasury buyback operation could be more than $4 billion",
-          "link": "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html",
-          "date": "2026-08-20T15:35:33+00:00"
+          "title": "Walmart stock tumbles 9% after outlook disappoints Wall Street",
+          "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+          "date": "2026-08-20T20:01:49+00:00"
+        },
+        {
+          "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
+          "link": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html",
+          "date": "2026-08-20T21:13:14+00:00"
         },
         {
           "title": "AI data center outrage is showing up everywhere from ads to elections",
@@ -113,19 +118,14 @@
           "date": "2026-08-20T15:56:12+00:00"
         },
         {
-          "title": "Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure",
-          "link": "https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html",
-          "date": "2026-08-20T17:19:03+00:00"
+          "title": "Warsh faces Fed independence test as Bessent moves in on central bank's turf",
+          "link": "https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html",
+          "date": "2026-08-20T20:02:18+00:00"
         },
         {
-          "title": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
-          "link": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
-          "date": "2026-08-20T16:42:56+00:00"
-        },
-        {
-          "title": "Walmart hikes full-year outlook and gets huge tariff refund, but stock falls on sales concerns",
-          "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
-          "date": "2026-08-20T15:51:26+00:00"
+          "title": "Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC",
+          "link": "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html",
+          "date": "2026-08-20T21:10:08+00:00"
         }
       ]
     },
@@ -231,29 +231,29 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Riot is ending development on its League of Legends fighting game",
+          "link": "https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development",
+          "date": "2026-08-20T19:59:09+00:00"
+        },
+        {
+          "title": "The Genesis GV90 blows the bloody doors off what’s possible in EV design",
+          "link": "https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor",
+          "date": "2026-08-20T19:52:57+00:00"
+        },
+        {
+          "title": "Mark Zuckerberg bought an Irish castle",
+          "link": "https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland",
+          "date": "2026-08-20T20:02:18+00:00"
+        },
+        {
           "title": "Australia says Roblox hasn&#8217;t fixed its child predator problem",
           "link": "https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety",
-          "date": "2026-08-20T18:23:35+00:00"
+          "date": "2026-08-20T18:59:28+00:00"
         },
         {
           "title": "FCC officially decides gigabit speeds are too good for you",
           "link": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
           "date": "2026-08-20T17:41:17+00:00"
-        },
-        {
-          "title": "Framework says it&#8217;s addressing a BIOS update that bricked some of its older laptops",
-          "link": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
-          "date": "2026-08-20T17:16:02+00:00"
-        },
-        {
-          "title": "It’s Greg Brockman’s OpenAI now",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-          "date": "2026-08-20T15:54:52+00:00"
-        },
-        {
-          "title": "This app makes the Pixel 11&#8217;s HiLight feature actually useful",
-          "link": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
-          "date": "2026-08-20T15:58:18+00:00"
         }
       ]
     },
@@ -262,6 +262,11 @@
       "category": "科技",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "Roblox must make changes after failing to block adults creeping on kids",
+          "link": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
+          "date": "2026-08-20T17:14:08+00:00"
+        },
         {
           "title": "Genesis joins the giant electric SUV club with new GV90",
           "link": "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/",
@@ -281,11 +286,6 @@
           "title": "Grok exfiltrates user data when malicious instructions are encrypted",
           "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
           "date": "2026-08-20T13:00:35+00:00"
-        },
-        {
-          "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
-          "link": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
-          "date": "2026-08-20T00:18:48+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Optimizing things in the USSR (2016)",
-          "link": "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/",
-          "date": "2026-08-20T17:55:16+00:00"
+          "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+          "link": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+          "date": "2026-08-20T20:07:26+00:00"
         },
         {
-          "title": "I should have loved biology",
-          "link": "https://jsomers.net/i-should-have-loved-biology/",
-          "date": "2026-08-20T17:50:02+00:00"
+          "title": "Stop eating Lady Gaga's Oreos",
+          "link": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos",
+          "date": "2026-08-20T19:46:06+00:00"
         },
         {
-          "title": "Project Cybersyn",
-          "link": "https://bactra.org/notebooks/cybersyn.html",
-          "date": "2026-08-20T17:40:49+00:00"
+          "title": "GitHub, autoscaling, and the component substitution fallacy",
+          "link": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
+          "date": "2026-08-20T19:28:18+00:00"
         },
         {
-          "title": "Show HN: We chased a weather balloon across Montana and never found it",
-          "link": "https://radi8.dev/blog/uplink/",
-          "date": "2026-08-20T17:33:32+00:00"
+          "title": "The August 17 outage, and the work ahead",
+          "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+          "date": "2026-08-20T19:22:24+00:00"
         },
         {
-          "title": "URL shortener links stored in your ATProto PDS",
-          "link": "https://atpr.to/",
-          "date": "2026-08-20T17:23:22+00:00"
+          "title": "Tidal Cycles – Live coding music with Algorithmic patterns",
+          "link": "https://tidalcycles.org/",
+          "date": "2026-08-20T19:21:45+00:00"
         }
       ]
     },
@@ -337,19 +337,19 @@
           "date": "2026-08-20T09:54:06+00:00"
         },
         {
-          "title": "What Zig felt like, coming from Rust",
-          "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-          "date": "2026-08-20T07:53:17+00:00"
-        },
-        {
           "title": "How a joke domain purchase turned into geopolitical warfare",
           "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
           "date": "2026-08-20T12:21:41+00:00"
         },
         {
-          "title": "HTML Can Do That",
-          "link": "https://chrisburnell.com/html-can-do-that/",
-          "date": "2026-08-19T10:55:29+00:00"
+          "title": "What Zig felt like, coming from Rust",
+          "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+          "date": "2026-08-20T07:53:17+00:00"
+        },
+        {
+          "title": "Everyone Says Assembly Is Untyped—Everyone Is Wrong",
+          "link": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+          "date": "2026-08-20T17:22:35+00:00"
         }
       ]
     },
@@ -375,7 +375,7 @@
         },
         {
           "title": "[程序员] GPT 降智变成 5.5mini 了，下午还好好的，手机上没事",
-          "link": "https://www.v2ex.com/t/1236016#reply1",
+          "link": "https://www.v2ex.com/t/1236016#reply2",
           "date": "2026-08-20T16:38:49+00:00"
         },
         {
@@ -423,6 +423,11 @@
       "url": "https://github.blog/feed/",
       "items": [
         {
+          "title": "The August 17 outage, and the work ahead",
+          "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+          "date": "2026-08-20T18:36:11+00:00"
+        },
+        {
           "title": "GitHub Copilot app for Beginners: Managing your work",
           "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
           "date": "2026-08-19T17:50:23+00:00"
@@ -441,11 +446,6 @@
           "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
           "link": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/",
           "date": "2026-08-13T19:00:00+00:00"
-        },
-        {
-          "title": "What 50 open source projects taught us about security in the AI era",
-          "link": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
-          "date": "2026-08-13T16:00:00+00:00"
         }
       ]
     },
