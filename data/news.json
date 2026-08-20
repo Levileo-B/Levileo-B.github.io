@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T00:53:37+00:00",
+  "updated": "2026-08-20T03:40:58+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -7,12 +7,22 @@
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
         {
+          "title": "台灣為何此刻提出「鞭刑入法」公投？",
+          "link": "https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-20T03:38:36+00:00"
+        },
+        {
           "title": "「我就是個普通人」：中國出入境新規上路前，那些早已受困的民眾",
           "link": "https://www.bbc.com/zhongwen/articles/ce3q0yd25j9o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-20T00:07:18+00:00"
         },
         {
-          "title": "《牛來》為何爆紅？觀眾、導演與電影從業者解讀「粗糙」動畫的意外狂歡",
+          "title": "哈里王子和梅根打算遷回英國，但這會長久嗎？",
+          "link": "https://www.bbc.com/zhongwen/articles/cgje9p6vn76o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-20T03:13:46+00:00"
+        },
+        {
+          "title": "《牛來》爆紅：觀眾、導演與電影業者解讀「粗糙」動畫的意外狂歡",
           "link": "https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-19T10:33:54+00:00"
         },
@@ -20,16 +30,6 @@
           "title": "上市首天漲價近五倍 宇樹科技是怎樣的機械人企業？",
           "link": "https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-19T12:47:27+00:00"
-        },
-        {
-          "title": "經濟放緩、「掃黑除惡」下中國民商事律師重新評估風險",
-          "link": "https://www.bbc.com/zhongwen/articles/c36d2rezx7lo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-18T23:53:38+00:00"
-        },
-        {
-          "title": "朱鎔基火化：從民間到八寶山，中國領導人身後事的政治邏輯",
-          "link": "https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-18T18:00:44+00:00"
         }
       ]
     },
@@ -46,22 +46,22 @@
         {
           "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
           "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-20T00:48:57+00:00"
+          "date": "2026-08-20T03:12:07+00:00"
         },
         {
           "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
           "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-20T00:52:28+00:00"
+          "date": "2026-08-20T03:22:57+00:00"
         },
         {
-          "title": "Sacked Ukrainian defence minister calls for presidential election",
-          "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-19T20:34:39+00:00"
+          "title": "Giant whales move into Greenland waters as ice disappears",
+          "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-20T02:05:20+00:00"
         },
         {
-          "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
-          "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-19T17:16:28+00:00"
+          "title": "Former Liberian vice president charged in drug-trafficking probe",
+          "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-20T03:09:24+00:00"
         }
       ]
     },
@@ -73,12 +73,12 @@
         {
           "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
           "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-20T00:52:28+00:00"
+          "date": "2026-08-20T03:22:57+00:00"
         },
         {
           "title": "US national debt passes $40tn after doubling in a decade",
           "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-19T22:31:46+00:00"
+          "date": "2026-08-20T01:24:26+00:00"
         },
         {
           "title": "I quit my £80,000 job to make ice cream - here's how",
@@ -103,9 +103,14 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "U.S. government debt passes $40 trillion, more than doubling in a decade",
-          "link": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html",
-          "date": "2026-08-19T22:34:33+00:00"
+          "title": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers",
+          "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
+          "date": "2026-08-20T02:49:15+00:00"
+        },
+        {
+          "title": "SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback",
+          "link": "https://www.cnbc.com/2026/08/20/sk-hynixs-south-korean-shares-surge-stock-buyback-.html",
+          "date": "2026-08-20T03:30:54+00:00"
         },
         {
           "title": "Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed",
@@ -113,19 +118,14 @@
           "date": "2026-08-19T20:02:32+00:00"
         },
         {
-          "title": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers",
-          "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
-          "date": "2026-08-19T23:52:55+00:00"
+          "title": "China is defying the global bond yield surge, boosting its diversification appeal",
+          "link": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
+          "date": "2026-08-20T02:39:14+00:00"
         },
         {
-          "title": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains",
-          "link": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html",
-          "date": "2026-08-20T00:30:32+00:00"
-        },
-        {
-          "title": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
-          "link": "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
-          "date": "2026-08-19T23:57:47+00:00"
+          "title": "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar",
+          "link": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+          "date": "2026-08-19T20:34:09+00:00"
         }
       ]
     },
@@ -134,6 +134,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
+          "link": "https://sspai.com/post/113638",
+          "date": "2026-08-20T00:46:04+00:00"
+        },
         {
           "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息",
           "link": "https://sspai.com/post/113618",
@@ -153,11 +158,6 @@
           "title": "派早报：iQOO 发布手机新品、闪极举行 Loomos AI 眼镜发布会等",
           "link": "https://sspai.com/post/113607",
           "date": "2026-08-19T00:30:54+00:00"
-        },
-        {
-          "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
-          "link": "https://sspai.com/post/113593",
-          "date": "2026-08-18T09:01:31+00:00"
         }
       ]
     },
@@ -167,29 +167,29 @@
       "url": "https://www.ifanr.com/feed",
       "items": [
         {
+          "title": "苹果「带摄像头的 AirPods」意外曝光，但今年还是买不到",
+          "link": "https://www.ifanr.com/1675719?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-08-20T02:16:34+00:00"
+        },
+        {
+          "title": "iPhone X 彻底「停产」了，但我们还没走出它定义的时代｜明日后视镜",
+          "link": "https://www.ifanr.com/1675378?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-08-20T02:11:32+00:00"
+        },
+        {
+          "title": "MiniMax Design 来了，视频模型也有了自己的 Codex",
+          "link": "https://www.ifanr.com/1675657?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-08-20T02:03:30+00:00"
+        },
+        {
+          "title": "80 亿美元！「美国支付宝」买下全球最大 AI 中转站",
+          "link": "https://www.ifanr.com/1675718?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-08-20T01:54:33+00:00"
+        },
+        {
           "title": "早报｜豆包进了特斯拉车机/曝苹果带摄像头AirPods延期至2027/宇树科技上市首日大涨460%​",
           "link": "https://www.ifanr.com/1675698?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-08-20T00:20:15+00:00"
-        },
-        {
-          "title": "预售 21.99 万元起，全新一代智己 L6 把全线控底盘带进 20 万级，还有一个高定限量版",
-          "link": "https://www.ifanr.com/1675639?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-08-19T09:49:39+00:00"
-        },
-        {
-          "title": "制糖工厂发布「绿魔」细雳线 Pro：2m 主动式高速贴贴线，重塑专业体验",
-          "link": "https://www.ifanr.com/1675607?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-08-19T07:50:58+00:00"
-        },
-        {
-          "title": "纯电 315km 的插混方盒子：钛 7 DM 长续航版上市，起售价 19.58 万元",
-          "link": "https://www.ifanr.com/1675594?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-08-19T07:34:32+00:00"
-        },
-        {
-          "title": "预售价 29.98 万元起，奕境 X9 想成为「半价问界 M9」",
-          "link": "https://www.ifanr.com/1675579?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-08-19T06:20:36+00:00"
         }
       ]
     },
@@ -295,9 +295,9 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo",
-          "link": "https://fetzu.ch/blog/20260819_claudevsdrobo/",
-          "date": "2026-08-20T00:18:16+00:00"
+          "title": "Turns are Better than Radians",
+          "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+          "date": "2026-08-20T01:29:12+00:00"
         },
         {
           "title": "Universality of Gradient Descent Neural Network Training",
@@ -305,19 +305,19 @@
           "date": "2026-08-20T00:05:12+00:00"
         },
         {
-          "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
-          "link": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
-          "date": "2026-08-19T23:38:22+00:00"
-        },
-        {
-          "title": "Collaborative Human Agent Protocol (CHAP)",
-          "link": "https://github.com/BrightbeamAI/chap",
-          "date": "2026-08-19T22:09:16+00:00"
-        },
-        {
           "title": "Feature Request: Support AGENTS.md",
           "link": "https://github.com/anthropics/claude-code/issues/6235",
           "date": "2026-08-19T21:19:50+00:00"
+        },
+        {
+          "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+          "link": "https://os8088.com/spotlight/",
+          "date": "2026-08-19T21:11:31+00:00"
+        },
+        {
+          "title": "DFlash 2: Keep Drafting Parallel",
+          "link": "https://inco.ai/blog/dflash2/",
+          "date": "2026-08-19T20:28:43+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[加密货币] 牛回速归",
-          "link": "https://www.v2ex.com/t/1235751#reply2",
-          "date": "2026-08-20T00:42:30+00:00"
+          "title": "[分享创造] 一款允许分组、嵌套、共创的笔记应用，很适合做旅游攻略和行程规划",
+          "link": "https://www.v2ex.com/t/1235830#reply0",
+          "date": "2026-08-20T03:39:09+00:00"
         },
         {
-          "title": "[问与答] V 站右边没有创作新主题按钮是被降权了吗？",
-          "link": "https://www.v2ex.com/t/1235749#reply1",
-          "date": "2026-08-20T00:37:56+00:00"
+          "title": "[问与答] 供应链同事依靠 AI 手搓在线订单系统",
+          "link": "https://www.v2ex.com/t/1235829#reply0",
+          "date": "2026-08-20T03:37:10+00:00"
         },
         {
-          "title": "[生活] 各位有多少人白头发了？有什么解决办法吗",
-          "link": "https://www.v2ex.com/t/1235748#reply9",
-          "date": "2026-08-20T00:34:56+00:00"
+          "title": "[分享发现] giffgaff 也不靠谱，手机号被注销了",
+          "link": "https://www.v2ex.com/t/1235828#reply0",
+          "date": "2026-08-20T03:36:53+00:00"
         },
         {
-          "title": "[分享创造] 做了一个 MP4 转文字的小工具",
-          "link": "https://www.v2ex.com/t/1235747#reply0",
-          "date": "2026-08-20T00:33:20+00:00"
+          "title": "[问与答] 问下各位现在的 ai 订阅都是用的啥银行卡？",
+          "link": "https://www.v2ex.com/t/1235827#reply0",
+          "date": "2026-08-20T03:35:32+00:00"
         },
         {
-          "title": "[Google Gemini] Gemini 学生优惠上新",
-          "link": "https://www.v2ex.com/t/1235746#reply0",
-          "date": "2026-08-20T00:32:22+00:00"
+          "title": "[程序员] Kimi 199 套餐 token 使用量记录",
+          "link": "https://www.v2ex.com/t/1235826#reply4",
+          "date": "2026-08-20T03:29:34+00:00"
         }
       ]
     },
@@ -541,6 +541,21 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
+          "title": "墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命",
+          "link": "https://www.qbitai.com/2026/08/476078.html",
+          "date": "2026-08-20T01:37:34+00:00"
+        },
+        {
+          "title": "完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩",
+          "link": "https://www.qbitai.com/2026/08/476075.html",
+          "date": "2026-08-20T01:21:07+00:00"
+        },
+        {
+          "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一",
+          "link": "https://www.qbitai.com/2026/08/476070.html",
+          "date": "2026-08-20T01:06:45+00:00"
+        },
+        {
           "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
           "link": "https://www.qbitai.com/2026/08/475931.html",
           "date": "2026-08-19T10:54:07+00:00"
@@ -549,21 +564,6 @@
           "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
           "link": "https://www.qbitai.com/2026/08/475907.html",
           "date": "2026-08-19T10:12:09+00:00"
-        },
-        {
-          "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
-          "link": "https://www.qbitai.com/2026/08/475901.html",
-          "date": "2026-08-19T08:34:36+00:00"
-        },
-        {
-          "title": "MiniMax核心工程负责人阿岛离职",
-          "link": "https://www.qbitai.com/2026/08/475869.html",
-          "date": "2026-08-19T08:23:05+00:00"
-        },
-        {
-          "title": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
-          "link": "https://www.qbitai.com/2026/08/475477.html",
-          "date": "2026-08-19T07:42:27+00:00"
         }
       ]
     },
@@ -605,6 +605,11 @@
       "url": "https://www.nature.com/nature.rss",
       "items": [
         {
+          "title": "These trees are making air quality in cities worse",
+          "link": "https://www.nature.com/articles/d41586-026-02586-2",
+          "date": "2026-08-20T00:00:00+00:00"
+        },
+        {
           "title": "Evidence for vacuum-enhanced superconductivity in NbSe<sub>2</sub>",
           "link": "https://www.nature.com/articles/s41586-026-11037-x",
           "date": "2026-08-19T00:00:00+00:00"
@@ -623,11 +628,6 @@
           "title": "Reply to: Artefacts in single-cell mtDNA analyses misinform phylogenies",
           "link": "https://www.nature.com/articles/s41586-026-10776-1",
           "date": "2026-08-19T00:00:00+00:00"
-        },
-        {
-          "title": "Artefacts in single-cell mtDNA analyses misinform phylogenies",
-          "link": "https://www.nature.com/articles/s41586-026-10777-0",
-          "date": "2026-08-19T00:00:00+00:00"
         }
       ]
     },
@@ -637,9 +637,19 @@
       "url": "https://www.sciencedaily.com/rss/all.xml",
       "items": [
         {
+          "title": "AI-designed “intrabodies” could unlock new treatments for Alzheimer’s, Parkinson’s and MND",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260819041242.htm",
+          "date": "2026-08-20T02:01:27+00:00"
+        },
+        {
           "title": "Pollen has a surprising problem — and honeybees have found a way around it",
           "link": "https://www.sciencedaily.com/releases/2026/08/260819041237.htm",
           "date": "2026-08-19T11:25:45+00:00"
+        },
+        {
+          "title": "MIT physicists discover electrons rebuilding like ice inside a quantum material",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260819041231.htm",
+          "date": "2026-08-20T01:32:04+00:00"
         },
         {
           "title": "Coffee drinkers have less fat, more muscle, and surprising hormone differences",
@@ -650,16 +660,6 @@
           "title": "This 23-foot crocodylian may have ruled South America’s food chain",
           "link": "https://www.sciencedaily.com/releases/2026/08/260819041226.htm",
           "date": "2026-08-19T09:55:34+00:00"
-        },
-        {
-          "title": "Tiny quantum engines reveal useful energy hiding in “waste heat”",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260819041222.htm",
-          "date": "2026-08-19T11:49:52+00:00"
-        },
-        {
-          "title": "16 mummies and a dog reveal a hidden order inside an ancient Egyptian tomb",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260819041218.htm",
-          "date": "2026-08-19T08:57:10+00:00"
         }
       ]
     }
