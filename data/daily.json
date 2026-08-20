@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T09:27:22+00:00",
+  "updated": "2026-08-20T12:35:27+00:00",
   "leetcode": {
     "date": "2026-08-20",
     "id": "3069",
@@ -16,7 +16,7 @@
   },
   "english": {
     "title": "Pat O'Keeffe",
-    "text": "Pat O'Keeffe was a British professional boxer who twice held the British middleweight title. His professional career spanned sixteen years, from 1902 to 1918, and took him to the United States and Australia between 1907 and 1910. In 1914, he challenged Georges Carpentier in a contest billed as the European heavyweight championship and was knocked out in two rounds.",
+    "text": "Pat O'Keeffe was a British professional boxer who twice held the British middleweight title. His professional career spanned sixteen years, from 1902 to 1918, and took him to the United States and Australia between 1907 and 1910. In 1914 he challenged Georges Carpentier in a contest billed as the European heavyweight championship and was knocked out in two rounds.",
     "words": 59,
     "url": "https://en.wikipedia.org/wiki/Pat_O'Keeffe",
     "date": "2026-08-20",
@@ -25,11 +25,11 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Pritchett: Life",
-    "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/Pritchett_Life/6035_Pritchett_Life_01_00_38_00_3mb.mp4",
-    "page": "https://archive.org/details/Pritchett_Life",
+    "title": "Our Home Town: Doylestown, PA.",
+    "creator": "Shad E. Graham",
+    "year": "1954",
+    "url": "https://archive.org/download/OurHomeT1954/OurHomeT1954_512kb.mp4",
+    "page": "https://archive.org/details/OurHomeT1954",
     "date": "2026-08-20",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
@@ -37,60 +37,32 @@
   },
   "music": [
     {
-      "title": "Mika Björklund - Gunkanjima [wh069]",
-      "artist": "Mika Bjorklund",
-      "url": "https://archive.org/download/wh069/Mika_Bjorklund_-_01_-_Birds_in_fog.mp3",
-      "page": "https://archive.org/details/wh069",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
-    },
-    {
-      "title": "Tarodomo - Tokyo Recordings",
-      "artist": "Taro Ochiai",
-      "url": "https://archive.org/download/Tarodomo1/Tarodomo_1.Thierry_byTOchiai-GMoussarie-YDubois.mp3",
-      "page": "https://archive.org/details/Tarodomo1",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/fr/"
-    },
-    {
-      "title": "wellenformreiter - l'écume des jours [tonAtom.007]",
-      "artist": "wellenformreiter",
-      "url": "https://archive.org/download/tonAtom.007/tonatom.007_01_wellenformreiter_larrache-coeur.mp3",
-      "page": "https://archive.org/details/tonAtom.007",
-      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
-    },
-    {
-      "title": "Nometroenare - Nometrahenore (2020)",
-      "artist": "Nometroenare",
-      "url": "https://archive.org/download/IBR_1470/01.%20Nometrahenore.mp3",
-      "page": "https://archive.org/details/IBR_1470",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "mystified - Bone Drones [wh171]",
-      "artist": "mystified",
-      "url": "https://archive.org/download/wh171/wh171_01_Mystified_Bone_Drone.mp3",
-      "page": "https://archive.org/details/wh171",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
-    },
-    {
-      "title": "Meat Force - Heart Stab Heart Sad",
-      "artist": "Meat Force",
-      "url": "https://archive.org/download/MeatForce-HeartStabHeartSad/HeartStabHeartSad.mp3",
-      "page": "https://archive.org/details/MeatForce-HeartStabHeartSad",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "a journey to the inner mind (reprise)",
-      "artist": "alice in droneland",
-      "url": "https://archive.org/download/AJourneyToTheInnerMindreprise/AJourneyToTheInnerMindreprise.mp3",
-      "page": "https://archive.org/details/AJourneyToTheInnerMindreprise",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
       "title": "Collaborations",
       "artist": "Jay Haze",
       "url": "https://archive.org/download/txtn030/txtn030-01-jay_and_jambi-friday_smoking.mp3",
       "page": "https://archive.org/details/txtn030",
       "license": "Creative Commons"
+    },
+    {
+      "title": "[xs 32] Ruins Winter - Natural",
+      "artist": "Ruins Winter",
+      "url": "https://archive.org/download/xs32RuinsWinter-Natural/01-I.mp3",
+      "page": "https://archive.org/details/xs32RuinsWinter-Natural",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/pt/"
+    },
+    {
+      "title": "depixel - one good knife [2007]",
+      "artist": "serocell",
+      "url": "https://archive.org/download/UN0060/01_depixel%3Dtime5.mp3",
+      "page": "https://archive.org/details/UN0060",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "052DIYChurch_RussianTwins#2",
+      "artist": "G.O:D.",
+      "url": "https://archive.org/download/052DIYChurch_RussianTwins2/52diychurch.mp3",
+      "page": "https://archive.org/details/052DIYChurch_RussianTwins2",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
       "title": "Loli in early 20s - Mudarashi (2019)",
@@ -100,25 +72,53 @@
       "license": "Creative Commons"
     },
     {
-      "title": "[YESNO 028] COFFIN CADILLAC - Off The Road",
-      "artist": "Yes No Wave Music",
-      "url": "https://archive.org/download/yesno028/01_-_Hate_vbr.mp3",
-      "page": "https://archive.org/details/yesno028",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+      "title": "When I Whisper",
+      "artist": "Gypsy",
+      "url": "https://archive.org/download/when-i-whisper_202511/Gypsy%20-%20When%20I%20Whisper.mp3",
+      "page": "https://archive.org/details/when-i-whisper_202511",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "Vortex Misery Sokaraja Metal Compilation#1",
-      "artist": "Compilation",
-      "url": "https://archive.org/download/VortexMisery_201303/Blood%20Defecation%20-%20Mati%20Nurani.mp3",
-      "page": "https://archive.org/details/VortexMisery_201303",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "xxlounge 04",
+      "artist": "ton99.de",
+      "url": "https://archive.org/download/xxlounge-04-KW34-2006/xxlounge-04-kw34-2006-www.ton99.de.mp3",
+      "page": "https://archive.org/details/xxlounge-04-KW34-2006",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
     },
     {
-      "title": "[xs 38] beautiful venom - Prologue EP",
-      "artist": "beautiful venom [andres, manuel, willy, and mits]",
-      "url": "https://archive.org/download/xs38BeautifulVenom-PrologueEp/01Deathland.mp3",
-      "page": "https://archive.org/details/xs38BeautifulVenom-PrologueEp",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/pt/"
+      "title": "Simon/off – Morphing Memories [YARN017]",
+      "artist": "Simon/off",
+      "url": "https://archive.org/download/yarn017/Simon-off-Busy.mp3",
+      "page": "https://archive.org/details/yarn017",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    {
+      "title": "The Outer Channel HD - Episode 2001 - Concerning Thor, Wonga and The Fabulous Thunderbirds",
+      "artist": "The Outer Channel",
+      "url": "https://archive.org/download/TheOuterChannelHd-Episode2001-ConcerningThorWongaAndTheFabulous/OuterChannelHd-Episode2001.mp3",
+      "page": "https://archive.org/details/TheOuterChannelHd-Episode2001-ConcerningThorWongaAndTheFabulous",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "title": "VBR Podcast #12",
+      "artist": "Banyek",
+      "url": "https://archive.org/download/vbr012/vbr_012.mp3",
+      "page": "https://archive.org/details/vbr012",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
+    },
+    {
+      "title": "xxlounge 17",
+      "artist": "ton99",
+      "url": "https://archive.org/download/xxlounge-17-kw47-2006-www.ton99.de/xxlounge-17-kw47-2006-part1-www.ton99.de.mp3",
+      "page": "https://archive.org/details/xxlounge-17-kw47-2006-www.ton99.de",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "w.x & thescientist - Laboratory",
+      "artist": "",
+      "url": "https://archive.org/download/wx_thescientist_laboratory/01HazardousMaterials.mp3",
+      "page": "https://archive.org/details/wx_thescientist_laboratory",
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
     }
   ]
 }
