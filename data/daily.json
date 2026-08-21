@@ -1,124 +1,126 @@
 {
-  "updated": "2026-08-20T21:22:07+00:00",
+  "updated": "2026-08-21T00:57:45+00:00",
   "leetcode": {
-    "date": "2026-08-20",
-    "id": "3069",
-    "title": "Distribute Elements Into Two Arrays I",
-    "titleEn": "Distribute Elements Into Two Arrays I",
-    "slug": "distribute-elements-into-two-arrays-i",
-    "difficulty": "Easy",
+    "date": "2026-08-21",
+    "id": "3116",
+    "title": "Kth Smallest Amount With Single Denomination Combination",
+    "titleEn": "Kth Smallest Amount With Single Denomination Combination",
+    "slug": "kth-smallest-amount-with-single-denomination-combination",
+    "difficulty": "Hard",
     "tags": [
       "Array",
-      "Simulation"
+      "Math",
+      "Binary Search",
+      "Bit Manipulation"
     ],
-    "link": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i/",
+    "link": "https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Pat O'Keeffe",
-    "text": "Pat O'Keeffe was a British professional boxer who held the British middleweight title twice. His professional career spanned sixteen years, from 1902 to 1918, and took him to the United States and Australia between 1907 and 1910. In 1914 he challenged Georges Carpentier in a contest billed as the European heavyweight championship and was knocked out in two rounds.",
-    "words": 59,
-    "url": "https://en.wikipedia.org/wiki/Pat_O'Keeffe",
-    "date": "2026-08-20",
+    "title": "Stanley Goble",
+    "text": "Air Vice-Marshal Stanley James Goble was a senior commander in the Royal Australian Air Force (RAAF). He served three terms as Chief of the Air Staff, alternating with Wing Commander Richard Williams. Goble came to national attention in 1924 when he and fellow RAAF pilot Ivor McIntyre became the first men to circumnavigate Australia by air, journeying 13,600 kilometres (8,500 mi) in a single-engined floatplane.",
+    "words": 65,
+    "url": "https://en.wikipedia.org/wiki/Stanley_Goble",
+    "date": "2026-08-21",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Home Movie: 098161",
-    "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/203203_Home_Movie_098161/203203_Home_Movie_098161_master.intros.mp4",
-    "page": "https://archive.org/details/203203_Home_Movie_098161",
-    "date": "2026-08-20",
+    "title": "Oklahoma: Heartland USA",
+    "creator": "University of Oklahoma",
+    "year": "1953",
+    "url": "https://archive.org/download/0819_Oklahoma_Heartland_USA_02_00_56_00/0819_Oklahoma_Heartland_USA_02_00_56_00.m4v",
+    "page": "https://archive.org/details/0819_Oklahoma_Heartland_USA_02_00_56_00",
+    "date": "2026-08-21",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Vol.50",
-      "artist": "CEZAR",
-      "url": "https://archive.org/download/zero110/01.CezaryGapik-0459.mp3",
-      "page": "https://archive.org/details/zero110",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+      "title": "Tony Irving & Adam Cadell - Some Shards for the Void",
+      "artist": "Tony Irving & Adam Cadell",
+      "url": "https://archive.org/download/DDW004/1_An_Invasion_of_Glass_Locusts.mp3",
+      "page": "https://archive.org/details/DDW004",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "Twilight Kamikaze - Believer",
-      "artist": "",
-      "url": "https://archive.org/download/twilight-kamikaze-believer/01.%20Twilight%20Kamikaze%20-%20World%20Eaters.mp3",
-      "page": "https://archive.org/details/twilight-kamikaze-believer",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "[inoquo005] Clase Muzique live @ LeKashba",
+      "artist": "Clase Muzique",
+      "url": "https://archive.org/download/inoquo005/1-clasemuzique_intro.mp3",
+      "page": "https://archive.org/details/inoquo005",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/"
     },
     {
-      "title": "wave008 ~ Heike Becker ~ Drive On",
-      "artist": "Heike Becker",
-      "url": "https://archive.org/download/wave008/wave008.1_Heike_Becker_-_Drive_On_-_Original.mp3",
-      "page": "https://archive.org/details/wave008",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
-    },
-    {
-      "title": "Technology for Hippies No.2",
-      "artist": "The Fake Masters",
-      "url": "https://archive.org/download/ekafon014/101psychedelictechnique.mp3",
-      "page": "https://archive.org/details/ekafon014",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/de/"
-    },
-    {
-      "title": "DaP Station Podcast 1 (transmission one) by ABF",
-      "artist": "",
-      "url": "https://archive.org/download/DapStationPodcast1transmissionOneByAbf/DapStationTransmisionOne.mp3",
-      "page": "https://archive.org/details/DapStationPodcast1transmissionOneByAbf",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "[AMR354] August 8th 2010",
-      "artist": "Shadows on the Snow",
-      "url": "https://archive.org/download/amr354August8th2010/August8th2010.mp3",
-      "page": "https://archive.org/details/amr354August8th2010",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
-    },
-    {
-      "title": "Deconstruct Drones of C.Reider I",
-      "artist": "Miquel Parera Jaques",
-      "url": "https://archive.org/download/DeconstructDronesOfC.reiderI/02-04DeconstructDronesOfC.ReiderI.mp3",
-      "page": "https://archive.org/details/DeconstructDronesOfC.reiderI",
+      "title": "NACH AFTER: INNOVATE (LP)",
+      "artist": "tachyon netlabel",
+      "url": "https://archive.org/download/Nach_After_-_Innovate_LP/01.Innovate.mp3",
+      "page": "https://archive.org/details/Nach_After_-_Innovate_LP",
       "license": "http://creativecommons.org/licenses/by-nc/3.0/"
     },
     {
-      "title": "Ivor Martinic-Tukaj Pise Naslov Drame O Anteju",
-      "artist": "Ivor Martinic",
-      "url": "https://archive.org/download/IvorMartini-tukajPieNaslovDrameOAnteju/IvorMartini-tukajPieNaslovDrameOAnteju.mp3",
-      "page": "https://archive.org/details/IvorMartini-tukajPieNaslovDrameOAnteju",
-      "license": "http://creativecommons.org/publicdomain/zero/1.0/"
-    },
-    {
-      "title": "Nometroenare - Nometrahenore (2020)",
-      "artist": "Nometroenare",
-      "url": "https://archive.org/download/IBR_1470/01.%20Nometrahenore.mp3",
-      "page": "https://archive.org/details/IBR_1470",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "bruit (Dutch supports socialist medicine)",
-      "artist": "Christopher Taylor",
-      "url": "https://archive.org/download/BruitdutchSupportsSocialistMedicine/BruitdutchSupportsSocialistMedicine.mp3",
-      "page": "https://archive.org/details/BruitdutchSupportsSocialistMedicine",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Zanoisect - 100 Percent Organic Poison",
-      "artist": "Zan Hoffman",
-      "url": "https://archive.org/download/zh27692/692%20Zanoisect%20-%20100%20Percent%20Organic%20Poison.mp3",
-      "page": "https://archive.org/details/zh27692",
+      "title": "[Crea002] Candy Panda-Andro & Gigolo",
+      "artist": "Candy Panda",
+      "url": "https://archive.org/download/crea002CandyPanda-androGigolo/01-Floor-A.mp3",
+      "page": "https://archive.org/details/crea002CandyPanda-androGigolo",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "[mikra] - Concept Analysis of the Silence [wh250]",
-      "artist": "Pavel Rassolko",
-      "url": "https://archive.org/download/wh250/wh250_mikra_CAS001.mp3",
-      "page": "https://archive.org/details/wh250",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
+      "title": "[TAN171] Steam flow - Gloomy Mansion",
+      "artist": "Mad God",
+      "url": "https://archive.org/download/TAN171/Steam%20flow%20-%20Gloomy%20Mansion.mp3",
+      "page": "https://archive.org/details/TAN171",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+    },
+    {
+      "title": "serocell - afferent affinity cycles vol 2 [2008]",
+      "artist": "serocell",
+      "url": "https://archive.org/download/UN0085/01_serocell%3Dsalyk.mp3",
+      "page": "https://archive.org/details/UN0085",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Ineffability",
+      "artist": "Jazzaria.com",
+      "url": "https://archive.org/download/ineffability/ineffability.mp3",
+      "page": "https://archive.org/details/ineffability",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "QuTAPE_Per Giacinto scelsi Sergio Maltagliati per una sola nota 4/5",
+      "artist": "Sergio Maltagliati",
+      "url": "https://archive.org/download/Qutape_perGiacintoScelsiSergioMaltagliatiPerUnaSolaNota45/latoA_4-5.mp3",
+      "page": "https://archive.org/details/Qutape_perGiacintoScelsiSergioMaltagliatiPerUnaSolaNota45",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/it/"
+    },
+    {
+      "title": "Oxygenfad - Mustard Saleswomen [illep050]",
+      "artist": "Oxygenfad",
+      "url": "https://archive.org/download/illep050/01_-_Oxygenfad_-_Cogito_Cena.mp3",
+      "page": "https://archive.org/details/illep050",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Where Are We Going Tonight (No End In Sight)",
+      "artist": "Tears of Vomit",
+      "url": "https://archive.org/download/APOS0032/Tears_of_Vomit_-_Where_Are_We_Going_Tonight_No_End_In_Sight.mp3",
+      "page": "https://archive.org/details/APOS0032",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/"
+    },
+    {
+      "title": "Nerve Breaks 004",
+      "artist": "Paul Reset, Noisy Minority, remix from Hoista",
+      "url": "https://archive.org/download/NerveBreaks004/PaulReset-Crisis.mp3",
+      "page": "https://archive.org/details/NerveBreaks004",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "NXL001 V de Vaka - La Venganza de la Vaka",
+      "artist": "V de Vaka",
+      "url": "https://archive.org/download/NXL001/01-Intro.mp3",
+      "page": "https://archive.org/details/NXL001",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     }
   ]
 }
