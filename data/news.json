@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T00:54:07+00:00",
+  "updated": "2026-08-22T03:36:46+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,29 +39,29 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+          "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-22T00:40:47+00:00"
+        },
+        {
+          "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+          "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-21T22:36:12+00:00"
+        },
+        {
           "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
           "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-21T05:00:57+00:00"
         },
         {
-          "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+          "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
           "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-21T19:49:56+00:00"
+          "date": "2026-08-22T03:17:29+00:00"
         },
         {
           "title": "One killed in sword attack at Swedish school",
           "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-21T21:03:24+00:00"
-        },
-        {
-          "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-          "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-21T05:47:32+00:00"
-        },
-        {
-          "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-          "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-21T15:58:57+00:00"
         }
       ]
     },
@@ -263,6 +263,11 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Trump's space transportation policy calls for new spaceport on federal land",
+          "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
+          "date": "2026-08-21T23:32:17+00:00"
+        },
+        {
           "title": "Thunder + fiber-optic cabling used for seismic imaging",
           "link": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
           "date": "2026-08-21T20:26:46+00:00"
@@ -281,11 +286,6 @@
           "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
           "link": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
           "date": "2026-08-21T19:04:41+00:00"
-        },
-        {
-          "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
-          "link": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
-          "date": "2026-08-21T18:07:15+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "Early Humans Likely Ate Carbs and Sugary Foods",
+          "link": "https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs",
+          "date": "2026-08-22T02:37:30+00:00"
+        },
+        {
+          "title": "There's no reason for software to be slow anymore",
+          "link": "https://danluu.com/perf-opt/",
+          "date": "2026-08-22T01:06:17+00:00"
+        },
+        {
+          "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+          "link": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+          "date": "2026-08-22T01:02:09+00:00"
+        },
+        {
           "title": "HN: The Good Parts (2016)",
           "link": "https://danluu.com/hn-comments/",
           "date": "2026-08-21T23:53:03+00:00"
         },
         {
-          "title": "Paul Atkins misreads Adam Smith and the American founding",
-          "link": "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/",
-          "date": "2026-08-21T23:32:44+00:00"
-        },
-        {
           "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
           "link": "https://ozbrain.com",
           "date": "2026-08-21T23:09:06+00:00"
-        },
-        {
-          "title": "Pentagon dismisses Stars and Stripes leadership after opposition to interference",
-          "link": "https://apnews.com/article/stars-stripes-pentagon-censorship-media-d42affb0c17fef31c6089645c8dbbe70",
-          "date": "2026-08-21T23:03:18+00:00"
-        },
-        {
-          "title": "Three important steps in my maturation process",
-          "link": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-          "date": "2026-08-21T22:29:00+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享发现] Tibo 已发 重置卡 注意查收",
-          "link": "https://www.v2ex.com/t/1236335#reply1",
-          "date": "2026-08-22T00:41:23+00:00"
+          "title": "[程序员] AI 诞生于程序员，上岸先斩程序员，本质是天才程序员对普通程序员的一场无差别斩杀😂",
+          "link": "https://www.v2ex.com/t/1236367#reply0",
+          "date": "2026-08-22T03:32:12+00:00"
         },
         {
-          "title": "[生活] 35+男士保养有哪些？？",
-          "link": "https://www.v2ex.com/t/1236333#reply2",
-          "date": "2026-08-22T00:33:25+00:00"
+          "title": "[问与答] 有没有人和我做过一样的梦：乘坐电梯飞速上升",
+          "link": "https://www.v2ex.com/t/1236366#reply1",
+          "date": "2026-08-22T03:18:48+00:00"
         },
         {
-          "title": "[生活] 网传：程序员失业后，被离婚周期是半年，可信度多少？",
-          "link": "https://www.v2ex.com/t/1236332#reply3",
-          "date": "2026-08-22T00:12:54+00:00"
+          "title": "[程序员] codex 发重置卡都收到了吗",
+          "link": "https://www.v2ex.com/t/1236364#reply3",
+          "date": "2026-08-22T03:16:08+00:00"
         },
         {
-          "title": "[问与答] 美区 paypal 支付激活需要短信验证怎么办？",
-          "link": "https://www.v2ex.com/t/1236330#reply2",
-          "date": "2026-08-21T23:35:27+00:00"
+          "title": "[程序员] 分享一个 免费的 Chrome 临时邮箱插件： MaskBox，注册网站不再暴露真实邮箱",
+          "link": "https://www.v2ex.com/t/1236363#reply0",
+          "date": "2026-08-22T03:04:16+00:00"
         },
         {
-          "title": "[全球工单系统] 阿里云云监控服务 API 脑裂了？",
-          "link": "https://www.v2ex.com/t/1236329#reply1",
-          "date": "2026-08-21T22:50:43+00:00"
+          "title": "[推广] [Air Router] GPT Plus 0.1 风控期间依然稳健, 还有 CC 1x, Pro 0.2, Grok Heavy 0.2, 新用户留言 ID 可得 5$额度,现在充值额外赠 10%",
+          "link": "https://www.v2ex.com/t/1236362#reply0",
+          "date": "2026-08-22T02:59:39+00:00"
         }
       ]
     },
@@ -600,6 +600,38 @@
       ]
     },
     {
+      "name": "Nature",
+      "category": "科研",
+      "url": "https://www.nature.com/nature.rss",
+      "items": [
+        {
+          "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
+          "link": "https://www.nature.com/articles/d41586-026-02626-x",
+          "date": "2026-08-21T00:00:00+00:00"
+        },
+        {
+          "title": "Earth-shaking thunder probes underground geology",
+          "link": "https://www.nature.com/articles/d41586-026-02596-0",
+          "date": "2026-08-21T00:00:00+00:00"
+        },
+        {
+          "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
+          "link": "https://www.nature.com/articles/d41586-026-02566-6",
+          "date": "2026-08-21T00:00:00+00:00"
+        },
+        {
+          "title": "Sleuth identifies dozens of studies that used the wrong antibody",
+          "link": "https://www.nature.com/articles/d41586-026-02352-4",
+          "date": "2026-08-21T00:00:00+00:00"
+        },
+        {
+          "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
+          "link": "https://www.nature.com/articles/s41586-026-11043-z",
+          "date": "2026-08-20T00:00:00+00:00"
+        }
+      ]
+    },
+    {
       "name": "ScienceDaily",
       "category": "科研",
       "url": "https://www.sciencedaily.com/rss/all.xml",
@@ -633,7 +665,6 @@
     }
   ],
   "failed": [
-    "36 氪",
-    "Nature"
+    "36 氪"
   ]
 }
