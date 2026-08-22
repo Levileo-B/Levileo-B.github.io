@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T15:14:32+00:00",
+  "updated": "2026-08-22T18:20:15+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,9 +39,14 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-          "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-22T12:20:46+00:00"
+          "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-22T16:45:02+00:00"
+        },
+        {
+          "title": "Carney faces crucial test after walking away from Trump's deal",
+          "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-22T16:20:51+00:00"
         },
         {
           "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
@@ -52,11 +57,6 @@
           "title": "Fourteen killed in strike on Myanmar monastery",
           "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-22T13:48:06+00:00"
-        },
-        {
-          "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-          "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-21T05:00:57+00:00"
         },
         {
           "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
@@ -103,14 +103,9 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
+          "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
           "link": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-          "date": "2026-08-22T14:53:32+00:00"
-        },
-        {
-          "title": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
-          "link": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
-          "date": "2026-08-22T12:12:03+00:00"
+          "date": "2026-08-22T17:01:18+00:00"
         },
         {
           "title": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
@@ -118,14 +113,19 @@
           "date": "2026-08-22T12:00:01+00:00"
         },
         {
+          "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
+          "link": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
+          "date": "2026-08-22T17:33:53+00:00"
+        },
+        {
           "title": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'",
           "link": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html",
           "date": "2026-08-22T10:34:23+00:00"
         },
         {
-          "title": "38-year-old runs a mobile pizzeria out of his Smart car in New York City: It's 'like a circus or a magic act'",
-          "link": "https://www.cnbc.com/2026/08/22/bradley-alvelo-runs-pizza-pod-mobile-pizzeria-smart-car-new-york-city.html",
-          "date": "2026-08-22T14:00:01+00:00"
+          "title": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
+          "link": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
+          "date": "2026-08-22T12:12:03+00:00"
         }
       ]
     },
@@ -167,6 +167,11 @@
       "url": "https://www.ifanr.com/feed",
       "items": [
         {
+          "title": "Windows 是 AI PC 路上的绊脚石",
+          "link": "https://www.ifanr.com/1676189?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-08-22T10:00:42+00:00"
+        },
+        {
           "title": "早报｜摄像头AirPods或配备拍摄指示灯/问界儿童车售价1.58万元/LV否认「起诉国家知识产权局遭驳回」",
           "link": "https://www.ifanr.com/1676129?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-08-22T00:50:06+00:00"
@@ -185,11 +190,6 @@
           "title": "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕",
           "link": "https://www.ifanr.com/1676070?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-08-21T10:30:54+00:00"
-        },
-        {
-          "title": "突发| DeepSeek 多模态模型上新，鲸鱼终于开「天眼」了",
-          "link": "https://www.ifanr.com/1676067?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-08-21T10:23:24+00:00"
         }
       ]
     },
@@ -198,6 +198,16 @@
       "category": "科技",
       "url": "https://www.solidot.org/index.rss",
       "items": [
+        {
+          "title": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同",
+          "link": "https://www.solidot.org/story?sid=85165",
+          "date": "2026-08-22T15:59:22+00:00"
+        },
+        {
+          "title": "Rockstar 向微软和 Discord 发去法庭传票以识别 GTA6 泄密者身份",
+          "link": "https://www.solidot.org/story?sid=85164",
+          "date": "2026-08-22T15:30:51+00:00"
+        },
         {
           "title": "因门把手安全隐患特斯拉在华召回近 300 万辆车",
           "link": "https://www.solidot.org/story?sid=85163",
@@ -212,16 +222,6 @@
           "title": "中国要求政府部门提前停用 Windows 10 政府版改用 Linux",
           "link": "https://www.solidot.org/story?sid=85161",
           "date": "2026-08-22T11:00:50+00:00"
-        },
-        {
-          "title": "中国准备发射嫦娥七号，前往月球南极寻找水冰",
-          "link": "https://www.solidot.org/story?sid=85160",
-          "date": "2026-08-21T12:44:27+00:00"
-        },
-        {
-          "title": "微软隐藏 OneDrive Photos，但该应用并未删除",
-          "link": "https://www.solidot.org/story?sid=85159",
-          "date": "2026-08-21T10:08:10+00:00"
         }
       ]
     },
@@ -231,9 +231,19 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Doodle generative compositions in your browser with Musical Spirograph",
+          "link": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+          "date": "2026-08-21T18:53:59+00:00"
+        },
+        {
+          "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
+          "link": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
+          "date": "2026-08-14T17:20:45+00:00"
+        },
+        {
           "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
           "link": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
-          "date": "2026-08-22T13:48:23+00:00"
+          "date": "2026-08-22T17:41:45+00:00"
         },
         {
           "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
@@ -244,16 +254,6 @@
           "title": "Two great new repairable gadgets",
           "link": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
           "date": "2026-08-21T17:51:45+00:00"
-        },
-        {
-          "title": "HoverAir’s transforming modular drone has already been halted in the US",
-          "link": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-          "date": "2026-08-21T22:14:11+00:00"
-        },
-        {
-          "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-          "link": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
-          "date": "2026-08-21T22:13:34+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Digging the grave of my job: Hollywood creatives training AI to do their jobs",
-          "link": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-          "date": "2026-08-22T14:13:05+00:00"
+          "title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
+          "link": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl",
+          "date": "2026-08-22T17:09:27+00:00"
+        },
+        {
+          "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+          "link": "https://twitter.com/argofowl/status/2091150597374537729",
+          "date": "2026-08-22T16:58:49+00:00"
+        },
+        {
+          "title": "Learning about \"The Unix Time-Sharing System\"",
+          "link": "https://playtechnique.io/long/the-unix-time-sharing-system.html",
+          "date": "2026-08-22T16:11:16+00:00"
+        },
+        {
+          "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+          "link": "https://quantumi.sh/public/labs.html",
+          "date": "2026-08-22T14:54:07+00:00"
         },
         {
           "title": "A Friendly Introduction to Racket",
           "link": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
           "date": "2026-08-22T14:08:19+00:00"
-        },
-        {
-          "title": "The New MCP Roadmap",
-          "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-          "date": "2026-08-22T13:31:34+00:00"
-        },
-        {
-          "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
-          "link": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
-          "date": "2026-08-22T13:24:06+00:00"
-        },
-        {
-          "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-          "link": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-          "date": "2026-08-22T12:07:06+00:00"
         }
       ]
     },
@@ -327,19 +327,14 @@
       "url": "https://lobste.rs/rss",
       "items": [
         {
-          "title": "Enabling the next-generation trait solver on nightly",
-          "link": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
-          "date": "2026-08-21T15:15:16+00:00"
-        },
-        {
-          "title": "The cool things of Gleam",
-          "link": "https://a.baez.link/3mtdbbp2dmc27",
-          "date": "2026-08-22T06:16:08+00:00"
-        },
-        {
           "title": "You should never be angry at work",
           "link": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
           "date": "2026-08-22T12:41:39+00:00"
+        },
+        {
+          "title": "There continue to be reasons for software to be slow",
+          "link": "https://typesanitizer.com/blog/performance-issues.html",
+          "date": "2026-08-22T14:31:21+00:00"
         },
         {
           "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
@@ -347,9 +342,14 @@
           "date": "2026-08-22T07:27:26+00:00"
         },
         {
-          "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-          "link": "https://lina.sh/blog/hijacking-e164-arpa",
-          "date": "2026-08-21T12:05:00+00:00"
+          "title": "The cool things of Gleam",
+          "link": "https://a.baez.link/3mtdbbp2dmc27",
+          "date": "2026-08-22T06:16:08+00:00"
+        },
+        {
+          "title": "Enabling the next-generation trait solver on nightly",
+          "link": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
+          "date": "2026-08-21T15:15:16+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[问与答] 分享一款神器级别的蓝牙 MP3",
-          "link": "https://www.v2ex.com/t/1236471#reply1",
-          "date": "2026-08-22T14:57:12+00:00"
+          "title": "[分享发现] 发现了一个输入法加上了实时背单词的功能，很激动😂",
+          "link": "https://www.v2ex.com/t/1236492#reply1",
+          "date": "2026-08-22T18:13:11+00:00"
         },
         {
-          "title": "[人工智能] DeepSeek V4 峰谷计费规则调整通知",
-          "link": "https://www.v2ex.com/t/1236470#reply1",
-          "date": "2026-08-22T14:38:15+00:00"
+          "title": "[Android] vivo 手机会改动 motion photo 的元信息，导致 Google Photos 无法播放",
+          "link": "https://www.v2ex.com/t/1236491#reply0",
+          "date": "2026-08-22T17:58:47+00:00"
         },
         {
-          "title": "[推广] 作为用户，不想打广告，只想真心推荐",
-          "link": "https://www.v2ex.com/t/1236469#reply0",
-          "date": "2026-08-22T14:22:32+00:00"
+          "title": "[投资] 有外国 tin 和中国、香港和第三国汇丰卓越理财账户，如何投资美股而尽可能避免 crs 交换？",
+          "link": "https://www.v2ex.com/t/1236490#reply1",
+          "date": "2026-08-22T17:28:26+00:00"
         },
         {
-          "title": "[分享发现] 虽说酒神不怕巷子深，但是好东西还是希望更多的人知道",
-          "link": "https://www.v2ex.com/t/1236468#reply0",
-          "date": "2026-08-22T14:09:03+00:00"
+          "title": "[程序员] xixu-me/xget 404 了？",
+          "link": "https://www.v2ex.com/t/1236489#reply0",
+          "date": "2026-08-22T17:26:51+00:00"
         },
         {
-          "title": "[分享创造] 更新了一波插件，这把我认真的 orz",
-          "link": "https://www.v2ex.com/t/1236467#reply0",
-          "date": "2026-08-22T14:04:50+00:00"
+          "title": "[分享创造] [开源] GuanDan Lab：带在线大厅和 LLM Agent 的掼蛋 AI 陪练",
+          "link": "https://www.v2ex.com/t/1236488#reply0",
+          "date": "2026-08-22T17:15:59+00:00"
         }
       ]
     },
@@ -541,29 +541,29 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
+          "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+          "link": "https://www.qbitai.com/2026/08/477253.html",
+          "date": "2026-08-22T14:46:43+00:00"
+        },
+        {
+          "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+          "link": "https://www.qbitai.com/2026/08/477246.html",
+          "date": "2026-08-22T14:19:39+00:00"
+        },
+        {
+          "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+          "link": "https://www.qbitai.com/2026/08/477155.html",
+          "date": "2026-08-22T14:11:20+00:00"
+        },
+        {
+          "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
+          "link": "https://www.qbitai.com/2026/08/477094.html",
+          "date": "2026-08-22T13:56:00+00:00"
+        },
+        {
           "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
           "link": "https://www.qbitai.com/2026/08/477090.html",
           "date": "2026-08-22T12:21:07+00:00"
-        },
-        {
-          "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-          "link": "https://www.qbitai.com/2026/08/477016.html",
-          "date": "2026-08-22T12:11:23+00:00"
-        },
-        {
-          "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
-          "link": "https://www.qbitai.com/2026/08/476965.html",
-          "date": "2026-08-22T08:53:13+00:00"
-        },
-        {
-          "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
-          "link": "https://www.qbitai.com/2026/08/476930.html",
-          "date": "2026-08-22T08:41:41+00:00"
-        },
-        {
-          "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
-          "link": "https://www.qbitai.com/2026/08/476778.html",
-          "date": "2026-08-21T11:47:27+00:00"
         }
       ]
     },
