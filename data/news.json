@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T03:36:46+00:00",
+  "updated": "2026-08-22T06:31:38+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,9 +39,9 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-          "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-22T00:40:47+00:00"
+          "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+          "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-22T04:46:33+00:00"
         },
         {
           "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
@@ -56,7 +56,7 @@
         {
           "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
           "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-22T03:17:29+00:00"
+          "date": "2026-08-22T05:15:58+00:00"
         },
         {
           "title": "One killed in sword attack at Swedish school",
@@ -108,9 +108,9 @@
           "date": "2026-08-21T20:19:21+00:00"
         },
         {
-          "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "link": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "date": "2026-08-21T22:03:39+00:00"
+          "title": "Six investors reveal the biggest market risks — and one strategy they agree on",
+          "link": "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html",
+          "date": "2026-08-22T05:00:01+00:00"
         },
         {
           "title": "Supreme Court allows Trump to continue White House ballroom construction for now",
@@ -118,14 +118,14 @@
           "date": "2026-08-21T20:47:32+00:00"
         },
         {
+          "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "link": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+          "date": "2026-08-21T22:03:39+00:00"
+        },
+        {
           "title": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries",
           "link": "https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html",
           "date": "2026-08-21T17:51:10+00:00"
-        },
-        {
-          "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
-          "link": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
-          "date": "2026-08-21T19:58:36+00:00"
         }
       ]
     },
@@ -134,6 +134,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
+          "link": "https://sspai.com/post/113675",
+          "date": "2026-08-22T03:00:00+00:00"
+        },
         {
           "title": "本周看什么 | 最近值得一看的 10 部作品",
           "link": "https://sspai.com/post/113693",
@@ -153,11 +158,6 @@
           "title": "新玩意 249｜少数派的编辑们最近买了啥？",
           "link": "https://sspai.com/post/113650",
           "date": "2026-08-20T09:30:00+00:00"
-        },
-        {
-          "title": "十年阅读历程，这是我的阅读工具推荐",
-          "link": "https://sspai.com/post/113567",
-          "date": "2026-08-20T07:25:47+00:00"
         }
       ]
     },
@@ -295,9 +295,9 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Early Humans Likely Ate Carbs and Sugary Foods",
-          "link": "https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs",
-          "date": "2026-08-22T02:37:30+00:00"
+          "title": "GPT 5.6 Sol 20% price reduction",
+          "link": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+          "date": "2026-08-22T04:33:06+00:00"
         },
         {
           "title": "There's no reason for software to be slow anymore",
@@ -342,14 +342,14 @@
           "date": "2026-08-21T12:47:30+00:00"
         },
         {
-          "title": "Better Batteries",
-          "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
-          "date": "2026-08-21T07:47:50+00:00"
-        },
-        {
           "title": "Felony Bench: Be AI, Do Crime",
           "link": "https://www.felonybench.com/",
           "date": "2026-08-21T17:23:02+00:00"
+        },
+        {
+          "title": "Better Batteries",
+          "link": "https://matklad.github.io/2026/08/20/better-batteries.html",
+          "date": "2026-08-21T07:47:50+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[程序员] AI 诞生于程序员，上岸先斩程序员，本质是天才程序员对普通程序员的一场无差别斩杀😂",
-          "link": "https://www.v2ex.com/t/1236367#reply0",
-          "date": "2026-08-22T03:32:12+00:00"
+          "title": "[分享创造] 随机头像生成网站",
+          "link": "https://www.v2ex.com/t/1236387#reply0",
+          "date": "2026-08-22T06:25:45+00:00"
         },
         {
-          "title": "[问与答] 有没有人和我做过一样的梦：乘坐电梯飞速上升",
-          "link": "https://www.v2ex.com/t/1236366#reply1",
-          "date": "2026-08-22T03:18:48+00:00"
+          "title": "[程序员] 最近服务器负载一直下不来，经常到 100%，结果发现是各大 AI 厂商的机器人爬虫,疯狂请求我的网站",
+          "link": "https://www.v2ex.com/t/1236386#reply2",
+          "date": "2026-08-22T06:02:50+00:00"
         },
         {
-          "title": "[程序员] codex 发重置卡都收到了吗",
-          "link": "https://www.v2ex.com/t/1236364#reply3",
-          "date": "2026-08-22T03:16:08+00:00"
+          "title": "[生活] 亲人去世后的手机破解问题",
+          "link": "https://www.v2ex.com/t/1236385#reply11",
+          "date": "2026-08-22T05:57:58+00:00"
         },
         {
-          "title": "[程序员] 分享一个 免费的 Chrome 临时邮箱插件： MaskBox，注册网站不再暴露真实邮箱",
-          "link": "https://www.v2ex.com/t/1236363#reply0",
-          "date": "2026-08-22T03:04:16+00:00"
+          "title": "[Codex] claude 换到 codex 体验，如何搞定账号？",
+          "link": "https://www.v2ex.com/t/1236384#reply0",
+          "date": "2026-08-22T05:53:45+00:00"
         },
         {
-          "title": "[推广] [Air Router] GPT Plus 0.1 风控期间依然稳健, 还有 CC 1x, Pro 0.2, Grok Heavy 0.2, 新用户留言 ID 可得 5$额度,现在充值额外赠 10%",
-          "link": "https://www.v2ex.com/t/1236362#reply0",
-          "date": "2026-08-22T02:59:39+00:00"
+          "title": "[分享创造] 一个在线图片去背景工具，想请大家看看这条编辑流程",
+          "link": "https://www.v2ex.com/t/1236383#reply0",
+          "date": "2026-08-22T05:53:07+00:00"
         }
       ]
     },
@@ -536,38 +536,6 @@
       ]
     },
     {
-      "name": "量子位",
-      "category": "AI",
-      "url": "https://www.qbitai.com/feed",
-      "items": [
-        {
-          "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
-          "link": "https://www.qbitai.com/2026/08/476778.html",
-          "date": "2026-08-21T11:47:27+00:00"
-        },
-        {
-          "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
-          "link": "https://www.qbitai.com/2026/08/476733.html",
-          "date": "2026-08-21T09:44:33+00:00"
-        },
-        {
-          "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
-          "link": "https://www.qbitai.com/2026/08/476628.html",
-          "date": "2026-08-21T09:00:06+00:00"
-        },
-        {
-          "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
-          "link": "https://www.qbitai.com/2026/08/476596.html",
-          "date": "2026-08-21T07:17:58+00:00"
-        },
-        {
-          "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
-          "link": "https://www.qbitai.com/2026/08/476591.html",
-          "date": "2026-08-21T06:40:34+00:00"
-        }
-      ]
-    },
-    {
       "name": "MIT Technology Review",
       "category": "AI",
       "url": "https://www.technologyreview.com/feed/",
@@ -665,6 +633,7 @@
     }
   ],
   "failed": [
-    "36 氪"
+    "36 氪",
+    "量子位"
   ]
 }
