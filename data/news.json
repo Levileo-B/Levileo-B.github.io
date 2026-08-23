@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T15:16:05+00:00",
+  "updated": "2026-08-23T18:19:59+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,14 +39,14 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-23T05:46:43+00:00"
-        },
-        {
           "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-23T12:56:43+00:00"
+        },
+        {
+          "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-23T05:46:43+00:00"
         },
         {
           "title": "DR Congo and M23 rebels agree roadmap for peace talks",
@@ -54,14 +54,14 @@
           "date": "2026-08-23T12:52:08+00:00"
         },
         {
+          "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+          "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-23T18:17:34+00:00"
+        },
+        {
           "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
           "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-23T11:50:59+00:00"
-        },
-        {
-          "title": "France links rise in drownings to heatwaves",
-          "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-23T15:00:17+00:00"
         }
       ]
     },
@@ -103,14 +103,19 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
+          "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
+          "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
+          "date": "2026-08-23T12:00:01+00:00"
+        },
+        {
           "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
           "link": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
           "date": "2026-08-23T12:00:01+00:00"
         },
         {
-          "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
-          "link": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
-          "date": "2026-08-23T12:00:01+00:00"
+          "title": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
+          "link": "https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html",
+          "date": "2026-08-23T17:58:06+00:00"
         },
         {
           "title": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
@@ -121,11 +126,6 @@
           "title": "Inside Coca-Cola’s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers",
           "link": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html",
           "date": "2026-08-22T12:00:01+00:00"
-        },
-        {
-          "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-          "link": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-          "date": "2026-08-23T06:39:00+00:00"
         }
       ]
     },
@@ -199,6 +199,11 @@
       "url": "https://www.solidot.org/index.rss",
       "items": [
         {
+          "title": "卡巴斯基发现第一种针对汽车的 Android 恶意程序",
+          "link": "https://www.solidot.org/story?sid=85168",
+          "date": "2026-08-23T15:02:01+00:00"
+        },
+        {
           "title": "柳树和杨树释放出的化合物会恶化城市空气质量",
           "link": "https://www.solidot.org/story?sid=85167",
           "date": "2026-08-23T14:07:42+00:00"
@@ -217,11 +222,6 @@
           "title": "Rockstar 向微软和 Discord 发去法庭传票以识别 GTA6 泄密者身份",
           "link": "https://www.solidot.org/story?sid=85164",
           "date": "2026-08-22T15:30:51+00:00"
-        },
-        {
-          "title": "因门把手安全隐患特斯拉在华召回近 300 万辆车",
-          "link": "https://www.solidot.org/story?sid=85163",
-          "date": "2026-08-22T13:32:18+00:00"
         }
       ]
     },
@@ -337,19 +337,19 @@
           "date": "2026-08-23T12:28:24+00:00"
         },
         {
+          "title": "An Introduction to Canvas in GNU Emacs",
+          "link": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
+          "date": "2026-08-23T14:45:32+00:00"
+        },
+        {
+          "title": "My favorite Computer Science books, and why",
+          "link": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
+          "date": "2026-08-23T14:45:46+00:00"
+        },
+        {
           "title": "Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?",
           "link": "https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf",
           "date": "2026-08-23T12:08:25+00:00"
-        },
-        {
-          "title": "You should never be angry at work",
-          "link": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
-          "date": "2026-08-22T12:41:39+00:00"
-        },
-        {
-          "title": "There continue to be reasons for software to be slow",
-          "link": "https://typesanitizer.com/blog/performance-issues.html",
-          "date": "2026-08-22T14:31:21+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[OpenAI] codex 的 pro20x 都不够一个系统修复用的",
-          "link": "https://www.v2ex.com/t/1236638#reply0",
-          "date": "2026-08-23T15:14:47+00:00"
+          "title": "[分享创造] 做了个小工具：让 iTerm2 tab 跟随 Claude Code / Codex 状态自动变色",
+          "link": "https://www.v2ex.com/t/1236647#reply0",
+          "date": "2026-08-23T17:19:14+00:00"
         },
         {
-          "title": "[宽带症候群] 广州电信越秀片区割接到 vBRAS，组播 260 秒断流",
-          "link": "https://www.v2ex.com/t/1236636#reply0",
-          "date": "2026-08-23T15:09:43+00:00"
+          "title": "[分享创造] KimiCodeBar Windows 版：在系统托盘盯着 Kimi Code 的额度，快烧完图标会变红（安装包 4MB）",
+          "link": "https://www.v2ex.com/t/1236646#reply0",
+          "date": "2026-08-23T17:05:05+00:00"
         },
         {
-          "title": "[分享发现] 写在 XR 眼镜可能爆发前夜",
-          "link": "https://www.v2ex.com/t/1236635#reply0",
-          "date": "2026-08-23T15:08:50+00:00"
+          "title": "[分享发现] 智谱免费一个月龙虾,快来养虾！",
+          "link": "https://www.v2ex.com/t/1236645#reply1",
+          "date": "2026-08-23T16:37:06+00:00"
         },
         {
-          "title": "[创造者] 把流量当目的，动作就开始变形--Tison009",
-          "link": "https://www.v2ex.com/t/1236634#reply0",
-          "date": "2026-08-23T15:08:36+00:00"
+          "title": "[程序员] 大家有 gpt5.6 破甲逆向 web 工具吗",
+          "link": "https://www.v2ex.com/t/1236644#reply0",
+          "date": "2026-08-23T16:09:55+00:00"
         },
         {
-          "title": "[分享创造] 做了一个多模型 AI 图片和视频生成网站，求 V 友体验",
-          "link": "https://www.v2ex.com/t/1236633#reply0",
-          "date": "2026-08-23T15:07:49+00:00"
+          "title": "[分享创造] 做了一个 AI 纹身生成与在线试纹身的工具 TattooIdeas.app，求产品体验反馈",
+          "link": "https://www.v2ex.com/t/1236643#reply1",
+          "date": "2026-08-23T15:42:43+00:00"
         }
       ]
     },
@@ -637,29 +637,29 @@
       "url": "https://www.sciencedaily.com/rss/all.xml",
       "items": [
         {
-          "title": "Quitting alcohol may prime the brain for relapse",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260822015148.htm",
-          "date": "2026-08-23T02:46:26+00:00"
+          "title": "Experimental compound helps burn fat without muscle loss",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260823014953.htm",
+          "date": "2026-08-23T10:24:17+00:00"
         },
         {
-          "title": "JWST finds early galaxies may be 4 times more massive than thought",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260822015141.htm",
-          "date": "2026-08-22T12:36:23+00:00"
+          "title": "A hidden “on switch” in human DNA has finally been decoded",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm",
+          "date": "2026-08-23T12:14:40+00:00"
         },
         {
-          "title": "Black holes keep tearing these stars apart, but they survive",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260822015119.htm",
-          "date": "2026-08-23T04:08:52+00:00"
+          "title": "Scientists turn tiny “defects” into a 5.5x heat transfer boost",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260823014940.htm",
+          "date": "2026-08-23T05:49:40+00:00"
         },
         {
-          "title": "Exercise may work better for keeping weight off than losing it",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260821012240.htm",
-          "date": "2026-08-22T13:55:11+00:00"
+          "title": "The dental crown of the future could be 3D-printed while you wait",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260822015217.htm",
+          "date": "2026-08-23T14:36:33+00:00"
         },
         {
-          "title": "Peppermint oil lowers blood pressure in just 20 days",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260821012238.htm",
-          "date": "2026-08-22T14:08:04+00:00"
+          "title": "Cannabis use linked to 37% higher stroke risk in massive study",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260822015215.htm",
+          "date": "2026-08-23T05:33:17+00:00"
         }
       ]
     }
