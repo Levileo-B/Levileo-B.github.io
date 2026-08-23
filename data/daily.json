@@ -1,123 +1,126 @@
 {
-  "updated": "2026-08-22T21:15:31+00:00",
+  "updated": "2026-08-23T00:58:24+00:00",
   "leetcode": {
-    "date": "2026-08-22",
-    "id": "3622",
-    "title": "Check Divisibility by Digit Sum and Product",
-    "titleEn": "Check Divisibility by Digit Sum and Product",
-    "slug": "check-divisibility-by-digit-sum-and-product",
-    "difficulty": "Easy",
+    "date": "2026-08-23",
+    "id": "1927",
+    "title": "Sum Game",
+    "titleEn": "Sum Game",
+    "slug": "sum-game",
+    "difficulty": "Medium",
     "tags": [
-      "Math"
+      "Math",
+      "String",
+      "Greedy",
+      "Game Theory"
     ],
-    "link": "https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/",
+    "link": "https://leetcode.com/problems/sum-game/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Edmontosaurus mummy SMF R 4036",
-    "text": "The Edmontosaurus mummy SMF R 4036, nicknamed the Senckenberg mummy or Edmond, is a well-preserved dinosaur fossil in the collection of the Senckenberg Museum (SMF) in Frankfurt am Main, Germany. It was found in 1910 in Wyoming, United States, in rocks of the Lance Formation that date to the late Maastrichtian, close to the Cretaceous–Paleogene extinction event around 66 million years ago. The mummy is ascribed to the species Edmontosaurus annectens, a member of the Hadrosauridae. It comprises a nearly complete skeleton that was found wrapped in skin impressions, a rare case of preservation for which the term dinosaur mummy has been used. The fingers of the right hand are wrapped in a mitten-like envelope of skin impressions, initially interpreted as a paddle unsuited for terrestrial locomotion, thereby reinforcing the now outdated hypothesis that hadrosaurs were aquatic. The impression of a horny beak is also preserved with this specimen. Plant remains found in the body cavity were interpreted as stomach contents, suggesting a diet of terrestrial plants. It is now believed that this plant material was washed into the body cavity of the carcass.",
-    "words": 184,
-    "url": "https://en.wikipedia.org/wiki/Edmontosaurus_mummy_SMF_R_4036",
-    "date": "2026-08-22",
+    "title": "Figure skating at the 2002 Winter Olympics – Pair skating",
+    "text": "The pairs' figure skating competition at the 2002 Winter Olympics was held on February 9 and 11 at the Salt Lake Ice Center in Salt Lake City, Utah, in the United States. Originally, Elena Berezhnaya and Anton Sikharulidze of Russia won the gold medals, while Jamie Salé and David Pelletier of Canada won the silver, and Shen Xue and Zhao Hongbo of China won the bronze. However, after the event concluded, allegations of vote swapping led to one judge's scores being discarded; Salé and Pelletier were also awarded gold medals, while Berezhnaya and Sikharulidze were allowed to keep theirs. In a joint press conference on February 15, the International Skating Union (ISU) and the International Olympic Committee announced that Marie-Reine Le Gougne, the French judge implicated in collusion, was guilty of misconduct and was suspended effective immediately. In 2004, the ISU voted to change the 6.0 judging system because it was considered too subjective. As a result, the ISU Judging System was created, whereby skaters and teams were scored based on a technical grade of execution of the required elements.",
+    "words": 180,
+    "url": "https://en.wikipedia.org/wiki/Figure_skating_at_the_2002_Winter_Olympics_%E2%80%93_Pair_skating",
+    "date": "2026-08-23",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "[Home Movies: Levy collection: Norway, Sweden, Soviet Union]",
+    "title": "Pledge Commercial",
     "creator": "",
-    "year": "1931",
-    "url": "https://archive.org/download/HM_Levy_collection_Norway_Sweden_Soviet_Union/0616_HM_Levy_collection_Norway_Sweden_Soviet_Union_23_29_32_00_3mb.mp4",
-    "page": "https://archive.org/details/HM_Levy_collection_Norway_Sweden_Soviet_Union",
-    "date": "2026-08-22",
+    "year": "",
+    "url": "https://archive.org/download/PledgeCommer/PledgeCommer_512kb.mp4",
+    "page": "https://archive.org/details/PledgeCommer",
+    "date": "2026-08-23",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "bruit (Dutch supports socialist medicine)",
-      "artist": "Christopher Taylor",
-      "url": "https://archive.org/download/BruitdutchSupportsSocialistMedicine/BruitdutchSupportsSocialistMedicine.mp3",
-      "page": "https://archive.org/details/BruitdutchSupportsSocialistMedicine",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "[xs 71] cage cabarrett - covil radiophonic workshop",
-      "artist": "cage cabarret",
-      "url": "https://archive.org/download/xs71CageCabarrett-CovilRadiophonicWorkshop/CovilRadiophonicWorkshop1.mp3",
-      "page": "https://archive.org/details/xs71CageCabarrett-CovilRadiophonicWorkshop",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/pt/"
-    },
-    {
-      "title": "KIL014 - The Brazierlights In The Window - Spring Release",
-      "artist": "The Brazierlights In The Window",
-      "url": "https://archive.org/download/Kil014-TheBrazierlightsInTheWindow-SpringRelease/01Spring_release.mp3",
-      "page": "https://archive.org/details/Kil014-TheBrazierlightsInTheWindow-SpringRelease",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "TETSURO - Police Battle (Single) (2020)",
-      "artist": "TETSURO",
-      "url": "https://archive.org/download/IBR_1648/01.%20Police%20Battle%20%28Beatdown%20fists%20of%20vengeance%20OST%20-%20Cop%20killa%20bgm%20remix%29.mp3",
-      "page": "https://archive.org/details/IBR_1648",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "119DIYChurch_large garden zombie sculpture",
-      "artist": "G.O:D",
-      "url": "https://archive.org/download/119diychurch_largeGardenZombieSculpture/119diychurch_largeGardenZombieSculpture.mp3",
-      "page": "https://archive.org/details/119diychurch_largeGardenZombieSculpture",
+      "title": "GF05: A Heavy Cloud And Some Bright Sunshine",
+      "artist": "Sleeping in the Black Light",
+      "url": "https://archive.org/download/AHeavyCloudAndSomeBrightSunshine/01MexicanStandOff.mp3",
+      "page": "https://archive.org/details/AHeavyCloudAndSomeBrightSunshine",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "telafonica-theres-something-about-your-face",
-      "artist": "telafonica",
-      "url": "https://archive.org/download/telafonica-theres-something-about-your-face/5TheresSomethingAboutYourFace29.5.11.mp3",
-      "page": "https://archive.org/details/telafonica-theres-something-about-your-face",
-      "license": "Creative Commons"
+      "title": "Rotorro Howl",
+      "artist": "",
+      "url": "https://archive.org/download/rotorro_howl/Howl.mp3",
+      "page": "https://archive.org/details/rotorro_howl",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "city birds",
-      "artist": "luis antero",
-      "url": "https://archive.org/download/CityBirds_317/CityBirds2_st.mp3",
-      "page": "https://archive.org/details/CityBirds_317",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+      "title": "Coloured pocket of your brain",
+      "artist": "Pocket Brain Orchestra",
+      "url": "https://archive.org/download/ekafon016/Acolouredpocketinyourbrain.mp3",
+      "page": "https://archive.org/details/ekafon016",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
     },
     {
-      "title": "Please Lose Battle",
-      "artist": "Please Lose Battle",
-      "url": "https://archive.org/download/PTE046/01Nailedit.mp3",
-      "page": "https://archive.org/details/PTE046",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "wave009 ~ Sinus Force ~ Sinus Therapy",
+      "artist": "Sinus Force",
+      "url": "https://archive.org/download/wave009/wave009.01_Sinus_Force_Technostar.mp3",
+      "page": "https://archive.org/details/wave009",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
     },
     {
-      "title": "bagzard - redabern 743 (Single) (2020)",
-      "artist": "bagzard",
-      "url": "https://archive.org/download/IBR_1595/01.%20redabern%20743.mp3",
-      "page": "https://archive.org/details/IBR_1595",
-      "license": "Creative Commons"
+      "title": "Vincent Bergeron - Casse-tete de l'Existence [wh056]",
+      "artist": "Vincent Bergeron",
+      "url": "https://archive.org/download/wh056/wh056_01_lanaissance.MP3",
+      "page": "https://archive.org/details/wh056",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
     },
     {
-      "title": "Dr. Noise M & Dr. Walker - Liquid Sky Berlin Ambient Session (Live)",
-      "artist": "Dr. NoiseM, Dr. Walker",
-      "url": "https://archive.org/download/dr.-noise-m-dr.-walker-liquid-sky-berlin-ambient-session-live/Dr.%20NoiseM%20%26%20Dr.%20Walker%20-%20Liquid%20Sky%20Berlin%20Ambient%20Session%20%28Live%29.mp3",
-      "page": "https://archive.org/details/dr.-noise-m-dr.-walker-liquid-sky-berlin-ambient-session-live",
+      "title": "SR209 : Ripdae La Wise & Carl Yvan Prévil : With A Moko Jumbie & A Persona Of Three",
+      "artist": "A. Ripdae la Wise Escobar & Carl Yvan Prévil",
+      "url": "https://archive.org/download/ripdaelawisecarlyvanprevilwithamokojumbieapersonaofthree/Ripdae%20La%20Wise%20%26%20Carl%20Yvan%20Pre%CC%81vil%20-%20with%20a%20moko%20jumbie%20%26%20a%20persona%20of%20three.%20-%2001%20Fela%20%28Somehow%20I%20don%E2%80%99t%20think%20Charlie%20Parker%20would%20be%20quoting%20Goethe%29.mp3",
+      "page": "https://archive.org/details/ripdaelawisecarlyvanprevilwithamokojumbieapersonaofthree",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "DaP Station Podcast 1 (transmission one) by ABF",
+      "title": "Alpha #1",
       "artist": "",
-      "url": "https://archive.org/download/DapStationPodcast1transmissionOneByAbf/DapStationTransmisionOne.mp3",
-      "page": "https://archive.org/details/DapStationPodcast1transmissionOneByAbf",
+      "url": "https://archive.org/download/Alpha1_201608/01.-%20OBSERVATORIO%2051%20-%20DOPA.mp3",
+      "page": "https://archive.org/details/Alpha1_201608",
       "license": "Creative Commons"
     },
     {
-      "title": "Sperm Of Freddie Mercury Is Gay - Sperm Of Freddie Mercury Is Gay (Koosok Doordoma Remix) (Single) (2018)",
-      "artist": "Sperm Of Freddie Mercury Is Gay",
-      "url": "https://archive.org/download/IBR_426/01.%20Sperm%20Of%20Freddie%20Mercury%20Is%20Gay%20%28Koosok%20Doordoma%20Remix%29.mp3",
-      "page": "https://archive.org/details/IBR_426",
-      "license": "Creative Commons"
+      "title": "Meat Force - Heart Stab Heart Sad",
+      "artist": "Meat Force",
+      "url": "https://archive.org/download/MeatForce-HeartStabHeartSad/HeartStabHeartSad.mp3",
+      "page": "https://archive.org/details/MeatForce-HeartStabHeartSad",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Technology for Hippies No.2",
+      "artist": "The Fake Masters",
+      "url": "https://archive.org/download/ekafon014/101psychedelictechnique.mp3",
+      "page": "https://archive.org/details/ekafon014",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/de/"
+    },
+    {
+      "title": "JESUS (TaFe-70)",
+      "artist": "Lain into Wired",
+      "url": "https://archive.org/download/Jesustafe-70/01I.mp3",
+      "page": "https://archive.org/details/Jesustafe-70",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "April Shower",
+      "artist": "the Maravines",
+      "url": "https://archive.org/download/MARAV074R/01%20Bay%20in%20the%20Wood%20Medley.mp3",
+      "page": "https://archive.org/details/MARAV074R",
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    {
+      "title": "Zanstones 109 - Squirreling Away Braggarts Rights",
+      "artist": "Zan Hoffman",
+      "url": "https://archive.org/download/zh27724/724%20Zanstones%20109%20-%20Squirreling%20Away%20Braggarts%20Rights.mp3",
+      "page": "https://archive.org/details/zh27724",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     }
   ]
 }
