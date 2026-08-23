@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T03:44:49+00:00",
+  "updated": "2026-08-23T06:30:39+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -12,14 +12,14 @@
           "date": "2026-08-21T09:40:09+00:00"
         },
         {
-          "title": "香港支聯會「煽動顛覆」案 高等法院裁定有罪",
-          "link": "https://www.bbc.com/zhongwen/articles/cvgvrpy7pjro/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-21T13:24:42+00:00"
-        },
-        {
           "title": "台灣「三大公投」：時隔一年再公投，這次投什麼？通過門檻為何？",
           "link": "https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-21T13:47:30+00:00"
+        },
+        {
+          "title": "如何不用鬧鐘就能起床？",
+          "link": "https://www.bbc.com/zhongwen/articles/cy8e8584160o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-23T05:58:45+00:00"
         },
         {
           "title": "冒險心理學：你選擇穩袋5萬元，還是以一半機會博取100萬元？",
@@ -39,9 +39,9 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+          "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
           "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-22T20:10:00+00:00"
+          "date": "2026-08-23T05:46:43+00:00"
         },
         {
           "title": "Carney faces crucial test after walking away from Trump's deal",
@@ -135,6 +135,11 @@
       "url": "https://sspai.com/feed",
       "items": [
         {
+          "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
+          "link": "https://sspai.com/post/113002",
+          "date": "2026-08-23T03:00:00+00:00"
+        },
+        {
           "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
           "link": "https://sspai.com/post/113675",
           "date": "2026-08-22T03:00:00+00:00"
@@ -153,11 +158,6 @@
           "title": "派早报：华为发布 Pura X View、享界 G9 等多款新品",
           "link": "https://sspai.com/post/113666",
           "date": "2026-08-20T23:00:00+00:00"
-        },
-        {
-          "title": "新玩意 249｜少数派的编辑们最近买了啥？",
-          "link": "https://sspai.com/post/113650",
-          "date": "2026-08-20T09:30:00+00:00"
         }
       ]
     },
@@ -166,6 +166,11 @@
       "category": "科技",
       "url": "https://www.ifanr.com/feed",
       "items": [
+        {
+          "title": "AI 即将接管流量，而广告正在疯狂「末日反扑」",
+          "link": "https://www.ifanr.com/1676208?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-08-23T03:53:55+00:00"
+        },
         {
           "title": "Windows 是 AI PC 路上的绊脚石",
           "link": "https://www.ifanr.com/1676189?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -185,11 +190,6 @@
           "title": "捷尼赛思 GV90 正式亮相，全尺寸对开门量产，比劳斯莱斯更激进",
           "link": "https://www.ifanr.com/1676069?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-08-21T11:32:22+00:00"
-        },
-        {
-          "title": "首发｜我用了一个月的影石 Luna Pro，也许真能和「前辈们」掰掰手腕",
-          "link": "https://www.ifanr.com/1676070?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-08-21T10:30:54+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "NanoGPT Speedrun Frontier",
-          "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-          "date": "2026-08-22T22:14:27+00:00"
+          "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
+          "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+          "date": "2026-08-23T04:28:18+00:00"
         },
         {
-          "title": "NetBSD and my life (2005)",
-          "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-          "date": "2026-08-22T19:07:46+00:00"
+          "title": "The Golden Rule for Becoming a Better Writer",
+          "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+          "date": "2026-08-23T03:32:25+00:00"
         },
         {
-          "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-          "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
-          "date": "2026-08-22T19:04:41+00:00"
+          "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+          "link": "https://martypc.net/",
+          "date": "2026-08-23T03:13:16+00:00"
         },
         {
-          "title": "Why your local LLM feels dumber than it is",
-          "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "date": "2026-08-22T18:14:16+00:00"
+          "title": "I Dream of Quieter Computing",
+          "link": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+          "date": "2026-08-23T02:33:22+00:00"
         },
         {
-          "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
-          "link": "https://marcua.net/minitools/figmimic/",
-          "date": "2026-08-22T18:11:40+00:00"
+          "title": "The Art and Beauty of Blade Runner",
+          "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+          "date": "2026-08-23T00:56:03+00:00"
         }
       ]
     },
@@ -332,6 +332,11 @@
           "date": "2026-08-22T12:41:39+00:00"
         },
         {
+          "title": "There continue to be reasons for software to be slow",
+          "link": "https://typesanitizer.com/blog/performance-issues.html",
+          "date": "2026-08-22T14:31:21+00:00"
+        },
+        {
           "title": "NetBSD and my life (2005)",
           "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
           "date": "2026-08-22T19:08:47+00:00"
@@ -342,14 +347,9 @@
           "date": "2026-08-22T17:52:17+00:00"
         },
         {
-          "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
-          "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-          "date": "2026-08-22T07:27:26+00:00"
-        },
-        {
-          "title": "The cool things of Gleam",
-          "link": "https://a.baez.link/3mtdbbp2dmc27",
-          "date": "2026-08-22T06:16:08+00:00"
+          "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
+          "link": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+          "date": "2026-08-22T16:04:51+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[程序员] 我把全网在赚钱的站点变成了一张榜单",
-          "link": "https://www.v2ex.com/t/1236529#reply1",
-          "date": "2026-08-23T03:40:30+00:00"
+          "title": "[分享创造] 分享一个最近新作的 PC 外设装备测试网站 键盘鼠标显示器都能测",
+          "link": "https://www.v2ex.com/t/1236558#reply0",
+          "date": "2026-08-23T06:28:34+00:00"
         },
         {
-          "title": "[问与答] 关于楼上渗水到楼下的问题，请友友们提供一些建议。",
-          "link": "https://www.v2ex.com/t/1236528#reply0",
-          "date": "2026-08-23T03:39:36+00:00"
+          "title": "[Vibe Coding] gpt plus 不够用想重置卡，要不要先开到 pro 20X 再重置划算点",
+          "link": "https://www.v2ex.com/t/1236557#reply0",
+          "date": "2026-08-23T06:20:31+00:00"
         },
         {
-          "title": "[问与答] 想换一个智能锁 老铁们推荐哪个品牌型号的？",
-          "link": "https://www.v2ex.com/t/1236527#reply1",
-          "date": "2026-08-23T03:39:27+00:00"
+          "title": "[Apple] 很多过去认为在 apple 上不可能的实现的事现在都实现了",
+          "link": "https://www.v2ex.com/t/1236556#reply2",
+          "date": "2026-08-23T06:18:24+00:00"
         },
         {
-          "title": "[Next DBM] AI SQL 有必要吗？",
-          "link": "https://www.v2ex.com/t/1236526#reply1",
-          "date": "2026-08-23T03:21:03+00:00"
+          "title": "[又拍云] 网传又拍云经营不善 疑似面临倒闭 目前法人背债将近一千万",
+          "link": "https://www.v2ex.com/t/1236555#reply1",
+          "date": "2026-08-23T06:15:44+00:00"
         },
         {
-          "title": "[Virtual YouTubers] 为四时小路和小路泥们开发了一个粉丝向网站 [小路泥加油站] +",
-          "link": "https://www.v2ex.com/t/1236525#reply0",
-          "date": "2026-08-23T03:20:28+00:00"
+          "title": "[程序员] 工作十多年后重新做 Windows 开发，我用 C++20 和 Codex 写了一个轻量级原生框架 MWFL",
+          "link": "https://www.v2ex.com/t/1236554#reply0",
+          "date": "2026-08-23T06:15:09+00:00"
         }
       ]
     },
@@ -637,9 +637,19 @@
       "url": "https://www.sciencedaily.com/rss/all.xml",
       "items": [
         {
+          "title": "Quitting alcohol may prime the brain for relapse",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260822015148.htm",
+          "date": "2026-08-23T02:46:26+00:00"
+        },
+        {
           "title": "JWST finds early galaxies may be 4 times more massive than thought",
           "link": "https://www.sciencedaily.com/releases/2026/08/260822015141.htm",
           "date": "2026-08-22T12:36:23+00:00"
+        },
+        {
+          "title": "Black holes keep tearing these stars apart, but they survive",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260822015119.htm",
+          "date": "2026-08-23T04:08:52+00:00"
         },
         {
           "title": "Exercise may work better for keeping weight off than losing it",
@@ -650,16 +660,6 @@
           "title": "Peppermint oil lowers blood pressure in just 20 days",
           "link": "https://www.sciencedaily.com/releases/2026/08/260821012238.htm",
           "date": "2026-08-22T14:08:04+00:00"
-        },
-        {
-          "title": "This yeast supplement may boost cancer-fighting immunity",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260821012230.htm",
-          "date": "2026-08-22T10:34:22+00:00"
-        },
-        {
-          "title": "This frozen fiber makes light and sound interact 1,000x more strongly",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260821012228.htm",
-          "date": "2026-08-22T13:02:37+00:00"
         }
       ]
     }
