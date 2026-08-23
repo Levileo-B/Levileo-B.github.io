@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T18:19:59+00:00",
+  "updated": "2026-08-23T21:15:50+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -46,7 +46,12 @@
         {
           "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
           "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-23T05:46:43+00:00"
+          "date": "2026-08-23T19:11:30+00:00"
+        },
+        {
+          "title": "Guinea rubbish landfill collapse kills 30",
+          "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-23T18:17:37+00:00"
         },
         {
           "title": "DR Congo and M23 rebels agree roadmap for peace talks",
@@ -54,14 +59,9 @@
           "date": "2026-08-23T12:52:08+00:00"
         },
         {
-          "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
-          "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-23T18:17:34+00:00"
-        },
-        {
-          "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-          "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-23T11:50:59+00:00"
+          "title": "France links sharp rise in drownings to heatwaves",
+          "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-23T17:39:33+00:00"
         }
       ]
     },
@@ -83,7 +83,7 @@
         {
           "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
           "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-23T05:46:43+00:00"
+          "date": "2026-08-23T19:11:30+00:00"
         },
         {
           "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
@@ -199,6 +199,11 @@
       "url": "https://www.solidot.org/index.rss",
       "items": [
         {
+          "title": "机器人短跑超越人类，但刹住是问题",
+          "link": "https://www.solidot.org/story?sid=85169",
+          "date": "2026-08-23T15:48:05+00:00"
+        },
+        {
           "title": "卡巴斯基发现第一种针对汽车的 Android 恶意程序",
           "link": "https://www.solidot.org/story?sid=85168",
           "date": "2026-08-23T15:02:01+00:00"
@@ -217,11 +222,6 @@
           "title": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同",
           "link": "https://www.solidot.org/story?sid=85165",
           "date": "2026-08-22T15:59:22+00:00"
-        },
-        {
-          "title": "Rockstar 向微软和 Discord 发去法庭传票以识别 GTA6 泄密者身份",
-          "link": "https://www.solidot.org/story?sid=85164",
-          "date": "2026-08-22T15:30:51+00:00"
         }
       ]
     },
@@ -230,6 +230,11 @@
       "category": "科技",
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
+        {
+          "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+          "link": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+          "date": "2026-08-23T19:14:43+00:00"
+        },
         {
           "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
           "link": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
@@ -249,11 +254,6 @@
           "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
           "link": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
           "date": "2026-08-14T17:20:45+00:00"
-        },
-        {
-          "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
-          "link": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
-          "date": "2026-08-22T17:41:45+00:00"
         }
       ]
     },
@@ -290,38 +290,6 @@
       ]
     },
     {
-      "name": "Hacker News",
-      "category": "开发",
-      "url": "https://hnrss.org/frontpage?count=10",
-      "items": [
-        {
-          "title": "Slovakia finds Russian backdoor in traffic speed cameras",
-          "link": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-          "date": "2026-08-23T14:38:25+00:00"
-        },
-        {
-          "title": "Authoritarianism of Code",
-          "link": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
-          "date": "2026-08-23T14:36:38+00:00"
-        },
-        {
-          "title": "What Is a Harness?",
-          "link": "https://earendil.com/posts/what-is-a-harness/",
-          "date": "2026-08-23T14:24:21+00:00"
-        },
-        {
-          "title": "Death to px, long live ch",
-          "link": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
-          "date": "2026-08-23T13:56:27+00:00"
-        },
-        {
-          "title": "My favorite nonfiction books about cults, scams, and schemes",
-          "link": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-          "date": "2026-08-23T13:51:10+00:00"
-        }
-      ]
-    },
-    {
       "name": "Lobsters",
       "category": "开发",
       "url": "https://lobste.rs/rss",
@@ -332,24 +300,24 @@
           "date": "2026-08-23T12:15:54+00:00"
         },
         {
-          "title": "Hister - A private, full content search index that you control",
-          "link": "https://hister.org/",
-          "date": "2026-08-23T12:28:24+00:00"
-        },
-        {
           "title": "An Introduction to Canvas in GNU Emacs",
           "link": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
           "date": "2026-08-23T14:45:32+00:00"
         },
         {
+          "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+          "link": "https://ericpardee.github.io/fire-hd-ownership/",
+          "date": "2026-08-23T15:45:01+00:00"
+        },
+        {
+          "title": "Hister - A private, full content search index that you control",
+          "link": "https://hister.org/",
+          "date": "2026-08-23T12:28:24+00:00"
+        },
+        {
           "title": "My favorite Computer Science books, and why",
           "link": "https://backtracking.github.io/en/2020/02/20/cs-books.html",
           "date": "2026-08-23T14:45:46+00:00"
-        },
-        {
-          "title": "Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?",
-          "link": "https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf",
-          "date": "2026-08-23T12:08:25+00:00"
         }
       ]
     },
@@ -600,38 +568,6 @@
       ]
     },
     {
-      "name": "Nature",
-      "category": "科研",
-      "url": "https://www.nature.com/nature.rss",
-      "items": [
-        {
-          "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
-          "link": "https://www.nature.com/articles/d41586-026-02626-x",
-          "date": "2026-08-21T00:00:00+00:00"
-        },
-        {
-          "title": "Earth-shaking thunder probes underground geology",
-          "link": "https://www.nature.com/articles/d41586-026-02596-0",
-          "date": "2026-08-21T00:00:00+00:00"
-        },
-        {
-          "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
-          "link": "https://www.nature.com/articles/d41586-026-02566-6",
-          "date": "2026-08-21T00:00:00+00:00"
-        },
-        {
-          "title": "Sleuth identifies dozens of studies that used the wrong antibody",
-          "link": "https://www.nature.com/articles/d41586-026-02352-4",
-          "date": "2026-08-21T00:00:00+00:00"
-        },
-        {
-          "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
-          "link": "https://www.nature.com/articles/s41586-026-11043-z",
-          "date": "2026-08-20T00:00:00+00:00"
-        }
-      ]
-    },
-    {
       "name": "ScienceDaily",
       "category": "科研",
       "url": "https://www.sciencedaily.com/rss/all.xml",
@@ -665,6 +601,8 @@
     }
   ],
   "failed": [
-    "36 氪"
+    "36 氪",
+    "Hacker News",
+    "Nature"
   ]
 }
