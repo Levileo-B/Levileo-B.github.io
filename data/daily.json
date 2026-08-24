@@ -1,112 +1,49 @@
 {
-  "updated": "2026-08-23T21:15:51+00:00",
+  "updated": "2026-08-24T00:56:12+00:00",
   "leetcode": {
-    "date": "2026-08-23",
-    "id": "1927",
-    "title": "Sum Game",
-    "titleEn": "Sum Game",
-    "slug": "sum-game",
-    "difficulty": "Medium",
+    "date": "2026-08-24",
+    "id": "1872",
+    "title": "Stone Game VIII",
+    "titleEn": "Stone Game VIII",
+    "slug": "stone-game-viii",
+    "difficulty": "Hard",
     "tags": [
+      "Array",
       "Math",
-      "String",
-      "Greedy",
-      "Game Theory"
+      "Dynamic Programming",
+      "Minimax"
     ],
-    "link": "https://leetcode.com/problems/sum-game/",
+    "link": "https://leetcode.com/problems/stone-game-viii/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Figure skating at the 2002 Winter Olympics – Pair skating",
-    "text": "The pairs' figure skating competition at the 2002 Winter Olympics was held on February 9 and 11 at the Salt Lake Ice Center in Salt Lake City, Utah, in the United States. Originally, Elena Berezhnaya and Anton Sikharulidze of Russia won the gold medals, while Jamie Salé and David Pelletier of Canada won the silver, and Shen Xue and Zhao Hongbo of China won the bronze. However, after the event concluded, allegations of vote swapping led to one judge's scores being discarded; Salé and Pelletier were also awarded gold medals, while Berezhnaya and Sikharulidze were allowed to keep theirs. In a joint press conference on February 15, the International Skating Union (ISU) and the International Olympic Committee announced that Marie-Reine Le Gougne, the French judge implicated in collusion, was guilty of misconduct and was suspended effective immediately.",
-    "words": 137,
-    "url": "https://en.wikipedia.org/wiki/Figure_skating_at_the_2002_Winter_Olympics_%E2%80%93_Pair_skating",
-    "date": "2026-08-23",
+    "title": "Brochfael ap Meurig",
+    "text": "Brochfael ap Meurig was king of Gwent in south-east Wales. He ruled jointly with his brother, Ffernfael ap Meurig. Gwent and Glywysing, the neighbouring territory to the west, were ruled as a single kingdom in some periods; at other times they were separate and the king of Glywysing had the higher status. Brochfael's father, Meurig ab Arthfael, ruled both territories with the title King of Glywysing, but Brochfael and Ffernfael were only kings of Gwent, and had a lower status than their cousin Hywel ap Rhys, King of Glywysing.",
+    "words": 89,
+    "url": "https://en.wikipedia.org/wiki/Brochfael_ap_Meurig",
+    "date": "2026-08-24",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Home Movie: 004237",
+    "title": "Wheat and Zero Time",
     "creator": "",
     "year": "",
-    "url": "https://archive.org/download/202538_Home_Movie_004237/202538_Home_Movie_004237_master.intros.mp4",
-    "page": "https://archive.org/details/202538_Home_Movie_004237",
-    "date": "2026-08-23",
+    "url": "https://archive.org/download/201117_Wheat_and_Zero_Time/201117_Wheat_and_Zero_Time_master.intros.mp4",
+    "page": "https://archive.org/details/201117_Wheat_and_Zero_Time",
+    "date": "2026-08-24",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "[TAN014] Steam flow - Mist",
-      "artist": "Mad God",
-      "url": "https://archive.org/download/TAN014/Mist.mp3",
-      "page": "https://archive.org/details/TAN014",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
-    },
-    {
-      "title": "[deepxpodcast010] eM - Deep-X Podcast 010",
-      "artist": "Deep-X Recordings",
-      "url": "https://archive.org/download/deepxpodcast010/deepxpodcast010_-_eM_-_Deep-X_Podcast_010.mp3",
-      "page": "https://archive.org/details/deepxpodcast010",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "3pr(iii)9ses",
-      "artist": "Robert Cole Rizzi; Frédéric Nogray; Acoustic Mirror",
-      "url": "https://archive.org/download/earsheltering103/01_-_Robert_Cole_Rizzi_-_Wind_Water_Wood.mp3",
-      "page": "https://archive.org/details/earsheltering103",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-    },
-    {
-      "title": "Ting",
-      "artist": "indek",
-      "url": "https://archive.org/download/indek-ting_202509/indek%20-%20Ting.mp3",
-      "page": "https://archive.org/details/indek-ting_202509",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "Oxygenfad - Mustard Saleswomen [illep050]",
-      "artist": "Oxygenfad",
-      "url": "https://archive.org/download/illep050/01_-_Oxygenfad_-_Cogito_Cena.mp3",
-      "page": "https://archive.org/details/illep050",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "BH030XEP - Gemini 7 - Put-up Job Scenes In The Space Capsule Ep",
-      "artist": "Gemini 7",
-      "url": "https://archive.org/download/bh030xep/01-gemini_7-was_bertalan_farkas_on_the_mercury_vbr.mp3",
-      "page": "https://archive.org/details/bh030xep",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/hu/"
-    },
-    {
-      "title": "NACH AFTER: INNOVATE (LP)",
-      "artist": "tachyon netlabel",
-      "url": "https://archive.org/download/Nach_After_-_Innovate_LP/01.Innovate.mp3",
-      "page": "https://archive.org/details/Nach_After_-_Innovate_LP",
-      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-    },
-    {
-      "title": "РВЁМ ТАНЦПОЛ - I Dont Give a Fuck (2017) [MNMN431]",
-      "artist": "РВЁМ ТАНЦПОЛ",
-      "url": "https://archive.org/download/MNMN431/01.%208%20Bit%20Party.mp3",
-      "page": "https://archive.org/details/MNMN431",
+      "title": "Qualmy",
+      "artist": "Turkey Makes Me Sleepy",
+      "url": "https://archive.org/download/Qualmy/01Disquietude25Oct97.mp3",
+      "page": "https://archive.org/details/Qualmy",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Liz - Lizbox - chat 006",
-      "artist": "Liz",
-      "url": "https://archive.org/download/chat006/liz_lizbox_001_02_singing.mp3",
-      "page": "https://archive.org/details/chat006",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/"
-    },
-    {
-      "title": "INDIOSINGRACIA - MENOSUNO",
-      "artist": "INDIOSINGRACIA",
-      "url": "https://archive.org/download/indiosingraciaMenosuno/01%20-%20por%20que%20cancelais%20Rubicon.mp3",
-      "page": "https://archive.org/details/indiosingraciaMenosuno",
-      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
     },
     {
       "title": "serocell - afferent affinity cycles vol 2 [2008]",
@@ -116,11 +53,74 @@
       "license": "Creative Commons"
     },
     {
+      "title": "Tripnectar - Cloud EP (2017) [MNMN435]",
+      "artist": "Tripnectar",
+      "url": "https://archive.org/download/MNMN435/01.%20On%20A%20Plan%20%28feat.%20Green%20Demon%29.mp3",
+      "page": "https://archive.org/details/MNMN435",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Nerve Breaks 007",
+      "artist": "Gridlok - remix by Subscience",
+      "url": "https://archive.org/download/NerveBreaks007/Gridlok-ChickensubscienceRmx.mp3",
+      "page": "https://archive.org/details/NerveBreaks007",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "[TAN171] Steam flow - Gloomy Mansion",
+      "artist": "Mad God",
+      "url": "https://archive.org/download/TAN171/Steam%20flow%20-%20Gloomy%20Mansion.mp3",
+      "page": "https://archive.org/details/TAN171",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+    },
+    {
+      "title": "Ting",
+      "artist": "indek",
+      "url": "https://archive.org/download/indek-ting_202509/indek%20-%20Ting.mp3",
+      "page": "https://archive.org/details/indek-ting_202509",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "The Cabinet EP",
+      "artist": "EGOamp",
+      "url": "https://archive.org/download/ion025_egoamp_the-cabinet-ep/01_egoamp_-_the_cabinet_edit_version.mp3",
+      "page": "https://archive.org/details/ion025_egoamp_the-cabinet-ep",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
       "title": "La Chamanita con Ali & Ramiro",
       "artist": "",
       "url": "https://archive.org/download/chamanitaaliramiro/La%20Chamanita%20con%20Ali%20y%20Ramiro/01%20Todo%20est%C3%A1%20tan%20solo%20que%20me%20da%20miedo.mp3",
       "page": "https://archive.org/details/chamanitaaliramiro",
       "license": "Creative Commons"
+    },
+    {
+      "title": "Nerve Breaks 004",
+      "artist": "Paul Reset, Noisy Minority, remix from Hoista",
+      "url": "https://archive.org/download/NerveBreaks004/PaulReset-Crisis.mp3",
+      "page": "https://archive.org/details/NerveBreaks004",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "DIENSTbar @ dfm.nu Transmission No. 64 Special Guest: ?Alos",
+      "artist": "Ohmnoise",
+      "url": "https://archive.org/download/dbdfmnu64/dbdfmnu64.mp3",
+      "page": "https://archive.org/details/dbdfmnu64",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "[ISOR009] Accortiste",
+      "artist": "Charles Eric Charrier",
+      "url": "https://archive.org/download/isor009Accortiste/01.CharlesEricCharrier-Tidine.mp3",
+      "page": "https://archive.org/details/isor009Accortiste",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "BH055 - Cruize Of Fiction - Weltschmertz",
+      "artist": "Cruize Of Fiction",
+      "url": "https://archive.org/download/bh055/01-cruize_of_fiction-weltschmertz_vbr.mp3",
+      "page": "https://archive.org/details/bh055",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/hu/"
     }
   ]
 }
