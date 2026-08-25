@@ -1,126 +1,124 @@
 {
-  "updated": "2026-08-24T21:28:31+00:00",
+  "updated": "2026-08-25T01:13:46+00:00",
   "leetcode": {
-    "date": "2026-08-24",
-    "id": "1872",
-    "title": "Stone Game VIII",
-    "titleEn": "Stone Game VIII",
-    "slug": "stone-game-viii",
-    "difficulty": "Hard",
+    "date": "2026-08-25",
+    "id": "3718",
+    "title": "Smallest Missing Multiple of K",
+    "titleEn": "Smallest Missing Multiple of K",
+    "slug": "smallest-missing-multiple-of-k",
+    "difficulty": "Easy",
     "tags": [
       "Array",
-      "Math",
-      "Dynamic Programming",
-      "Minimax"
+      "Hash Table"
     ],
-    "link": "https://leetcode.com/problems/stone-game-viii/",
+    "link": "https://leetcode.com/problems/smallest-missing-multiple-of-k/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Brochfael ap Meurig",
-    "text": "Brochfael ap Meurig was king of Gwent in south-east Wales. He ruled jointly with his brother, Ffernfael ap Meurig. Gwent and Glywysing, the neighbouring territory to the west, were ruled as a single kingdom in some periods; at other times they were separate and the king of Glywysing had the higher status. Brochfael's father, Meurig ab Arthfael, ruled both territories with the title King of Glywysing, but Brochfael and Ffernfael were only kings of Gwent, and had a lower status than their cousin Hywel ap Rhys, King of Glywysing.",
-    "words": 89,
-    "url": "https://en.wikipedia.org/wiki/Brochfael_ap_Meurig",
-    "date": "2026-08-24",
+    "title": "Well-being",
+    "text": "Well-being is what is non-instrumentally good for a person. Also called welfare and quality of life, it is a measure of how well life is going for someone. In the broadest sense, it covers the balance of all positive and negative aspects of a person's life. More narrowly, it refers only to positive degrees and contrasts with ill-being, which denotes negative ones. In this sense, well-being is what egoists typically seek for themselves and altruists aim to enhance in others, serving as a central goal of many individual and societal endeavors.",
+    "words": 91,
+    "url": "https://en.wikipedia.org/wiki/Well-being",
+    "date": "2026-08-25",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "American Frontier",
-    "creator": "Affiliated Film Producers",
-    "year": "1953",
-    "url": "https://archive.org/download/0007_American_Frontier_07_30_37_00/0007_American_Frontier_07_30_37_00_3mb.mp4",
-    "page": "https://archive.org/details/0007_American_Frontier_07_30_37_00",
-    "date": "2026-08-24",
+    "title": "Where the Mountains Meet the Sea (Part II)",
+    "creator": "Concord Company",
+    "year": "1959",
+    "url": "https://archive.org/download/Wherethe1959_2/Wherethe1959_2_512kb.mp4",
+    "page": "https://archive.org/details/Wherethe1959_2",
+    "date": "2026-08-25",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "India del Espacio - Cadenas de Agüero",
+      "title": "Mika Björklund - Gunkanjima [wh069]",
+      "artist": "Mika Bjorklund",
+      "url": "https://archive.org/download/wh069/Mika_Bjorklund_-_01_-_Birds_in_fog.mp3",
+      "page": "https://archive.org/details/wh069",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
+    },
+    {
+      "title": "King Spooky Pickles - Destruction of the Anti-Pickle",
+      "artist": "King Spooky Pickles",
+      "url": "https://archive.org/download/KingSpookyPickles_DestructionOfTheAntiPickle/King%20Spooky%20Pickles%20-%20Destruction%20of%20the%20Anti-Pickle%2001%20Jam%20Session.mp3",
+      "page": "https://archive.org/details/KingSpookyPickles_DestructionOfTheAntiPickle",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Remembering The Comet",
+      "artist": "Yoshiwaku",
+      "url": "https://archive.org/download/yoshiwaku-remembering-the-comet/YOSHIWAKU%20-%20Remembering%20The%20Comet%20-%2001%20Chasing%20A%20Rainbow%20Part%201.mp3",
+      "page": "https://archive.org/details/yoshiwaku-remembering-the-comet",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "title": "Kelly Kemp - Kelly Kemp",
+      "artist": "Kelly Kemp",
+      "url": "https://archive.org/download/KellyKemp-KellyKemp/01%20Man%20Not%20a%20Woman.mp3",
+      "page": "https://archive.org/details/KellyKemp-KellyKemp",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "[AMR354] August 8th 2010",
+      "artist": "Shadows on the Snow",
+      "url": "https://archive.org/download/amr354August8th2010/August8th2010.mp3",
+      "page": "https://archive.org/details/amr354August8th2010",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+    },
+    {
+      "title": "Doo dOO DoOoOo",
+      "artist": "Chris Howard",
+      "url": "https://archive.org/download/DooDooDooooo/VORC010.mp3",
+      "page": "https://archive.org/details/DooDooDooooo",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/us/"
+    },
+    {
+      "title": "VBR Podcast #12",
+      "artist": "Banyek",
+      "url": "https://archive.org/download/vbr012/vbr_012.mp3",
+      "page": "https://archive.org/details/vbr012",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
+    },
+    {
+      "title": "323DIYChurch_WestGermany_10092016_outside earth music",
+      "artist": "G:O:D",
+      "url": "https://archive.org/download/323DIYChurch/MadeIn_WestGermany10092016.mp3",
+      "page": "https://archive.org/details/323DIYChurch",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "title": "Vincent Bergeron - Casse-tete de l'Existence [wh056]",
+      "artist": "Vincent Bergeron",
+      "url": "https://archive.org/download/wh056/wh056_01_lanaissance.MP3",
+      "page": "https://archive.org/details/wh056",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
+    },
+    {
+      "title": "[FNet060] Plutonium Telecom - The Devils Mistake",
+      "artist": "Plutonium Telecom",
+      "url": "https://archive.org/download/FNet060/01.IN.mp3",
+      "page": "https://archive.org/details/FNet060",
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
+    },
+    {
+      "title": "Switchboard Of Souls - Shaken Dreams [qd-4228]",
+      "artist": "Christopher Quintos",
+      "url": "https://archive.org/download/qd-4228-sos/qd-4228-Switchboard_Of_Souls--01-The_Awakening.mp3",
+      "page": "https://archive.org/details/qd-4228-sos",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "DaP Station Podcast 1 (transmission one) by ABF",
       "artist": "",
-      "url": "https://archive.org/download/cadenasdeaguero/Cadenas%20de%20Ag%C3%BCero/01%20Narciartistas.mp3",
-      "page": "https://archive.org/details/cadenasdeaguero",
+      "url": "https://archive.org/download/DapStationPodcast1transmissionOneByAbf/DapStationTransmisionOne.mp3",
+      "page": "https://archive.org/details/DapStationPodcast1transmissionOneByAbf",
       "license": "Creative Commons"
-    },
-    {
-      "title": "QuTAPE_Per Giacinto scelsi Sergio Maltagliati per una sola nota 4/5",
-      "artist": "Sergio Maltagliati",
-      "url": "https://archive.org/download/Qutape_perGiacintoScelsiSergioMaltagliatiPerUnaSolaNota45/latoA_4-5.mp3",
-      "page": "https://archive.org/details/Qutape_perGiacintoScelsiSergioMaltagliatiPerUnaSolaNota45",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/it/"
-    },
-    {
-      "title": "[inr008cd]Monoceros_-_I feel apocalyptic today",
-      "artist": "Monoceros",
-      "url": "https://archive.org/download/inr008cd_monoceros_-_i_feel_apocalyptic_today/01_monoceros_-_moment_of_light_vbr.mp3",
-      "page": "https://archive.org/details/inr008cd_monoceros_-_i_feel_apocalyptic_today",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "La Chamanita con Ali & Ramiro",
-      "artist": "",
-      "url": "https://archive.org/download/chamanitaaliramiro/La%20Chamanita%20con%20Ali%20y%20Ramiro/01%20Todo%20est%C3%A1%20tan%20solo%20que%20me%20da%20miedo.mp3",
-      "page": "https://archive.org/details/chamanitaaliramiro",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "BernieLomax - Massage",
-      "artist": "BernieLomax",
-      "url": "https://archive.org/download/bernielomax-massage/massage.mp3",
-      "page": "https://archive.org/details/bernielomax-massage",
-      "license": "http://creativecommons.org/licenses/by-nc/1.0/"
-    },
-    {
-      "title": "BH038EP - Alex Key - Hellen Ep",
-      "artist": "Alex Key",
-      "url": "https://archive.org/download/bh038ep/01-alex_key-hellen_vbr.mp3",
-      "page": "https://archive.org/details/bh038ep",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/hu/"
-    },
-    {
-      "title": "Roma Laptop Orchestra - Live Improvisation (Stato Elettrico)",
-      "artist": "Stato Elettrico",
-      "url": "https://archive.org/download/RomaLaptopOrchestraLiveImprovvisation/Roma%20Laptop%20Orchestra%20-%20Live%20Improvvisation%20Part%201.mp3",
-      "page": "https://archive.org/details/RomaLaptopOrchestraLiveImprovvisation",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Qualmy",
-      "artist": "Turkey Makes Me Sleepy",
-      "url": "https://archive.org/download/Qualmy/01Disquietude25Oct97.mp3",
-      "page": "https://archive.org/details/Qualmy",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "[insubcdr05] DIATRIBES+JACQUES DEMIERRE+JOHANN BOURQUENEZ piano(s)",
-      "artist": "DIATRIBES+JACQUES DEMIERRE+JOHANN BOURQUENEZ",
-      "url": "https://archive.org/download/insubcdr05DiatribesjacquesDemierrejohannBourquenezPianos/insubcdr0501_diatribesdemierrebourquenez-Tornade.mp3",
-      "page": "https://archive.org/details/insubcdr05DiatribesjacquesDemierrejohannBourquenezPianos",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/ch/"
-    },
-    {
-      "title": "The Dropcast - 1/11/08 - Episode 3: The Verbs",
-      "artist": "LemonDrop Records",
-      "url": "https://archive.org/download/dropcast_1-11-08/DropcastEpisode3-TheVerbs.mp3",
-      "page": "https://archive.org/details/dropcast_1-11-08",
-      "license": "http://creativecommons.org/licenses/by-nc/3.0/us/"
-    },
-    {
-      "title": "DJ 4RCA$H - x SOFM (Single) (2018)",
-      "artist": "DJ 4RCA$H",
-      "url": "https://archive.org/download/IBR_770/01.%20x%20SOFM.mp3",
-      "page": "https://archive.org/details/IBR_770",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "VA * .altered.statez.",
-      "artist": "cOmaRecOrdz",
-      "url": "https://archive.org/download/Va.altered.statez_110/01-nebulist-still_Remainzremix.mp3",
-      "page": "https://archive.org/details/Va.altered.statez_110",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     }
   ]
 }
