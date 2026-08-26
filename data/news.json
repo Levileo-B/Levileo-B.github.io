@@ -1,11 +1,16 @@
 {
-  "updated": "2026-08-26T12:51:26+00:00",
+  "updated": "2026-08-26T16:17:28+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "西藏—尼泊爾邊境山洪暴發 數百人失蹤包括多國遊客",
+          "link": "https://www.bbc.com/zhongwen/articles/cwyzlnde773o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-26T15:41:22+00:00"
+        },
         {
           "title": "「甲醛白菜」再現中國：食品安全監管的盲區在哪裡？",
           "link": "https://www.bbc.com/zhongwen/articles/ce3rz7xxr04o/trad?at_medium=RSS&at_campaign=rss",
@@ -22,14 +27,9 @@
           "date": "2026-08-26T06:12:27+00:00"
         },
         {
-          "title": "美國制裁伊朗經濟新措施 為何對中國「鬆手」？",
-          "link": "https://www.bbc.com/zhongwen/articles/cwyz7eenrz1o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-25T16:53:04+00:00"
-        },
-        {
-          "title": "美國再次制裁伊朗能成功向德黑蘭政權施壓嗎？",
-          "link": "https://www.bbc.com/zhongwen/articles/ckg8v11revgo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-26T07:35:58+00:00"
+          "title": "鄉村音樂女王Dolly Parton逝世：六首名曲訴說生命故事",
+          "link": "https://www.bbc.com/zhongwen/articles/cly52qy9nq2o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-26T10:25:24+00:00"
         }
       ]
     },
@@ -39,9 +39,19 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
+          "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-26T11:32:11+00:00"
+        },
+        {
           "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
           "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-26T12:32:47+00:00"
+          "date": "2026-08-26T14:42:03+00:00"
+        },
+        {
+          "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
+          "link": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-26T15:42:45+00:00"
         },
         {
           "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -49,19 +59,9 @@
           "date": "2026-08-25T19:50:57+00:00"
         },
         {
-          "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
-          "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-26T11:02:22+00:00"
-        },
-        {
-          "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
-          "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-26T08:17:45+00:00"
-        },
-        {
-          "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
-          "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-26T08:01:56+00:00"
+          "title": "Radiation link in flight attendant's breast cancer, French court finds",
+          "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-26T10:29:36+00:00"
         }
       ]
     },
@@ -81,19 +81,19 @@
           "date": "2026-08-26T10:10:33+00:00"
         },
         {
+          "title": "Meta agrees to pay up to $18bn to settle social media case",
+          "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-08-26T14:10:17+00:00"
+        },
+        {
           "title": "Reform proposes £30 tax rebate for HMRC phone delays",
           "link": "https://www.bbc.co.uk/news/articles/c804rd7leppo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-26T12:39:37+00:00"
+          "date": "2026-08-26T14:41:02+00:00"
         },
         {
-          "title": "How parents can save on costs as the new school year starts",
+          "title": "Back to school: How parents can save on uniform costs",
           "link": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
           "date": "2026-08-25T23:08:31+00:00"
-        },
-        {
-          "title": "Musk's rocket firm SpaceX to build $100bn launch facility",
-          "link": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-08-26T01:32:07+00:00"
         }
       ]
     },
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
+          "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
+          "link": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
+          "date": "2026-08-26T16:13:28+00:00"
+        },
+        {
+          "title": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause",
+          "link": "https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html",
+          "date": "2026-08-26T14:31:02+00:00"
+        },
+        {
+          "title": "Fed, NASA and DOJ among victims of Chinese state-sponsored hacker group: Court documents",
+          "link": "https://www.cnbc.com/2026/08/26/china-hacker-federal-reserve-doj-nasa.html",
+          "date": "2026-08-26T16:02:47+00:00"
+        },
+        {
+          "title": "Lost in limbo: Where the Paramount merger delay leaves WBD, and what may come next",
+          "link": "https://www.cnbc.com/2026/08/26/paramount-merger-delay-wbd-limbo.html",
+          "date": "2026-08-26T14:31:47+00:00"
+        },
+        {
           "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
           "link": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html",
-          "date": "2026-08-26T12:49:11+00:00"
-        },
-        {
-          "title": "Mark Walter's TWG Global blasts 'attacks,' insists 'no fraud' amid federal probe",
-          "link": "https://www.cnbc.com/2026/08/26/mark-walter-twg-guggenheim-lakers.html",
-          "date": "2026-08-26T12:48:40+00:00"
-        },
-        {
-          "title": "Hyundai has grown more than any automaker in the U.S. — and it's not done yet",
-          "link": "https://www.cnbc.com/2026/08/26/hyundai-sales-us-investment.html",
-          "date": "2026-08-26T12:00:01+00:00"
-        },
-        {
-          "title": "Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman",
-          "link": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
-          "date": "2026-08-26T12:26:08+00:00"
-        },
-        {
-          "title": "Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling",
-          "link": "https://www.cnbc.com/2026/08/26/medical-device-maker-boston-scientific-is-being-hit-by-a-cyber-attack-the-shares-are-falling.html",
-          "date": "2026-08-26T12:48:51+00:00"
+          "date": "2026-08-26T13:35:50+00:00"
         }
       ]
     },
@@ -199,6 +199,21 @@
       "url": "https://www.solidot.org/index.rss",
       "items": [
         {
+          "title": "澳大利亚是地球最安全的地方",
+          "link": "https://www.solidot.org/story?sid=85204",
+          "date": "2026-08-26T15:30:14+00:00"
+        },
+        {
+          "title": "美国报告今年的首例麻疹死亡病例",
+          "link": "https://www.solidot.org/story?sid=85203",
+          "date": "2026-08-26T14:32:23+00:00"
+        },
+        {
+          "title": "中尼吉隆口岸泥石流灾害数百人失踪",
+          "link": "https://www.solidot.org/story?sid=85202",
+          "date": "2026-08-26T13:43:56+00:00"
+        },
+        {
           "title": "月之暗面与微软、亚马逊和 Google 协商收益分成协议",
           "link": "https://www.solidot.org/story?sid=85201",
           "date": "2026-08-26T09:30:20+00:00"
@@ -207,21 +222,6 @@
           "title": "OpenAI 首款自研推理芯片 Jalapeño 强于英伟达 Blackwell",
           "link": "https://www.solidot.org/story?sid=85200",
           "date": "2026-08-26T09:13:33+00:00"
-        },
-        {
-          "title": "芬兰准备启用全球首座核废料最终处置场",
-          "link": "https://www.solidot.org/story?sid=85199",
-          "date": "2026-08-26T08:21:48+00:00"
-        },
-        {
-          "title": "全球海洋表面温度创历史最高水平",
-          "link": "https://www.solidot.org/story?sid=85198",
-          "date": "2026-08-26T07:45:48+00:00"
-        },
-        {
-          "title": "新西兰提出法案禁止 16 岁以下儿童使用社媒和 AI 陪伴服务",
-          "link": "https://www.solidot.org/story?sid=85197",
-          "date": "2026-08-26T06:26:46+00:00"
         }
       ]
     },
@@ -231,29 +231,29 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
-          "title": "Rockstar finally responds to &#8216;heartbreaking&#8217; GTA 6 leaks",
-          "link": "https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking",
-          "date": "2026-08-26T12:04:15+00:00"
+          "title": "Apple announces September iPhone launch event",
+          "link": "https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date",
+          "date": "2026-08-26T16:13:32+00:00"
         },
         {
-          "title": "The second-generation Bose QuietComfort Headphones are good, but don’t stand out",
-          "link": "https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review",
-          "date": "2026-08-26T01:42:35+00:00"
+          "title": "Volvo’s cars will warn one another about hazards in the road",
+          "link": "https://www.theverge.com/transportation/985070/volvo-connected-safety-hazard-alert-animal-cyclist",
+          "date": "2026-08-26T15:28:14+00:00"
         },
         {
-          "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
-          "date": "2026-08-26T12:10:30+00:00"
+          "title": "Xbox announces disc-to-digital feature that digitizes your physical games",
+          "link": "https://www.theverge.com/tech/984936/xbox-disc-to-digital-feature-official",
+          "date": "2026-08-26T14:31:10+00:00"
         },
         {
-          "title": "Ikea’s Xbox collection includes a giant thumbstick stool",
-          "link": "https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool",
-          "date": "2026-08-26T11:06:50+00:00"
+          "title": "Microsoft’s 25th anniversary Xbox will cost $899",
+          "link": "https://www.theverge.com/games/985003/microsoft-xbox-25th-anniversary-console-price",
+          "date": "2026-08-26T14:21:49+00:00"
         },
         {
-          "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
-          "link": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
-          "date": "2026-08-25T22:23:04+00:00"
+          "title": "Elden Ring on the Switch 2 isn&#8217;t tarnished",
+          "link": "https://www.theverge.com/entertainment/983307/elden-ring-nintendo-switch-2-review",
+          "date": "2026-08-21T17:43:17+00:00"
         }
       ]
     },
@@ -263,29 +263,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Court blocks Trump FCC order that could flood broadcast TV with more election ads",
+          "link": "https://arstechnica.com/tech-policy/2026/08/court-blocks-trump-fcc-order-that-could-flood-broadcast-tv-with-more-election-ads/",
+          "date": "2026-08-26T15:45:07+00:00"
+        },
+        {
+          "title": "Researchers get two genetic codes to work at the same time",
+          "link": "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/",
+          "date": "2026-08-26T15:00:34+00:00"
+        },
+        {
+          "title": "15,000 years of solar wind in four hours? A Seattle company gives it a go.",
+          "link": "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/",
+          "date": "2026-08-26T14:14:52+00:00"
+        },
+        {
+          "title": "Psychiatry’s diagnostic bible is finally getting a biological upgrade",
+          "link": "https://arstechnica.com/health/2026/08/psychiatrys-diagnostic-bible-is-finally-getting-a-biological-upgrade/",
+          "date": "2026-08-26T13:53:32+00:00"
+        },
+        {
           "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
           "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
           "date": "2026-08-26T11:10:49+00:00"
-        },
-        {
-          "title": "Xtracycle's Swoop ASM e-bike brings an automatic transmission to cargo bikes",
-          "link": "https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/",
-          "date": "2026-08-26T11:00:12+00:00"
-        },
-        {
-          "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
-          "link": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
-          "date": "2026-08-25T22:21:06+00:00"
-        },
-        {
-          "title": "World humanoid robot games show runners breaking records, bursting into flames",
-          "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
-          "date": "2026-08-25T20:59:03+00:00"
-        },
-        {
-          "title": "Preserving glow-in-the-dark art and fashion for future generations",
-          "link": "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
-          "date": "2026-08-25T18:59:12+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Omarchy is full of security holes",
-          "link": "https://blog.happyfellow.dev/merchants-of-insecurity/",
-          "date": "2026-08-26T12:17:43+00:00"
+          "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
+          "link": "https://www.risklytics.ai/",
+          "date": "2026-08-26T16:06:01+00:00"
         },
         {
-          "title": "Proliferate (YC S25) Is Hiring",
-          "link": "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer",
-          "date": "2026-08-26T12:00:07+00:00"
+          "title": "It's so hard to finish an idea that is not yours (and suggested by AI)",
+          "link": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+          "date": "2026-08-26T15:30:05+00:00"
         },
         {
-          "title": "U.S. gov't moves to suppress pushback on data centers",
-          "link": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
-          "date": "2026-08-26T10:44:40+00:00"
+          "title": "Disruption with Some GitHub Services",
+          "link": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
+          "date": "2026-08-26T15:19:40+00:00"
         },
         {
-          "title": "Debian polls its developers on AI: permit or ban?",
-          "link": "https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270",
-          "date": "2026-08-26T10:31:37+00:00"
+          "title": "Show HN: TexLite – A lightweight self-hosted LaTeX workspace",
+          "link": "https://github.com/SWUFE-DB-Group/TexLite",
+          "date": "2026-08-26T15:07:44+00:00"
         },
         {
-          "title": "Beyond Recall and the Illusion of Competence",
-          "link": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
-          "date": "2026-08-26T10:07:02+00:00"
+          "title": "Nebula Sans",
+          "link": "https://www.nebulasans.com",
+          "date": "2026-08-26T15:03:52+00:00"
         }
       ]
     },
@@ -332,24 +332,24 @@
           "date": "2026-08-25T16:52:46+00:00"
         },
         {
-          "title": "I stabilized never type",
-          "link": "https://blog.ihatereality.space/0C-never-type/",
-          "date": "2026-08-25T15:11:30+00:00"
-        },
-        {
-          "title": "C2PA Cameras Do Not Survive Contact With Reality",
-          "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-          "date": "2026-08-25T15:51:24+00:00"
-        },
-        {
           "title": "Casey Muratori – The Root of The Root of All Evil – BSC 2026",
           "link": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
           "date": "2026-08-26T07:55:34+00:00"
         },
         {
+          "title": "I stabilized never type",
+          "link": "https://blog.ihatereality.space/0C-never-type/",
+          "date": "2026-08-25T15:11:30+00:00"
+        },
+        {
           "title": "mold: A Massively Parallel Linker",
           "link": "https://arxiv.org/abs/2608.23228",
           "date": "2026-08-26T05:09:52+00:00"
+        },
+        {
+          "title": "C2PA Cameras Do Not Survive Contact With Reality",
+          "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+          "date": "2026-08-25T15:51:24+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享创造] 别装清纯了，来测测你有多清纯。",
-          "link": "https://www.v2ex.com/t/1237459#reply0",
-          "date": "2026-08-26T12:43:50+00:00"
+          "title": "[分享创造] 搞了个帮中文学习者学习如何规范的写汉字的产品",
+          "link": "https://www.v2ex.com/t/1237492#reply0",
+          "date": "2026-08-26T16:05:36+00:00"
         },
         {
-          "title": "[推广] CDN3900U/P Ai 模型最低至 4 折 阿里腾讯华为火山国内站 7 折 阿里国际/AWS/GCP 可至 65 折 腾讯国际 55 折 欢迎咨询",
-          "link": "https://www.v2ex.com/t/1237458#reply0",
-          "date": "2026-08-26T12:30:57+00:00"
+          "title": "[推广] ChatGPT Plus 充值只需要 149 元！",
+          "link": "https://www.v2ex.com/t/1237491#reply0",
+          "date": "2026-08-26T15:40:16+00:00"
         },
         {
-          "title": "[推广] Embossing Rollers / Embossing Cylinders Anilox Rollers Paper Printing Rollers",
-          "link": "https://www.v2ex.com/t/1237456#reply0",
-          "date": "2026-08-26T12:21:43+00:00"
+          "title": "[问与答] 10 人以内小团队，代理和终端管理方案",
+          "link": "https://www.v2ex.com/t/1237490#reply0",
+          "date": "2026-08-26T15:35:30+00:00"
         },
         {
-          "title": "[推广] leaflet-mark-view：免费的 Chrome markdow 文档预览插件",
-          "link": "https://www.v2ex.com/t/1237455#reply0",
-          "date": "2026-08-26T12:14:01+00:00"
+          "title": "[分享创造] 做了个内容分享的工具网站，可以直接分享文件，也可以制作自定义的页面",
+          "link": "https://www.v2ex.com/t/1237489#reply0",
+          "date": "2026-08-26T15:30:35+00:00"
         },
         {
-          "title": "[分享创造] Like·AI 大模型中转站，主打不掺水、低倍率、超稳定",
-          "link": "https://www.v2ex.com/t/1237453#reply0",
-          "date": "2026-08-26T12:01:32+00:00"
+          "title": "[PayPal] paypal 提现可以填入中国大陆的银行吗.",
+          "link": "https://www.v2ex.com/t/1237488#reply3",
+          "date": "2026-08-26T15:18:59+00:00"
         }
       ]
     },
@@ -605,29 +605,29 @@
       "url": "https://www.nature.com/nature.rss",
       "items": [
         {
-          "title": "South Africa’s ‘registration law’ for scientists could be a template for the world — if the nation gets it right",
-          "link": "https://www.nature.com/articles/d41586-026-02568-4",
+          "title": "Highest-ever ocean temperatures recorded as El Niño intensifies",
+          "link": "https://www.nature.com/articles/d41586-026-02681-4",
           "date": "2026-08-26T00:00:00+00:00"
         },
         {
-          "title": "The baffling science of SSRIs: how do they really work?",
-          "link": "https://www.nature.com/articles/d41586-026-02570-w",
+          "title": "Using nuclear waste to power space missions",
+          "link": "https://www.nature.com/articles/d41586-026-02514-4",
           "date": "2026-08-26T00:00:00+00:00"
         },
         {
-          "title": "Like coffee and ice cream: an interview with Sam and Eli Morten",
-          "link": "https://www.nature.com/articles/d41586-026-02412-9",
+          "title": "Automated prototyping of genetic codes",
+          "link": "https://www.nature.com/articles/s41586-026-10949-y",
           "date": "2026-08-26T00:00:00+00:00"
         },
         {
-          "title": "Addendum: Sea level much higher than assumed in most coastal hazard assessments",
-          "link": "https://www.nature.com/articles/s41586-026-11017-1",
-          "date": "2026-08-25T00:00:00+00:00"
+          "title": "Insights into longevity and virus-driven adaptation from <i>Myotis</i> bat genomes",
+          "link": "https://www.nature.com/articles/s41586-026-10932-7",
+          "date": "2026-08-26T00:00:00+00:00"
         },
         {
-          "title": "Amend copyright licences to halt AI misuse and reassert human control",
-          "link": "https://www.nature.com/articles/d41586-026-02633-y",
-          "date": "2026-08-25T00:00:00+00:00"
+          "title": "Systems vaccinology and the architecture of human immunity",
+          "link": "https://www.nature.com/articles/s41586-026-10753-8",
+          "date": "2026-08-26T00:00:00+00:00"
         }
       ]
     },
@@ -637,29 +637,29 @@
       "url": "https://www.sciencedaily.com/rss/all.xml",
       "items": [
         {
+          "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm",
+          "date": "2026-08-26T13:00:53+00:00"
+        },
+        {
+          "title": "Manhattan-sized ice island breaks off Greenland’s Petermann Glacier",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260826055503.htm",
+          "date": "2026-08-26T12:39:11+00:00"
+        },
+        {
+          "title": "190-year-old DNA reveals a hidden pangolin species",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260826055500.htm",
+          "date": "2026-08-26T12:46:59+00:00"
+        },
+        {
+          "title": "NASA’s Roman Space Telescope is ready to hunt thousands of alien worlds",
+          "link": "https://www.sciencedaily.com/releases/2026/08/260826055448.htm",
+          "date": "2026-08-26T10:29:17+00:00"
+        },
+        {
           "title": "Common medications may change your gut for years",
           "link": "https://www.sciencedaily.com/releases/2026/08/260824065605.htm",
           "date": "2026-08-24T13:14:50+00:00"
-        },
-        {
-          "title": "Atomic catalyst unlocks the hidden value of plant waste",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260824065601.htm",
-          "date": "2026-08-25T10:09:15+00:00"
-        },
-        {
-          "title": "Three forgotten kings could rewrite the history of ancient Assyria",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260824065549.htm",
-          "date": "2026-08-26T01:20:06+00:00"
-        },
-        {
-          "title": "Supercharged “natural killer” cells could be a powerful new cancer weapon",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260824065546.htm",
-          "date": "2026-08-25T12:56:22+00:00"
-        },
-        {
-          "title": "Bird flu is spreading. Your backyard feeder could make it worse",
-          "link": "https://www.sciencedaily.com/releases/2026/08/260824065519.htm",
-          "date": "2026-08-24T12:49:08+00:00"
         }
       ]
     }
