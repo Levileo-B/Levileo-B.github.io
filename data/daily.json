@@ -1,54 +1,84 @@
 {
-  "updated": "2026-08-26T19:46:58+00:00",
+  "updated": "2026-08-27T00:29:06+00:00",
   "leetcode": {
-    "date": "2026-08-26",
-    "id": "2904",
-    "title": "Shortest and Lexicographically Smallest Beautiful String",
-    "titleEn": "Shortest and Lexicographically Smallest Beautiful String",
-    "slug": "shortest-and-lexicographically-smallest-beautiful-string",
+    "date": "2026-08-27",
+    "id": "3720",
+    "title": "Lexicographically Smallest Permutation Greater Than Target",
+    "titleEn": "Lexicographically Smallest Permutation Greater Than Target",
+    "slug": "lexicographically-smallest-permutation-greater-than-target",
     "difficulty": "Medium",
     "tags": [
+      "Hash Table",
       "String",
-      "Sliding Window"
+      "Greedy",
+      "Counting"
     ],
-    "link": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/",
+    "link": "https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "The Real Adventures of Jonny Quest",
-    "text": "The Real Adventures of Jonny Quest is an American animated television series produced by Hanna-Barbera Cartoons and broadcast on Cartoon Network from August 26, 1996, to April 16, 1997. It is a continuation of Jonny Quest (1964) and The New Adventures of Jonny Quest (1986) and features teenage adventurers Jonny Quest, Hadji Singh, and Jessie Bannon as they accompany Dr. Benton Quest and bodyguard Race Bannon to investigate strange phenomena, legends, and mysteries in exotic locales. Action also takes place in the virtual realm of QuestWorld, a three-dimensional cyberspace domain rendered with computer animation. Conceived in the early 1990s, Real Adventures suffered a long and troubled development.",
-    "words": 107,
-    "url": "https://en.wikipedia.org/wiki/The_Real_Adventures_of_Jonny_Quest",
-    "date": "2026-08-26",
+    "title": "Assassination of Lord Mountbatten",
+    "text": "Lord Mountbatten, a retired British statesman and cousin to Queen Elizabeth II, was assassinated on 27 August 1979 off the coast of Mullaghmore, Ireland. Thomas McMahon, an Irish republican and a volunteer for the Provisional Irish Republican Army (IRA), planted a bomb on Mountbatten's boat, the cabin cruiser Shadow V, during Mountbatten's annual summer trip to Classiebawn Castle, his house on the Mullaghmore Peninsula.",
+    "words": 64,
+    "url": "https://en.wikipedia.org/wiki/Assassination_of_Lord_Mountbatten",
+    "date": "2026-08-27",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Home Movie: 097405",
+    "title": "Behind The Headlines Reel 1 B",
     "creator": "",
     "year": "",
-    "url": "https://archive.org/download/203969_Home_Movie_097405/203969_Home_Movie_097405_master.intros.mp4",
-    "page": "https://archive.org/details/203969_Home_Movie_097405",
-    "date": "2026-08-26",
+    "url": "https://archive.org/download/rpbehindtheheadlinesreel1b/RP-Behind_the_Headlines_Reel_1B.mp4",
+    "page": "https://archive.org/details/rpbehindtheheadlinesreel1b",
+    "date": "2026-08-27",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Mammut Nel Caos - Yalùt",
-      "artist": "Mammut Nel Caos",
-      "url": "https://archive.org/download/mnc_yalut_202201/1.%20Unotre.mp3",
-      "page": "https://archive.org/details/mnc_yalut_202201",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "Matter Of Fact Live at Darfurfest Millstone Farm Davidson, NC",
+      "artist": "",
+      "url": "https://archive.org/download/mof2009-04-25/01.mp3",
+      "page": "https://archive.org/details/mof2009-04-25",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
     },
     {
-      "title": "n0epcd11/05 - D-JET - MouvementNouveau",
-      "artist": "Alexander Lisovsky",
-      "url": "https://archive.org/download/n0epcd1105/01-Radiobog.mp3",
-      "page": "https://archive.org/details/n0epcd1105",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
+      "title": "Broken Equipment",
+      "artist": "Dawn Of Twilight",
+      "url": "https://archive.org/download/nolimit002/01-Broken_Equipment.mp3",
+      "page": "https://archive.org/details/nolimit002",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Worst-Case Scenarios",
+      "artist": "",
+      "url": "https://archive.org/download/img014/01DanielKemp-Experiment1.mp3",
+      "page": "https://archive.org/details/img014",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "microbio04",
+      "artist": "Microbio",
+      "url": "https://archive.org/download/microbio04/m_04-01.mp3",
+      "page": "https://archive.org/details/microbio04",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "This ain't Punk Rock",
+      "artist": "Spoweck",
+      "url": "https://archive.org/download/pc007/pc007yu/almohadilla.mp3",
+      "page": "https://archive.org/details/pc007",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/"
+    },
+    {
+      "title": "[norbu17] hi! – 23:32",
+      "artist": "hi!",
+      "url": "https://archive.org/download/norbu17/norbu17_01_-_hi_-_so_many_beautiful_colors.mp3",
+      "page": "https://archive.org/details/norbu17",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
       "title": "Voy a Buscarte E.P.",
@@ -58,45 +88,24 @@
       "license": "http://creativecommons.org/licenses/by-nd/3.0/"
     },
     {
-      "title": "Raspad Atoma - Obscuration",
-      "artist": "Raspad Atoma",
-      "url": "https://archive.org/download/nbk015_raspad_atoma-obscuration-2008/01_-_Raspad_Atoma_-_Evening_Felt.mp3",
-      "page": "https://archive.org/details/nbk015_raspad_atoma-obscuration-2008",
+      "title": "FC/DC - Всё, что я хочу! (2013) [MNMN203]",
+      "artist": "FC/DC",
+      "url": "https://archive.org/download/mnmn-records_yandex_03./01.%20%D1%82%D1%80%D0%B8%D0%BF.mp3",
+      "page": "https://archive.org/details/mnmn-records_yandex_03.",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "[moment_002] Lokua - Trails",
-      "artist": "Lokua",
-      "url": "https://archive.org/download/moment_002/01-AThousandPages.mp3",
-      "page": "https://archive.org/details/moment_002",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "(PCR 108) Pasquale Maassen - Esta Rumba",
+      "artist": "Pasquale Maassen",
+      "url": "https://archive.org/download/pcr-108-pasquale-maassen-esta-rumba/%28PCR108%29%2001.%20Pasquale%20Maassen%20-%20Esta%20Rumba_Esta%20Rumba.mp3",
+      "page": "https://archive.org/details/pcr-108-pasquale-maassen-esta-rumba",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "Cubenx-01-01-07",
-      "artist": "Cubenx",
-      "url": "https://archive.org/download/Cubenx-01-01-07/Cubenx-01-01-07.mp3",
-      "page": "https://archive.org/details/Cubenx-01-01-07",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Strinqulu - Ten Cases of Human Aberration [nsh058]",
-      "artist": "Strinqulu",
-      "url": "https://archive.org/download/nsh058/nsh58-01-strinqulu-lardi.mp3",
-      "page": "https://archive.org/details/nsh058",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/"
-    },
-    {
-      "title": "netaudiocharts_0208",
-      "artist": "Mogwai",
-      "url": "https://archive.org/download/netaudiocharts_0208/1_netaudiocharts_022008.mp3",
-      "page": "https://archive.org/details/netaudiocharts_0208",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/de/"
-    },
-    {
-      "title": "Worst-Case Scenarios",
-      "artist": "",
-      "url": "https://archive.org/download/img014/01DanielKemp-Experiment1.mp3",
-      "page": "https://archive.org/details/img014",
+      "title": "mrmcq29 - ExperimentFailed - Epically EP",
+      "artist": "ExperimentFailed",
+      "url": "https://archive.org/download/mrmcq29-experimentfailed-epicallyep/01-ExperimentFailed-Eclipse.mp3",
+      "page": "https://archive.org/details/mrmcq29-experimentfailed-epicallyep",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
@@ -107,18 +116,11 @@
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
-      "title": "(monoKraK164) Floating Mind \"Trouble Space\"",
-      "artist": "Floating Mind",
-      "url": "https://archive.org/download/monokrak164FloatingMindtroubleSpace/monokrak164Floatingmind_robot_in_chaos.mp3",
-      "page": "https://archive.org/details/monokrak164FloatingMindtroubleSpace",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/ch/"
-    },
-    {
-      "title": "[AMR354] August 8th 2010",
-      "artist": "Shadows on the Snow",
-      "url": "https://archive.org/download/amr354August8th2010/August8th2010.mp3",
-      "page": "https://archive.org/details/amr354August8th2010",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+      "title": "185DIYChurch_\"cybersex&scale's with @djkrokodile // SCHOOLBOYLATTE with @CHAiT \"",
+      "artist": "G.O:D",
+      "url": "https://archive.org/download/185DIYChurch/185DIYChurch_cybersex_and_scale_s_with_AT_djkrokodile_SCHOOLBOYLATTE_with_AT_CHAiT.mp3",
+      "page": "https://archive.org/details/185DIYChurch",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     }
   ]
 }
