@@ -1,43 +1,91 @@
 {
-  "updated": "2026-08-27T13:50:13+00:00",
+  "updated": "2026-08-28T00:15:28+00:00",
   "leetcode": {
-    "date": "2026-08-27",
-    "id": "3720",
-    "title": "Lexicographically Smallest Permutation Greater Than Target",
-    "titleEn": "Lexicographically Smallest Permutation Greater Than Target",
-    "slug": "lexicographically-smallest-permutation-greater-than-target",
-    "difficulty": "Medium",
+    "date": "2026-08-28",
+    "id": "3734",
+    "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
+    "titleEn": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
+    "slug": "lexicographically-smallest-palindromic-permutation-greater-than-target",
+    "difficulty": "Hard",
     "tags": [
-      "Hash Table",
+      "Two Pointers",
       "String",
-      "Greedy",
-      "Counting"
+      "Enumeration"
     ],
-    "link": "https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/",
+    "link": "https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Assassination of Lord Mountbatten",
-    "text": "Lord Mountbatten, a retired British statesman and cousin to Queen Elizabeth II, was assassinated on 27 August 1979 off the coast of Mullaghmore, Ireland. Thomas McMahon, an Irish republican and a volunteer for the Provisional Irish Republican Army (IRA), planted a bomb on Mountbatten's boat, the cabin cruiser Shadow V, during Mountbatten's annual summer trip to Classiebawn Castle, his house on the Mullaghmore Peninsula.",
-    "words": 64,
-    "url": "https://en.wikipedia.org/wiki/Assassination_of_Lord_Mountbatten",
-    "date": "2026-08-27",
+    "title": "The All-Story Magazine",
+    "text": "The All-Story Magazine was a pulp magazine founded in 1905 and published by Frank Munsey. The editor was Robert H. Davis; Thomas Newell Metcalf also worked as a managing editor for the magazine. It was published monthly until March 1914, and then switched to a weekly schedule. Munsey merged it with The Cavalier, another of his pulp magazines, in May 1914, and the title changed to All-Story Cavalier Weekly for a year. In 1920, it was merged with Munsey's Argosy; the combined magazine was retitled Argosy All-Story Weekly.",
+    "words": 88,
+    "url": "https://en.wikipedia.org/wiki/The_All-Story_Magazine",
+    "date": "2026-08-28",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "[Amos Alonzo Stagg Honored on 95th Birthday]",
-    "creator": "Universal-International Newsreel",
-    "year": "1950",
-    "url": "https://archive.org/download/AmosAlon1950/AmosAlon1950_512kb.mp4",
-    "page": "https://archive.org/details/AmosAlon1950",
-    "date": "2026-08-27",
+    "title": "Home Movie: 98552: Michigan Family",
+    "creator": "",
+    "year": "",
+    "url": "https://archive.org/download/HMMichiganFamily98552/98552.mp4",
+    "page": "https://archive.org/details/HMMichiganFamily98552",
+    "date": "2026-08-28",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
+    {
+      "title": "Matter Of Fact Live at Darfurfest Millstone Farm Davidson, NC",
+      "artist": "",
+      "url": "https://archive.org/download/mof2009-04-25/01.mp3",
+      "page": "https://archive.org/details/mof2009-04-25",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
+    },
+    {
+      "title": "Stig Inge Oy - 39 68 99 09",
+      "artist": "",
+      "url": "https://archive.org/download/pc0909-01/pc0909-01_-_stig_inge_oy_-_01_-_39_vbr.mp3",
+      "page": "https://archive.org/details/pc0909-01",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Netz Klang - Ausgabe 03.07.06",
+      "artist": "Tobi Tobsucht",
+      "url": "https://archive.org/download/netzklang-03-07-06/netzklang-03-07-06.mp3",
+      "page": "https://archive.org/details/netzklang-03-07-06",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Oval-Teen - Don't Think for a Minute [MMM014]",
+      "artist": "Oval-Teen",
+      "url": "https://archive.org/download/mmm014/01-Oval-Teen-DontThinkforaMinuteRadioEdit.mp3",
+      "page": "https://archive.org/details/mmm014",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
+    },
+    {
+      "title": "Village soundings",
+      "artist": "Adrian Newton",
+      "url": "https://archive.org/download/nocti7/track1.mp3",
+      "page": "https://archive.org/details/nocti7",
+      "license": "http://creativecommons.org/licenses/publicdomain/"
+    },
+    {
+      "title": "(monoKraK309) Floating Mind \"Intensensitiv\"",
+      "artist": "Floating Mind",
+      "url": "https://archive.org/download/monoKraK309_floatingmind_intensensitiv/%28monoKraK309%29%20FloatingMind_Chords_Machinery.mp3",
+      "page": "https://archive.org/details/monoKraK309_floatingmind_intensensitiv",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "title": "Pavo Surreal - Mi Primer Documental",
+      "artist": "",
+      "url": "https://archive.org/download/pavosurreal/Pavo%20Surreal/01%20Oficina%20Enllamada.mp3",
+      "page": "https://archive.org/details/pavosurreal",
+      "license": "Creative Commons"
+    },
     {
       "title": "Vision Anomaly - Percepción Emulada",
       "artist": "",
@@ -46,67 +94,18 @@
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "Voy a Buscarte E.P.",
-      "artist": "Cosaquitos en Globo",
-      "url": "https://archive.org/download/nrp021/nrp021_-_01_-_Cosaquitos_en_Globo_-_Dominarte.mp3",
-      "page": "https://archive.org/details/nrp021",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
-    },
-    {
-      "title": "(monoKraK164) Floating Mind \"Trouble Space\"",
+      "title": "(monoKraK313) Floating Mind \"Spiralia\"",
       "artist": "Floating Mind",
-      "url": "https://archive.org/download/monokrak164FloatingMindtroubleSpace/monokrak164Floatingmind_robot_in_chaos.mp3",
-      "page": "https://archive.org/details/monokrak164FloatingMindtroubleSpace",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/ch/"
+      "url": "https://archive.org/download/monoKraK313-FloatingMind-Spiralia/%28monoKraK313%29%20FloatingMind_Le_Retour_De_Ba%CC%82ton.mp3",
+      "page": "https://archive.org/details/monoKraK313-FloatingMind-Spiralia",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
-      "title": "Leksha - Mark EP [nsh093]",
-      "artist": "Leksha",
-      "url": "https://archive.org/download/nsh093/nsh093-01-leksha-qdsm.mp3",
-      "page": "https://archive.org/details/nsh093",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
-    },
-    {
-      "title": "[miniatura027] Loopin - Deep Blue EP",
-      "artist": "",
-      "url": "https://archive.org/download/miniatura027Loopin-DeepBlueEp/01-loopin-LiquidPhase.mp3",
-      "page": "https://archive.org/details/miniatura027Loopin-DeepBlueEp",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Mammut Nel Caos - Yalùt",
-      "artist": "Mammut Nel Caos",
-      "url": "https://archive.org/download/mnc_yalut_202201/1.%20Unotre.mp3",
-      "page": "https://archive.org/details/mnc_yalut_202201",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "illusion - detektiv 6 {rel#74}",
-      "artist": "illusion",
-      "url": "https://archive.org/download/milk-rel74/01%20-%20detektiv%206.mp3",
-      "page": "https://archive.org/details/milk-rel74",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "[AMR354] August 8th 2010",
-      "artist": "Shadows on the Snow",
-      "url": "https://archive.org/download/amr354August8th2010/August8th2010.mp3",
-      "page": "https://archive.org/details/amr354August8th2010",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
-    },
-    {
-      "title": "Nonchalant",
-      "artist": "Arzathon",
-      "url": "https://archive.org/download/nonchalant_202507/01%20-%20Mise-En-Sc%C3%A8ne.mp3",
-      "page": "https://archive.org/details/nonchalant_202507",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "Simon Geist - Simon Geist [neureal003]",
-      "artist": "",
-      "url": "https://archive.org/download/neureal003/Simon_Geist-1-jtzn_krtzn.mp3",
-      "page": "https://archive.org/details/neureal003",
-      "license": "Creative Commons"
+      "title": "[monokrak 226] Bravo Litva \"Genetic EP\"",
+      "artist": "Bravo Litva",
+      "url": "https://archive.org/download/monokrak226bravolitva_geneticEP/%5Bmonokrak226%5D%20BravoLitva_Bio_Age.mp3",
+      "page": "https://archive.org/details/monokrak226bravolitva_geneticEP",
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/"
     },
     {
       "title": "[norbu17] hi! – 23:32",
@@ -116,11 +115,11 @@
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Matter Of Fact Live at Darfurfest Millstone Farm Davidson, NC",
-      "artist": "",
-      "url": "https://archive.org/download/mof2009-04-25/01.mp3",
-      "page": "https://archive.org/details/mof2009-04-25",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
+      "title": "(monoKraK155) Airthai \"88 EP\"",
+      "artist": "Airthai",
+      "url": "https://archive.org/download/monokrak155Airthai88Ep/monokrak155Airthai_dervish.mp3",
+      "page": "https://archive.org/details/monokrak155Airthai88Ep",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/ch/"
     }
   ]
 }
