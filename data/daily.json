@@ -1,41 +1,96 @@
 {
-  "updated": "2026-08-30T23:13:38+00:00",
+  "updated": "2026-08-31T03:59:19+00:00",
   "leetcode": {
-    "date": "2026-08-30",
-    "id": "2091",
-    "title": "Removing Minimum and Maximum From Array",
-    "titleEn": "Removing Minimum and Maximum From Array",
-    "slug": "removing-minimum-and-maximum-from-array",
+    "date": "2026-08-31",
+    "id": "2058",
+    "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+    "titleEn": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+    "slug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
     "difficulty": "Medium",
     "tags": [
-      "Array",
-      "Greedy"
+      "Linked List"
     ],
-    "link": "https://leetcode.com/problems/removing-minimum-and-maximum-from-array/",
+    "link": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "1980–81 Ipswich Town F.C. season",
-    "text": "During the 1980–81 English football season, Ipswich Town F.C. competed in the Football League First Division. In one of the most successful seasons in the club's history, they finished as runners-up in the league championship, were semi-finalists in the FA Cup and won the UEFA Cup. In all, Ipswich played a total of 66 competitive games during the season, winning 37, drawing 13 and losing 16.",
-    "words": 66,
-    "url": "https://en.wikipedia.org/wiki/1980%E2%80%9381_Ipswich_Town_F.C._season",
-    "date": "2026-08-30",
+    "title": "Music Box (album)",
+    "text": "Music Box is the third studio album by American singer-songwriter Mariah Carey. It was released on August 31, 1993, by Columbia Records. In an attempt to appeal to a wider audience, Carey sought a radio-friendly approach for Music Box.",
+    "words": 39,
+    "url": "https://en.wikipedia.org/wiki/Music_Box_(album)",
+    "date": "2026-08-31",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Home Movie: 97460: Possibly in Arizona",
-    "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/HMPossiblyinArizona97460/97460.mp4",
-    "page": "https://archive.org/details/HMPossiblyinArizona97460",
-    "date": "2026-08-30",
+    "title": "Midwest Holiday (Part I)",
+    "creator": "Wilding Picture Productions, Inc.",
+    "year": "1952",
+    "url": "https://archive.org/download/MidwestH1952/MidwestH1952_512kb.mp4",
+    "page": "https://archive.org/details/MidwestH1952",
+    "date": "2026-08-31",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
+    {
+      "title": "near death experience",
+      "artist": "Fritz Gessler",
+      "url": "https://archive.org/download/earsheltering118/01_Fritz_Gessler_-_near_death_I.mp3",
+      "page": "https://archive.org/details/earsheltering118",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "title": "Qualmy",
+      "artist": "Turkey Makes Me Sleepy",
+      "url": "https://archive.org/download/Qualmy/01Disquietude25Oct97.mp3",
+      "page": "https://archive.org/details/Qualmy",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "auspice - ardisson duet [2008]",
+      "artist": "serocell",
+      "url": "https://archive.org/download/UN0076/01_auspice%3Dclean_towels.mp3",
+      "page": "https://archive.org/details/UN0076",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "BH055 - Cruize Of Fiction - Weltschmertz",
+      "artist": "Cruize Of Fiction",
+      "url": "https://archive.org/download/bh055/01-cruize_of_fiction-weltschmertz_vbr.mp3",
+      "page": "https://archive.org/details/bh055",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/hu/"
+    },
+    {
+      "title": "Liz - Lizbox - chat 006",
+      "artist": "Liz",
+      "url": "https://archive.org/download/chat006/liz_lizbox_001_02_singing.mp3",
+      "page": "https://archive.org/details/chat006",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/"
+    },
+    {
+      "title": "Muepetmo - Depression, Desperation, Emotional Pressure, Physical Pain, Anxiety, Financial Difficulties or Other Undesirable Situations",
+      "artist": "Fabio Villas Bôas",
+      "url": "https://archive.org/download/Muepetmo_-_DepressionDesperationEmotionalPressure.../01_-_matarmorrermorto.mp3",
+      "page": "https://archive.org/details/Muepetmo_-_DepressionDesperationEmotionalPressure...",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/br/"
+    },
+    {
+      "title": "[inr008cd]Monoceros_-_I feel apocalyptic today",
+      "artist": "Monoceros",
+      "url": "https://archive.org/download/inr008cd_monoceros_-_i_feel_apocalyptic_today/01_monoceros_-_moment_of_light_vbr.mp3",
+      "page": "https://archive.org/details/inr008cd_monoceros_-_i_feel_apocalyptic_today",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "ELLAIM - Air",
+      "artist": "",
+      "url": "https://archive.org/download/HAZE102/01_vbr.mp3",
+      "page": "https://archive.org/details/HAZE102",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
     {
       "title": "NXL016 Palabras",
       "artist": "Fuerza Interior",
@@ -44,81 +99,25 @@
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "The Cabinet EP",
-      "artist": "EGOamp",
-      "url": "https://archive.org/download/ion025_egoamp_the-cabinet-ep/01_egoamp_-_the_cabinet_edit_version.mp3",
-      "page": "https://archive.org/details/ion025_egoamp_the-cabinet-ep",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "NXL038",
-      "artist": "H&uuml;rle",
-      "url": "https://archive.org/download/NXL038/1.Matan.mp3",
-      "page": "https://archive.org/details/NXL038",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "NoiShanghai X 08-05-2006",
-      "artist": "bivouacmusic",
-      "url": "https://archive.org/download/NOIShanghai_X/01_Patel_Pretal.mp3",
-      "page": "https://archive.org/details/NOIShanghai_X",
+      "title": "[inoquo060] v.a. - sixty",
+      "artist": "v.a.",
+      "url": "https://archive.org/download/inoquo060/01_SG_-_night-oblivion.mp3",
+      "page": "https://archive.org/details/inoquo060",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "[ISOR021] About Sun Light",
-      "artist": "MaCu with God Pussy",
-      "url": "https://archive.org/download/isor021AboutSunLight/01.MacuWithGodPussy-AboutSunLightPt.1.mp3",
-      "page": "https://archive.org/details/isor021AboutSunLight",
+      "title": "NXL041",
+      "artist": "Amordio",
+      "url": "https://archive.org/download/NXL041/01.-Rios.mp3",
+      "page": "https://archive.org/details/NXL041",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Anton Vodnik-Iz Pisem Dori Pegam Vodnik",
-      "artist": "Anton Vodnik",
-      "url": "https://archive.org/download/AntonVodnik-izPisemDoriPegamVodnik/AntonVodnik-izPisemDoriPegamVodnik.mp3",
-      "page": "https://archive.org/details/AntonVodnik-izPisemDoriPegamVodnik",
-      "license": "http://creativecommons.org/publicdomain/zero/1.0/"
-    },
-    {
-      "title": "VA * .altered.statez.",
-      "artist": "cOmaRecOrdz",
-      "url": "https://archive.org/download/Va.altered.statez_110/01-nebulist-still_Remainzremix.mp3",
-      "page": "https://archive.org/details/Va.altered.statez_110",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Curri Martinez - Invisible Dance [SK010]",
-      "artist": "Curri Martinez",
-      "url": "https://archive.org/download/invisibledance/dance01.mp3",
-      "page": "https://archive.org/details/invisibledance",
+      "title": "[EAR006] mlvch - четыре километра от душного города [EP] (2017)",
+      "artist": "",
+      "url": "https://archive.org/download/ear_006/01%20pvrklsk.mp3",
+      "page": "https://archive.org/details/ear_006",
       "license": "Creative Commons"
-    },
-    {
-      "title": "New Big Black Mr. Super-Soul Bad Sugar Man - October 14, 2000 [BNW014]",
-      "artist": "New Big Black Mr. Super-Soul Bad Sugar Man",
-      "url": "https://archive.org/download/BNW014/BNW014-01-Movement_I.mp3",
-      "page": "https://archive.org/details/BNW014",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
-    },
-    {
-      "title": "Roma Laptop Orchestra - Live Improvisation (Stato Elettrico)",
-      "artist": "Stato Elettrico",
-      "url": "https://archive.org/download/RomaLaptopOrchestraLiveImprovvisation/Roma%20Laptop%20Orchestra%20-%20Live%20Improvvisation%20Part%201.mp3",
-      "page": "https://archive.org/details/RomaLaptopOrchestraLiveImprovvisation",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "BH030XEP - Gemini 7 - Put-up Job Scenes In The Space Capsule Ep",
-      "artist": "Gemini 7",
-      "url": "https://archive.org/download/bh030xep/01-gemini_7-was_bertalan_farkas_on_the_mercury_vbr.mp3",
-      "page": "https://archive.org/details/bh030xep",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/hu/"
-    },
-    {
-      "title": "Kakofonous A. Dischord -The Main Attraction/For Whom The Sweetie Belle Tolls",
-      "artist": "Kakofonous A. Dischord",
-      "url": "https://archive.org/download/kakofonousa.dischordthemainattractionforwhomthesweetiebelletolls/Kakofonous%20A.%20Dischord%20-%20The%20Main%20Attraction-For%20Whom%20The%20Sweetie%20Belle%20Tolls%20-%2001%20A.mp3",
-      "page": "https://archive.org/details/kakofonousa.dischordthemainattractionforwhomthesweetiebelletolls",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     }
   ]
 }
