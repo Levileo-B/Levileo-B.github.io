@@ -1,109 +1,77 @@
 {
-  "updated": "2026-08-31T20:40:18+00:00",
+  "updated": "2026-09-01T00:24:18+00:00",
   "leetcode": {
-    "date": "2026-08-31",
-    "id": "2058",
-    "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
-    "titleEn": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
-    "slug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+    "date": "2026-09-01",
+    "id": "3568",
+    "title": "Minimum Moves to Clean the Classroom",
+    "titleEn": "Minimum Moves to Clean the Classroom",
+    "slug": "minimum-moves-to-clean-the-classroom",
     "difficulty": "Medium",
     "tags": [
-      "Linked List"
+      "Array",
+      "Hash Table",
+      "Bit Manipulation",
+      "Breadth-First Search"
     ],
-    "link": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/",
+    "link": "https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Music Box (album)",
-    "text": "Music Box is the third studio album by American singer-songwriter Mariah Carey. It was released on August 31, 1993, by Columbia Records. In an attempt to appeal to a wider audience, Carey sought a radio-friendly approach for Music Box.",
-    "words": 39,
-    "url": "https://en.wikipedia.org/wiki/Music_Box_(album)",
-    "date": "2026-08-31",
+    "title": "Anfield",
+    "text": "Anfield is a football stadium in the area of Anfield, Liverpool, England, which has been the home of Liverpool Football Club since their formation in 1892. The stadium has a seating capacity of 61,276, making it the fifth-largest football stadium in England. It was originally the home of Everton from 1884 to 1891 before they moved to Goodison Park after a dispute with the club president.",
+    "words": 66,
+    "url": "https://en.wikipedia.org/wiki/Anfield",
+    "date": "2026-09-01",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Midwest Holiday (Part I)",
-    "creator": "Wilding Picture Productions, Inc.",
-    "year": "1952",
-    "url": "https://archive.org/download/MidwestH1952/MidwestH1952_512kb.mp4",
-    "page": "https://archive.org/details/MidwestH1952",
-    "date": "2026-08-31",
+    "title": "Revolution Underway",
+    "creator": "The National Education Program",
+    "year": "",
+    "url": "https://archive.org/download/201937_Revolution_Underway/201937_Revolution_Underway_master.intros_H.264.mp4",
+    "page": "https://archive.org/details/201937_Revolution_Underway",
+    "date": "2026-09-01",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Anton Vodnik-Iz Pisem Dori Pegam Vodnik",
-      "artist": "Anton Vodnik",
-      "url": "https://archive.org/download/AntonVodnik-izPisemDoriPegamVodnik/AntonVodnik-izPisemDoriPegamVodnik.mp3",
-      "page": "https://archive.org/details/AntonVodnik-izPisemDoriPegamVodnik",
-      "license": "http://creativecommons.org/publicdomain/zero/1.0/"
-    },
-    {
-      "title": "chemicaL_Knowledge",
-      "artist": "sOuL_sCientiSt",
-      "url": "https://archive.org/download/chemicaL_Knowledge/chemicaLKnowledge.mp3",
-      "page": "https://archive.org/details/chemicaL_Knowledge",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
-    },
-    {
-      "title": "psychosonic aether 021 - podcast from n0theen",
-      "artist": "litmus0001 (curator)",
-      "url": "https://archive.org/download/PsychosonicAether021-PodcastFromN0theen/Litmus0001-PsychosonicAether021-2009-12-06n0theen.mp3",
-      "page": "https://archive.org/details/PsychosonicAether021-PodcastFromN0theen",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Roma Laptop Orchestra - Live Improvisation (Stato Elettrico)",
-      "artist": "Stato Elettrico",
-      "url": "https://archive.org/download/RomaLaptopOrchestraLiveImprovvisation/Roma%20Laptop%20Orchestra%20-%20Live%20Improvvisation%20Part%201.mp3",
-      "page": "https://archive.org/details/RomaLaptopOrchestraLiveImprovvisation",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Qualmy",
-      "artist": "Turkey Makes Me Sleepy",
-      "url": "https://archive.org/download/Qualmy/01Disquietude25Oct97.mp3",
-      "page": "https://archive.org/details/Qualmy",
+      "title": "Nerve Breaks 004",
+      "artist": "Paul Reset, Noisy Minority, remix from Hoista",
+      "url": "https://archive.org/download/NerveBreaks004/PaulReset-Crisis.mp3",
+      "page": "https://archive.org/details/NerveBreaks004",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Filmy Ghost & JackCote - Dark Slow Echoes (EP) (2018)",
-      "artist": "Filmy Ghost & JackCote",
-      "url": "https://archive.org/download/jack-cote-filmy-ghost-dark-slow-echoes/01%20-%20Psychedelic%20Witch.mp3",
-      "page": "https://archive.org/details/jack-cote-filmy-ghost-dark-slow-echoes",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "NoiShanghai X 08-05-2006",
+      "artist": "bivouacmusic",
+      "url": "https://archive.org/download/NOIShanghai_X/01_Patel_Pretal.mp3",
+      "page": "https://archive.org/details/NOIShanghai_X",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "serocell - afferent affinity cycles vol 2 [2008]",
-      "artist": "serocell",
-      "url": "https://archive.org/download/UN0085/01_serocell%3Dsalyk.mp3",
-      "page": "https://archive.org/details/UN0085",
+      "title": "QuTAPE_Per Giacinto scelsi Sergio Maltagliati per una sola nota 4/5",
+      "artist": "Sergio Maltagliati",
+      "url": "https://archive.org/download/Qutape_perGiacintoScelsiSergioMaltagliatiPerUnaSolaNota45/latoA_4-5.mp3",
+      "page": "https://archive.org/details/Qutape_perGiacintoScelsiSergioMaltagliatiPerUnaSolaNota45",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/it/"
+    },
+    {
+      "title": "Hidden - In The Darkest Maze Without Surfaces (2019)",
+      "artist": "Hidden",
+      "url": "https://archive.org/download/RAWCOFFIN330/01.%20In%20The%20Darkest%20Maze%20Without%20Surfaces.mp3",
+      "page": "https://archive.org/details/RAWCOFFIN330",
       "license": "Creative Commons"
     },
     {
-      "title": "NXL041",
-      "artist": "Amordio",
-      "url": "https://archive.org/download/NXL041/01.-Rios.mp3",
-      "page": "https://archive.org/details/NXL041",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "DIENSTbar @ dfm.nu Transmission No. 64 Special Guest: ?Alos",
-      "artist": "Ohmnoise",
-      "url": "https://archive.org/download/dbdfmnu64/dbdfmnu64.mp3",
-      "page": "https://archive.org/details/dbdfmnu64",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "The Cabinet EP",
-      "artist": "EGOamp",
-      "url": "https://archive.org/download/ion025_egoamp_the-cabinet-ep/01_egoamp_-_the_cabinet_edit_version.mp3",
-      "page": "https://archive.org/details/ion025_egoamp_the-cabinet-ep",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "Aqua Regia - Pump Up The L.E.D.s to Red, Take Some Drugs & Shake Your Head [ird009]",
+      "artist": "",
+      "url": "https://archive.org/download/ird009/ird009-aqua-regia-pump-up-the-leds-to-red-take-some-drugs-and-shake-your-head.mp3",
+      "page": "https://archive.org/details/ird009",
+      "license": "Creative Commons"
     },
     {
       "title": "GOD0006 - Anti-Kati - Love Thy Neighbour",
@@ -113,11 +81,46 @@
       "license": "Creative Commons"
     },
     {
-      "title": "[TAN014] Steam flow - Mist",
-      "artist": "Mad God",
-      "url": "https://archive.org/download/TAN014/Mist.mp3",
-      "page": "https://archive.org/details/TAN014",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+      "title": "Ting",
+      "artist": "indek",
+      "url": "https://archive.org/download/indek-ting_202509/indek%20-%20Ting.mp3",
+      "page": "https://archive.org/details/indek-ting_202509",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "BH055 - Cruize Of Fiction - Weltschmertz",
+      "artist": "Cruize Of Fiction",
+      "url": "https://archive.org/download/bh055/01-cruize_of_fiction-weltschmertz_vbr.mp3",
+      "page": "https://archive.org/details/bh055",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/hu/"
+    },
+    {
+      "title": "Demotic March",
+      "artist": "Jazzaria.com",
+      "url": "https://archive.org/download/demotic-march/demotic-march.mp3",
+      "page": "https://archive.org/details/demotic-march",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "near death experience",
+      "artist": "Fritz Gessler",
+      "url": "https://archive.org/download/earsheltering118/01_Fritz_Gessler_-_near_death_I.mp3",
+      "page": "https://archive.org/details/earsheltering118",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "title": "Michael Renk - A Eight Byte",
+      "artist": "deepindub.org",
+      "url": "https://archive.org/download/Michael_Renk_A_Eighth_Byte/Michael_Renk_A_Eighth_Byte.mp3",
+      "page": "https://archive.org/details/Michael_Renk_A_Eighth_Byte",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "New Big Black Mr. Super-Soul Bad Sugar Man - October 14, 2000 [BNW014]",
+      "artist": "New Big Black Mr. Super-Soul Bad Sugar Man",
+      "url": "https://archive.org/download/BNW014/BNW014-01-Movement_I.mp3",
+      "page": "https://archive.org/details/BNW014",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
     }
   ]
 }
