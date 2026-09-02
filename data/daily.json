@@ -1,57 +1,41 @@
 {
-  "updated": "2026-09-01T23:03:51+00:00",
+  "updated": "2026-09-02T03:09:27+00:00",
   "leetcode": {
-    "date": "2026-09-01",
-    "id": "3568",
-    "title": "Minimum Moves to Clean the Classroom",
-    "titleEn": "Minimum Moves to Clean the Classroom",
-    "slug": "minimum-moves-to-clean-the-classroom",
-    "difficulty": "Medium",
+    "date": "2026-09-02",
+    "id": "3875",
+    "title": "Construct Uniform Parity Array I",
+    "titleEn": "Construct Uniform Parity Array I",
+    "slug": "construct-uniform-parity-array-i",
+    "difficulty": "Easy",
     "tags": [
       "Array",
-      "Hash Table",
-      "Bit Manipulation",
-      "Breadth-First Search"
+      "Math"
     ],
-    "link": "https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/",
+    "link": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Anfield",
-    "text": "Anfield is a football stadium in the area of Anfield, Liverpool, England, which has been the home of Liverpool Football Club since their formation in 1892. The stadium has a seating capacity of 61,276, making it the fifth-largest football stadium in England. It was originally the home of Everton from 1884 to 1891 before they moved to Goodison Park after a dispute with the club president John Houlding who members voted out, leading Houlding to form Liverpool FC.",
-    "words": 78,
-    "url": "https://en.wikipedia.org/wiki/Anfield",
-    "date": "2026-09-01",
+    "title": "Laguna Miscanti",
+    "text": "Laguna Miscanti is a brackish lake in the Altiplano of the Antofagasta Region in northern Chile. It has an area of about 13 square kilometres (5 sq mi) and the shape of an arrowhead. The lake has no permanent surface inflows or outflows apart from several springs, and is primarily fed and drained by groundwater. Laguna Miscanti is located among the volcanoes of the Central Andes. The smaller Laguna Miñiques lies immediately south, separated from Miscanti by a lava flow.",
+    "words": 80,
+    "url": "https://en.wikipedia.org/wiki/Laguna_Miscanti",
+    "date": "2026-09-02",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Stillman Fires Collection: First Alarms",
+    "title": "RP 001028",
     "creator": "",
     "year": "",
-    "url": "https://archive.org/download/Pa2113FirstA/Pa2113FirstA_512kb.mp4",
-    "page": "https://archive.org/details/Pa2113FirstA",
-    "date": "2026-09-01",
+    "url": "https://archive.org/download/rp001028/RP-001028.mp4",
+    "page": "https://archive.org/details/rp001028",
+    "date": "2026-09-02",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
-    {
-      "title": "deer016: Hästoperan - På Musikens Hus",
-      "artist": "",
-      "url": "https://archive.org/download/deer016/deer016-hastoperan-pa_musikens_hus.mp3",
-      "page": "https://archive.org/details/deer016",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/"
-    },
-    {
-      "title": "HxUxYx & Гнилые Зубы & G A V N O S O S V A S T I K O Y & SxTxExLxLxAx - BAZHENOV SPLIT (2017)",
-      "artist": "HxUxYx & Гнилые Зубы & G A V N O S O S V A S T I K O Y & SxTxExLxLxAx",
-      "url": "https://archive.org/download/IBR_159/01%20-%20%D0%91%D0%B0%D0%B6%D0%B5%D0%BD%D0%BE%D0%B2%20%D1%87%D0%B8%D1%81%D1%82%D0%B8%D0%BB%20%D0%BC%D0%BD%D0%B5%20%D0%B1%D0%BE%D1%82%D0%B8%D0%BD%D0%BA%D0%B8%20%D0%B7%D0%B0%20%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.mp3",
-      "page": "https://archive.org/details/IBR_159",
-      "license": "Creative Commons"
-    },
     {
       "title": "Meat Force - Heart Stab Heart Sad",
       "artist": "Meat Force",
@@ -60,67 +44,81 @@
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "Alpha #1",
+      "title": "VeDaKR-Pred Osle",
       "artist": "",
-      "url": "https://archive.org/download/Alpha1_201608/01.-%20OBSERVATORIO%2051%20-%20DOPA.mp3",
-      "page": "https://archive.org/details/Alpha1_201608",
-      "license": "Creative Commons"
+      "url": "https://archive.org/download/HAZE201/01.mp3",
+      "page": "https://archive.org/details/HAZE201",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "Dr. Noise M & Dr. Walker - Liquid Sky Berlin Ambient Session (Live)",
-      "artist": "Dr. NoiseM, Dr. Walker",
-      "url": "https://archive.org/download/dr.-noise-m-dr.-walker-liquid-sky-berlin-ambient-session-live/Dr.%20NoiseM%20%26%20Dr.%20Walker%20-%20Liquid%20Sky%20Berlin%20Ambient%20Session%20%28Live%29.mp3",
-      "page": "https://archive.org/details/dr.-noise-m-dr.-walker-liquid-sky-berlin-ambient-session-live",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "(o2 label 03-015) Messiah Progect - Error Maya. Life Goes On (2013)",
-      "artist": "",
-      "url": "https://archive.org/download/MessiahProgect/01.lifeGoesOn-Reprise.mp3",
-      "page": "https://archive.org/details/MessiahProgect",
+      "title": "Davis/Glenn/Keston at The Somethin' Else #5 10/8/10",
+      "artist": "Davis/Glenn/Keston",
+      "url": "https://archive.org/download/DavisglennkestonAtTheSomethinElse510810/1.mp3",
+      "page": "https://archive.org/details/DavisglennkestonAtTheSomethinElse510810",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "[qd-4257] Switchboard Of Souls - Don't Bother Me - Remixes",
-      "artist": "Switchboard Of Souls",
-      "url": "https://archive.org/download/qd-4257SwitchboardOfSouls-DontBotherMe-Remixes/Qd-4257_switchboardOfSouls-01-DontBotherMedemo.mp3",
-      "page": "https://archive.org/details/qd-4257SwitchboardOfSouls-DontBotherMe-Remixes",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Planivaar - Between Worlds [wh202]",
-      "artist": "Planivaar",
-      "url": "https://archive.org/download/wh202/wh202_01_Planivaar_Moustache.mp3",
-      "page": "https://archive.org/details/wh202",
+      "title": "Tribe of Astronauts - Rain 3 [wh086]",
+      "artist": "Tribe of Astronauts",
+      "url": "https://archive.org/download/wh086/wh086_Tribe_of_Astronauts_Rain_3.mp3",
+      "page": "https://archive.org/details/wh086",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
     },
     {
-      "title": "bruit (Dutch supports socialist medicine)",
-      "artist": "Christopher Taylor",
-      "url": "https://archive.org/download/BruitdutchSupportsSocialistMedicine/BruitdutchSupportsSocialistMedicine.mp3",
-      "page": "https://archive.org/details/BruitdutchSupportsSocialistMedicine",
+      "title": "Live",
+      "artist": "Fundstücke",
+      "url": "https://archive.org/download/zero157/Fundstuecke%20-%20Live%20-%2001%20Der%20Erste.mp3",
+      "page": "https://archive.org/details/zero157",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Yehuda Jacob Gilboa-Three Vocalises For Peter Breughel",
+      "artist": "Yehuda Jacob Gilboa",
+      "url": "https://archive.org/download/YehudaJacobGilboa-threeVocalisesForPeterBreughel/YehudaJacobGilboa-threeVocalisesForPeterBreughel.mp3",
+      "page": "https://archive.org/details/YehudaJacobGilboa-threeVocalisesForPeterBreughel",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "title": "2Shmuspagomp",
+      "artist": "Zan Hoffman",
+      "url": "https://archive.org/download/ZH27241/241%202shmuspagomp.mp3",
+      "page": "https://archive.org/details/ZH27241",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+    },
+    {
+      "title": "[YESNO 078] RULLY SHABARA & RUDY WURYOKO \"Wirok\"",
+      "artist": "Rully Shabara & Rudy Wuryoko",
+      "url": "https://archive.org/download/yesno078/01%20Pak%21.mp3",
+      "page": "https://archive.org/details/yesno078",
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
+    },
+    {
+      "title": "VxBxDxDx - Куририн кидает зигу (Single) (2019)",
+      "artist": "VxBxDxDx",
+      "url": "https://archive.org/download/IBR_1062/01.%20%D0%9A%D1%83%D1%80%D0%B8%D1%80%D0%B8%D0%BD%20%D0%BA%D0%B8%D0%B4%D0%B0%D0%B5%D1%82%20%D0%B7%D0%B8%D0%B3%D1%83.mp3",
+      "page": "https://archive.org/details/IBR_1062",
       "license": "Creative Commons"
     },
     {
-      "title": "JARED SAGAR - Event",
-      "artist": "",
-      "url": "https://archive.org/download/Jared_Sagar-Event/1%20-%20Event%200i.mp3",
-      "page": "https://archive.org/details/Jared_Sagar-Event",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "[YESNO 104] Rani Jambak & Yenting Hsu \"《O-ksi氣-2》\"",
+      "artist": "Rani Jambak & Yenting Hsu",
+      "url": "https://archive.org/download/yesno104/01%20Leuser%20Wave%20_%20Ombak%20Leuser%20_%20%E5%8B%92%E5%A1%9E%E7%88%BE%E6%B5%AA%E6%BD%AE.mp3",
+      "page": "https://archive.org/details/yesno104",
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/"
     },
     {
-      "title": "UV & Undark - Appflsoft [hc040]",
-      "artist": "",
-      "url": "https://archive.org/download/hc040/hc040_appflsoft_by_uv_and_undark.mp3",
-      "page": "https://archive.org/details/hc040",
-      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
+      "title": "VBR Podcast #12",
+      "artist": "Banyek",
+      "url": "https://archive.org/download/vbr012/vbr_012.mp3",
+      "page": "https://archive.org/details/vbr012",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
     },
     {
-      "title": "A Light Flashed Off The Doorknob On The Shelf Above Her Desk",
-      "artist": "Olifaunt",
-      "url": "https://archive.org/download/TheLightFlashedOffTheDoorknobOnTheShelfAboveHerDesk/ALightFlashedOffTheDoorknobOn.mp3",
-      "page": "https://archive.org/details/TheLightFlashedOffTheDoorknobOnTheShelfAboveHerDesk",
-      "license": "Creative Commons"
+      "title": "wave008 ~ Heike Becker ~ Drive On",
+      "artist": "Heike Becker",
+      "url": "https://archive.org/download/wave008/wave008.1_Heike_Becker_-_Drive_On_-_Original.mp3",
+      "page": "https://archive.org/details/wave008",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
     }
   ]
 }
