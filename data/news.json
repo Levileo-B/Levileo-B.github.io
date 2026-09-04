@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T20:20:55+00:00",
+  "updated": "2026-09-04T22:47:40+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -231,6 +231,11 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
+          "link": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+          "date": "2026-09-04T21:23:50+00:00"
+        },
+        {
           "title": "The White House is making arcade games racist",
           "link": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
           "date": "2026-09-04T19:42:54+00:00"
@@ -249,11 +254,6 @@
           "title": "AGI is whatever you want it to be",
           "link": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
           "date": "2026-09-04T17:16:49+00:00"
-        },
-        {
-          "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-          "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-          "date": "2026-09-04T17:10:35+00:00"
         }
       ]
     },
@@ -262,6 +262,16 @@
       "category": "科技",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
+          "link": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
+          "date": "2026-09-04T20:22:41+00:00"
+        },
+        {
+          "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
+          "link": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
+          "date": "2026-09-04T19:46:34+00:00"
+        },
         {
           "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
           "link": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
@@ -276,16 +286,6 @@
           "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
           "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
           "date": "2026-09-04T17:18:12+00:00"
-        },
-        {
-          "title": "Pentagon rescinds new testosterone screening policy without explanation",
-          "link": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
-          "date": "2026-09-04T16:57:24+00:00"
-        },
-        {
-          "title": "A ratings board wouldn't let Valve release a trailer. It \"leaked\" it instead.",
-          "link": "https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/",
-          "date": "2026-09-04T16:42:53+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Can AI design circuit boards yet?",
-          "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-          "date": "2026-09-04T19:48:29+00:00"
+          "title": "Actively exploited sandbox RCE in all Chromium versions",
+          "link": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+          "date": "2026-09-04T21:52:01+00:00"
         },
         {
-          "title": "Government Rails Site Hit Hours After CVE Patch",
-          "link": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
-          "date": "2026-09-04T19:06:39+00:00"
+          "title": "Icons as a Service",
+          "link": "https://nravic.com/blog/images/",
+          "date": "2026-09-04T21:44:59+00:00"
         },
         {
-          "title": "Shutting down our public encrypted DNS",
-          "link": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
-          "date": "2026-09-04T18:50:28+00:00"
+          "title": "GPT-6 Astra on OpenRouter",
+          "link": "https://openrouter.ai/openai/gpt-6-astra",
+          "date": "2026-09-04T21:39:19+00:00"
         },
         {
-          "title": "Formalizing Fermat's Last Theorem",
-          "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "date": "2026-09-04T18:42:56+00:00"
+          "title": "Updates on HEIR, the Homomorphic Encryption Compiler Project",
+          "link": "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/",
+          "date": "2026-09-04T21:16:16+00:00"
         },
         {
-          "title": "The Rust React Compiler is now native in Vite",
-          "link": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
-          "date": "2026-09-04T17:49:09+00:00"
+          "title": "Some more thoughts on random_page_cost",
+          "link": "https://vondra.me/posts/some-more-thoughts-on-random-page-cost/",
+          "date": "2026-09-04T21:05:24+00:00"
         }
       ]
     },
@@ -332,14 +332,14 @@
           "date": "2026-09-04T13:11:47+00:00"
         },
         {
-          "title": ".name Termination",
-          "link": "https://neil.fraser.name/news/2026/09/03/",
-          "date": "2026-09-03T14:55:14+00:00"
-        },
-        {
           "title": "Discovery of a new OpenAI agent message board",
           "link": "https://collusion.wiki/",
           "date": "2026-09-04T11:43:06+00:00"
+        },
+        {
+          "title": ".name Termination",
+          "link": "https://neil.fraser.name/news/2026/09/03/",
+          "date": "2026-09-03T14:55:14+00:00"
         },
         {
           "title": "Is AI ruining my brain?",
@@ -347,9 +347,9 @@
           "date": "2026-09-04T14:41:18+00:00"
         },
         {
-          "title": "The NX bit is not just about security",
-          "link": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
-          "date": "2026-09-04T06:27:04+00:00"
+          "title": "Babashka 1.13.220 gets FFI",
+          "link": "https://blog.michielborkent.nl/babashka-ffi.html",
+          "date": "2026-09-04T18:33:44+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
+          "title": "[推广] GPT 6 Astra 0.22x 已上線｜有試用額度 ｜神穩中轉｜台灣站長不跑路",
+          "link": "https://www.v2ex.com/t/1239612#reply0",
+          "date": "2026-09-04T22:34:56+00:00"
+        },
+        {
+          "title": "[程序员] 公司要报销 pro 20X 了，发票的问题如何解决呢",
+          "link": "https://www.v2ex.com/t/1239611#reply0",
+          "date": "2026-09-04T22:27:56+00:00"
+        },
+        {
+          "title": "[程序员] Plus 账号也收到 Astra 推送了",
+          "link": "https://www.v2ex.com/t/1239610#reply1",
+          "date": "2026-09-04T22:12:16+00:00"
+        },
+        {
+          "title": "[程序员] PowerShell 转义太折腾，让我们改用脚本文件",
+          "link": "https://www.v2ex.com/t/1239609#reply0",
+          "date": "2026-09-04T21:57:58+00:00"
+        },
+        {
           "title": "[程序员] deepseek-v4-flash 大家有感觉出问题吗？",
           "link": "https://www.v2ex.com/t/1239608#reply0",
           "date": "2026-09-04T20:13:29+00:00"
-        },
-        {
-          "title": "[分享发现] [分享创造] 业余时间做了一款 Windows + Android 跨平台影视媒体中心 MIYO，求体验与建议",
-          "link": "https://www.v2ex.com/t/1239607#reply0",
-          "date": "2026-09-04T19:39:12+00:00"
-        },
-        {
-          "title": "[分享创造] [开源分享] R20 量化系统 v7.0.0 里程碑更新版本，支持全维度自定义与每 6 小时自进化",
-          "link": "https://www.v2ex.com/t/1239606#reply0",
-          "date": "2026-09-04T18:33:11+00:00"
-        },
-        {
-          "title": "[分享创造] casbin-gateway：支持 29 个 Agent 的桌面端管理助手，支持一键切换 LLM API、审计、权限、版本管理、多开，顺便帮你验一验中转商有没有偷换模型",
-          "link": "https://www.v2ex.com/t/1239605#reply0",
-          "date": "2026-09-04T18:28:30+00:00"
-        },
-        {
-          "title": "[AI Tools 精品 AI 工具导航] 做了个 ai 图片生成站",
-          "link": "https://www.v2ex.com/t/1239604#reply0",
-          "date": "2026-09-04T16:45:08+00:00"
         }
       ]
     },
