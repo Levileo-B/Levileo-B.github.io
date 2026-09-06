@@ -1,61 +1,68 @@
 {
-  "updated": "2026-09-05T22:39:50+00:00",
+  "updated": "2026-09-06T03:12:25+00:00",
   "leetcode": {
-    "date": "2026-09-05",
-    "id": "3904",
-    "title": "Smallest Stable Index II",
-    "titleEn": "Smallest Stable Index II",
-    "slug": "smallest-stable-index-ii",
-    "difficulty": "Medium",
+    "date": "2026-09-06",
+    "id": "115",
+    "title": "Distinct Subsequences",
+    "titleEn": "Distinct Subsequences",
+    "slug": "distinct-subsequences",
+    "difficulty": "Hard",
     "tags": [
-      "Array",
-      "Prefix Sum"
+      "String",
+      "Dynamic Programming"
     ],
-    "link": "https://leetcode.com/problems/smallest-stable-index-ii/",
+    "link": "https://leetcode.com/problems/distinct-subsequences/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "1923 season 2",
-    "text": "The second and final season of the American neo-Western and period drama television series 1923 was announced in February 2023. As a limited-run series, the program was not originally intended to extend beyond its initial eight-episode order. Season two was developed after its creator and showrunner, Taylor Sheridan, determined that the story needed more episodes to reach a proper conclusion. The series is a part of the Yellowstone franchise, and is a sequel to 1883 and a prequel to Yellowstone. 1923 stars Helen Mirren, Harrison Ford, Brandon Sklenar, Julia Schlaepfer, Jerome Flynn, Darren Mann, Isabel May, Brian Geraghty, Amina Nieves, Michelle Randolph, and Timothy Dalton.",
-    "words": 105,
-    "url": "https://en.wikipedia.org/wiki/1923_season_2",
-    "date": "2026-09-05",
+    "title": "Assassination of William McKinley",
+    "text": "William McKinley, the 25th president of the United States, was shot on the grounds of the Pan-American Exposition in the Temple of Music in Buffalo, New York, on September 6, 1901, six months into his second term. He was shaking hands with the public when an anarchist, Leon Czolgosz, shot him twice in the abdomen. McKinley died on September 14 of gangrene caused by the wounds. He was the third American president to be assassinated, following Abraham Lincoln in 1865 and James A. Garfield in 1881.",
+    "words": 86,
+    "url": "https://en.wikipedia.org/wiki/Assassination_of_William_McKinley",
+    "date": "2026-09-06",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Home Movie: 98771: Ohio Family",
+    "title": "Home Movie: 98960: Golf",
     "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/HMOhioFamily98771/98771.mp4",
-    "page": "https://archive.org/details/HMOhioFamily98771",
-    "date": "2026-09-05",
+    "year": "1942",
+    "url": "https://archive.org/download/98960_hm_golf/98960.mp4",
+    "page": "https://archive.org/details/98960_hm_golf",
+    "date": "2026-09-06",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "India del Espacio - Cadenas de Agüero",
+      "title": "Aqua Regia - Pump Up The L.E.D.s to Red, Take Some Drugs & Shake Your Head [ird009]",
       "artist": "",
-      "url": "https://archive.org/download/cadenasdeaguero/Cadenas%20de%20Ag%C3%BCero/01%20Narciartistas.mp3",
-      "page": "https://archive.org/details/cadenasdeaguero",
+      "url": "https://archive.org/download/ird009/ird009-aqua-regia-pump-up-the-leds-to-red-take-some-drugs-and-shake-your-head.mp3",
+      "page": "https://archive.org/details/ird009",
       "license": "Creative Commons"
     },
     {
-      "title": "Tony Irving & Adam Cadell - Some Shards for the Void",
-      "artist": "Tony Irving & Adam Cadell",
-      "url": "https://archive.org/download/DDW004/1_An_Invasion_of_Glass_Locusts.mp3",
-      "page": "https://archive.org/details/DDW004",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "ouimnet-set055",
+      "artist": "",
+      "url": "https://archive.org/download/ouimnet-set055/Ouimnet-set055-victors_mob_-_djSet_vinylSession_promo_30Apr_09.mp3",
+      "page": "https://archive.org/details/ouimnet-set055",
+      "license": "Creative Commons"
     },
     {
-      "title": "[insubcdr05] DIATRIBES+JACQUES DEMIERRE+JOHANN BOURQUENEZ piano(s)",
-      "artist": "DIATRIBES+JACQUES DEMIERRE+JOHANN BOURQUENEZ",
-      "url": "https://archive.org/download/insubcdr05DiatribesjacquesDemierrejohannBourquenezPianos/insubcdr0501_diatribesdemierrebourquenez-Tornade.mp3",
-      "page": "https://archive.org/details/insubcdr05DiatribesjacquesDemierrejohannBourquenezPianos",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/ch/"
+      "title": "Engine7 - Hope Street",
+      "artist": "legoego",
+      "url": "https://archive.org/download/ego009/ego009_01-dubpatches.mp3",
+      "page": "https://archive.org/details/ego009",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Monopole - Sleepless Mind (ca174)",
+      "artist": "Monopole",
+      "url": "https://archive.org/download/ca174_m/01_Empty_racing_thoughts.mp3",
+      "page": "https://archive.org/details/ca174_m",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
       "title": "NXL041",
@@ -65,60 +72,53 @@
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "They Made Me Do It",
-      "artist": "Gypsy",
-      "url": "https://archive.org/download/they-made-me-do-it/They%20Made%20Me%20Do%20It.mp3",
-      "page": "https://archive.org/details/they-made-me-do-it",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "[inoquo005] Clase Muzique live @ LeKashba",
+      "artist": "Clase Muzique",
+      "url": "https://archive.org/download/inoquo005/1-clasemuzique_intro.mp3",
+      "page": "https://archive.org/details/inoquo005",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/"
     },
     {
-      "title": "[TAN171] Steam flow - Gloomy Mansion",
-      "artist": "Mad God",
-      "url": "https://archive.org/download/TAN171/Steam%20flow%20-%20Gloomy%20Mansion.mp3",
-      "page": "https://archive.org/details/TAN171",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
-    },
-    {
-      "title": "Aqua Regia - Pump Up The L.E.D.s to Red, Take Some Drugs & Shake Your Head [ird009]",
-      "artist": "",
-      "url": "https://archive.org/download/ird009/ird009-aqua-regia-pump-up-the-leds-to-red-take-some-drugs-and-shake-your-head.mp3",
-      "page": "https://archive.org/details/ird009",
+      "title": "August Traeger Pd_Works",
+      "artist": "August Traeger",
+      "url": "https://archive.org/download/AugustTraeger_Pd_Works/august%20traeger%20-%20pd_works%20-%201%20-%20arpedsa.mp3",
+      "page": "https://archive.org/details/AugustTraeger_Pd_Works",
       "license": "Creative Commons"
     },
     {
-      "title": "New Big Black Mr. Super-Soul Bad Sugar Man - October 14, 2000 [BNW014]",
-      "artist": "New Big Black Mr. Super-Soul Bad Sugar Man",
-      "url": "https://archive.org/download/BNW014/BNW014-01-Movement_I.mp3",
-      "page": "https://archive.org/details/BNW014",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
-    },
-    {
-      "title": "Ineffability",
-      "artist": "Jazzaria.com",
-      "url": "https://archive.org/download/ineffability/ineffability.mp3",
-      "page": "https://archive.org/details/ineffability",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "Demotic March",
-      "artist": "Jazzaria.com",
-      "url": "https://archive.org/download/demotic-march/demotic-march.mp3",
-      "page": "https://archive.org/details/demotic-march",
+      "title": "[DPH036] Dub Riots & Indamouse ft. Bluez - Creation",
+      "artist": "",
+      "url": "https://archive.org/download/DPH036/01_Dub_Riots_%26%20_Indamouse_-_Creation.mp3",
+      "page": "https://archive.org/details/DPH036",
       "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "[EAR006] mlvch - четыре километра от душного города [EP] (2017)",
+      "title": "H.P. Sneakstep : The Metroid Renaissance EP",
+      "artist": "H.P. Sneakstep",
+      "url": "https://archive.org/download/H.p.SneakstepTheMetroidRenaissanceEp/H.P._Sneakstep_-_The_Metroid_Renaissance_EP_-_1_Kraids_Chamber.mp3",
+      "page": "https://archive.org/details/H.p.SneakstepTheMetroidRenaissanceEp",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "La Chamanita con Ali & Ramiro",
       "artist": "",
-      "url": "https://archive.org/download/ear_006/01%20pvrklsk.mp3",
-      "page": "https://archive.org/details/ear_006",
+      "url": "https://archive.org/download/chamanitaaliramiro/La%20Chamanita%20con%20Ali%20y%20Ramiro/01%20Todo%20est%C3%A1%20tan%20solo%20que%20me%20da%20miedo.mp3",
+      "page": "https://archive.org/details/chamanitaaliramiro",
       "license": "Creative Commons"
     },
     {
-      "title": "user - hellovapella [2011]",
-      "artist": "serocell",
-      "url": "https://archive.org/download/UN0129/01_user%3Dhellovapella.mp3",
-      "page": "https://archive.org/details/UN0129",
-      "license": "Creative Commons"
+      "title": "[TAN186] Seism - Dojje",
+      "artist": "Jason Campbell",
+      "url": "https://archive.org/download/TAN186/Dojje.mp3",
+      "page": "https://archive.org/details/TAN186",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+    },
+    {
+      "title": "Nerve Breaks 007",
+      "artist": "Gridlok - remix by Subscience",
+      "url": "https://archive.org/download/NerveBreaks007/Gridlok-ChickensubscienceRmx.mp3",
+      "page": "https://archive.org/details/NerveBreaks007",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     }
   ]
 }
