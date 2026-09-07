@@ -1,81 +1,109 @@
 {
-  "updated": "2026-09-06T22:43:17+00:00",
+  "updated": "2026-09-07T03:10:43+00:00",
   "leetcode": {
-    "date": "2026-09-06",
-    "id": "115",
-    "title": "Distinct Subsequences",
-    "titleEn": "Distinct Subsequences",
-    "slug": "distinct-subsequences",
+    "date": "2026-09-07",
+    "id": "940",
+    "title": "Distinct Subsequences II",
+    "titleEn": "Distinct Subsequences II",
+    "slug": "distinct-subsequences-ii",
     "difficulty": "Hard",
     "tags": [
       "String",
       "Dynamic Programming"
     ],
-    "link": "https://leetcode.com/problems/distinct-subsequences/",
+    "link": "https://leetcode.com/problems/distinct-subsequences-ii/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Assassination of William McKinley",
-    "text": "William McKinley, the 25th president of the United States, was shot on the grounds of the Pan-American Exposition in the Temple of Music in Buffalo, New York, on September 6, 1901, six months into his second term. He was shaking hands with the public when an anarchist, Leon Czolgosz, shot him twice in the abdomen. McKinley died on September 14 of gangrene caused by the wounds. He was the third American president to be assassinated, following Abraham Lincoln in 1865 and James A. Garfield in 1881.",
-    "words": 86,
-    "url": "https://en.wikipedia.org/wiki/Assassination_of_William_McKinley",
-    "date": "2026-09-06",
+    "title": "George Krugers",
+    "text": "George Edward Albert Krugers was a filmmaker active in the Dutch East Indies during the early 20th century. Born in Banda Neira, he migrated to Java in the 1920s and spent time in Surabaya before moving to Bandung. There, he worked with L. Heuveldorp on the colony's first feature film, Loetoeng Kasaroeng, before making his directorial debut in 1927 with Eulis Atjih. The following year, he established the Krugers Film Company; under this banner, he joined the Hajj in 1928 to produce Het Groote Mekka-Feest, considered the first documentary film about the pilgrimage.",
+    "words": 93,
+    "url": "https://en.wikipedia.org/wiki/George_Krugers",
+    "date": "2026-09-07",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Home Movie: 98901: Family and Travel, Florida, Washington, D.C.",
+    "title": "Home Movie: 99000: Family Scenes",
     "creator": "",
-    "year": "1952",
-    "url": "https://archive.org/download/98901_hm_family_and_travel_florida_washington_dc/98901.mp4",
-    "page": "https://archive.org/details/98901_hm_family_and_travel_florida_washington_dc",
-    "date": "2026-09-06",
+    "year": "1950",
+    "url": "https://archive.org/download/99000_hm_family_scenes/99000.mp4",
+    "page": "https://archive.org/details/99000_hm_family_scenes",
+    "date": "2026-09-07",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "BernieLomax - Massage",
-      "artist": "BernieLomax",
-      "url": "https://archive.org/download/bernielomax-massage/massage.mp3",
-      "page": "https://archive.org/details/bernielomax-massage",
-      "license": "http://creativecommons.org/licenses/by-nc/1.0/"
+      "title": "3pr(iii)9ses",
+      "artist": "Robert Cole Rizzi; Frédéric Nogray; Acoustic Mirror",
+      "url": "https://archive.org/download/earsheltering103/01_-_Robert_Cole_Rizzi_-_Wind_Water_Wood.mp3",
+      "page": "https://archive.org/details/earsheltering103",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
-      "title": "Tripnectar - Cloud EP (2017) [MNMN435]",
-      "artist": "Tripnectar",
-      "url": "https://archive.org/download/MNMN435/01.%20On%20A%20Plan%20%28feat.%20Green%20Demon%29.mp3",
-      "page": "https://archive.org/details/MNMN435",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "Nattens Madrigal - Ãtte Balladene til Veien i Mennesket",
+      "artist": "Lucas Darklord",
+      "url": "https://archive.org/download/Nattens_Madrigal/HymneI.mp3",
+      "page": "https://archive.org/details/Nattens_Madrigal",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "QuSNG002 Mirko Andreoli - B/N",
-      "artist": "Mirko Andreoli",
-      "url": "https://archive.org/download/Qusng002MirkoAndreoli-Bn/MirkoAndreoli-Bn.mp3",
-      "page": "https://archive.org/details/Qusng002MirkoAndreoli-Bn",
-      "license": "http://creativecommons.org/licenses/by-sa/2.5/it/"
+      "title": "Curri Martinez - Invisible Dance [SK010]",
+      "artist": "Curri Martinez",
+      "url": "https://archive.org/download/invisibledance/dance01.mp3",
+      "page": "https://archive.org/details/invisibledance",
+      "license": "Creative Commons"
     },
     {
-      "title": "DeepMan \" d e e p \" [b048s]",
-      "artist": "DeepMan",
-      "url": "https://archive.org/download/b048s_DeepMan_Deep/1_Deep_Welcome_Note.mp3",
-      "page": "https://archive.org/details/b048s_DeepMan_Deep",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "Virgin Ghost",
+      "artist": "Fabio Keiner",
+      "url": "https://archive.org/download/earsheltering114/01_Fabio_Keiner_-_virgin_ghost_-_virgin_ghost-cheonyeo-gwishin.mp3",
+      "page": "https://archive.org/details/earsheltering114",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
-      "title": "RR.59 - Brandon Like & [tlr] - germ project",
-      "artist": "",
-      "url": "https://archive.org/download/brandon_like_tlr_germ_project/01_brandon_like_and_tlr_Overture_and_Cornfields.mp3",
-      "page": "https://archive.org/details/brandon_like_tlr_germ_project",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "user - hellovapella [2011]",
+      "title": "serocell - afferent affinity cycles vol 2 [2008]",
       "artist": "serocell",
-      "url": "https://archive.org/download/UN0129/01_user%3Dhellovapella.mp3",
-      "page": "https://archive.org/details/UN0129",
+      "url": "https://archive.org/download/UN0085/01_serocell%3Dsalyk.mp3",
+      "page": "https://archive.org/details/UN0085",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Ineffability",
+      "artist": "Jazzaria.com",
+      "url": "https://archive.org/download/ineffability/ineffability.mp3",
+      "page": "https://archive.org/details/ineffability",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "VA * .altered.statez.",
+      "artist": "cOmaRecOrdz",
+      "url": "https://archive.org/download/Va.altered.statez_110/01-nebulist-still_Remainzremix.mp3",
+      "page": "https://archive.org/details/Va.altered.statez_110",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Engine7 - Hope Street",
+      "artist": "legoego",
+      "url": "https://archive.org/download/ego009/ego009_01-dubpatches.mp3",
+      "page": "https://archive.org/details/ego009",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "frei² plays Psychedelectro music",
+      "artist": "The Womb, Robert Bienert",
+      "url": "https://archive.org/download/Freihoch2PlaysPsychedelectroMusic/freihoch2-2011-05-03-the_womb.mp3",
+      "page": "https://archive.org/details/Freihoch2PlaysPsychedelectroMusic",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Hidden - In The Darkest Maze Without Surfaces (2019)",
+      "artist": "Hidden",
+      "url": "https://archive.org/download/RAWCOFFIN330/01.%20In%20The%20Darkest%20Maze%20Without%20Surfaces.mp3",
+      "page": "https://archive.org/details/RAWCOFFIN330",
       "license": "Creative Commons"
     },
     {
@@ -86,38 +114,10 @@
       "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/"
     },
     {
-      "title": "GOD0006 - Anti-Kati - Love Thy Neighbour",
-      "artist": "Anti-Kati",
-      "url": "https://archive.org/download/GOD06/01.mp3",
-      "page": "https://archive.org/details/GOD06",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "[TAN135] Brain Barricade - Zond",
-      "artist": "Ivan Sandakov",
-      "url": "https://archive.org/download/TAN135/1.%20Zond%20I.mp3",
-      "page": "https://archive.org/details/TAN135",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
-    },
-    {
-      "title": "[AR001] 3. Subterranean by T:M",
-      "artist": "T:M",
-      "url": "https://archive.org/download/ar0013.SubterraneanByTm_353/AluraRecords-CompilationOne.-03Subterranean.mp3",
-      "page": "https://archive.org/details/ar0013.SubterraneanByTm_353",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Curri Martinez - Invisible Dance [SK010]",
-      "artist": "Curri Martinez",
-      "url": "https://archive.org/download/invisibledance/dance01.mp3",
-      "page": "https://archive.org/details/invisibledance",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "BH038EP - Alex Key - Hellen Ep",
-      "artist": "Alex Key",
-      "url": "https://archive.org/download/bh038ep/01-alex_key-hellen_vbr.mp3",
-      "page": "https://archive.org/details/bh038ep",
+      "title": "BH030XEP - Gemini 7 - Put-up Job Scenes In The Space Capsule Ep",
+      "artist": "Gemini 7",
+      "url": "https://archive.org/download/bh030xep/01-gemini_7-was_bertalan_farkas_on_the_mercury_vbr.mp3",
+      "page": "https://archive.org/details/bh030xep",
       "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/hu/"
     }
   ]
