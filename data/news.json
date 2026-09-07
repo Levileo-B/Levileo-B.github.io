@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T17:21:01+00:00",
+  "updated": "2026-09-07T21:10:20+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -54,9 +54,9 @@
           "date": "2026-09-07T13:39:23+00:00"
         },
         {
-          "title": "Probe begins into why cargo plane overran Miami runway",
+          "title": "Investigators begin work on why cargo plane overran Miami runway",
           "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-07T09:54:40+00:00"
+          "date": "2026-09-07T17:46:25+00:00"
         },
         {
           "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
@@ -108,6 +108,11 @@
           "date": "2026-09-07T16:44:36+00:00"
         },
         {
+          "title": "Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there",
+          "link": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
+          "date": "2026-09-07T18:52:24+00:00"
+        },
+        {
           "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
           "link": "https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html",
           "date": "2026-09-07T12:09:41+00:00"
@@ -121,11 +126,6 @@
           "title": "Greenland welcomes major funding boost from EU amid Trump’s annexation threats",
           "link": "https://www.cnbc.com/2026/09/07/greenland-eu-trump-critical-minerals-arctic.html",
           "date": "2026-09-07T13:09:36+00:00"
-        },
-        {
-          "title": "Far-right AfD landslide in German state piles pressure on federal government",
-          "link": "https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html",
-          "date": "2026-09-07T17:04:21+00:00"
         }
       ]
     },
@@ -231,6 +231,16 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
+          "link": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
+          "date": "2026-09-07T20:03:41+00:00"
+        },
+        {
+          "title": "Six years later, Sony revisits its legendary XM4 headphones",
+          "link": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
+          "date": "2026-09-04T23:33:55+00:00"
+        },
+        {
           "title": "EcoFlow makes the miniature power station even smaller",
           "link": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
           "date": "2026-09-07T15:00:23+00:00"
@@ -244,16 +254,6 @@
           "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
           "link": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
           "date": "2026-09-04T17:43:23+00:00"
-        },
-        {
-          "title": "Huawei copies Samsung’s privacy display in its latest trifold",
-          "link": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
-          "date": "2026-09-07T10:09:42+00:00"
-        },
-        {
-          "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-          "date": "2026-09-06T23:43:53+00:00"
         }
       ]
     },
@@ -290,6 +290,38 @@
       ]
     },
     {
+      "name": "Hacker News",
+      "category": "开发",
+      "url": "https://hnrss.org/frontpage?count=10",
+      "items": [
+        {
+          "title": "Macbeth and His Problems",
+          "link": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
+          "date": "2026-09-07T20:34:32+00:00"
+        },
+        {
+          "title": "Replaceable but Employed: Automation and the Meaning of Work",
+          "link": "https://www.nber.org/papers/w35559",
+          "date": "2026-09-07T19:06:01+00:00"
+        },
+        {
+          "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+          "link": "https://lax-skyline.parcelscope.net/",
+          "date": "2026-09-07T18:52:06+00:00"
+        },
+        {
+          "title": "Show HN: HomeCat – Design your backyard office",
+          "link": "https://myhomecat.com",
+          "date": "2026-09-07T18:23:35+00:00"
+        },
+        {
+          "title": "Show HN: Wg-admin – web UI for an existing WireGuard host",
+          "link": "https://github.com/logimaxx/wg-admin",
+          "date": "2026-09-07T16:43:37+00:00"
+        }
+      ]
+    },
+    {
       "name": "Lobsters",
       "category": "开发",
       "url": "https://lobste.rs/rss",
@@ -310,14 +342,14 @@
           "date": "2026-09-06T20:41:38+00:00"
         },
         {
-          "title": "Python Iceberg",
-          "link": "https://aleyan.com/projects/python-iceberg/",
-          "date": "2026-09-06T18:46:54+00:00"
+          "title": "bzip3: A better and stronger spiritual successor to BZip2",
+          "link": "https://github.com/iczelia/bzip3",
+          "date": "2026-09-07T18:35:35+00:00"
         },
         {
-          "title": "Two Tiny Utils for the Result Pattern",
-          "link": "https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern",
-          "date": "2026-09-07T14:07:45+00:00"
+          "title": "Rust debugging survey 2026 results",
+          "link": "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/",
+          "date": "2026-09-07T17:00:42+00:00"
         }
       ]
     },
@@ -327,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[OpenAI] 话说老哥们的 chatgpt 客户端,从 codex 开始,完全访问总是一会出现一会消失,我曾一段时间以为被 Openai 打算放弃了,可是后来发现又上线了,今天更新后干活时发现又消失了",
-          "link": "https://www.v2ex.com/t/1240225#reply2",
-          "date": "2026-09-07T17:13:36+00:00"
+          "title": "[问与答] 大家是对自己的文字不自信，还是只想收获赞美？为什么有些人手打的文字，发出来之前还要让 AI 润色整理？",
+          "link": "https://www.v2ex.com/t/1240231#reply0",
+          "date": "2026-09-07T21:02:14+00:00"
         },
         {
-          "title": "[分享创造] PicForge v0.15.0 / 批量图片压缩 / Android / iOS 实况照片解包和转换工具",
-          "link": "https://www.v2ex.com/t/1240224#reply0",
-          "date": "2026-09-07T16:45:23+00:00"
+          "title": "[职场话题] Ｂｏｓｓ直聘刷到专门针对土木、程序员转岗房地产销售的岗位，心情复杂",
+          "link": "https://www.v2ex.com/t/1240230#reply1",
+          "date": "2026-09-07T19:19:05+00:00"
         },
         {
-          "title": "[分享创造] 久坐党，做了一个 iPhone 上的久坐提醒 App： MoveToZero",
-          "link": "https://www.v2ex.com/t/1240223#reply0",
-          "date": "2026-09-07T16:41:21+00:00"
+          "title": "[推广] Interactive Series：从文字或图片开始，逐幕生成并整理 AI 视频故事",
+          "link": "https://www.v2ex.com/t/1240229#reply0",
+          "date": "2026-09-07T18:55:22+00:00"
         },
         {
-          "title": "[Telegram] 经过一个多月的整理，终于整理了一批电报频道群组，累死了",
-          "link": "https://www.v2ex.com/t/1240222#reply0",
-          "date": "2026-09-07T16:38:39+00:00"
+          "title": "[问与答] v2 没有专门的 3d 打印节点吗？",
+          "link": "https://www.v2ex.com/t/1240228#reply0",
+          "date": "2026-09-07T18:18:08+00:00"
         },
         {
-          "title": "[职场话题] 现在转行做交付还来得及吗？",
-          "link": "https://www.v2ex.com/t/1240221#reply0",
-          "date": "2026-09-07T16:34:03+00:00"
+          "title": "[奇思妙想] 现在的 ai 虽然不是真正的人工智能，但是能极大缩短探索路径",
+          "link": "https://www.v2ex.com/t/1240227#reply0",
+          "date": "2026-09-07T17:48:08+00:00"
         }
       ]
     },
@@ -633,7 +665,6 @@
     }
   ],
   "failed": [
-    "36 氪",
-    "Hacker News"
+    "36 氪"
   ]
 }
