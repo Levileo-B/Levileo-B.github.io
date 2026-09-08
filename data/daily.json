@@ -1,68 +1,67 @@
 {
-  "updated": "2026-09-07T21:10:20+00:00",
+  "updated": "2026-09-08T03:18:51+00:00",
   "leetcode": {
-    "date": "2026-09-07",
-    "id": "940",
-    "title": "Distinct Subsequences II",
-    "titleEn": "Distinct Subsequences II",
-    "slug": "distinct-subsequences-ii",
-    "difficulty": "Hard",
+    "date": "2026-09-08",
+    "id": "3870",
+    "title": "Count Commas in Range",
+    "titleEn": "Count Commas in Range",
+    "slug": "count-commas-in-range",
+    "difficulty": "Easy",
     "tags": [
-      "String",
-      "Dynamic Programming"
+      "Math"
     ],
-    "link": "https://leetcode.com/problems/distinct-subsequences-ii/",
+    "link": "https://leetcode.com/problems/count-commas-in-range/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "George Krugers",
-    "text": "George Edward Albert Krugers was a filmmaker active in the Dutch East Indies during the early 20th century. Born in Banda Neira, he migrated to Java in the 1920s and spent time in Surabaya before moving to Bandung. There, he worked with L. Heuveldorp on the colony's first feature film, Loetoeng Kasaroeng, before making his directorial debut in 1927 with Eulis Atjih. The following year, he established the Krugers Film Company; under this banner, he joined the Hajj in 1928 to produce Het Groote Mekka-Feest, considered the first documentary film about the pilgrimage.",
-    "words": 93,
-    "url": "https://en.wikipedia.org/wiki/George_Krugers",
-    "date": "2026-09-07",
+    "title": "Lacy (song)",
+    "text": "\"Lacy\" is a song by American singer-songwriter Olivia Rodrigo from her second studio album, Guts (2023). Rodrigo wrote the track with its producer, Dan Nigro. It became available when the album was released by Geffen Records. A folk-pop and indie folk song, \"Lacy\" originated from a poem that Rodrigo wrote for a class assignment. The song chronicles Rodrigo's obsession with the beauty of a female figure named Lacy, as well as her own envy and self-hatred.",
+    "words": 76,
+    "url": "https://en.wikipedia.org/wiki/Lacy_(song)",
+    "date": "2026-09-08",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Home Movie: 98916: Unidentified",
+    "title": "Another Cup Of Coffee",
     "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/98916_hm_unidentified/98916.mp4",
-    "page": "https://archive.org/details/98916_hm_unidentified",
-    "date": "2026-09-07",
+    "year": "1948",
+    "url": "https://archive.org/download/AnotherCupOf/AnotherCupOf_512kb.mp4",
+    "page": "https://archive.org/details/AnotherCupOf",
+    "date": "2026-09-08",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Anton Vodnik-Iz Pisem Dori Pegam Vodnik",
-      "artist": "Anton Vodnik",
-      "url": "https://archive.org/download/AntonVodnik-izPisemDoriPegamVodnik/AntonVodnik-izPisemDoriPegamVodnik.mp3",
-      "page": "https://archive.org/details/AntonVodnik-izPisemDoriPegamVodnik",
-      "license": "http://creativecommons.org/publicdomain/zero/1.0/"
-    },
-    {
-      "title": "Liz - Lizbox - chat 006",
-      "artist": "Liz",
-      "url": "https://archive.org/download/chat006/liz_lizbox_001_02_singing.mp3",
-      "page": "https://archive.org/details/chat006",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/"
-    },
-    {
-      "title": "(AR96) Ayankoko and Friends Live in Slovenia",
-      "artist": "Ayankoko",
-      "url": "https://archive.org/download/AR96AyankokoandFriendsLiveinSlovenia/1%20Ayankoko%20and%20friends%20intro%20slovenia.mp3",
-      "page": "https://archive.org/details/AR96AyankokoandFriendsLiveinSlovenia",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
-    },
-    {
-      "title": "Nattens Madrigal - Ãtte Balladene til Veien i Mennesket",
-      "artist": "Lucas Darklord",
-      "url": "https://archive.org/download/Nattens_Madrigal/HymneI.mp3",
-      "page": "https://archive.org/details/Nattens_Madrigal",
+      "title": "[inoquo058] diego palacios - decisions",
+      "artist": "diego palacios",
+      "url": "https://archive.org/download/inoquo58/1_Diego-Palacios_-_Decisions.mp3",
+      "page": "https://archive.org/details/inoquo58",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Nerve Breaks 004",
+      "artist": "Paul Reset, Noisy Minority, remix from Hoista",
+      "url": "https://archive.org/download/NerveBreaks004/PaulReset-Crisis.mp3",
+      "page": "https://archive.org/details/NerveBreaks004",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "寒さの中で死ぬ",
+      "artist": "苦い寒さ",
+      "url": "https://archive.org/download/BFTG_261/01%20%E5%AF%92%E3%81%95%E3%81%AE%E4%B8%AD%E3%81%A7%E6%AD%BB%E3%81%AC.mp3",
+      "page": "https://archive.org/details/BFTG_261",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "title": "Roma Laptop Orchestra - Live Improvisation (Stato Elettrico)",
+      "artist": "Stato Elettrico",
+      "url": "https://archive.org/download/RomaLaptopOrchestraLiveImprovvisation/Roma%20Laptop%20Orchestra%20-%20Live%20Improvvisation%20Part%201.mp3",
+      "page": "https://archive.org/details/RomaLaptopOrchestraLiveImprovvisation",
+      "license": "Creative Commons"
     },
     {
       "title": "Øystein Jørgensen- Guitar Soundscapes [treetrunk 285]",
@@ -72,53 +71,53 @@
       "license": "http://creativecommons.org/licenses/by-nd/3.0/"
     },
     {
+      "title": "[insubcdr05] DIATRIBES+JACQUES DEMIERRE+JOHANN BOURQUENEZ piano(s)",
+      "artist": "DIATRIBES+JACQUES DEMIERRE+JOHANN BOURQUENEZ",
+      "url": "https://archive.org/download/insubcdr05DiatribesjacquesDemierrejohannBourquenezPianos/insubcdr0501_diatribesdemierrebourquenez-Tornade.mp3",
+      "page": "https://archive.org/details/insubcdr05DiatribesjacquesDemierrejohannBourquenezPianos",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/ch/"
+    },
+    {
+      "title": "RR.59 - Brandon Like & [tlr] - germ project",
+      "artist": "",
+      "url": "https://archive.org/download/brandon_like_tlr_germ_project/01_brandon_like_and_tlr_Overture_and_Cornfields.mp3",
+      "page": "https://archive.org/details/brandon_like_tlr_germ_project",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "New Big Black Mr. Super-Soul Bad Sugar Man - October 14, 2000 [BNW014]",
+      "artist": "New Big Black Mr. Super-Soul Bad Sugar Man",
+      "url": "https://archive.org/download/BNW014/BNW014-01-Movement_I.mp3",
+      "page": "https://archive.org/details/BNW014",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
+    },
+    {
+      "title": "H.P. Sneakstep : The Metroid Renaissance EP",
+      "artist": "H.P. Sneakstep",
+      "url": "https://archive.org/download/H.p.SneakstepTheMetroidRenaissanceEp/H.P._Sneakstep_-_The_Metroid_Renaissance_EP_-_1_Kraids_Chamber.mp3",
+      "page": "https://archive.org/details/H.p.SneakstepTheMetroidRenaissanceEp",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "psychosonic aether 021 - podcast from n0theen",
+      "artist": "litmus0001 (curator)",
+      "url": "https://archive.org/download/PsychosonicAether021-PodcastFromN0theen/Litmus0001-PsychosonicAether021-2009-12-06n0theen.mp3",
+      "page": "https://archive.org/details/PsychosonicAether021-PodcastFromN0theen",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "The Cabinet EP",
+      "artist": "EGOamp",
+      "url": "https://archive.org/download/ion025_egoamp_the-cabinet-ep/01_egoamp_-_the_cabinet_edit_version.mp3",
+      "page": "https://archive.org/details/ion025_egoamp_the-cabinet-ep",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
       "title": "Ineffability",
       "artist": "Jazzaria.com",
       "url": "https://archive.org/download/ineffability/ineffability.mp3",
       "page": "https://archive.org/details/ineffability",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "La Chamanita con Ali & Ramiro",
-      "artist": "",
-      "url": "https://archive.org/download/chamanitaaliramiro/La%20Chamanita%20con%20Ali%20y%20Ramiro/01%20Todo%20est%C3%A1%20tan%20solo%20que%20me%20da%20miedo.mp3",
-      "page": "https://archive.org/details/chamanitaaliramiro",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Necktar III",
-      "artist": "",
-      "url": "https://archive.org/download/NecktarIii/01.Pork_Song_Intervention_Necktar_III.mp3",
-      "page": "https://archive.org/details/NecktarIii",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Engine7 - Hope Street",
-      "artist": "legoego",
-      "url": "https://archive.org/download/ego009/ego009_01-dubpatches.mp3",
-      "page": "https://archive.org/details/ego009",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Tony Irving & Adam Cadell - Some Shards for the Void",
-      "artist": "Tony Irving & Adam Cadell",
-      "url": "https://archive.org/download/DDW004/1_An_Invasion_of_Glass_Locusts.mp3",
-      "page": "https://archive.org/details/DDW004",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "[TAN171] Steam flow - Gloomy Mansion",
-      "artist": "Mad God",
-      "url": "https://archive.org/download/TAN171/Steam%20flow%20-%20Gloomy%20Mansion.mp3",
-      "page": "https://archive.org/details/TAN171",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
-    },
-    {
-      "title": "寒さの中で死ぬ",
-      "artist": "苦い寒さ",
-      "url": "https://archive.org/download/BFTG_261/01%20%E5%AF%92%E3%81%95%E3%81%AE%E4%B8%AD%E3%81%A7%E6%AD%BB%E3%81%AC.mp3",
-      "page": "https://archive.org/details/BFTG_261",
-      "license": "https://creativecommons.org/licenses/by-sa/4.0/"
     }
   ]
 }
