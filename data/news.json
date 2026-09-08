@@ -1,11 +1,16 @@
 {
-  "updated": "2026-09-08T16:05:20+00:00",
+  "updated": "2026-09-08T20:46:46+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "董建華逝世：從船王富二代到香港首任特首",
+          "link": "https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-08T18:48:17+00:00"
+        },
         {
           "title": "美軍航母全數撤離印太：台灣該擔心「空窗期」嗎？",
           "link": "https://www.bbc.com/zhongwen/articles/c87v33gxr01o/trad?at_medium=RSS&at_campaign=rss",
@@ -25,11 +30,6 @@
           "title": "哈利和梅根重返英國 國王發函重申兩人已非「在職王室成員」",
           "link": "https://www.bbc.com/zhongwen/articles/c3v4d0kpg3zo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-08T02:44:29+00:00"
-        },
-        {
-          "title": "偏頭痛女性比男性慘痛太多 這裏舒緩有方",
-          "link": "https://www.bbc.com/zhongwen/articles/cz9zk1vx53vo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-08T00:17:44+00:00"
         }
       ]
     },
@@ -39,12 +39,17 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+          "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-08T19:11:39+00:00"
+        },
+        {
           "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
           "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-08T14:46:16+00:00"
         },
         {
-          "title": "Four Renoir paintings worth millions stolen in French museum heist",
+          "title": "Renoir paintings worth millions stolen in French museum heist",
           "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-08T13:35:28+00:00"
         },
@@ -56,12 +61,7 @@
         {
           "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
           "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-08T15:19:40+00:00"
-        },
-        {
-          "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-          "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-08T13:58:32+00:00"
+          "date": "2026-09-08T17:10:54+00:00"
         }
       ]
     },
@@ -71,24 +71,24 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
+          "title": "Sapporo to move some beer production from Canada to US after tariffs",
+          "link": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-08T17:41:42+00:00"
+        },
+        {
           "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
           "link": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-08T15:19:43+00:00"
         },
         {
-          "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
+          "title": "Major UK airports hit by air traffic control problems",
           "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-08T16:02:38+00:00"
+          "date": "2026-09-08T20:34:36+00:00"
         },
         {
           "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
           "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-08T09:17:48+00:00"
-        },
-        {
-          "title": "UK's third-biggest taxpayer to leave for Greece",
-          "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-08T09:33:35+00:00"
         },
         {
           "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "Qualcomm issues Amazon warrants to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal",
-          "link": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
-          "date": "2026-09-08T15:56:46+00:00"
+          "title": "U.S. downplays Iran's seizure of unmanned sub in Hormuz Strait",
+          "link": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
+          "date": "2026-09-08T20:17:07+00:00"
         },
         {
           "title": "Bombardier points out U.S. footprint after Trump says aerospace giant must build in America",
           "link": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
-          "date": "2026-09-08T02:05:30+00:00"
+          "date": "2026-09-08T17:08:01+00:00"
+        },
+        {
+          "title": "Trump administration expresses 'profound concern' over Ford's ties to China",
+          "link": "https://www.cnbc.com/2026/09/08/ford-china-dot-sean-duffy.html",
+          "date": "2026-09-08T20:40:44+00:00"
+        },
+        {
+          "title": "New Hampshire goes to the polls in primary for key open Senate seat",
+          "link": "https://www.cnbc.com/2026/09/08/new-hampshire-primary-senate-scott-brown-john-sununu-chris-pappas-karishma-manzur.html",
+          "date": "2026-09-08T19:25:59+00:00"
         },
         {
           "title": "U.S. sanctions Iranian airlines in aim to tighten economic squeeze as war spreads, oil rises",
           "link": "https://www.cnbc.com/2026/09/08/us-sanctions-iran-airlines-oil-economy-war.html",
-          "date": "2026-09-08T15:58:36+00:00"
-        },
-        {
-          "title": "AstraZeneca's COPD drug scores two late-stage trial wins as full data boosts blockbuster hopes",
-          "link": "https://www.cnbc.com/2026/09/08/astrazeneca-copd-drug-tozorakimab-shows-positive-late-stage-trial-results.html",
-          "date": "2026-09-08T15:09:35+00:00"
-        },
-        {
-          "title": "Here’s where rental demand is heading and what it means for future home sales",
-          "link": "https://www.cnbc.com/2026/09/08/rental-demand-home-sales-zillow-report.html",
-          "date": "2026-09-08T15:19:43+00:00"
+          "date": "2026-09-08T17:37:49+00:00"
         }
       ]
     },
@@ -231,29 +231,29 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
-          "title": "The White House pulls its racist Tetris clone",
-          "link": "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone",
-          "date": "2026-09-08T16:03:51+00:00"
+          "title": "Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
+          "link": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
+          "date": "2026-09-08T20:39:49+00:00"
         },
         {
-          "title": "Pusheen’s first game is coming to Apple Arcade",
-          "link": "https://www.theverge.com/games/991398/pusheen-apple-arcade-game",
-          "date": "2026-09-08T15:07:13+00:00"
+          "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+          "date": "2026-09-08T20:16:09+00:00"
         },
         {
-          "title": "JBL’s soundbar with detachable rear speakers is over $300 off",
-          "link": "https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale",
-          "date": "2026-09-08T15:05:06+00:00"
+          "title": "Meta bets on AI agent Muse to catch up in AI race",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+          "date": "2026-09-08T20:06:40+00:00"
         },
         {
-          "title": "Nintendo’s Ocarina of Time remake launches in November",
-          "link": "https://www.theverge.com/games/991218/zelda-ocarina-of-time-remake-release-date-trailer",
-          "date": "2026-09-08T14:52:44+00:00"
+          "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+          "date": "2026-09-08T19:32:39+00:00"
         },
         {
-          "title": "A word with a woman who’s trying to pull off a crossbody phone strap",
-          "link": "https://www.theverge.com/tech/990849/crossbody-phone-strap-style",
-          "date": "2026-09-08T14:04:37+00:00"
+          "title": "Nintendo isn’t scared of GTA VI",
+          "link": "https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6",
+          "date": "2026-09-08T17:13:51+00:00"
         }
       ]
     },
@@ -263,61 +263,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "EV batteries last longer than drivers feared",
-          "link": "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/",
-          "date": "2026-09-08T13:56:38+00:00"
+          "title": "Supreme Court forces TV stations to sell more election ads at steep discounts",
+          "link": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
+          "date": "2026-09-08T19:50:00+00:00"
         },
         {
-          "title": "With another huge infusion of cash, Stoke Space goes even bigger",
-          "link": "https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/",
-          "date": "2026-09-08T12:29:18+00:00"
+          "title": "Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",
+          "link": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/",
+          "date": "2026-09-08T19:12:53+00:00"
         },
         {
-          "title": "The complex corporate web behind a $3.2 billion AI data center",
-          "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-          "date": "2026-09-07T11:00:03+00:00"
+          "title": "Godzilla Minus Zero IMAX trailer teases King Ghidorah",
+          "link": "https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/",
+          "date": "2026-09-08T18:53:23+00:00"
         },
         {
-          "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
-          "link": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
-          "date": "2026-09-06T11:55:26+00:00"
+          "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+          "link": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+          "date": "2026-09-08T18:43:09+00:00"
         },
         {
-          "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
-          "link": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
-          "date": "2026-09-06T10:00:35+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Hacker News",
-      "category": "开发",
-      "url": "https://hnrss.org/frontpage?count=10",
-      "items": [
-        {
-          "title": "Disappointed Optimists",
-          "link": "https://cwodtke.com/disappointed-optimists/",
-          "date": "2026-09-08T15:13:56+00:00"
-        },
-        {
-          "title": "Reverse engineering the 2008 LogiCola, a logic drill program",
-          "link": "https://logicola.org/blog/the-new-logicola",
-          "date": "2026-09-08T15:00:43+00:00"
-        },
-        {
-          "title": "Google DeepMind Releases AlphaGenome Atlas",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-          "date": "2026-09-08T14:55:45+00:00"
-        },
-        {
-          "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
-          "link": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
-          "date": "2026-09-08T14:54:29+00:00"
-        },
-        {
-          "title": "How Climate Resilient Are the Largest Cities?",
-          "link": "https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/",
-          "date": "2026-09-08T14:49:39+00:00"
+          "title": "Update to Google’s AI weather model improves forecast accuracy",
+          "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+          "date": "2026-09-08T18:00:56+00:00"
         }
       ]
     },
@@ -332,24 +300,24 @@
           "date": "2026-09-08T04:17:11+00:00"
         },
         {
+          "title": "Switching Password Managers in 2026",
+          "link": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
+          "date": "2026-09-08T13:55:09+00:00"
+        },
+        {
           "title": "The state of European cloud providers in 2026",
           "link": "https://crescentro.se/posts/euro-cloud-providers-2026/",
           "date": "2026-09-08T07:20:16+00:00"
         },
         {
+          "title": "On the Navier–Stokes Millennium Prize Problem",
+          "link": "https://openai.com/index/navier-stokes-solution/",
+          "date": "2026-09-08T17:53:17+00:00"
+        },
+        {
           "title": "Extreme Server Side Rendering",
           "link": "https://www.scd31.com/posts/extreme-server-side-rendering",
           "date": "2026-09-08T10:54:57+00:00"
-        },
-        {
-          "title": "Jellyfin 12.0",
-          "link": "https://jellyfin.org/posts/jellyfin-release-12.0",
-          "date": "2026-09-08T03:13:20+00:00"
-        },
-        {
-          "title": "Bitap: my favorite string matching algorithm",
-          "link": "https://jo3-l.dev/posts/bitap/",
-          "date": "2026-09-08T06:37:38+00:00"
         }
       ]
     },
@@ -359,29 +327,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[问与答] 这个 AI 语音名字叫什么？有大佬知道吗？",
-          "link": "https://www.v2ex.com/t/1240529#reply0",
-          "date": "2026-09-08T15:41:40+00:00"
+          "title": "[分享发现] 快咔更新分享：截图内容搜索（本地 RAG）、按视觉布局还原的 OCR、原生 C 匹配器长截图拼接",
+          "link": "https://www.v2ex.com/t/1240541#reply0",
+          "date": "2026-09-08T19:36:30+00:00"
         },
         {
-          "title": "[程序员] 有那种 skill 或者什么 ai 工具对代码仓进行建立索引",
-          "link": "https://www.v2ex.com/t/1240528#reply0",
-          "date": "2026-09-08T15:40:35+00:00"
+          "title": "[程序员] 请教下, 用 claude/codex 写代码太贵了, 打算尝试下国产模型, 如何处理?",
+          "link": "https://www.v2ex.com/t/1240540#reply3",
+          "date": "2026-09-08T19:31:46+00:00"
         },
         {
-          "title": "[分享创造] 墨知，一款本地 markdown 知识库工具",
-          "link": "https://www.v2ex.com/t/1240527#reply0",
-          "date": "2026-09-08T15:37:09+00:00"
+          "title": "[OpenAI] OAI、AAI、与 NS 方程",
+          "link": "https://www.v2ex.com/t/1240538#reply0",
+          "date": "2026-09-08T18:49:45+00:00"
         },
         {
-          "title": "[分享创造] [开源] PixelBridge：用闲置的初代 Pixel，给 iCloud 照片多做一份备份",
-          "link": "https://www.v2ex.com/t/1240526#reply3",
-          "date": "2026-09-08T15:32:38+00:00"
+          "title": "[推广] 最新 DeepSeek v4.1 Flash 模型 API 上线",
+          "link": "https://www.v2ex.com/t/1240537#reply0",
+          "date": "2026-09-08T18:46:07+00:00"
         },
         {
-          "title": "[职场话题] 关于本月开始社保新规，公司又会准备怎么应对",
-          "link": "https://www.v2ex.com/t/1240525#reply0",
-          "date": "2026-09-08T15:25:45+00:00"
+          "title": "[分享创造] 做了个能在浏览器里跑真 Manim 的站，不用装 Python",
+          "link": "https://www.v2ex.com/t/1240536#reply0",
+          "date": "2026-09-08T18:19:54+00:00"
         }
       ]
     },
@@ -468,38 +436,6 @@
           "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
           "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
           "date": "2026-08-20T23:53:54+00:00"
-        }
-      ]
-    },
-    {
-      "name": "酷壳",
-      "category": "开发",
-      "url": "https://coolshell.cn/feed",
-      "items": [
-        {
-          "title": "是微服务架构不香还是云不香？",
-          "link": "https://coolshell.cn/articles/22422.html",
-          "date": "2023-05-08T09:52:06+00:00"
-        },
-        {
-          "title": "我看ChatGPT: 为啥谷歌掉了千亿美金",
-          "link": "https://coolshell.cn/articles/22398.html",
-          "date": "2023-02-11T16:31:16+00:00"
-        },
-        {
-          "title": "聊聊 nostr 和 审查",
-          "link": "https://coolshell.cn/articles/22367.html",
-          "date": "2023-02-03T07:46:13+00:00"
-        },
-        {
-          "title": "感染新冠的经历",
-          "link": "https://coolshell.cn/articles/22341.html",
-          "date": "2022-12-13T07:39:39+00:00"
-        },
-        {
-          "title": "eBPF 介绍",
-          "link": "https://coolshell.cn/articles/22320.html",
-          "date": "2022-12-10T02:38:51+00:00"
         }
       ]
     },
@@ -600,6 +536,38 @@
       ]
     },
     {
+      "name": "Nature",
+      "category": "科研",
+      "url": "https://www.nature.com/nature.rss",
+      "items": [
+        {
+          "title": "Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia",
+          "link": "https://www.nature.com/articles/s41586-026-11081-7",
+          "date": "2026-09-08T00:00:00+00:00"
+        },
+        {
+          "title": "Put patients at the centre of medical AI governance",
+          "link": "https://www.nature.com/articles/d41586-026-02796-8",
+          "date": "2026-09-08T00:00:00+00:00"
+        },
+        {
+          "title": "Nepal disaster is a wake-up call to take compound climate risks seriously",
+          "link": "https://www.nature.com/articles/d41586-026-02794-w",
+          "date": "2026-09-08T00:00:00+00:00"
+        },
+        {
+          "title": "Sideline vested interests to reform China’s research",
+          "link": "https://www.nature.com/articles/d41586-026-02797-7",
+          "date": "2026-09-08T00:00:00+00:00"
+        },
+        {
+          "title": "Limit bets on clinical-trial outcomes being placed on prediction markets",
+          "link": "https://www.nature.com/articles/d41586-026-02795-9",
+          "date": "2026-09-08T00:00:00+00:00"
+        }
+      ]
+    },
+    {
       "name": "ScienceDaily",
       "category": "科研",
       "url": "https://www.sciencedaily.com/rss/all.xml",
@@ -634,6 +602,7 @@
   ],
   "failed": [
     "36 氪",
-    "Nature"
+    "Hacker News",
+    "酷壳"
   ]
 }
