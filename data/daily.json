@@ -1,74 +1,95 @@
 {
-  "updated": "2026-09-08T23:12:43+00:00",
+  "updated": "2026-09-09T03:22:05+00:00",
   "leetcode": {
-    "date": "2026-09-08",
-    "id": "3870",
-    "title": "Count Commas in Range",
-    "titleEn": "Count Commas in Range",
-    "slug": "count-commas-in-range",
-    "difficulty": "Easy",
+    "date": "2026-09-09",
+    "id": "3871",
+    "title": "Count Commas in Range II",
+    "titleEn": "Count Commas in Range II",
+    "slug": "count-commas-in-range-ii",
+    "difficulty": "Medium",
     "tags": [
       "Math"
     ],
-    "link": "https://leetcode.com/problems/count-commas-in-range/",
+    "link": "https://leetcode.com/problems/count-commas-in-range-ii/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Lacy (song)",
-    "text": "\"Lacy\" is a song by American singer-songwriter Olivia Rodrigo from her second studio album, Guts (2023). Rodrigo wrote the track with its producer, Dan Nigro. It became available when the album was released by Geffen Records. A folk-pop and indie folk song, \"Lacy\" originated from a poem that Rodrigo wrote for a class assignment. The song chronicles Rodrigo's obsession with the beauty of a female figure named Lacy, as well as her own envy and self-hatred.",
-    "words": 76,
-    "url": "https://en.wikipedia.org/wiki/Lacy_(song)",
-    "date": "2026-09-08",
+    "title": "Agnosticism",
+    "text": "Agnosticism is a position that questions the existence of God or the divine. On a psychological level, it is a personal attitude that suspends judgment, withholding both belief and disbelief. In philosophy, agnosticism is often treated as a general claim stating that God's existence is unknown or unknowable. In the broadest sense, agnosticism is not restricted to theology and can also express skeptical attitudes toward non-religious claims.",
+    "words": 67,
+    "url": "https://en.wikipedia.org/wiki/Agnosticism",
+    "date": "2026-09-09",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Just a Spark",
-    "creator": "Handy (Jam) Organization",
-    "year": "1937",
-    "url": "https://archive.org/download/JustaSpa1937/JustaSpa1937_512kb.mp4",
-    "page": "https://archive.org/details/JustaSpa1937",
-    "date": "2026-09-08",
+    "title": "Military Courtesies 1 A",
+    "creator": "",
+    "year": "",
+    "url": "https://archive.org/download/MilitaryCour/MilitaryCour_512kb.mp4",
+    "page": "https://archive.org/details/MilitaryCour",
+    "date": "2026-09-09",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "[NKR793] Empty",
-      "artist": "Anonymous Coward",
-      "url": "https://archive.org/download/nkr793_empty/01_Remind_Me.mp3",
-      "page": "https://archive.org/details/nkr793_empty",
+      "title": "chemicaL_Knowledge",
+      "artist": "sOuL_sCientiSt",
+      "url": "https://archive.org/download/chemicaL_Knowledge/chemicaLKnowledge.mp3",
+      "page": "https://archive.org/details/chemicaL_Knowledge",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
+    },
+    {
+      "title": "[inoquo060] v.a. - sixty",
+      "artist": "v.a.",
+      "url": "https://archive.org/download/inoquo060/01_SG_-_night-oblivion.mp3",
+      "page": "https://archive.org/details/inoquo060",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "[inoquo058] diego palacios - decisions",
+      "artist": "diego palacios",
+      "url": "https://archive.org/download/inoquo58/1_Diego-Palacios_-_Decisions.mp3",
+      "page": "https://archive.org/details/inoquo58",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Si fuéramos SINGLE",
+      "artist": "ideadelsur",
+      "url": "https://archive.org/download/SINGLEPOBRETOPO1/PobreTopo-SiFuramos.mp3",
+      "page": "https://archive.org/details/SINGLEPOBRETOPO1",
       "license": "Creative Commons"
     },
     {
-      "title": "They Made Me Do It",
-      "artist": "Gypsy",
-      "url": "https://archive.org/download/they-made-me-do-it/They%20Made%20Me%20Do%20It.mp3",
-      "page": "https://archive.org/details/they-made-me-do-it",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "August Traeger Pd_Works",
+      "artist": "August Traeger",
+      "url": "https://archive.org/download/AugustTraeger_Pd_Works/august%20traeger%20-%20pd_works%20-%201%20-%20arpedsa.mp3",
+      "page": "https://archive.org/details/AugustTraeger_Pd_Works",
+      "license": "Creative Commons"
     },
     {
-      "title": "spare parts",
-      "artist": "2003 Toyota Corolla",
-      "url": "https://archive.org/download/BFTG_249/01%202006%20Toyota%20Corolla%20%28Video%20Version%29.mp3",
-      "page": "https://archive.org/details/BFTG_249",
-      "license": "https://creativecommons.org/licenses/by-sa/4.0/"
+      "title": "La Chamanita con Ali & Ramiro",
+      "artist": "",
+      "url": "https://archive.org/download/chamanitaaliramiro/La%20Chamanita%20con%20Ali%20y%20Ramiro/01%20Todo%20est%C3%A1%20tan%20solo%20que%20me%20da%20miedo.mp3",
+      "page": "https://archive.org/details/chamanitaaliramiro",
+      "license": "Creative Commons"
     },
     {
-      "title": "Virgin Ghost",
-      "artist": "Fabio Keiner",
-      "url": "https://archive.org/download/earsheltering114/01_Fabio_Keiner_-_virgin_ghost_-_virgin_ghost-cheonyeo-gwishin.mp3",
-      "page": "https://archive.org/details/earsheltering114",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      "title": "DJ 4RCA$H - x SOFM (Single) (2018)",
+      "artist": "DJ 4RCA$H",
+      "url": "https://archive.org/download/IBR_770/01.%20x%20SOFM.mp3",
+      "page": "https://archive.org/details/IBR_770",
+      "license": "Creative Commons"
     },
     {
-      "title": "Like Life Easily Ended",
-      "artist": "A.F.F.E.N",
-      "url": "https://archive.org/download/AFFEN-LikeLifeEasilyEnded/AFFEN-LikeLifeEasilyEnded.mp3",
-      "page": "https://archive.org/details/AFFEN-LikeLifeEasilyEnded",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "Nattens Madrigal - Ãtte Balladene til Veien i Mennesket",
+      "artist": "Lucas Darklord",
+      "url": "https://archive.org/download/Nattens_Madrigal/HymneI.mp3",
+      "page": "https://archive.org/details/Nattens_Madrigal",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
       "title": "[insubcdr05] DIATRIBES+JACQUES DEMIERRE+JOHANN BOURQUENEZ piano(s)",
@@ -78,46 +99,25 @@
       "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/ch/"
     },
     {
-      "title": "chemicaL_Knowledge",
-      "artist": "sOuL_sCientiSt",
-      "url": "https://archive.org/download/chemicaL_Knowledge/chemicaLKnowledge.mp3",
-      "page": "https://archive.org/details/chemicaL_Knowledge",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
+      "title": "QuSNG002 Mirko Andreoli - B/N",
+      "artist": "Mirko Andreoli",
+      "url": "https://archive.org/download/Qusng002MirkoAndreoli-Bn/MirkoAndreoli-Bn.mp3",
+      "page": "https://archive.org/details/Qusng002MirkoAndreoli-Bn",
+      "license": "http://creativecommons.org/licenses/by-sa/2.5/it/"
     },
     {
-      "title": "Anton Vodnik-Iz Pisem Dori Pegam Vodnik",
-      "artist": "Anton Vodnik",
-      "url": "https://archive.org/download/AntonVodnik-izPisemDoriPegamVodnik/AntonVodnik-izPisemDoriPegamVodnik.mp3",
-      "page": "https://archive.org/details/AntonVodnik-izPisemDoriPegamVodnik",
-      "license": "http://creativecommons.org/publicdomain/zero/1.0/"
-    },
-    {
-      "title": "[EAR006] mlvch - четыре километра от душного города [EP] (2017)",
-      "artist": "",
-      "url": "https://archive.org/download/ear_006/01%20pvrklsk.mp3",
-      "page": "https://archive.org/details/ear_006",
+      "title": "[NKR793] Empty",
+      "artist": "Anonymous Coward",
+      "url": "https://archive.org/download/nkr793_empty/01_Remind_Me.mp3",
+      "page": "https://archive.org/details/nkr793_empty",
       "license": "Creative Commons"
     },
     {
-      "title": "[AR001] 3. Subterranean by T:M",
-      "artist": "T:M",
-      "url": "https://archive.org/download/ar0013.SubterraneanByTm_353/AluraRecords-CompilationOne.-03Subterranean.mp3",
-      "page": "https://archive.org/details/ar0013.SubterraneanByTm_353",
+      "title": "user - hellovapella [2011]",
+      "artist": "serocell",
+      "url": "https://archive.org/download/UN0129/01_user%3Dhellovapella.mp3",
+      "page": "https://archive.org/details/UN0129",
       "license": "Creative Commons"
-    },
-    {
-      "title": "India del Espacio - Cadenas de Agüero",
-      "artist": "",
-      "url": "https://archive.org/download/cadenasdeaguero/Cadenas%20de%20Ag%C3%BCero/01%20Narciartistas.mp3",
-      "page": "https://archive.org/details/cadenasdeaguero",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "DeepMan \" d e e p \" [b048s]",
-      "artist": "DeepMan",
-      "url": "https://archive.org/download/b048s_DeepMan_Deep/1_Deep_Welcome_Note.mp3",
-      "page": "https://archive.org/details/b048s_DeepMan_Deep",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     }
   ]
 }
