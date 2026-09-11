@@ -1,117 +1,55 @@
 {
-  "updated": "2026-09-10T22:57:08+00:00",
+  "updated": "2026-09-11T03:17:11+00:00",
   "leetcode": {
-    "date": "2026-09-10",
-    "id": "2265",
-    "title": "Count Nodes Equal to Average of Subtree",
-    "titleEn": "Count Nodes Equal to Average of Subtree",
-    "slug": "count-nodes-equal-to-average-of-subtree",
-    "difficulty": "Medium",
+    "date": "2026-09-11",
+    "id": "3483",
+    "title": "Unique 3-Digit Even Numbers",
+    "titleEn": "Unique 3-Digit Even Numbers",
+    "slug": "unique-3-digit-even-numbers",
+    "difficulty": "Easy",
     "tags": [
-      "Tree",
-      "Depth-First Search",
-      "Binary Tree"
+      "Array",
+      "Hash Table",
+      "Recursion",
+      "Enumeration"
     ],
-    "link": "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/",
+    "link": "https://leetcode.com/problems/unique-3-digit-even-numbers/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Yugoslav torpedo boat T6",
-    "text": "T6 was a sea-going torpedo boat that was operated by the Royal Yugoslav Navy between 1921 and 1941. Originally 93 F, a 250t-class torpedo boat of the Austro-Hungarian Navy built in 1915–1916, she was armed with two Škoda 66 mm (2.6 in) guns and four 450 mm (17.7 in) torpedo tubes and could carry 10–12 naval mines. She saw active service during World War I, performing convoy, escort, patrol and minesweeping tasks, as well as anti-submarine operations. In 1917 the suffixes of all Austro-Hungarian torpedo boats were removed, and thereafter she was referred to as 93.",
-    "words": 96,
-    "url": "https://en.wikipedia.org/wiki/Yugoslav_torpedo_boat_T6",
-    "date": "2026-09-10",
+    "title": "American Airlines Flight 11",
+    "text": "American Airlines Flight 11 was a scheduled domestic transcontinental passenger flight that was hijacked by Mohamed Atta and four other al-Qaeda hijackers on the morning of September 11, 2001. It was one of four aircraft hijacked as part of the September 11 attacks. Atta deliberately flew the aircraft into the North Tower of the World Trade Center complex in New York City, killing all 92 people aboard, including the five hijackers. The impact destroyed all escape routes from the floors above the impact zone, trapping more than 1,300 occupants on floors 92–110, none of whom survived. People below the impact zone were also killed as a result of the attack.",
+    "words": 110,
+    "url": "https://en.wikipedia.org/wiki/American_Airlines_Flight_11",
+    "date": "2026-09-11",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Home Movie: 97457: Travel",
-    "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/HMTravel97457/97457.mp4",
-    "page": "https://archive.org/details/HMTravel97457",
-    "date": "2026-09-10",
+    "title": "Close Call, A",
+    "creator": "Sterling Motion Picture Co.",
+    "year": "1914",
+    "url": "https://archive.org/download/6196_Close_Call_A_01_00_36_18/6196_Close_Call_A_01_00_36_18.m4v",
+    "page": "https://archive.org/details/6196_Close_Call_A_01_00_36_18",
+    "date": "2026-09-11",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "xtnddOrgsm_jaimeMunarriz",
-      "artist": "Jaime Munarriz",
-      "url": "https://archive.org/download/xtnddOrgsm_jaimeMunarriz/xtnddOrgsm_jaimeMunarriz.mp3",
-      "page": "https://archive.org/details/xtnddOrgsm_jaimeMunarriz",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Live",
-      "artist": "Fundstücke",
-      "url": "https://archive.org/download/zero157/Fundstuecke%20-%20Live%20-%2001%20Der%20Erste.mp3",
-      "page": "https://archive.org/details/zero157",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "119DIYChurch_large garden zombie sculpture",
-      "artist": "G.O:D",
-      "url": "https://archive.org/download/119diychurch_largeGardenZombieSculpture/119diychurch_largeGardenZombieSculpture.mp3",
-      "page": "https://archive.org/details/119diychurch_largeGardenZombieSculpture",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "Андрей Гаев - 17 мгновений Донбасса (Single) (2018)",
-      "artist": "Андрей Гаев",
-      "url": "https://archive.org/download/IBR_681/01.%2017%20%D0%BC%D0%B3%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81%D1%81%D0%B0.mp3",
-      "page": "https://archive.org/details/IBR_681",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Atractores Extraños II, or we are happy on the another planet",
-      "artist": "G.A.F.",
-      "url": "https://archive.org/download/tube101/tube101-01-gaf_-_gaf_likes_turbo_folk.mp3",
-      "page": "https://archive.org/details/tube101",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "w.x & thescientist - Laboratory",
-      "artist": "",
-      "url": "https://archive.org/download/wx_thescientist_laboratory/01HazardousMaterials.mp3",
-      "page": "https://archive.org/details/wx_thescientist_laboratory",
-      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-    },
-    {
-      "title": "Dr. Noise M & Dr. Walker - Liquid Sky Berlin Ambient Session (Live)",
-      "artist": "Dr. NoiseM, Dr. Walker",
-      "url": "https://archive.org/download/dr.-noise-m-dr.-walker-liquid-sky-berlin-ambient-session-live/Dr.%20NoiseM%20%26%20Dr.%20Walker%20-%20Liquid%20Sky%20Berlin%20Ambient%20Session%20%28Live%29.mp3",
-      "page": "https://archive.org/details/dr.-noise-m-dr.-walker-liquid-sky-berlin-ambient-session-live",
+      "title": "DIENSTbar @ dfm.nu Transmission No. 21The Beauteousness Of Noise Livesession: Schmacke / Ohmnoise",
+      "artist": "Ohmnoise",
+      "url": "https://archive.org/download/dbdfmnu21/dbdfmnu21.mp3",
+      "page": "https://archive.org/details/dbdfmnu21",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "Netz Klang - Ausgabe 5.02.07",
-      "artist": "Tobi Tobsucht",
-      "url": "https://archive.org/download/netzklang-05-02-07/netzklang-05-02-07.mp3",
-      "page": "https://archive.org/details/netzklang-05-02-07",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Rawnoizyshittlessbazzztard & A. Uvarov - Pain & Suffering (2017)",
-      "artist": "Rawnoizyshittlessbazzztard & A. Uvarov",
-      "url": "https://archive.org/download/IBR_303/01%20-%20Your%20Throat%20-%20My%20Knife.mp3",
-      "page": "https://archive.org/details/IBR_303",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "FAUSTINO GOYENA - De Neatins",
-      "artist": "",
-      "url": "https://archive.org/download/HAZE077/1_vbr.mp3",
-      "page": "https://archive.org/details/HAZE077",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "VxBxDxDx - Куририн кидает зигу (Single) (2019)",
-      "artist": "VxBxDxDx",
-      "url": "https://archive.org/download/IBR_1062/01.%20%D0%9A%D1%83%D1%80%D0%B8%D1%80%D0%B8%D0%BD%20%D0%BA%D0%B8%D0%B4%D0%B0%D0%B5%D1%82%20%D0%B7%D0%B8%D0%B3%D1%83.mp3",
-      "page": "https://archive.org/details/IBR_1062",
+      "title": "depixel - one good knife [2007]",
+      "artist": "serocell",
+      "url": "https://archive.org/download/UN0060/01_depixel%3Dtime5.mp3",
+      "page": "https://archive.org/details/UN0060",
       "license": "Creative Commons"
     },
     {
@@ -120,6 +58,69 @@
       "url": "https://archive.org/download/055diychurch_weLiveInClouds/055DIYChurch_WeLiveInClouds.mp3",
       "page": "https://archive.org/details/055diychurch_weLiveInClouds",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Heart Donor (Roostex Ratmix)",
+      "artist": "",
+      "url": "https://archive.org/download/HeartDonorroostexRatmix/d3xd.mp3",
+      "page": "https://archive.org/details/HeartDonorroostexRatmix",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Doo dOO DoOoOo",
+      "artist": "Chris Howard",
+      "url": "https://archive.org/download/DooDooDooooo/VORC010.mp3",
+      "page": "https://archive.org/details/DooDooDooooo",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/us/"
+    },
+    {
+      "title": "Alpha #1",
+      "artist": "",
+      "url": "https://archive.org/download/Alpha1_201608/01.-%20OBSERVATORIO%2051%20-%20DOPA.mp3",
+      "page": "https://archive.org/details/Alpha1_201608",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Gregory Lenczycki \"The Brainchild Overture\"",
+      "artist": "Gregory Lenczycki",
+      "url": "https://archive.org/download/GregoryLenczyckitheBrainchildOverture/Lenczycki_theBrainchildOverture.mp3",
+      "page": "https://archive.org/details/GregoryLenczyckitheBrainchildOverture",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Turning Torso - Jacaranda [YARN004]",
+      "artist": "Turning Torso",
+      "url": "https://archive.org/download/yarn004/Turning_Torso-Jacaranda.mp3",
+      "page": "https://archive.org/details/yarn004",
+      "license": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "title": "United in Silence",
+      "artist": "Rinus Van Alebeek",
+      "url": "https://archive.org/download/zerom02/UnitedInSilence.mp3",
+      "page": "https://archive.org/details/zerom02",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "DIENSTbar Radio Transmission No. 314 Special Theme: La Radio? Pero si es, muy facil",
+      "artist": "DIENSTbar",
+      "url": "https://archive.org/download/dbr314/dbr314.mp3",
+      "page": "https://archive.org/details/dbr314",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "MICROBIT-REC 061",
+      "artist": "Micro... Proj...",
+      "url": "https://archive.org/download/Microbit-rec061/mbr061_micro_proj_-_noise_song_for_razxc.mp3",
+      "page": "https://archive.org/details/Microbit-rec061",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Infinitesimalizer",
+      "artist": "Spirit Duplicator",
+      "url": "https://archive.org/download/Infinitesimalizer/01IShookMyselfAllNightLong.mp3",
+      "page": "https://archive.org/details/Infinitesimalizer",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/us/"
     }
   ]
 }
