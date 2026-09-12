@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T15:05:32+00:00",
+  "updated": "2026-09-12T20:14:56+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,6 +39,11 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-12T17:42:38+00:00"
+        },
+        {
           "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
           "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-12T12:15:50+00:00"
@@ -49,19 +54,14 @@
           "date": "2026-09-12T13:56:20+00:00"
         },
         {
-          "title": "French officials investigate if 'malicious act' caused train derailment",
+          "title": "Fire at nursing home in Chile kills 16 residents",
+          "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-12T19:36:50+00:00"
+        },
+        {
+          "title": "French officials investigate if malicious act caused train derailment",
           "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-12T14:13:57+00:00"
-        },
-        {
-          "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-12T05:55:15+00:00"
-        },
-        {
-          "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
-          "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-12T10:00:05+00:00"
+          "date": "2026-09-12T15:05:53+00:00"
         }
       ]
     },
@@ -71,14 +71,19 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
+          "title": "US prices remain high as fuel costs squeeze household budgets",
+          "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-11T14:22:42+00:00"
+        },
+        {
           "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
           "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-11T15:37:25+00:00"
         },
         {
-          "title": "US prices remain high as fuel costs squeeze household budgets",
-          "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-11T14:22:42+00:00"
+          "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+          "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-12T18:31:23+00:00"
         },
         {
           "title": "Interest rates could rise again across the world – here's why",
@@ -89,11 +94,6 @@
           "title": "AI boom helps drive surprise UK growth in July",
           "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-11T10:17:28+00:00"
-        },
-        {
-          "title": "I asked my husband to pay into my pension when we had a child - here's why",
-          "link": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-10T23:04:30+00:00"
         }
       ]
     },
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "Here’s the inflation breakdown for August 2026 — in one chart",
-          "link": "https://www.cnbc.com/2026/09/11/cpi-inflation-breakdown-august-2026.html",
-          "date": "2026-09-11T17:14:27+00:00"
-        },
-        {
-          "title": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
-          "link": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
-          "date": "2026-09-12T13:15:04+00:00"
-        },
-        {
-          "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq",
-          "link": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html",
-          "date": "2026-09-11T21:35:14+00:00"
-        },
-        {
           "title": "Oil's roundtrip back to $100. Why China could determine what happens next",
           "link": "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
           "date": "2026-09-12T12:40:05+00:00"
         },
         {
-          "title": "Trump sees Iran war ending soon after mid-term elections, predicts oil prices will then fall sharply",
-          "link": "https://www.cnbc.com/2026/09/12/trump-sees-iran-war-ending-very-soon-oil-prices-then-falling.html",
-          "date": "2026-09-12T13:02:15+00:00"
+          "title": "Anthropic’s Amodei shares plan to ‘slow the pace’ of growing AI capabilities; Musk and Altman express support",
+          "link": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+          "date": "2026-09-12T19:59:20+00:00"
+        },
+        {
+          "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
+          "link": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
+          "date": "2026-09-12T17:14:56+00:00"
+        },
+        {
+          "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
+          "link": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
+          "date": "2026-09-12T12:49:15+00:00"
+        },
+        {
+          "title": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
+          "link": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
+          "date": "2026-09-12T13:15:04+00:00"
         }
       ]
     },
@@ -231,6 +231,21 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Sylvan Esso think you should splurge on good-quality yogurt",
+          "link": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
+          "date": "2026-09-12T16:34:24+00:00"
+        },
+        {
+          "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+          "date": "2026-09-12T16:23:40+00:00"
+        },
+        {
+          "title": "LG responds to TV spying allegations",
+          "link": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
+          "date": "2026-09-12T15:19:44+00:00"
+        },
+        {
           "title": "Trump is giving data centers a pass to pollute",
           "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
           "date": "2026-09-12T14:41:27+00:00"
@@ -239,21 +254,6 @@
           "title": "Laika’s stop-motion fantasy Wildwood looks so smooth",
           "link": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
           "date": "2026-09-12T13:10:57+00:00"
-        },
-        {
-          "title": "Where to preorder the iPhone 18 Pro and Pro Max",
-          "link": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
-          "date": "2026-09-11T18:52:32+00:00"
-        },
-        {
-          "title": "OpenAI just wants to win",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-          "date": "2026-09-11T23:35:48+00:00"
-        },
-        {
-          "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-          "date": "2026-09-11T20:44:25+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun\"",
-          "link": "https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun",
-          "date": "2026-09-12T14:16:24+00:00"
+          "title": "An open letter to Dario: if you mean it, open the weights",
+          "link": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+          "date": "2026-09-12T19:15:32+00:00"
         },
         {
-          "title": "We Must Pace the Frontier",
-          "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
-          "date": "2026-09-12T14:10:49+00:00"
+          "title": "Will There Be a 7G?",
+          "link": "https://arxiv.org/abs/2609.01877",
+          "date": "2026-09-12T17:05:31+00:00"
         },
         {
-          "title": "Compiler Can Undo Your Security Checks",
-          "link": "https://davidbombal.com/your-compiler-can-undo-your-security-checks/",
-          "date": "2026-09-12T14:07:58+00:00"
+          "title": "Make your first edit to OpenStreetMap",
+          "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
+          "date": "2026-09-12T16:25:08+00:00"
         },
         {
-          "title": "A Mathematical Framework for Transformer Circuits (2021)",
-          "link": "https://transformer-circuits.pub/2021/framework/index.html",
-          "date": "2026-09-12T13:56:58+00:00"
+          "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+          "link": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+          "date": "2026-09-12T15:49:52+00:00"
         },
         {
-          "title": "My last six months at Evernote",
-          "link": "https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/",
-          "date": "2026-09-12T13:54:19+00:00"
+          "title": "Nvidia is the central bank of AI",
+          "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "date": "2026-09-12T15:08:27+00:00"
         }
       ]
     },
@@ -327,29 +327,29 @@
       "url": "https://lobste.rs/rss",
       "items": [
         {
-          "title": "Feeling sad about AI",
-          "link": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
-          "date": "2026-09-11T12:33:20+00:00"
-        },
-        {
-          "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-          "link": "https://www.rubyhack.ai/",
-          "date": "2026-09-11T23:41:50+00:00"
-        },
-        {
-          "title": "Pandas Should Go Extinct",
-          "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
-          "date": "2026-09-12T04:23:08+00:00"
-        },
-        {
           "title": "Linux Zoom Client Proactively Reads X11 Clipboard",
           "link": "https://hachyderm.io/@simontatham/117201594980991062",
           "date": "2026-09-12T12:38:53+00:00"
         },
         {
-          "title": "A Severe Misalignment of AI in Mathematics",
-          "link": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-          "date": "2026-09-11T19:03:30+00:00"
+          "title": "Feeling sad about AI",
+          "link": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+          "date": "2026-09-11T12:33:20+00:00"
+        },
+        {
+          "title": "I made a build visualizer to understand Bun’s compile times",
+          "link": "https://lalitm.com/post/buildprof/",
+          "date": "2026-09-12T14:48:24+00:00"
+        },
+        {
+          "title": "Base84 deserves a place in file names",
+          "link": "https://00f.net/2026/09/09/base84/",
+          "date": "2026-09-12T14:38:51+00:00"
+        },
+        {
+          "title": "Pandas Should Go Extinct",
+          "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
+          "date": "2026-09-12T04:23:08+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
+          "title": "[分享创造] Minimax h3 开源太强了，现在有很多特别实用的 lora，搞了个在线的 h3 lora 集合",
+          "link": "https://www.v2ex.com/t/1241614#reply0",
+          "date": "2026-09-12T17:20:49+00:00"
+        },
+        {
+          "title": "[程序员] 记录一下最近 2 个月做 Ozon 工具和一次未开始就散掉的合作",
+          "link": "https://www.v2ex.com/t/1241612#reply1",
+          "date": "2026-09-12T16:11:38+00:00"
+        },
+        {
+          "title": "[分享创造] Brosis-把整个 Mac 变成你 Agent 的上下文",
+          "link": "https://www.v2ex.com/t/1241609#reply0",
+          "date": "2026-09-12T15:13:28+00:00"
+        },
+        {
+          "title": "[分享创造] 开源 RED：让 AI 持续理解项目，和你一起把想法做成产品",
+          "link": "https://www.v2ex.com/t/1241608#reply0",
+          "date": "2026-09-12T15:10:01+00:00"
+        },
+        {
           "title": "[问与答] claude 被封 5 天，苹果不退款。",
-          "link": "https://www.v2ex.com/t/1241607#reply0",
+          "link": "https://www.v2ex.com/t/1241607#reply2",
           "date": "2026-09-12T15:05:15+00:00"
-        },
-        {
-          "title": "[分享创造] 做了个 iPhone 各个销售地区的版本对比工具-哪版",
-          "link": "https://www.v2ex.com/t/1241605#reply0",
-          "date": "2026-09-12T14:52:01+00:00"
-        },
-        {
-          "title": "[分享创造] Claude Code 操作审计工具： CC-Monitor",
-          "link": "https://www.v2ex.com/t/1241604#reply0",
-          "date": "2026-09-12T14:43:15+00:00"
-        },
-        {
-          "title": "[旅行] 9 月去威海看海玩沙吃海鲜，写了篇万字游记",
-          "link": "https://www.v2ex.com/t/1241603#reply1",
-          "date": "2026-09-12T14:41:50+00:00"
-        },
-        {
-          "title": "[程序员] 做了一个 dsh 的 TUI：手机 SSH 远程控制 + Session 费用统计, 欢迎体验加星",
-          "link": "https://www.v2ex.com/t/1241602#reply0",
-          "date": "2026-09-12T14:39:32+00:00"
         }
       ]
     },
@@ -472,6 +472,38 @@
       ]
     },
     {
+      "name": "酷壳",
+      "category": "开发",
+      "url": "https://coolshell.cn/feed",
+      "items": [
+        {
+          "title": "是微服务架构不香还是云不香？",
+          "link": "https://coolshell.cn/articles/22422.html",
+          "date": "2023-05-08T09:52:06+00:00"
+        },
+        {
+          "title": "我看ChatGPT: 为啥谷歌掉了千亿美金",
+          "link": "https://coolshell.cn/articles/22398.html",
+          "date": "2023-02-11T16:31:16+00:00"
+        },
+        {
+          "title": "聊聊 nostr 和 审查",
+          "link": "https://coolshell.cn/articles/22367.html",
+          "date": "2023-02-03T07:46:13+00:00"
+        },
+        {
+          "title": "感染新冠的经历",
+          "link": "https://coolshell.cn/articles/22341.html",
+          "date": "2022-12-13T07:39:39+00:00"
+        },
+        {
+          "title": "eBPF 介绍",
+          "link": "https://coolshell.cn/articles/22320.html",
+          "date": "2022-12-10T02:38:51+00:00"
+        }
+      ]
+    },
+    {
       "name": "美团技术团队",
       "category": "开发",
       "url": "https://tech.meituan.com/feed/",
@@ -541,7 +573,7 @@
       "url": "https://www.technologyreview.com/feed/",
       "items": [
         {
-          "title": "Roundtables: AI’s apocalypse crisis",
+          "title": "Roundtables: Could AI really kill us all?",
           "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
           "date": "2026-09-11T20:05:06+00:00"
         },
@@ -602,7 +634,6 @@
   ],
   "failed": [
     "36 氪",
-    "酷壳",
     "Nature"
   ]
 }
