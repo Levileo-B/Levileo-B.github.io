@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T15:42:15+00:00",
+  "updated": "2026-09-13T20:24:00+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,14 +39,19 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-13T14:53:40+00:00"
+          "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+          "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-13T19:14:21+00:00"
         },
         {
-          "title": "Iran war reshapes Brics ties but also exposes divisions",
-          "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-13T11:23:42+00:00"
+          "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+          "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-13T18:49:37+00:00"
+        },
+        {
+          "title": "Questions mount over what an AI 'slowdown' would look like",
+          "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-13T18:20:22+00:00"
         },
         {
           "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
@@ -57,11 +62,6 @@
           "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
           "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-13T14:25:56+00:00"
-        },
-        {
-          "title": "Trump doubles down on united Ireland comments on day two of visit",
-          "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-13T14:00:09+00:00"
         }
       ]
     },
@@ -103,9 +103,14 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
-          "link": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-          "date": "2026-09-13T12:29:49+00:00"
+          "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
+          "link": "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
+          "date": "2026-09-13T17:48:53+00:00"
+        },
+        {
+          "title": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
+          "link": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
+          "date": "2026-09-13T16:39:24+00:00"
         },
         {
           "title": "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive",
@@ -121,11 +126,6 @@
           "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
           "link": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
           "date": "2026-09-12T17:14:56+00:00"
-        },
-        {
-          "title": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
-          "link": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
-          "date": "2026-09-13T11:17:12+00:00"
         }
       ]
     },
@@ -231,6 +231,21 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Trump and Mike Johnson think the AI industry is overreacting",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+          "date": "2026-09-13T19:41:48+00:00"
+        },
+        {
+          "title": "Apple is reportedly working on iPhone game controllers",
+          "link": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+          "date": "2026-09-13T18:30:16+00:00"
+        },
+        {
+          "title": "The Units’ Digital Stimulation is synthpunk perfection",
+          "link": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
+          "date": "2026-09-13T17:36:10+00:00"
+        },
+        {
           "title": "Waymo pulls over, calls cops on riders with a ghost gun",
           "link": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
           "date": "2026-09-13T14:28:12+00:00"
@@ -239,21 +254,6 @@
           "title": "Your Mother Your Mother Your Mother will make you forget all about Marvel’s Blade disaster",
           "link": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026",
           "date": "2026-09-13T11:07:30+00:00"
-        },
-        {
-          "title": "Your car is selling your data",
-          "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-          "date": "2026-09-11T19:38:01+00:00"
-        },
-        {
-          "title": "Apple’s new phones are here",
-          "link": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
-          "date": "2026-09-11T20:48:59+00:00"
-        },
-        {
-          "title": "OpenAI’s rogue AI tried to hack another company in May",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-          "date": "2026-09-12T21:41:36+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-          "link": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-          "date": "2026-09-13T14:28:36+00:00"
+          "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+          "link": "https://twitter.com/TechEmails/status/2099214399840059428",
+          "date": "2026-09-13T20:08:45+00:00"
         },
         {
-          "title": "CUDA for AMD on Windows",
-          "link": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-          "date": "2026-09-13T14:25:13+00:00"
+          "title": "There Is No AI (It's Just People) with Jaron Lanier",
+          "link": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
+          "date": "2026-09-13T19:41:06+00:00"
         },
         {
-          "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
-          "link": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-          "date": "2026-09-13T14:15:40+00:00"
+          "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
+          "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+          "date": "2026-09-13T18:49:44+00:00"
         },
         {
-          "title": "Key symbols we lost to time, pt. 1: The PC side",
-          "link": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/",
-          "date": "2026-09-13T14:00:44+00:00"
+          "title": "I'm being cyberattacked by Tesla, Inc",
+          "link": "https://dreamstation.systems/personal/tesla.html",
+          "date": "2026-09-13T18:03:09+00:00"
         },
         {
-          "title": "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
-          "link": "https://www.youtube.com/watch?v=xJzrU38pGWc",
-          "date": "2026-09-13T13:54:25+00:00"
+          "title": "Global Shortage Has Led to Motor Oil Rationing at Costco",
+          "link": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
+          "date": "2026-09-13T17:57:59+00:00"
         }
       ]
     },
@@ -327,29 +327,29 @@
       "url": "https://lobste.rs/rss",
       "items": [
         {
+          "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech",
+          "link": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
+          "date": "2026-09-13T12:10:30+00:00"
+        },
+        {
+          "title": "what if my git host were a static site generator?",
+          "link": "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
+          "date": "2026-09-13T16:10:06+00:00"
+        },
+        {
           "title": "I made a build visualizer to understand Bun’s compile times",
           "link": "https://lalitm.com/post/buildprof/",
           "date": "2026-09-12T14:48:24+00:00"
         },
         {
-          "title": "From Git to Fossil (2025)",
-          "link": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
-          "date": "2026-09-13T07:51:19+00:00"
+          "title": "Golang developers should try Odin",
+          "link": "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/",
+          "date": "2026-09-13T15:23:41+00:00"
         },
         {
-          "title": "Don't call yourself an artisanal programmer",
-          "link": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
-          "date": "2026-09-13T11:39:43+00:00"
-        },
-        {
-          "title": "heol",
-          "link": "https://wiki.xxiivv.com/site/heol.html",
-          "date": "2026-09-13T05:59:41+00:00"
-        },
-        {
-          "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech",
-          "link": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
-          "date": "2026-09-13T12:10:30+00:00"
+          "title": "Switching to GNU Guix: A Beginner's Perspective",
+          "link": "https://whhone.com/posts/switching-to-gnu-guix/",
+          "date": "2026-09-13T16:19:47+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享创造] PhotoBridge：让 iPhone 通过 Wi-Fi 直传 Pixel，动图也能保留",
-          "link": "https://www.v2ex.com/t/1241725#reply0",
-          "date": "2026-09-13T15:27:50+00:00"
+          "title": "[分享创造] WikiNow: 一个阅读 Wikipedia 的 App，以抖音的方式",
+          "link": "https://www.v2ex.com/t/1241735#reply1",
+          "date": "2026-09-13T20:01:04+00:00"
         },
         {
-          "title": "[Linux] 开源： Linux NVIDIA 虚拟显示器方案，无需 HDMI 欺骗器",
-          "link": "https://www.v2ex.com/t/1241724#reply1",
-          "date": "2026-09-13T15:24:25+00:00"
+          "title": "[OpenAI] 一些关于 openai 订阅降智,账号风控的独立测试",
+          "link": "https://www.v2ex.com/t/1241734#reply1",
+          "date": "2026-09-13T17:48:39+00:00"
         },
         {
-          "title": "[生活] 2026｜我总以为，我们还有下一次",
-          "link": "https://www.v2ex.com/t/1241723#reply0",
-          "date": "2026-09-13T15:23:45+00:00"
+          "title": "[iPhone] 经过一段时间的打磨，终于满意了",
+          "link": "https://www.v2ex.com/t/1241733#reply1",
+          "date": "2026-09-13T17:43:14+00:00"
         },
         {
-          "title": "[分享创造] Status Trio: 将 iPhone Duo 的三合一状态图标带到 macOS",
-          "link": "https://www.v2ex.com/t/1241722#reply0",
-          "date": "2026-09-13T14:53:02+00:00"
+          "title": "[程序员] 我就喜欢听人夸 PostgreSQL",
+          "link": "https://www.v2ex.com/t/1241732#reply3",
+          "date": "2026-09-13T17:18:30+00:00"
         },
         {
-          "title": "[硬件] 程序员居家办公屏幕求推荐， 32 寸 4k 屏幕",
-          "link": "https://www.v2ex.com/t/1241721#reply0",
-          "date": "2026-09-13T14:52:51+00:00"
+          "title": "[技术栈] windows 下定时静默运行脚本，下载文件，触发 api，通知到微信或钉钉的软件",
+          "link": "https://www.v2ex.com/t/1241731#reply0",
+          "date": "2026-09-13T16:34:38+00:00"
         }
       ]
     },
