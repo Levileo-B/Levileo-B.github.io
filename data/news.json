@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T22:51:44+00:00",
+  "updated": "2026-09-13T03:28:43+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -7,7 +7,7 @@
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
         {
-          "title": "習近平七年來首次訪印前瞻：中印回暖背後的美國陰影與西藏問題",
+          "title": "習近平七年來首次訪印：中印回暖背後的美國陰影與西藏問題",
           "link": "https://www.bbc.com/zhongwen/articles/cqxvzdx4d10o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-11T10:06:48+00:00"
         },
@@ -27,9 +27,9 @@
           "date": "2026-09-11T07:40:27+00:00"
         },
         {
-          "title": "間諜、戰略與錯失的機會：911的教訓至今仍在消化",
-          "link": "https://www.bbc.com/zhongwen/articles/c99dg718vg2o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-11T05:31:09+00:00"
+          "title": "女性比男性更擅長耐力跑嗎？",
+          "link": "https://www.bbc.com/zhongwen/articles/c0m34g3v7zjo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-13T02:47:42+00:00"
         }
       ]
     },
@@ -49,6 +49,11 @@
           "date": "2026-09-12T12:15:50+00:00"
         },
         {
+          "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+          "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-13T00:49:08+00:00"
+        },
+        {
           "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
           "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-12T21:25:28+00:00"
@@ -57,11 +62,6 @@
           "title": "Fire at nursing home in Chile kills 16 residents",
           "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-12T19:36:50+00:00"
-        },
-        {
-          "title": "French officials investigate if malicious act caused train derailment",
-          "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-12T15:05:53+00:00"
         }
       ]
     },
@@ -105,7 +105,7 @@
         {
           "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
           "link": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-          "date": "2026-09-12T22:39:01+00:00"
+          "date": "2026-09-12T23:20:43+00:00"
         },
         {
           "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-          "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-          "date": "2026-09-12T20:28:29+00:00"
+          "title": "The Interim Computer Museum",
+          "link": "https://icm.museum/",
+          "date": "2026-09-13T02:43:57+00:00"
         },
         {
-          "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-          "link": "https://withspecific.com/benchmarks/real-swe",
-          "date": "2026-09-12T20:25:48+00:00"
+          "title": "Align AI and Mathematics–To Something Else",
+          "link": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+          "date": "2026-09-13T00:47:48+00:00"
         },
         {
-          "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
-          "link": "https://modelrift.com/blog/cadquery-vs-openscad/",
-          "date": "2026-09-12T19:57:19+00:00"
+          "title": "Everyone should slow down AI development except for me",
+          "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+          "date": "2026-09-13T00:30:44+00:00"
         },
         {
-          "title": "LG Says We're Fake News [video]",
-          "link": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-          "date": "2026-09-12T19:35:36+00:00"
+          "title": "Recurrent Looped Transformer",
+          "link": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer/",
+          "date": "2026-09-13T00:05:22+00:00"
         },
         {
-          "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
-          "link": "https://hachyderm.io/@simontatham/117201594980991062",
-          "date": "2026-09-12T18:58:57+00:00"
+          "title": "AgentsDock: An IDE designed for agentic AI research",
+          "link": "https://agentsdock.net/",
+          "date": "2026-09-12T23:45:58+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[阅读] 用 chatGPT 撸了一个穿越历史小说，庄子题材的",
-          "link": "https://www.v2ex.com/t/1241619#reply0",
-          "date": "2026-09-12T22:18:52+00:00"
+          "title": "[问与答] 问一下小学一年级英文有没有专门的网站可以跟读",
+          "link": "https://www.v2ex.com/t/1241636#reply0",
+          "date": "2026-09-13T03:26:30+00:00"
         },
         {
-          "title": "[分享发现] 半夜寂寞,买了个飞机杯,到手感觉亏大了，我日！拍断大腿！",
-          "link": "https://www.v2ex.com/t/1241618#reply0",
-          "date": "2026-09-12T21:51:02+00:00"
+          "title": "[问与答] 有没有什么工具，可以远程让 codex 干活？",
+          "link": "https://www.v2ex.com/t/1241635#reply2",
+          "date": "2026-09-13T03:21:35+00:00"
         },
         {
-          "title": "[古法编程] 2026 年还有使用古法编程的兄弟吗？",
-          "link": "https://www.v2ex.com/t/1241617#reply0",
-          "date": "2026-09-12T21:20:17+00:00"
+          "title": "[macOS] gfxCardStatus Ver. 2.8",
+          "link": "https://www.v2ex.com/t/1241634#reply1",
+          "date": "2026-09-13T03:04:44+00:00"
         },
         {
-          "title": "[分享创造] Minimax h3 开源太强了，现在有很多特别实用的 lora，搞了个在线的 h3 lora 集合",
-          "link": "https://www.v2ex.com/t/1241614#reply0",
-          "date": "2026-09-12T17:20:49+00:00"
+          "title": "[问与答] 有没有可能， AI 始于 token，也止于 token（信任）",
+          "link": "https://www.v2ex.com/t/1241633#reply2",
+          "date": "2026-09-13T03:02:49+00:00"
         },
         {
-          "title": "[程序员] 记录一下最近 2 个月做 Ozon 工具和一次未开始就散掉的合作",
-          "link": "https://www.v2ex.com/t/1241612#reply1",
-          "date": "2026-09-12T16:11:38+00:00"
+          "title": "[程序员] 有一事不解，是绝大多数都是许愿 AI？",
+          "link": "https://www.v2ex.com/t/1241632#reply1",
+          "date": "2026-09-13T02:54:19+00:00"
         }
       ]
     },
