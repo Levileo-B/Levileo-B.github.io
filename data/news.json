@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T20:24:00+00:00",
+  "updated": "2026-09-13T22:55:18+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -54,14 +54,14 @@
           "date": "2026-09-13T18:20:22+00:00"
         },
         {
+          "title": "Swedish party blocs tied after Sunday vote, projections say",
+          "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-13T22:27:54+00:00"
+        },
+        {
           "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
           "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-13T13:30:38+00:00"
-        },
-        {
-          "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-          "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-13T14:25:56+00:00"
         }
       ]
     },
@@ -70,6 +70,11 @@
       "category": "财经",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
+        {
+          "title": "'Culture shift' needed in how UK does business, PM urges",
+          "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-13T21:30:21+00:00"
+        },
         {
           "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
@@ -86,14 +91,9 @@
           "date": "2026-09-12T21:16:47+00:00"
         },
         {
-          "title": "US prices remain high as fuel costs squeeze household budgets",
-          "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-11T14:22:42+00:00"
-        },
-        {
-          "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
-          "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-11T15:37:25+00:00"
+          "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+          "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-13T19:34:36+00:00"
         }
       ]
     },
@@ -295,6 +295,21 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "Ask HN: In The Matrix, the bad guys are the 'agents'. Coincidence? Clairvoyance?",
+          "link": "https://news.ycombinator.com/item?id=49688761",
+          "date": "2026-09-13T21:13:13+00:00"
+        },
+        {
+          "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "date": "2026-09-13T21:06:13+00:00"
+        },
+        {
+          "title": "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
+          "link": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+          "date": "2026-09-13T20:33:18+00:00"
+        },
+        {
           "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
           "link": "https://twitter.com/TechEmails/status/2099214399840059428",
           "date": "2026-09-13T20:08:45+00:00"
@@ -303,21 +318,6 @@
           "title": "There Is No AI (It's Just People) with Jaron Lanier",
           "link": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
           "date": "2026-09-13T19:41:06+00:00"
-        },
-        {
-          "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
-          "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-          "date": "2026-09-13T18:49:44+00:00"
-        },
-        {
-          "title": "I'm being cyberattacked by Tesla, Inc",
-          "link": "https://dreamstation.systems/personal/tesla.html",
-          "date": "2026-09-13T18:03:09+00:00"
-        },
-        {
-          "title": "Global Shortage Has Led to Motor Oil Rationing at Costco",
-          "link": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
-          "date": "2026-09-13T17:57:59+00:00"
         }
       ]
     },
@@ -337,11 +337,6 @@
           "date": "2026-09-13T16:10:06+00:00"
         },
         {
-          "title": "I made a build visualizer to understand Bun’s compile times",
-          "link": "https://lalitm.com/post/buildprof/",
-          "date": "2026-09-12T14:48:24+00:00"
-        },
-        {
           "title": "Golang developers should try Odin",
           "link": "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/",
           "date": "2026-09-13T15:23:41+00:00"
@@ -350,6 +345,11 @@
           "title": "Switching to GNU Guix: A Beginner's Perspective",
           "link": "https://whhone.com/posts/switching-to-gnu-guix/",
           "date": "2026-09-13T16:19:47+00:00"
+        },
+        {
+          "title": "Don't call yourself an artisanal programmer",
+          "link": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
+          "date": "2026-09-13T11:39:43+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
+          "title": "[问与答] Windows 内存占用的问题，任务管理器 vs 资源管理器 显示不一样？",
+          "link": "https://www.v2ex.com/t/1241739#reply1",
+          "date": "2026-09-13T22:06:20+00:00"
+        },
+        {
+          "title": "[Claude] [推广] QuietDog API｜ CCMax、Kiro 号池中转，倍率分别为 0.5 / 0.25",
+          "link": "https://www.v2ex.com/t/1241738#reply0",
+          "date": "2026-09-13T21:59:08+00:00"
+        },
+        {
+          "title": "[Apple] 港区可以直接用银联卡支付了？",
+          "link": "https://www.v2ex.com/t/1241737#reply0",
+          "date": "2026-09-13T21:48:09+00:00"
+        },
+        {
+          "title": "[Claude] 公司里面号池的 Ccmax 直转 key.有余",
+          "link": "https://www.v2ex.com/t/1241736#reply0",
+          "date": "2026-09-13T20:50:25+00:00"
+        },
+        {
           "title": "[分享创造] WikiNow: 一个阅读 Wikipedia 的 App，以抖音的方式",
-          "link": "https://www.v2ex.com/t/1241735#reply1",
+          "link": "https://www.v2ex.com/t/1241735#reply3",
           "date": "2026-09-13T20:01:04+00:00"
-        },
-        {
-          "title": "[OpenAI] 一些关于 openai 订阅降智,账号风控的独立测试",
-          "link": "https://www.v2ex.com/t/1241734#reply1",
-          "date": "2026-09-13T17:48:39+00:00"
-        },
-        {
-          "title": "[iPhone] 经过一段时间的打磨，终于满意了",
-          "link": "https://www.v2ex.com/t/1241733#reply1",
-          "date": "2026-09-13T17:43:14+00:00"
-        },
-        {
-          "title": "[程序员] 我就喜欢听人夸 PostgreSQL",
-          "link": "https://www.v2ex.com/t/1241732#reply3",
-          "date": "2026-09-13T17:18:30+00:00"
-        },
-        {
-          "title": "[技术栈] windows 下定时静默运行脚本，下载文件，触发 api，通知到微信或钉钉的软件",
-          "link": "https://www.v2ex.com/t/1241731#reply0",
-          "date": "2026-09-13T16:34:38+00:00"
         }
       ]
     },
@@ -468,38 +468,6 @@
           "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
           "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
           "date": "2026-08-27T23:56:43+00:00"
-        }
-      ]
-    },
-    {
-      "name": "酷壳",
-      "category": "开发",
-      "url": "https://coolshell.cn/feed",
-      "items": [
-        {
-          "title": "是微服务架构不香还是云不香？",
-          "link": "https://coolshell.cn/articles/22422.html",
-          "date": "2023-05-08T09:52:06+00:00"
-        },
-        {
-          "title": "我看ChatGPT: 为啥谷歌掉了千亿美金",
-          "link": "https://coolshell.cn/articles/22398.html",
-          "date": "2023-02-11T16:31:16+00:00"
-        },
-        {
-          "title": "聊聊 nostr 和 审查",
-          "link": "https://coolshell.cn/articles/22367.html",
-          "date": "2023-02-03T07:46:13+00:00"
-        },
-        {
-          "title": "感染新冠的经历",
-          "link": "https://coolshell.cn/articles/22341.html",
-          "date": "2022-12-13T07:39:39+00:00"
-        },
-        {
-          "title": "eBPF 介绍",
-          "link": "https://coolshell.cn/articles/22320.html",
-          "date": "2022-12-10T02:38:51+00:00"
         }
       ]
     },
@@ -665,6 +633,7 @@
     }
   ],
   "failed": [
-    "36 氪"
+    "36 氪",
+    "酷壳"
   ]
 }
