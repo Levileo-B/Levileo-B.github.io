@@ -256,6 +256,59 @@ a:hover { text-decoration: underline; }
 .card__desc { color: var(--text-muted); margin: 0 0 1rem; font-size: .95rem; flex: 1; }
 .card__link { font-size: .9rem; font-weight: 500; }
 
+/* ---------- X 动态预览 ---------- */
+.x-preview { overflow: hidden; }
+
+.x-preview__intro {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.x-preview__intro .result__label { margin-bottom: .35rem; }
+.x-preview__intro .card__desc { margin-bottom: 0; }
+
+.x-preview__timeline {
+  min-height: 220px;
+  max-width: 620px;
+  margin: 0 auto;
+  border-top: 1px solid var(--border);
+  padding-top: .75rem;
+}
+
+.x-preview__timeline .twitter-timeline {
+  display: block;
+  min-height: 180px;
+  color: var(--text-muted);
+  text-align: center;
+}
+
+.x-preview__timeline iframe {
+  width: 100% !important;
+  max-width: 620px !important;
+}
+
+@media (max-width: 560px) {
+  .x-preview__intro {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
+
+:root[data-theme="dark"] .x-preview__timeline iframe,
+:root[data-theme="dark"] .x-preview__timeline .twitter-timeline {
+  color-scheme: dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .x-preview__timeline iframe,
+  :root:not([data-theme="light"]) .x-preview__timeline .twitter-timeline {
+    color-scheme: dark;
+  }
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
