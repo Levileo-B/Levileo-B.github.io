@@ -1,89 +1,82 @@
 {
-  "updated": "2026-09-13T22:55:18+00:00",
+  "updated": "2026-09-14T03:38:43+00:00",
   "leetcode": {
-    "date": "2026-09-13",
-    "id": "835",
-    "title": "Image Overlap",
-    "titleEn": "Image Overlap",
-    "slug": "image-overlap",
-    "difficulty": "Medium",
+    "date": "2026-09-14",
+    "id": "836",
+    "title": "Rectangle Overlap",
+    "titleEn": "Rectangle Overlap",
+    "slug": "rectangle-overlap",
+    "difficulty": "Easy",
     "tags": [
-      "Array",
-      "Matrix"
+      "Math",
+      "Geometry"
     ],
-    "link": "https://leetcode.com/problems/image-overlap/",
+    "link": "https://leetcode.com/problems/rectangle-overlap/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Thomas Hardy (Royal Navy officer, died 1732)",
-    "text": "Rear-Admiral Sir Thomas Hardy was a British Royal Navy officer and politician. Having joined the navy sometime before 1688, Hardy was supported in his career by George Churchill, whom he served as first lieutenant during the Battle of Barfleur in 1692. Promoted to captain in 1693, Hardy served in the Channel Islands and off the coast of England until 1702, when he was given command of HMS Pembroke off the coast of Spain. He fought at the Battle of Cádiz, and subsequently discovered the location of the Franco-Spanish fleet through the intervention of his chaplain, which resulted in the Battle of Vigo Bay. Hardy was knighted for his services.",
-    "words": 109,
-    "url": "https://en.wikipedia.org/wiki/Thomas_Hardy_(Royal_Navy_officer%2C_died_1732)",
-    "date": "2026-09-13",
+    "title": "Melisende of Jerusalem",
+    "text": "Melisende was the queen of Jerusalem from 1131 to 1152. She was the first female ruler of the Kingdom of Jerusalem and the first woman to hold a public office in the crusader kingdom. Her fame grew in her lifetime for her generous support of the various Christian communities in her kingdom. Contemporary chronicler William of Tyre praised her wisdom and abilities, while modern historians differ in their assessment.",
+    "words": 69,
+    "url": "https://en.wikipedia.org/wiki/Melisende_of_Jerusalem",
+    "date": "2026-09-14",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Yesterday And Tomorrow In Detroit",
-    "creator": "Rick Prelinger",
-    "year": "2014",
-    "url": "https://archive.org/download/YesterdayAndTomorrowInDetroit/Yesterday_and_Tomorrow_in_Detroit.mp4",
-    "page": "https://archive.org/details/YesterdayAndTomorrowInDetroit",
-    "date": "2026-09-13",
+    "title": "Getting Acquainted With Engineering (Part I)",
+    "creator": "",
+    "year": "1950",
+    "url": "https://archive.org/download/getting_acquainted_with_engineering_1/getting_acquainted_with_engineering_1_512kb.mp4",
+    "page": "https://archive.org/details/getting_acquainted_with_engineering_1",
+    "date": "2026-09-14",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "[deepxpodcast010] eM - Deep-X Podcast 010",
-      "artist": "Deep-X Recordings",
-      "url": "https://archive.org/download/deepxpodcast010/deepxpodcast010_-_eM_-_Deep-X_Podcast_010.mp3",
-      "page": "https://archive.org/details/deepxpodcast010",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+      "title": "chemicaL_Knowledge",
+      "artist": "sOuL_sCientiSt",
+      "url": "https://archive.org/download/chemicaL_Knowledge/chemicaLKnowledge.mp3",
+      "page": "https://archive.org/details/chemicaL_Knowledge",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
     },
     {
-      "title": "Wurlitztraction - Lucidity Cue [enrmp122]",
-      "artist": "Wurlitztraction",
-      "url": "https://archive.org/download/enrmp122_wurlitztraction_-_lucidity_cue/01_wurlitztraction_-_salvo__1.mp3",
-      "page": "https://archive.org/details/enrmp122_wurlitztraction_-_lucidity_cue",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+      "title": "QuSNG002 Mirko Andreoli - B/N",
+      "artist": "Mirko Andreoli",
+      "url": "https://archive.org/download/Qusng002MirkoAndreoli-Bn/MirkoAndreoli-Bn.mp3",
+      "page": "https://archive.org/details/Qusng002MirkoAndreoli-Bn",
+      "license": "http://creativecommons.org/licenses/by-sa/2.5/it/"
     },
     {
-      "title": "Anton Vodnik-Iz Pisem Dori Pegam Vodnik",
-      "artist": "Anton Vodnik",
-      "url": "https://archive.org/download/AntonVodnik-izPisemDoriPegamVodnik/AntonVodnik-izPisemDoriPegamVodnik.mp3",
-      "page": "https://archive.org/details/AntonVodnik-izPisemDoriPegamVodnik",
-      "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+      "title": "[inoquo005] Clase Muzique live @ LeKashba",
+      "artist": "Clase Muzique",
+      "url": "https://archive.org/download/inoquo005/1-clasemuzique_intro.mp3",
+      "page": "https://archive.org/details/inoquo005",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/"
     },
     {
-      "title": "nttl special 091121 [enrmix07]",
-      "artist": "ps",
-      "url": "https://archive.org/download/enrmix07_nttl_special_091121/01_nttl_special_091121_vbr.mp3",
-      "page": "https://archive.org/details/enrmix07_nttl_special_091121",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "[EAR006] mlvch - четыре километра от душного города [EP] (2017)",
-      "artist": "",
-      "url": "https://archive.org/download/ear_006/01%20pvrklsk.mp3",
-      "page": "https://archive.org/details/ear_006",
+      "title": "GOD0006 - Anti-Kati - Love Thy Neighbour",
+      "artist": "Anti-Kati",
+      "url": "https://archive.org/download/GOD06/01.mp3",
+      "page": "https://archive.org/details/GOD06",
       "license": "Creative Commons"
     },
     {
-      "title": "SBTR032 UNSUNG - NICHT ERZAHLT",
-      "artist": "Unsung",
-      "url": "https://archive.org/download/SBTR032UNSUNGNICHTERZAHLT/01%20Unsung%20-%20A%20Sorcerers%20Feast.mp3",
-      "page": "https://archive.org/details/SBTR032UNSUNGNICHTERZAHLT",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+      "title": "[insubcdr05] DIATRIBES+JACQUES DEMIERRE+JOHANN BOURQUENEZ piano(s)",
+      "artist": "DIATRIBES+JACQUES DEMIERRE+JOHANN BOURQUENEZ",
+      "url": "https://archive.org/download/insubcdr05DiatribesjacquesDemierrejohannBourquenezPianos/insubcdr0501_diatribesdemierrebourquenez-Tornade.mp3",
+      "page": "https://archive.org/details/insubcdr05DiatribesjacquesDemierrejohannBourquenezPianos",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/ch/"
     },
     {
-      "title": "August Traeger Pd_Works",
-      "artist": "August Traeger",
-      "url": "https://archive.org/download/AugustTraeger_Pd_Works/august%20traeger%20-%20pd_works%20-%201%20-%20arpedsa.mp3",
-      "page": "https://archive.org/details/AugustTraeger_Pd_Works",
-      "license": "Creative Commons"
+      "title": "Indulgence",
+      "artist": "Jazzaria.com",
+      "url": "https://archive.org/download/indulgence/indulgence.mp3",
+      "page": "https://archive.org/details/indulgence",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
       "title": "Virgin Ghost",
@@ -93,13 +86,6 @@
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
-      "title": "INDIOSINGRACIA - MENOSUNO",
-      "artist": "INDIOSINGRACIA",
-      "url": "https://archive.org/download/indiosingraciaMenosuno/01%20-%20por%20que%20cancelais%20Rubicon.mp3",
-      "page": "https://archive.org/details/indiosingraciaMenosuno",
-      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-    },
-    {
       "title": "New Big Black Mr. Super-Soul Bad Sugar Man - October 14, 2000 [BNW014]",
       "artist": "New Big Black Mr. Super-Soul Bad Sugar Man",
       "url": "https://archive.org/download/BNW014/BNW014-01-Movement_I.mp3",
@@ -107,18 +93,32 @@
       "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
     },
     {
-      "title": "tob.rek - Start EP [rest001]",
-      "artist": "Tobi Tobsucht",
-      "url": "https://archive.org/download/rest001/rest001-01-tobrek_-_staffelstab.mp3",
-      "page": "https://archive.org/details/rest001",
+      "title": "Aqua Regia - Pump Up The L.E.D.s to Red, Take Some Drugs & Shake Your Head [ird009]",
+      "artist": "",
+      "url": "https://archive.org/download/ird009/ird009-aqua-regia-pump-up-the-leds-to-red-take-some-drugs-and-shake-your-head.mp3",
+      "page": "https://archive.org/details/ird009",
       "license": "Creative Commons"
     },
     {
-      "title": "Roma Laptop Orchestra - Live Improvisation (Stato Elettrico)",
-      "artist": "Stato Elettrico",
-      "url": "https://archive.org/download/RomaLaptopOrchestraLiveImprovvisation/Roma%20Laptop%20Orchestra%20-%20Live%20Improvvisation%20Part%201.mp3",
-      "page": "https://archive.org/details/RomaLaptopOrchestraLiveImprovvisation",
+      "title": "Nerve Breaks 007",
+      "artist": "Gridlok - remix by Subscience",
+      "url": "https://archive.org/download/NerveBreaks007/Gridlok-ChickensubscienceRmx.mp3",
+      "page": "https://archive.org/details/NerveBreaks007",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Si fuéramos SINGLE",
+      "artist": "ideadelsur",
+      "url": "https://archive.org/download/SINGLEPOBRETOPO1/PobreTopo-SiFuramos.mp3",
+      "page": "https://archive.org/details/SINGLEPOBRETOPO1",
       "license": "Creative Commons"
+    },
+    {
+      "title": "The Cabinet EP",
+      "artist": "EGOamp",
+      "url": "https://archive.org/download/ion025_egoamp_the-cabinet-ep/01_egoamp_-_the_cabinet_edit_version.mp3",
+      "page": "https://archive.org/details/ion025_egoamp_the-cabinet-ep",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     }
   ]
 }
