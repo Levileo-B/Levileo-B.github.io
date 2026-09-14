@@ -11,7 +11,7 @@
 - 自动跟随系统深色模式，也可手动切换（选择会被记住）
 - 基础无障碍支持：跳转链接、语义化标签、键盘焦点样式
 - 自定义 404 页面
-- **热点窗格**：GitHub Actions 每 3 小时抓取 22 个 RSS 源，按六个分类聚合
+- **热点窗格**：GitHub Actions 每小时抓取 22 个 RSS 源，按六个分类聚合
 - **实时热点页**：浏览器直连拉取 HN / GitHub / DEV / Stack Overflow / Mastodon / 中文维基六个榜单，另附各大热搜入口
 - **附近最热**：按访客所在地区展示当地新闻，可手动切换地区
 - **每日**：LeetCode 每日一题、每日英文短文（维基百科精选）、每日趣味视频（Prelinger 公有领域短片）
@@ -69,7 +69,7 @@
 │   ├── fetch_daily.py      # 每日一题 / 英文短文 / 视频 / 音乐歌单
 │   └── fetch_local.py      # 各地区本地新闻（复用 fetch_news 的解析器）
 └── .github/workflows/
-    └── update-news.yml     # 每 3 小时定时任务
+    └── update-news.yml     # 每小时定时任务
 ```
 
 ## 两套热点有什么区别
@@ -77,7 +77,7 @@
 **首页的「每日热点」是定时快照。** 绝大多数 RSS 源不开放跨域，浏览器直接抓会被拦，
 所以走 Actions 在服务端抓好再落地成静态文件：
 
-1. `.github/workflows/update-news.yml` 每 3 小时触发一次
+1. `.github/workflows/update-news.yml` 每小时触发一次
 2. `scripts/fetch_news.py` 并发抓取 22 个源（8 线程），写入 `data/news.json`
 3. 有变化就自动 commit 回仓库，Pages 随之更新
 4. 首页 `assets/news.js` 读取这个静态 JSON，按 `category` 分类聚合后渲染
@@ -114,6 +114,8 @@ Mastodon 趋势与中文维基昨日浏览排行。六栏独立加载，支持�
 
 **增删地区**：改 `scripts/fetch_local.py` 顶部的 `REGIONS`，键用 ISO 3166-1
 alpha-2 国家码，和前端拿到的 country code 对齐。`global` 是兜底，不能删。
+中国大陆聚合中新网即时、36氪快讯、IT之家、开源中国、少数派、爱范儿、量子位、科学网和 Solidot；明确超过 7 天的条目会被淘汰，
+前端优先限制同一信源最多展示 2 条，避免单一媒体占满列表。
 
 ## 每日内容与背景音乐
 

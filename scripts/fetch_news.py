@@ -89,7 +89,7 @@ def text_of(el) -> str:
 
 def norm_date(raw: str) -> str:
     """把各种日期格式统一成 UTC ISO 字符串，解析不了就留空。"""
-    raw = (raw or "").strip()
+    raw = re.sub(r"\s+", " ", (raw or "").strip())
     if not raw:
         return ""
     try:  # RFC 822，RSS 常用
