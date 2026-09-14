@@ -35,6 +35,7 @@
     <a class="nav__brand" href="#top">Levileo-B</a>
     <ul class="nav__list">
       <li><a href="#news">热点</a></li>
+      <li><a href="#x-updates">X 动态</a></li>
       <li><a href="hot/">实时</a></li>
       <li><a href="#local">附近</a></li>
       <li><a href="#daily">每日</a></li>
@@ -83,6 +84,32 @@
       <p class="news__foot">
         由 GitHub Actions 每小时抓取 22 个 RSS 源生成，内容与观点均来自各原始站点。想看当下的榜单，去<a href="hot/">实时热点</a>。
       </p>
+    </div>
+  </section>
+
+  <!-- X 动态 -->
+  <section class="section" id="x-updates">
+    <div class="section__bar">
+      <h2 class="section__title">X 最新动态</h2>
+      <a class="news__stamp" href="https://x.com/thsottiaux" target="_blank" rel="noopener noreferrer">在 X.com 关注 @thsottiaux →</a>
+    </div>
+    <div class="card x-preview">
+      <div class="x-preview__intro">
+        <div>
+          <p class="result__label">Tibo · Codex / ChatGPT @OpenAI</p>
+          <p class="card__desc">这里同步展示 @thsottiaux 的公开动态，关注 Codex、ChatGPT 和 AI 产品的最新进展。</p>
+        </div>
+        <a class="btn btn--ghost" href="https://x.com/thsottiaux" target="_blank" rel="noopener noreferrer">打开 X.com</a>
+      </div>
+      <div class="x-preview__timeline">
+        <a class="twitter-timeline"
+           data-theme="light"
+           data-chrome="noheader nofooter noborders transparent"
+           data-tweet-limit="5"
+           data-dnt="true"
+           href="https://x.com/thsottiaux?ref_src=twsrc%5Etfw">@thsottiaux 的最新动态</a>
+      </div>
+      <p class="news__foot">动态由 X 官方小组件加载；如果浏览器拦截了第三方脚本，仍可通过上方入口直接访问账号。</p>
     </div>
   </section>
 
@@ -318,5 +345,6 @@
 <script src="assets/news.js"></script>
 <script src="assets/daily.js"></script>
 <script src="assets/local.js"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </body>
 </html>
