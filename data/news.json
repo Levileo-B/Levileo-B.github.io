@@ -1,21 +1,11 @@
 {
-  "updated": "2026-09-15T22:57:16+00:00",
+  "updated": "2026-09-16T01:27:48+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
-        {
-          "title": "星宇股份解約風波：107名應屆生「告洋狀」揭示中國勞工維權現狀",
-          "link": "https://www.bbc.com/zhongwen/articles/c4gkqekn7q7o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-15T00:17:18+00:00"
-        },
-        {
-          "title": "Anthropic聯合創辦人籲強制設置AI「緊急關機」機制",
-          "link": "https://www.bbc.com/zhongwen/articles/cvzez8z9pzgeo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-15T03:34:19+00:00"
-        },
         {
           "title": "美國首認部署太空武器 中國警告勿搞軍事競賽",
           "link": "https://www.bbc.com/zhongwen/articles/c6n9wzxjy92lo/trad?at_medium=RSS&at_campaign=rss",
@@ -27,9 +17,19 @@
           "date": "2026-09-15T07:37:34+00:00"
         },
         {
+          "title": "「我接受了11年化療，卻發現從未患癌」",
+          "link": "https://www.bbc.com/zhongwen/articles/cm62eve2y6xeo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-16T00:18:50+00:00"
+        },
+        {
           "title": "《匹茲堡醫魂》拿走了六個艾美獎，它的忠粉都是真醫生",
           "link": "https://www.bbc.com/zhongwen/articles/cmvgyn5gywz1o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-15T15:23:06+00:00"
+        },
+        {
+          "title": "「九月重啟」：你如何也能在此時建立新日常習慣？",
+          "link": "https://www.bbc.com/zhongwen/articles/cqvgyr0kj25eo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-16T00:18:44+00:00"
         }
       ]
     },
@@ -71,29 +71,29 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
-          "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
+          "title": "Complaints to watchdog about water firms jump 84%",
+          "link": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-15T23:14:08+00:00"
+        },
+        {
+          "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
           "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-15T22:13:10+00:00"
+          "date": "2026-09-16T00:59:20+00:00"
         },
         {
-          "title": "US borrowing costs hit highest level since 2007",
-          "link": "https://www.bbc.co.uk/news/articles/cw804154z90ko?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-15T19:35:10+00:00"
+          "title": "Why doomsday warnings are not the only threat to the AI juggernaut",
+          "link": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-15T23:39:55+00:00"
         },
         {
-          "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
-          "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-15T11:05:42+00:00"
+          "title": "UK in talks about joining global defence bank led by Canada",
+          "link": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-15T23:50:55+00:00"
         },
         {
-          "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-          "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-15T08:49:31+00:00"
-        },
-        {
-          "title": "I got paid $5,000 to move to a place I'd never heard of",
-          "link": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-14T23:08:28+00:00"
+          "title": "We are all new job starters - here's how we got through the first few days",
+          "link": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-15T23:14:26+00:00"
         }
       ]
     },
@@ -113,19 +113,19 @@
           "date": "2026-09-15T22:33:45+00:00"
         },
         {
+          "title": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source",
+          "link": "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html",
+          "date": "2026-09-15T22:06:16+00:00"
+        },
+        {
+          "title": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey",
+          "link": "https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html",
+          "date": "2026-09-16T00:22:11+00:00"
+        },
+        {
           "title": "Trump says Kennedy Center will stay closed without renovation unless his name is added back",
           "link": "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html",
           "date": "2026-09-15T21:46:22+00:00"
-        },
-        {
-          "title": "U.S. oil tops $105 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure",
-          "link": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
-          "date": "2026-09-15T18:58:36+00:00"
-        },
-        {
-          "title": "Senate cloture vote on Clarity Act fails, dealing regulatory blow to crypto industry",
-          "link": "https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html",
-          "date": "2026-09-15T20:16:31+00:00"
         }
       ]
     },
@@ -167,6 +167,11 @@
       "url": "https://www.ifanr.com/feed",
       "items": [
         {
+          "title": "早报｜雷军同日到访宇树与B站/罗永浩差评带来流量，野人先生单日涨粉近3万/鸿蒙智行确认问界合作调整，赛力斯主导",
+          "link": "https://www.ifanr.com/1680293?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-09-16T00:45:37+00:00"
+        },
+        {
           "title": "19.98 万元起，吉利银河战舰 700 开启预售，最高 1129 匹马力，还有三电机四驱",
           "link": "https://www.ifanr.com/1680277?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-09-15T13:04:35+00:00"
@@ -185,11 +190,6 @@
           "title": "iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西",
           "link": "https://www.ifanr.com/1680134?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-09-15T05:00:50+00:00"
-        },
-        {
-          "title": "早报｜iOS27正式推送/比亚迪高管：燃油车在中国没有未来/iPhone 18 Pro渠道降价900元，苹果称不干预",
-          "link": "https://www.ifanr.com/1680097?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-09-15T00:08:20+00:00"
         }
       ]
     },
@@ -231,6 +231,16 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
+          "link": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
+          "date": "2026-09-15T19:49:14+00:00"
+        },
+        {
+          "title": "AI and data centers are incredibly unpopular in every poll",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+          "date": "2026-09-16T00:03:22+00:00"
+        },
+        {
           "title": "Microsoft announces Windows and Surface event for October 7th",
           "link": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
           "date": "2026-09-15T20:39:56+00:00"
@@ -244,16 +254,6 @@
           "title": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
           "link": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale",
           "date": "2026-09-15T18:54:02+00:00"
-        },
-        {
-          "title": "One of the best 3D printers for beginners is almost $100 off",
-          "link": "https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale",
-          "date": "2026-09-15T18:11:34+00:00"
-        },
-        {
-          "title": "How The Oregon Trail became a generational icon",
-          "link": "https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon",
-          "date": "2026-09-15T16:18:10+00:00"
         }
       ]
     },
@@ -262,6 +262,16 @@
       "category": "科技",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
+          "link": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
+          "date": "2026-09-15T22:26:32+00:00"
+        },
+        {
+          "title": "“Filmmaker” suing PassThePopcorn may be banned user out for revenge",
+          "link": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/",
+          "date": "2026-09-15T20:19:17+00:00"
+        },
         {
           "title": "18-year-old dies of measles in PA from severe neurological complication",
           "link": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/",
@@ -276,16 +286,6 @@
           "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
           "link": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
           "date": "2026-09-15T18:33:02+00:00"
-        },
-        {
-          "title": "Boston dumps Flock, says it shared data nationwide in violation of contract",
-          "link": "https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/",
-          "date": "2026-09-15T18:14:11+00:00"
-        },
-        {
-          "title": "Demand for EV chargers is outstripping supply, says ChargePoint report",
-          "link": "https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/",
-          "date": "2026-09-15T17:58:09+00:00"
         }
       ]
     },
@@ -294,6 +294,16 @@
       "category": "开发",
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
+        {
+          "title": "Saving Jet Fuel",
+          "link": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
+          "date": "2026-09-15T23:17:20+00:00"
+        },
+        {
+          "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+          "link": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+          "date": "2026-09-15T22:50:55+00:00"
+        },
         {
           "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
           "link": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
@@ -308,16 +318,6 @@
           "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
           "link": "https://codyho.dev/blog/gpu-driver/",
           "date": "2026-09-15T19:30:03+00:00"
-        },
-        {
-          "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
-          "link": "https://github.com/GraafHenk/numberwang",
-          "date": "2026-09-15T19:27:35+00:00"
-        },
-        {
-          "title": "Introducing System One Models and Jev",
-          "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-          "date": "2026-09-15T19:25:03+00:00"
         }
       ]
     },
@@ -332,14 +332,14 @@
           "date": "2026-09-15T17:21:47+00:00"
         },
         {
+          "title": "Small Programming Tricks",
+          "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+          "date": "2026-09-15T20:50:57+00:00"
+        },
+        {
           "title": "Coreutils - rejected feature requests",
           "link": "https://www.gnu.org/software/coreutils/rejected_requests.html",
           "date": "2026-09-15T09:06:36+00:00"
-        },
-        {
-          "title": "\"Do You Still Read the Code?\"",
-          "link": "https://zanlib.dev/blog/do-you-still-read-the-code/",
-          "date": "2026-09-14T20:16:07+00:00"
         },
         {
           "title": "CSS-Tricks in Limbo",
@@ -347,9 +347,9 @@
           "date": "2026-09-15T09:12:31+00:00"
         },
         {
-          "title": "The contagion of fear",
-          "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-          "date": "2026-09-14T16:53:14+00:00"
+          "title": "\"Do You Still Read the Code?\"",
+          "link": "https://zanlib.dev/blog/do-you-still-read-the-code/",
+          "date": "2026-09-14T20:16:07+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[加密货币] OneKey 领奖邮件是假的，点进去会盗钱包",
-          "link": "https://www.v2ex.com/t/1242284#reply0",
-          "date": "2026-09-15T21:45:36+00:00"
+          "title": "[生活] 迷茫 如何干呢？接下来的是朝哪个方向走",
+          "link": "https://www.v2ex.com/t/1242308#reply0",
+          "date": "2026-09-16T01:23:54+00:00"
         },
         {
-          "title": "[酷工作] 技术负责人（包括客户端、服务端和 Agent 团队）-北京/深圳",
-          "link": "https://www.v2ex.com/t/1242283#reply0",
-          "date": "2026-09-15T20:13:51+00:00"
+          "title": "[汽车] 求推荐现在智驾最好的 SUV",
+          "link": "https://www.v2ex.com/t/1242307#reply1",
+          "date": "2026-09-16T01:22:06+00:00"
         },
         {
-          "title": "[问与答] 未来会是 AI 写代码， AI 测试， AI 改 bug，人类的编码能力将没有任何意义",
-          "link": "https://www.v2ex.com/t/1242282#reply6",
-          "date": "2026-09-15T19:16:22+00:00"
+          "title": "[问与答] 如何屏蔽 mac 微信的《按住鼠标 语音输入文字》",
+          "link": "https://www.v2ex.com/t/1242305#reply1",
+          "date": "2026-09-16T01:19:04+00:00"
         },
         {
-          "title": "[问与答] 一个人用 20x ，会不会封啊？",
-          "link": "https://www.v2ex.com/t/1242280#reply0",
-          "date": "2026-09-15T17:46:17+00:00"
+          "title": "[ WATCH] 有必要 Ultra2 换成 watch12 吗？",
+          "link": "https://www.v2ex.com/t/1242304#reply1",
+          "date": "2026-09-16T01:18:31+00:00"
         },
         {
-          "title": "[Cursor] cursor 使用第三方 key 提示： This model does not support custom API keys. Request ID: \n是什么原因？",
-          "link": "https://www.v2ex.com/t/1242279#reply0",
-          "date": "2026-09-15T17:16:50+00:00"
+          "title": "[分享创造] 有没有喜欢徒步的 v 友？",
+          "link": "https://www.v2ex.com/t/1242303#reply2",
+          "date": "2026-09-16T01:16:06+00:00"
         }
       ]
     },
@@ -468,6 +468,38 @@
           "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
           "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
           "date": "2026-08-27T23:56:43+00:00"
+        }
+      ]
+    },
+    {
+      "name": "酷壳",
+      "category": "开发",
+      "url": "https://coolshell.cn/feed",
+      "items": [
+        {
+          "title": "是微服务架构不香还是云不香？",
+          "link": "https://coolshell.cn/articles/22422.html",
+          "date": "2023-05-08T09:52:06+00:00"
+        },
+        {
+          "title": "我看ChatGPT: 为啥谷歌掉了千亿美金",
+          "link": "https://coolshell.cn/articles/22398.html",
+          "date": "2023-02-11T16:31:16+00:00"
+        },
+        {
+          "title": "聊聊 nostr 和 审查",
+          "link": "https://coolshell.cn/articles/22367.html",
+          "date": "2023-02-03T07:46:13+00:00"
+        },
+        {
+          "title": "感染新冠的经历",
+          "link": "https://coolshell.cn/articles/22341.html",
+          "date": "2022-12-13T07:39:39+00:00"
+        },
+        {
+          "title": "eBPF 介绍",
+          "link": "https://coolshell.cn/articles/22320.html",
+          "date": "2022-12-10T02:38:51+00:00"
         }
       ]
     },
@@ -633,7 +665,6 @@
     }
   ],
   "failed": [
-    "36 氪",
-    "酷壳"
+    "36 氪"
   ]
 }
