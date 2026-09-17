@@ -1,13 +1,43 @@
 {
-  "updated": "2026-09-16T21:22:46+00:00",
+  "updated": "2026-09-17T00:35:01+00:00",
   "regions": {
     "SG": {
       "name": "新加坡",
       "items": [
         {
-          "title": "Trading Day: Lift off!",
-          "link": "https://www.channelnewsasia.com/business/trading-day-lift-6390266",
-          "date": "2026-09-16T21:06:07+00:00",
+          "title": "Get $4 voucher for every $50 spent at FairPrice outlets from Sept 17 to 27",
+          "link": "https://www.straitstimes.com/singapore/get-4-voucher-for-every-50-spent-at-fairprice-outlets-from-sept-17-to-27",
+          "date": "2026-09-17T00:28:00+00:00",
+          "source": "The Straits Times"
+        },
+        {
+          "title": "The new iPhone 18 Pro range is here – but who is it for?",
+          "link": "https://www.channelnewsasia.com/living/apple-iphone-18-pro-or-iphone-duo-6388216",
+          "date": "2026-09-17T00:06:00+00:00",
+          "source": "CNA"
+        },
+        {
+          "title": "US Congress passes sweeping Russia sanctions Bill",
+          "link": "https://www.channelnewsasia.com/world/us-congress-passes-sweeping-russia-sanctions-bill-6390501",
+          "date": "2026-09-16T23:59:00+00:00",
+          "source": "CNA"
+        },
+        {
+          "title": "Former Chelsea owners Boehly and Walter sell holdings to Clearlake",
+          "link": "https://www.channelnewsasia.com/sport/former-chelsea-owners-boehly-and-walter-sell-holdings-clearlake-6390526",
+          "date": "2026-09-16T23:56:39+00:00",
+          "source": "CNA"
+        },
+        {
+          "title": "Snap targets enterprises with Salesforce, Nvidia AI tools for augmented-reality glasses",
+          "link": "https://www.channelnewsasia.com/business/snap-targets-enterprises-salesforce-nvidia-ai-tools-augmented-reality-glasses-6390506",
+          "date": "2026-09-16T23:45:12+00:00",
+          "source": "CNA"
+        },
+        {
+          "title": "Trump lashes out at Fed after Warsh backs rate hike; says rates should be '1% or less'",
+          "link": "https://www.channelnewsasia.com/world/trump-lashes-out-federal-reserve-rate-hike-kevin-warsh-6390466",
+          "date": "2026-09-16T23:21:00+00:00",
           "source": "CNA"
         },
         {
@@ -15,30 +45,6 @@
           "link": "https://www.straitstimes.com/tech/instead-of-speculating-if-ai-will-end-mankind-audit-and-govern-the-tech-industry-players",
           "date": "2026-09-16T21:00:00+00:00",
           "source": "The Straits Times"
-        },
-        {
-          "title": "Banks provide $22 billion chip loan to Blackstone, Alphabet cloud venture, Bloomberg News reports",
-          "link": "https://www.channelnewsasia.com/business/banks-provide-22-billion-chip-loan-blackstone-alphabet-cloud-venture-bloomberg-news-reports-6390211",
-          "date": "2026-09-16T20:33:08+00:00",
-          "source": "CNA"
-        },
-        {
-          "title": "Verstappen overtakes 100 go-karters in 35 minutes at Silverstone",
-          "link": "https://www.channelnewsasia.com/sport/verstappen-overtakes-100-go-karters-in-35-minutes-silverstone-6390156",
-          "date": "2026-09-16T19:37:17+00:00",
-          "source": "CNA"
-        },
-        {
-          "title": "Explainer-Do AI companies have to disclose dangerous incidents?",
-          "link": "https://www.channelnewsasia.com/business/explainer-do-ai-companies-have-disclose-dangerous-incidents-6390101",
-          "date": "2026-09-16T19:03:29+00:00",
-          "source": "CNA"
-        },
-        {
-          "title": "First Solar drops ITC patent case, shifts focus to lawsuits against rivals",
-          "link": "https://www.channelnewsasia.com/business/first-solar-drops-itc-patent-case-shifts-focus-lawsuits-against-rivals-6390081",
-          "date": "2026-09-16T18:55:06+00:00",
-          "source": "CNA"
         },
         {
           "title": "Singapore medtech start-up Bioactivx launches synthetic skin substitute",
@@ -57,12 +63,6 @@
           "link": "https://www.straitstimes.com/singapore/man-allegedly-threw-rock-at-police-cantonment-complex-set-to-be-charged-with-vandalism",
           "date": "2026-09-16T12:47:00+00:00",
           "source": "The Straits Times"
-        },
-        {
-          "title": "Singaporean suffers cardiac arrest after being run over by bus in Taiwan; resuscitated in hospital",
-          "link": "https://www.straitstimes.com/singapore/singaporean-suffers-cardiac-arrest-after-being-run-over-by-bus-in-taiwan-resuscitated-in-hospital",
-          "date": "2026-09-16T11:50:00+00:00",
-          "source": "The Straits Times"
         }
       ]
     },
@@ -70,39 +70,81 @@
       "name": "中国大陆",
       "items": [
         {
-          "title": "苹果 watchOS 27.2 开发者预览版 Beta 发布",
-          "link": "https://www.ithome.com/1/003/345.htm",
-          "date": "2026-09-16T19:00:11+00:00",
+          "title": "折旧模型失效：英伟达 B200 二手残值达首发价 158%，AI 算力需求持续推高 GPU 溢价",
+          "link": "https://www.ithome.com/1/003/368.htm",
+          "date": "2026-09-17T00:31:22+00:00",
           "source": "IT之家",
           "channel": "科技"
         },
         {
-          "title": "苹果 visionOS 27.2 开发者预览版 Beta 发布",
-          "link": "https://www.ithome.com/1/003/344.htm",
-          "date": "2026-09-16T19:00:11+00:00",
+          "title": "苹果 iOS 27 版天气升级预报主页，让用户洞悉天气状况 / 降水 / 风力",
+          "link": "https://www.ithome.com/1/003/367.htm",
+          "date": "2026-09-17T00:22:53+00:00",
           "source": "IT之家",
           "channel": "科技"
         },
         {
-          "title": "苹果 macOS 27.2 开发者预览版 Beta 发布",
-          "link": "https://www.ithome.com/1/003/343.htm",
-          "date": "2026-09-16T19:00:11+00:00",
-          "source": "IT之家",
-          "channel": "科技"
-        },
-        {
-          "title": "苹果 iOS/iPadOS 27.2 开发者预览版 Beta 发布",
-          "link": "https://www.ithome.com/1/003/342.htm",
-          "date": "2026-09-16T19:00:10+00:00",
-          "source": "IT之家",
-          "channel": "科技"
-        },
-        {
-          "title": "中外代表在南京共议残疾人就业与科技赋能",
-          "link": "https://www.chinanews.com.cn/gn/2026/09-17/10697946.shtml",
-          "date": "2026-09-16T16:35:37+00:00",
+          "title": "号称千元扫地机器人到手竟是玩具，“积分兑换”存在哪些套路？",
+          "link": "https://www.chinanews.com.cn/sh/2026/09-17/10697977.shtml",
+          "date": "2026-09-17T00:22:41+00:00",
           "source": "中新网即时",
           "channel": "综合"
+        },
+        {
+          "title": "恒大汽车：负债总额约 327.22 亿元，已完成退出汽车制造",
+          "link": "https://www.ithome.com/1/003/366.htm",
+          "date": "2026-09-17T00:20:48+00:00",
+          "source": "IT之家",
+          "channel": "科技"
+        },
+        {
+          "title": "湿滑路面骑车摔倒，可以索赔吗？法院判决",
+          "link": "https://www.chinanews.com.cn/sh/2026/09-17/10697976.shtml",
+          "date": "2026-09-17T00:20:12+00:00",
+          "source": "中新网即时",
+          "channel": "综合"
+        },
+        {
+          "title": "中央气象台：四川重庆湖北等地局地有暴雨",
+          "link": "https://www.chinanews.com.cn/sh/2026/09-17/10697970.shtml",
+          "date": "2026-09-17T00:18:56+00:00",
+          "source": "中新网即时",
+          "channel": "综合"
+        },
+        {
+          "title": "消息称英伟达 RTX 60 与 AMD RDNA 5 游戏显卡将推迟至 2028 年发布",
+          "link": "https://www.ithome.com/1/003/365.htm",
+          "date": "2026-09-17T00:17:59+00:00",
+          "source": "IT之家",
+          "channel": "科技"
+        },
+        {
+          "title": "美联储时隔三年多重启加息",
+          "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697967.shtml",
+          "date": "2026-09-17T00:11:34+00:00",
+          "source": "中新网即时",
+          "channel": "综合"
+        },
+        {
+          "title": "苹果 iOS 27 新增“冒充风险检测”，帮 iPhone 18 Pro 等用户抵御网络诈骗",
+          "link": "https://www.ithome.com/1/003/364.htm",
+          "date": "2026-09-17T00:11:13+00:00",
+          "source": "IT之家",
+          "channel": "科技"
+        },
+        {
+          "title": "国庆假期首日火车票，今日开售！",
+          "link": "https://www.chinanews.com.cn/sh/2026/09-17/10697974.shtml",
+          "date": "2026-09-17T00:10:40+00:00",
+          "source": "中新网即时",
+          "channel": "综合"
+        },
+        {
+          "title": "破译棉花遗传的“空间折叠密码”",
+          "link": "http://news.sciencenet.cn/htmlnews/2026/9/571592.shtm",
+          "date": "2026-09-16T23:33:00+00:00",
+          "source": "科学网",
+          "channel": "科技"
         },
         {
           "title": "付费给大学生睡足七小时提高了他们的学习成绩",
@@ -119,13 +161,6 @@
           "channel": "科技"
         },
         {
-          "title": "中国四部门：2030年农业保险体系总体达到国际先进水平",
-          "link": "https://www.chinanews.com.cn/cj/2026/09-16/10697945.shtml",
-          "date": "2026-09-16T15:55:18+00:00",
-          "source": "中新网即时",
-          "channel": "综合"
-        },
-        {
           "title": "PS2 Fat 使用的安全芯片在时隔 26 年被破解",
           "link": "https://www.solidot.org/story?sid=85399",
           "date": "2026-09-16T15:54:21+00:00",
@@ -133,39 +168,11 @@
           "channel": "科技"
         },
         {
-          "title": "联合国秘书长古特雷斯：世界承受不起 AI 安全领域的恶性竞争",
-          "link": "https://www.ithome.com/1/003/338.htm",
-          "date": "2026-09-16T15:47:40+00:00",
-          "source": "IT之家",
-          "channel": "科技"
-        },
-        {
-          "title": "中方在世贸组织公共论坛深入探讨产业政策作用与影响",
-          "link": "https://www.chinanews.com.cn/cj/2026/09-16/10697944.shtml",
-          "date": "2026-09-16T15:41:50+00:00",
-          "source": "中新网即时",
-          "channel": "综合"
-        },
-        {
-          "title": "中国女篮前队长宋晓波参与高尔夫慈善赛传递爱心",
-          "link": "https://www.chinanews.com.cn/ty/2026/09-16/10697941.shtml",
-          "date": "2026-09-16T15:40:33+00:00",
-          "source": "中新网即时",
-          "channel": "综合"
-        },
-        {
           "title": "Denuvo 起诉黑客违反 DMCA 反规避条款",
           "link": "https://www.solidot.org/story?sid=85398",
           "date": "2026-09-16T15:27:44+00:00",
           "source": "Solidot",
           "channel": "科技"
-        },
-        {
-          "title": "南非对美国以“种族歧视”为由实施签证限制表示关切",
-          "link": "https://www.chinanews.com.cn/gj/2026/09-16/10697943.shtml",
-          "date": "2026-09-16T15:27:13+00:00",
-          "source": "中新网即时",
-          "channel": "综合"
         },
         {
           "title": "比 MEGA Home 便宜 14 万！理想 i9 Home 上市定价 36.98 万元，六座旗舰变天了",
@@ -199,13 +206,6 @@
           "title": "AI助力睡眠健康管理走向个性化",
           "link": "http://news.sciencenet.cn/htmlnews/2026/9/571588.shtm",
           "date": "2026-09-16T14:15:00+00:00",
-          "source": "科学网",
-          "channel": "科技"
-        },
-        {
-          "title": "“第一缕阳光·健康中国行”关爱男性健康科普论坛举办",
-          "link": "http://news.sciencenet.cn/htmlnews/2026/9/571587.shtm",
-          "date": "2026-09-16T14:14:00+00:00",
           "source": "科学网",
           "channel": "科技"
         },
@@ -390,33 +390,33 @@
       "name": "中国台湾",
       "items": [
         {
-          "title": "聯準會升息1碼　2023年以來首度調升利率",
-          "link": "https://www.cna.com.tw/news/aopl/202609170006.aspx",
-          "date": "2026-09-16T18:07:52+00:00",
+          "title": "美中對抗掀矽盛世與WAICO爭霸　東協掀主權AI風潮靈活戰略拒站隊",
+          "link": "https://www.cna.com.tw/news/aopl/202609170020.aspx",
+          "date": "2026-09-16T23:40:30+00:00",
           "source": "中央社"
         },
         {
-          "title": "川普淡化AI威脅　聯合國秘書長疾呼防範",
-          "link": "https://www.cna.com.tw/news/aopl/202609170005.aspx",
-          "date": "2026-09-16T17:44:49+00:00",
+          "title": "歐洲議會議員聲援香港民主人士　促歐盟追究相關責任",
+          "link": "https://www.cna.com.tw/news/aopl/202609170019.aspx",
+          "date": "2026-09-16T23:15:27+00:00",
           "source": "中央社"
         },
         {
-          "title": "人工智慧先驅班吉歐示警AI失控風險　籲比照核武管制",
-          "link": "https://www.cna.com.tw/news/aopl/202609170004.aspx",
-          "date": "2026-09-16T17:29:47+00:00",
+          "title": "白宮幕僚長威爾斯3月確診乳癌　治療後宣布抗癌成功",
+          "link": "https://www.cna.com.tw/news/aopl/202609170018.aspx",
+          "date": "2026-09-16T23:03:25+00:00",
           "source": "中央社"
         },
         {
-          "title": "黎智英女兒罹癌化療　黎崇恩：盼中方思考人道釋放意義",
-          "link": "https://www.cna.com.tw/news/aopl/202609170002.aspx",
-          "date": "2026-09-16T16:08:41+00:00",
+          "title": "CNN：川普團隊考慮川習會期間　安排AI領袖場邊會議",
+          "link": "https://www.cna.com.tw/news/aopl/202609170017.aspx",
+          "date": "2026-09-16T22:21:20+00:00",
           "source": "中央社"
         },
         {
-          "title": "蘇丹金礦坍塌已82死50傷　失業嚴重促年輕人投入淘金",
-          "link": "https://www.cna.com.tw/news/aopl/202609160381.aspx",
-          "date": "2026-09-16T15:50:34+00:00",
+          "title": "聯準會升息1碼　川普籲利率降至1%以下",
+          "link": "https://www.cna.com.tw/news/aopl/202609170016.aspx",
+          "date": "2026-09-16T21:45:17+00:00",
           "source": "中央社"
         }
       ]
@@ -425,33 +425,33 @@
       "name": "日本",
       "items": [
         {
+          "title": "EU chief wants Canada to become an ‘associate member.’ What does that mean?",
+          "link": "https://www.japantimes.co.jp/news/2026/09/17/world/eu-canada-associate-member/",
+          "date": "2026-09-16T22:44:00+00:00",
+          "source": "Japan Times"
+        },
+        {
+          "title": "Houthis report Saudi strikes as Riyadh accuses them of targeting Mecca",
+          "link": "https://www.japantimes.co.jp/news/2026/09/17/world/saudi-houthis-strikes-mecca/",
+          "date": "2026-09-16T22:11:00+00:00",
+          "source": "Japan Times"
+        },
+        {
+          "title": "Takaichi targets continuity with first Cabinet reshuffle",
+          "link": "https://www.japantimes.co.jp/news/2026/09/17/japan/politics/takaichi-cabinet-reshuffle/",
+          "date": "2026-09-16T22:11:00+00:00",
+          "source": "Japan Times"
+        },
+        {
+          "title": "Fed raises rates in search of ‘timelier’ drop in inflation, sees more tightening ahead",
+          "link": "https://www.japantimes.co.jp/business/2026/09/17/economy/fed-raises-rates-inflation/",
+          "date": "2026-09-16T22:06:00+00:00",
+          "source": "Japan Times"
+        },
+        {
           "title": "City pop wasn’t really a genre. Until it was.",
           "link": "https://www.japantimes.co.jp/culture/2026/09/17/music/city-pop-japanese-music/",
           "date": "2026-09-16T19:55:00+00:00",
-          "source": "Japan Times"
-        },
-        {
-          "title": "English village votes to ‘secede’ from U.K. over asylum center plan",
-          "link": "https://www.japantimes.co.jp/news/2026/09/16/world/england-village-asylum-center/",
-          "date": "2026-09-16T12:41:00+00:00",
-          "source": "Japan Times"
-        },
-        {
-          "title": "Former Philippine leader Duterte appears before ICC judges for first time",
-          "link": "https://www.japantimes.co.jp/news/2026/09/16/asia-pacific/philippines-duterte-icc-judges/",
-          "date": "2026-09-16T11:17:00+00:00",
-          "source": "Japan Times"
-        },
-        {
-          "title": "Two firms show interest in spent nuclear fuel facility",
-          "link": "https://www.japantimes.co.jp/news/2026/09/16/japan/spent-nuclear-fuel-facility-firms/",
-          "date": "2026-09-16T10:58:00+00:00",
-          "source": "Japan Times"
-        },
-        {
-          "title": "LNG market faces extended Hormuz outage, Japanese shipper says",
-          "link": "https://www.japantimes.co.jp/business/2026/09/16/mitsui-osk-hormuz-lng/",
-          "date": "2026-09-16T10:49:00+00:00",
           "source": "Japan Times"
         }
       ]
@@ -460,33 +460,33 @@
       "name": "韩国",
       "items": [
         {
-          "title": "[Wang Son-taek] Missing questions in the AI debate",
-          "link": "https://www.koreaherald.com/article/10875965",
-          "date": "2026-09-17T05:30:00+00:00",
+          "title": "BOK pressed to further raise key rate to track Fed&apos;s latest hike",
+          "link": "https://www.koreaherald.com/article/10876501",
+          "date": "2026-09-17T09:32:03+00:00",
           "source": "Korea Herald"
         },
         {
-          "title": "[Lee Moon-won] Hair loss focus turns to prevention",
-          "link": "https://www.koreaherald.com/article/10875964",
-          "date": "2026-09-17T05:30:00+00:00",
+          "title": "S. Korean Catholic Church voices &apos;deep concerns&apos; over abortion bill plan",
+          "link": "https://www.koreaherald.com/article/10876478",
+          "date": "2026-09-17T09:26:29+00:00",
           "source": "Korea Herald"
         },
         {
-          "title": "N. Korea’s overseas workers generate up to $800m a year: report",
-          "link": "https://www.koreaherald.com/article/10876114",
-          "date": "2026-09-16T23:36:24+00:00",
+          "title": "With Hanwha’s backing, LGI targets Indonesia’s top five",
+          "link": "https://www.koreaherald.com/article/10875967",
+          "date": "2026-09-17T09:00:05+00:00",
           "source": "Korea Herald"
         },
         {
-          "title": "Coupang rejects 100,000 won compensation plan for users affected by data breach",
-          "link": "https://www.koreaherald.com/article/10876064",
-          "date": "2026-09-16T21:04:43+00:00",
+          "title": "Team Korea’s young guns set sights on Asian Games glory",
+          "link": "https://www.koreaherald.com/article/10875931",
+          "date": "2026-09-17T09:00:04+00:00",
           "source": "Korea Herald"
         },
         {
-          "title": "Hyundai Motor unveils sketches of new India-targeted SUV Bayon",
-          "link": "https://www.koreaherald.com/article/10876047",
-          "date": "2026-09-16T20:16:24+00:00",
+          "title": "N.K. leader&apos;s sister dismisses IAEA&apos;s denuclearization calls, reiterates nuclear status",
+          "link": "https://www.koreaherald.com/article/10876376",
+          "date": "2026-09-17T08:51:12+00:00",
           "source": "Korea Herald"
         }
       ]
@@ -495,63 +495,63 @@
       "name": "马来西亚",
       "items": [
         {
-          "title": "Sarawak mahu terus makmur dalam Malaysia",
-          "link": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/09/16/sarawak-mahu-terus-makmur-dalam-malaysia",
-          "date": "2026-09-16T15:58:00+00:00",
+          "title": "Dari tiada MyKad hingga diiktiraf Bumiputera, perjuangan panjang anak Sa’ban",
+          "link": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/09/17/dari-tiada-mykad-hingga-diiktiraf-bumiputera-perjuangan-panjang-anak-sa-ban",
+          "date": "2026-09-17T00:00:00+00:00",
           "source": "Free Malaysia Today"
         },
         {
-          "title": "Sarawak wants to continue prospering within Malaysia, says premier",
-          "link": "https://www.freemalaysiatoday.com/category/nation/2026/09/16/sarawak-wants-to-continue-prospering-within-malaysia-says-premier",
-          "date": "2026-09-16T15:34:00+00:00",
+          "title": "Criticising governments is easy, taking over much harder",
+          "link": "https://www.freemalaysiatoday.com/category/opinion/2026/09/17/toppling-governments-is-easy-governing-them-is-hard",
+          "date": "2026-09-17T00:00:00+00:00",
           "source": "Free Malaysia Today"
         },
         {
-          "title": "Work as a team to develop Malaysia, PM tells Petronas, Petros",
-          "link": "https://www.freemalaysiatoday.com/category/nation/2026/09/16/work-as-a-team-to-develop-malaysia-pm-tells-petronas-petros",
-          "date": "2026-09-16T15:26:00+00:00",
+          "title": "He fought first for a MyKad, then for his people",
+          "link": "https://www.freemalaysiatoday.com/category/leisure/2026/09/17/he-fought-first-for-a-mykad-then-for-his-people",
+          "date": "2026-09-17T00:00:00+00:00",
           "source": "Free Malaysia Today"
         },
         {
-          "title": "Nepal raises flood missing toll by nearly 1,000 people to 6,150",
-          "link": "https://www.freemalaysiatoday.com/category/world/2026/09/16/nepal-raises-flood-missing-toll-by-nearly-1-000-people-to-6-150",
-          "date": "2026-09-16T15:23:11+00:00",
+          "title": "US House advances first bill addressing economic impact of data centre boom",
+          "link": "https://www.freemalaysiatoday.com/category/world/2026/09/17/us-house-advances-first-bill-addressing-economic-impact-of-data-centre-boom",
+          "date": "2026-09-16T23:57:52+00:00",
           "source": "Free Malaysia Today"
         },
         {
-          "title": "Remaja 14 tahun pandu kereta langgar 2 kenderaan",
-          "link": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/09/16/remaja-14-tahun-pandu-kereta-langgar-2-kenderaan",
-          "date": "2026-09-16T15:17:00+00:00",
+          "title": "Trump threatens EU over ‘hostile’ Canada association plan",
+          "link": "https://www.freemalaysiatoday.com/category/world/2026/09/17/trump-threatens-eu-over-hostile-canada-association-plan",
+          "date": "2026-09-16T23:57:12+00:00",
           "source": "Free Malaysia Today"
         },
         {
-          "title": "‘I voted to leave the UK’: Tiny English village ‘secedes’ in protest over asylum centre plan",
-          "link": "https://www.malaymail.com/news/world/2026/09/16/i-voted-to-leave-the-uk-tiny-english-village-secedes-in-protest-over-asylum-centre-plan/235429",
-          "date": "2026-09-16T13:00:00+00:00",
+          "title": "Malaysia’s OPR stays at 2.75pc: What does it mean for your loans, savings and spendings",
+          "link": "https://www.malaymail.com/news/malaysia/2026/09/17/malaysias-opr-stays-at-275pc-what-does-it-mean-for-your-loans-savings-and-spendings/235175",
+          "date": "2026-09-16T23:00:00+00:00",
           "source": "Malay Mail"
         },
         {
-          "title": "‘Breathing toxin every day’: Indonesians choked by haze feel helpless as smoke drifts into Malaysia and wider SE Asia",
-          "link": "https://www.malaymail.com/news/world/2026/09/16/breathing-toxin-every-day-indonesians-choked-by-haze-feel-helpless-as-smoke-drifts-into-malaysia-and-wider-se-asia/235450",
-          "date": "2026-09-16T13:00:00+00:00",
+          "title": "More countries move to ban social media for children, with restrictions spreading worldwide",
+          "link": "https://www.malaymail.com/news/world/2026/09/17/more-countries-move-to-ban-social-media-for-children-with-restrictions-spreading-worldwide/235408",
+          "date": "2026-09-16T23:00:00+00:00",
           "source": "Malay Mail"
         },
         {
-          "title": "Asian Games: Aw Jian Ting, Lim Pei Yao launch Malaysia’s pentathlon bid as fencing seeding round begins",
-          "link": "https://www.malaymail.com/news/sports/2026/09/16/asian-games-aw-jian-ting-lim-pei-yao-launch-malaysias-pentathlon-bid-as-fencing-seeding-round-begins/235449",
-          "date": "2026-09-16T12:11:31+00:00",
+          "title": "Dead animals, barren fields and hunger as strongest‑in‑decades El Nino chokes Central America",
+          "link": "https://www.malaymail.com/news/world/2026/09/17/dead-animals-barren-fields-and-hunger-as-strongestindecades-el-nino-chokes-central-america/235421",
+          "date": "2026-09-16T23:00:00+00:00",
           "source": "Malay Mail"
         },
         {
-          "title": "Police confirm body found in Perak waters is missing angler",
-          "link": "https://www.malaymail.com/news/malaysia/2026/09/16/police-confirm-body-found-in-perak-waters-is-missing-angler/235448",
-          "date": "2026-09-16T12:02:06+00:00",
+          "title": "In hydropowered Bhutan, solar starts to rise amid winter shortfalls and climate pressures",
+          "link": "https://www.malaymail.com/news/life/2026/09/17/in-hydropowered-bhutan-solar-starts-to-rise-amid-winter-shortfalls-and-climate-pressures/235424",
+          "date": "2026-09-16T23:00:00+00:00",
           "source": "Malay Mail"
         },
         {
-          "title": "Asian Games: Coach Rexy tells Malaysian shuttlers to draw on past top performances for Aichi‑Nagoya 2026",
-          "link": "https://www.malaymail.com/news/sports/2026/09/16/asian-games-coach-rexy-tells-malaysian-shuttlers-to-draw-on-past-top-performances-for-aichinagoya-2026/235447",
-          "date": "2026-09-16T12:01:15+00:00",
+          "title": "Peace is a ‘dangerous’ word in Russian city heading to polls as residents reel from deadly Ukrainian drone strikes",
+          "link": "https://www.malaymail.com/news/world/2026/09/17/peace-is-a-dangerous-word-in-russian-city-heading-to-polls-as-residents-reel-from-deadly-ukrainian-drone-strikes/235401",
+          "date": "2026-09-16T23:00:00+00:00",
           "source": "Malay Mail"
         }
       ]
@@ -560,63 +560,63 @@
       "name": "印度",
       "items": [
         {
-          "title": "Rajasthan urban local body elections: Candidates for mayors, chairpersons file nominations",
-          "link": "https://www.thehindu.com/news/national/rajasthan/rajasthan-urban-local-body-elections-candidates-for-mayors-chairpersons-file-nominations/article71474170.ece",
-          "date": "2026-09-16T20:48:25+00:00",
-          "source": "The Hindu"
-        },
-        {
-          "title": "Punjab Ambedkar Statue Row: BJP's Vijay Sampla Injured In Clash With BSP Workers",
-          "link": "https://www.ndtv.com/india-news/punjab-ambedkar-statue-row-bjp-leader-vijay-sampla-injured-in-clash-with-bsp-workers-12056830#publisher=newsstand",
-          "date": "2026-09-16T20:46:52+00:00",
+          "title": "Factbox: AI Rivalry Hangs Over Trump-Xi Talks",
+          "link": "https://www.ndtv.com/world-news/factbox-ai-rivalry-hangs-over-trump-xi-jinping-talks-12057042#publisher=newsstand",
+          "date": "2026-09-16T23:57:23+00:00",
           "source": "NDTV"
         },
         {
-          "title": "Former TNCC president Selvaperunthagai and Rajya Sabha member Praveen Chakravarty trade barbs",
-          "link": "https://www.thehindu.com/news/national/tamil-nadu/former-tncc-president-selvaperunthagai-and-rajya-sabha-member-praveen-chakravarty-trade-barbs/article71472663.ece",
-          "date": "2026-09-16T20:46:26+00:00",
+          "title": "Govt. cuts windfall tax on export of petrol, diesel and ATF",
+          "link": "https://www.thehindu.com/business/govt-cuts-windfall-tax-on-export-of-petrol-diesel-and-atf/article71474189.ece",
+          "date": "2026-09-16T23:53:23+00:00",
           "source": "The Hindu"
         },
         {
-          "title": "CJP to launch ‘Adivasi School Thik Karo’ campaign from Gadchiroli on Sept. 17: Dipke",
-          "link": "https://www.thehindu.com/news/national/maharashtra/cjp-to-launch-adivasi-school-thik-karo-campaign-from-gadchiroli-on-sept-17-dipke/article71471862.ece",
-          "date": "2026-09-16T20:38:53+00:00",
+          "title": "J&K MLAs decry 18% representation to Kashmir valley in UT officers’ list",
+          "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-mlas-decry-18-representation-to-kashmir-valley-in-ut-officers-list/article71472329.ece",
+          "date": "2026-09-16T23:48:20+00:00",
           "source": "The Hindu"
         },
         {
-          "title": "Lack of cleanliness and hygiene keep exporters away from Kasimedu fishing harbour",
-          "link": "https://www.thehindu.com/news/cities/chennai/lack-of-cleanliness-and-hygiene-keep-exporters-away-from-kasimedu-fishing-harbour/article71473991.ece",
-          "date": "2026-09-16T20:38:25+00:00",
+          "title": "Jharkhand Congress takes out protest march demanding separate OBC column in Census 2027",
+          "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-congress-takes-out-protest-march-demanding-separate-obc-column-in-census-2027/article71472425.ece",
+          "date": "2026-09-16T23:40:12+00:00",
           "source": "The Hindu"
         },
         {
-          "title": "Falsely quoting judges in barred online court clips is criminal conduct, says Supreme Court",
-          "link": "https://www.thehindu.com/news/national/supreme-court-says-falsely-quoting-judges-in-barred-online-court-clips-crosses-over-from-contempt-to-crime/article71471708.ece",
-          "date": "2026-09-16T20:37:39+00:00",
-          "source": "The Hindu"
-        },
-        {
-          "title": "Saudi Seeks Help From France, Britain, Pakistan To Fight Houthis",
-          "link": "https://www.ndtv.com/world-news/saudis-seek-allies-help-as-missile-defenses-run-low-in-fight-with-houthis-officials-say-12056629#publisher=newsstand",
-          "date": "2026-09-16T19:48:36+00:00",
+          "title": "US Fed Hikes Rates To Tackle Inflation, Trump Slams Move As \"Hostile\"",
+          "link": "https://www.ndtv.com/world-news/us-fed-hikes-rates-to-tackle-inflation-donald-trump-slams-move-as-hostile-12057022#publisher=newsstand",
+          "date": "2026-09-16T23:38:24+00:00",
           "source": "NDTV"
         },
         {
-          "title": "17-Year-Old Girl Raped In Chhattisgarh, 4 Men Arrested: Cops",
-          "link": "https://www.ndtv.com/india-news/four-men-held-for-raping-17-year-old-girl-in-chhattisgarhs-kanker-district-12056553#publisher=newsstand",
-          "date": "2026-09-16T19:23:33+00:00",
+          "title": "Himachal’s policy uncompromising toward those involved in illegal drug trade: CM Sukhu",
+          "link": "https://www.thehindu.com/news/national/himachal-pradesh/himachals-policy-uncompromising-toward-those-involved-in-illegal-drug-trade-cm-sukhu/article71472541.ece",
+          "date": "2026-09-16T23:30:36+00:00",
+          "source": "The Hindu"
+        },
+        {
+          "title": "US Drops Venezuela From Drug List, May Remove Colombia: Trump",
+          "link": "https://www.ndtv.com/world-news/us-drops-venezuela-from-drug-list-may-remove-colombia-donald-trump-12057004#publisher=newsstand",
+          "date": "2026-09-16T23:16:58+00:00",
           "source": "NDTV"
         },
         {
-          "title": "On Risk From Superintelligence, Top AI Expert's Chimpanzee-Nukes Analogy",
-          "link": "https://www.ndtv.com/world-news/stuart-russell-dario-amodei-ai-slowdown-ai-risks-on-risk-from-superintelligence-top-ai-experts-chimpanzee-nukes-analogy-12056663#publisher=newsstand",
-          "date": "2026-09-16T19:14:39+00:00",
+          "title": "US Congress Passes Russia Sanctions Bill, India, China Face 100% Tariffs",
+          "link": "https://www.ndtv.com/world-news/us-congress-passes-sweeping-russia-sanctions-bill-12056969#publisher=newsstand",
+          "date": "2026-09-16T23:04:36+00:00",
           "source": "NDTV"
         },
         {
-          "title": "2 Dead In 2 Days During Clashes Over Ganesh Chaturthi Procession In Tamil Nadu",
-          "link": "https://www.ndtv.com/india-news/2-dead-in-2-days-during-clashes-over-ganesh-chaturthi-procession-in-tamil-nadu-12056664#publisher=newsstand",
-          "date": "2026-09-16T19:06:20+00:00",
+          "title": "BJP MPs raise concerns over slow pace of infrastructure projects in Odisha",
+          "link": "https://www.thehindu.com/news/national/odisha/bjp-mps-raise-concerns-over-slow-pace-of-infrastructure-projects-in-odisha/article71472679.ece",
+          "date": "2026-09-16T22:48:08+00:00",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Anti-Pollution Crackdown Intensifies Across NCR, 150 Inspections In 15 Days",
+          "link": "https://www.ndtv.com/india-news/anti-pollution-crackdown-intensifies-across-ncr-150-inspections-in-15-days-12056940#publisher=newsstand",
+          "date": "2026-09-16T22:09:11+00:00",
           "source": "NDTV"
         }
       ]
@@ -625,8 +625,56 @@
       "name": "美国",
       "items": [
         {
-          "title": "House holds billionaire Leon Black in contempt of Congress",
-          "link": "https://www.npr.org/2026/09/16/nx-s1-5954258/house-holds-billionaire-leon-black-in-contempt-of-congress",
+          "title": "Patrick Clancy sits down with 60 Minutes",
+          "link": "https://www.cbsnews.com/video/patrick-clancy-sits-down-60-minutes/",
+          "date": "2026-09-17T00:25:29+00:00",
+          "source": "CBS News"
+        },
+        {
+          "title": "Federal Reserve raises interest rates for the first time since 2023",
+          "link": "https://www.cbsnews.com/news/fed-interest-rate-decision-today/",
+          "date": "2026-09-17T00:01:27+00:00",
+          "source": "CBS News"
+        },
+        {
+          "title": "When an intruder invaded a golden retriever's home, he just tried to play",
+          "link": "https://www.cbsnews.com/video/when-intruder-invaded-golden-retrievers-home-tried-play/",
+          "date": "2026-09-16T23:58:47+00:00",
+          "source": "CBS News"
+        },
+        {
+          "title": "Video shows first responders rushing to flame-engulfed motel, saving lives",
+          "link": "https://www.cbsnews.com/video/video-shows-first-responders-rushing-flame-engulfed-motel-saving-lives/",
+          "date": "2026-09-16T23:54:12+00:00",
+          "source": "CBS News"
+        },
+        {
+          "title": "Video shows Coast Guard, FBI boarding oil vessel suspected of being hacked by Iran",
+          "link": "https://www.cbsnews.com/video/video-shows-coast-guard-fbi-boarding-oil-vessel-suspected-hacked-iran/",
+          "date": "2026-09-16T23:51:16+00:00",
+          "source": "CBS News"
+        },
+        {
+          "title": "Here's why an Arizona medical examiner is working to track heat-related deaths",
+          "link": "https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner",
+          "date": "2026-09-16T23:07:40+00:00",
+          "source": "NPR"
+        },
+        {
+          "title": "House passes Russia sanctions, sending bill named for Lindsey Graham to Trump's desk",
+          "link": "https://www.npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham",
+          "date": "2026-09-16T22:30:46+00:00",
+          "source": "NPR"
+        },
+        {
+          "title": "You'd expect homeowners to save their stuff. Federal policy pays them to leave it",
+          "link": "https://www.npr.org/2026/09/16/g-s1-143708/video-houses-collapse-north-carolina-ocean",
+          "date": "2026-09-16T21:20:59+00:00",
+          "source": "NPR"
+        },
+        {
+          "title": "Committee investigating Epstein holds billionaire Leon Black in contempt of Congress",
+          "link": "https://www.npr.org/2026/09/16/nx-s1-5954258/leon-black-jeffrey-epstein-contempt-congress",
           "date": "2026-09-16T21:12:27+00:00",
           "source": "NPR"
         },
@@ -634,54 +682,6 @@
           "title": "Trump administration plans ideological warning signs for Smithsonian",
           "link": "https://www.npr.org/2026/09/16/nx-s1-5971420/trump-administration-smithsonian-warning-signs",
           "date": "2026-09-16T20:55:54+00:00",
-          "source": "NPR"
-        },
-        {
-          "title": "Federal Reserve raises interest rates for the first time since 2023",
-          "link": "https://www.cbsnews.com/news/fed-interest-rate-decision-today/",
-          "date": "2026-09-16T20:54:56+00:00",
-          "source": "CBS News"
-        },
-        {
-          "title": "Virginia fines a Microsoft data center for emissions violations",
-          "link": "https://www.cbsnews.com/news/virginia-data-centers-microsoft-fine-loudoun-county/",
-          "date": "2026-09-16T20:39:00+00:00",
-          "source": "CBS News"
-        },
-        {
-          "title": "How much time does AI save at work? New Census Bureau data breaks it down.",
-          "link": "https://www.cbsnews.com/news/census-data-ai-workers-time-saved/",
-          "date": "2026-09-16T20:16:05+00:00",
-          "source": "CBS News"
-        },
-        {
-          "title": "AI \"agents\" can do your shopping. Should you let them?",
-          "link": "https://www.cbsnews.com/news/ai-agentic-artificial-inteligence-what-is-it/",
-          "date": "2026-09-16T20:15:25+00:00",
-          "source": "CBS News"
-        },
-        {
-          "title": "AI could make people dull, one scientist fears. Here's why.",
-          "link": "https://www.cbsnews.com/news/ai-making-people-dull-study/",
-          "date": "2026-09-16T20:14:55+00:00",
-          "source": "CBS News"
-        },
-        {
-          "title": "EU rolls out red carpet to Canada to become its first 'associate member'",
-          "link": "https://www.npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump",
-          "date": "2026-09-16T20:08:27+00:00",
-          "source": "NPR"
-        },
-        {
-          "title": "Congress is under pressure to act on AI — here's what that could look like",
-          "link": "https://www.npr.org/2026/09/16/nx-s1-5969933/congress-ai-regulation",
-          "date": "2026-09-16T17:32:44+00:00",
-          "source": "NPR"
-        },
-        {
-          "title": "DOJ charges Russian agents with plotting attacks, including in US",
-          "link": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
-          "date": "2026-09-16T17:19:49+00:00",
           "source": "NPR"
         }
       ]
@@ -755,33 +755,33 @@
       "name": "澳大利亚",
       "items": [
         {
-          "title": "WTA Finals hoped to become 'Super Bowl of women's sports'",
-          "link": "https://www.abc.net.au/news/2026-09-17/wta-finals-tennis-move-to-charlotte-united-states-2027/107162290",
-          "date": "2026-09-16T21:12:09+00:00",
+          "title": "Government bows to pressure to scrap allied health cap for veterans",
+          "link": "https://www.abc.net.au/news/2026-09-17/veterans-allied-health-cap-backflip-government-keogh-lambie/107162722",
+          "date": "2026-09-17T00:25:38+00:00",
           "source": "ABC News"
         },
         {
-          "title": "Live: Universities Australia boss 'deeply worried' about migration overhaul",
-          "link": "https://www.abc.net.au/news/2026-09-17/federal-politics-live-blog-sept-17/107161304",
-          "date": "2026-09-16T21:08:32+00:00",
+          "title": "Book highlights traumatic history of UK child migrants to WA",
+          "link": "https://www.abc.net.au/news/2026-09-17/johno-kathleen-reilly-johnston-book-child-migrants/107055326",
+          "date": "2026-09-17T00:12:28+00:00",
           "source": "ABC News"
         },
         {
-          "title": "Geologist hopes to find evidence of underwater volcano",
-          "link": "https://www.abc.net.au/news/2026-09-17/geologist-hoping-to-find-underwater-volcano-off-sa-coast/107158142",
-          "date": "2026-09-16T20:41:20+00:00",
+          "title": "Breaking: Olympic authorities sign off on controversial rowing and canoeing venue",
+          "link": "https://www.abc.net.au/news/2026-09-17/rockhampton-fitzroy-river-ioc-approves-rowing-course-olympics/107150458",
+          "date": "2026-09-17T00:09:43+00:00",
           "source": "ABC News"
         },
         {
-          "title": "End of certainty: Governing in the ACT just became more chaotic",
-          "link": "https://www.abc.net.au/news/2026-09-17/governing-in-act-just-became-harder-labor-greens-barr-government/107161274",
-          "date": "2026-09-16T20:40:04+00:00",
+          "title": "New laws on mining objections 'hacking at safety net'",
+          "link": "https://www.abc.net.au/news/2026-09-17/new-mining-laws-up-for-debate-in-queensland-parliament/107162424",
+          "date": "2026-09-16T23:52:27+00:00",
           "source": "ABC News"
         },
         {
-          "title": "Aussie F1 Grand Prix loses season-opening honour but gains sprint race",
-          "link": "https://www.abc.net.au/news/2026-09-17/f1-australian-grand-prix-gains-sprint-race-melbourne/107162234",
-          "date": "2026-09-16T20:35:19+00:00",
+          "title": "Greene to leave Giants ahead of expected move to Cats",
+          "link": "https://www.abc.net.au/news/2026-09-17/afl-toby-greene-to-leave-gws-giants-geelong-cats/107162650",
+          "date": "2026-09-16T23:30:03+00:00",
           "source": "ABC News"
         }
       ]
@@ -790,33 +790,33 @@
       "name": "加拿大",
       "items": [
         {
-          "title": "Halifax woman facing years-long wait for gynecologist calls for better access to health care",
-          "link": "https://globalnews.ca/news/12061477/halifax-woman-health-care-gynecologist-wait/",
-          "date": "2026-09-16T21:12:42+00:00",
+          "title": "Charges dropped against 2 men accused in Toronto Pearson gold heist",
+          "link": "https://globalnews.ca/news/12061842/charges-dropped-pearson-gold-heist/",
+          "date": "2026-09-16T23:11:26+00:00",
           "source": "Global News"
         },
         {
-          "title": "Fredericton’s tap water named best in North America in taste test",
-          "link": "https://globalnews.ca/news/12061476/fredericton-best-tasting-water/",
-          "date": "2026-09-16T21:12:39+00:00",
+          "title": "Alberta drivers face another jump at the pump after Illinois refinery outage",
+          "link": "https://globalnews.ca/news/12062203/alberta-gas-prices-increase/",
+          "date": "2026-09-16T22:58:43+00:00",
           "source": "Global News"
         },
         {
-          "title": "Ford government threatens to cut funding to towns, cities that break ‘Buy Ontario’ rules",
-          "link": "https://globalnews.ca/news/12061895/buy-ontario-rules-reminder/",
-          "date": "2026-09-16T21:08:29+00:00",
+          "title": "Man pleads guilty to vicious 2003 sex assault of senior",
+          "link": "https://globalnews.ca/news/12061782/man-pleads-guilty-to-vicious-2003-sex-assault-of-senior/",
+          "date": "2026-09-16T22:51:32+00:00",
           "source": "Global News"
         },
         {
-          "title": "Unifor urges feds to stop Stellantis’ possible sale of Brampton plant",
-          "link": "https://globalnews.ca/news/12062009/unifor-urges-federal-government-intervention-stellantis-sale-brampton-plant/",
-          "date": "2026-09-16T21:00:23+00:00",
+          "title": "No serious injuries reported in Winnipeg apartment explosion, WFPS says",
+          "link": "https://globalnews.ca/news/12062121/winnipeg-apartment-explosion/",
+          "date": "2026-09-16T22:18:19+00:00",
           "source": "Global News"
         },
         {
-          "title": "Preston Manning ‘baffled’ by those who view Danielle Smith as an Alberta separatist",
-          "link": "https://globalnews.ca/news/12061926/preston-manning-danielle-smith-alberta-separatist/",
-          "date": "2026-09-16T20:37:12+00:00",
+          "title": "Locals ‘denied a say’ in Saskatchewan AI data centres; NDP calls for moratorium",
+          "link": "https://globalnews.ca/news/12061912/sasktachewan-ai-data-centre-moratorium-ndp/",
+          "date": "2026-09-16T22:13:37+00:00",
           "source": "Global News"
         }
       ]
@@ -825,9 +825,15 @@
       "name": "德国",
       "items": [
         {
+          "title": "US-Kongress stimmt für schärfere Sanktionen gegen Russland",
+          "link": "https://www.tagesschau.de/ausland/europa/usa-russland-sanktionen-136.html",
+          "date": "2026-09-17T00:13:23+00:00",
+          "source": "tagesschau"
+        },
+        {
           "title": "US-Notenbank erhöht Leitzins erstmals seit 2023",
           "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-leitzins-erhoeht-100.html",
-          "date": "2026-09-16T21:03:12+00:00",
+          "date": "2026-09-17T00:07:20+00:00",
           "source": "tagesschau"
         },
         {
@@ -847,12 +853,6 @@
           "link": "https://www.tagesschau.de/ausland/asien/iran-jahrestag-frau-leben-freiheit-100.html",
           "date": "2026-09-16T17:40:33+00:00",
           "source": "tagesschau"
-        },
-        {
-          "title": "Debatte über Spritpreise: Reiche will Mehrwertsteuer auf Sprit senken",
-          "link": "https://www.tagesschau.de/inland/innenpolitik/reiche-mehrwertsteuer-100.html",
-          "date": "2026-09-16T17:15:59+00:00",
-          "source": "tagesschau"
         }
       ]
     },
@@ -868,7 +868,7 @@
         {
           "title": "Prix des carburants : Sébastien Lecornu prolonge les aides ciblées jusqu’au 31 décembre",
           "link": "https://www.lemonde.fr/politique/article/2026/09/16/prix-des-carburants-sebastien-lecornu-prolonge-les-aides-ciblees-jusqu-au-31-decembre_6775464_823448.html",
-          "date": "2026-09-16T19:27:02+00:00",
+          "date": "2026-09-16T19:26:58+00:00",
           "source": "Le Monde"
         },
         {
@@ -895,34 +895,52 @@
       "name": "国际",
       "items": [
         {
-          "title": "US removes Venezuela from list of drug transit, production countries",
-          "link": "https://www.aljazeera.com/news/2026/9/16/us-removes-venezuela-from-list-of-drug-transit-production-countries?traffic_source=rss",
-          "date": "2026-09-16T20:53:02+00:00",
+          "title": "EU chief backs plan for Canada to become 'associate member'",
+          "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-17T00:32:05+00:00",
+          "source": "BBC World"
+        },
+        {
+          "title": "NHL superstar Ovechkin ‘was asked’ to film Putin ad, team says",
+          "link": "https://www.aljazeera.com/news/2026/9/17/nhl-superstar-ovechkin-was-asked-to-film-putin-ad-team-says?traffic_source=rss",
+          "date": "2026-09-17T00:08:32+00:00",
           "source": "Al Jazeera"
         },
         {
-          "title": "Displaced Syrians dig through hills of garbage to make a living",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/displaced-syrians-dig-through-hills-of-garbage-to-make-a-living?traffic_source=rss",
-          "date": "2026-09-16T20:29:41+00:00",
+          "title": "Three dead after flooding inundates Navajo Nation in New Mexico",
+          "link": "https://www.aljazeera.com/news/2026/9/17/three-dead-after-flooding-inundates-navajo-nation-in-new-mexico?traffic_source=rss",
+          "date": "2026-09-17T00:01:21+00:00",
           "source": "Al Jazeera"
         },
         {
-          "title": "New video claims to show Saudi fighter jet Houthis say they shot down",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/new-video-claims-to-show-saudi-fighter-jet-houthis-say-they-shot-down?traffic_source=rss",
-          "date": "2026-09-16T20:12:25+00:00",
+          "title": "Iran war live: Trump says US nearing end of war, claims Tehran direct talks",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks?traffic_source=rss",
+          "date": "2026-09-17T00:00:00+00:00",
           "source": "Al Jazeera"
         },
         {
-          "title": "Syria abolishes al-Assad-era ‘terrorism’ court as Kurdish tensions flare",
-          "link": "https://www.aljazeera.com/news/2026/9/16/syria-abolishes-al-assad-era-terrorism-court-as-kurdish-tensions-flare?traffic_source=rss",
-          "date": "2026-09-16T20:08:50+00:00",
+          "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-16T23:41:57+00:00",
+          "source": "BBC World"
+        },
+        {
+          "title": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
+          "link": "https://www.aljazeera.com/news/2026/9/16/israel-and-morocco-agree-to-open-embassies-upgrading-diplomatic-ties?traffic_source=rss",
+          "date": "2026-09-16T23:26:27+00:00",
           "source": "Al Jazeera"
         },
         {
-          "title": "Efforts underway for Zelenskyy-Trump meeting at UN next week",
-          "link": "https://www.aljazeera.com/news/2026/9/16/efforts-underway-for-zelenskyy-trump-meeting-at-un-next-week?traffic_source=rss",
-          "date": "2026-09-16T20:05:51+00:00",
+          "title": "US military claims Strait of Hormuz remains open amid ongoing blockade",
+          "link": "https://www.aljazeera.com/news/2026/9/16/us-military-claims-strait-of-hormuz-remains-open-amid-ongoing-blockade?traffic_source=rss",
+          "date": "2026-09-16T23:14:46+00:00",
           "source": "Al Jazeera"
+        },
+        {
+          "title": "US interest rates raised for first time in three years",
+          "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-16T22:16:51+00:00",
+          "source": "BBC World"
         },
         {
           "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
@@ -934,24 +952,6 @@
           "title": "Photos show widespread damage at US sites from Iranian attacks",
           "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-16T18:36:16+00:00",
-          "source": "BBC World"
-        },
-        {
-          "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-          "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-16T17:16:47+00:00",
-          "source": "BBC World"
-        },
-        {
-          "title": "EU chief backs plan for Canada to become 'associate member'",
-          "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-16T12:36:51+00:00",
-          "source": "BBC World"
-        },
-        {
-          "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-16T10:02:05+00:00",
           "source": "BBC World"
         }
       ]
