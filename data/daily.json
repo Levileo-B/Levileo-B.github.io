@@ -1,98 +1,84 @@
 {
-  "updated": "2026-09-17T23:33:58+00:00",
+  "updated": "2026-09-18T04:48:15+00:00",
   "leetcode": {
-    "date": "2026-09-17",
-    "id": "1477",
-    "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
-    "titleEn": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
-    "slug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
-    "difficulty": "Medium",
+    "date": "2026-09-18",
+    "id": "1520",
+    "title": "Maximum Number of Non-Overlapping Substrings",
+    "titleEn": "Maximum Number of Non-Overlapping Substrings",
+    "slug": "maximum-number-of-non-overlapping-substrings",
+    "difficulty": "Hard",
     "tags": [
-      "Array",
       "Hash Table",
-      "Binary Search",
-      "Dynamic Programming"
+      "String",
+      "Greedy",
+      "Sorting"
     ],
-    "link": "https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/",
+    "link": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Eternal Blue (album)",
-    "text": "Eternal Blue is the debut studio album by the Canadian heavy metal band Spiritbox. It was released on September 17, 2021, through the band's label Pale Chord Records in partnership with Rise Records. Vocalist Courtney LaPlante and guitarist Mike Stringer formed Spiritbox in 2016 following their departure from Iwrestledabearonce. After revealing the project and releasing an extended play (EP) in 2017, Spiritbox began development on Eternal Blue in 2018. In the meantime, the band recorded several other singles that were compiled into a second EP in 2019. Their first full-length record was scheduled for an April 2020 release but development and promotion were initially halted due to the COVID-19 pandemic.",
-    "words": 110,
-    "url": "https://en.wikipedia.org/wiki/Eternal_Blue_(album)",
-    "date": "2026-09-17",
+    "title": "Noemvriana",
+    "text": "The Noemvriana was an armed confrontation in Athens in December [O.S. November] 1916 between the Kingdom of Greece and the Allied Powers, arising from a dispute over Greece's neutrality in World War I, followed by reprisals and riots against Greek supporters of the Allies.",
+    "words": 44,
+    "url": "https://en.wikipedia.org/wiki/Noemvriana",
+    "date": "2026-09-18",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Home Movie: 11024: Bryce and Zion, Los Angeles 1954 1 & 2",
+    "title": "Home Movie: 98312: Miscellaneous",
     "creator": "",
     "year": "1954",
-    "url": "https://archive.org/download/HMBryceandZionLos11024/11024.mp4",
-    "page": "https://archive.org/details/HMBryceandZionLos11024",
-    "date": "2026-09-17",
+    "url": "https://archive.org/download/HMMiscellaneous98312/98312.mp4",
+    "page": "https://archive.org/details/HMMiscellaneous98312",
+    "date": "2026-09-18",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "VBR Podcast #21",
-      "artist": "Banyek",
-      "url": "https://archive.org/download/vbr021/vbr_021.mp3",
-      "page": "https://archive.org/details/vbr021",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
-    },
-    {
-      "title": "АК - Деструкция (1998)",
-      "artist": "АК",
-      "url": "https://archive.org/download/IBR_1011/01.%20%D0%94%D0%B5%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F.mp3",
-      "page": "https://archive.org/details/IBR_1011",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Tradition",
-      "artist": "Pangea",
-      "url": "https://archive.org/download/tube114/tube114-01-pangea_-_shamisen.mp3",
-      "page": "https://archive.org/details/tube114",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Heart Donor (Roostex Ratmix)",
+      "title": "VeDaKR-Pred Osle",
       "artist": "",
-      "url": "https://archive.org/download/HeartDonorroostexRatmix/d3xd.mp3",
-      "page": "https://archive.org/details/HeartDonorroostexRatmix",
+      "url": "https://archive.org/download/HAZE201/01.mp3",
+      "page": "https://archive.org/details/HAZE201",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Part Of Endless",
+      "artist": "microwave D",
+      "url": "https://archive.org/download/madang_mail_Qz23/part%20of%20endless.mp3",
+      "page": "https://archive.org/details/madang_mail_Qz23",
       "license": "Creative Commons"
     },
     {
-      "title": "кафедра глубинных изучений полетов в космос вниз головой - пенисулариум (EP) (2020)",
-      "artist": "кафедра глубинных изучений полетов в космос вниз головой",
-      "url": "https://archive.org/download/IBR_1398/01.%20Gatliiiiiiing%20%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB.mp3",
-      "page": "https://archive.org/details/IBR_1398",
+      "title": "[YESNO 104] Rani Jambak & Yenting Hsu \"《O-ksi氣-2》\"",
+      "artist": "Rani Jambak & Yenting Hsu",
+      "url": "https://archive.org/download/yesno104/01%20Leuser%20Wave%20_%20Ombak%20Leuser%20_%20%E5%8B%92%E5%A1%9E%E7%88%BE%E6%B5%AA%E6%BD%AE.mp3",
+      "page": "https://archive.org/details/yesno104",
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    {
+      "title": "Leif - \"Moonlight Dub EP\" [txtn011]",
+      "artist": "Leif",
+      "url": "https://archive.org/download/txtn011/txtn011-01-leif-crowded_room.mp3",
+      "page": "https://archive.org/details/txtn011",
+      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
+    },
+    {
+      "title": "TETSURO - Police Battle (Single) (2020)",
+      "artist": "TETSURO",
+      "url": "https://archive.org/download/IBR_1648/01.%20Police%20Battle%20%28Beatdown%20fists%20of%20vengeance%20OST%20-%20Cop%20killa%20bgm%20remix%29.mp3",
+      "page": "https://archive.org/details/IBR_1648",
       "license": "Creative Commons"
     },
     {
-      "title": "above_the_treez",
-      "artist": "sOuL_sCientiSt",
-      "url": "https://archive.org/download/above_the_treez/AboveTheTreez.mp3",
-      "page": "https://archive.org/details/above_the_treez",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
-    },
-    {
-      "title": "Extended Play (Em174)",
-      "artist": "Alex Charles",
-      "url": "https://archive.org/download/ExtendedPlayem174/01EveningAssembly.mp3",
-      "page": "https://archive.org/details/ExtendedPlayem174",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Bass Rockin",
-      "artist": "Euphorik Rhythm",
-      "url": "https://archive.org/download/BDW4MP3009/BassRockin_vbr.mp3",
-      "page": "https://archive.org/details/BDW4MP3009",
-      "license": "Creative Commons"
+      "title": "185DIYChurch_\"cybersex&scale's with @djkrokodile // SCHOOLBOYLATTE with @CHAiT \"",
+      "artist": "G.O:D",
+      "url": "https://archive.org/download/185DIYChurch/185DIYChurch_cybersex_and_scale_s_with_AT_djkrokodile_SCHOOLBOYLATTE_with_AT_CHAiT.mp3",
+      "page": "https://archive.org/details/185DIYChurch",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
       "title": "Live",
@@ -102,25 +88,39 @@
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Nometroenare - Nometrahenore (2020)",
-      "artist": "Nometroenare",
-      "url": "https://archive.org/download/IBR_1470/01.%20Nometrahenore.mp3",
-      "page": "https://archive.org/details/IBR_1470",
+      "title": "VxBxDxDx - Куририн кидает зигу (Single) (2019)",
+      "artist": "VxBxDxDx",
+      "url": "https://archive.org/download/IBR_1062/01.%20%D0%9A%D1%83%D1%80%D0%B8%D1%80%D0%B8%D0%BD%20%D0%BA%D0%B8%D0%B4%D0%B0%D0%B5%D1%82%20%D0%B7%D0%B8%D0%B3%D1%83.mp3",
+      "page": "https://archive.org/details/IBR_1062",
       "license": "Creative Commons"
     },
     {
-      "title": "Netz Klang - Ausgabe 5.02.07",
-      "artist": "Tobi Tobsucht",
-      "url": "https://archive.org/download/netzklang-05-02-07/netzklang-05-02-07.mp3",
-      "page": "https://archive.org/details/netzklang-05-02-07",
+      "title": "Infinitesimalizer",
+      "artist": "Spirit Duplicator",
+      "url": "https://archive.org/download/Infinitesimalizer/01IShookMyselfAllNightLong.mp3",
+      "page": "https://archive.org/details/Infinitesimalizer",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/us/"
+    },
+    {
+      "title": "telafonica-theres-something-about-your-face",
+      "artist": "telafonica",
+      "url": "https://archive.org/download/telafonica-theres-something-about-your-face/5TheresSomethingAboutYourFace29.5.11.mp3",
+      "page": "https://archive.org/details/telafonica-theres-something-about-your-face",
       "license": "Creative Commons"
     },
     {
-      "title": "city birds",
-      "artist": "luis antero",
-      "url": "https://archive.org/download/CityBirds_317/CityBirds2_st.mp3",
-      "page": "https://archive.org/details/CityBirds_317",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+      "title": "Louis2000rdv#10",
+      "artist": "Louïs2000",
+      "url": "https://archive.org/download/Louis2000rdv10/01PaysageAvecBoiteNoire.mp3",
+      "page": "https://archive.org/details/Louis2000rdv10",
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
+    },
+    {
+      "title": "King of the Road",
+      "artist": "G.G. Allin's Dick",
+      "url": "https://archive.org/download/yansr006/ggallinsdick-01-monocyclefromhell.mp3",
+      "page": "https://archive.org/details/yansr006",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
     }
   ]
 }
