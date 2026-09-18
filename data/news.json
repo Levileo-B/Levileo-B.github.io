@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T18:31:21+00:00",
+  "updated": "2026-09-18T21:43:19+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -44,24 +44,24 @@
           "date": "2026-09-18T18:04:38+00:00"
         },
         {
-          "title": "Three dead and eight injured in Philippines school shooting",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-18T11:01:46+00:00"
+          "title": "Trump says he is banning CNN and Politico from White House",
+          "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-18T21:34:51+00:00"
         },
         {
-          "title": "Police begin operation to move migrants from Ceuta beaches",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-18T11:59:42+00:00"
+          "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+          "link": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-18T18:56:17+00:00"
+        },
+        {
+          "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+          "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-18T20:17:50+00:00"
         },
         {
           "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
           "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-18T11:49:46+00:00"
-        },
-        {
-          "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-          "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-18T17:31:30+00:00"
         }
       ]
     },
@@ -71,7 +71,7 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
-          "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to US-Iran war",
+          "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
           "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-18T17:57:30+00:00"
         },
@@ -103,6 +103,11 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
+          "title": "Trump says he's banning MS NOW, CNN and Politico from White House",
+          "link": "https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html",
+          "date": "2026-09-18T21:20:17+00:00"
+        },
+        {
           "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
           "link": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
           "date": "2026-09-18T18:28:31+00:00"
@@ -110,22 +115,17 @@
         {
           "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
           "link": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
-          "date": "2026-09-18T14:36:55+00:00"
+          "date": "2026-09-18T21:35:55+00:00"
         },
         {
-          "title": "Trump's $403 million war chest is finally being spent on the midterms. Now comes the hard part",
-          "link": "https://www.cnbc.com/2026/09/18/trump-election-ad-spend-maga-inc.html",
-          "date": "2026-09-18T16:49:03+00:00"
+          "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal",
+          "link": "https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html",
+          "date": "2026-09-18T21:37:38+00:00"
         },
         {
-          "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
-          "link": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
-          "date": "2026-09-18T17:34:49+00:00"
-        },
-        {
-          "title": "SpaceX scores another $950 million from NASA for 3 more crewed flights to ISS",
-          "link": "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html",
-          "date": "2026-09-18T17:41:45+00:00"
+          "title": "AI cloud provider Nscale files to go public",
+          "link": "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html",
+          "date": "2026-09-18T21:08:28+00:00"
         }
       ]
     },
@@ -231,14 +231,19 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+          "date": "2026-09-18T21:07:24+00:00"
+        },
+        {
           "title": "Virginia governor creates an AI task force and moves to restrain data centers",
           "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-          "date": "2026-09-18T18:29:17+00:00"
+          "date": "2026-09-18T19:09:19+00:00"
         },
         {
           "title": "Disney’s first CTO is Character.AI’s former CEO",
           "link": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
-          "date": "2026-09-18T18:27:04+00:00"
+          "date": "2026-09-18T18:54:39+00:00"
         },
         {
           "title": "The real story of the iPhone 18 Pro&#8217;s camera",
@@ -248,12 +253,7 @@
         {
           "title": "Gavin Newsom is pushing for an AI kill switch",
           "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-          "date": "2026-09-18T17:12:06+00:00"
-        },
-        {
-          "title": "What Hollywood thinks about existential AI warnings",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-          "date": "2026-09-18T17:13:12+00:00"
+          "date": "2026-09-18T21:28:12+00:00"
         }
       ]
     },
@@ -263,29 +263,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+          "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+          "date": "2026-09-18T19:20:50+00:00"
+        },
+        {
+          "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
+          "link": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
+          "date": "2026-09-18T17:57:41+00:00"
+        },
+        {
+          "title": "Finding the cells that put our brain to sleep",
+          "link": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
+          "date": "2026-09-18T17:49:50+00:00"
+        },
+        {
+          "title": "US government website used Chinese model the FBI called \"malicious\"",
+          "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+          "date": "2026-09-18T17:28:50+00:00"
+        },
+        {
           "title": "Meet the winner of Nikon's Small World in Motion video contest",
           "link": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
           "date": "2026-09-18T13:56:57+00:00"
-        },
-        {
-          "title": "Researchers used Claude to hack OpenAI",
-          "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-          "date": "2026-09-18T13:30:12+00:00"
-        },
-        {
-          "title": "Rocket Report: China wants a Raptor 3 engine; SpaceX set for big Starship test",
-          "link": "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/",
-          "date": "2026-09-18T11:00:11+00:00"
-        },
-        {
-          "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
-          "link": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
-          "date": "2026-09-17T22:31:28+00:00"
-        },
-        {
-          "title": "Small AI models let drones autonomously identify and attack battlefield targets",
-          "link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
-          "date": "2026-09-17T22:12:58+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
-          "link": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
-          "date": "2026-09-18T18:08:32+00:00"
+          "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+          "link": "https://code.claude.com/docs/en/changelog",
+          "date": "2026-09-18T21:00:32+00:00"
         },
         {
-          "title": "Grok Voice Transcribe 2.0",
-          "link": "https://x.ai/news/grok-voice-transcribe-2",
-          "date": "2026-09-18T17:53:34+00:00"
+          "title": "Korea raises data breach fines to 10% of revenue",
+          "link": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+          "date": "2026-09-18T20:02:54+00:00"
         },
         {
-          "title": "US Military had close call after using AI for hallucinated intelligence report",
-          "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-          "date": "2026-09-18T17:28:01+00:00"
+          "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+          "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+          "date": "2026-09-18T19:03:09+00:00"
         },
         {
-          "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-          "link": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-          "date": "2026-09-18T16:54:18+00:00"
+          "title": "The Implications of Linguistic Illegibility for LLM Security",
+          "link": "https://arxiv.org/abs/2609.02852",
+          "date": "2026-09-18T19:00:06+00:00"
         },
         {
-          "title": "Systemd is a suite of basic building blocks",
-          "link": "https://brand.systemd.io/",
-          "date": "2026-09-18T16:31:43+00:00"
+          "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+          "link": "https://arxiv.org/abs/2510.03215",
+          "date": "2026-09-18T18:55:35+00:00"
         }
       ]
     },
@@ -342,9 +342,9 @@
           "date": "2026-09-18T08:14:52+00:00"
         },
         {
-          "title": "What are you doing this weekend?",
-          "link": "https://lobste.rs/s/e1xglz/what_are_you_doing_this_weekend",
-          "date": "2026-09-18T08:15:23+00:00"
+          "title": "There's no point at which turning your brain off will work",
+          "link": "https://danluu.com/brain-off/",
+          "date": "2026-09-18T17:15:40+00:00"
         },
         {
           "title": "Be alert: targeted attacks on prominent Rustaceans",
@@ -359,13 +359,18 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
+          "title": "[推广] [推广就推广吧] YESAPI.ONLINE API 中转站 缓存命中率----大降价了 永久送 5 到测试-不做囤积用",
+          "link": "https://www.v2ex.com/t/1243097#reply3",
+          "date": "2026-09-18T18:36:38+00:00"
+        },
+        {
           "title": "[酷工作] 后端开发 gap 了快半年还是找不到工作",
           "link": "https://www.v2ex.com/t/1243096#reply0",
           "date": "2026-09-18T17:37:40+00:00"
         },
         {
           "title": "[OpenAI] codex 桌面版可否通过 ssh 给 claude 桌面版的当前输入框输入 prompt；或者可否倒过来。",
-          "link": "https://www.v2ex.com/t/1243095#reply0",
+          "link": "https://www.v2ex.com/t/1243095#reply2",
           "date": "2026-09-18T17:33:51+00:00"
         },
         {
@@ -377,11 +382,6 @@
           "title": "[推广] GPT Plus / Claude 官方正版订阅代充值，充您自己的账号，可以续费",
           "link": "https://www.v2ex.com/t/1243093#reply0",
           "date": "2026-09-18T17:21:34+00:00"
-        },
-        {
-          "title": "[程序员] 兄弟们，赛博鸡蛋香吗 🧺🥚🥚🥚",
-          "link": "https://www.v2ex.com/t/1243092#reply0",
-          "date": "2026-09-18T16:45:12+00:00"
         }
       ]
     },
