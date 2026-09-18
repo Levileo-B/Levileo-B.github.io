@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T09:49:14+00:00",
+  "updated": "2026-09-18T14:32:20+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,29 +39,29 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Three dead, eight injured in Philippines school shooting",
+          "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+          "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-18T14:02:09+00:00"
+        },
+        {
+          "title": "Three dead and eight injured in Philippines school shooting",
           "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-18T09:18:21+00:00"
+          "date": "2026-09-18T11:01:46+00:00"
         },
         {
-          "title": "Canada welcomes EU proposal to become 'associate member'",
-          "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-17T12:27:18+00:00"
+          "title": "Police begin operation to move migrants from Ceuta beaches",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-18T11:59:42+00:00"
         },
         {
-          "title": "Ninth woman's body found as South African police investigate string of deaths",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-17T13:44:07+00:00"
+          "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
+          "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-18T11:49:46+00:00"
         },
         {
-          "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-          "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-17T20:34:30+00:00"
-        },
-        {
-          "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
-          "link": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-17T23:24:07+00:00"
+          "title": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
+          "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-18T11:39:11+00:00"
         }
       ]
     },
@@ -71,14 +71,19 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
-          "title": "We bought our £242,000 home without a deposit - here's how",
-          "link": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-17T23:00:53+00:00"
+          "title": "Flight chaos caused by 'millisecond' software defect, report says",
+          "link": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-18T14:24:30+00:00"
         },
         {
-          "title": "Healey to ask EU finance ministers to let UK into Made in Europe scheme",
-          "link": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-18T06:52:47+00:00"
+          "title": "We bought our £242,000 home without a deposit - here's how",
+          "link": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-18T10:43:03+00:00"
+        },
+        {
+          "title": "British Steel plan lacks credibility, MPs say",
+          "link": "https://www.bbc.co.uk/news/articles/cklyjzv4nl7wo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-18T12:47:15+00:00"
         },
         {
           "title": "Thames Water rescue deal should be rejected - MPs",
@@ -86,14 +91,9 @@
           "date": "2026-09-18T05:16:57+00:00"
         },
         {
-          "title": "Japan raises interest rate to new 31-year high to curb rising prices",
-          "link": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-18T07:14:57+00:00"
-        },
-        {
-          "title": "Early Bowie music available to stream for first time",
-          "link": "https://www.bbc.co.uk/news/articles/cm4gj5z9xvnqo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-17T23:01:03+00:00"
+          "title": "'Insufficient funds' to pay Brewdog creditors after takeover deal",
+          "link": "https://www.bbc.co.uk/news/articles/cw1mvjyv937eo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-18T13:19:34+00:00"
         }
       ]
     },
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "Oil prices fall for third day on Saudi Arabia supply hopes; U.S. crude briefly dips below $100",
-          "link": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
-          "date": "2026-09-18T08:29:35+00:00"
+          "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+          "link": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+          "date": "2026-09-18T14:28:11+00:00"
         },
         {
-          "title": "Trump administration advances $24.3 billion fighter jet deal to Saudi Arabia as Houthis escalate attacks",
-          "link": "https://www.cnbc.com/2026/09/18/trump-saudi-arabia-f-35-houthis-iran-war.html",
-          "date": "2026-09-18T08:02:20+00:00"
+          "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
+          "link": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
+          "date": "2026-09-18T12:04:02+00:00"
         },
         {
-          "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
-          "link": "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html",
-          "date": "2026-09-18T09:38:17+00:00"
+          "title": "Fed staff should have known Silicon Valley Bank was vulnerable, new report finds",
+          "link": "https://www.cnbc.com/2026/09/18/fed-silicon-valley-bank.html",
+          "date": "2026-09-18T13:46:36+00:00"
         },
         {
-          "title": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
-          "link": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
-          "date": "2026-09-18T03:31:45+00:00"
+          "title": "Putin targets Nestle's Russian business as Kremlin tightens grip on Western assets",
+          "link": "https://www.cnbc.com/2026/09/18/nestle-russia-assets-putin-ukraine-war.html",
+          "date": "2026-09-18T12:18:55+00:00"
         },
         {
-          "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
-          "link": "https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html",
-          "date": "2026-09-17T22:22:53+00:00"
+          "title": "Rep. Chip Roy doesn't want to regulate AI, but says Congress should have an oversight role",
+          "link": "https://www.cnbc.com/2026/09/18/chip-roy-ai-congress-regulate.html",
+          "date": "2026-09-18T14:20:46+00:00"
         }
       ]
     },
@@ -134,6 +134,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "本周看什么 | 最近值得一看的 9 部作品",
+          "link": "https://sspai.com/post/114716",
+          "date": "2026-09-18T09:58:55+00:00"
+        },
         {
           "title": "8月音乐精选：有限的生命里，要听得再任性一点！",
           "link": "https://sspai.com/post/114555",
@@ -153,11 +158,6 @@
           "title": "派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等",
           "link": "https://sspai.com/post/114699",
           "date": "2026-09-18T00:17:34+00:00"
-        },
-        {
-          "title": "城市漫步指南｜威海初秋，看海玩沙",
-          "link": "https://sspai.com/post/114557",
-          "date": "2026-09-17T09:47:28+00:00"
         }
       ]
     },
@@ -199,6 +199,11 @@
       "url": "https://www.solidot.org/index.rss",
       "items": [
         {
+          "title": "科学家识别了一种新猫科动物",
+          "link": "https://www.solidot.org/story?sid=85420",
+          "date": "2026-09-18T09:59:30+00:00"
+        },
+        {
           "title": "美国的富裕社区更可能发生火灾",
           "link": "https://www.solidot.org/story?sid=85419",
           "date": "2026-09-18T08:54:31+00:00"
@@ -217,11 +222,6 @@
           "title": "新疆东天山古人主要来自东亚和北亚",
           "link": "https://www.solidot.org/story?sid=85416",
           "date": "2026-09-18T07:23:53+00:00"
-        },
-        {
-          "title": "NASA 和 IBM 开源月球模型",
-          "link": "https://www.solidot.org/story?sid=85415",
-          "date": "2026-09-18T06:55:56+00:00"
         }
       ]
     },
@@ -230,6 +230,11 @@
       "category": "科技",
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
+        {
+          "title": "Flash floods can strike without warning — this new technology could change that",
+          "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+          "date": "2026-09-17T20:43:51+00:00"
+        },
         {
           "title": "Waymo says Singapore will be its next international robotaxi city",
           "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
@@ -249,11 +254,6 @@
           "title": "Save $30 or more on a refurbished Apple TV 4K",
           "link": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
           "date": "2026-09-17T17:14:07+00:00"
-        },
-        {
-          "title": "Xbox’s clever disc-to-digital feature was 15 years in the making",
-          "link": "https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad",
-          "date": "2026-09-17T12:12:42+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Jemalloc 5.4.0",
-          "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-          "date": "2026-09-18T04:20:24+00:00"
+          "title": "AI chatbots becoming experts at changing people's minds. What's their secret?",
+          "link": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+          "date": "2026-09-18T13:39:27+00:00"
         },
         {
-          "title": "The scourge of x86 emulation",
-          "link": "https://fex-emu.com/Scourge-of-emulation/",
-          "date": "2026-09-18T04:09:48+00:00"
+          "title": "An Empirical Study of Harness Design for Coding Agents",
+          "link": "https://arxiv.org/abs/2609.20804",
+          "date": "2026-09-18T13:06:30+00:00"
         },
         {
-          "title": "Pre-Greek: The lost language hidden within Ancient Greek",
-          "link": "https://linguisticdiscovery.com/posts/pre-greek/",
-          "date": "2026-09-18T03:04:38+00:00"
+          "title": "If materialism is true, the United States is probably conscious",
+          "link": "https://www.jstor.org/stable/24704177",
+          "date": "2026-09-18T12:27:40+00:00"
         },
         {
-          "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "link": "https://www.hacktron.ai/blog/hacking-openai",
-          "date": "2026-09-18T02:47:24+00:00"
+          "title": "I don't like passkeys",
+          "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
+          "date": "2026-09-18T12:06:50+00:00"
         },
         {
-          "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
-          "link": "https://byteshape.com/blogs/Qwen3.8-27B/",
-          "date": "2026-09-18T02:04:19+00:00"
+          "title": "Bend 2 and the Vibe-Coding Trap",
+          "link": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+          "date": "2026-09-18T12:03:55+00:00"
         }
       ]
     },
@@ -337,19 +337,19 @@
           "date": "2026-09-17T21:21:18+00:00"
         },
         {
+          "title": "What is still exciting in tech?",
+          "link": "https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech",
+          "date": "2026-09-18T08:14:52+00:00"
+        },
+        {
           "title": "Be alert: targeted attacks on prominent Rustaceans",
           "link": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
           "date": "2026-09-17T18:10:52+00:00"
         },
         {
-          "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language",
-          "link": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
-          "date": "2026-09-17T15:10:44+00:00"
-        },
-        {
-          "title": "I expected better from Google",
-          "link": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "date": "2026-09-17T10:01:13+00:00"
+          "title": "What are you doing this weekend?",
+          "link": "https://lobste.rs/s/e1xglz/what_are_you_doing_this_weekend",
+          "date": "2026-09-18T08:15:23+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享创造] 蹬了两个周末，蹬出来的英语听力跟读 app",
-          "link": "https://www.v2ex.com/t/1243038#reply0",
-          "date": "2026-09-18T09:46:44+00:00"
+          "title": "[问与答] 工资越高是不是工作越轻松",
+          "link": "https://www.v2ex.com/t/1243077#reply0",
+          "date": "2026-09-18T14:30:43+00:00"
         },
         {
-          "title": "[Apple] 13pm 第三方的电池有推荐的吗",
-          "link": "https://www.v2ex.com/t/1243037#reply0",
-          "date": "2026-09-18T09:46:39+00:00"
+          "title": "[问与答] 我怀疑现在做 AI 编程超卷的是未来 AI 天启派来的卧底",
+          "link": "https://www.v2ex.com/t/1243076#reply0",
+          "date": "2026-09-18T13:52:09+00:00"
         },
         {
-          "title": "[Alfred] 有没有 alfred6 beta 用户来聊聊新功能呀，比较期待新版本",
-          "link": "https://www.v2ex.com/t/1243036#reply0",
-          "date": "2026-09-18T09:46:30+00:00"
+          "title": "[程序员] 有没有适合 CPU 的特小型的用于日常对话的这种小模型？",
+          "link": "https://www.v2ex.com/t/1243075#reply0",
+          "date": "2026-09-18T13:51:22+00:00"
         },
         {
-          "title": "[问与答] 大家认为当前是经济下行的哪个阶段？",
-          "link": "https://www.v2ex.com/t/1243035#reply0",
-          "date": "2026-09-18T09:45:38+00:00"
+          "title": "[问与答] 问一下，有没有合成语音的 api？英式英语",
+          "link": "https://www.v2ex.com/t/1243074#reply3",
+          "date": "2026-09-18T13:48:50+00:00"
         },
         {
-          "title": "[推广] 实测真香！ 1024Proxy 免费试用开放，住宅 IP 零成本测试，跨境/爬虫/多账号刚需",
-          "link": "https://www.v2ex.com/t/1243034#reply0",
-          "date": "2026-09-18T09:45:31+00:00"
+          "title": "[互联网] 自建 GitHub 镜像站，适合国内访问",
+          "link": "https://www.v2ex.com/t/1243073#reply0",
+          "date": "2026-09-18T13:46:56+00:00"
         }
       ]
     },
@@ -472,38 +472,6 @@
       ]
     },
     {
-      "name": "酷壳",
-      "category": "开发",
-      "url": "https://coolshell.cn/feed",
-      "items": [
-        {
-          "title": "是微服务架构不香还是云不香？",
-          "link": "https://coolshell.cn/articles/22422.html",
-          "date": "2023-05-08T09:52:06+00:00"
-        },
-        {
-          "title": "我看ChatGPT: 为啥谷歌掉了千亿美金",
-          "link": "https://coolshell.cn/articles/22398.html",
-          "date": "2023-02-11T16:31:16+00:00"
-        },
-        {
-          "title": "聊聊 nostr 和 审查",
-          "link": "https://coolshell.cn/articles/22367.html",
-          "date": "2023-02-03T07:46:13+00:00"
-        },
-        {
-          "title": "感染新冠的经历",
-          "link": "https://coolshell.cn/articles/22341.html",
-          "date": "2022-12-13T07:39:39+00:00"
-        },
-        {
-          "title": "eBPF 介绍",
-          "link": "https://coolshell.cn/articles/22320.html",
-          "date": "2022-12-10T02:38:51+00:00"
-        }
-      ]
-    },
-    {
       "name": "美团技术团队",
       "category": "开发",
       "url": "https://tech.meituan.com/feed/",
@@ -541,6 +509,11 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
+          "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
+          "link": "https://www.qbitai.com/2026/09/492175.html",
+          "date": "2026-09-18T12:22:47+00:00"
+        },
+        {
           "title": "白天务农晚上码农，这个斐济农民跨越一万公里来拼多多取经",
           "link": "https://www.qbitai.com/2026/09/492015.html",
           "date": "2026-09-18T09:19:37+00:00"
@@ -559,11 +532,6 @@
           "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
           "link": "https://www.qbitai.com/2026/09/491711.html",
           "date": "2026-09-18T00:34:34+00:00"
-        },
-        {
-          "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
-          "link": "https://www.qbitai.com/2026/09/491649.html",
-          "date": "2026-09-17T12:03:24+00:00"
         }
       ]
     },
@@ -572,6 +540,16 @@
       "category": "AI",
       "url": "https://www.technologyreview.com/feed/",
       "items": [
+        {
+          "title": "The Download: AI’s extinction risk and bioweapons threat",
+          "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+          "date": "2026-09-18T12:10:00+00:00"
+        },
+        {
+          "title": "Could AI really kill us all? Your questions, answered.",
+          "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+          "date": "2026-09-18T11:29:22+00:00"
+        },
         {
           "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
           "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
@@ -586,16 +564,6 @@
           "title": "Meet the innovators under 35 shaping climate tech",
           "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
           "date": "2026-09-17T10:00:00+00:00"
-        },
-        {
-          "title": "Meet a mouse whose brain cortex is made up of human cells",
-          "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
-          "date": "2026-09-16T15:00:00+00:00"
-        },
-        {
-          "title": "Building the materials foundation for AI",
-          "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-          "date": "2026-09-16T12:47:34+00:00"
         }
       ]
     },
@@ -610,6 +578,16 @@
           "date": "2026-09-18T00:00:00+00:00"
         },
         {
+          "title": "How research funding took me out of the lab and into leadership",
+          "link": "https://www.nature.com/articles/d41586-026-02184-2",
+          "date": "2026-09-18T00:00:00+00:00"
+        },
+        {
+          "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment",
+          "link": "https://www.nature.com/articles/d41586-026-02945-z",
+          "date": "2026-09-18T00:00:00+00:00"
+        },
+        {
           "title": "Chinese companies doubled down on science after US tech restrictions",
           "link": "https://www.nature.com/articles/d41586-026-02946-y",
           "date": "2026-09-18T00:00:00+00:00"
@@ -617,16 +595,6 @@
         {
           "title": "Author Correction: Genomic deletion of malic enzyme 2 confers collateral lethality in pancreatic cancer",
           "link": "https://www.nature.com/articles/s41586-026-11134-x",
-          "date": "2026-09-17T00:00:00+00:00"
-        },
-        {
-          "title": "Mercury is shrinking with age — faster than thought",
-          "link": "https://www.nature.com/articles/d41586-026-02898-3",
-          "date": "2026-09-17T00:00:00+00:00"
-        },
-        {
-          "title": "Schoolhouse meals serve up an income bump",
-          "link": "https://www.nature.com/articles/d41586-026-02896-5",
           "date": "2026-09-17T00:00:00+00:00"
         }
       ]
@@ -637,34 +605,35 @@
       "url": "https://www.sciencedaily.com/rss/all.xml",
       "items": [
         {
-          "title": "This popular fermented food may help flush nanoplastics from the body",
-          "link": "https://www.sciencedaily.com/releases/2026/09/260917101058.htm",
-          "date": "2026-09-17T14:42:52+00:00"
+          "title": "Caltech’s tiny new chip can steer light in 74 quadrillionths of a second",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260918024823.htm",
+          "date": "2026-09-18T11:50:13+00:00"
         },
         {
-          "title": "Scientists discover a mysterious new frog hiding in the Amazon",
-          "link": "https://www.sciencedaily.com/releases/2026/09/260917003737.htm",
-          "date": "2026-09-17T14:08:44+00:00"
+          "title": "Scientists just named a new snake after Guns N’ Roses legend Slash",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260918024816.htm",
+          "date": "2026-09-18T12:07:03+00:00"
         },
         {
-          "title": "A $100 detector can see invisible particles raining down from space",
-          "link": "https://www.sciencedaily.com/releases/2026/09/260917003725.htm",
-          "date": "2026-09-17T13:54:19+00:00"
+          "title": "Scientists are about to test Einstein’s gravity with exotic matter",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260918024808.htm",
+          "date": "2026-09-18T11:07:25+00:00"
         },
         {
-          "title": "Astronomers just found the youngest known planet ever",
-          "link": "https://www.sciencedaily.com/releases/2026/09/260917003712.htm",
-          "date": "2026-09-17T13:00:19+00:00"
+          "title": "NASA’s Roman Space Telescope could last more than twice as long as planned",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260918024802.htm",
+          "date": "2026-09-18T11:31:56+00:00"
         },
         {
-          "title": "JWST’s mysterious little red dots may be black holes growing at incredible speeds",
-          "link": "https://www.sciencedaily.com/releases/2026/09/260917003703.htm",
-          "date": "2026-09-17T12:45:48+00:00"
+          "title": "Scientists restore a brain protein and reverse signs of aging in mice",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260918000437.htm",
+          "date": "2026-09-18T04:25:45+00:00"
         }
       ]
     }
   ],
   "failed": [
-    "36 氪"
+    "36 氪",
+    "酷壳"
   ]
 }
