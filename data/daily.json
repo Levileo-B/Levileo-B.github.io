@@ -1,126 +1,124 @@
 {
-  "updated": "2026-09-18T21:43:19+00:00",
+  "updated": "2026-09-19T00:23:06+00:00",
   "leetcode": {
-    "date": "2026-09-18",
-    "id": "1520",
-    "title": "Maximum Number of Non-Overlapping Substrings",
-    "titleEn": "Maximum Number of Non-Overlapping Substrings",
-    "slug": "maximum-number-of-non-overlapping-substrings",
-    "difficulty": "Hard",
+    "date": "2026-09-19",
+    "id": "1401",
+    "title": "Circle and Rectangle Overlapping",
+    "titleEn": "Circle and Rectangle Overlapping",
+    "slug": "circle-and-rectangle-overlapping",
+    "difficulty": "Medium",
     "tags": [
-      "Hash Table",
-      "String",
-      "Greedy",
-      "Sorting"
+      "Math",
+      "Geometry"
     ],
-    "link": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/",
+    "link": "https://leetcode.com/problems/circle-and-rectangle-overlapping/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Noemvriana",
-    "text": "The Noemvriana was an armed confrontation in Athens in December [O.S. November] 1916 between the Kingdom of Greece and the Allied Powers, arising from a dispute over Greece's neutrality in World War I, and followed by reprisals and riots against Greek supporters of the Allies.",
-    "words": 45,
-    "url": "https://en.wikipedia.org/wiki/Noemvriana",
-    "date": "2026-09-18",
+    "title": "Ashton-under-Lyne",
+    "text": "Ashton-under-Lyne, also known simply as Ashton, is a market town in Tameside, Greater Manchester, United Kingdom. The population was 48,604 at the 2021 census. Historically a part of Lancashire, it is on the north bank of the River Tame, in the foothills of the Pennines, six miles east of Manchester.",
+    "words": 50,
+    "url": "https://en.wikipedia.org/wiki/Ashton-under-Lyne",
+    "date": "2026-09-19",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Home Movie: 97320: Michigan and Detroit Area",
+    "title": "Home Movie: 98905: District of Columbia, Florida and Mexico",
     "creator": "",
-    "year": "1947",
-    "url": "https://archive.org/download/HMMichiganandDetroi97320/97320.mp4",
-    "page": "https://archive.org/details/HMMichiganandDetroi97320",
-    "date": "2026-09-18",
+    "year": "1955",
+    "url": "https://archive.org/download/98905_hm_district_of_columbia_florida_and_mexico/98905.mp4",
+    "page": "https://archive.org/details/98905_hm_district_of_columbia_florida_and_mexico",
+    "date": "2026-09-19",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "кафедра глубинных изучений полетов в космос вниз головой - пенисулариум (EP) (2020)",
-      "artist": "кафедра глубинных изучений полетов в космос вниз головой",
-      "url": "https://archive.org/download/IBR_1398/01.%20Gatliiiiiiing%20%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB.mp3",
-      "page": "https://archive.org/details/IBR_1398",
+      "title": "DJ 4RCA$H - x SOFM (Single) (2018)",
+      "artist": "DJ 4RCA$H",
+      "url": "https://archive.org/download/IBR_770/01.%20x%20SOFM.mp3",
+      "page": "https://archive.org/details/IBR_770",
       "license": "Creative Commons"
     },
     {
-      "title": "Live",
-      "artist": "Fundstücke",
-      "url": "https://archive.org/download/zero157/Fundstuecke%20-%20Live%20-%2001%20Der%20Erste.mp3",
-      "page": "https://archive.org/details/zero157",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "xtnddOrgsm_jaimeMunarriz",
-      "artist": "Jaime Munarriz",
-      "url": "https://archive.org/download/xtnddOrgsm_jaimeMunarriz/xtnddOrgsm_jaimeMunarriz.mp3",
-      "page": "https://archive.org/details/xtnddOrgsm_jaimeMunarriz",
+      "title": "MERZ0012 DEBUT! Stop Complaining, Music is Dead! EP",
+      "artist": "Debut!",
+      "url": "https://archive.org/download/MERZ0012/01violenceitis_vbr.mp3",
+      "page": "https://archive.org/details/MERZ0012",
       "license": "Creative Commons"
     },
     {
-      "title": "[YESNO 028] COFFIN CADILLAC - Off The Road",
-      "artist": "Yes No Wave Music",
-      "url": "https://archive.org/download/yesno028/01_-_Hate_vbr.mp3",
-      "page": "https://archive.org/details/yesno028",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "Netz Klang - Ausgabe 5.02.07",
-      "artist": "Tobi Tobsucht",
-      "url": "https://archive.org/download/netzklang-05-02-07/netzklang-05-02-07.mp3",
-      "page": "https://archive.org/details/netzklang-05-02-07",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Digital Kerdik & СЕМПЛЫ - Красный Исламист (EP) (2020)",
-      "artist": "Digital Kerdik & СЕМПЛЫ",
-      "url": "https://archive.org/download/IBR_1559/01.%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9%20%D0%98%D1%81%D0%BB%D0%B0%D0%BC%D0%B8%D1%81%D1%82.mp3",
-      "page": "https://archive.org/details/IBR_1559",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "[YESNO 104] Rani Jambak & Yenting Hsu \"《O-ksi氣-2》\"",
-      "artist": "Rani Jambak & Yenting Hsu",
-      "url": "https://archive.org/download/yesno104/01%20Leuser%20Wave%20_%20Ombak%20Leuser%20_%20%E5%8B%92%E5%A1%9E%E7%88%BE%E6%B5%AA%E6%BD%AE.mp3",
-      "page": "https://archive.org/details/yesno104",
-      "license": "https://creativecommons.org/licenses/by-nc/4.0/"
-    },
-    {
-      "title": "Бактериальные Промоторы - Джил Вегетативный (2011)",
-      "artist": "Бактериальные Промоторы",
-      "url": "https://archive.org/download/IBR_1393/01.%20%D0%97%D0%B0%D1%87%D0%B5%D0%BC%20%D1%8D%D1%82%D0%BE%20%D0%B2%D0%BE%D0%BE%D0%B1%D1%89%D0%B5_.mp3",
-      "page": "https://archive.org/details/IBR_1393",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "DIENSTbar Radio Transmission No. 314 Special Theme: La Radio? Pero si es, muy facil",
-      "artist": "DIENSTbar",
-      "url": "https://archive.org/download/dbr314/dbr314.mp3",
-      "page": "https://archive.org/details/dbr314",
+      "title": "A Tax On Your Brain",
+      "artist": "The Man From Viersen",
+      "url": "https://archive.org/download/a-tax-on-your-brain/01%20-%20Reciever%20Of%20Consciousness.mp3",
+      "page": "https://archive.org/details/a-tax-on-your-brain",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "The Lost Remixes [YARN005]",
-      "artist": "Various",
-      "url": "https://archive.org/download/yarn005/Balloon_Fight-Ham_No_Mayo_Djsur_Remix.mp3",
-      "page": "https://archive.org/details/yarn005",
-      "license": "http://creativecommons.org/licenses/by-sa/4.0/"
-    },
-    {
-      "title": "Angel of Magnolia by Scott Bruzenak",
-      "artist": "Scott Bruzenak",
-      "url": "https://archive.org/download/luvs005/AngelOfMagnolia.mp3",
-      "page": "https://archive.org/details/luvs005",
+      "title": "[EAR006] mlvch - четыре километра от душного города [EP] (2017)",
+      "artist": "",
+      "url": "https://archive.org/download/ear_006/01%20pvrklsk.mp3",
+      "page": "https://archive.org/details/ear_006",
       "license": "Creative Commons"
     },
     {
-      "title": "DDXVIII - LIL + Sin Senal - \"Victoria Saw Something\"",
-      "artist": "LIL + Sin Senal",
-      "url": "https://archive.org/download/DimentedDroidXVIII/01_night_talk.mp3",
-      "page": "https://archive.org/details/DimentedDroidXVIII",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/uk/"
+      "title": "[MIXG018] Various Artists – Music For Danny DeVito",
+      "artist": "",
+      "url": "https://archive.org/download/MIXG018/01_-_Abel_-_Feel_So_Good.mp3",
+      "page": "https://archive.org/details/MIXG018",
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
+    },
+    {
+      "title": "Mystified with Christopher Alvarado- Megacities Remixed [treetrunk 339]",
+      "artist": "Mystified with Christopher Alvarado",
+      "url": "https://archive.org/download/Megacities_Remixed/01_Tokyo_Remixed.mp3",
+      "page": "https://archive.org/details/Megacities_Remixed",
+      "license": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "title": "Dreamfish - Unreal EP {MOD#72}",
+      "artist": "Dreamfish",
+      "url": "https://archive.org/download/MOD72/01%20-%20Unreal.mp3",
+      "page": "https://archive.org/details/MOD72",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Зомби Утёсов - SADKUZSKAZURS (2014) [MNMN291]",
+      "artist": "Зомби Утёсов",
+      "url": "https://archive.org/download/MNMN291/01.%20Dez%20Obn%20Werth%20Yournuh%20Nord%20Abn.mp3",
+      "page": "https://archive.org/details/MNMN291",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "VA * .altered.statez.",
+      "artist": "cOmaRecOrdz",
+      "url": "https://archive.org/download/Va.altered.statez_110/01-nebulist-still_Remainzremix.mp3",
+      "page": "https://archive.org/details/Va.altered.statez_110",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Loida AGomez Live 17122017 Zarata Madrid",
+      "artist": "",
+      "url": "https://archive.org/download/LoidaAGomezLive17122017ZarataMadrid/LoidaAGomezLive17122017ZarataMadrid.mp3",
+      "page": "https://archive.org/details/LoidaAGomezLive17122017ZarataMadrid",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "MNE008 Therap - Transito",
+      "artist": "Therap",
+      "url": "https://archive.org/download/MNE008_Therap--Transito/01_Therap_-_Transito_1.mp3",
+      "page": "https://archive.org/details/MNE008_Therap--Transito",
+      "license": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "title": "Portchistot - Ginger Jam (2016) [MNMN395]",
+      "artist": "Portchistot",
+      "url": "https://archive.org/download/MNMN395/01.%20Sea%20Hecate.Night.mp3",
+      "page": "https://archive.org/details/MNMN395",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     }
   ]
 }
