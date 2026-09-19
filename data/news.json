@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T20:44:21+00:00",
+  "updated": "2026-09-19T23:09:37+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,14 +39,19 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-          "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-19T11:36:55+00:00"
-        },
-        {
           "title": "Houthis say they targeted Saudi capital with ballistic missiles",
           "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-19T20:16:07+00:00"
+        },
+        {
+          "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+          "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-19T23:00:27+00:00"
+        },
+        {
+          "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+          "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-19T23:01:38+00:00"
         },
         {
           "title": "Journalists denied White House access after Trump banned some media outlets",
@@ -57,11 +62,6 @@
           "title": "Converse pulls 'deeply upsetting' advert after backlash",
           "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-19T14:05:01+00:00"
-        },
-        {
-          "title": "Google's Gemini AI hacked three companies in security test",
-          "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-19T13:39:32+00:00"
         }
       ]
     },
@@ -118,14 +118,14 @@
           "date": "2026-09-19T12:00:01+00:00"
         },
         {
-          "title": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
-          "link": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
-          "date": "2026-09-19T19:08:27+00:00"
-        },
-        {
           "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
           "link": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
           "date": "2026-09-19T01:41:49+00:00"
+        },
+        {
+          "title": "Buffett takes next step in plan to keep Berkshire from straying",
+          "link": "https://www.cnbc.com/2026/09/19/warren-buffett-takes-next-step-in-plan-to-keep-berkshire-from-straying.html",
+          "date": "2026-09-19T12:43:56+00:00"
         }
       ]
     },
@@ -231,6 +231,11 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+          "date": "2026-09-19T20:44:40+00:00"
+        },
+        {
           "title": "Trump treads further on free speech with new journalist bans",
           "link": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
           "date": "2026-09-19T17:10:21+00:00"
@@ -249,11 +254,6 @@
           "title": "The colorful, unique Hyte X50 PC case is $50 off",
           "link": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
           "date": "2026-09-18T18:06:08+00:00"
-        },
-        {
-          "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
-          "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-          "date": "2026-09-18T19:30:34+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "Mayday Mysteries",
+          "link": "http://www.maydaymystery.org/mayday/",
+          "date": "2026-09-19T21:43:09+00:00"
+        },
+        {
+          "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+          "link": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+          "date": "2026-09-19T21:30:59+00:00"
+        },
+        {
+          "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+          "link": "https://chrono.fandom.com/wiki/Dream_Devourer",
+          "date": "2026-09-19T21:25:29+00:00"
+        },
+        {
+          "title": "English: A vs. An",
+          "link": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+          "date": "2026-09-19T20:41:26+00:00"
+        },
+        {
           "title": "Measure internet censorship. Contribute to the largest open dataset",
           "link": "https://ooni.org/install",
           "date": "2026-09-19T20:00:59+00:00"
-        },
-        {
-          "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
-          "link": "https://eprint.iacr.org/2026/2039",
-          "date": "2026-09-19T19:23:23+00:00"
-        },
-        {
-          "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
-          "link": "https://bartosz.fenski.pl/modern-fs-benchmark/",
-          "date": "2026-09-19T18:11:40+00:00"
-        },
-        {
-          "title": "Supabase (YC S20) Is Hiring for OrioleDB",
-          "link": "https://supabase.link/orioledbjob",
-          "date": "2026-09-19T17:01:30+00:00"
-        },
-        {
-          "title": "Almost Never Use AI to Write Anything Substantive",
-          "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "date": "2026-09-19T16:35:24+00:00"
         }
       ]
     },
@@ -342,14 +342,14 @@
           "date": "2026-09-19T13:41:57+00:00"
         },
         {
+          "title": "we have a year to fix security everywhere",
+          "link": "https://jyn.dev/a-year-to-fix-security/",
+          "date": "2026-09-19T19:27:46+00:00"
+        },
+        {
           "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
           "link": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
           "date": "2026-09-19T12:38:11+00:00"
-        },
-        {
-          "title": "The scourge of x86 emulation",
-          "link": "https://fex-emu.com/Scourge-of-emulation/",
-          "date": "2026-09-19T05:01:05+00:00"
         }
       ]
     },
@@ -358,6 +358,11 @@
       "category": "开发",
       "url": "https://www.v2ex.com/index.xml",
       "items": [
+        {
+          "title": "[程序员] 为啥很多网，直接登不了？",
+          "link": "https://www.v2ex.com/t/1243230#reply1",
+          "date": "2026-09-19T22:51:36+00:00"
+        },
         {
           "title": "[问与答] GPT6 降智的问题最近是不是被解决了？",
           "link": "https://www.v2ex.com/t/1243229#reply0",
@@ -377,11 +382,6 @@
           "title": "[分享创造] libTV 本地开源平替：画布 + 剪辑一体，任何支持 MCP 的 Agent 都能全程操控",
           "link": "https://www.v2ex.com/t/1243225#reply2",
           "date": "2026-09-19T17:07:48+00:00"
-        },
-        {
-          "title": "[分享发现] Muse 好像都放开了？",
-          "link": "https://www.v2ex.com/t/1243223#reply1",
-          "date": "2026-09-19T15:32:12+00:00"
         }
       ]
     },
@@ -468,6 +468,38 @@
           "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
           "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
           "date": "2026-09-03T23:59:05+00:00"
+        }
+      ]
+    },
+    {
+      "name": "酷壳",
+      "category": "开发",
+      "url": "https://coolshell.cn/feed",
+      "items": [
+        {
+          "title": "是微服务架构不香还是云不香？",
+          "link": "https://coolshell.cn/articles/22422.html",
+          "date": "2023-05-08T09:52:06+00:00"
+        },
+        {
+          "title": "我看ChatGPT: 为啥谷歌掉了千亿美金",
+          "link": "https://coolshell.cn/articles/22398.html",
+          "date": "2023-02-11T16:31:16+00:00"
+        },
+        {
+          "title": "聊聊 nostr 和 审查",
+          "link": "https://coolshell.cn/articles/22367.html",
+          "date": "2023-02-03T07:46:13+00:00"
+        },
+        {
+          "title": "感染新冠的经历",
+          "link": "https://coolshell.cn/articles/22341.html",
+          "date": "2022-12-13T07:39:39+00:00"
+        },
+        {
+          "title": "eBPF 介绍",
+          "link": "https://coolshell.cn/articles/22320.html",
+          "date": "2022-12-10T02:38:51+00:00"
         }
       ]
     },
@@ -568,6 +600,38 @@
       ]
     },
     {
+      "name": "Nature",
+      "category": "科研",
+      "url": "https://www.nature.com/nature.rss",
+      "items": [
+        {
+          "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
+          "link": "https://www.nature.com/articles/d41586-026-02897-4",
+          "date": "2026-09-18T00:00:00+00:00"
+        },
+        {
+          "title": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
+          "link": "https://www.nature.com/articles/d41586-026-02984-6",
+          "date": "2026-09-18T00:00:00+00:00"
+        },
+        {
+          "title": "Europe pushes for space independence amid geopolitical rifts",
+          "link": "https://www.nature.com/articles/d41586-026-02919-1",
+          "date": "2026-09-18T00:00:00+00:00"
+        },
+        {
+          "title": "How research funding took me out of the lab and into leadership",
+          "link": "https://www.nature.com/articles/d41586-026-02184-2",
+          "date": "2026-09-18T00:00:00+00:00"
+        },
+        {
+          "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment",
+          "link": "https://www.nature.com/articles/d41586-026-02945-z",
+          "date": "2026-09-18T00:00:00+00:00"
+        }
+      ]
+    },
+    {
       "name": "ScienceDaily",
       "category": "科研",
       "url": "https://www.sciencedaily.com/rss/all.xml",
@@ -601,8 +665,6 @@
     }
   ],
   "failed": [
-    "36 氪",
-    "酷壳",
-    "Nature"
+    "36 氪"
   ]
 }
