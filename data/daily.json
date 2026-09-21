@@ -1,89 +1,62 @@
 {
-  "updated": "2026-09-20T22:28:49+00:00",
+  "updated": "2026-09-21T01:09:19+00:00",
   "leetcode": {
-    "date": "2026-09-20",
-    "id": "3498",
-    "title": "Reverse Degree of a String",
-    "titleEn": "Reverse Degree of a String",
-    "slug": "reverse-degree-of-a-string",
-    "difficulty": "Easy",
+    "date": "2026-09-21",
+    "id": "3524",
+    "title": "Find X Value of Array I",
+    "titleEn": "Find X Value of Array I",
+    "slug": "find-x-value-of-array-i",
+    "difficulty": "Medium",
     "tags": [
-      "String",
-      "Simulation"
+      "Array",
+      "Math",
+      "Dynamic Programming"
     ],
-    "link": "https://leetcode.com/problems/reverse-degree-of-a-string/",
+    "link": "https://leetcode.com/problems/find-x-value-of-array-i/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Misti",
-    "text": "Misti is a volcano in the southern Peruvian Andes, rising above Arequipa, Peru's second-largest city. It has a steep conical profile and two nested summit craters. The inner crater contains an active lava plug or dome, pierced by vents that emit volcanic gases. The summit reaches 5822 m above sea level, on the rim of the outer crater. Snow covers the summit but does not persist, and there are no glaciers. The upper slopes are largely barren, while lower elevations support scrub and other bushy vegetation.",
-    "words": 86,
-    "url": "https://en.wikipedia.org/wiki/Misti",
-    "date": "2026-09-20",
+    "title": "Early Netherlandish painting",
+    "text": "Early Netherlandish painting is the body of work by artists active in the Burgundian and Habsburg Netherlands during the 15th- and 16th-century Northern Renaissance period, once known as the Flemish Primitives. It flourished especially in the cities of Bruges, Ghent, Mechelen, Leuven, Tournai and Brussels, all in present-day Belgium. The period begins approximately with Robert Campin and Jan van Eyck in the 1420s and lasts at least until the death of Gerard David in 1523, although many scholars extend it to the beginning of the Dutch Revolt in 1566 or 1568 – Max J. Friedländer's acclaimed surveys run through Pieter Bruegel the Elder. Early Netherlandish painting coincides with the Early and High Italian Renaissance, but the early period is seen as an independent artistic evolution, separate from the Renaissance humanism that characterised developments in Italy. Beginning in the 1490s, as increasing numbers of Netherlandish and other Northern painters traveled to Italy, Renaissance ideals and painting styles were incorporated into northern painting. As a result, Early Netherlandish painters are often categorised as belonging to both the Northern Renaissance and the Late or International Gothic.",
+    "words": 183,
+    "url": "https://en.wikipedia.org/wiki/Early_Netherlandish_painting",
+    "date": "2026-09-21",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "[Home Movies: Levy collection: Norway, Sweden, Soviet Union]",
+    "title": "Home movie: 000584: 1950s Our Lady of the Woods Shrine",
     "creator": "",
-    "year": "1931",
-    "url": "https://archive.org/download/HM_Levy_collection_Norway_Sweden_Soviet_Union/0616_HM_Levy_collection_Norway_Sweden_Soviet_Union_23_29_32_00_3mb.mp4",
-    "page": "https://archive.org/details/HM_Levy_collection_Norway_Sweden_Soviet_Union",
-    "date": "2026-09-20",
+    "year": "",
+    "url": "https://archive.org/download/000584_202005/000584.m4v",
+    "page": "https://archive.org/details/000584_202005",
+    "date": "2026-09-21",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "кафедра глубинных изучений полетов в космос вниз головой - пенисулариум (EP) (2020)",
-      "artist": "кафедра глубинных изучений полетов в космос вниз головой",
-      "url": "https://archive.org/download/IBR_1398/01.%20Gatliiiiiiing%20%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB.mp3",
-      "page": "https://archive.org/details/IBR_1398",
-      "license": "Creative Commons"
+      "title": "frei² & Open Music Mix Association Special 2014-09-13",
+      "artist": "Robert Bienert",
+      "url": "https://archive.org/download/freihoch2-OpenMusicMixAssociationSpecial2014-09-13/3-freihoch2-OMMA-2014-09-13-Warmup.mp3",
+      "page": "https://archive.org/details/freihoch2-OpenMusicMixAssociationSpecial2014-09-13",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "eso era un senior",
-      "artist": "criadero en seres",
-      "url": "https://archive.org/download/EsoEraUnSeor/criadero_en_seres_._eso_era_un_senor.mp3",
-      "page": "https://archive.org/details/EsoEraUnSeor",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+      "title": "Warhol’s Ugly Brood",
+      "artist": "Gypsy",
+      "url": "https://archive.org/download/warhols-ugly-brood/01%20-%20To%20Prog%20Or%20Not%20To%20Prog%20%28That%20Is%20The%20Dilemma%29.mp3",
+      "page": "https://archive.org/details/warhols-ugly-brood",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "Fear of Erny",
-      "artist": "Deadman & Digi Hartatak",
-      "url": "https://archive.org/download/Fear_of_Erny/FearofErny.mp3",
-      "page": "https://archive.org/details/Fear_of_Erny",
-      "license": "http://creativecommons.org/licenses/by-sa/3.0/"
-    },
-    {
-      "title": "Бактериальные Промоторы - Трансгрессивный Портвейн (2011)",
-      "artist": "Бактериальные Промоторы",
-      "url": "https://archive.org/download/IBR_1413/01.%20%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%20%D0%A1%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D1%85%20%D0%A9%D0%B5%D0%B9.mp3",
-      "page": "https://archive.org/details/IBR_1413",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Infinitesimalizer",
-      "artist": "Spirit Duplicator",
-      "url": "https://archive.org/download/Infinitesimalizer/01IShookMyselfAllNightLong.mp3",
-      "page": "https://archive.org/details/Infinitesimalizer",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/us/"
-    },
-    {
-      "title": "[TAN337] deafness - Heaven",
-      "artist": "Mad God",
-      "url": "https://archive.org/download/TAN337/Heaven.mp3",
-      "page": "https://archive.org/details/TAN337",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "Cubenx-01-01-07",
-      "artist": "Cubenx",
-      "url": "https://archive.org/download/Cubenx-01-01-07/Cubenx-01-01-07.mp3",
-      "page": "https://archive.org/details/Cubenx-01-01-07",
-      "license": "Creative Commons"
+      "title": "VBR Podcast #21",
+      "artist": "Banyek",
+      "url": "https://archive.org/download/vbr021/vbr_021.mp3",
+      "page": "https://archive.org/details/vbr021",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
     },
     {
       "title": "Tradition",
@@ -93,18 +66,11 @@
       "license": "Creative Commons"
     },
     {
-      "title": "xtnddOrgsm_jaimeMunarriz",
-      "artist": "Jaime Munarriz",
-      "url": "https://archive.org/download/xtnddOrgsm_jaimeMunarriz/xtnddOrgsm_jaimeMunarriz.mp3",
-      "page": "https://archive.org/details/xtnddOrgsm_jaimeMunarriz",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "DIENSTbar @ dfm.nu Transmission No. 21The Beauteousness Of Noise Livesession: Schmacke / Ohmnoise",
-      "artist": "Ohmnoise",
-      "url": "https://archive.org/download/dbdfmnu21/dbdfmnu21.mp3",
-      "page": "https://archive.org/details/dbdfmnu21",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "185DIYChurch_\"cybersex&scale's with @djkrokodile // SCHOOLBOYLATTE with @CHAiT \"",
+      "artist": "G.O:D",
+      "url": "https://archive.org/download/185DIYChurch/185DIYChurch_cybersex_and_scale_s_with_AT_djkrokodile_SCHOOLBOYLATTE_with_AT_CHAiT.mp3",
+      "page": "https://archive.org/details/185DIYChurch",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
       "title": "PATRIK GLASSEL & BRANDSTIFTER - You Have The Job",
@@ -114,11 +80,46 @@
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "MC Гной - Чемпион по шашкам (Rework) (Single) (2020)",
-      "artist": "MC Гной",
-      "url": "https://archive.org/download/IBR_1753/01.%20%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%20%D0%BF%D0%BE%20%D1%88%D0%B0%D1%88%D0%BA%D0%B0%D0%BC%20%28Rework%29.mp3",
-      "page": "https://archive.org/details/IBR_1753",
+      "title": "Rawnoizyshittlessbazzztard & A. Uvarov - Pain & Suffering (2017)",
+      "artist": "Rawnoizyshittlessbazzztard & A. Uvarov",
+      "url": "https://archive.org/download/IBR_303/01%20-%20Your%20Throat%20-%20My%20Knife.mp3",
+      "page": "https://archive.org/details/IBR_303",
       "license": "Creative Commons"
+    },
+    {
+      "title": "279DIYChurch__piece of paper, Legal Size, 8.5\" x 11\"",
+      "artist": "G:O;D",
+      "url": "https://archive.org/download/279DIYChurch/279DIYChurch_PieceOfPaper_LegalSize.mp3",
+      "page": "https://archive.org/details/279DIYChurch",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/pe/"
+    },
+    {
+      "title": "Бактериальные Промоторы - Джил Вегетативный (2011)",
+      "artist": "Бактериальные Промоторы",
+      "url": "https://archive.org/download/IBR_1393/01.%20%D0%97%D0%B0%D1%87%D0%B5%D0%BC%20%D1%8D%D1%82%D0%BE%20%D0%B2%D0%BE%D0%BE%D0%B1%D1%89%D0%B5_.mp3",
+      "page": "https://archive.org/details/IBR_1393",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Loasted Spaceship",
+      "artist": "Flying baba 747",
+      "url": "https://archive.org/download/LoastedSpaceship_119/04Loasted04.mp3",
+      "page": "https://archive.org/details/LoastedSpaceship_119",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "FAUSTINO GOYENA - De Neatins",
+      "artist": "",
+      "url": "https://archive.org/download/HAZE077/1_vbr.mp3",
+      "page": "https://archive.org/details/HAZE077",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Turning Torso – Jacaranda Remixes [YARN011]",
+      "artist": "Turning Torso",
+      "url": "https://archive.org/download/yarn011/01-Turning_Torso-Jacaranda_Tea_Leaf_Remix.mp3",
+      "page": "https://archive.org/details/yarn011",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
     }
   ]
 }
