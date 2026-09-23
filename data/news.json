@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T00:38:10+00:00",
+  "updated": "2026-09-23T06:01:20+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -12,6 +12,11 @@
           "date": "2026-09-23T00:29:23+00:00"
         },
         {
+          "title": "特朗普聯合國演說五個要點：古巴垮台、摧毀伊朗、格陵蘭基地，以及把AI改名SI",
+          "link": "https://www.bbc.com/zhongwen/articles/cq39myp9dm9zo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-23T04:24:56+00:00"
+        },
+        {
           "title": "從年輕縣官到國家主席：習近平41年來的訪美影像",
           "link": "https://www.bbc.com/zhongwen/articles/c9zrz24j8pdvo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-22T14:36:55+00:00"
@@ -20,11 +25,6 @@
           "title": "「雙休購」爆紅與下架：一個網購平台如何撬動勞工權益討論",
           "link": "https://www.bbc.com/zhongwen/articles/cr9dw3z7v01yo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-22T10:03:59+00:00"
-        },
-        {
-          "title": "香港提出「人民幣支付政府開支」為何引發「去美元化」憂慮？",
-          "link": "https://www.bbc.com/zhongwen/articles/c65y501pjww4o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-22T01:42:30+00:00"
         },
         {
           "title": "外星生命會讓我們生病嗎？太空微生物帶來哪些風險",
@@ -39,9 +39,9 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
+          "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
           "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-22T21:50:31+00:00"
+          "date": "2026-09-23T02:57:00+00:00"
         },
         {
           "title": "Burnham expects to find 'common ground' with Trump in first meeting",
@@ -76,7 +76,12 @@
           "date": "2026-09-22T23:11:33+00:00"
         },
         {
-          "title": "IMF tells advanced economies to 'bring debt down' as borrowing costs rise",
+          "title": "Will Trump's AI rebrand to 'super intelligence' catch on?",
+          "link": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-23T03:20:30+00:00"
+        },
+        {
+          "title": "Rich nations must cut debt as global shocks push up borrowing costs, IMF chief tells BBC",
           "link": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-22T23:01:28+00:00"
         },
@@ -89,11 +94,6 @@
           "title": "Trump says he would back ban on diesel exports",
           "link": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-22T20:41:13+00:00"
-        },
-        {
-          "title": "Watch: Trump floats rebranding artificial intelligence as super intelligence",
-          "link": "https://www.bbc.co.uk/news/videos/c8n5d9x10v14o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-22T15:53:25+00:00"
         }
       ]
     },
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
+          "title": "Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms",
+          "link": "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
+          "date": "2026-09-23T05:37:48+00:00"
+        },
+        {
           "title": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
           "link": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
           "date": "2026-09-22T23:43:48+00:00"
         },
         {
+          "title": "DOJ defends Trump ban of 3 news outlets, says White House access is a 'privilege — not a right'",
+          "link": "https://www.cnbc.com/2026/09/23/trump-white-house-ban-media-doj-cnn-msnow-politico.html",
+          "date": "2026-09-23T05:49:57+00:00"
+        },
+        {
+          "title": "In photos: Key takeaways from day one of the UN General Assembly",
+          "link": "https://www.cnbc.com/2026/09/23/unga-trump-iran-china-greenland-ukraine-russia-.html",
+          "date": "2026-09-23T03:13:02+00:00"
+        },
+        {
           "title": "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud",
           "link": "https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html",
           "date": "2026-09-22T21:07:21+00:00"
-        },
-        {
-          "title": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
-          "link": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
-          "date": "2026-09-22T22:03:33+00:00"
-        },
-        {
-          "title": "U.S. regulators rush to write crypto rulebook after Clarity Act stalls in Senate",
-          "link": "https://www.cnbc.com/2026/09/22/clarity-act-crypto-rules-regulators.html",
-          "date": "2026-09-22T20:46:52+00:00"
-        },
-        {
-          "title": "Here's who we know is going to the Trump-Xi dinner so far",
-          "link": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
-          "date": "2026-09-22T23:43:43+00:00"
         }
       ]
     },
@@ -134,6 +134,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "Here Wallpaper：把喜欢的地图做成壁纸",
+          "link": "https://sspai.com/post/114211",
+          "date": "2026-09-23T02:19:17+00:00"
+        },
         {
           "title": "派早报：OPPO Find X10 系列发布、Beats 360 头戴式耳机发布等",
           "link": "https://sspai.com/post/114889",
@@ -150,14 +155,9 @@
           "date": "2026-09-22T08:11:03+00:00"
         },
         {
-          "title": "App+1 | Coast：用十年经验，给记账这件事一个「终点」",
+          "title": "Coast：用十年经验，给记账这件事一个「终点」",
           "link": "https://sspai.com/post/114479",
           "date": "2026-09-22T06:39:39+00:00"
-        },
-        {
-          "title": "少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm",
-          "link": "https://sspai.com/post/114823",
-          "date": "2026-09-22T02:44:06+00:00"
         }
       ]
     },
@@ -167,7 +167,17 @@
       "url": "https://www.ifanr.com/feed",
       "items": [
         {
-          "title": "早报｜GP-6 Sol发布，价格腰斩/特努斯：Siri AI不应代替人际关系/4999起，OPPO Find X10系列发布",
+          "title": "Claude 5.5 发布，性能直逼 Fable，还要卷价格",
+          "link": "https://www.ifanr.com/1681629?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-09-23T02:25:19+00:00"
+        },
+        {
+          "title": "⁡⁤‬‍⁤‬​‌‍⁢⁡⁢⁣‌‌﻿⁡⁡​⁤​​﻿⁢⁡‬⁡‬​‍⁣​​﻿⁤⁡‍​⁡‬‌‬⁣⁡⁣​⁡‬⁤刚刚，GPT-6 新模型掀桌！「白菜价」杀进 DeepSeek 腹地",
+          "link": "https://www.ifanr.com/1681605?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-09-23T02:21:17+00:00"
+        },
+        {
+          "title": "早报｜GPT-6 Sol发布，价格腰斩/特努斯：Siri AI不应代替人际关系/4999起，OPPO Find X10系列发布",
           "link": "https://www.ifanr.com/1681566?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-09-23T00:05:46+00:00"
         },
@@ -180,16 +190,6 @@
           "title": "涨价 9 万？岚图梦想家 9 凭什么敢卖 41.99 万元",
           "link": "https://www.ifanr.com/1681478?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-09-22T13:47:50+00:00"
-        },
-        {
-          "title": "OPPO 新旗舰塞满了「两亿」，却只要 6799 元起",
-          "link": "https://www.ifanr.com/1681522?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-09-22T13:24:35+00:00"
-        },
-        {
-          "title": "16.18 万元起！广汽传祺越 7 配备三把锁，「可城可野」有了新答案",
-          "link": "https://www.ifanr.com/1681498?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-09-22T12:42:15+00:00"
         }
       ]
     },
@@ -198,6 +198,11 @@
       "category": "科技",
       "url": "https://www.solidot.org/index.rss",
       "items": [
+        {
+          "title": "黑客声称入侵了 FBI 窃取雇员信息",
+          "link": "https://www.solidot.org/story?sid=85457",
+          "date": "2026-09-23T03:45:09+00:00"
+        },
         {
           "title": "新 Halo 游戏将由动视开发",
           "link": "https://www.solidot.org/story?sid=85456",
@@ -217,11 +222,6 @@
           "title": "为躲避亿万富翁税 Larry Page 等人迁出加州",
           "link": "https://www.solidot.org/story?sid=85453",
           "date": "2026-09-22T10:08:01+00:00"
-        },
-        {
-          "title": "NASA 火星样本采集送回任务终止",
-          "link": "https://www.solidot.org/story?sid=85452",
-          "date": "2026-09-22T08:59:51+00:00"
         }
       ]
     },
@@ -230,6 +230,11 @@
       "category": "科技",
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
+        {
+          "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+          "date": "2026-09-23T00:18:27+00:00"
+        },
         {
           "title": "Paramount will need to release way more movies to make this merger work",
           "link": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
@@ -249,11 +254,6 @@
           "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
           "link": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
           "date": "2026-09-22T16:25:43+00:00"
-        },
-        {
-          "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
-          "link": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
-          "date": "2026-09-22T16:47:13+00:00"
         }
       ]
     },
@@ -290,38 +290,6 @@
       ]
     },
     {
-      "name": "Hacker News",
-      "category": "开发",
-      "url": "https://hnrss.org/frontpage?count=10",
-      "items": [
-        {
-          "title": "The new CC, an AI agent built for families",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
-          "date": "2026-09-22T23:46:07+00:00"
-        },
-        {
-          "title": "The current balance of power in open models",
-          "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-          "date": "2026-09-22T22:03:46+00:00"
-        },
-        {
-          "title": "The UV index is not the warm sensation of sunlight on bare skin",
-          "link": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
-          "date": "2026-09-22T21:06:40+00:00"
-        },
-        {
-          "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-          "link": "https://foxscript.org/",
-          "date": "2026-09-22T21:00:30+00:00"
-        },
-        {
-          "title": "The JavaScript Midlife Crisis",
-          "link": "https://maroun-baydoun.com/blog/javascript-midlife-crisis/",
-          "date": "2026-09-22T19:58:47+00:00"
-        }
-      ]
-    },
-    {
       "name": "Lobsters",
       "category": "开发",
       "url": "https://lobste.rs/rss",
@@ -332,6 +300,16 @@
           "date": "2026-09-22T17:14:56+00:00"
         },
         {
+          "title": "That About Wraps It Up for Stock Mac UI",
+          "link": "https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html",
+          "date": "2026-09-22T19:29:53+00:00"
+        },
+        {
+          "title": "No Sloptober",
+          "link": "https://no-sloptober.com/",
+          "date": "2026-09-22T21:06:34+00:00"
+        },
+        {
           "title": "Looking forward to Git 2.56 - and 3.0",
           "link": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
           "date": "2026-09-22T05:23:55+00:00"
@@ -340,16 +318,6 @@
           "title": "Fearless SIMD v1.0 is here",
           "link": "https://linebender.org/blog/fearless-simd-1-0/",
           "date": "2026-09-22T12:10:21+00:00"
-        },
-        {
-          "title": "That About Wraps It Up for Stock Mac UI",
-          "link": "https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html",
-          "date": "2026-09-22T19:29:53+00:00"
-        },
-        {
-          "title": "Arguing about arguments",
-          "link": "https://steveklabnik.com/writing/arguing-about-arguments/",
-          "date": "2026-09-22T04:29:12+00:00"
         }
       ]
     },
@@ -359,29 +327,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享创造] 给上大班的娃做了一个学习小程序「人生本子」，想听听大家的意见",
-          "link": "https://www.v2ex.com/t/1244107#reply0",
-          "date": "2026-09-23T00:36:59+00:00"
+          "title": "[OpenAI] 目前测试 GPT 各个版本，还得是 GPT-6-Astra 啊",
+          "link": "https://www.v2ex.com/t/1244239#reply0",
+          "date": "2026-09-23T05:51:56+00:00"
         },
         {
-          "title": "[分享发现] Opus 5.5 的默认思考等级变成了 medium",
-          "link": "https://www.v2ex.com/t/1244106#reply0",
-          "date": "2026-09-23T00:36:26+00:00"
+          "title": "[问与答] 上海租房好难。想租到没有噪音的房子太难了。",
+          "link": "https://www.v2ex.com/t/1244238#reply2",
+          "date": "2026-09-23T05:50:50+00:00"
         },
         {
-          "title": "[职场话题] 试用期没通过，很迷茫，求指点🙏",
-          "link": "https://www.v2ex.com/t/1244105#reply2",
-          "date": "2026-09-23T00:24:55+00:00"
+          "title": "[Apple] 很遗憾， Apple 国内直营店已经明显让人失望了",
+          "link": "https://www.v2ex.com/t/1244237#reply0",
+          "date": "2026-09-23T05:44:30+00:00"
         },
         {
-          "title": "[推广] GPT Codex Business Team｜按月付｜稳定席位｜售后保障",
-          "link": "https://www.v2ex.com/t/1244104#reply0",
-          "date": "2026-09-23T00:23:16+00:00"
+          "title": "[分享发现] 最近了解到 DNF 私服，发现了新大陆，有没有人想一起玩耍的",
+          "link": "https://www.v2ex.com/t/1244235#reply5",
+          "date": "2026-09-23T05:40:35+00:00"
         },
         {
-          "title": "[分享创造] 上线了一个分钟级的全球 AI 模型、产品与行业动态的 AI 快讯模块",
-          "link": "https://www.v2ex.com/t/1244103#reply0",
-          "date": "2026-09-23T00:18:23+00:00"
+          "title": "[Apple] [选购咨询] 从 Intel i9 32G 换到 M 系列 Mac mini， 16G 统一内存够用吗？",
+          "link": "https://www.v2ex.com/t/1244234#reply1",
+          "date": "2026-09-23T05:37:49+00:00"
         }
       ]
     },
@@ -541,29 +509,29 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
-          "title": "陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产",
-          "link": "https://www.qbitai.com/2026/09/494429.html",
-          "date": "2026-09-22T15:59:35+00:00"
+          "title": "GPT-6 Astra搓3D刷屏后，3D生成的竞争规则变了",
+          "link": "https://www.qbitai.com/2026/09/496170.html",
+          "date": "2026-09-23T05:01:24+00:00"
         },
         {
-          "title": "Agent时代，CPU的价值该重估了",
-          "link": "https://www.qbitai.com/2026/09/494430.html",
-          "date": "2026-09-22T15:46:54+00:00"
+          "title": "Claude Opus 5.5突袭！68万行代码一天迁完，API价格打8折",
+          "link": "https://www.qbitai.com/2026/09/496221.html",
+          "date": "2026-09-23T04:59:29+00:00"
         },
         {
-          "title": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
-          "link": "https://www.qbitai.com/2026/09/494420.html",
-          "date": "2026-09-22T14:28:59+00:00"
+          "title": "刷视频也能教会机器人干活！1200亿tokens人类动作预训练，误差按幂律下降",
+          "link": "https://www.qbitai.com/2026/09/496129.html",
+          "date": "2026-09-23T04:25:12+00:00"
         },
         {
-          "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
-          "link": "https://www.qbitai.com/2026/09/494263.html",
-          "date": "2026-09-22T13:57:10+00:00"
+          "title": "滴滴自动驾驶连获全国工商联及北京市荣誉榜单认可",
+          "link": "https://www.qbitai.com/2026/09/496124.html",
+          "date": "2026-09-23T03:12:31+00:00"
         },
         {
-          "title": "WebArena作者Shuyan Zhou入职Meta超级智能实验室",
-          "link": "https://www.qbitai.com/2026/09/493653.html",
-          "date": "2026-09-22T11:58:53+00:00"
+          "title": "华为全新智驾上车，全域L3架构，岚图最强旗舰MPV 42万开卖",
+          "link": "https://www.qbitai.com/2026/09/495959.html",
+          "date": "2026-09-23T01:00:54+00:00"
         }
       ]
     },
@@ -647,24 +615,25 @@
           "date": "2026-09-22T13:42:49+00:00"
         },
         {
+          "title": "One of America’s largest reservoirs just hit a record low",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260922005701.htm",
+          "date": "2026-09-23T02:01:16+00:00"
+        },
+        {
           "title": "The end of humanity? What would happen if the Yellowstone supervolcano erupted now",
           "link": "https://www.sciencedaily.com/releases/2026/09/260922005655.htm",
           "date": "2026-09-22T08:32:08+00:00"
         },
         {
-          "title": "Stem cells reverse stroke damage and restore movement in mice",
-          "link": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
-          "date": "2026-09-22T01:49:32+00:00"
-        },
-        {
-          "title": "MIT’s tiny flying robot gets 450% faster with AI",
-          "link": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
-          "date": "2026-09-22T12:52:43+00:00"
+          "title": "The LHC just ruled out another hiding place for quantum black holes",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260922005649.htm",
+          "date": "2026-09-23T03:32:54+00:00"
         }
       ]
     }
   ],
   "failed": [
-    "36 氪"
+    "36 氪",
+    "Hacker News"
   ]
 }
