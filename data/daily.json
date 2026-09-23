@@ -1,124 +1,125 @@
 {
-  "updated": "2026-09-22T22:12:51+00:00",
+  "updated": "2026-09-23T00:38:10+00:00",
   "leetcode": {
-    "date": "2026-09-22",
-    "id": "3525",
-    "title": "Find X Value of Array II",
-    "titleEn": "Find X Value of Array II",
-    "slug": "find-x-value-of-array-ii",
-    "difficulty": "Hard",
+    "date": "2026-09-23",
+    "id": "1658",
+    "title": "Minimum Operations to Reduce X to Zero",
+    "titleEn": "Minimum Operations to Reduce X to Zero",
+    "slug": "minimum-operations-to-reduce-x-to-zero",
+    "difficulty": "Medium",
     "tags": [
       "Array",
-      "Math",
-      "Segment Tree"
+      "Hash Table",
+      "Binary Search",
+      "Sliding Window"
     ],
-    "link": "https://leetcode.com/problems/find-x-value-of-array-ii/",
+    "link": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Alison Frantz",
-    "text": "Mary Alison Frantz was an American archaeological photographer and Byzantine scholar. She was the official photographer of the excavations of the Agora of Athens, and a prolific photographer of ancient Greek sculpture, including the Parthenon frieze and works from the Temple of Zeus at Olympia.",
-    "words": 45,
-    "url": "https://en.wikipedia.org/wiki/Alison_Frantz",
-    "date": "2026-09-22",
+    "title": "Mary Mallon",
+    "text": "Mary Mallon, commonly known as Typhoid Mary, was an Irish-born cook who lived in the United States from a young age and is believed to have infected up to fifty-seven people with the bacteria that cause typhoid fever. The infections caused three confirmed deaths. She was the first person in the U.S. to be identified as an asymptomatic carrier of Salmonella Typhi bacteria.",
+    "words": 63,
+    "url": "https://en.wikipedia.org/wiki/Mary_Mallon",
+    "date": "2026-09-23",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Home Movie: 98571: Florida",
-    "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/HMFlorida98571/98571.mp4",
-    "page": "https://archive.org/details/HMFlorida98571",
-    "date": "2026-09-22",
+    "title": "Oklahoma: Heartland USA",
+    "creator": "University of Oklahoma",
+    "year": "1953",
+    "url": "https://archive.org/download/0819_Oklahoma_Heartland_USA_02_00_56_00/0819_Oklahoma_Heartland_USA_02_00_56_00.m4v",
+    "page": "https://archive.org/details/0819_Oklahoma_Heartland_USA_02_00_56_00",
+    "date": "2026-09-23",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "deer016: Hästoperan - På Musikens Hus",
+      "title": "Where Are We Going Tonight (No End In Sight)",
+      "artist": "Tears of Vomit",
+      "url": "https://archive.org/download/APOS0032/Tears_of_Vomit_-_Where_Are_We_Going_Tonight_No_End_In_Sight.mp3",
+      "page": "https://archive.org/details/APOS0032",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/"
+    },
+    {
+      "title": "Asphalt's parakeet",
+      "artist": "Ice Guild Kaiser",
+      "url": "https://archive.org/download/bof010/01_Trickle_Eyes.mp3",
+      "page": "https://archive.org/details/bof010",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "[MIXG018] Various Artists – Music For Danny DeVito",
       "artist": "",
-      "url": "https://archive.org/download/deer016/deer016-hastoperan-pa_musikens_hus.mp3",
-      "page": "https://archive.org/details/deer016",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/"
+      "url": "https://archive.org/download/MIXG018/01_-_Abel_-_Feel_So_Good.mp3",
+      "page": "https://archive.org/details/MIXG018",
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
     },
     {
-      "title": "Tradition",
-      "artist": "Pangea",
-      "url": "https://archive.org/download/tube114/tube114-01-pangea_-_shamisen.mp3",
-      "page": "https://archive.org/details/tube114",
-      "license": "Creative Commons"
+      "title": "arch051",
+      "artist": "Le cantin",
+      "url": "https://archive.org/download/arch051/arch051-1-Le_Cantin-_-my_lovely_moustache.mp3",
+      "page": "https://archive.org/details/arch051",
+      "license": "http://creativecommons.org/licenses/by-nd/2.5/ca/"
     },
     {
-      "title": "Formigas do Braçal",
-      "artist": "luis antero",
-      "url": "https://archive.org/download/FormigasDoBraal/FormigasDoBraal10m1.mp3",
-      "page": "https://archive.org/details/FormigasDoBraal",
+      "title": "Зомби Утёсов - SADKUZSKAZURS (2014) [MNMN291]",
+      "artist": "Зомби Утёсов",
+      "url": "https://archive.org/download/MNMN291/01.%20Dez%20Obn%20Werth%20Yournuh%20Nord%20Abn.mp3",
+      "page": "https://archive.org/details/MNMN291",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Cubenx-01-01-07",
-      "artist": "Cubenx",
-      "url": "https://archive.org/download/Cubenx-01-01-07/Cubenx-01-01-07.mp3",
-      "page": "https://archive.org/details/Cubenx-01-01-07",
+      "title": "August Traeger Pd_Works",
+      "artist": "August Traeger",
+      "url": "https://archive.org/download/AugustTraeger_Pd_Works/august%20traeger%20-%20pd_works%20-%201%20-%20arpedsa.mp3",
+      "page": "https://archive.org/details/AugustTraeger_Pd_Works",
       "license": "Creative Commons"
     },
     {
-      "title": "Bass Rockin",
-      "artist": "Euphorik Rhythm",
-      "url": "https://archive.org/download/BDW4MP3009/BassRockin_vbr.mp3",
-      "page": "https://archive.org/details/BDW4MP3009",
+      "title": "Hidden - In The Darkest Maze Without Surfaces (2019)",
+      "artist": "Hidden",
+      "url": "https://archive.org/download/RAWCOFFIN330/01.%20In%20The%20Darkest%20Maze%20Without%20Surfaces.mp3",
+      "page": "https://archive.org/details/RAWCOFFIN330",
       "license": "Creative Commons"
     },
     {
-      "title": "United in Silence",
-      "artist": "Rinus Van Alebeek",
-      "url": "https://archive.org/download/zerom02/UnitedInSilence.mp3",
-      "page": "https://archive.org/details/zerom02",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+      "title": "GOD0055 - Dub Ya Children Eaterz - Triple Tau",
+      "artist": "Dub Ya Children Eaterz",
+      "url": "https://archive.org/download/GOD55/01.mp3",
+      "page": "https://archive.org/details/GOD55",
+      "license": "Creative Commons"
     },
     {
-      "title": "The Sound Of Anything",
-      "artist": "JCM",
-      "url": "https://archive.org/download/JCM-TheSoundOfAnything/01ListlessTravel.mp3",
-      "page": "https://archive.org/details/JCM-TheSoundOfAnything",
+      "title": "[Crea002] Candy Panda-Andro & Gigolo",
+      "artist": "Candy Panda",
+      "url": "https://archive.org/download/crea002CandyPanda-androGigolo/01-Floor-A.mp3",
+      "page": "https://archive.org/details/crea002CandyPanda-androGigolo",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Sperm Of Freddie Mercury Is Gay - Sperm Of Freddie Mercury Is Gay (Koosok Doordoma Remix) (Single) (2018)",
-      "artist": "Sperm Of Freddie Mercury Is Gay",
-      "url": "https://archive.org/download/IBR_426/01.%20Sperm%20Of%20Freddie%20Mercury%20Is%20Gay%20%28Koosok%20Doordoma%20Remix%29.mp3",
-      "page": "https://archive.org/details/IBR_426",
+      "title": "[EAR006] mlvch - четыре километра от душного города [EP] (2017)",
+      "artist": "",
+      "url": "https://archive.org/download/ear_006/01%20pvrklsk.mp3",
+      "page": "https://archive.org/details/ear_006",
       "license": "Creative Commons"
     },
     {
-      "title": "[AMR354] August 8th 2010",
-      "artist": "Shadows on the Snow",
-      "url": "https://archive.org/download/amr354August8th2010/August8th2010.mp3",
-      "page": "https://archive.org/details/amr354August8th2010",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+      "title": "Mental Health Consumer: Glide Tracks",
+      "artist": "Mental Health Consumer",
+      "url": "https://archive.org/download/MHC_Glide_Tracks/01_Awake%20Early%20%28Down%20Team%20Up%20mix%29.mp3",
+      "page": "https://archive.org/details/MHC_Glide_Tracks",
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/"
     },
     {
-      "title": "Андрей Гаев - 17 мгновений Донбасса (Single) (2018)",
-      "artist": "Андрей Гаев",
-      "url": "https://archive.org/download/IBR_681/01.%2017%20%D0%BC%D0%B3%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81%D1%81%D0%B0.mp3",
-      "page": "https://archive.org/details/IBR_681",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Genius Of Sadness",
-      "artist": "Gypsy",
-      "url": "https://archive.org/download/GeniusOfSadness/Genius%20of%20Sadness.mp3",
-      "page": "https://archive.org/details/GeniusOfSadness",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "кафедра глубинных изучений полетов в космос вниз головой - пенисулариум (EP) (2020)",
-      "artist": "кафедра глубинных изучений полетов в космос вниз головой",
-      "url": "https://archive.org/download/IBR_1398/01.%20Gatliiiiiiing%20%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB.mp3",
-      "page": "https://archive.org/details/IBR_1398",
+      "title": "Untitled/God Slot, EP",
+      "artist": "PCF Moya",
+      "url": "https://archive.org/download/MERZ0010/01_-_untitled_vbr.mp3",
+      "page": "https://archive.org/details/MERZ0010",
       "license": "Creative Commons"
     }
   ]
