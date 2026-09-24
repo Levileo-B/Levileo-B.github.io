@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T19:13:13+00:00",
+  "updated": "2026-09-24T22:27:49+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,14 +39,19 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+          "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-24T21:21:47+00:00"
+        },
+        {
           "title": "White House restores access to media outlets banned by Trump after judge's order",
           "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-24T17:49:20+00:00"
         },
         {
-          "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-24T15:42:07+00:00"
+          "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+          "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-24T18:06:40+00:00"
         },
         {
           "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
@@ -54,14 +59,9 @@
           "date": "2026-09-24T19:02:36+00:00"
         },
         {
-          "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-          "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-24T16:00:29+00:00"
-        },
-        {
-          "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-          "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-24T15:37:45+00:00"
+          "title": "Priest killed and four injured in knife attack at Polish abbey",
+          "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-24T19:18:12+00:00"
         }
       ]
     },
@@ -105,27 +105,27 @@
         {
           "title": "Senate narrowly votes down resolution calling for end to Iran war",
           "link": "https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html",
-          "date": "2026-09-24T18:53:07+00:00"
+          "date": "2026-09-24T20:36:15+00:00"
+        },
+        {
+          "title": "Trump, Xi to attend state dinner after White House meeting",
+          "link": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+          "date": "2026-09-24T22:09:33+00:00"
         },
         {
           "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
           "link": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
-          "date": "2026-09-24T18:35:11+00:00"
+          "date": "2026-09-24T21:40:19+00:00"
         },
         {
-          "title": "Pete Hegseth reports at least $3.1 million in cash, investments and Bitcoin",
-          "link": "https://www.cnbc.com/2026/09/24/pete-hegseth-financial-disclosure-cash-investments-bitcoin.html",
-          "date": "2026-09-24T18:05:37+00:00"
+          "title": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
+          "link": "https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html",
+          "date": "2026-09-24T20:57:11+00:00"
         },
         {
-          "title": "Oracle sends 'force majeure' notice about data center project — stock sinks 4%",
-          "link": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
-          "date": "2026-09-24T16:48:38+00:00"
-        },
-        {
-          "title": "Bond liquidation wrecks small caps. Here's how bad some traders see it getting",
-          "link": "https://www.cnbc.com/2026/09/24/bond-liquidation-wrecks-small-caps-heres-how-bad-some-traders-see-it-getting.html",
-          "date": "2026-09-24T18:22:51+00:00"
+          "title": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven",
+          "link": "https://www.cnbc.com/2026/09/24/meta-mark-zuckerberg-muse-charm-openai-agent.html",
+          "date": "2026-09-24T21:17:08+00:00"
         }
       ]
     },
@@ -231,6 +231,16 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Microsoft puts Brad Smith in charge of communications",
+          "link": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
+          "date": "2026-09-24T22:08:22+00:00"
+        },
+        {
+          "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+          "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+          "date": "2026-09-24T20:00:34+00:00"
+        },
+        {
           "title": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
           "link": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale",
           "date": "2026-09-24T18:19:23+00:00"
@@ -244,16 +254,6 @@
           "title": "Meta is going to let you build games with AI right on your phone",
           "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
           "date": "2026-09-24T17:52:29+00:00"
-        },
-        {
-          "title": "Muse will apparently let you download its entire filesystem",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-          "date": "2026-09-24T17:14:12+00:00"
-        },
-        {
-          "title": "Muse sure looks a lot like OpenClaw",
-          "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-          "date": "2026-09-24T17:31:50+00:00"
         }
       ]
     },
@@ -262,6 +262,16 @@
       "category": "科技",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
+          "link": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
+          "date": "2026-09-24T19:30:42+00:00"
+        },
+        {
+          "title": "New York defies Trump admin, asks court to shut down Polymarket gambling",
+          "link": "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/",
+          "date": "2026-09-24T19:07:19+00:00"
+        },
         {
           "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
           "link": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
@@ -276,16 +286,6 @@
           "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
           "link": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
           "date": "2026-09-24T18:20:58+00:00"
-        },
-        {
-          "title": "Google's first Suncatcher orbital data center test launches October 1",
-          "link": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
-          "date": "2026-09-24T16:16:34+00:00"
-        },
-        {
-          "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
-          "link": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
-          "date": "2026-09-24T16:01:16+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Stable (YC W20) Is Hiring Product Engineers",
-          "link": "https://www.usestable.com/careers/product-engineer",
-          "date": "2026-09-24T18:29:18+00:00"
+          "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+          "link": "https://koi.rest",
+          "date": "2026-09-24T21:33:03+00:00"
         },
         {
-          "title": "Creatine uptake enhances antitumor immunity",
-          "link": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4",
-          "date": "2026-09-24T18:24:52+00:00"
+          "title": "International observers to investigate Swedish election fraud",
+          "link": "https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken",
+          "date": "2026-09-24T20:55:44+00:00"
         },
         {
-          "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-          "link": "https://github.com/devdotfast/whiteboard",
-          "date": "2026-09-24T17:21:36+00:00"
+          "title": "The Board Game of the Alpha Nerds (2014)",
+          "link": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+          "date": "2026-09-24T20:53:39+00:00"
         },
         {
-          "title": "Why is the liver so weirdly regenerative?",
-          "link": "https://dynomight.substack.com/p/liver",
-          "date": "2026-09-24T16:23:00+00:00"
+          "title": "California is chasing wealth that has feet",
+          "link": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+          "date": "2026-09-24T20:34:32+00:00"
         },
         {
-          "title": "GitHub has not removed malicious imitation software after 3 weeks",
-          "link": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/",
-          "date": "2026-09-24T15:50:26+00:00"
+          "title": "Opus 5.5 is good at explainer videos",
+          "link": "https://launchvideo.io",
+          "date": "2026-09-24T20:28:47+00:00"
         }
       ]
     },
@@ -327,19 +327,14 @@
       "url": "https://lobste.rs/rss",
       "items": [
         {
-          "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8 GB",
-          "link": "https://mouse.dev/blog/muse-runtime-export/",
-          "date": "2026-09-24T14:55:45+00:00"
-        },
-        {
           "title": "We Have Named Arguments at Home",
           "link": "https://corrode.dev/blog/named-arguments-at-home/",
           "date": "2026-09-24T17:04:48+00:00"
         },
         {
-          "title": "The Story of Mel",
-          "link": "https://users.cs.utah.edu/~elb/folklore/mel.html",
-          "date": "2026-09-24T04:09:40+00:00"
+          "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8 GB",
+          "link": "https://mouse.dev/blog/muse-runtime-export/",
+          "date": "2026-09-24T14:55:45+00:00"
         },
         {
           "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
@@ -347,9 +342,14 @@
           "date": "2026-09-24T14:57:57+00:00"
         },
         {
-          "title": "Parsing Expression Grammar vs. regexes: Building Org parser in Lisp that exports to HTML (via SXML)",
-          "link": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
-          "date": "2026-09-24T12:11:25+00:00"
+          "title": "AI Workers' Inquiry 2026",
+          "link": "https://techworkersinquiry.org/ai/",
+          "date": "2026-09-24T17:41:35+00:00"
+        },
+        {
+          "title": "The Story of Mel",
+          "link": "https://users.cs.utah.edu/~elb/folklore/mel.html",
+          "date": "2026-09-24T04:09:40+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
+          "title": "[酷工作] 数据运营负责人-苏州，希望滴滴出行/美团的背景",
+          "link": "https://www.v2ex.com/t/1244685#reply0",
+          "date": "2026-09-24T21:44:10+00:00"
+        },
+        {
+          "title": "[问与答] 准备美国亚马逊买个谷歌手机,请问顺丰集运可以转运到国内吗.",
+          "link": "https://www.v2ex.com/t/1244683#reply0",
+          "date": "2026-09-24T19:21:38+00:00"
+        },
+        {
           "title": "[分享创造] 做了一个面部评分站 face-rating.net：模型在浏览器本地跑，照片全程不出设备，求拍砖",
-          "link": "https://www.v2ex.com/t/1244682#reply0",
+          "link": "https://www.v2ex.com/t/1244682#reply1",
           "date": "2026-09-24T17:56:57+00:00"
         },
         {
           "title": "[程序员] 亲测用 Cloudflare Warp + 存量 Meta 账号可以直接使用 Muse",
-          "link": "https://www.v2ex.com/t/1244681#reply0",
+          "link": "https://www.v2ex.com/t/1244681#reply2",
           "date": "2026-09-24T17:41:17+00:00"
         },
         {
           "title": "[游戏] [分享小小的 dle 游戏] RNGdle：每天抽一个数字，看看它藏着什么规律",
           "link": "https://www.v2ex.com/t/1244680#reply0",
           "date": "2026-09-24T17:06:14+00:00"
-        },
-        {
-          "title": "[薅羊毛] [快跑 AI｜中秋抽奖活动] 每日两场，天天开奖，三天豪送 $6000 兑换码！",
-          "link": "https://www.v2ex.com/t/1244679#reply2",
-          "date": "2026-09-24T17:03:56+00:00"
-        },
-        {
-          "title": "[酷工作] 岗位正在整理！",
-          "link": "https://www.v2ex.com/t/1244678#reply0",
-          "date": "2026-09-24T16:59:32+00:00"
         }
       ]
     },
@@ -423,6 +423,11 @@
       "url": "https://github.blog/feed/",
       "items": [
         {
+          "title": "When chat is the wrong UI",
+          "link": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
+          "date": "2026-09-24T20:00:00+00:00"
+        },
+        {
           "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
           "link": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
           "date": "2026-09-24T18:26:12+00:00"
@@ -433,7 +438,7 @@
           "date": "2026-09-23T18:29:49+00:00"
         },
         {
-          "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
+          "title": "Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need.",
           "link": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
           "date": "2026-09-23T13:00:00+00:00"
         },
@@ -441,11 +446,6 @@
           "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
           "link": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
           "date": "2026-09-18T15:00:00+00:00"
-        },
-        {
-          "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "link": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
-          "date": "2026-09-17T00:26:43+00:00"
         }
       ]
     },
