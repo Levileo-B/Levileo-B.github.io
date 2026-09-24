@@ -1,11 +1,16 @@
 {
-  "updated": "2026-09-24T04:56:25+00:00",
+  "updated": "2026-09-24T10:04:43+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "習近平訪美首日看點：誰同行？第一夫人角色？高規格接待引反彈？",
+          "link": "https://www.bbc.com/zhongwen/articles/cjzxze5peg76o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-24T08:06:12+00:00"
+        },
         {
           "title": "特朗普迎接習近平開展對美國事訪問 貝森特宣佈兩國貿易戰繼續「停火」",
           "link": "https://www.bbc.com/zhongwen/articles/cqvgyl2k378go/trad?at_medium=RSS&at_campaign=rss",
@@ -17,14 +22,9 @@
           "date": "2026-09-23T23:46:37+00:00"
         },
         {
-          "title": "習近平訪美晤特朗普：中美AI超級強國的雄心成為焦點",
-          "link": "https://www.bbc.com/zhongwen/articles/c9kgv31pg8eeo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-23T23:30:08+00:00"
-        },
-        {
-          "title": "中國希望伊朗戰爭結束，但不是以特朗普想要的方式",
-          "link": "https://www.bbc.com/zhongwen/articles/cwp847n9n7m2o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-23T22:52:14+00:00"
+          "title": "OpenAI智能體入侵澳洲政府網站竊取資料 官方兩月後才發覺",
+          "link": "https://www.bbc.com/zhongwen/articles/cq39me0emplyo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-24T06:35:13+00:00"
         },
         {
           "title": "俄羅斯佔領烏克蘭城市：居民靠院中野菜維生，死者無法下葬，遺體「棄置街頭」",
@@ -39,12 +39,17 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+          "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
           "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-24T03:22:54+00:00"
+          "date": "2026-09-24T07:10:58+00:00"
         },
         {
-          "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+          "title": "Trump offers warm welcome as China's Xi arrives for US visit",
+          "link": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-24T03:52:21+00:00"
+        },
+        {
+          "title": "Trump and Xi come face-to-face as US and China jostle for dominance over AI",
           "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-23T22:01:17+00:00"
         },
@@ -56,12 +61,7 @@
         {
           "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
           "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-24T04:37:47+00:00"
-        },
-        {
-          "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-          "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-23T21:26:14+00:00"
+          "date": "2026-09-24T09:28:33+00:00"
         }
       ]
     },
@@ -71,7 +71,7 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
-          "title": "'Proteinflation': Meet the people paying up to £100 for a bag of protein",
+          "title": "£170 a bag? Protein users squeezed as prices soar",
           "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-23T23:12:01+00:00"
         },
@@ -81,19 +81,19 @@
           "date": "2026-09-24T00:50:24+00:00"
         },
         {
-          "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
-          "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-23T22:35:14+00:00"
+          "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
+          "link": "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-23T21:25:01+00:00"
         },
         {
-          "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-          "link": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-23T16:42:47+00:00"
-        },
-        {
-          "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+          "title": "Trump and Xi come face-to-face as US and China jostle for dominance over AI",
           "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-23T22:01:17+00:00"
+        },
+        {
+          "title": "How the oil capital of the US welcomed a solar power boom",
+          "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-23T23:12:22+00:00"
         }
       ]
     },
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
-          "link": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
-          "date": "2026-09-24T04:55:59+00:00"
+          "title": "30-year Treasury yield hits highest level since 2004",
+          "link": "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html",
+          "date": "2026-09-24T09:36:19+00:00"
         },
         {
-          "title": "Chinese authorities reportedly in possession of F-35 components in Hong Kong",
-          "link": "https://www.cnbc.com/2026/09/24/chinaf-f35-components-hong-kong.html",
-          "date": "2026-09-24T01:16:34+00:00"
+          "title": "New York Fed’s Williams says it's 'reasonable' to expect another rate hike by year-end",
+          "link": "https://www.cnbc.com/2026/09/24/feds-williams-another-rate-hike-by-year-end.html",
+          "date": "2026-09-24T09:06:18+00:00"
         },
         {
-          "title": "OpenAI says agent hacked Australian government website without being told to do so",
-          "link": "https://www.cnbc.com/2026/09/24/openai-agent-hacked-australian-government-website-.html",
-          "date": "2026-09-24T04:34:13+00:00"
+          "title": "Judge lifts Trump ban on CNN, MS NOW, Politico from White House",
+          "link": "https://www.cnbc.com/2026/09/24/judge-lifts-trumps-white-house-ban-on-cnn-ms-now-and-politico.html",
+          "date": "2026-09-24T06:22:46+00:00"
         },
         {
-          "title": "Oil falls on report Asia will import highest volume of crude since start of Iran war",
-          "link": "https://www.cnbc.com/2026/09/24/oil-iran-crude-kepler-trump-us-un-.html",
-          "date": "2026-09-24T04:26:39+00:00"
+          "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
+          "link": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
+          "date": "2026-09-24T09:40:14+00:00"
         },
         {
-          "title": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
-          "link": "https://www.cnbc.com/2026/09/24/hormuz-blacksea-ukraine-iran-food-security-united-nations-.html",
-          "date": "2026-09-24T04:02:26+00:00"
+          "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
+          "link": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
+          "date": "2026-09-24T01:56:50+00:00"
         }
       ]
     },
@@ -135,6 +135,21 @@
       "url": "https://sspai.com/feed",
       "items": [
         {
+          "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
+          "link": "https://sspai.com/prime/story/home-made-beverages-5",
+          "date": "2026-09-24T08:20:39+00:00"
+        },
+        {
+          "title": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」",
+          "link": "https://sspai.com/post/113823",
+          "date": "2026-09-24T07:06:19+00:00"
+        },
+        {
+          "title": "古董电脑室十周年记：为什么我不再是收藏家（上）",
+          "link": "https://sspai.com/post/114395",
+          "date": "2026-09-24T04:15:24+00:00"
+        },
+        {
           "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等",
           "link": "https://sspai.com/post/114913",
           "date": "2026-09-24T00:19:37+00:00"
@@ -143,21 +158,6 @@
           "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
           "link": "https://sspai.com/post/114904",
           "date": "2026-09-23T09:02:00+00:00"
-        },
-        {
-          "title": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性",
-          "link": "https://sspai.com/post/114901",
-          "date": "2026-09-23T07:30:57+00:00"
-        },
-        {
-          "title": "Here Wallpaper：把喜欢的地图做成壁纸",
-          "link": "https://sspai.com/post/114211",
-          "date": "2026-09-23T02:19:17+00:00"
-        },
-        {
-          "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
-          "link": "https://sspai.com/post/114878",
-          "date": "2026-09-22T14:00:00+00:00"
         }
       ]
     },
@@ -167,29 +167,29 @@
       "url": "https://www.ifanr.com/feed",
       "items": [
         {
+          "title": "小团队的大创意，为什么能在 HarmonyOS 7 上变为现实？",
+          "link": "https://www.ifanr.com/1682085?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-09-24T09:29:18+00:00"
+        },
+        {
+          "title": "5999 起！无需多言｜小米 18 Pro 系列发布会",
+          "link": "https://www.ifanr.com/1682002?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-09-24T08:30:28+00:00"
+        },
+        {
+          "title": "高通新王牌：个人 AI 时代来了",
+          "link": "https://www.ifanr.com/1682048?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-09-24T08:08:16+00:00"
+        },
+        {
+          "title": "AI 想包办你的一切，高通想包办你的 AI",
+          "link": "https://www.ifanr.com/1681946?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-09-24T05:35:32+00:00"
+        },
+        {
           "title": "智能手表的尽头是「做减法」：小团队如何用「几秒钟」抢占穿戴新蓝海？",
           "link": "https://www.ifanr.com/1681759?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-09-24T03:58:13+00:00"
-        },
-        {
-          "title": "刚刚，苹果「液态玻璃」缔造者，给 Muse 造了个 AI 拓麻歌子",
-          "link": "https://www.ifanr.com/1681928?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-09-24T01:59:48+00:00"
-        },
-        {
-          "title": "早报｜iOS27测试版新功能可阻止摇一摇广告/5999起，小米18 Pro发布/宾利发布首款纯电车Torcal，888马力",
-          "link": "https://www.ifanr.com/1681909?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-09-24T00:17:26+00:00"
-        },
-        {
-          "title": "小米 18 Pro Max 首发评测：最好的小米手机，也是最好玩的小米手机",
-          "link": "https://www.ifanr.com/1681778?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-09-23T13:03:20+00:00"
-        },
-        {
-          "title": "从 iPhone 18 开始，苹果给你的照片打上「看不见」的水印",
-          "link": "https://www.ifanr.com/1681780?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-09-23T09:12:11+00:00"
         }
       ]
     },
@@ -198,6 +198,16 @@
       "category": "科技",
       "url": "https://www.solidot.org/index.rss",
       "items": [
+        {
+          "title": "arXiv 项目获得 1720 万美元的捐赠承诺",
+          "link": "https://www.solidot.org/story?sid=85469",
+          "date": "2026-09-24T07:20:38+00:00"
+        },
+        {
+          "title": "2025 年全台每 46 名新生儿就有 1 个是台积电宝宝",
+          "link": "https://www.solidot.org/story?sid=85468",
+          "date": "2026-09-24T05:34:06+00:00"
+        },
         {
           "title": "年检显示高里程电动车比汽油车更可靠",
           "link": "https://www.solidot.org/story?sid=85467",
@@ -212,16 +222,6 @@
           "title": "英国准备施压 Google 向 Android 和 Chrome 用户展示 AI 助手选择屏",
           "link": "https://www.solidot.org/story?sid=85465",
           "date": "2026-09-23T14:56:12+00:00"
-        },
-        {
-          "title": "全球陆地热浪更早到来、发展得更快",
-          "link": "https://www.solidot.org/story?sid=85464",
-          "date": "2026-09-23T10:47:35+00:00"
-        },
-        {
-          "title": "美国准备再次制裁 ICC",
-          "link": "https://www.solidot.org/story?sid=85463",
-          "date": "2026-09-23T10:25:44+00:00"
         }
       ]
     },
@@ -230,6 +230,11 @@
       "category": "科技",
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
+        {
+          "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+          "link": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+          "date": "2026-09-24T09:04:18+00:00"
+        },
         {
           "title": "Meta is making a standalone Muse AI gadget",
           "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
@@ -249,11 +254,6 @@
           "title": "Muse is coming to Meta smart glasses",
           "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
           "date": "2026-09-23T23:40:56+00:00"
-        },
-        {
-          "title": "Meta ditches the camera on its newest smart glasses",
-          "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-          "date": "2026-09-23T23:40:34+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Show HN: How long do I need to work at my salary before I can coast, or retire?",
-          "link": "https://github.com/karmanyaahm/budget-tools/tree/main/fire",
-          "date": "2026-09-24T03:53:54+00:00"
+          "title": "AI has no intent and no motivation",
+          "link": "https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html",
+          "date": "2026-09-24T09:13:25+00:00"
+        },
+        {
+          "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+          "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+          "date": "2026-09-24T08:23:03+00:00"
+        },
+        {
+          "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+          "link": "https://transluce.org/agent-activity",
+          "date": "2026-09-24T05:21:10+00:00"
+        },
+        {
+          "title": "Contrastive Language Models",
+          "link": "https://contrastive-lm.notion.site/",
+          "date": "2026-09-24T04:20:59+00:00"
         },
         {
           "title": "Ideas on modernizing the open-source desktop",
           "link": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
           "date": "2026-09-24T02:52:09+00:00"
-        },
-        {
-          "title": "Australia says OpenAI agent hacked into government website",
-          "link": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
-          "date": "2026-09-24T01:24:00+00:00"
-        },
-        {
-          "title": "Liquid Network Security Incident Assessment",
-          "link": "https://blog.blockstream.com/liquid-network-security-incident-assessment/",
-          "date": "2026-09-24T01:18:33+00:00"
-        },
-        {
-          "title": "FLAWED's Flaws and What This Means for Industry Research",
-          "link": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
-          "date": "2026-09-24T01:16:33+00:00"
         }
       ]
     },
@@ -332,14 +332,14 @@
           "date": "2026-09-23T14:34:37+00:00"
         },
         {
+          "title": "The Story of Mel",
+          "link": "https://users.cs.utah.edu/~elb/folklore/mel.html",
+          "date": "2026-09-24T04:09:40+00:00"
+        },
+        {
           "title": "I want my mesh networks to be signed, not encrypted",
           "link": "https://andanti.no/blog/SignedMesh.html",
           "date": "2026-09-23T14:39:46+00:00"
-        },
-        {
-          "title": "The GNOME LLM Policy That I Want",
-          "link": "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/",
-          "date": "2026-09-23T10:28:14+00:00"
         },
         {
           "title": "Ideas on modernizing the open-source desktop",
@@ -347,9 +347,9 @@
           "date": "2026-09-23T19:49:57+00:00"
         },
         {
-          "title": "KDE for People",
-          "link": "https://kdeforpeople.com",
-          "date": "2026-09-23T16:08:33+00:00"
+          "title": "The GNOME LLM Policy That I Want",
+          "link": "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/",
+          "date": "2026-09-23T10:28:14+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[程序员] 鹈鹕动物园开张了",
-          "link": "https://www.v2ex.com/t/1244512#reply0",
-          "date": "2026-09-24T04:44:27+00:00"
+          "title": "[AI Agent 智能体] 有时候你真的不得不服 zcode 团队",
+          "link": "https://www.v2ex.com/t/1244628#reply0",
+          "date": "2026-09-24T09:57:18+00:00"
         },
         {
-          "title": "[SSD] 内存年底有望回归到涨价前吗？",
-          "link": "https://www.v2ex.com/t/1244511#reply3",
-          "date": "2026-09-24T04:42:21+00:00"
+          "title": "[分享创造] 做了个用自己衣服生成穿搭的微信小程序，想找几位 V 友试试",
+          "link": "https://www.v2ex.com/t/1244627#reply0",
+          "date": "2026-09-24T09:56:19+00:00"
         },
         {
-          "title": "[问与答] 有没有有经验的老哥们，准备起诉离婚了，目前工资到手 2 万，抚养费一般判给多少？\n- 成都隔壁三线城市\n- 判太高，怕失业了，抚养费都交不起",
-          "link": "https://www.v2ex.com/t/1244510#reply2",
-          "date": "2026-09-24T04:40:44+00:00"
+          "title": "[Java] [ Java 开发者福音] Lithe-IDEA：专为 Spring Boot 优化的轻量级 Java IDE",
+          "link": "https://www.v2ex.com/t/1244626#reply1",
+          "date": "2026-09-24T09:54:56+00:00"
         },
         {
-          "title": "[程序员] 想自建香港流媒体梯子，哪家比较好？",
-          "link": "https://www.v2ex.com/t/1244509#reply2",
-          "date": "2026-09-24T04:35:47+00:00"
+          "title": "[Apple] 新版本的 Altstore 可以脱离电脑刷新了。",
+          "link": "https://www.v2ex.com/t/1244625#reply0",
+          "date": "2026-09-24T09:50:00+00:00"
         },
         {
-          "title": "[问与答] opus 5.5 的能力真能赶上 fable 5.1 么？",
-          "link": "https://www.v2ex.com/t/1244508#reply4",
-          "date": "2026-09-24T04:29:29+00:00"
+          "title": "[视觉小说] Vibe 了一个视觉小说导航站，选作品更直观",
+          "link": "https://www.v2ex.com/t/1244624#reply0",
+          "date": "2026-09-24T09:41:02+00:00"
         }
       ]
     },
@@ -541,9 +541,19 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
-          "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
-          "link": "https://www.qbitai.com/2026/09/496740.html",
-          "date": "2026-09-24T04:11:51+00:00"
+          "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
+          "link": "https://www.qbitai.com/2026/09/496779.html",
+          "date": "2026-09-24T05:46:10+00:00"
+        },
+        {
+          "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
+          "link": "https://www.qbitai.com/2026/09/496778.html",
+          "date": "2026-09-24T05:45:20+00:00"
+        },
+        {
+          "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
+          "link": "https://www.qbitai.com/2026/09/496767.html",
+          "date": "2026-09-24T05:19:55+00:00"
         },
         {
           "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
@@ -554,16 +564,6 @@
           "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
           "link": "https://www.qbitai.com/2026/09/496647.html",
           "date": "2026-09-24T02:23:12+00:00"
-        },
-        {
-          "title": "成立九年，中科类脑把积累装进Token工厂",
-          "link": "https://www.qbitai.com/2026/09/496615.html",
-          "date": "2026-09-24T00:48:02+00:00"
-        },
-        {
-          "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
-          "link": "https://www.qbitai.com/2026/09/496609.html",
-          "date": "2026-09-23T10:35:16+00:00"
         }
       ]
     },
@@ -596,6 +596,38 @@
           "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
           "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
           "date": "2026-09-22T13:42:05+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Nature",
+      "category": "科研",
+      "url": "https://www.nature.com/nature.rss",
+      "items": [
+        {
+          "title": "Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling",
+          "link": "https://www.nature.com/articles/s41586-026-11189-w",
+          "date": "2026-09-23T00:00:00+00:00"
+        },
+        {
+          "title": "Chiral oxazolidinones <i>via</i> biocatalytic aziridination of unactivated alkenes",
+          "link": "https://www.nature.com/articles/s41586-026-11169-0",
+          "date": "2026-09-23T00:00:00+00:00"
+        },
+        {
+          "title": "Bank accounts reveal the fingerprints of abusive financial control",
+          "link": "https://www.nature.com/articles/d41586-026-03021-2",
+          "date": "2026-09-23T00:00:00+00:00"
+        },
+        {
+          "title": "Competition heats up in the regenerative-medicine ranks",
+          "link": "https://www.nature.com/articles/d41586-026-02856-z",
+          "date": "2026-09-23T00:00:00+00:00"
+        },
+        {
+          "title": "Huge hoard of metal bars hints at vast Iron Age trade",
+          "link": "https://www.nature.com/articles/d41586-026-02986-4",
+          "date": "2026-09-23T00:00:00+00:00"
         }
       ]
     },
@@ -633,7 +665,6 @@
     }
   ],
   "failed": [
-    "36 氪",
-    "Nature"
+    "36 氪"
   ]
 }
