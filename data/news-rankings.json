@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-25T15:47:40+00:00",
-  "updated": "2026-09-25T13:51:34+00:00",
+  "generated_at": "2026-09-25T15:52:02+00:00",
+  "updated": "2026-09-25T15:52:02+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-09-21T00:00:00+08:00",
-    "end": "2026-09-25T15:47:40+00:00",
-    "total": 794,
+    "end": "2026-09-25T15:52:02+00:00",
+    "total": 820,
     "items": [
       {
         "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
@@ -69,6 +69,22 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "Special agents' blood and urine test results stolen in FBI hack",
+        "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o",
+        "date": "2026-09-25T13:56:16+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
@@ -137,21 +153,6 @@
         "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
         "link": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
         "date": "2026-09-23T15:23:05+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "I said no and Apple said yes",
-        "link": "https://dbushell.com/2026/09/22/apple-intelligence/",
-        "date": "2026-09-22T07:27:56+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -761,6 +762,22 @@
           "observed_days": 2
         },
         {
+          "title": "Special agents' blood and urine test results stolen in FBI hack",
+          "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o",
+          "date": "2026-09-25T13:56:16+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
           "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o",
           "date": "2026-09-25T06:40:18+00:00",
@@ -877,20 +894,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "OpenAI智能體入侵澳洲政府網站竊取資料 官方兩月後才發覺",
-          "link": "https://www.bbc.com/zhongwen/articles/cq39me0emplyo/trad",
-          "date": "2026-09-24T06:35:13+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
@@ -909,6 +912,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "Special agents' blood and urine test results stolen in FBI hack",
+          "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o",
+          "date": "2026-09-25T13:56:16+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
@@ -1027,28 +1046,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "£170 a bag? Protein users squeezed as prices soar",
-          "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o",
-          "date": "2026-09-23T23:12:01+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-09-01T00:00:00+08:00",
-    "end": "2026-09-25T15:47:40+00:00",
-    "total": 3529,
+    "end": "2026-09-25T15:52:02+00:00",
+    "total": 3555,
     "items": [
       {
         "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
