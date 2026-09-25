@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-25T15:52:02+00:00",
-  "updated": "2026-09-25T15:52:02+00:00",
+  "generated_at": "2026-09-25T18:39:41+00:00",
+  "updated": "2026-09-25T18:39:41+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-09-21T00:00:00+08:00",
-    "end": "2026-09-25T15:52:02+00:00",
-    "total": 820,
+    "end": "2026-09-25T18:39:41+00:00",
+    "total": 843,
     "items": [
       {
         "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
@@ -23,6 +23,38 @@
         ],
         "source_count": 2,
         "observed_days": 3
+      },
+      {
+        "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+        "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+        "date": "2026-09-25T15:29:25+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发",
+          "财经"
+        ],
+        "sources": [
+          "CNBC",
+          "Hacker News"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
+        "title": "Special agents' blood and urine test results stolen in FBI hack",
+        "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o",
+        "date": "2026-09-25T13:56:16+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 2
       },
       {
         "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
@@ -69,22 +101,6 @@
         ],
         "source_count": 2,
         "observed_days": 2
-      },
-      {
-        "title": "Special agents' blood and urine test results stolen in FBI hack",
-        "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o",
-        "date": "2026-09-25T13:56:16+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
       },
       {
         "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
@@ -148,21 +164,6 @@
         ],
         "source_count": 2,
         "observed_days": 1
-      },
-      {
-        "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
-        "link": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
-        "date": "2026-09-23T15:23:05+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 1
       }
     ],
     "by_category": {
@@ -181,6 +182,34 @@
             "MIT Technology Review"
           ],
           "source_count": 2,
+          "observed_days": 3
+        },
+        {
+          "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+          "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+          "date": "2026-09-24T12:10:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "AI is dominating the conversation at Climate Week",
+          "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+          "date": "2026-09-24T10:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
           "observed_days": 3
         },
         {
@@ -240,9 +269,9 @@
           "observed_days": 3
         },
         {
-          "title": "时隔十年，AI大牛署名新论文",
-          "link": "https://www.qbitai.com/2026/09/496834.html",
-          "date": "2026-09-24T12:58:55+00:00",
+          "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
+          "link": "https://www.qbitai.com/2026/09/497278.html",
+          "date": "2026-09-25T13:24:20+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -254,57 +283,29 @@
           "observed_days": 2
         },
         {
-          "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
-          "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
-          "date": "2026-09-24T12:10:00+00:00",
+          "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+          "link": "https://www.qbitai.com/2026/09/497177.html",
+          "date": "2026-09-25T13:15:45+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+          "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+          "date": "2026-09-25T12:10:00+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
           ],
           "sources": [
             "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "AI is dominating the conversation at Climate Week",
-          "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
-          "date": "2026-09-24T10:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
-          "link": "https://www.qbitai.com/2026/09/496816.html",
-          "date": "2026-09-24T08:20:12+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
-          "link": "https://www.qbitai.com/2026/09/496779.html",
-          "date": "2026-09-24T05:46:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -326,6 +327,22 @@
           ],
           "source_count": 2,
           "observed_days": 3
+        },
+        {
+          "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "date": "2026-09-25T15:29:25+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "财经"
+          ],
+          "sources": [
+            "CNBC",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 2
         },
         {
           "title": "Abandoning Scientific Linux Was a Mistake",
@@ -429,52 +446,24 @@
             "美团技术团队"
           ],
           "source_count": 1,
-          "observed_days": 4
+          "observed_days": 5
         },
         {
-          "title": "Parsing Expression Grammar vs. regexes: Building Org parser in Lisp that exports to HTML (via SXML)",
-          "link": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
-          "date": "2026-09-24T12:11:25+00:00",
+          "title": "Rendering huge pull requests in the GitHub Copilot app",
+          "link": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+          "date": "2026-09-23T18:29:49+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "Lobsters"
+            "GitHub Blog"
           ],
           "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "The Story of Mel",
-          "link": "https://users.cs.utah.edu/~elb/folklore/mel.html",
-          "date": "2026-09-24T04:09:40+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         }
       ],
       "科技": [
-        {
-          "title": "部分三星智能冰箱在升级固件之后停止工作",
-          "link": "https://www.solidot.org/story?sid=85472",
-          "date": "2026-09-24T12:51:49+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
         {
           "title": "14.99 万元起，全新旅行者 7 开启预售，插混燃油两手抓",
           "link": "https://www.ifanr.com/1682158",
@@ -487,7 +476,7 @@
             "爱范儿"
           ],
           "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
           "title": "奕境 X9 上市 28.98 万元起！华为系大六座有了一个新选项",
@@ -501,7 +490,7 @@
             "爱范儿"
           ],
           "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
           "title": "1/3 价格，1/8 重量，Meta 新眼镜秒杀 Vision Pro 了？",
@@ -515,35 +504,7 @@
             "爱范儿"
           ],
           "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "微软放弃封禁 Microslop",
-          "link": "https://www.solidot.org/story?sid=85471",
-          "date": "2026-09-24T10:47:28+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "阿根廷生育率十年内下降五成",
-          "link": "https://www.solidot.org/story?sid=85470",
-          "date": "2026-09-24T10:09:11+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
           "title": "00 后开发者，给我安利了这几个超好用的鸿蒙新能力",
@@ -557,7 +518,7 @@
             "爱范儿"
           ],
           "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
           "title": "新玩意 252｜少数派的编辑们最近买了啥？",
@@ -571,21 +532,7 @@
             "少数派"
           ],
           "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "小团队的大创意，为什么能在 HarmonyOS 7 上变为现实？",
-          "link": "https://www.ifanr.com/1682085",
-          "date": "2026-09-24T09:29:18+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
           "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
@@ -597,6 +544,62 @@
           ],
           "sources": [
             "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」",
+          "link": "https://sspai.com/post/113823",
+          "date": "2026-09-24T07:06:19+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "古董电脑室十周年记：为什么我不再是收藏家（上）",
+          "link": "https://sspai.com/post/114395",
+          "date": "2026-09-24T04:15:24+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "大象使用药用植物治疗自己",
+          "link": "https://www.solidot.org/story?sid=85477",
+          "date": "2026-09-25T14:28:43+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Solidot"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "全球平均气温每上升 1C 德国夏天气温上升 2.62C",
+          "link": "https://www.solidot.org/story?sid=85476",
+          "date": "2026-09-25T13:36:46+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Solidot"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -646,6 +649,76 @@
           "observed_days": 3
         },
         {
+          "title": "This “rare” autism-linked genetic disorder may be far more common than scientists thought",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260924020405.htm",
+          "date": "2026-09-25T13:32:46+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "CRISPR could help doctors attack blood cancer without destroying healthy cells",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260924020408.htm",
+          "date": "2026-09-25T13:13:03+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "CERN has begun disconnecting the Large Hadron Collider",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260925005430.htm",
+          "date": "2026-09-25T13:01:20+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Earth is tearing apart beneath the Pacific Northwest",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
+          "date": "2026-09-25T12:20:18+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "“We found something never seen before” – A dead star is producing a shock wave that shouldn’t exist",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260924020410.htm",
+          "date": "2026-09-25T03:19:34+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
           "title": "Distant time crystals can somehow fall into the same rhythm",
           "link": "https://www.sciencedaily.com/releases/2026/09/260923035934.htm",
           "date": "2026-09-24T13:16:41+00:00",
@@ -672,79 +745,25 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Scientists find two tiny new snails with shells that close like doors",
-          "link": "https://www.sciencedaily.com/releases/2026/09/260923035936.htm",
-          "date": "2026-09-24T11:59:43+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "“We just need to go back” – Uranus’ moon Ariel may have hidden a 100-mile-deep ocean",
-          "link": "https://www.sciencedaily.com/releases/2026/09/260923035951.htm",
-          "date": "2026-09-24T11:19:19+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "ADHD and autism diagnoses have surged. A massive study may help explain why",
-          "link": "https://www.sciencedaily.com/releases/2026/09/260924020353.htm",
-          "date": "2026-09-24T06:03:53+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Youthful fans of YouTube sports videos stick to the sofa",
-          "link": "https://www.nature.com/articles/d41586-026-02989-1",
-          "date": "2026-09-24T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "AI agent hacks government website for first time: why this breach matters",
-          "link": "https://www.nature.com/articles/d41586-026-03024-z",
-          "date": "2026-09-24T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "综合": [
+        {
+          "title": "Special agents' blood and urine test results stolen in FBI hack",
+          "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o",
+          "date": "2026-09-25T13:56:16+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
         {
           "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
           "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo",
@@ -760,22 +779,6 @@
           ],
           "source_count": 2,
           "observed_days": 2
-        },
-        {
-          "title": "Special agents' blood and urine test results stolen in FBI hack",
-          "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o",
-          "date": "2026-09-25T13:56:16+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
         },
         {
           "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
@@ -826,51 +829,9 @@
           "observed_days": 1
         },
         {
-          "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
-          "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo",
-          "date": "2026-09-24T14:55:34+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-          "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo",
-          "date": "2026-09-24T12:49:32+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-          "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o",
-          "date": "2026-09-24T11:59:23+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "特朗普為何親赴機場，超規格接待習近平？",
-          "link": "https://www.bbc.com/zhongwen/articles/cmkgw6r62jr7o/trad",
-          "date": "2026-09-24T10:20:23+00:00",
+          "title": "美中各從「白宮習特會」得到什麼？",
+          "link": "https://www.bbc.com/zhongwen/articles/cq2dwkw2j0r4o/trad",
+          "date": "2026-09-25T12:15:11+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -882,15 +843,57 @@
           "observed_days": 2
         },
         {
-          "title": "習近平訪美首日看點：誰同行？第一夫人角色？高規格接待引反彈？",
-          "link": "https://www.bbc.com/zhongwen/articles/cjzxze5peg76o/trad",
-          "date": "2026-09-24T08:06:12+00:00",
+          "title": "習近平促特朗普「反對台獨」，北京措辭升級要的是什麼？",
+          "link": "https://www.bbc.com/zhongwen/articles/cm3eqkqq1pweo/trad",
+          "date": "2026-09-25T10:23:53+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
           ],
           "sources": [
             "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "數百艘中國漁船出現在越南外海，北京想要什麼？",
+          "link": "https://www.bbc.com/zhongwen/articles/ck1l6ynmmvlvo/trad",
+          "date": "2026-09-25T07:22:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "習近平訪美：白宮國宴誰出席、誰缺席？意味了什麼？",
+          "link": "https://www.bbc.com/zhongwen/articles/c5zjzl8n2epxo/trad",
+          "date": "2026-09-25T06:00:47+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+          "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo",
+          "date": "2026-09-25T03:57:09+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -898,17 +901,17 @@
       ],
       "财经": [
         {
-          "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo",
-          "date": "2026-09-23T22:23:28+00:00",
+          "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "date": "2026-09-25T15:29:25+00:00",
           "date_is_observed": false,
           "categories": [
-            "综合",
+            "开发",
             "财经"
           ],
           "sources": [
-            "BBC Business",
-            "BBC World"
+            "CNBC",
+            "Hacker News"
           ],
           "source_count": 2,
           "observed_days": 2
@@ -927,7 +930,23 @@
             "BBC World"
           ],
           "source_count": 2,
-          "observed_days": 1
+          "observed_days": 2
+        },
+        {
+          "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo",
+          "date": "2026-09-23T22:23:28+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
         },
         {
           "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
@@ -976,6 +995,48 @@
           ],
           "source_count": 2,
           "observed_days": 1
+        },
+        {
+          "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+          "link": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o",
+          "date": "2026-09-25T09:48:33+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "CEO who posted 'Lake America' sweatshirt photos is no longer with the company",
+          "link": "https://www.cnbc.com/2026/09/25/ceo-who-posted-lake-america-sweatshirt-photos-has-left-the-company.html",
+          "date": "2026-09-25T04:14:11+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "'We're all broke': Would you chase a friend for £5?",
+          "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o",
+          "date": "2026-09-24T23:00:45+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 2
         },
         {
           "title": "Oracle sends 'force majeure' notice about data center project — stock sinks 4%",
@@ -990,70 +1051,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Trump, Xi to attend state dinner after White House meeting",
-          "link": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
-          "date": "2026-09-24T14:28:52+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Reported assaults on Britain's rail services rise by more than a third",
-          "link": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo",
-          "date": "2026-09-24T13:07:28+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-          "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o",
-          "date": "2026-09-24T00:50:24+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "How the oil capital of the US welcomed a solar power boom",
-          "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo",
-          "date": "2026-09-23T23:12:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-09-01T00:00:00+08:00",
-    "end": "2026-09-25T15:52:02+00:00",
-    "total": 3555,
+    "end": "2026-09-25T18:39:41+00:00",
+    "total": 3578,
     "items": [
       {
         "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
@@ -1100,6 +1105,38 @@
         ],
         "source_count": 2,
         "observed_days": 3
+      },
+      {
+        "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+        "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+        "date": "2026-09-25T15:29:25+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发",
+          "财经"
+        ],
+        "sources": [
+          "CNBC",
+          "Hacker News"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
+        "title": "Special agents' blood and urine test results stolen in FBI hack",
+        "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o",
+        "date": "2026-09-25T13:56:16+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 2
       },
       {
         "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
@@ -1174,38 +1211,6 @@
         "sources": [
           "Hacker News",
           "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-        "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
-        "date": "2026-09-17T06:38:43+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-        "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o",
-        "date": "2026-09-15T22:13:10+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
         ],
         "source_count": 2,
         "observed_days": 2
@@ -1404,6 +1409,22 @@
           "observed_days": 3
         },
         {
+          "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "date": "2026-09-25T15:29:25+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "财经"
+          ],
+          "sources": [
+            "CNBC",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Abandoning Scientific Linux Was a Mistake",
           "link": "https://blog.melashri.net/posts/scientific-linux-mistake/",
           "date": "2026-09-23T08:46:39+00:00",
@@ -1491,21 +1512,6 @@
           "sources": [
             "BBC World",
             "Hacker News"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Linux Zoom Client Proactively Reads X11 Clipboard",
-          "link": "https://hachyderm.io/@simontatham/117201594980991062",
-          "date": "2026-09-12T12:38:53+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
           ],
           "source_count": 2,
           "observed_days": 2
@@ -1803,6 +1809,22 @@
       ],
       "综合": [
         {
+          "title": "Special agents' blood and urine test results stolen in FBI hack",
+          "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o",
+          "date": "2026-09-25T13:56:16+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
           "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo",
           "date": "2026-09-23T22:23:28+00:00",
@@ -1945,11 +1967,29 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        }
+      ],
+      "财经": [
+        {
+          "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "date": "2026-09-25T15:29:25+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "财经"
+          ],
+          "sources": [
+            "CNBC",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 2
         },
         {
-          "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-          "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo",
-          "date": "2026-09-08T04:39:14+00:00",
+          "title": "Special agents' blood and urine test results stolen in FBI hack",
+          "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o",
+          "date": "2026-09-25T13:56:16+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -1961,9 +2001,7 @@
           ],
           "source_count": 2,
           "observed_days": 2
-        }
-      ],
-      "财经": [
+        },
         {
           "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
           "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo",
@@ -2080,38 +2118,6 @@
           "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
           "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o",
           "date": "2026-09-12T17:42:38+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-          "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o",
-          "date": "2026-09-09T03:03:32+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-          "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo",
-          "date": "2026-09-08T04:39:14+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
