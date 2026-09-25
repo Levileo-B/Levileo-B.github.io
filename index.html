@@ -71,13 +71,45 @@
     </div>
   </section>
 
-  <!-- 每日热点 -->
+  <!-- 热点资讯：周期榜单与每日分类快照 -->
   <section class="section" id="news">
     <div class="section__bar">
-      <h2 class="section__title">每日热点</h2>
+      <h2 class="section__title">热点资讯</h2>
       <span class="news__stamp"><span id="news-updated"></span>　<a href="hot/">实时热点 →</a></span>
     </div>
+    <div class="rankings" id="news-rankings" aria-busy="true">
+      <div class="rankings__toolbar">
+        <p class="rankings__intro">回顾本周焦点，发现本月值得关注的内容。</p>
+        <label class="rankings__filter" for="ranking-category">榜单分类
+          <select id="ranking-category" class="local-picker" disabled>
+            <option value="">全部分类</option>
+          </select>
+        </label>
+      </div>
+      <p class="rankings__status" id="ranking-status" role="status">正在整理热点榜单…</p>
+      <div class="rankings__grid">
+        <article class="card ranking-card" aria-labelledby="week-ranking-title">
+          <div class="ranking-card__head">
+            <div><span class="ranking-card__eyebrow">WEEKLY</span><h3 id="week-ranking-title">本周热点信息榜</h3></div>
+            <span class="ranking-card__badge">TOP 10</span>
+          </div>
+          <p class="ranking-card__period" id="week-ranking-period">本周一至今 · 新加坡时间</p>
+          <div id="week-ranking-body"><p class="news__empty">正在加载周榜…</p></div>
+        </article>
+        <article class="card ranking-card" aria-labelledby="month-ranking-title">
+          <div class="ranking-card__head">
+            <div><span class="ranking-card__eyebrow">MONTHLY</span><h3 id="month-ranking-title">本月热点信息榜</h3></div>
+            <span class="ranking-card__badge">TOP 10</span>
+          </div>
+          <p class="ranking-card__period" id="month-ranking-period">本月一日至今 · 新加坡时间</p>
+          <div id="month-ranking-body"><p class="news__empty">正在加载月榜…</p></div>
+        </article>
+      </div>
+      <p class="rankings__note">统计本期发布的已收录新闻，依次按来源数、收录天数、发布时间排序；同链接或同标题合并，每个来源每天只计一次。无发布日期时按首次收录时间归期。这是本站 RSS 收录榜，不代表全网阅读量。</p>
+      <noscript><p class="news__empty">请启用 JavaScript 查看热点榜单。</p></noscript>
+    </div>
     <div class="card">
+      <h3 class="news__daily-title">每日热点</h3>
       <div class="news" id="news-body">
         <p class="news__empty">正在加载新闻…</p>
       </div>
@@ -343,6 +375,7 @@
 <script src="assets/main.js"></script>
 <script src="assets/bgm.js"></script>
 <script src="assets/news.js"></script>
+<script src="assets/news-rankings.js"></script>
 <script src="assets/daily.js"></script>
 <script src="assets/local.js"></script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

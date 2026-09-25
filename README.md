@@ -12,6 +12,7 @@
 - 基础无障碍支持：跳转链接、语义化标签、键盘焦点样式
 - 自定义 404 页面
 - **热点窗格**：GitHub Actions 每小时抓取 22 个 RSS 源，按六个分类聚合
+- **本周 / 本月热点信息榜**：历史新闻自动积累，按自然周、自然月生成 Top 10，支持按分类查看
 - **实时热点页**：浏览器直连拉取 HN / GitHub / DEV / Stack Overflow / Mastodon / 中文维基六个榜单，另附各大热搜入口
 - **附近最热**：按访客所在地区展示当地新闻，可手动切换地区
 - **每日**：LeetCode 每日一题、每日英文短文（维基百科精选）、每日趣味视频（Prelinger 公有领域短片）
@@ -33,6 +34,7 @@
 │   ├── game.css            # 游戏页样式
 │   ├── main.js             # 主题切换、页脚年份
 │   ├── news.js             # 热点窗格渲染
+│   ├── news-rankings.js    # 本周 / 本月热点榜、分类筛选与更新状态
 │   ├── daily.js            # 每日一题 / 每日英文渲染
 │   └── bgm.js              # 背景音乐开关（Web Audio 合成）
 ├── games/
@@ -63,9 +65,12 @@
 │       └── app.js          # 界面层
 ├── data/
 │   ├── news.json           # 由 Actions 生成，不要手工改
+│   ├── news-history.json   # 最近 45 天新闻收录历史（生成文件）
+│   ├── news-rankings.json  # 周榜 / 月榜及各分类 Top 10（生成文件）
 │   └── daily.json          # 同上
 ├── scripts/
 │   ├── fetch_news.py       # RSS 抓取脚本（仅标准库）
+│   ├── build_news_rankings.py # 积累快照、去重并生成周榜 / 月榜
 │   ├── fetch_daily.py      # 每日一题 / 英文短文 / 视频 / 音乐歌单
 │   └── fetch_local.py      # 各地区本地新闻（复用 fetch_news 的解析器）
 └── .github/workflows/
@@ -81,6 +86,35 @@
 2. `scripts/fetch_news.py` 并发抓取 22 个源（8 线程），写入 `data/news.json`
 3. 有变化就自动 commit 回仓库，Pages 随之更新
 4. 首页 `assets/news.js` 读取这个静态 JSON，按 `category` 分类聚合后渲染
+
+**首页的「本周热点信息榜 / 本月热点信息榜」基于已积累的 RSS 快照。**
+每次抓取后，`scripts/build_news_rankings.py` 将条目并入 `data/news-history.json`，
+再生成 `data/news-rankings.json`，随同其他数据一起由 Actions 提交。页面只加载榜单文件，
+不下载完整历史；两个榜单可同时按分类筛选，各显示最多 10 条。
+
+- 统计时区固定为新加坡时间（UTC+8）；本周从周一零点起，本月从一日零点起，截止本次生成时间。
+- 只纳入本期发布的已收录新闻；缺少发布日期时使用首次收录时间，页面会明确标注。
+- 链接移除常见追踪参数后去重，同标题（忽略大小写、全半角及重复空白）的新闻合并；不做语义相近事件的推断。
+- 排名依次比较不同 RSS 来源数、收录天数、发布时间。同一来源一天只计一次，重复运行不会提高热度。
+- 「收录天数」反映新闻在 RSS 中持续出现的天数，不代表阅读量、点击量或全网热搜指数。
+- 保存最近 45 天历史以覆盖完整自然月及跨月自然周；榜单仅覆盖实际抓取到的内容，不保证完整收录。
+- 抓取失败时保留旧快照并继续生成榜单，不新增虚假的收录日期；超过 24 小时未更新会提示延迟，跨周期的旧榜单会显示等待更新。
+
+首次可从本地 Git 历史补录（需有相应提交，浅克隆只会读取本地现有历史）：
+
+```bash
+python scripts/build_news_rankings.py --backfill
+```
+
+日常生成与统计逻辑验证：
+
+```bash
+python scripts/build_news_rankings.py
+python -m unittest discover -s tests -v
+node --test tests/news-rankings.test.js
+```
+
+所有数据文件都由脚本生成，不要手工修改。历史文件损坏时脚本会停止，避免覆盖已有积累。
 
 **`/hot/` 的「实时热点」是打开即拉。** 只收录那些开放 CORS 且不需要 API key 的接口，
 所以能在浏览器里直连：Hacker News、GitHub 近 7 天新星、DEV 近 7 天热门文章、Stack Overflow 热门问题、

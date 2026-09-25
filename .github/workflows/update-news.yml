@@ -23,8 +23,18 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: 验证热点榜统计逻辑
+        run: |
+          python -m unittest discover -s tests -v
+          node --test tests/news-rankings.test.js
+
       - name: 抓取新闻源
         run: python scripts/fetch_news.py
+        continue-on-error: true
+
+      - name: 积累历史并生成周榜与月榜
+        # 抓取失败时仍按当前周期生成榜单，旧快照不会重复计数。
+        run: python scripts/build_news_rankings.py
 
       - name: 抓取每日一题与英文短文
         run: python scripts/fetch_daily.py

@@ -357,6 +357,37 @@ a:hover { text-decoration: underline; }
 .facts__value { font-weight: 600; }
 
 /* ---------- 热点新闻 ---------- */
+.rankings { margin-bottom: 1.75rem; }
+.rankings__toolbar { display: flex; align-items: center; justify-content: space-between; gap: .75rem; flex-wrap: wrap; }
+.rankings__intro { margin: 0; color: var(--text-muted); font-size: .92rem; }
+.rankings__filter { display: flex; align-items: center; gap: .6rem; font-size: .82rem; color: var(--text-muted); }
+.rankings__status { margin: .65rem 0 1rem; color: var(--text-muted); font-size: .78rem; }
+.rankings__status--stale { color: var(--text); }
+.rankings__grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.25rem; align-items: start; }
+.ranking-card { min-width: 0; padding: 1.35rem; }
+.ranking-card__head { display: flex; align-items: center; justify-content: space-between; gap: .5rem; }
+.ranking-card__eyebrow { color: var(--accent); font-size: .68rem; font-weight: 700; letter-spacing: .12em; }
+.ranking-card__head h3 { margin: .15rem 0 0; font-size: 1.15rem; }
+.ranking-card__badge { padding: .2rem .6rem; border-radius: 999px; color: var(--accent); background: var(--accent-soft); font-size: .68rem; font-weight: 700; white-space: nowrap; }
+.ranking-card__period { margin: .5rem 0 1rem; font-size: .75rem; color: var(--text-muted); }
+.ranking-list { margin: 0; padding: 0; list-style: none; }
+.ranking-list__item { display: flex; align-items: flex-start; gap: .8rem; padding: .8rem 0; }
+.ranking-list__item + .ranking-list__item { border-top: 1px solid var(--border); }
+.ranking-list__number { flex: 0 0 1.55rem; text-align: center; font-size: .95rem; font-weight: 700; color: var(--text-muted); font-variant-numeric: tabular-nums; line-height: 1.6; }
+.ranking-list__item:nth-child(-n+3) .ranking-list__number { color: var(--accent); background: var(--accent-soft); border-radius: 5px; }
+.ranking-list__content { min-width: 0; flex: 1; }
+.ranking-list__link { display: block; color: var(--text); font-size: .9rem; line-height: 1.55; overflow-wrap: anywhere; }
+.ranking-list__link:hover { color: var(--accent); }
+.ranking-list__meta { display: flex; flex-wrap: wrap; gap: .2rem .5rem; margin-top: .35rem; color: var(--text-muted); font-size: .7rem; overflow-wrap: anywhere; }
+.ranking-list__sources { width: 100%; }
+.rankings__note { margin: 1rem 0 0; font-size: .75rem; color: var(--text-muted); }
+.rankings__retry { margin-left: .5rem; padding: .15rem .6rem; border: 1px solid var(--border); border-radius: 5px; background: var(--surface); color: var(--accent); font: inherit; cursor: pointer; }
+.news__daily-title { margin: 0 0 1.25rem; font-size: 1.15rem; }
+@media (max-width: 680px) {
+  .rankings__grid { grid-template-columns: minmax(0, 1fr); }
+  .ranking-card { padding: 1.1rem; }
+}
+
 .news {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
