@@ -1,124 +1,126 @@
 {
-  "updated": "2026-09-24T22:27:49+00:00",
+  "updated": "2026-09-25T01:33:22+00:00",
   "leetcode": {
-    "date": "2026-09-24",
-    "id": "3550",
-    "title": "Smallest Index With Digit Sum Equal to Index",
-    "titleEn": "Smallest Index With Digit Sum Equal to Index",
-    "slug": "smallest-index-with-digit-sum-equal-to-index",
-    "difficulty": "Easy",
+    "date": "2026-09-25",
+    "id": "1096",
+    "title": "Brace Expansion II",
+    "titleEn": "Brace Expansion II",
+    "slug": "brace-expansion-ii",
+    "difficulty": "Hard",
     "tags": [
-      "Array",
-      "Math"
+      "Hash Table",
+      "String",
+      "Backtracking",
+      "Stack"
     ],
-    "link": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/",
+    "link": "https://leetcode.com/problems/brace-expansion-ii/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Persona (series)",
-    "text": "Persona, previously marketed as Shin Megami Tensei: Persona outside of Japan, is a Japanese video game series and media franchise developed by Atlus and owned by Sega. Centered on a series of Japanese role-playing video games, Persona is a spin-off from Atlus' Megami Tensei franchise. The first entry in the series, Revelations: Persona, was released in 1996 for the PlayStation. The series has seen several more games since, with the most recent main entry being 2024's Persona 3 Reload, a remake of the 2006 game Persona 3.",
-    "words": 87,
-    "url": "https://en.wikipedia.org/wiki/Persona_(series)",
-    "date": "2026-09-24",
+    "title": "2024 East–West Line disruption",
+    "text": "On 25 September 2024, train services on the East–West Line (EWL) of the Singapore Mass Rapid Transit (MRT) system were disrupted when an axle box on a Kawasaki C151 train dislodged, derailing the train and damaging the track and equipment between Clementi and Dover stations. This resulted in the suspension of regular services between Boon Lay and Queenstown stations, affecting more than 2 million commuters.",
+    "words": 65,
+    "url": "https://en.wikipedia.org/wiki/2024_East%E2%80%93West_Line_disruption",
+    "date": "2026-09-25",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "[Home Movies: Levy collection: Norway, Sweden, Soviet Union]",
-    "creator": "",
-    "year": "1931",
-    "url": "https://archive.org/download/HM_Levy_collection_Norway_Sweden_Soviet_Union/0616_HM_Levy_collection_Norway_Sweden_Soviet_Union_23_29_32_00_3mb.mp4",
-    "page": "https://archive.org/details/HM_Levy_collection_Norway_Sweden_Soviet_Union",
-    "date": "2026-09-24",
+    "title": "Life in the Central Valley of California",
+    "creator": "Coronet Instructional Films",
+    "year": "1949",
+    "url": "https://archive.org/download/Lifeinth1949/Lifeinth1949_512kb.mp4",
+    "page": "https://archive.org/details/Lifeinth1949",
+    "date": "2026-09-25",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "MC Гной - Чемпион по шашкам (Rework) (Single) (2020)",
-      "artist": "MC Гной",
-      "url": "https://archive.org/download/IBR_1753/01.%20%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%20%D0%BF%D0%BE%20%D1%88%D0%B0%D1%88%D0%BA%D0%B0%D0%BC%20%28Rework%29.mp3",
-      "page": "https://archive.org/details/IBR_1753",
-      "license": "Creative Commons"
+      "title": "219 - dSCPl (2016) [MNMN367]",
+      "artist": "219",
+      "url": "https://archive.org/download/MNMN367/01.%20W-Punk%20rec.mp3",
+      "page": "https://archive.org/details/MNMN367",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Atractores Extraños II, or we are happy on the another planet",
-      "artist": "G.A.F.",
-      "url": "https://archive.org/download/tube101/tube101-01-gaf_-_gaf_likes_turbo_folk.mp3",
-      "page": "https://archive.org/details/tube101",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Doo dOO DoOoOo",
-      "artist": "Chris Howard",
-      "url": "https://archive.org/download/DooDooDooooo/VORC010.mp3",
-      "page": "https://archive.org/details/DooDooDooooo",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/us/"
-    },
-    {
-      "title": "Андрей Гаев - 17 мгновений Донбасса (Single) (2018)",
-      "artist": "Андрей Гаев",
-      "url": "https://archive.org/download/IBR_681/01.%2017%20%D0%BC%D0%B3%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81%D1%81%D0%B0.mp3",
-      "page": "https://archive.org/details/IBR_681",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "PATRIK GLASSEL & BRANDSTIFTER - You Have The Job",
+      "title": "aposet01",
       "artist": "",
-      "url": "https://archive.org/download/you-have-the-job/01%20-%20Computer%20Assembly%20Line.mp3",
-      "page": "https://archive.org/details/you-have-the-job",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "url": "https://archive.org/download/aposet01/Trippmatic_-_Morte_A_Venezia.mp3",
+      "page": "https://archive.org/details/aposet01",
+      "license": "Creative Commons"
     },
     {
-      "title": "xxlounge 04",
-      "artist": "ton99.de",
-      "url": "https://archive.org/download/xxlounge-04-KW34-2006/xxlounge-04-kw34-2006-www.ton99.de.mp3",
-      "page": "https://archive.org/details/xxlounge-04-KW34-2006",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
+      "title": "[Crea002] Candy Panda-Andro & Gigolo",
+      "artist": "Candy Panda",
+      "url": "https://archive.org/download/crea002CandyPanda-androGigolo/01-Floor-A.mp3",
+      "page": "https://archive.org/details/crea002CandyPanda-androGigolo",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "(o2 label 04 - 073) Vasim - Lines (2014)",
-      "artist": "",
-      "url": "https://archive.org/download/VasimLines2014/01.%20Beautiful%20Tomorrow%20%28Melissa%29.mp3",
-      "page": "https://archive.org/details/VasimLines2014",
+      "title": "Witchbeat - Lovetorture (2015) [MNMN346]",
+      "artist": "Witchbeat",
+      "url": "https://archive.org/download/MNMN346/01.%20Lovetorture.mp3",
+      "page": "https://archive.org/details/MNMN346",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "[GT018] Graphic Standart - Plane Mode №7",
+      "artist": "Vziel",
+      "url": "https://archive.org/download/gt018GraphicStandart-PlaneMode7/Untitled4.mp3",
+      "page": "https://archive.org/details/gt018GraphicStandart-PlaneMode7",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "title": "TFR1078 - Pestilent Decay - 32 Track Compilation (2012-2014)",
+      "artist": "Pestilent Decay",
+      "url": "https://archive.org/download/TFR1078-PestilentDecay-32TrackCompilation2012-2014/01-MicrotonalMathcoreDemoTrack.mp3",
+      "page": "https://archive.org/details/TFR1078-PestilentDecay-32TrackCompilation2012-2014",
       "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "Fear of Erny",
-      "artist": "Deadman & Digi Hartatak",
-      "url": "https://archive.org/download/Fear_of_Erny/FearofErny.mp3",
-      "page": "https://archive.org/details/Fear_of_Erny",
-      "license": "http://creativecommons.org/licenses/by-sa/3.0/"
-    },
-    {
-      "title": "[YESNO 104] Rani Jambak & Yenting Hsu \"《O-ksi氣-2》\"",
-      "artist": "Rani Jambak & Yenting Hsu",
-      "url": "https://archive.org/download/yesno104/01%20Leuser%20Wave%20_%20Ombak%20Leuser%20_%20%E5%8B%92%E5%A1%9E%E7%88%BE%E6%B5%AA%E6%BD%AE.mp3",
-      "page": "https://archive.org/details/yesno104",
-      "license": "https://creativecommons.org/licenses/by-nc/4.0/"
-    },
-    {
-      "title": "Collaborations",
-      "artist": "Jay Haze",
-      "url": "https://archive.org/download/txtn030/txtn030-01-jay_and_jambi-friday_smoking.mp3",
-      "page": "https://archive.org/details/txtn030",
+      "title": "[EAR006] mlvch - четыре километра от душного города [EP] (2017)",
+      "artist": "",
+      "url": "https://archive.org/download/ear_006/01%20pvrklsk.mp3",
+      "page": "https://archive.org/details/ear_006",
       "license": "Creative Commons"
     },
     {
-      "title": "[xs 30] palindromic resonance - voidfuck sessions",
-      "artist": "palindromic resonance",
-      "url": "https://archive.org/download/xs30PalindromicResonance-VoidfuckSessions/Palindromic_resonance-VoidfuckI.mp3",
-      "page": "https://archive.org/details/xs30PalindromicResonance-VoidfuckSessions",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/pt/"
+      "title": "Various Artists (amp001)",
+      "artist": "Various Artists",
+      "url": "https://archive.org/download/amp001/amp001_10_Opisant_dmner.mp3",
+      "page": "https://archive.org/details/amp001",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/"
     },
     {
-      "title": "Davis/Glenn/Keston at The Somethin' Else #5 10/8/10",
-      "artist": "Davis/Glenn/Keston",
-      "url": "https://archive.org/download/DavisglennkestonAtTheSomethinElse510810/1.mp3",
-      "page": "https://archive.org/details/DavisglennkestonAtTheSomethinElse510810",
+      "title": "[EE019] SMAV - RIP EP",
+      "artist": "SMAV",
+      "url": "https://archive.org/download/EE019-SMAV/SMAV%20-%20RIP%20EP%20-%2001%20Tes%C3%A3o%20Pela%20Vida.mp3",
+      "page": "https://archive.org/details/EE019-SMAV",
+      "license": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "title": "amor_loco_0018_._black_meatl",
+      "artist": "cooloola monster",
+      "url": "https://archive.org/download/amor_loco_0018_._black_meatl/cooloola_monster-black_meatl-01-summer_breeze.mp3",
+      "page": "https://archive.org/details/amor_loco_0018_._black_meatl",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "MSRCD089 - Lex + Bramir - ZYB",
+      "artist": "Lex + Bramir",
+      "url": "https://archive.org/download/MSRCD089/01_%20I.mp3",
+      "page": "https://archive.org/details/MSRCD089",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "ouimnet-set055",
+      "artist": "",
+      "url": "https://archive.org/download/ouimnet-set055/Ouimnet-set055-victors_mob_-_djSet_vinylSession_promo_30Apr_09.mp3",
+      "page": "https://archive.org/details/ouimnet-set055",
+      "license": "Creative Commons"
     }
   ]
 }
