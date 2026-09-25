@@ -1,6 +1,15 @@
 name: 更新热点
 
 on:
+  push:
+    branches:
+      - claude/github-webpage-homepage-tmogqe
+    paths:
+      - scripts/fetch_news.py
+      - scripts/build_news_rankings.py
+      - assets/news-rankings.js
+      - tests/**
+      - .github/workflows/update-news.yml
   schedule:
     # 每小时抓一次，让即时与科技快讯尽快进入首页
     - cron: '17 * * * *'
