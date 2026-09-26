@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-26T07:46:07+00:00",
-  "updated": "2026-09-26T07:46:07+00:00",
+  "generated_at": "2026-09-26T13:08:52+00:00",
+  "updated": "2026-09-26T13:08:52+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-09-21T00:00:00+08:00",
-    "end": "2026-09-26T07:46:07+00:00",
-    "total": 905,
+    "end": "2026-09-26T13:08:52+00:00",
+    "total": 925,
     "items": [
       {
         "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
@@ -52,6 +52,21 @@
         "sources": [
           "BBC Business",
           "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
+        "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+        "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
+        "date": "2026-09-24T14:57:57+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
         ],
         "source_count": 2,
         "observed_days": 2
@@ -103,6 +118,22 @@
         "observed_days": 2
       },
       {
+        "title": "OpenAI bots meddled with multiple US government agency sites",
+        "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo",
+        "date": "2026-09-26T01:25:30+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
         "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
         "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o",
         "date": "2026-09-25T06:40:18+00:00",
@@ -130,37 +161,6 @@
         "sources": [
           "BBC Business",
           "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "Trump and Xi come face-to-face as US and China jostle for dominance over AI",
-        "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo",
-        "date": "2026-09-23T22:01:17+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "Ideas on modernizing the open-source desktop",
-        "link": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
-        "date": "2026-09-23T19:49:57+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
         ],
         "source_count": 2,
         "observed_days": 1
@@ -345,6 +345,21 @@
           "observed_days": 2
         },
         {
+          "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+          "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
+          "date": "2026-09-24T14:57:57+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Abandoning Scientific Linux Was a Mistake",
           "link": "https://blog.melashri.net/posts/scientific-linux-mistake/",
           "date": "2026-09-23T08:46:39+00:00",
@@ -447,20 +462,6 @@
           ],
           "source_count": 1,
           "observed_days": 5
-        },
-        {
-          "title": "Rendering huge pull requests in the GitHub Copilot app",
-          "link": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
-          "date": "2026-09-23T18:29:49+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "GitHub Blog"
-          ],
-          "source_count": 1,
-          "observed_days": 3
         }
       ],
       "科技": [
@@ -781,6 +782,22 @@
           "observed_days": 2
         },
         {
+          "title": "OpenAI bots meddled with multiple US government agency sites",
+          "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo",
+          "date": "2026-09-26T01:25:30+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
           "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o",
           "date": "2026-09-25T06:40:18+00:00",
@@ -883,20 +900,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-          "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo",
-          "date": "2026-09-25T03:57:09+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
@@ -949,6 +952,22 @@
           "observed_days": 2
         },
         {
+          "title": "OpenAI bots meddled with multiple US government agency sites",
+          "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo",
+          "date": "2026-09-26T01:25:30+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
           "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o",
           "date": "2026-09-25T06:40:18+00:00",
@@ -997,7 +1016,7 @@
           "observed_days": 1
         },
         {
-          "title": "Airlines waive change fees ahead of nor'easter as flight delays trickle in",
+          "title": "Airlines waive change fees ahead of nor'easter as flight disruptions trickle in",
           "link": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
           "date": "2026-09-25T12:52:24+00:00",
           "date_is_observed": false,
@@ -1037,28 +1056,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "'We're all broke': Would you chase a friend for £5?",
-          "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o",
-          "date": "2026-09-24T23:00:45+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-09-01T00:00:00+08:00",
-    "end": "2026-09-26T07:46:07+00:00",
-    "total": 3640,
+    "end": "2026-09-26T13:08:52+00:00",
+    "total": 3660,
     "items": [
       {
         "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
@@ -1139,6 +1144,21 @@
         "observed_days": 2
       },
       {
+        "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+        "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
+        "date": "2026-09-24T14:57:57+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
         "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
         "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo",
         "date": "2026-09-23T22:23:28+00:00",
@@ -1196,21 +1216,6 @@
         "sources": [
           "BBC Business",
           "Hacker News"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "I don't like passkeys",
-        "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
-        "date": "2026-09-18T12:06:50+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
         ],
         "source_count": 2,
         "observed_days": 2
@@ -1425,6 +1430,21 @@
           "observed_days": 2
         },
         {
+          "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+          "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
+          "date": "2026-09-24T14:57:57+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Abandoning Scientific Linux Was a Mistake",
           "link": "https://blog.melashri.net/posts/scientific-linux-mistake/",
           "date": "2026-09-23T08:46:39+00:00",
@@ -1496,22 +1516,6 @@
           "sources": [
             "Hacker News",
             "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Suspected sabotage causes major Netherlands rail disruption",
-          "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo",
-          "date": "2026-09-15T09:59:14+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发",
-            "综合"
-          ],
-          "sources": [
-            "BBC World",
-            "Hacker News"
           ],
           "source_count": 2,
           "observed_days": 2
