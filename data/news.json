@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T17:15:14+00:00",
+  "updated": "2026-09-26T19:54:25+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -41,12 +41,12 @@
         {
           "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
           "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-26T16:58:39+00:00"
+          "date": "2026-09-26T18:17:12+00:00"
         },
         {
-          "title": "Pope praises 'energy and commitment' of young people as huge crowds join open-air Mass in Paris",
+          "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
           "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-26T16:53:32+00:00"
+          "date": "2026-09-26T19:48:06+00:00"
         },
         {
           "title": "British national among six dead in building explosion close to Acropolis in Athens",
@@ -59,9 +59,9 @@
           "date": "2026-09-26T15:12:25+00:00"
         },
         {
-          "title": "Bangkok roads submerged as flood disaster declared",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-26T07:21:30+00:00"
+          "title": "German town bans 'stumbling stone' memorials to Nazi victims",
+          "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-26T15:48:51+00:00"
         }
       ]
     },
@@ -231,6 +231,16 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Decap is the man behind the drums behind your favorite song",
+          "link": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
+          "date": "2026-09-26T19:22:40+00:00"
+        },
+        {
+          "title": "Kids turned the comment section of an NPR podcast into a group chat",
+          "link": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
+          "date": "2026-09-26T17:32:35+00:00"
+        },
+        {
           "title": "OpenAI pauses training of its ‘most capable models’",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
           "date": "2026-09-26T16:34:59+00:00"
@@ -244,16 +254,6 @@
           "title": "Control Resonant is a great game — it’s even better when you read everything",
           "link": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs",
           "date": "2026-09-25T22:06:51+00:00"
-        },
-        {
-          "title": "Pokémon card resellers have turned collecting into an online blood sport",
-          "link": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
-          "date": "2026-09-25T22:32:28+00:00"
-        },
-        {
-          "title": "Can &#8216;eSUV&#8217; e-bikes really go from trail to town?",
-          "link": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
-          "date": "2026-09-26T08:27:45+00:00"
         }
       ]
     },
@@ -295,9 +295,19 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband",
+          "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+          "link": "https://github.com/reladraw/reladraw",
+          "date": "2026-09-26T17:10:40+00:00"
+        },
+        {
+          "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
           "link": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
           "date": "2026-09-26T16:12:18+00:00"
+        },
+        {
+          "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+          "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "date": "2026-09-26T15:56:34+00:00"
         },
         {
           "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
@@ -308,16 +318,6 @@
           "title": "Automattic has a new board after failed attempt to put CEO on leave",
           "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
           "date": "2026-09-26T15:40:27+00:00"
-        },
-        {
-          "title": "Show HN: A Claude Code skill to analyze your chess games",
-          "link": "https://github.com/brumar/chess-postmortem-skills",
-          "date": "2026-09-26T15:34:53+00:00"
-        },
-        {
-          "title": "Plunging test scores are a slow-moving catastrophe",
-          "link": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
-          "date": "2026-09-26T15:24:08+00:00"
         }
       ]
     },
@@ -327,6 +327,11 @@
       "url": "https://lobste.rs/rss",
       "items": [
         {
+          "title": "Infecting the Steam Link with NixOS",
+          "link": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
+          "date": "2026-09-26T13:45:59+00:00"
+        },
+        {
           "title": "If we do not stop to help each other, what do we become?",
           "link": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
           "date": "2026-09-26T11:02:48+00:00"
@@ -335,11 +340,6 @@
           "title": "Commodified Intelligence",
           "link": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
           "date": "2026-09-25T18:24:29+00:00"
-        },
-        {
-          "title": "Infecting the Steam Link with NixOS",
-          "link": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
-          "date": "2026-09-26T13:45:59+00:00"
         },
         {
           "title": "The state of SIMD in Rust in 2026",
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享创造] 从 Arc 回到 Chrome 受不了 ⌃⇥，自己做了一个：按最近使用切标签，外加 ⌘E 搜遍标签、书签、历史",
-          "link": "https://www.v2ex.com/t/1244954#reply0",
-          "date": "2026-09-26T16:51:38+00:00"
+          "title": "[分享创造] Opus 5.5 为我搭建了一套 2D MMORPG 音乐美术管线",
+          "link": "https://www.v2ex.com/t/1244959#reply0",
+          "date": "2026-09-26T19:19:49+00:00"
         },
         {
-          "title": "[宽带症候群] 有没有用深圳电信的？",
-          "link": "https://www.v2ex.com/t/1244953#reply0",
-          "date": "2026-09-26T16:36:21+00:00"
+          "title": "[分享创造] 分享一个自用的 V2EX 样式，参考 macOS / Safari 风格",
+          "link": "https://www.v2ex.com/t/1244958#reply0",
+          "date": "2026-09-26T19:08:31+00:00"
         },
         {
-          "title": "[程序员] 开始弃用 vscode",
-          "link": "https://www.v2ex.com/t/1244952#reply2",
-          "date": "2026-09-26T16:23:44+00:00"
+          "title": "[推广] 打破圈壁！为什么说 Bybit 是每个数字游民与全球资产配置者的“生态位终点站”？ Bybit 已支持链上美股， Bybit U 卡支持微信、支付宝、Apple Pay 三 通啦！",
+          "link": "https://www.v2ex.com/t/1244957#reply0",
+          "date": "2026-09-26T18:31:57+00:00"
         },
         {
-          "title": "[开源软件] [开源推广] WallpaperMachine： macOS 原生动态壁纸引擎，支持 Wallpaper Engine 壁纸与创意工坊下载",
-          "link": "https://www.v2ex.com/t/1244951#reply2",
-          "date": "2026-09-26T16:20:06+00:00"
+          "title": "[分享创造] 做了个应用，把电子书变成一站站带朗读的幻灯片",
+          "link": "https://www.v2ex.com/t/1244956#reply0",
+          "date": "2026-09-26T17:49:35+00:00"
         },
         {
-          "title": "[分享发现] Muse 注册方法分享-刚成功，仅要美国节点与脸书账号",
-          "link": "https://www.v2ex.com/t/1244949#reply0",
-          "date": "2026-09-26T16:13:24+00:00"
+          "title": "[OpenAI] codex 重置了 0927",
+          "link": "https://www.v2ex.com/t/1244955#reply0",
+          "date": "2026-09-26T17:17:11+00:00"
         }
       ]
     },
@@ -536,6 +536,38 @@
       ]
     },
     {
+      "name": "量子位",
+      "category": "AI",
+      "url": "https://www.qbitai.com/feed",
+      "items": [
+        {
+          "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+          "link": "https://www.qbitai.com/2026/09/498478.html",
+          "date": "2026-09-26T11:49:43+00:00"
+        },
+        {
+          "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+          "link": "https://www.qbitai.com/2026/09/498271.html",
+          "date": "2026-09-26T09:07:41+00:00"
+        },
+        {
+          "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+          "link": "https://www.qbitai.com/2026/09/497624.html",
+          "date": "2026-09-26T09:01:00+00:00"
+        },
+        {
+          "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
+          "link": "https://www.qbitai.com/2026/09/497613.html",
+          "date": "2026-09-26T07:18:05+00:00"
+        },
+        {
+          "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+          "link": "https://www.qbitai.com/2026/09/497425.html",
+          "date": "2026-09-26T07:12:05+00:00"
+        }
+      ]
+    },
+    {
       "name": "MIT Technology Review",
       "category": "AI",
       "url": "https://www.technologyreview.com/feed/",
@@ -564,6 +596,38 @@
           "title": "AI is dominating the conversation at Climate Week",
           "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
           "date": "2026-09-24T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Nature",
+      "category": "科研",
+      "url": "https://www.nature.com/nature.rss",
+      "items": [
+        {
+          "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
+          "link": "https://www.nature.com/articles/d41586-026-03041-y",
+          "date": "2026-09-25T00:00:00+00:00"
+        },
+        {
+          "title": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
+          "link": "https://www.nature.com/articles/d41586-026-03032-z",
+          "date": "2026-09-25T00:00:00+00:00"
+        },
+        {
+          "title": "Anthropic’s AI biolab finds ‘CRISPR-like’ DNA in viruses. What’s next?",
+          "link": "https://www.nature.com/articles/d41586-026-03039-6",
+          "date": "2026-09-25T00:00:00+00:00"
+        },
+        {
+          "title": "Chemists struggle to ditch hazardous solvents — even after decades of ‘green’ efforts",
+          "link": "https://www.nature.com/articles/d41586-026-03023-0",
+          "date": "2026-09-25T00:00:00+00:00"
+        },
+        {
+          "title": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
+          "link": "https://www.nature.com/articles/d41586-026-03016-z",
+          "date": "2026-09-25T00:00:00+00:00"
         }
       ]
     },
@@ -601,8 +665,6 @@
     }
   ],
   "failed": [
-    "36 氪",
-    "量子位",
-    "Nature"
+    "36 氪"
   ]
 }

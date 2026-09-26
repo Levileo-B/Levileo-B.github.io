@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-26T17:15:14+00:00",
-  "updated": "2026-09-26T17:15:14+00:00",
+  "generated_at": "2026-09-26T19:54:25+00:00",
+  "updated": "2026-09-26T19:54:25+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-09-21T00:00:00+08:00",
-    "end": "2026-09-26T17:15:14+00:00",
-    "total": 952,
+    "end": "2026-09-26T19:54:25+00:00",
+    "total": 965,
     "items": [
       {
         "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
@@ -622,6 +622,34 @@
           "observed_days": 3
         },
         {
+          "title": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
+          "link": "https://www.nature.com/articles/d41586-026-03016-z",
+          "date": "2026-09-25T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
+          "link": "https://www.nature.com/articles/d41586-026-03032-z",
+          "date": "2026-09-25T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
           "title": "Coffee doesn’t have to keep you awake to disrupt your sleep",
           "link": "https://www.sciencedaily.com/releases/2026/09/260922005719.htm",
           "date": "2026-09-22T13:42:49+00:00",
@@ -715,34 +743,6 @@
           ],
           "sources": [
             "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
-          "link": "https://www.nature.com/articles/d41586-026-03016-z",
-          "date": "2026-09-25T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
-          "link": "https://www.nature.com/articles/d41586-026-03032-z",
-          "date": "2026-09-25T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -1062,8 +1062,8 @@
   },
   "month": {
     "start": "2026-09-01T00:00:00+08:00",
-    "end": "2026-09-26T17:15:14+00:00",
-    "total": 3687,
+    "end": "2026-09-26T19:54:25+00:00",
+    "total": 3700,
     "items": [
       {
         "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
