@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T01:36:57+00:00",
+  "updated": "2026-09-26T07:46:07+00:00",
   "leetcode": {
     "date": "2026-09-26",
     "id": "1807",
@@ -26,11 +26,11 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Fashion Horizons",
-    "creator": "Donahue (Harry D.)",
-    "year": "1940",
-    "url": "https://archive.org/download/FashionH1940/FashionH1940_512kb.mp4",
-    "page": "https://archive.org/details/FashionH1940",
+    "title": "Just a Spark",
+    "creator": "Handy (Jam) Organization",
+    "year": "1937",
+    "url": "https://archive.org/download/JustaSpa1937/JustaSpa1937_512kb.mp4",
+    "page": "https://archive.org/details/JustaSpa1937",
     "date": "2026-09-26",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
@@ -38,10 +38,24 @@
   },
   "music": [
     {
-      "title": "a.eer - foreigner (2017) [MNMN444]",
-      "artist": "a.eer",
-      "url": "https://archive.org/download/MNMN_444/01.%20invoid.mp3",
-      "page": "https://archive.org/details/MNMN_444",
+      "title": "anx08",
+      "artist": "Miquel Parera Jaques",
+      "url": "https://archive.org/download/anx08/anx08_1.mp3",
+      "page": "https://archive.org/details/anx08",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Mildly Abrasive Plastic Particle",
+      "artist": "MagicVan",
+      "url": "https://archive.org/download/MagicVan-MildlyAbrasivePlasticParticle/01TheColdTeaInFrontOfMe.mp3",
+      "page": "https://archive.org/details/MagicVan-MildlyAbrasivePlasticParticle",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Portchistot - Ginger Jam (2016) [MNMN395]",
+      "artist": "Portchistot",
+      "url": "https://archive.org/download/MNMN395/01.%20Sea%20Hecate.Night.mp3",
+      "page": "https://archive.org/details/MNMN395",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
@@ -52,67 +66,53 @@
       "license": "https://creativecommons.org/licenses/by-nd/4.0/"
     },
     {
-      "title": "ВИБРОМОЛЬ - запах подстулья (2019)",
-      "artist": "ВИБРОМОЛЬ",
-      "url": "https://archive.org/download/IBR_1107/01.%20%2B7%20865%20321%2049%2052.mp3",
-      "page": "https://archive.org/details/IBR_1107",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "For Lunar Dust - Lollipops and Sores (2015) [MNMN313]",
-      "artist": "For Lunar Dust",
-      "url": "https://archive.org/download/MNMN313/01.%20magic%20car.mp3",
-      "page": "https://archive.org/details/MNMN313",
+      "title": "Виктор Скорбенко (3кО) - Тень (2011-2012) [MNMN184]",
+      "artist": "Виктор Скорбенко (3кО)",
+      "url": "https://archive.org/download/MNMN184/01.%20%D0%9B%D1%83%D0%BD%D0%B0.mp3",
+      "page": "https://archive.org/details/MNMN184",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "[A110] Pruna - 2024 - \"Nomen\"",
-      "artist": "pruna",
-      "url": "https://archive.org/download/a110_pruna_2024_nomen/01%20-%20Nomen%200.mp3",
-      "page": "https://archive.org/details/a110_pruna_2024_nomen",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/"
-    },
-    {
-      "title": "H Stewart - Fevered and Childless (ca164)",
-      "artist": "H Stewart",
-      "url": "https://archive.org/download/ca164_hst/01_Unlike_Spring.mp3",
-      "page": "https://archive.org/details/ca164_hst",
+      "title": "Hypnosis Rustle (amp100)",
+      "artist": "Zreen Toyz",
+      "url": "https://archive.org/download/amp100/1_Electronic_colloquium.mp3",
+      "page": "https://archive.org/details/amp100",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "For Lunar Dust - it was dark and quiet (2016) [MNMN398]",
-      "artist": "For Lunar Dust",
-      "url": "https://archive.org/download/MNMN398/01.%20it%20was%20dark%20and%20quiet.mp3",
-      "page": "https://archive.org/details/MNMN398",
+      "title": "Razozlila - Pre Debut (2012) [MNMN141]",
+      "artist": "Razozlila",
+      "url": "https://archive.org/download/MNMN141/01.%20Nu.mp3",
+      "page": "https://archive.org/details/MNMN141",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Tape Tum - EP",
-      "artist": "Tape Tum",
-      "url": "https://archive.org/download/MERZ0017/1-Tape_Tum-Bicycle_vbr.mp3",
-      "page": "https://archive.org/details/MERZ0017",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Mildly Abrasive Plastic Particle",
-      "artist": "MagicVan",
-      "url": "https://archive.org/download/MagicVan-MildlyAbrasivePlasticParticle/01TheColdTeaInFrontOfMe.mp3",
-      "page": "https://archive.org/details/MagicVan-MildlyAbrasivePlasticParticle",
+      "title": "VA * .altered.statez.",
+      "artist": "cOmaRecOrdz",
+      "url": "https://archive.org/download/Va.altered.statez_110/01-nebulist-still_Remainzremix.mp3",
+      "page": "https://archive.org/details/Va.altered.statez_110",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "SCD - Wake Me Up (2014) [MNMN287]",
-      "artist": "SCD",
-      "url": "https://archive.org/download/MNMN287/01.%20Wake%20Me%20Up.mp3",
-      "page": "https://archive.org/details/MNMN287",
+      "title": "MNMN RECORDS NETLABEL - New Year Compilation (2013) [MNMN190]",
+      "artist": "Various Artists",
+      "url": "https://archive.org/download/MNMN190/01.%20Airto%20-%20One%20Day%20In%20December.mp3",
+      "page": "https://archive.org/details/MNMN190",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "brokenchelust & Rapace - Split (2019)",
-      "artist": "brokenchelust & Rapace",
-      "url": "https://archive.org/download/IBR_1372/01.%20brokenchelust%20-%20%C3%B6l%C3%BC%20qad%C4%B1n%C4%B1n%20amciqi.mp3",
-      "page": "https://archive.org/details/IBR_1372",
-      "license": "Creative Commons"
+      "title": "Witchbeat - Lovetorture (2015) [MNMN346]",
+      "artist": "Witchbeat",
+      "url": "https://archive.org/download/MNMN346/01.%20Lovetorture.mp3",
+      "page": "https://archive.org/details/MNMN346",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Зомби Утёсов - SADKUZSKAZURS (2014) [MNMN291]",
+      "artist": "Зомби Утёсов",
+      "url": "https://archive.org/download/MNMN291/01.%20Dez%20Obn%20Werth%20Yournuh%20Nord%20Abn.mp3",
+      "page": "https://archive.org/details/MNMN291",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
       "title": "Si fuéramos SINGLE",
