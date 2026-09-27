@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T01:30:21+00:00",
+  "updated": "2026-09-27T08:14:52+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -7,9 +7,19 @@
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
         {
-          "title": "美中各從「白宮習特會」得到什麼？",
-          "link": "https://www.bbc.com/zhongwen/articles/cq2dwkw2j0r4o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-25T12:15:11+00:00"
+          "title": "中國年輕人的「學術偶像」項飆：他讀懂了一代人的焦慮",
+          "link": "https://www.bbc.com/zhongwen/articles/crd6888x916go/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-27T01:35:32+00:00"
+        },
+        {
+          "title": "TikTok與阿拉巴馬州和解：支付一億美元，限兒童使用時長、禁用美妝濾鏡",
+          "link": "https://www.bbc.com/zhongwen/articles/c8zxzl6vr3zno/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-27T08:05:39+00:00"
+        },
+        {
+          "title": "為何成年後才突然過敏？新冠、抗生素甚至蜱蟲都可能是誘因",
+          "link": "https://www.bbc.com/zhongwen/articles/ck05rqdz4zy3o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-27T04:39:59+00:00"
         },
         {
           "title": "習近平促特朗普「反對台獨」，北京措辭升級要的是什麼？",
@@ -17,19 +27,9 @@
           "date": "2026-09-25T10:23:53+00:00"
         },
         {
-          "title": "習近平訪美：白宮國宴誰出席、誰缺席？意味了什麼？",
-          "link": "https://www.bbc.com/zhongwen/articles/c5zjzl8n2epxo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-25T06:00:47+00:00"
-        },
-        {
           "title": "數百艘中國漁船出現在越南外海，北京想要什麼？",
           "link": "https://www.bbc.com/zhongwen/articles/ck1l6ynmmvlvo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-25T07:22:44+00:00"
-        },
-        {
-          "title": "「讓女性感到被看見」：為何荷蘭人為陰唇創造了一個新詞？",
-          "link": "https://www.bbc.com/zhongwen/articles/cqx2z782j7y7o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-25T00:03:23+00:00"
         }
       ]
     },
@@ -39,9 +39,19 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-          "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-26T22:15:59+00:00"
+          "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+          "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-27T07:44:11+00:00"
+        },
+        {
+          "title": "Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too",
+          "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-26T23:04:08+00:00"
+        },
+        {
+          "title": "Four killed in helicopter crash near Montreal",
+          "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-27T02:43:10+00:00"
         },
         {
           "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
@@ -52,16 +62,6 @@
           "title": "British national among six dead in building explosion close to Acropolis in Athens",
           "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-26T12:47:25+00:00"
-        },
-        {
-          "title": "German town bans 'stumbling stone' memorials to Nazi victims",
-          "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-26T15:48:51+00:00"
-        },
-        {
-          "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-26T22:04:26+00:00"
         }
       ]
     },
@@ -70,6 +70,16 @@
       "category": "财经",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
+        {
+          "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
+          "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-26T23:00:42+00:00"
+        },
+        {
+          "title": "Heathrow Airport warns third runway could be delayed by four years",
+          "link": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-26T16:32:42+00:00"
+        },
         {
           "title": "OpenAI bots meddled with multiple US government agency sites",
           "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
@@ -84,16 +94,6 @@
           "title": "Clubs seek legal advice over Man City charges compensation",
           "link": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-25T20:13:53+00:00"
-        },
-        {
-          "title": "'We're all broke': Would you chase a friend for £5?",
-          "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-24T23:00:45+00:00"
-        },
-        {
-          "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
-          "link": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-25T16:00:44+00:00"
         }
       ]
     },
@@ -113,19 +113,19 @@
           "date": "2026-09-26T16:57:57+00:00"
         },
         {
+          "title": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
+          "link": "https://www.cnbc.com/2026/09/27/funflation-consumer-spending-pricier-hobbies.html",
+          "date": "2026-09-27T05:00:02+00:00"
+        },
+        {
+          "title": "Chinese AI models surge in global popularity — and Washington is worried",
+          "link": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
+          "date": "2026-09-26T05:00:01+00:00"
+        },
+        {
           "title": "Boeing flags 737 Max software glitch affecting some automated approach functions",
           "link": "https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html",
           "date": "2026-09-26T21:55:01+00:00"
-        },
-        {
-          "title": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
-          "link": "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html",
-          "date": "2026-09-26T15:05:38+00:00"
-        },
-        {
-          "title": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
-          "link": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
-          "date": "2026-09-26T21:21:04+00:00"
         }
       ]
     },
@@ -295,14 +295,19 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "What is the size of Yemen? (2024)",
+          "link": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
+          "date": "2026-09-27T02:40:26+00:00"
+        },
+        {
+          "title": "Real-time feedback: My closing move in every interview",
+          "link": "https://mgrebler.substack.com/p/real-time-feedback-my-closing-move",
+          "date": "2026-09-27T01:01:18+00:00"
+        },
+        {
           "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
           "link": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
           "date": "2026-09-26T20:08:50+00:00"
-        },
-        {
-          "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
-          "link": "https://tml.stanford.edu/homebody/",
-          "date": "2026-09-26T18:42:10+00:00"
         },
         {
           "title": "DeepSeek Elastic Compute (DSec)",
@@ -313,11 +318,6 @@
           "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
           "link": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
           "date": "2026-09-26T17:26:54+00:00"
-        },
-        {
-          "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-          "link": "https://github.com/reladraw/reladraw",
-          "date": "2026-09-26T17:10:40+00:00"
         }
       ]
     },
@@ -332,24 +332,24 @@
           "date": "2026-09-26T13:45:59+00:00"
         },
         {
+          "title": "Rusty thoughts on \"Parse, don't validate\"",
+          "link": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+          "date": "2026-09-26T20:45:24+00:00"
+        },
+        {
           "title": "If we do not stop to help each other, what do we become?",
           "link": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
           "date": "2026-09-26T11:02:48+00:00"
         },
         {
-          "title": "Go concurrency distilled",
-          "link": "https://antonz.org/go-concurrency-distilled/",
-          "date": "2026-09-26T12:14:01+00:00"
+          "title": "Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming",
+          "link": "https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave",
+          "date": "2026-09-27T03:41:44+00:00"
         },
         {
-          "title": "The JavaScript Pun: tagged template literal",
-          "link": "https://shukla.io/blog/2026-09/pun.html",
-          "date": "2026-09-26T15:37:12+00:00"
-        },
-        {
-          "title": "Commodified Intelligence",
-          "link": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
-          "date": "2026-09-25T18:24:29+00:00"
+          "title": "AI Agents Push Humans Out of the Loop",
+          "link": "https://arxiv.org/abs/2608.23642",
+          "date": "2026-09-26T19:21:56+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[Claude] Claude 周用量和五小时限额比值",
-          "link": "https://www.v2ex.com/t/1244979#reply0",
-          "date": "2026-09-27T01:27:14+00:00"
+          "title": "[分享创造] 我造了个子站来纪念刘欢：从“你上你也行”，到我动手做的刘欢子站",
+          "link": "https://www.v2ex.com/t/1245040#reply0",
+          "date": "2026-09-27T07:34:17+00:00"
         },
         {
-          "title": "[OpenAI] Codex 下周会有更多重置",
-          "link": "https://www.v2ex.com/t/1244978#reply1",
-          "date": "2026-09-27T01:09:58+00:00"
+          "title": "[问与答] 自己想开源一些自己的小工具，应该没什么特别的要求吧？",
+          "link": "https://www.v2ex.com/t/1245039#reply2",
+          "date": "2026-09-27T07:32:59+00:00"
         },
         {
-          "title": "[分享创造] 公众号文章想进自己的笔记库，有没有「本地导出 Markdown」的轻方案？",
-          "link": "https://www.v2ex.com/t/1244977#reply1",
-          "date": "2026-09-27T01:07:52+00:00"
+          "title": "[宽带症候群] 求家庭组网方案建议",
+          "link": "https://www.v2ex.com/t/1245037#reply4",
+          "date": "2026-09-27T07:15:31+00:00"
         },
         {
-          "title": "[独立开发者 👨‍💻] 请教一下：关于海外产品的推广！",
-          "link": "https://www.v2ex.com/t/1244976#reply1",
-          "date": "2026-09-27T00:53:01+00:00"
+          "title": "[分享发现] 给人类的忠告——GPT6 Astra 最高强度思考 15 分钟的回复",
+          "link": "https://www.v2ex.com/t/1245036#reply0",
+          "date": "2026-09-27T07:14:45+00:00"
         },
         {
-          "title": "[程序员] 刚刚验证还可以注册 muse，并直接注册成功，没有跳出 xyk 验证的路径",
-          "link": "https://www.v2ex.com/t/1244975#reply4",
-          "date": "2026-09-27T00:49:26+00:00"
+          "title": "[推广] 中秋大促，免费送福利，动态住宅 ip + 流量免费用，三天的量",
+          "link": "https://www.v2ex.com/t/1245035#reply1",
+          "date": "2026-09-27T07:13:32+00:00"
         }
       ]
     },
@@ -468,38 +468,6 @@
           "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
           "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
           "date": "2026-09-03T23:59:05+00:00"
-        }
-      ]
-    },
-    {
-      "name": "酷壳",
-      "category": "开发",
-      "url": "https://coolshell.cn/feed",
-      "items": [
-        {
-          "title": "是微服务架构不香还是云不香？",
-          "link": "https://coolshell.cn/articles/22422.html",
-          "date": "2023-05-08T09:52:06+00:00"
-        },
-        {
-          "title": "我看ChatGPT: 为啥谷歌掉了千亿美金",
-          "link": "https://coolshell.cn/articles/22398.html",
-          "date": "2023-02-11T16:31:16+00:00"
-        },
-        {
-          "title": "聊聊 nostr 和 审查",
-          "link": "https://coolshell.cn/articles/22367.html",
-          "date": "2023-02-03T07:46:13+00:00"
-        },
-        {
-          "title": "感染新冠的经历",
-          "link": "https://coolshell.cn/articles/22341.html",
-          "date": "2022-12-13T07:39:39+00:00"
-        },
-        {
-          "title": "eBPF 介绍",
-          "link": "https://coolshell.cn/articles/22320.html",
-          "date": "2022-12-10T02:38:51+00:00"
         }
       ]
     },
@@ -665,6 +633,7 @@
     }
   ],
   "failed": [
-    "36 氪"
+    "36 氪",
+    "酷壳"
   ]
 }
