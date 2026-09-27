@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-27T08:14:52+00:00",
-  "updated": "2026-09-27T08:14:52+00:00",
+  "generated_at": "2026-09-27T14:03:59+00:00",
+  "updated": "2026-09-27T14:03:59+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-09-21T00:00:00+08:00",
-    "end": "2026-09-27T08:14:52+00:00",
-    "total": 1001,
+    "end": "2026-09-27T14:03:59+00:00",
+    "total": 1032,
     "items": [
       {
         "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
@@ -23,6 +23,21 @@
         ],
         "source_count": 2,
         "observed_days": 3
+      },
+      {
+        "title": "One month without AI",
+        "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+        "date": "2026-09-26T10:08:21+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
       },
       {
         "title": "OpenAI bots meddled with multiple US government agency sites",
@@ -134,33 +149,16 @@
         "observed_days": 2
       },
       {
-        "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
-        "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o",
-        "date": "2026-09-25T06:40:18+00:00",
+        "title": "Rusty thoughts on \"Parse, don't validate\"",
+        "link": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+        "date": "2026-09-26T20:45:24+00:00",
         "date_is_observed": false,
         "categories": [
-          "综合",
-          "财经"
+          "开发"
         ],
         "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-        "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o",
-        "date": "2026-09-24T18:06:40+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
+          "Hacker News",
+          "Lobsters"
         ],
         "source_count": 2,
         "observed_days": 1
@@ -329,6 +327,21 @@
           "observed_days": 3
         },
         {
+          "title": "One month without AI",
+          "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "date": "2026-09-26T10:08:21+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
           "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
           "date": "2026-09-25T15:29:25+00:00",
@@ -390,6 +403,21 @@
           "observed_days": 2
         },
         {
+          "title": "Rusty thoughts on \"Parse, don't validate\"",
+          "link": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+          "date": "2026-09-26T20:45:24+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Ideas on modernizing the open-source desktop",
           "link": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
           "date": "2026-09-23T19:49:57+00:00",
@@ -433,35 +461,6 @@
           ],
           "source_count": 2,
           "observed_days": 1
-        },
-        {
-          "title": "What happened to the Snowden archive",
-          "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-          "date": "2026-09-20T22:35:49+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "MTFM：美团统一推荐基座大模型在外卖多业务场景的落地实践",
-          "link": "https://tech.meituan.com/2026/09/22/Meituan-Foundation-Model-for-Recommendation.html",
-          "date": "2026-09-22T10:00:33+00:00",
-          "date_is_observed": true,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "美团技术团队"
-          ],
-          "source_count": 1,
-          "observed_days": 6
         }
       ],
       "科技": [
@@ -1062,8 +1061,8 @@
   },
   "month": {
     "start": "2026-09-01T00:00:00+08:00",
-    "end": "2026-09-27T08:14:52+00:00",
-    "total": 3736,
+    "end": "2026-09-27T14:03:59+00:00",
+    "total": 3767,
     "items": [
       {
         "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
@@ -1110,6 +1109,21 @@
         ],
         "source_count": 2,
         "observed_days": 3
+      },
+      {
+        "title": "One month without AI",
+        "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+        "date": "2026-09-26T10:08:21+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
       },
       {
         "title": "OpenAI bots meddled with multiple US government agency sites",
@@ -1194,21 +1208,6 @@
         "title": "Abandoning Scientific Linux Was a Mistake",
         "link": "https://blog.melashri.net/posts/scientific-linux-mistake/",
         "date": "2026-09-23T08:46:39+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Looking forward to Git 2.56 - and 3.0",
-        "link": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
-        "date": "2026-09-21T23:16:51+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -1414,6 +1413,21 @@
           "observed_days": 3
         },
         {
+          "title": "One month without AI",
+          "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+          "date": "2026-09-26T10:08:21+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
           "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
           "date": "2026-09-25T15:29:25+00:00",
@@ -1494,21 +1508,6 @@
           "title": "I don't like passkeys",
           "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
           "date": "2026-09-18T12:06:50+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Small Programming Tricks",
-          "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-          "date": "2026-09-15T20:50:57+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
