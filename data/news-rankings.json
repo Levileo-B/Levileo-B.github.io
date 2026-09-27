@@ -1,87 +1,17 @@
 {
-  "generated_at": "2026-09-27T18:27:22+00:00",
-  "updated": "2026-09-27T18:27:22+00:00",
+  "generated_at": "2026-09-27T22:15:11+00:00",
+  "updated": "2026-09-27T22:15:11+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-09-28T00:00:00+08:00",
-    "end": "2026-09-27T18:27:22+00:00",
-    "total": 11,
+    "end": "2026-09-27T22:15:11+00:00",
+    "total": 24,
     "items": [
       {
-        "title": "[程序员] 看了影视飓风 Tim 的创业视频，聊聊我的看法",
-        "link": "https://www.v2ex.com/t/1245104",
-        "date": "2026-09-27T18:17:56+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[宽带症候群] 爱快的 UU 加速器问题",
-        "link": "https://www.v2ex.com/t/1245103",
-        "date": "2026-09-27T17:58:30+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-        "link": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-        "date": "2026-09-27T17:32:02+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Ember-1",
-        "link": "https://fireworks.ai/blog/ember-1",
-        "date": "2026-09-27T17:31:53+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-        "link": "https://earnanhonestdollar.com/bench",
-        "date": "2026-09-27T17:24:17+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-        "date": "2026-09-27T17:21:07+00:00",
+        "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+        "link": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
+        "date": "2026-09-27T21:59:57+00:00",
         "date_is_observed": false,
         "categories": [
           "科技"
@@ -93,9 +23,37 @@
         "observed_days": 1
       },
       {
-        "title": "Don't couple your Go code to GitHub",
-        "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-        "date": "2026-09-27T16:50:58+00:00",
+        "title": "Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms",
+        "link": "https://www.cnbc.com/2026/09/27/trump-government-funded-ads-midterms.html",
+        "date": "2026-09-27T21:38:59+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "财经"
+        ],
+        "sources": [
+          "CNBC"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[MUSE] 我服了，这个节点是关于 Muse 乐队的",
+        "link": "https://www.v2ex.com/t/1245106",
+        "date": "2026-09-27T21:37:51+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Lunar Terminator Paradox",
+        "link": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+        "date": "2026-09-27T21:06:17+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -107,37 +65,79 @@
         "observed_days": 1
       },
       {
-        "title": "[人工智能] [开源] KevANE：让 0.6B 决策模型跑在 Mac 神经引擎（ANE）上， GPU 零占用、超低功耗",
-        "link": "https://www.v2ex.com/t/1245102",
-        "date": "2026-09-27T16:49:41+00:00",
+        "title": "Engram is a sampler that turns broken AI hallucinations into music",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+        "date": "2026-09-27T20:46:36+00:00",
         "date_is_observed": false,
         "categories": [
-          "开发"
+          "科技"
         ],
         "sources": [
-          "V2EX"
+          "The Verge"
         ],
         "source_count": 1,
         "observed_days": 1
       },
       {
-        "title": "[分享创造] Kling 4.0 快发了, 效果到底咋样",
-        "link": "https://www.v2ex.com/t/1245101",
-        "date": "2026-09-27T16:40:42+00:00",
+        "title": "Allegations of US interference in Quebec election",
+        "link": "https://globalnews.ca/news/12073854/quebec-election-u-s-interference/",
+        "date": "2026-09-27T20:17:19+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
         ],
         "sources": [
-          "V2EX"
+          "Hacker News"
         ],
         "source_count": 1,
         "observed_days": 1
       },
       {
-        "title": "There are no \"rogue\" AI agents",
-        "link": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-        "date": "2026-09-27T16:19:46+00:00",
+        "title": "When did Google get so weird?",
+        "link": "https://sancho.bearblog.dev/google-weird/",
+        "date": "2026-09-27T20:12:54+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Embattled Serbian president resigns, paving way for early elections",
+        "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo",
+        "date": "2026-09-27T20:04:21+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合"
+        ],
+        "sources": [
+          "BBC World"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Alan Kay's answer to \"Did the ENIAC have a BIOS\"?",
+        "link": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+        "date": "2026-09-27T19:37:05+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Imp is a full port of DSPy to the BEAM",
+        "link": "https://github.com/deepfates/imp",
+        "date": "2026-09-27T19:28:23+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -151,6 +151,104 @@
     ],
     "by_category": {
       "开发": [
+        {
+          "title": "[MUSE] 我服了，这个节点是关于 Muse 乐队的",
+          "link": "https://www.v2ex.com/t/1245106",
+          "date": "2026-09-27T21:37:51+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Lunar Terminator Paradox",
+          "link": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+          "date": "2026-09-27T21:06:17+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Allegations of US interference in Quebec election",
+          "link": "https://globalnews.ca/news/12073854/quebec-election-u-s-interference/",
+          "date": "2026-09-27T20:17:19+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "When did Google get so weird?",
+          "link": "https://sancho.bearblog.dev/google-weird/",
+          "date": "2026-09-27T20:12:54+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Alan Kay's answer to \"Did the ENIAC have a BIOS\"?",
+          "link": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+          "date": "2026-09-27T19:37:05+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Imp is a full port of DSPy to the BEAM",
+          "link": "https://github.com/deepfates/imp",
+          "date": "2026-09-27T19:28:23+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[问与答] 这是 antigravity 权限被干掉了么~还有办法补救吗？",
+          "link": "https://www.v2ex.com/t/1245105",
+          "date": "2026-09-27T18:41:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "[程序员] 看了影视飓风 Tim 的创业视频，聊聊我的看法",
           "link": "https://www.v2ex.com/t/1245104",
@@ -180,119 +278,49 @@
           "observed_days": 1
         },
         {
-          "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-          "link": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-          "date": "2026-09-27T17:32:02+00:00",
+          "title": "postmarketOS rebrands as Nura",
+          "link": "https://nura.eco/blog/2026/09/27/nura-rename/",
+          "date": "2026-09-27T17:34:21+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Ember-1",
-          "link": "https://fireworks.ai/blog/ember-1",
-          "date": "2026-09-27T17:31:53+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "link": "https://earnanhonestdollar.com/bench",
-          "date": "2026-09-27T17:24:17+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Don't couple your Go code to GitHub",
-          "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-          "date": "2026-09-27T16:50:58+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[人工智能] [开源] KevANE：让 0.6B 决策模型跑在 Mac 神经引擎（ANE）上， GPU 零占用、超低功耗",
-          "link": "https://www.v2ex.com/t/1245102",
-          "date": "2026-09-27T16:49:41+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[分享创造] Kling 4.0 快发了, 效果到底咋样",
-          "link": "https://www.v2ex.com/t/1245101",
-          "date": "2026-09-27T16:40:42+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "There are no \"rogue\" AI agents",
-          "link": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-          "date": "2026-09-27T16:19:46+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[宽带症候群] 写了个 IPv6 路由自动配置工具，一个程序替代 odhcp6c/radvd/odhcpd/ndppd",
-          "link": "https://www.v2ex.com/t/1245100",
-          "date": "2026-09-27T16:14:21+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
+            "Lobsters"
           ],
           "source_count": 1,
           "observed_days": 1
         }
       ],
       "科技": [
+        {
+          "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+          "link": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
+          "date": "2026-09-27T21:59:57+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Engram is a sampler that turns broken AI hallucinations into music",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+          "date": "2026-09-27T20:46:36+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
@@ -307,13 +335,59 @@
           "source_count": 1,
           "observed_days": 1
         }
+      ],
+      "综合": [
+        {
+          "title": "Embattled Serbian president resigns, paving way for early elections",
+          "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo",
+          "date": "2026-09-27T20:04:21+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        }
+      ],
+      "财经": [
+        {
+          "title": "Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms",
+          "link": "https://www.cnbc.com/2026/09/27/trump-government-funded-ads-midterms.html",
+          "date": "2026-09-27T21:38:59+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Anthropic CEO Amodei set to meet with Trump after missing state dinner",
+          "link": "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
+          "date": "2026-09-27T19:13:27+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        }
       ]
     }
   },
   "month": {
     "start": "2026-09-01T00:00:00+08:00",
-    "end": "2026-09-27T18:27:22+00:00",
-    "total": 3786,
+    "end": "2026-09-27T22:15:11+00:00",
+    "total": 3799,
     "items": [
       {
         "title": "One month without AI",
@@ -935,6 +1009,34 @@
           "observed_days": 5
         },
         {
+          "title": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
+          "link": "https://www.nature.com/articles/d41586-026-03016-z",
+          "date": "2026-09-25T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 4
+        },
+        {
+          "title": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
+          "link": "https://www.nature.com/articles/d41586-026-03032-z",
+          "date": "2026-09-25T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 4
+        },
+        {
           "title": "How research funding took me out of the lab and into leadership",
           "link": "https://www.nature.com/articles/d41586-026-02184-2",
           "date": "2026-09-18T00:00:00+00:00",
@@ -1028,34 +1130,6 @@
           ],
           "sources": [
             "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 4
-        },
-        {
-          "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
-          "link": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm",
-          "date": "2026-09-04T06:46:01+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 4
-        },
-        {
-          "title": "Body parts used for ancient Egyptian artworks traced to surprising source",
-          "link": "https://www.nature.com/articles/d41586-026-02739-3",
-          "date": "2026-09-04T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
           ],
           "source_count": 1,
           "observed_days": 4
