@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T22:54:25+00:00",
+  "updated": "2026-09-27T01:30:21+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -103,9 +103,9 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
-          "link": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
-          "date": "2026-09-26T13:30:06+00:00"
+          "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
+          "link": "https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html",
+          "date": "2026-09-26T17:10:32+00:00"
         },
         {
           "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
@@ -113,14 +113,14 @@
           "date": "2026-09-26T16:57:57+00:00"
         },
         {
-          "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
-          "link": "https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html",
-          "date": "2026-09-26T17:10:32+00:00"
-        },
-        {
           "title": "Boeing flags 737 Max software glitch affecting some automated approach functions",
           "link": "https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html",
           "date": "2026-09-26T21:55:01+00:00"
+        },
+        {
+          "title": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
+          "link": "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html",
+          "date": "2026-09-26T15:05:38+00:00"
         },
         {
           "title": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
@@ -300,24 +300,24 @@
           "date": "2026-09-26T20:08:50+00:00"
         },
         {
+          "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
+          "link": "https://tml.stanford.edu/homebody/",
+          "date": "2026-09-26T18:42:10+00:00"
+        },
+        {
           "title": "DeepSeek Elastic Compute (DSec)",
           "link": "https://arxiv.org/abs/2609.22978",
           "date": "2026-09-26T18:22:41+00:00"
         },
         {
-          "title": "Japan moves to tighten rules for foreigners",
-          "link": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-          "date": "2026-09-26T17:43:11+00:00"
+          "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+          "link": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+          "date": "2026-09-26T17:26:54+00:00"
         },
         {
           "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
           "link": "https://github.com/reladraw/reladraw",
           "date": "2026-09-26T17:10:40+00:00"
-        },
-        {
-          "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-          "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-          "date": "2026-09-26T15:56:34+00:00"
         }
       ]
     },
@@ -337,11 +337,6 @@
           "date": "2026-09-26T11:02:48+00:00"
         },
         {
-          "title": "Commodified Intelligence",
-          "link": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
-          "date": "2026-09-25T18:24:29+00:00"
-        },
-        {
           "title": "Go concurrency distilled",
           "link": "https://antonz.org/go-concurrency-distilled/",
           "date": "2026-09-26T12:14:01+00:00"
@@ -350,6 +345,11 @@
           "title": "The JavaScript Pun: tagged template literal",
           "link": "https://shukla.io/blog/2026-09/pun.html",
           "date": "2026-09-26T15:37:12+00:00"
+        },
+        {
+          "title": "Commodified Intelligence",
+          "link": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
+          "date": "2026-09-25T18:24:29+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[问与答] 大家有没有平时用的比较多的 Electron 应用",
-          "link": "https://www.v2ex.com/t/1244960#reply0",
-          "date": "2026-09-26T22:44:40+00:00"
+          "title": "[Claude] Claude 周用量和五小时限额比值",
+          "link": "https://www.v2ex.com/t/1244979#reply0",
+          "date": "2026-09-27T01:27:14+00:00"
         },
         {
-          "title": "[分享创造] Opus 5.5 为我搭建了一套 2D MMORPG 音乐美术管线",
-          "link": "https://www.v2ex.com/t/1244959#reply1",
-          "date": "2026-09-26T19:19:49+00:00"
+          "title": "[OpenAI] Codex 下周会有更多重置",
+          "link": "https://www.v2ex.com/t/1244978#reply1",
+          "date": "2026-09-27T01:09:58+00:00"
         },
         {
-          "title": "[分享创造] 分享一个自用的 V2EX 样式，参考 macOS / Safari 风格",
-          "link": "https://www.v2ex.com/t/1244958#reply4",
-          "date": "2026-09-26T19:08:31+00:00"
+          "title": "[分享创造] 公众号文章想进自己的笔记库，有没有「本地导出 Markdown」的轻方案？",
+          "link": "https://www.v2ex.com/t/1244977#reply1",
+          "date": "2026-09-27T01:07:52+00:00"
         },
         {
-          "title": "[推广] 打破圈壁！为什么说 Bybit 是每个数字游民与全球资产配置者的“生态位终点站”？ Bybit 已支持链上美股， Bybit U 卡支持微信、支付宝、Apple Pay 三 通啦！",
-          "link": "https://www.v2ex.com/t/1244957#reply0",
-          "date": "2026-09-26T18:31:57+00:00"
+          "title": "[独立开发者 👨‍💻] 请教一下：关于海外产品的推广！",
+          "link": "https://www.v2ex.com/t/1244976#reply1",
+          "date": "2026-09-27T00:53:01+00:00"
         },
         {
-          "title": "[分享创造] 做了个应用，把电子书变成一站站带朗读的幻灯片",
-          "link": "https://www.v2ex.com/t/1244956#reply0",
-          "date": "2026-09-26T17:49:35+00:00"
+          "title": "[程序员] 刚刚验证还可以注册 muse，并直接注册成功，没有跳出 xyk 验证的路径",
+          "link": "https://www.v2ex.com/t/1244975#reply4",
+          "date": "2026-09-27T00:49:26+00:00"
         }
       ]
     },
@@ -468,6 +468,38 @@
           "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
           "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
           "date": "2026-09-03T23:59:05+00:00"
+        }
+      ]
+    },
+    {
+      "name": "酷壳",
+      "category": "开发",
+      "url": "https://coolshell.cn/feed",
+      "items": [
+        {
+          "title": "是微服务架构不香还是云不香？",
+          "link": "https://coolshell.cn/articles/22422.html",
+          "date": "2023-05-08T09:52:06+00:00"
+        },
+        {
+          "title": "我看ChatGPT: 为啥谷歌掉了千亿美金",
+          "link": "https://coolshell.cn/articles/22398.html",
+          "date": "2023-02-11T16:31:16+00:00"
+        },
+        {
+          "title": "聊聊 nostr 和 审查",
+          "link": "https://coolshell.cn/articles/22367.html",
+          "date": "2023-02-03T07:46:13+00:00"
+        },
+        {
+          "title": "感染新冠的经历",
+          "link": "https://coolshell.cn/articles/22341.html",
+          "date": "2022-12-13T07:39:39+00:00"
+        },
+        {
+          "title": "eBPF 介绍",
+          "link": "https://coolshell.cn/articles/22320.html",
+          "date": "2022-12-10T02:38:51+00:00"
         }
       ]
     },
@@ -633,7 +665,6 @@
     }
   ],
   "failed": [
-    "36 氪",
-    "酷壳"
+    "36 氪"
   ]
 }
