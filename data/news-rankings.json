@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-28T15:32:30+00:00",
-  "updated": "2026-09-28T15:32:30+00:00",
+  "generated_at": "2026-09-28T22:04:34+00:00",
+  "updated": "2026-09-28T22:04:34+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-09-28T00:00:00+08:00",
-    "end": "2026-09-28T15:32:30+00:00",
-    "total": 116,
+    "end": "2026-09-28T22:04:34+00:00",
+    "total": 155,
     "items": [
       {
         "title": "When did Google get so weird?",
@@ -39,76 +39,6 @@
         "observed_days": 1
       },
       {
-        "title": "[分享创造] 给 Kindle / BOOX 墨水屏做了一个黑白无动画的网页小游戏站",
-        "link": "https://www.v2ex.com/t/1245375",
-        "date": "2026-09-28T15:27:48+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
-        "link": "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html",
-        "date": "2026-09-28T15:22:47+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "财经"
-        ],
-        "sources": [
-          "CNBC"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[🤖Vibe Coding] 我用 5.6 生成方案，拿生成的方案给 6Astra 跑，跑出来的结果却是依托",
-        "link": "https://www.v2ex.com/t/1245374",
-        "date": "2026-09-28T15:22:29+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-        "link": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o",
-        "date": "2026-09-28T15:08:50+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "财经"
-        ],
-        "sources": [
-          "BBC Business"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[远程工作] [长期远程] 数据运营助理｜ 8K-12K/月｜工作时间灵活｜培训完善｜",
-        "link": "https://www.v2ex.com/t/1245373",
-        "date": "2026-09-28T14:58:53+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
         "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
         "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o",
         "date": "2026-09-28T14:57:31+00:00",
@@ -120,39 +50,151 @@
           "BBC World"
         ],
         "source_count": 1,
-        "observed_days": 1
+        "observed_days": 2
       },
       {
-        "title": "[酷工作] [招聘帖] 成都头部 MCN 团队招聘全栈工程师， AI 不限量使用",
-        "link": "https://www.v2ex.com/t/1245372",
-        "date": "2026-09-28T14:57:10+00:00",
+        "title": "What is the Budget and what could be in it?",
+        "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno",
+        "date": "2026-09-28T14:29:49+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "财经"
+        ],
+        "sources": [
+          "BBC Business"
+        ],
+        "source_count": 1,
+        "observed_days": 2
+      },
+      {
+        "title": "Diabetes study finds keeping blood sugar too steady may come at a price",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260927225019.htm",
+        "date": "2026-09-28T13:53:25+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "科研"
+        ],
+        "sources": [
+          "ScienceDaily"
+        ],
+        "source_count": 1,
+        "observed_days": 2
+      },
+      {
+        "title": "Scientists just discovered what coffee really does to your gut and brain",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm",
+        "date": "2026-09-28T13:37:05+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "科研"
+        ],
+        "sources": [
+          "ScienceDaily"
+        ],
+        "source_count": 1,
+        "observed_days": 2
+      },
+      {
+        "title": "美国逾七成沿海地区每年沉降逾 0.1 厘米",
+        "link": "https://www.solidot.org/story?sid=85495",
+        "date": "2026-09-28T13:15:28+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "科技"
+        ],
+        "sources": [
+          "Solidot"
+        ],
+        "source_count": 1,
+        "observed_days": 2
+      },
+      {
+        "title": "Blood tests reveal why astronauts get constipated in space",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260927225030.htm",
+        "date": "2026-09-28T12:49:59+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "科研"
+        ],
+        "sources": [
+          "ScienceDaily"
+        ],
+        "source_count": 1,
+        "observed_days": 2
+      },
+      {
+        "title": "The Download: rogue agent liability and the AI Hype Index",
+        "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+        "date": "2026-09-28T12:10:00+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "AI"
+        ],
+        "sources": [
+          "MIT Technology Review"
+        ],
+        "source_count": 1,
+        "observed_days": 2
+      },
+      {
+        "title": "Hijacking the PS5's RTMP Stream",
+        "link": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+        "date": "2026-09-28T11:45:16+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
         ],
         "sources": [
-          "V2EX"
+          "Lobsters"
         ],
         "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Jensen Huang says AI distillation is 'competition.'",
-        "link": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html",
-        "date": "2026-09-28T14:55:34+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
+        "observed_days": 2
       }
     ],
     "by_category": {
       "AI": [
+        {
+          "title": "The Download: rogue agent liability and the AI Hype Index",
+          "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+          "date": "2026-09-28T12:10:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Who’s liable when AI agents go rogue?",
+          "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+          "date": "2026-09-28T08:06:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "When can we say AI made a scientific discovery?",
+          "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+          "date": "2026-09-28T17:03:16+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
           "link": "https://www.qbitai.com/2026/09/498877.html",
@@ -168,20 +210,6 @@
           "observed_days": 1
         },
         {
-          "title": "The Download: rogue agent liability and the AI Hype Index",
-          "link": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-          "date": "2026-09-28T12:10:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
           "title": "HC归来，华为正重新定义AIDC基础设施",
           "link": "https://www.qbitai.com/2026/09/498787.html",
           "date": "2026-09-28T11:18:27+00:00",
@@ -191,20 +219,6 @@
           ],
           "sources": [
             "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Who’s liable when AI agents go rogue?",
-          "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-          "date": "2026-09-28T08:06:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -242,9 +256,37 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] 给 Kindle / BOOX 墨水屏做了一个黑白无动画的网页小游戏站",
-          "link": "https://www.v2ex.com/t/1245375",
-          "date": "2026-09-28T15:27:48+00:00",
+          "title": "Hijacking the PS5's RTMP Stream",
+          "link": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+          "date": "2026-09-28T11:45:16+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Lobsters"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Yes, no AI is now a feature",
+          "link": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
+          "date": "2026-09-28T09:58:26+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Lobsters"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "[分享创造] 做了个没啥技术的东西，但有觉得有一点点意思",
+          "link": "https://www.v2ex.com/t/1245389",
+          "date": "2026-09-28T21:53:53+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -256,51 +298,9 @@
           "observed_days": 1
         },
         {
-          "title": "[🤖Vibe Coding] 我用 5.6 生成方案，拿生成的方案给 6Astra 跑，跑出来的结果却是依托",
-          "link": "https://www.v2ex.com/t/1245374",
-          "date": "2026-09-28T15:22:29+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[远程工作] [长期远程] 数据运营助理｜ 8K-12K/月｜工作时间灵活｜培训完善｜",
-          "link": "https://www.v2ex.com/t/1245373",
-          "date": "2026-09-28T14:58:53+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[酷工作] [招聘帖] 成都头部 MCN 团队招聘全栈工程师， AI 不限量使用",
-          "link": "https://www.v2ex.com/t/1245372",
-          "date": "2026-09-28T14:57:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Jensen Huang says AI distillation is 'competition.'",
-          "link": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html",
-          "date": "2026-09-28T14:55:34+00:00",
+          "title": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline",
+          "link": "https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/",
+          "date": "2026-09-28T21:08:10+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -312,23 +312,9 @@
           "observed_days": 1
         },
         {
-          "title": "MongoDB CEO resigns \"effective immediately\" to join Meta, stock drops 20%",
-          "link": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
-          "date": "2026-09-28T14:54:21+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[随想] [记录]-2026-09-28 秩序与混沌(AI 生成)",
-          "link": "https://www.v2ex.com/t/1245371",
-          "date": "2026-09-28T14:52:36+00:00",
+          "title": "[AI Agent 智能体] 话说在 Codex 或者 Claude Code 里开 Plan 的时候，有人会给 agent veto 用户决策的想法吗？",
+          "link": "https://www.v2ex.com/t/1245388",
+          "date": "2026-09-28T20:54:50+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -340,9 +326,37 @@
           "observed_days": 1
         },
         {
-          "title": "What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators",
-          "link": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
-          "date": "2026-09-28T14:48:44+00:00",
+          "title": "Palantir founder purchases large swath of forest in Sweden",
+          "link": "https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/",
+          "date": "2026-09-28T20:51:47+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Pacing the Frontier is not the actual goal for AI labs",
+          "link": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
+          "date": "2026-09-28T20:47:26+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+          "link": "https://github.com/firelex/jeff",
+          "date": "2026-09-28T20:23:36+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -356,62 +370,6 @@
       ],
       "科技": [
         {
-          "title": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
-          "link": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale",
-          "date": "2026-09-28T14:55:12+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "The Verge"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-          "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-          "date": "2026-09-28T14:15:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "The Verge"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Bose’s first wired earbuds in 11 years add noise canceling",
-          "link": "https://www.theverge.com/tech/1001326/bose-wired-earbuds-noise-canceling-headphones-preorder",
-          "date": "2026-09-28T14:11:59+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "The Verge"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
-          "link": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
-          "date": "2026-09-28T14:01:39+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "The Verge"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
           "title": "美国逾七成沿海地区每年沉降逾 0.1 厘米",
           "link": "https://www.solidot.org/story?sid=85495",
           "date": "2026-09-28T13:15:28+00:00",
@@ -423,21 +381,7 @@
             "Solidot"
           ],
           "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
-          "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
-          "date": "2026-09-28T11:00:09+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica"
-          ],
-          "source_count": 1,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
           "title": "冲动与拖延之间共享神经遗传基础",
@@ -451,7 +395,7 @@
             "Solidot"
           ],
           "source_count": 1,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
           "title": "余承东：鸿蒙智行「最好开的车」来了！智界 RX 上市，25.98 万元起",
@@ -465,7 +409,7 @@
             "爱范儿"
           ],
           "source_count": 1,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
           "title": "英伟达 GeForce RTX 5090 成为热门走私商品",
@@ -479,7 +423,7 @@
             "Solidot"
           ],
           "source_count": 1,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
           "title": "派评 | 近期值得关注的 App",
@@ -493,7 +437,77 @@
             "少数派"
           ],
           "source_count": 1,
-          "observed_days": 1
+          "observed_days": 2
+        },
+        {
+          "title": "基于 Termux 的 Android 手机开发服务器实操",
+          "link": "https://sspai.com/prime/story/dev-env-on-android-with-termux",
+          "date": "2026-09-28T09:33:03+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "豆包输入法大更新，AI 最自然的入口回到了键盘",
+          "link": "https://www.ifanr.com/1682232",
+          "date": "2026-09-28T09:02:42+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷",
+          "link": "https://sspai.com/post/114972",
+          "date": "2026-09-28T07:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "补能行业变天！蔚来迎来新盟友，吉利将推出换电新车型",
+          "link": "https://www.ifanr.com/1682222",
+          "date": "2026-09-28T04:00:32+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "摸鱼+3 | 还剩三天班，一天一个解谜游戏",
+          "link": "https://sspai.com/post/114967",
+          "date": "2026-09-28T03:00:30+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 2
         }
       ],
       "科研": [
@@ -509,7 +523,7 @@
             "ScienceDaily"
           ],
           "source_count": 1,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
           "title": "Scientists just discovered what coffee really does to your gut and brain",
@@ -523,7 +537,7 @@
             "ScienceDaily"
           ],
           "source_count": 1,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
           "title": "Blood tests reveal why astronauts get constipated in space",
@@ -537,7 +551,7 @@
             "ScienceDaily"
           ],
           "source_count": 1,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
           "title": "Is the universe infinite? The answer gets weird fast",
@@ -551,7 +565,7 @@
             "ScienceDaily"
           ],
           "source_count": 1,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
           "title": "Stephen Hawking biography explores an ‘exceptionally clear, uncluttered mind’",
@@ -637,35 +651,7 @@
             "BBC World"
           ],
           "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Plan for controversial Sydney data centre scrapped after push-back",
-          "link": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo",
-          "date": "2026-09-28T12:47:09+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Mexico's Pacific coast braces for Hurricane Polo",
-          "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o",
-          "date": "2026-09-28T11:05:49+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
           "title": "白宮習特會更多內容公佈 可此刻無聲勝有聲",
@@ -679,21 +665,7 @@
             "BBC 中文"
           ],
           "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Trump-Xi summit: What wasn't said might matter the most",
-          "link": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo",
-          "date": "2026-09-28T07:52:23+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
           "title": "BigBang倫敦開唱：K-pop之王回來了",
@@ -707,7 +679,7 @@
             "BBC 中文"
           ],
           "source_count": 1,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
           "title": "FBI遭黑客入侵起底 特工們的恐懼與憤怒",
@@ -721,7 +693,7 @@
             "BBC 中文"
           ],
           "source_count": 1,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
           "title": "英國美軍在用基地發生反恐案件：我們目前知道什麼？",
@@ -735,21 +707,7 @@
             "BBC 中文"
           ],
           "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "裸甲風潮為何跟「白人至上」發生關聯？",
-          "link": "https://www.bbc.com/zhongwen/articles/cj5ydnw3pxr9o/trad",
-          "date": "2026-09-28T00:11:47+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
           "title": "中美峰會後 伊朗提出七天達成協議 被特朗普拒絕",
@@ -763,52 +721,66 @@
             "BBC 中文"
           ],
           "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Inside Yemen's front-line city as Houthis battle for control",
+          "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no",
+          "date": "2026-09-27T21:16:31+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "French PM warns against escalation of school protests after 164 arrested",
+          "link": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o",
+          "date": "2026-09-28T21:46:53+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+          "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o",
+          "date": "2026-09-28T17:26:21+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
+          "link": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o",
+          "date": "2026-09-28T15:39:19+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
           "observed_days": 1
         }
       ],
       "财经": [
-        {
-          "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
-          "link": "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html",
-          "date": "2026-09-28T15:22:47+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-          "link": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o",
-          "date": "2026-09-28T15:08:50+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Nvidia share buyback plan gets $150 billion boost",
-          "link": "https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html",
-          "date": "2026-09-28T14:46:36+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
         {
           "title": "What is the Budget and what could be in it?",
           "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno",
@@ -821,49 +793,7 @@
             "BBC Business"
           ],
           "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Treasury Secretary Scott Bessent hires Wall Street economist David Zervos",
-          "link": "https://www.cnbc.com/2026/09/28/david-zervos-treasury-department-scott-bessent.html",
-          "date": "2026-09-28T14:14:45+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Trump ‘very seriously’ considering diesel export ban as global supply crunch worsens",
-          "link": "https://www.cnbc.com/2026/09/28/diesel-oil-trump-export-ban-fuel-prices.html",
-          "date": "2026-09-28T13:09:26+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
-          "link": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo",
-          "date": "2026-09-28T11:16:08+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
           "title": "UK diesel price hits all-time high, the RAC says",
@@ -877,12 +807,40 @@
             "BBC Business"
           ],
           "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth $8.2 billion",
+          "link": "https://www.cnbc.com/2026/09/28/amd-fei-fei-li-world-labs.html",
+          "date": "2026-09-28T21:41:25+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Tourism tax needs to be more flexible in Wales, warns expert",
-          "link": "https://www.bbc.co.uk/news/articles/cm4glxn32zypo",
-          "date": "2026-09-28T05:04:54+00:00",
+          "title": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
+          "link": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
+          "date": "2026-09-28T21:20:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "UK tries to stop Trump's diesel export ban",
+          "link": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo",
+          "date": "2026-09-28T20:39:31+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -894,9 +852,9 @@
           "observed_days": 1
         },
         {
-          "title": "SpaceX launches its massive Starship rocket into orbit for the first time",
-          "link": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
-          "date": "2026-09-28T04:12:20+00:00",
+          "title": "Boeing 737 Max 10 certification delayed by software issue, FAA says",
+          "link": "https://www.cnbc.com/2026/09/28/faa-boeing-737-max-10-certification-delay-software-issue.html",
+          "date": "2026-09-28T20:16:04+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -906,14 +864,70 @@
           ],
           "source_count": 1,
           "observed_days": 1
+        },
+        {
+          "title": "Supreme Court Justice Alito will not participate in big climate change case next week",
+          "link": "https://www.cnbc.com/2026/09/28/supreme-court-justice-alito-recusal-climate-change-case.html",
+          "date": "2026-09-28T20:13:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "LeBron James is already boosting ticket and merchandise demand for Philadelphia 76ers",
+          "link": "https://www.cnbc.com/2026/09/28/lebron-james-boosts-ticket-jersey-demand-for-nba-philadelphia-76ers.html",
+          "date": "2026-09-28T20:12:18+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "What a US diesel export ban could mean for you",
+          "link": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo",
+          "date": "2026-09-28T18:18:30+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
+          "link": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o",
+          "date": "2026-09-28T17:45:52+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
         }
       ]
     }
   },
   "month": {
     "start": "2026-09-01T00:00:00+08:00",
-    "end": "2026-09-28T15:32:30+00:00",
-    "total": 3891,
+    "end": "2026-09-28T22:04:34+00:00",
+    "total": 3930,
     "items": [
       {
         "title": "One month without AI",
@@ -1118,6 +1132,34 @@
           "observed_days": 6
         },
         {
+          "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+          "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+          "date": "2026-09-25T12:10:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 5
+        },
+        {
+          "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+          "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+          "date": "2026-09-25T09:16:25+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 5
+        },
+        {
           "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
           "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
           "date": "2026-09-24T12:10:00+00:00",
@@ -1177,34 +1219,6 @@
           "title": "Powering AI is an architecture problem",
           "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
           "date": "2026-09-10T11:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 5
-        },
-        {
-          "title": "The Download: selling battlefield drone data and AI reshaping language",
-          "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
-          "date": "2026-09-04T12:10:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 5
-        },
-        {
-          "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-          "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-          "date": "2026-09-04T09:25:19+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
