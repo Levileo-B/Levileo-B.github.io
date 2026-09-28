@@ -1,45 +1,32 @@
 {
-  "generated_at": "2026-09-27T22:15:11+00:00",
-  "updated": "2026-09-27T22:15:11+00:00",
+  "generated_at": "2026-09-28T00:52:25+00:00",
+  "updated": "2026-09-28T00:52:25+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-09-28T00:00:00+08:00",
-    "end": "2026-09-27T22:15:11+00:00",
-    "total": 24,
+    "end": "2026-09-28T00:52:25+00:00",
+    "total": 40,
     "items": [
       {
-        "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
-        "link": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
-        "date": "2026-09-27T21:59:57+00:00",
+        "title": "Don't couple your Go code to GitHub",
+        "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+        "date": "2026-09-27T16:50:58+00:00",
         "date_is_observed": false,
         "categories": [
-          "科技"
+          "开发"
         ],
         "sources": [
-          "The Verge"
+          "Hacker News",
+          "Lobsters"
         ],
-        "source_count": 1,
+        "source_count": 2,
         "observed_days": 1
       },
       {
-        "title": "Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms",
-        "link": "https://www.cnbc.com/2026/09/27/trump-government-funded-ads-midterms.html",
-        "date": "2026-09-27T21:38:59+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "财经"
-        ],
-        "sources": [
-          "CNBC"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[MUSE] 我服了，这个节点是关于 Muse 乐队的",
-        "link": "https://www.v2ex.com/t/1245106",
-        "date": "2026-09-27T21:37:51+00:00",
+        "title": "[推广] 芒果 AI - 好东西拿上来！新月卡上线，全站模型通用！ GPT 0.1 倍率 ！",
+        "link": "https://www.v2ex.com/t/1245117",
+        "date": "2026-09-28T00:44:59+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -51,99 +38,113 @@
         "observed_days": 1
       },
       {
-        "title": "Lunar Terminator Paradox",
-        "link": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
-        "date": "2026-09-27T21:06:17+00:00",
+        "title": "[推广] 《我享云》机场代理· 限时 3 折 · 月均 1 块 · 免费试用 · 竟然有 IX 专线",
+        "link": "https://www.v2ex.com/t/1245116",
+        "date": "2026-09-28T00:43:59+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
         ],
         "sources": [
-          "Hacker News"
+          "V2EX"
         ],
         "source_count": 1,
         "observed_days": 1
       },
       {
-        "title": "Engram is a sampler that turns broken AI hallucinations into music",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-        "date": "2026-09-27T20:46:36+00:00",
+        "title": "[推广] 银河 ETF 免 5 即将停止，“万一免五”股票基金免 5 大笑脸开户，抽键盘迈从 Ace 68 V2。",
+        "link": "https://www.v2ex.com/t/1245115",
+        "date": "2026-09-28T00:37:17+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[分享发现] 《HelloGitHub》第 126 期",
+        "link": "https://www.v2ex.com/t/1245114",
+        "date": "2026-09-28T00:35:57+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait",
+        "link": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+        "date": "2026-09-28T00:32:09+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "财经"
+        ],
+        "sources": [
+          "CNBC"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "早报｜苹果Vision新项目曝光，减重成为第一目标/三大运营商暂停「零元购机」/问界确认仍属鸿蒙智行",
+        "link": "https://www.ifanr.com/1682201",
+        "date": "2026-09-28T00:25:33+00:00",
         "date_is_observed": false,
         "categories": [
           "科技"
         ],
         "sources": [
-          "The Verge"
+          "爱范儿"
         ],
         "source_count": 1,
         "observed_days": 1
       },
       {
-        "title": "Allegations of US interference in Quebec election",
-        "link": "https://globalnews.ca/news/12073854/quebec-election-u-s-interference/",
-        "date": "2026-09-27T20:17:19+00:00",
+        "title": "[Claude] claude/openai 真的会根据 ip 质量来降智吗？",
+        "link": "https://www.v2ex.com/t/1245113",
+        "date": "2026-09-28T00:22:21+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
         ],
         "sources": [
-          "Hacker News"
+          "V2EX"
         ],
         "source_count": 1,
         "observed_days": 1
       },
       {
-        "title": "When did Google get so weird?",
-        "link": "https://sancho.bearblog.dev/google-weird/",
-        "date": "2026-09-27T20:12:54+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Embattled Serbian president resigns, paving way for early elections",
-        "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo",
-        "date": "2026-09-27T20:04:21+00:00",
+        "title": "裸甲風潮為何跟「白人至上」發生關聯？",
+        "link": "https://www.bbc.com/zhongwen/articles/cj5ydnw3pxr9o/trad",
+        "date": "2026-09-28T00:11:47+00:00",
         "date_is_observed": false,
         "categories": [
           "综合"
         ],
         "sources": [
-          "BBC World"
+          "BBC 中文"
         ],
         "source_count": 1,
         "observed_days": 1
       },
       {
-        "title": "Alan Kay's answer to \"Did the ENIAC have a BIOS\"?",
-        "link": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-        "date": "2026-09-27T19:37:05+00:00",
+        "title": "中美峰會後 伊朗提出七天達成協議 被特朗普拒絕",
+        "link": "https://www.bbc.com/zhongwen/articles/cx5yln334jq5o/trad",
+        "date": "2026-09-28T00:10:38+00:00",
         "date_is_observed": false,
         "categories": [
-          "开发"
+          "综合"
         ],
         "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Imp is a full port of DSPy to the BEAM",
-        "link": "https://github.com/deepfates/imp",
-        "date": "2026-09-27T19:28:23+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
+          "BBC 中文"
         ],
         "source_count": 1,
         "observed_days": 1
@@ -151,6 +152,91 @@
     ],
     "by_category": {
       "开发": [
+        {
+          "title": "Don't couple your Go code to GitHub",
+          "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+          "date": "2026-09-27T16:50:58+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "[推广] 芒果 AI - 好东西拿上来！新月卡上线，全站模型通用！ GPT 0.1 倍率 ！",
+          "link": "https://www.v2ex.com/t/1245117",
+          "date": "2026-09-28T00:44:59+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[推广] 《我享云》机场代理· 限时 3 折 · 月均 1 块 · 免费试用 · 竟然有 IX 专线",
+          "link": "https://www.v2ex.com/t/1245116",
+          "date": "2026-09-28T00:43:59+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[推广] 银河 ETF 免 5 即将停止，“万一免五”股票基金免 5 大笑脸开户，抽键盘迈从 Ace 68 V2。",
+          "link": "https://www.v2ex.com/t/1245115",
+          "date": "2026-09-28T00:37:17+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[分享发现] 《HelloGitHub》第 126 期",
+          "link": "https://www.v2ex.com/t/1245114",
+          "date": "2026-09-28T00:35:57+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[Claude] claude/openai 真的会根据 ip 质量来降智吗？",
+          "link": "https://www.v2ex.com/t/1245113",
+          "date": "2026-09-28T00:22:21+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "[MUSE] 我服了，这个节点是关于 Muse 乐队的",
           "link": "https://www.v2ex.com/t/1245106",
@@ -180,6 +266,20 @@
           "observed_days": 1
         },
         {
+          "title": "My Recent Woodworking Projects",
+          "link": "https://notoriousbfg.com/recent-woodworking-projects/",
+          "date": "2026-09-27T20:33:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Allegations of US interference in Quebec election",
           "link": "https://globalnews.ca/news/12073854/quebec-election-u-s-interference/",
           "date": "2026-09-27T20:17:19+00:00",
@@ -192,107 +292,37 @@
           ],
           "source_count": 1,
           "observed_days": 1
-        },
-        {
-          "title": "When did Google get so weird?",
-          "link": "https://sancho.bearblog.dev/google-weird/",
-          "date": "2026-09-27T20:12:54+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Alan Kay's answer to \"Did the ENIAC have a BIOS\"?",
-          "link": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-          "date": "2026-09-27T19:37:05+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Imp is a full port of DSPy to the BEAM",
-          "link": "https://github.com/deepfates/imp",
-          "date": "2026-09-27T19:28:23+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[问与答] 这是 antigravity 权限被干掉了么~还有办法补救吗？",
-          "link": "https://www.v2ex.com/t/1245105",
-          "date": "2026-09-27T18:41:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[程序员] 看了影视飓风 Tim 的创业视频，聊聊我的看法",
-          "link": "https://www.v2ex.com/t/1245104",
-          "date": "2026-09-27T18:17:56+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[宽带症候群] 爱快的 UU 加速器问题",
-          "link": "https://www.v2ex.com/t/1245103",
-          "date": "2026-09-27T17:58:30+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "postmarketOS rebrands as Nura",
-          "link": "https://nura.eco/blog/2026/09/27/nura-rename/",
-          "date": "2026-09-27T17:34:21+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "科技": [
+        {
+          "title": "早报｜苹果Vision新项目曝光，减重成为第一目标/三大运营商暂停「零元购机」/问界确认仍属鸿蒙智行",
+          "link": "https://www.ifanr.com/1682201",
+          "date": "2026-09-28T00:25:33+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "派早报：OpenAI 称与苹果合作效果不佳",
+          "link": "https://sspai.com/post/115079",
+          "date": "2026-09-27T23:03:45+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
           "link": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
@@ -338,6 +368,48 @@
       ],
       "综合": [
         {
+          "title": "裸甲風潮為何跟「白人至上」發生關聯？",
+          "link": "https://www.bbc.com/zhongwen/articles/cj5ydnw3pxr9o/trad",
+          "date": "2026-09-28T00:11:47+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "中美峰會後 伊朗提出七天達成協議 被特朗普拒絕",
+          "link": "https://www.bbc.com/zhongwen/articles/cx5yln334jq5o/trad",
+          "date": "2026-09-28T00:10:38+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Inside Yemen's front-line city as Houthis battle for control",
+          "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no",
+          "date": "2026-09-27T21:16:31+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Embattled Serbian president resigns, paving way for early elections",
           "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo",
           "date": "2026-09-27T20:04:21+00:00",
@@ -353,6 +425,48 @@
         }
       ],
       "财经": [
+        {
+          "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait",
+          "link": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+          "date": "2026-09-28T00:32:09+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "You need £17,000 for a first home - here's how to do it",
+          "link": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o",
+          "date": "2026-09-27T23:20:43+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
+          "link": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo",
+          "date": "2026-09-27T23:01:47+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms",
           "link": "https://www.cnbc.com/2026/09/27/trump-government-funded-ads-midterms.html",
@@ -386,8 +500,8 @@
   },
   "month": {
     "start": "2026-09-01T00:00:00+08:00",
-    "end": "2026-09-27T22:15:11+00:00",
-    "total": 3799,
+    "end": "2026-09-28T00:52:25+00:00",
+    "total": 3815,
     "items": [
       {
         "title": "One month without AI",
