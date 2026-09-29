@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-09-29T02:00:29+00:00",
-  "updated": "2026-09-29T02:00:29+00:00",
+  "generated_at": "2026-09-29T08:35:16+00:00",
+  "updated": "2026-09-29T08:35:16+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-09-28T00:00:00+08:00",
-    "end": "2026-09-29T02:00:29+00:00",
-    "total": 181,
+    "end": "2026-09-29T08:35:16+00:00",
+    "total": 209,
     "items": [
+      {
+        "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+        "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o",
+        "date": "2026-09-29T04:10:33+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
       {
         "title": "OpenAI scraps rollout of new model over safety concerns",
         "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko",
@@ -138,20 +154,6 @@
         ],
         "source_count": 1,
         "observed_days": 2
-      },
-      {
-        "title": "Blood tests reveal why astronauts get constipated in space",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260927225030.htm",
-        "date": "2026-09-28T12:49:59+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科研"
-        ],
-        "sources": [
-          "ScienceDaily"
-        ],
-        "source_count": 1,
-        "observed_days": 2
       }
     ],
     "by_category": {
@@ -211,6 +213,34 @@
           ],
           "source_count": 1,
           "observed_days": 2
+        },
+        {
+          "title": "OpenAI因新模型太强叫停发布",
+          "link": "https://www.qbitai.com/2026/09/499140.html",
+          "date": "2026-09-29T07:49:20+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+          "link": "https://www.qbitai.com/2026/09/499135.html",
+          "date": "2026-09-29T07:10:59+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
         },
         {
           "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
@@ -330,9 +360,9 @@
           "observed_days": 2
         },
         {
-          "title": "[生活] 过了三十你还行吗",
-          "link": "https://www.v2ex.com/t/1245426",
-          "date": "2026-09-29T01:56:59+00:00",
+          "title": "[生活] 看 hot1， hot2 有感",
+          "link": "https://www.v2ex.com/t/1245578",
+          "date": "2026-09-29T08:34:32+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -344,9 +374,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] 做了个 Mac 防休眠小工具，主要为了合盖后继续跑 Codex",
-          "link": "https://www.v2ex.com/t/1245425",
-          "date": "2026-09-29T01:53:02+00:00",
+          "title": "[分享创造] 做了个漫画生成器：基于 HF AI Comic Factory，补了角色一致性和故事连续性",
+          "link": "https://www.v2ex.com/t/1245576",
+          "date": "2026-09-29T08:25:42+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -358,9 +388,9 @@
           "observed_days": 1
         },
         {
-          "title": "[问与答] Google Pay 无法通过招行 visa 卡支付了",
-          "link": "https://www.v2ex.com/t/1245424",
-          "date": "2026-09-29T01:50:26+00:00",
+          "title": "[问与答] 求可以下载安装 skill 的手机 APP 推荐",
+          "link": "https://www.v2ex.com/t/1245575",
+          "date": "2026-09-29T08:24:15+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -372,9 +402,9 @@
           "observed_days": 1
         },
         {
-          "title": "[问与答] 被 Github 和招行互相踢皮球",
-          "link": "https://www.v2ex.com/t/1245423",
-          "date": "2026-09-29T01:50:04+00:00",
+          "title": "[分享创造] 微信多人 AA 账本,支持公费池",
+          "link": "https://www.v2ex.com/t/1245573",
+          "date": "2026-09-29T08:17:39+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -386,9 +416,9 @@
           "observed_days": 1
         },
         {
-          "title": "[问与答] 给祖国妈妈准备礼物？",
-          "link": "https://www.v2ex.com/t/1245422",
-          "date": "2026-09-29T01:48:26+00:00",
+          "title": "[求职] [求职] 准备半年过去，我还想挣扎一下；若是感兴趣，我节后狠狠准备一下。",
+          "link": "https://www.v2ex.com/t/1245572",
+          "date": "2026-09-29T08:17:12+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -672,6 +702,22 @@
       ],
       "综合": [
         {
+          "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+          "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o",
+          "date": "2026-09-29T04:10:33+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "OpenAI scraps rollout of new model over safety concerns",
           "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko",
           "date": "2026-09-29T01:51:25+00:00",
@@ -702,7 +748,7 @@
           "observed_days": 2
         },
         {
-          "title": "白宮習特會更多內容公佈 可此刻無聲勝有聲",
+          "title": "特朗普習近平峰會：沒有說出口的議題可能更重要",
           "link": "https://www.bbc.com/zhongwen/articles/cmzxzl450p2no/trad",
           "date": "2026-09-28T10:38:17+00:00",
           "date_is_observed": false,
@@ -786,23 +832,9 @@
           "observed_days": 2
         },
         {
-          "title": "帶一杯冰咖啡去面試，會令你失去工作機會嗎？",
-          "link": "https://www.bbc.com/zhongwen/articles/cm9w4zv14lz2o/trad",
-          "date": "2026-09-29T00:07:38+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "人工智能末世論：為什麼有人相信AI是敵基督，誘騙人類崇拜撒旦",
-          "link": "https://www.bbc.com/zhongwen/articles/c54g7dr9nlkpo/trad",
-          "date": "2026-09-29T00:07:32+00:00",
+          "title": "伊朗女歌手演出不戴頭巾遭判笞刑74鞭 上訴遭駁回",
+          "link": "https://www.bbc.com/zhongwen/articles/cq5yj1dd5wxyo/trad",
+          "date": "2026-09-29T07:00:12+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -815,6 +847,22 @@
         }
       ],
       "财经": [
+        {
+          "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+          "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o",
+          "date": "2026-09-29T04:10:33+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
         {
           "title": "OpenAI scraps rollout of new model over safety concerns",
           "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko",
@@ -860,93 +908,79 @@
           "observed_days": 2
         },
         {
+          "title": "Mistral CEO says U.S. AI safety debate masks competitors’ 'negligence'",
+          "link": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
+          "date": "2026-09-29T08:20:04+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Treasury yields ease as inflation concerns persist",
+          "link": "https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html",
+          "date": "2026-09-29T08:17:15+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "CNBC Daily Open: AI’s creators sound the alarm — while others keep building the infrastructure",
+          "link": "https://www.cnbc.com/2026/09/29/daily-open-ai-nvidia-anthropic-openai-samsung.html",
+          "date": "2026-09-29T07:27:18+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Australia says more hikes not off the table after raising rates to 15-year high",
+          "link": "https://www.cnbc.com/2026/09/29/australia-rates-inflation-monetary-policy.html",
+          "date": "2026-09-29T05:00:58+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "U.S., Iran hold separate mediator talks as Mideast oil exports hit war-time high",
+          "link": "https://www.cnbc.com/2026/09/29/us-iran-war-trump-hormuz-.html",
+          "date": "2026-09-29T04:02:47+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Oil extends gains as Middle East supply concerns persist",
           "link": "https://www.cnbc.com/2026/09/29/oil-prices-today-brent-wti-hormuz.html",
           "date": "2026-09-29T01:53:31+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm",
-          "link": "https://www.cnbc.com/2026/09/29/samsung-investment-nvidia-kkr-ai-helix-digital.html",
-          "date": "2026-09-29T01:48:52+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Burnham to unveil public body to invest in electricity grid",
-          "link": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro",
-          "date": "2026-09-29T00:40:29+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "OpenAI abandons plan to release upcoming model as safety concerns escalate",
-          "link": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
-          "date": "2026-09-28T23:19:46+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Warning more homes will be uninsurable due to flood risk",
-          "link": "https://www.bbc.co.uk/news/articles/c60qxk288e57o",
-          "date": "2026-09-28T23:10:13+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Unis are offering degrees in content creation for £30,000. But are they worth it?",
-          "link": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo",
-          "date": "2026-09-28T23:10:06+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth $8.2 billion",
-          "link": "https://www.cnbc.com/2026/09/28/amd-fei-fei-li-world-labs.html",
-          "date": "2026-09-28T21:41:25+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -962,8 +996,8 @@
   },
   "month": {
     "start": "2026-09-01T00:00:00+08:00",
-    "end": "2026-09-29T02:00:29+00:00",
-    "total": 3955,
+    "end": "2026-09-29T08:35:16+00:00",
+    "total": 3983,
     "items": [
       {
         "title": "One month without AI",
