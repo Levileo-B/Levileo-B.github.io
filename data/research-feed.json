@@ -1,0 +1,2033 @@
+{
+  "schema_version": 1,
+  "updated": "2026-09-29T09:33:13.102387+00:00",
+  "attempted_at": "2026-09-29T09:33:13.102387+00:00",
+  "sources": [
+    {
+      "journal_id": "frontiers",
+      "status": "ok",
+      "last_success": "2026-09-29T09:33:13.102387+00:00",
+      "errors": []
+    },
+    {
+      "journal_id": "isprs",
+      "status": "ok",
+      "last_success": "2026-09-29T09:33:13.102387+00:00",
+      "errors": []
+    },
+    {
+      "journal_id": "jfr",
+      "status": "ok",
+      "last_success": "2026-09-29T09:33:13.102387+00:00",
+      "errors": []
+    },
+    {
+      "journal_id": "ral",
+      "status": "ok",
+      "last_success": "2026-09-29T09:33:13.102387+00:00",
+      "errors": []
+    },
+    {
+      "journal_id": "ras",
+      "status": "ok",
+      "last_success": "2026-09-29T09:33:13.102387+00:00",
+      "errors": []
+    },
+    {
+      "journal_id": "remote-sensing",
+      "status": "ok",
+      "last_success": "2026-09-29T09:33:13.102387+00:00",
+      "errors": []
+    },
+    {
+      "journal_id": "scientific-reports",
+      "status": "ok",
+      "last_success": "2026-09-29T09:33:13.102387+00:00",
+      "errors": []
+    },
+    {
+      "journal_id": "tro",
+      "status": "partial",
+      "last_success": "2026-09-29T09:33:13.102387+00:00",
+      "errors": [
+        "avoidance: HTTPError 429"
+      ]
+    }
+  ],
+  "papers": [
+    {
+      "id": "10.1038/s41598-026-73677-3",
+      "title": "Resource-aware structural point-line RGB-D SLAM for dynamic indoor environments",
+      "journal_id": "scientific-reports",
+      "published": "2026-09-29",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-73677-3",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3389/frobt.2026.1781310",
+      "title": "Efficient multi-robot exploration using deterministic and metaheuristic methods",
+      "journal_id": "frontiers",
+      "published": "2026-09-28",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3389/frobt.2026.1781310",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-67147-z",
+      "title": "A forecast-guided reinforcement learning approach for trajectory planning of unmanned aerial base stations",
+      "journal_id": "scientific-reports",
+      "published": "2026-09-28",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-67147-z",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-71322-7",
+      "title": "Improved DASP-guided normal vector refinement for automatic discontinuity identification in 3D rock mass point clouds",
+      "journal_id": "scientific-reports",
+      "published": "2026-09-26",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-71322-7",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18193312",
+      "title": "A Teacher–Student Point Cloud Segmentation Framework for Challenging Features",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-25",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18193312",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18193287",
+      "title": "TCSF-Net: Transformer-Cloth Simulation Filtering Fusion Network for Semantic Segmentation of Densely Vegetated River Levee LiDAR Point Clouds",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-23",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18193287",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-72613-9",
+      "title": "LIO-EAC: gravity-referenced external altitude compensation for LiDAR-inertial odometry",
+      "journal_id": "scientific-reports",
+      "published": "2026-09-22",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-72613-9",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18183261",
+      "title": "Real-Time Target Detection in Compressed Domain for Streak Tube LiDAR by Two-Pass Labeling and Sparse Attention",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-21",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18183261",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18183249",
+      "title": "Assessing and Improving Geolocation of InSAR Scatterers with LiDAR Data",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-21",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18183249",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3389/frobt.2026.1987759",
+      "title": "Correction: Distributed environmental sensing and soil moisture gradient navigation in modular robots",
+      "journal_id": "frontiers",
+      "published": "2026-09-21",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "更正",
+      "url": "https://doi.org/10.3389/frobt.2026.1987759",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-70743-8",
+      "title": "Quantum game-theoretic reinforcement learning for autonomous vehicle navigation and communication in vehicular networks",
+      "journal_id": "scientific-reports",
+      "published": "2026-09-21",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-70743-8",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18183240",
+      "title": "Rock Detection and Arability Mapping Using Airborne LiDAR-RGB Fusion and Machine Learning",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-20",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18183240",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18183222",
+      "title": "LiDAR-Based Sub-Canopy Surface Water Detection in a Post-Mining Environment",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-19",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18183222",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-69784-w",
+      "title": "UAV path planning based on improved Whale Optimization Algorithm in multi-obstacle scenarios",
+      "journal_id": "scientific-reports",
+      "published": "2026-09-19",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-69784-w",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-68537-z",
+      "title": "Revisiting multi-objective three-dimensional trajectory planning in dynamic unmanned aerial vehicles assisted systems using online Monte Carlo Search methods",
+      "journal_id": "scientific-reports",
+      "published": "2026-09-18",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-68537-z",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18183206",
+      "title": "SDFA-Net: Urban Manhole Cover Detection via Fisheye Image and LiDAR Point Cloud Fusion",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-17",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18183206",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3389/frobt.2026.1859583",
+      "title": "A review of full-stack autonomous obstacle avoidance for assistive robots for the disabled",
+      "journal_id": "frontiers",
+      "published": "2026-09-16",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3389/frobt.2026.1859583",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-71588-x",
+      "title": "Real-time RGB-D SLAM with Gaussian scene representation for dynamic environments",
+      "journal_id": "scientific-reports",
+      "published": "2026-09-16",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-71588-x",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-70790-1",
+      "title": "UAV path planning using NSGA-II and BOA algorithms for surveillance applications based on bank-to-turn strategy",
+      "journal_id": "scientific-reports",
+      "published": "2026-09-15",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-70790-1",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18183158",
+      "title": "From Wood–Foliar Semantics to 3D Fuel Characterization: Transferable Deep Learning for Terrestrial LiDAR Across Global Forest Ecosystems",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-14",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18183158",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18183153",
+      "title": "Adaptive Window-Width Trapezoidal Centroid Algorithm for High-Precision Pulsed LiDAR Ranging and Intensity Imaging",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-13",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18183153",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18183148",
+      "title": "Self-Supervised 3D Point Cloud Detection with Depthwise Separable Masked Autoencoders",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-13",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18183148",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-71082-4",
+      "title": "A semantic–kinematic mapping framework for user-centered transfer-assist nursing robot design",
+      "journal_id": "scientific-reports",
+      "published": "2026-09-13",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-71082-4",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70347",
+      "title": "SegCert‐PCR: Ground Segmentation Based Certifiable Point Cloud Registration in Unstructured Field Environments",
+      "journal_id": "jfr",
+      "published": "2026-09-13",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70347",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-69735-5",
+      "title": "Reinforcement learning-guided multi-objective trajectory planning for obstacle avoidance in robotic manipulators",
+      "journal_id": "scientific-reports",
+      "published": "2026-09-12",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-69735-5",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3389/frobt.2026.1789488",
+      "title": "Autonomous navigation and active perception with complex articulated AUVs",
+      "journal_id": "frontiers",
+      "published": "2026-09-11",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3389/frobt.2026.1789488",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-69017-0",
+      "title": "SDA-Reg: large-scale dynamic scene point cloud registration with semantic dual-stream attention",
+      "journal_id": "scientific-reports",
+      "published": "2026-09-11",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-69017-0",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18183111",
+      "title": "Properties and Temporal Evolution of an Elevated Arctic Liquid Fog by Lidar",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-10",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18183111",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-70257-3",
+      "title": "A coarse registration framework for 3D point clouds based on partial assignment and hypothesis feedback",
+      "journal_id": "scientific-reports",
+      "published": "2026-09-09",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-70257-3",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18173059",
+      "title": "A Unified Framework for Individual Tree Segmentation and Forest Biometrics Derivation from LiDAR Point Clouds Captured by Different Platforms in Diverse Forest Environments",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-07",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18173059",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70322",
+      "title": "An Information‐Driven Multilevel Path Planning Framework for Unmanned Surface Vehicles in Environmental Monitoring of Uninhabited Islands and Reefs",
+      "journal_id": "jfr",
+      "published": "2026-09-07",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70322",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18173035",
+      "title": "A-Predator: A Multibeam Echosounder Point Cloud Registration Network with Anisotropic Kernel Point Convolution",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-05",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18173035",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18173024",
+      "title": "Pinus pinaster Seedling Detection in Coastal Dune Plantations Using a UAS Multispectral Point Cloud and Point Transformer V3",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-04",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18173024",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18173018",
+      "title": "GSSP-KAN: An Efficient Kansformer-Based Network with Grouped Separable Sparse Convolution for Large-Scale LiDAR Point Cloud Semantic Segmentation",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-04",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18173018",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18173007",
+      "title": "Trajectory-Guided Photon Accumulation for Photon-Efficient LiDAR Remote Sensing in Low-SBR Dynamic Scenes",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-04",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18173007",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18173005",
+      "title": "RoadMark-AWAConv: Adaptive Weight-Anchor Convolution for Fine-Grained Semantic Segmentation of Road Marking Point Clouds",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-04",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18173005",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-70043-1",
+      "title": "A comparative study of path planning algorithms for low-altitude emergency medical UAVs considering task priorities",
+      "journal_id": "scientific-reports",
+      "published": "2026-09-04",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-70043-1",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-69295-8",
+      "title": "High-fidelity update method for multi-temporal point cloud models with semantic-geometric collaborative constraints",
+      "journal_id": "scientific-reports",
+      "published": "2026-09-04",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-69295-8",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18172994",
+      "title": "CenterPoint-UAV: Context-Detail BEV Refinement for 3D Object Detection in UAV Point Clouds",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-03",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18172994",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18172993",
+      "title": "Semantic Segmentation for 3D Point Clouds with Curvature-Aware Sampling and Inverse-Density Weighting",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-03",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18172993",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18172990",
+      "title": "GFE-Net: Geometry-Enhanced Feature Extraction Network for Semantic Segmentation of Large-Scale LiDAR Point Clouds",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-03",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18172990",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18172988",
+      "title": "Evaluating the Impact of DEM Resolution on Landslide Hazard Assessment: A Comparative Study Using LiDAR and 1:5000 Topographic Map-Derived DEMs",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-03",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18172988",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18172983",
+      "title": "Boot-Shaped Terrain Screening and Deep Learning Semantic Segmentation for Landslide-Hazard Candidate Extraction from Airborne LiDAR DEM: A Case Study in Zhenxiong County, China",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-03",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18172983",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3389/frobt.2026.1974584",
+      "title": "Editorial: Robotic perception, multi-robot exploration, mapping, and autonomous computing",
+      "journal_id": "frontiers",
+      "published": "2026-09-03",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3389/frobt.2026.1974584",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18172943",
+      "title": "Volumetric Impact Characterization of the 2025 Palisades and Eaton Fires Using Aerial LiDAR",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-01",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18172943",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18172938",
+      "title": "Multidimensional Quantification of Engineering Distresses and Secondary Periglacial Hazards Along Linear Infrastructure in the Permafrost Region of Northeast China Using UAV-LiDAR and Synchronous Visible-Light Imagery",
+      "journal_id": "remote-sensing",
+      "published": "2026-09-01",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18172938",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3719229",
+      "title": "Bridging the Modality Gap With Differentiable Intensity Rendering for Online LiDAR-Camera Calibration",
+      "journal_id": "ral",
+      "published": "2026-09",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3719229",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3717193",
+      "title": "LiDAR-Anchored Collaborative Distillation for Robust 2D Representations",
+      "journal_id": "ral",
+      "published": "2026-09",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3717193",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3715038",
+      "title": "FAST-LIEO2: Fast and Tightly-Coupled LiDAR-Inertial-Event Odometry",
+      "journal_id": "ral",
+      "published": "2026-09",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3715038",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3715037",
+      "title": "PolarBEVPlace: Rotation-Robust LiDAR Place Recognition via Radial Distortion-Aware Polar Transform",
+      "journal_id": "ral",
+      "published": "2026-09",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3715037",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3715029",
+      "title": "VTLoc: Learning-Based Tactile Contact Localization in Visual Point Clouds",
+      "journal_id": "ral",
+      "published": "2026-09",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3715029",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3715028",
+      "title": "Enhancing Mapping Consistency for Motion Consistency: Spatio-Temporal Gaussian Process Maps for Autonomous Navigation in Dynamic Environments",
+      "journal_id": "ral",
+      "published": "2026-09",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3715028",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3711875",
+      "title": "Real-Time Path Planning for Tethered Robots in Extreme Environments Based on Constraint Consistency and Optimality",
+      "journal_id": "ral",
+      "published": "2026-09",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3711875",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3711857",
+      "title": "WiSER-X: Wireless Signal-Based Decentralized Multi-Robot Exploration Without Explicit Information Exchange",
+      "journal_id": "ral",
+      "published": "2026-09",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3711857",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3710050",
+      "title": "DRGC-PRO: Cross-Modal Panoramic Relocalization Optimization in Prior LiDAR Maps via Directional Residual Global Consistency",
+      "journal_id": "ral",
+      "published": "2026-09",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3710050",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3710002",
+      "title": "UAF-LIVO: Uncertainty-Aware Feature-Based LiDAR-Inertial-Visual Odometry Robust to Cross-Modal Geometric Inconsistency",
+      "journal_id": "ral",
+      "published": "2026-09",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3710002",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3709645",
+      "title": "MSC-SLAM: Massif Shape Context for Point Cloud Registration and Loop Closing in Unstructured Environment",
+      "journal_id": "ral",
+      "published": "2026-09",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3709645",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3709634",
+      "title": "Real-Time Dynamic Safe Trajectory Planning for Orchard Picking Manipulator: MPC-Based Contact Force Suppression",
+      "journal_id": "ral",
+      "published": "2026-09",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3709634",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3707346",
+      "title": "Structure-Aware GS-SLAM With Multi-Gaussian Refinement",
+      "journal_id": "ral",
+      "published": "2026-09",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3707346",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105767",
+      "title": "Spatio-temporal trajectory planning with group-based decision topology for autonomous vehicle",
+      "journal_id": "ras",
+      "published": "2026-09",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105767",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105754",
+      "title": "Actuator-aware diffusion motion planning for hyper-redundant tendon-driven continuum robots",
+      "journal_id": "ras",
+      "published": "2026-09",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105754",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.06.033",
+      "title": "Enhancing point clouds for multi-scale object monitoring in large railway infrastructure scenes",
+      "journal_id": "isprs",
+      "published": "2026-09",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.06.033",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.06.029",
+      "title": "Allroad-SLAM: Factor graph-based 3D reconstruction in diverse road scenarios with a consumer-grade GNSS-LiDAR-inertial system",
+      "journal_id": "isprs",
+      "published": "2026-09",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.06.029",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.06.012",
+      "title": "R3LIO: Robust reflectivity-assisted rotating LiDAR-inertial odometry for degenerate and unstructured environments",
+      "journal_id": "isprs",
+      "published": "2026-09",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.06.012",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.05.051",
+      "title": "Relative Energy Learning for LiDAR out-of-distribution detection",
+      "journal_id": "isprs",
+      "published": "2026-09",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.05.051",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.05.044",
+      "title": "GLoC: Global–local graph fusion and clique search for LiDAR place recognition",
+      "journal_id": "isprs",
+      "published": "2026-09",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.05.044",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3389/frobt.2026.1802470",
+      "title": "Hierarchical path planning for low-altitude logistics UAVs in complex urban environments: an enhanced weighted A* approach with geometric smoothing",
+      "journal_id": "frontiers",
+      "published": "2026-08-28",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3389/frobt.2026.1802470",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-64648-9",
+      "title": "LiDAR-based navigation system for spiral-driven grain silo robots using enhanced D*lite",
+      "journal_id": "scientific-reports",
+      "published": "2026-08-27",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-64648-9",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18172883",
+      "title": "How Accurately Can Smartphone LiDAR Document the Exposed Coarse Root Architecture of Scots Pine? A Low-Cost Field Workflow",
+      "journal_id": "remote-sensing",
+      "published": "2026-08-26",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18172883",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18172879",
+      "title": "A Closed-Form Statistical Expression for Evaluating Wind Speed and Direction Prediction Intervals from Doppler Lidar Arc Scans",
+      "journal_id": "remote-sensing",
+      "published": "2026-08-26",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18172879",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70328",
+      "title": "Visual Point‐Line and Inertial Measurement Unit Fusion‐Based Simultaneous Localization and Mapping Algorithm for Robotic Grinding of Wind Turbine Blades",
+      "journal_id": "jfr",
+      "published": "2026-08-26",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70328",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18172864",
+      "title": "Quantitative Assessment of LiDAR Availability in Smoke-Filled Tunnels Using a Degradation Scoring Algorithm",
+      "journal_id": "remote-sensing",
+      "published": "2026-08-24",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18172864",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3389/frobt.2026.1895019",
+      "title": "Distributed environmental sensing and soil moisture gradient navigation in modular robots",
+      "journal_id": "frontiers",
+      "published": "2026-08-24",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3389/frobt.2026.1895019",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70336",
+      "title": "Hierarchical Path Planning for On‐Board Mechanical Arm Construction Robots Based on I‐Bi‐RRT‐APF and LLM‐DT",
+      "journal_id": "jfr",
+      "published": "2026-08-24",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70336",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70331",
+      "title": "A Novel Instance Segmentation‐Based Navigation Line Extraction for Paddy‐Field Weeding Robot",
+      "journal_id": "jfr",
+      "published": "2026-08-24",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70331",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18162841",
+      "title": "Sharing Cultural Values Through 3D Point-Cloud-Based Documentation of Transylvanian Heritage",
+      "journal_id": "remote-sensing",
+      "published": "2026-08-21",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18162841",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-67953-5",
+      "title": "Mapping and autonomous navigation of TurtleBot2 using hybridization of A* algorithm, DWA, and RatSLAM",
+      "journal_id": "scientific-reports",
+      "published": "2026-08-21",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-67953-5",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-63761-z",
+      "title": "Local path planning for autonomous vehicles: a dynamic potential field-guided and force-coupled adaptive pure pursuit approach",
+      "journal_id": "scientific-reports",
+      "published": "2026-08-21",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-63761-z",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18162814",
+      "title": "Predicting LiDAR-Derived Canopy Leaf Area Index in Loblolly Pine Plantations with Sentinel-2 Imagery Using a Convolutional Neural Network Approach",
+      "journal_id": "remote-sensing",
+      "published": "2026-08-20",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18162814",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18162804",
+      "title": "Geo-Consistent Centralized Multi-UAV Gaussian SLAM for Incremental Orthophoto Generation",
+      "journal_id": "remote-sensing",
+      "published": "2026-08-19",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18162804",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70332",
+      "title": "A 3D‐Printed Auxetic Metamaterial Robot for Adaptive Navigation in Pipelines With Complex Geometries",
+      "journal_id": "jfr",
+      "published": "2026-08-19",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70332",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70319",
+      "title": "Research and Field Test of Autonomous Underwater Vehicles Cooperative‐Navigation Method in Terrain Mapping",
+      "journal_id": "jfr",
+      "published": "2026-08-17",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70319",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-65488-3",
+      "title": "A common WBGT limit activates unequally across Grand Slam tennis venues because dry heat suppresses the wet-bulb term",
+      "journal_id": "scientific-reports",
+      "published": "2026-08-14",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-65488-3",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-62838-z",
+      "title": "SFPathFormer for spatial frequency robot navigation and obstacle avoidance",
+      "journal_id": "scientific-reports",
+      "published": "2026-08-14",
+      "topics": [
+        "navigation",
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-62838-z",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70323",
+      "title": "PROMO‐Orchard: A Robust Semantic‐Enhanced Framework for Dual‐Robot Simultaneous Localization and Mapping Merging in Orchard",
+      "journal_id": "jfr",
+      "published": "2026-08-14",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70323",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-66447-8",
+      "title": "Robust local feature descriptor for 3D point cloud analysis using siamese networks",
+      "journal_id": "scientific-reports",
+      "published": "2026-08-11",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-66447-8",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-65759-z",
+      "title": "Task allocation and path planning for multi-robot inspection in mines considering charging",
+      "journal_id": "scientific-reports",
+      "published": "2026-08-06",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-65759-z",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3389/frobt.2026.1885625",
+      "title": "Combining exploration and imitation in contact-rich task learning on an articulated soft robot arm",
+      "journal_id": "frontiers",
+      "published": "2026-08-05",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3389/frobt.2026.1885625",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70257",
+      "title": "Dual‐Discriminator Conditional GAN and Optimized Binarized Spiking Neural Networks for Accurate Outdoor Robot Localization and Landmark Detection",
+      "journal_id": "jfr",
+      "published": "2026-08-04",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70257",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3710046",
+      "title": "ReSNA:\n                    A Robotic-Enabled Surgical Navigation Assistant for Breast-Conserving Surgery",
+      "journal_id": "ral",
+      "published": "2026-08",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3710046",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3709638",
+      "title": "CALMapping: Context-Aware 4D Neural Representation for Dynamic LiDAR Mapping",
+      "journal_id": "ral",
+      "published": "2026-08",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3709638",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3709535",
+      "title": "Efficient Multi-Robot Cooperative Exploration for Semi-Enclosed Environments Based on Multi-Constraint Consensus",
+      "journal_id": "ral",
+      "published": "2026-08",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3709535",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3707359",
+      "title": "LVGS-SLAM: LiDAR-Visual-Supervised Gaussian Splatting SLAM With Dense Depth Rendering for Unstructured Environments",
+      "journal_id": "ral",
+      "published": "2026-08",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3707359",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3707282",
+      "title": "RLPR: Radar-to-LiDAR Place Recognition via Two-Stage Asymmetric Cross-Modal Alignment for Autonomous Driving",
+      "journal_id": "ral",
+      "published": "2026-08",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3707282",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3703981",
+      "title": "Height-Aware Navigation Framework for Single-DOF Deformable Mobile Robots Based on 3D Encoding",
+      "journal_id": "ral",
+      "published": "2026-08",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3703981",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3703260",
+      "title": "Learning From Mistakes: Loss-Aware Memory Enhanced Continual Learning for LiDAR Place Recognition",
+      "journal_id": "ral",
+      "published": "2026-08",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3703260",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3703231",
+      "title": "Breaking Time: A Fully Gaussian Framework for Distributed and Continuous-Time SLAM",
+      "journal_id": "ral",
+      "published": "2026-08",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3703231",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105478",
+      "title": "An embodied obstacle-avoidance method for concentric cable-driven manipulators operating in confined spaces",
+      "journal_id": "ras",
+      "published": "2026-08",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105478",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105476",
+      "title": "Fast-convergent GA-APO for real-time UAV path planning with fully actuated robust tracking",
+      "journal_id": "ras",
+      "published": "2026-08",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105476",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105467",
+      "title": "Shared control for autonomous robotic navigation: A review",
+      "journal_id": "ras",
+      "published": "2026-08",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105467",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105461",
+      "title": "Enhanced virtual potential field-based motion planning for mobile robots in dynamic environment under speed and separation monitoring",
+      "journal_id": "ras",
+      "published": "2026-08",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105461",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.05.045",
+      "title": "Terrain-Adaptive LiDAR-IMU SLAM with Multi-Feature fusion for complex underground environments",
+      "journal_id": "isprs",
+      "published": "2026-08",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.05.045",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.05.039",
+      "title": "Clean and consistent MLS point clouds from the start: Moving-object removal coupled with LIDAR-inertial odometry for urban scenes",
+      "journal_id": "isprs",
+      "published": "2026-08",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.05.039",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.05.035",
+      "title": "Robust urban SLAM via resilient GNSS–IMU–LiDAR–camera–loop fusion",
+      "journal_id": "isprs",
+      "published": "2026-08",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.05.035",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.05.031",
+      "title": "Fuse only what matters: Degeneracy-aware multi-sensor fusion for LiDAR-Inertial-Visual SLAM",
+      "journal_id": "isprs",
+      "published": "2026-08",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.05.031",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.05.021",
+      "title": "Shallow-water reef detection driven by few-shot learning with airborne LiDAR bathymetry",
+      "journal_id": "isprs",
+      "published": "2026-08",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.05.021",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.05.010",
+      "title": "A KED-based framework for enhanced subcanopy topography retrieval leveraging TanDEM-X InSAR and spaceborne LiDAR data",
+      "journal_id": "isprs",
+      "published": "2026-08",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.05.010",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.04.050",
+      "title": "WDTS: Water droplet model-driven entropy optimization for individual tree skeletonization from terrestrial laser scanning point clouds",
+      "journal_id": "isprs",
+      "published": "2026-08",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.04.050",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70311",
+      "title": "Adaptive Obstacle‐Avoidance Path Planning for UAVs Using MobileViT‐Based Multimodal Perception and Deep Reinforcement Learning",
+      "journal_id": "jfr",
+      "published": "2026-07-30",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70311",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-63051-8",
+      "title": "The UnderwaterVLA dual-brain vision-language-action architecture enables robust autonomous underwater navigation",
+      "journal_id": "scientific-reports",
+      "published": "2026-07-28",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-63051-8",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3389/frobt.2026.1812386",
+      "title": "Crowd navigation in a multi-room environment: a model predictive control framework for mobile robots",
+      "journal_id": "frontiers",
+      "published": "2026-07-27",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3389/frobt.2026.1812386",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-61977-7",
+      "title": "Adaptive navigation control of a bionic robotic fish in complex Karman vortex street flow fields using an LSTM-DDPG hybrid strategy",
+      "journal_id": "scientific-reports",
+      "published": "2026-07-26",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-61977-7",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3389/frobt.2026.1823324",
+      "title": "Uncertainty-guided informative path planning for ecological monitoring using autonomous surface vehicles under Dubins motion constraints",
+      "journal_id": "frontiers",
+      "published": "2026-07-21",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3389/frobt.2026.1823324",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3389/frobt.2026.1873168",
+      "title": "A multimodal dataset for socially aware navigation of heavy-duty construction robots",
+      "journal_id": "frontiers",
+      "published": "2026-07-17",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3389/frobt.2026.1873168",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3389/frobt.2026.1857847",
+      "title": "Hybrid task and motion planning with reactive collision handling for multi-robot disassembly of complex products: application to EV batteries",
+      "journal_id": "frontiers",
+      "published": "2026-07-16",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3389/frobt.2026.1857847",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70289",
+      "title": "A Ground Mobile Robot for Autonomous Terrestrial Laser Scanning‐Based Field Phenotyping",
+      "journal_id": "jfr",
+      "published": "2026-07-08",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70289",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-59923-8",
+      "title": "Physics-constrained multimodal reinforcement learning for local UAV Navigation in complex static obstacle environments",
+      "journal_id": "scientific-reports",
+      "published": "2026-07-07",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-59923-8",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3699255",
+      "title": "LAPS: Improving Incremental LiDAR Mapping Using Active Pooling and Sampling for Neural Distance Fields",
+      "journal_id": "ral",
+      "published": "2026-07",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3699255",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3699156",
+      "title": "ESF-3Det: Edge-Semantic Fusion With Uncertainty Awareness for Robust LiDAR-Based 3D Object Detection",
+      "journal_id": "ral",
+      "published": "2026-07",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3699156",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3692033",
+      "title": "HOTFLoc++: End-to-End Hierarchical LiDAR Place Recognition, Re-Ranking, and 6-DoF Metric Localisation in Forests",
+      "journal_id": "ral",
+      "published": "2026-07",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3692033",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105457",
+      "title": "Multi-objective optimization with priority-based execution for mobile manipulators: An HQP approach integrating adaptive motion planning and obstacle avoidance",
+      "journal_id": "ras",
+      "published": "2026-07",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105457",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105445",
+      "title": "Efficient graph-based area partitioning for balanced multi-robot coverage path planning",
+      "journal_id": "ras",
+      "published": "2026-07",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105445",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105443",
+      "title": "Towards the development of a robotic spraying arm: AI-based weed detection and path planning strategies",
+      "journal_id": "ras",
+      "published": "2026-07",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105443",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105433",
+      "title": "Hybrid motion planning with dynamics awareness for aerial-ground robots in industrial inspection and maintenance",
+      "journal_id": "ras",
+      "published": "2026-07",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105433",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105419",
+      "title": "Several improved Golden Jackal optimization algorithm of path planning for legged robot",
+      "journal_id": "ras",
+      "published": "2026-07",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105419",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105406",
+      "title": "Intelligent adaptive directional RRT*N for robot path planning",
+      "journal_id": "ras",
+      "published": "2026-07",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105406",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.04.043",
+      "title": "Revealing visual–ecological interaction through three-dimensional spatial characteristics: a point cloud approach",
+      "journal_id": "isprs",
+      "published": "2026-07",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.04.043",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.04.040",
+      "title": "APCoTTA: Continual Test-Time Adaptation for semantic segmentation of airborne LiDAR point clouds",
+      "journal_id": "isprs",
+      "published": "2026-07",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.04.040",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.04.034",
+      "title": "Modelling mountain pine beetle-impacted forest wildland fire fuel distributions from remotely piloted aircraft systems imagery and point clouds",
+      "journal_id": "isprs",
+      "published": "2026-07",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.04.034",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.04.030",
+      "title": "2D3D-SPMatch: cross-modal geometric consistency based on spatial perception for detector-free image and point cloud matching",
+      "journal_id": "isprs",
+      "published": "2026-07",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.04.030",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.04.029",
+      "title": "Estimating the leaf area index from terrestrial laser scanning point cloud data with fractal theory",
+      "journal_id": "isprs",
+      "published": "2026-07",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.04.029",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.04.007",
+      "title": "AGI-LO: Adaptive Geometric-Intensity LiDAR odometry for tunnel-like degraded environments",
+      "journal_id": "isprs",
+      "published": "2026-07",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.04.007",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70284",
+      "title": "A Hybrid Technique for Active SLAM Based on RPPO Model With Transfer Learning",
+      "journal_id": "jfr",
+      "published": "2026-06-28",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70284",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70282",
+      "title": "Research on the Application of SSG‐RRT Path Planning Algorithm Integrated With Dynamic Obstacle Avoidance in Wheeled Picking Robot",
+      "journal_id": "jfr",
+      "published": "2026-06-21",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70282",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70263",
+      "title": "Research on Orchard Navigation Path Planning Based on 3D LiDAR SLAM Considering Terrain Roughness",
+      "journal_id": "jfr",
+      "published": "2026-06-16",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70263",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3389/frobt.2026.1833485",
+      "title": "The implications of robot navigation in social space: perceptual effects of socially aware and baseline navigation",
+      "journal_id": "frontiers",
+      "published": "2026-06-12",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3389/frobt.2026.1833485",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70251",
+      "title": "LIO‐RRTNav for Cattle Yard Inspection Robots: Prior Map Aided Relocalization and Goal‐Oriented, Smooth RRT Path Planning",
+      "journal_id": "jfr",
+      "published": "2026-06-10",
+      "topics": [
+        "navigation",
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70251",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70260",
+      "title": "Multi‐Robot Collaborative Navigation Framework Based on 3D Voronoi Partitioning in Uneven and Unstructured Environments",
+      "journal_id": "jfr",
+      "published": "2026-06-05",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70260",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70254",
+      "title": "Performance Evaluation of Different Laser SLAM Algorithms for Unmanned Mining Vehicles",
+      "journal_id": "jfr",
+      "published": "2026-06-01",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70254",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3688389",
+      "title": "Deformable Point Attention for LiDAR Place Recognition With Weighted GeM Aggregation",
+      "journal_id": "ral",
+      "published": "2026-06",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3688389",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3688091",
+      "title": "UniReg: A Unified Information Aggregation Framework for Robust Point Cloud Registration",
+      "journal_id": "ral",
+      "published": "2026-06",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3688091",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3685966",
+      "title": "Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modeling",
+      "journal_id": "ral",
+      "published": "2026-06",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3685966",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3685933",
+      "title": "DPNet: Doppler LiDAR Motion Planning for Highly-Dynamic Environments",
+      "journal_id": "ral",
+      "published": "2026-06",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3685933",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3685919",
+      "title": "AESF-LIO: Adaptive Error-State Fusion LiDAR-Inertial Odometry for Ground Vehicles in Structured Environments",
+      "journal_id": "ral",
+      "published": "2026-06",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3685919",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3683597",
+      "title": "Native-Domain Cross-Attention for Camera–LiDAR Extrinsic Calibration Under Large Initial Perturbations",
+      "journal_id": "ral",
+      "published": "2026-06",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3683597",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105405",
+      "title": "Transformation & Translation Occupancy Grid Mapping: 2-dimensional deep learning refined SLAM",
+      "journal_id": "ras",
+      "published": "2026-06",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105405",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105394",
+      "title": "Real-time collision avoidance with robot distance fields in a task-priority framework",
+      "journal_id": "ras",
+      "published": "2026-06",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105394",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.04.019",
+      "title": "GateMamba: Feature gated mixer in state space model for point cloud 3D object detection",
+      "journal_id": "isprs",
+      "published": "2026-06",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.04.019",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.03.037",
+      "title": "Ranking-aware continual learning for LiDAR place recognition",
+      "journal_id": "isprs",
+      "published": "2026-06",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.03.037",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.03.036",
+      "title": "AGI2P: Benchmarking Aerial–Ground Image-to-Point cloud localization with a large-scale dataset",
+      "journal_id": "isprs",
+      "published": "2026-06",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.03.036",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.03.033",
+      "title": "Through the perspective of LiDAR: A feature-enriched and uncertainty-aware annotation pipeline for terrestrial point cloud segmentation",
+      "journal_id": "isprs",
+      "published": "2026-06",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.03.033",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.03.031",
+      "title": "Physics-informed synthetic data and transformer-based segmentation for sinkhole detection in railway LiDAR point clouds",
+      "journal_id": "isprs",
+      "published": "2026-06",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.03.031",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70239",
+      "title": "Dynamic Environment Adaptive Path Planning for Mobile Robots: A Hybrid Enhanced Path‐Planning Approach",
+      "journal_id": "jfr",
+      "published": "2026-05-26",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70239",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3389/frobt.2026.1800762",
+      "title": "Advancing a taxonomy of proxemics for socially aware robot navigation",
+      "journal_id": "frontiers",
+      "published": "2026-05-20",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3389/frobt.2026.1800762",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3389/frobt.2026.1861947",
+      "title": "Editorial: Reinforcement learning for real-world robot navigation",
+      "journal_id": "frontiers",
+      "published": "2026-05-12",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3389/frobt.2026.1861947",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70242",
+      "title": "Traversability Risk Assessment and Path Planning for Off‐Road Autonomous Vehicles in Winter Conditions",
+      "journal_id": "jfr",
+      "published": "2026-05-12",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70242",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70240",
+      "title": "A Critical Review of Reinforcement Learning Algorithms for Mobile Robot Path Planning",
+      "journal_id": "jfr",
+      "published": "2026-05-12",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70240",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.03.009",
+      "title": "From canopy to ground via ForestGen3D: Learning cross-domain generation of 3D forest structure from aerial-to-terrestrial LiDAR",
+      "journal_id": "isprs",
+      "published": "2026-05",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.03.009",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.03.005",
+      "title": "Partial points segmenter: A unified framework for partially category-supervised point cloud segmentation",
+      "journal_id": "isprs",
+      "published": "2026-05",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.03.005",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.03.004",
+      "title": "LiDAR remote sensing meets weak supervision: Concepts, methods, and perspectives",
+      "journal_id": "isprs",
+      "published": "2026-05",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.03.004",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70217",
+      "title": "Visual 3D Spatiotemporal Fields‐Driven Obstacle Avoidance Using Model Predictive Control for Nursing Robots in Unstructured Environments",
+      "journal_id": "jfr",
+      "published": "2026-04-21",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70217",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70214",
+      "title": "Intelligent Autonomy: A Novel Hybrid Navigation System for Autonomous Load‐Haul‐Dump Vehicles",
+      "journal_id": "jfr",
+      "published": "2026-04-20",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70214",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70222",
+      "title": "Soft Computing Techniques Applied to Adaptive Hybrid Navigation Methods for Tethered Robots in Dynamic Environments",
+      "journal_id": "jfr",
+      "published": "2026-04-16",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70222",
+      "source": "crossref"
+    }
+  ]
+}
