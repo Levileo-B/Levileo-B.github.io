@@ -1,0 +1,61 @@
+name: 更新科研动态
+
+on:
+  schedule:
+    - cron: '43 1 * * *' # 每天 09:43（UTC+8）
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/fetch_research.py
+      - data/research-catalog.json
+      - assets/research*.js
+      - tests/research*.test.js
+      - tests/test_research.py
+      - .github/workflows/update-research.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-research-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: 验证日期、分类及故障回退
+        run: |
+          python -m unittest discover -s tests -p 'test_research.py' -v
+          node --test tests/research.test.js
+      - name: 更新期刊元数据
+        id: fetch
+        continue-on-error: true
+        run: python scripts/fetch_research.py
+      - name: 保存快照与抓取状态
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/research-feed.json
+          if git diff --staged --quiet; then
+            exit 0
+          fi
+          git commit -m "chore: 更新科研动态快照"
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            git pull --rebase origin "$GITHUB_REF_NAME" || exit 1
+          done
+          exit 1
+      - name: 标记全部来源失败
+        if: steps.fetch.outcome == 'failure'
+        run: |
+          echo "本次抓取失败，已保留旧论文和原成功更新时间；检查抓取日志。"
+          exit 1

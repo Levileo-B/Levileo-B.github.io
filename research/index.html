@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>科研工作台 · Levileo-B</title>
-<meta name="description" content="按科研流程整理的常用工具导航，覆盖文献检索、论文发现、阅读管理、学术写作、数据计算与开放科学。">
+<meta name="description" content="关注点云、机器人自主导航与避障的期刊研究进展，发现正在征稿的期刊专题，并使用文献检索、阅读与写作工具。">
 <meta name="theme-color" content="#0f172a">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔬</text></svg>">
 <link rel="stylesheet" href="../assets/style.css">
@@ -41,14 +41,71 @@
     <div class="hero__inner">
       <p class="research-hero__eyebrow">RESEARCH WORKBENCH</p>
       <h1 class="hero__title">科研工作台</h1>
-      <p class="hero__subtitle">从检索第一篇论文，到整理数据和公开研究成果</p>
-      <p class="hero__desc">按真实科研流程整理常用服务，减少在零散收藏夹里来回寻找工具的时间。</p>
+      <p class="hero__subtitle">追踪三维感知与机器人研究，发现下一次投稿机会</p>
+      <p class="hero__desc">聚焦点云、自主导航与避障。把期刊进展、专题征稿和日常科研工具放在一起。</p>
       <div class="hero__actions">
-        <a class="btn btn--primary" href="../tools/papers/">开始检索论文</a>
+        <a class="btn btn--primary" href="#research-updates">查看研究动态</a>
+        <a class="btn btn--ghost" href="#calls-for-papers">期刊征稿 CFP</a>
         <a class="btn btn--ghost" href="#workflow">浏览科研流程</a>
       </div>
     </div>
   </section>
+
+  <div id="research-monitor">
+    <nav class="research-jumps section" aria-label="科研栏目导航">
+      <a href="#research-updates">01 研究动态</a>
+      <a href="#calls-for-papers">02 期刊征稿</a>
+      <a href="#journal-watch">03 关注期刊</a>
+      <a href="#workflow">04 科研工具</a>
+    </nav>
+
+    <section class="section research-monitor-section" id="research-updates" aria-labelledby="updates-title">
+      <div class="research-section-head">
+        <div><p class="research-kicker">RESEARCH RADAR</p><h2 class="section__title" id="updates-title">近期研究动态</h2></div>
+        <a class="research-text-link" href="../tools/papers/">更多论文检索 →</a>
+      </div>
+      <p class="research-section-desc">从点云理解到自主行动，按方向浏览期刊新成果。按发表时间排序，精选条目附中文导读。</p>
+      <div class="research-topics" role="group" aria-label="研究方向">
+        <button type="button" data-topic="all" aria-pressed="true">全部方向</button>
+        <button type="button" data-topic="point-cloud" aria-pressed="false">点云与三维感知</button>
+        <button type="button" data-topic="navigation" aria-pressed="false">机器人自主导航</button>
+        <button type="button" data-topic="avoidance" aria-pressed="false">避障与运动规划</button>
+      </div>
+      <div class="research-controls">
+        <label class="research-search">搜索动态<input id="research-query" type="search" placeholder="论文标题、SLAM、LiDAR…" autocomplete="off"></label>
+        <label>时间范围<select id="research-period"><option value="180">近 180 天</option><option value="90">近 90 天</option><option value="30">近 30 天</option></select></label>
+        <label class="research-check"><input id="research-followed" type="checkbox">只看已关注期刊</label>
+      </div>
+      <p class="research-status" id="research-feed-status" role="status">正在加载研究动态…</p>
+      <p class="research-result-count" id="research-result-count" role="status"></p>
+      <div class="research-paper-grid" id="research-papers" aria-busy="true"></div>
+      <button class="btn btn--ghost research-more" id="research-more" type="button" hidden>加载更多动态</button>
+      <p class="research-note">仅收录选定期刊中与主题匹配的论文，非全量文献库。自动条目来自 Crossref 出版元数据；中文导读为本站整理，研究结论与实验条件请查看原文。</p>
+    </section>
+
+    <section class="section research-monitor-section" id="calls-for-papers" aria-labelledby="cfp-title">
+      <div class="research-section-head">
+        <div><p class="research-kicker">CALL FOR PAPERS</p><h2 class="section__title" id="cfp-title">期刊专题征稿</h2></div>
+        <span class="research-counter" id="cfp-open-count">核对征稿状态中</span>
+      </div>
+      <p class="research-section-desc">优先关注点云、定位建图、自主导航与安全避障专题。按截稿日期排序，直接前往出版方征稿页。</p>
+      <div class="research-controls">
+        <label>征稿方向<select id="cfp-topic"><option value="all">全部方向</option><option value="point-cloud">点云与三维感知</option><option value="navigation">机器人自主导航</option><option value="avoidance">避障与运动规划</option></select></label>
+        <label>征稿状态<select id="cfp-status"><option value="open">正在征稿</option><option value="soon">30 天内截止</option><option value="all">全部（含待核验 / 已截止）</option></select></label>
+      </div>
+      <p class="research-status" id="cfp-result-count" role="status">正在加载征稿专题…</p>
+      <div class="research-cfp-grid" id="research-cfps" aria-busy="true"></div>
+      <p class="research-note">征稿信息逐项人工核验；超过 30 天未复核会标为「待核验」，逾期自动移出正在征稿列表。倒计时按新加坡日期（UTC+8）计算，投稿时区、延期、稿件类型及出版费用以官方页面为准。</p>
+    </section>
+
+    <section class="section research-monitor-section" id="journal-watch" aria-labelledby="journals-title">
+      <div class="research-section-head"><div><p class="research-kicker">JOURNAL WATCHLIST</p><h2 class="section__title" id="journals-title">我的期刊关注</h2></div><span class="research-counter" id="journal-count"></span></div>
+      <p class="research-section-desc">收藏常读期刊，再用上方「只看已关注期刊」筛选动态。关注列表仅保存在当前浏览器，不发送邮件。</p>
+      <p class="research-status" id="journal-storage-status" role="status"></p>
+      <div class="research-journal-grid" id="research-journals" aria-busy="true"></div>
+    </section>
+    <noscript><p class="section">启用 JavaScript 可查看动态与征稿筛选。也可直接浏览 <a href="https://www.mdpi.com/journal/remotesensing/special_issues" target="_blank" rel="noopener noreferrer">Remote Sensing 专题征稿</a>及 <a href="https://www.frontiersin.org/journals/robotics-and-ai/research-topics" target="_blank" rel="noopener noreferrer">Frontiers in Robotics and AI 专题</a>，下方科研工具仍可使用。</p></noscript>
+  </div>
 
   <section class="section" id="workflow">
     <div class="section__bar">
@@ -158,6 +215,8 @@
 </footer>
 
 <script src="../assets/main.js"></script>
+<script src="../assets/research-data.js"></script>
+<script src="../assets/research.js"></script>
 <script src="../assets/bgm.js"></script>
 </body>
 </html>
