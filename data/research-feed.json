@@ -1,58 +1,96 @@
 {
   "schema_version": 1,
-  "updated": "2026-09-27T18:56:46.072928+00:00",
-  "attempted_at": "2026-09-27T18:56:46.072928+00:00",
+  "updated": "2026-09-29T09:33:13.102387+00:00",
+  "attempted_at": "2026-09-29T09:33:13.102387+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-09-27T18:56:46.072928+00:00",
+      "last_success": "2026-09-29T09:33:13.102387+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-09-27T18:56:46.072928+00:00",
+      "last_success": "2026-09-29T09:33:13.102387+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-09-27T18:56:46.072928+00:00",
+      "last_success": "2026-09-29T09:33:13.102387+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-09-27T18:56:46.072928+00:00",
+      "last_success": "2026-09-29T09:33:13.102387+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-09-27T18:56:46.072928+00:00",
+      "last_success": "2026-09-29T09:33:13.102387+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-09-27T18:56:46.072928+00:00",
+      "last_success": "2026-09-29T09:33:13.102387+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-09-27T18:56:46.072928+00:00",
+      "last_success": "2026-09-29T09:33:13.102387+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
-      "status": "ok",
-      "last_success": "2026-09-27T18:56:46.072928+00:00",
-      "errors": []
+      "status": "partial",
+      "last_success": "2026-09-29T09:33:13.102387+00:00",
+      "errors": [
+        "avoidance: HTTPError 429"
+      ]
     }
   ],
   "papers": [
+    {
+      "id": "10.1038/s41598-026-73677-3",
+      "title": "Resource-aware structural point-line RGB-D SLAM for dynamic indoor environments",
+      "journal_id": "scientific-reports",
+      "published": "2026-09-29",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-73677-3",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3389/frobt.2026.1781310",
+      "title": "Efficient multi-robot exploration using deterministic and metaheuristic methods",
+      "journal_id": "frontiers",
+      "published": "2026-09-28",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3389/frobt.2026.1781310",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-67147-z",
+      "title": "A forecast-guided reinforcement learning approach for trajectory planning of unmanned aerial base stations",
+      "journal_id": "scientific-reports",
+      "published": "2026-09-28",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-67147-z",
+      "source": "crossref"
+    },
     {
       "id": "10.1038/s41598-026-71322-7",
       "title": "Improved DASP-guided normal vector refinement for automatic discontinuity identification in 3D rock mass point clouds",
@@ -1989,139 +2027,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1002/rob.70222",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2026.105358",
-      "title": "Efficient distributed multi-robot SLAM under missed detections and clutter with labeled multi-Bernoulli map",
-      "journal_id": "ras",
-      "published": "2026-04",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105358",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2026.105337",
-      "title": "Dynamic merging and splitting for large-scale swarm navigation of UAVs and UGVs in unknown area",
-      "journal_id": "ras",
-      "published": "2026-04",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105337",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2026.105329",
-      "title": "Power in numbers: Primitive algorithm for swarm robot navigation in unknown environments",
-      "journal_id": "ras",
-      "published": "2026-04",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105329",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2025.105318",
-      "title": "HAD-TAMP: Human adaptive task and motion planning for human–robot collaboration in industrial scenario",
-      "journal_id": "ras",
-      "published": "2026-04",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2025.105318",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2025.105315",
-      "title": "Terrain-based place recognition for LiDAR SLAM of quadruped robots with limited field-of-view measurements",
-      "journal_id": "ras",
-      "published": "2026-04",
-      "topics": [
-        "point-cloud",
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2025.105315",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2025.105308",
-      "title": "RPV-Map: A novel Reflection-Planes Voxel Map for glass and mirror reconstruction on SLAM System",
-      "journal_id": "ras",
-      "published": "2026-04",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2025.105308",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2025.105307",
-      "title": "Global navigation-local operation: Pose optimization and multi-sensory guidance strategy for autonomous mobile manipulators",
-      "journal_id": "ras",
-      "published": "2026-04",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2025.105307",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.isprsjprs.2026.02.025",
-      "title": "Label-efficient outdoor 3D object detection via single click annotation from LiDAR point cloud",
-      "journal_id": "isprs",
-      "published": "2026-04",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.isprsjprs.2026.02.025",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.isprsjprs.2026.02.022",
-      "title": "Mapping three decades of forest structural changes in Japan using Landsat time series and airborne LiDAR data",
-      "journal_id": "isprs",
-      "published": "2026-04",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.isprsjprs.2026.02.022",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.isprsjprs.2026.02.002",
-      "title": "TLNet: A deep learning framework for tree detection in forest point clouds using multi-layered forest structure",
-      "journal_id": "isprs",
-      "published": "2026-04",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.isprsjprs.2026.02.002",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.isprsjprs.2026.01.033",
-      "title": "Corrigendum to “SmartQSM: a novel quantitative structure model using sparse-convolution-based point cloud contraction for reconstruction and analysis of individual tree architecture” [ISPRS J. Photogramm. Remote Sens. 232 (2026), 712–739]",
-      "journal_id": "isprs",
-      "published": "2026-04",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "更正",
-      "url": "https://doi.org/10.1016/j.isprsjprs.2026.01.033",
       "source": "crossref"
     }
   ]
