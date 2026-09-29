@@ -1,55 +1,91 @@
 {
-  "updated": "2026-09-28T22:04:35+00:00",
+  "updated": "2026-09-29T02:00:29+00:00",
   "leetcode": {
-    "date": "2026-09-28",
-    "id": "1614",
-    "title": "Maximum Nesting Depth of the Parentheses",
-    "titleEn": "Maximum Nesting Depth of the Parentheses",
-    "slug": "maximum-nesting-depth-of-the-parentheses",
-    "difficulty": "Easy",
+    "date": "2026-09-29",
+    "id": "2267",
+    "title": " Check if There Is a Valid Parentheses String Path",
+    "titleEn": " Check if There Is a Valid Parentheses String Path",
+    "slug": "check-if-there-is-a-valid-parentheses-string-path",
+    "difficulty": "Hard",
     "tags": [
-      "String",
-      "Stack",
+      "Array",
+      "Dynamic Programming",
+      "Matrix",
       "Bracket Sequences"
     ],
-    "link": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
+    "link": "https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Genshin Impact",
-    "text": "Genshin Impact  is a 2020 action role-playing video game developed and published by miHoYo. It is distributed outside China by miHoYo's international subsidiary Cognosphere, also known as HoYoverse. At its core, the game features an anime style, open-world environment, an action-focused battle system consisting of elemental magic with character-switching, and a mythical main story. Genshin Impact is a free-to-play game monetized through gacha mechanics, which is updated regularly using the games as a service model. It was originally released for Android, iOS, PlayStation 4, and Windows, followed by the PlayStation 5 in 2021, and Xbox Series X/S in 2024. In China, a native port for HarmonyOS NEXT was released on September 2025. Support for PlayStation 4 was removed in April 2026.",
-    "words": 121,
-    "url": "https://en.wikipedia.org/wiki/Genshin_Impact",
-    "date": "2026-09-28",
+    "title": "The Long and Winding Road",
+    "text": "\"The Long and Winding Road\" is a song by the English rock band the Beatles from their 1970 album Let It Be. A piano ballad, Paul McCartney composed it at his Scottish farm in 1968, driven by the Beatles' increasing bitterness towards each other. As he did so, he \"imagined it was going to be done by someone like Ray Charles\". Main recording took place in January 1969 during the Get Back album project and featured a sparse arrangement of piano, bass, guitar, and percussion. However, the Get Back project soon stagnated and no album resulted, and so John Lennon and George Harrison lent the band's January recordings, including that of \"The Long and Winding Road\", to producer Phil Spector so that he would try assembling an album out of them. He added lavish orchestral and choral overdubs to the song.",
+    "words": 141,
+    "url": "https://en.wikipedia.org/wiki/The_Long_and_Winding_Road",
+    "date": "2026-09-29",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Winning Against Odds",
-    "creator": "Caterpillar Tractor Co.",
-    "year": "",
-    "url": "https://archive.org/download/winning_against_odds/winning_against_odds_512kb.mp4",
-    "page": "https://archive.org/details/winning_against_odds",
-    "date": "2026-09-28",
+    "title": "Freedom Comes High",
+    "creator": "U.S. Navy",
+    "year": "1944",
+    "url": "https://archive.org/download/FreedomC1944/FreedomC1944_512kb.mp4",
+    "page": "https://archive.org/details/FreedomC1944",
+    "date": "2026-09-29",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "ВИА \"ОАОАООАО МММ)))\" & COWSHIT SQUAD - ураа, это же СБОРНИК РЕМИКСОВ НА ХИТ ЛЕТА 2020 \"ФУРРИЁБ ЕЛИСЕЙ\" (2020)",
-      "artist": "ВИА \"ОАОАООАО МММ)))\" & COWSHIT SQUAD",
-      "url": "https://archive.org/download/IBR_1775/01.%20%D0%A4%D1%83%D1%80%D1%80%D0%B8%D1%91%D0%B1%20%D0%95%D0%BB%D0%B8%D1%81%D0%B5%D0%B9.mp3",
-      "page": "https://archive.org/details/IBR_1775",
+      "title": "Гошелот - Этиловый Чай (2013)",
+      "artist": "Гошелот",
+      "url": "https://archive.org/download/IBR_446/01.%20%D0%BE%D0%BD%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC%20%D0%B4%D1%83%D1%88%D0%B8.mp3",
+      "page": "https://archive.org/details/IBR_446",
       "license": "Creative Commons"
     },
     {
-      "title": "Geography",
-      "artist": "Closer Contact & Meteer",
-      "url": "https://archive.org/download/CloserContactMeteer-Geography/01_ccm_Alexanderplatz.mp3",
-      "page": "https://archive.org/details/CloserContactMeteer-Geography",
+      "title": "INR 045 - Wolf Vortex - Blitzwolf",
+      "artist": "Industrial Noise Records",
+      "url": "https://archive.org/download/Inr045-WolfVortex-Blitzwolf/01Manifesto1.mp3",
+      "page": "https://archive.org/details/Inr045-WolfVortex-Blitzwolf",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
+    },
+    {
+      "title": "Despoilah - Pain and Pleasure",
+      "artist": "despoilah",
+      "url": "https://archive.org/download/Despoilah-PainAndPleasure/01Despoilah-FuckSociety.mp3",
+      "page": "https://archive.org/details/Despoilah-PainAndPleasure",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "[BDR-006] The Faults That Lie Within the Curmudgeon Retirement Home",
+      "artist": "Pompous Logic",
+      "url": "https://archive.org/download/bardesanes006/01.PompousLogic-DoTheDrone.mp3",
+      "page": "https://archive.org/details/bardesanes006",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Menstrual Cacophony - Consume Fecal Matter During The Double Orgasm And Intoxication Are On The Attic Of An Abandoned House In An Unknown City In A State Of Ecstasy (2016)",
+      "artist": "Menstrual Cacophony",
+      "url": "https://archive.org/download/IBR_43/01%20-%20%D0%9E%D0%BF%D0%B0%D1%80%D1%8B%D1%88%D0%B8%20%D0%90%D1%82%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0%D0%BB%D0%B8%20%D0%A2%D0%B2%D0%BE%D0%B9%20%D0%90%D0%BD%D1%83%D1%81.mp3",
+      "page": "https://archive.org/details/IBR_43",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Netz Klang - Ausgabe 5.02.07",
+      "artist": "Tobi Tobsucht",
+      "url": "https://archive.org/download/netzklang-05-02-07/netzklang-05-02-07.mp3",
+      "page": "https://archive.org/details/netzklang-05-02-07",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "CybergothPussyFucker - Green And White (EP) (2018)",
+      "artist": "CybergothPussyFucker",
+      "url": "https://archive.org/download/IBR_468/01.%20Sexy%20Cybergoth%20Girl%20Intro.mp3",
+      "page": "https://archive.org/details/IBR_468",
+      "license": "Creative Commons"
     },
     {
       "title": "Live in Philadelphia 2000",
@@ -59,67 +95,32 @@
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/us/"
     },
     {
-      "title": "Farewell Bumba",
-      "artist": "Asaguare",
-      "url": "https://archive.org/download/FarewellBumba/FarewellBumbaHiFi.mp3",
-      "page": "https://archive.org/details/FarewellBumba",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+      "title": "[GT019] Graphic Standart - Plane Mode â8",
+      "artist": "Vziel",
+      "url": "https://archive.org/download/gt019GraphicStandart-PlaneMode8/Untitled1.mp3",
+      "page": "https://archive.org/details/gt019GraphicStandart-PlaneMode8",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     {
-      "title": "Flight Of Red Bird",
-      "artist": "Asaguare",
-      "url": "https://archive.org/download/FlightOfRedBird/FlightOfRedBirdHiFi.mp3",
-      "page": "https://archive.org/details/FlightOfRedBird",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+      "title": "Tenth Cloud - Edge of Summer [USC-WR-1804.0406]",
+      "artist": "Tenth Cloud",
+      "url": "https://archive.org/download/tenth-cloud-edge-of-summer/01.Something%20is%20Wrong.mp3",
+      "page": "https://archive.org/details/tenth-cloud-edge-of-summer",
+      "license": "http://creativecommons.org/licenses/by-sa/4.0/"
     },
     {
-      "title": "DIENSTbar Radio Transmission No. 314 Special Theme: La Radio? Pero si es, muy facil",
-      "artist": "DIENSTbar",
-      "url": "https://archive.org/download/dbr314/dbr314.mp3",
-      "page": "https://archive.org/details/dbr314",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "Live @ Macario Cafè 09-10-05",
+      "artist": "Cyberdread",
+      "url": "https://archive.org/download/Cyberdread__Live_at_Macario_Cafe_09_10_05/01livemacario1.mp3",
+      "page": "https://archive.org/details/Cyberdread__Live_at_Macario_Cafe_09_10_05",
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
     },
     {
-      "title": "Collaborations",
-      "artist": "Jay Haze",
-      "url": "https://archive.org/download/txtn030/txtn030-01-jay_and_jambi-friday_smoking.mp3",
-      "page": "https://archive.org/details/txtn030",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "FRee-K Sounds 003: Make Rave, not Hate 2016-05-07: Edition CODA",
-      "artist": "DJ Robb aka. Robert Bienert",
-      "url": "https://archive.org/download/FReeKS003-Make_Rave_not_Hate-2016-05-07-EditionCODA/2016-05-07%20CODA.mp3",
-      "page": "https://archive.org/details/FReeKS003-Make_Rave_not_Hate-2016-05-07-EditionCODA",
+      "title": "[S27-131] illl - Altered States Of Mind",
+      "artist": "",
+      "url": "https://archive.org/download/Illl-AlteredStatesOfMind/illl%20-%20Altered%20States%20Of%20Mind%20-%2001%20Unknown%201.mp3",
+      "page": "https://archive.org/details/Illl-AlteredStatesOfMind",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Frontcore - One of Us",
-      "artist": "Frontcore",
-      "url": "https://archive.org/download/Frontcore_OneOfUs/01%20-%20Frontcore%20-%20Intro%20%28I%20Have%20Sex%20with%20Mason%20Moore%20Everyday%29.mp3",
-      "page": "https://archive.org/details/Frontcore_OneOfUs",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Sperm Of Freddie Mercury Is Gay - Sperm Of Freddie Mercury Is Gay (Koosok Doordoma Remix) (Single) (2018)",
-      "artist": "Sperm Of Freddie Mercury Is Gay",
-      "url": "https://archive.org/download/IBR_426/01.%20Sperm%20Of%20Freddie%20Mercury%20Is%20Gay%20%28Koosok%20Doordoma%20Remix%29.mp3",
-      "page": "https://archive.org/details/IBR_426",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "loligore orgy - てるてる坊主 (2017)",
-      "artist": "Loligore Orgy",
-      "url": "https://archive.org/download/IBR_179/1.mp3",
-      "page": "https://archive.org/details/IBR_179",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "[AMR354] August 8th 2010",
-      "artist": "Shadows on the Snow",
-      "url": "https://archive.org/download/amr354August8th2010/August8th2010.mp3",
-      "page": "https://archive.org/details/amr354August8th2010",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
     }
   ]
 }
