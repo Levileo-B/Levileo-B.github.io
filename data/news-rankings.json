@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-30T00:30:33+00:00",
-  "updated": "2026-09-30T00:30:33+00:00",
+  "generated_at": "2026-09-30T06:46:36+00:00",
+  "updated": "2026-09-30T06:46:36+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-09-28T00:00:00+08:00",
-    "end": "2026-09-30T00:30:33+00:00",
-    "total": 336,
+    "end": "2026-09-30T06:46:36+00:00",
+    "total": 366,
     "items": [
       {
         "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
@@ -22,6 +22,22 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+        "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko",
+        "date": "2026-09-30T04:01:52+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "Chinese AI tool told researchers how to make bioweapons",
@@ -142,20 +158,6 @@
         ],
         "source_count": 1,
         "observed_days": 3
-      },
-      {
-        "title": "Homeowners are sitting on record equity – and not using it",
-        "link": "https://www.cnbc.com/2026/09/29/homeowners-are-sitting-on-record-equity-and-not-using-it.html",
-        "date": "2026-09-29T15:54:12+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "财经"
-        ],
-        "sources": [
-          "CNBC"
-        ],
-        "source_count": 1,
-        "observed_days": 2
       }
     ],
     "by_category": {
@@ -732,6 +734,22 @@
       ],
       "综合": [
         {
+          "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+          "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko",
+          "date": "2026-09-30T04:01:52+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Chinese AI tool told researchers how to make bioweapons",
           "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo",
           "date": "2026-09-29T23:15:29+00:00",
@@ -862,23 +880,25 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "美國檢方重啟調查康奈爾大學輪姦案指控",
-          "link": "https://www.bbc.com/zhongwen/articles/cm3wjgpxdjxxo/trad",
-          "date": "2026-09-29T04:30:30+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
+        {
+          "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+          "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko",
+          "date": "2026-09-30T04:01:52+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
         {
           "title": "Chinese AI tool told researchers how to make bioweapons",
           "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo",
@@ -984,9 +1004,9 @@
           "observed_days": 2
         },
         {
-          "title": "Hedge funds hold a record share of the $30 trillion Treasury market. What could go wrong?",
-          "link": "https://www.cnbc.com/2026/09/30/us-treasury-market-is-relying-more-on-hedge-funds.html",
-          "date": "2026-09-30T00:19:09+00:00",
+          "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
+          "link": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
+          "date": "2026-09-30T03:39:08+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -998,29 +1018,15 @@
           "observed_days": 1
         },
         {
-          "title": "'I like proving people wrong': The women taking up DIY and plumbing",
-          "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo",
-          "date": "2026-09-29T23:06:14+00:00",
+          "title": "‘Don’t go with a fund, go with a solution’: CEO’s tips from decades of global investing",
+          "link": "https://www.cnbc.com/2026/09/30/bluefive-ceo-offers-tips-from-decades-of-global-investing.html",
+          "date": "2026-09-30T02:37:21+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
           ],
           "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Huel ad banned for suggesting its products could replace all conventional food",
-          "link": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo",
-          "date": "2026-09-29T23:06:06+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
+            "CNBC"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -1030,8 +1036,8 @@
   },
   "month": {
     "start": "2026-09-01T00:00:00+08:00",
-    "end": "2026-09-30T00:30:33+00:00",
-    "total": 4110,
+    "end": "2026-09-30T06:46:36+00:00",
+    "total": 4140,
     "items": [
       {
         "title": "One month without AI",
