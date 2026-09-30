@@ -1,0 +1,33 @@
+.totp-form > label { display: block; margin-bottom: .5rem; font-weight: 600; }
+.totp-secret-row { display: flex; gap: .5rem; }
+.totp-secret-row input { flex: 1; min-width: 0; }
+.totp-form input, .totp-form select {
+  width: 100%; padding: .7rem .8rem; border: 1px solid var(--border); border-radius: 8px;
+  color: var(--text); background: var(--surface); font: inherit;
+}
+.totp-form .hint { font-size: .8rem; }
+.totp-options { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; margin: 1.25rem 0; }
+.totp-options label { color: var(--text-muted); font-size: .82rem; }
+.totp-options input, .totp-options select { display: block; margin-top: .4rem; }
+.totp-actions { display: flex; flex-wrap: wrap; gap: .6rem; }
+.totp-actions button { cursor: pointer; }
+.totp-status { margin-bottom: 0; }
+.totp-status.is-error { color: var(--text); font-weight: 600; }
+.totp-result { margin-top: 1.25rem; }
+.totp-result .result__label { text-transform: none; letter-spacing: 0; overflow-wrap: anywhere; }
+.totp-result[hidden] { display: none; }
+.totp-code-row { display: flex; align-items: stretch; gap: 1rem; margin: .5rem 0 1rem; }
+.totp-code {
+  flex: 1; min-width: 0; color: var(--accent); font-size: clamp(1.7rem, 5vw, 3rem);
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-weight: 700; font-variant-numeric: tabular-nums; letter-spacing: .1em; line-height: 1.4;
+}
+.totp-countdown { display: flex; flex-wrap: wrap; justify-content: space-between; gap: .5rem; font-size: .8rem; color: var(--text-muted); }
+.totp-result progress { display: block; width: 100%; height: .5rem; margin-top: .7rem; accent-color: var(--accent); }
+.totp-result + .notice { margin-top: 1.25rem; }
+button:disabled { opacity: .6; cursor: wait; }
+@media (max-width: 560px) {
+  .totp-options { grid-template-columns: 1fr; gap: .6rem; }
+  .totp-code-row { flex-direction: column; gap: .7rem; }
+  .totp-code-row .copy-btn { padding: .65rem; }
+}
