@@ -271,12 +271,29 @@ a:hover { text-decoration: underline; }
 .x-preview__intro .card__desc { margin-bottom: 0; }
 
 .x-preview__timeline {
+  position: relative;
   min-height: 220px;
   max-width: 620px;
   margin: 0 auto;
   border-top: 1px solid var(--border);
   padding-top: .75rem;
 }
+
+.x-preview__toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: .5rem 1rem;
+  color: var(--text-muted);
+  font-size: .8rem;
+  margin-bottom: .8rem;
+}
+.x-preview__toolbar label { display: inline-flex; align-items: center; gap: .4rem; }
+.x-preview__toolbar input { accent-color: var(--accent); }
+.x-preview__intro button { flex-shrink: 0; cursor: pointer; }
+.x-preview__intro button:disabled { opacity: .6; cursor: wait; }
+.x-preview__pending { position: absolute; inset: .75rem 0 auto; visibility: hidden; pointer-events: none; }
 
 .x-preview__timeline .twitter-timeline {
   display: block;

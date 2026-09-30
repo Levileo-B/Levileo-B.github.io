@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self'; img-src 'self' data:; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
+<title>2FA 验证码快速计算 · Levileo-B</title>
+<meta name="description" content="在浏览器本地计算 TOTP 动态验证码，支持 Base32 密钥、otpauth 链接、自动换码和一键复制，不保存或上传密钥。">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔐</text></svg>">
+<link rel="stylesheet" href="../../assets/style.css">
+<link rel="stylesheet" href="../../assets/tools.css">
+<link rel="stylesheet" href="2fa.css">
+<script>
+  try {
+    var t = localStorage.getItem('theme');
+    if (t === 'dark' || t === 'light') document.documentElement.setAttribute('data-theme', t);
+  } catch (e) {}
+</script>
+</head>
+<body>
+<a class="skip-link" href="#main">跳到主要内容</a>
+<header class="site-header">
+  <nav class="nav" aria-label="主导航">
+    <a class="nav__brand" href="../">← 工具箱</a>
+    <ul class="nav__list">
+      <li><a href="../../">主页</a></li>
+      <li><a href="../domain/">域名分析</a></li>
+      <li><a href="../blog/">博客编辑器</a></li>
+    </ul>
+    <button class="theme-toggle" type="button" aria-label="切换深色 / 浅色模式"><span aria-hidden="true">◐</span></button>
+  </nav>
+</header>
+<main id="main" class="tool">
+  <div class="tool__head">
+    <h1 class="tool__title">2FA 验证码快速计算</h1>
+    <p class="tool__sub">粘贴密钥，即时获取当前动态验证码</p>
+  </div>
+  <form class="card totp-form" id="totp-form" autocomplete="off">
+    <label for="totp-secret">Base32 密钥或 otpauth 链接</label>
+    <div class="totp-secret-row">
+      <input id="totp-secret" name="secret" type="password" placeholder="输入密钥或 otpauth://totp/…" autocomplete="off" autocapitalize="none" spellcheck="false" maxlength="4096" required aria-describedby="totp-help totp-status">
+      <button class="copy-btn" id="totp-reveal" type="button" aria-pressed="false" aria-controls="totp-secret">显示</button>
+    </div>
+    <p class="hint" id="totp-help">密钥通常由字母 A–Z 与数字 2–7 组成。粘贴 otpauth 链接时会自动读取其中的算法、位数和周期。</p>
+    <div class="totp-options">
+      <label for="totp-algorithm">算法<select id="totp-algorithm"><option value="SHA1">SHA-1（常用）</option><option value="SHA256">SHA-256</option><option value="SHA512">SHA-512</option></select></label>
+      <label for="totp-digits">验证码位数<select id="totp-digits"><option value="6">6 位（常用）</option><option value="8">8 位</option></select></label>
+      <label for="totp-period">更新周期（秒）<input id="totp-period" type="number" min="1" max="3600" step="1" value="30" required></label>
+    </div>
+    <div class="totp-actions">
+      <button class="btn btn--primary" id="totp-generate" type="submit">计算验证码</button>
+      <button class="btn btn--ghost" id="totp-clear" type="button">清空密钥</button>
+    </div>
+    <p class="totp-status hint" id="totp-status" role="status">输入密钥后点击计算，验证码会随时间自动更新。</p>
+  </form>
+  <section class="card totp-result" id="totp-result" aria-label="当前验证码" hidden>
+    <p class="result__label" id="totp-account">当前验证码</p>
+    <div class="totp-code-row">
+      <output class="totp-code" id="totp-code" aria-label="动态验证码" aria-live="polite">------</output>
+      <button class="copy-btn" id="totp-copy" type="button" disabled>复制验证码</button>
+    </div>
+    <div class="totp-countdown"><span>剩余 <strong id="totp-remaining">30</strong> 秒</span><span id="totp-settings"></span></div>
+    <progress id="totp-progress" max="30" value="30" aria-label="验证码剩余有效时间"></progress>
+  </section>
+  <p class="notice">密钥仅用于当前页面内的计算，不上传、不保存在浏览器。使用完可点击「清空密钥」。验证码依赖设备时间，请确保系统时间准确。</p>
+  <noscript><p class="notice">请启用 JavaScript 使用验证码计算工具。</p></noscript>
+</main>
+<footer class="site-footer"><p>© <span id="year">2026</span> Levileo-B · 本地 TOTP 计算</p></footer>
+<script src="../../assets/main.js"></script>
+<script src="totp.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -35,13 +35,13 @@
     <a class="nav__brand" href="#top">Levileo-B</a>
     <ul class="nav__list">
       <li><a href="#news">热点</a></li>
-      <li><a href="#x-updates">X 动态</a></li>
       <li><a href="hot/">实时</a></li>
       <li><a href="#local">附近</a></li>
       <li><a href="#daily">每日</a></li>
       <li><a href="#tools">工具</a></li>
       <li><a href="research/">科研</a></li>
       <li><a href="#projects">项目</a></li>
+      <li><a href="#x-updates">X 动态</a></li>
       <li><a href="games/">游戏</a></li>
       <li><a href="#contact">联系</a></li>
     </ul>
@@ -119,32 +119,6 @@
     </div>
   </section>
 
-  <!-- X 动态 -->
-  <section class="section" id="x-updates">
-    <div class="section__bar">
-      <h2 class="section__title">X 最新动态</h2>
-      <a class="news__stamp" href="https://x.com/thsottiaux" target="_blank" rel="noopener noreferrer">在 X.com 关注 @thsottiaux →</a>
-    </div>
-    <div class="card x-preview">
-      <div class="x-preview__intro">
-        <div>
-          <p class="result__label">Tibo · Codex / ChatGPT @OpenAI</p>
-          <p class="card__desc">这里同步展示 @thsottiaux 的公开动态，关注 Codex、ChatGPT 和 AI 产品的最新进展。</p>
-        </div>
-        <a class="btn btn--ghost" href="https://x.com/thsottiaux" target="_blank" rel="noopener noreferrer">打开 X.com</a>
-      </div>
-      <div class="x-preview__timeline">
-        <a class="twitter-timeline"
-           data-theme="light"
-           data-chrome="noheader nofooter noborders transparent"
-           data-tweet-limit="5"
-           data-dnt="true"
-           href="https://x.com/thsottiaux?ref_src=twsrc%5Etfw">@thsottiaux 的最新动态</a>
-      </div>
-      <p class="news__foot">动态由 X 官方小组件加载；如果浏览器拦截了第三方脚本，仍可通过上方入口直接访问账号。</p>
-    </div>
-  </section>
-
   <!-- 附近最热 -->
   <section class="section" id="local">
     <div class="section__bar">
@@ -202,6 +176,13 @@
     </div>
 
     <div class="tool-cards" style="margin-bottom:1.25rem">
+      <article class="card card--project">
+        <span class="tool-card__emoji" aria-hidden="true">🔐</span>
+        <h3 class="card__title">2FA 验证码快速计算</h3>
+        <p class="card__desc">粘贴密钥或 otpauth 链接，即时生成动态验证码，支持倒计时、自动换码与一键复制。密钥只在本地计算。</p>
+        <a class="card__link" href="tools/2fa/">计算验证码 →</a>
+      </article>
+
       <article class="card card--project">
         <span class="tool-card__emoji" aria-hidden="true">🎬</span>
         <h3 class="card__title">视频链接解析</h3>
@@ -316,6 +297,32 @@
     </div>
   </section>
 
+  <!-- X 动态：位于游戏入口前 -->
+  <section class="section" id="x-updates">
+    <div class="section__bar">
+      <h2 class="section__title">X 最新动态</h2>
+      <a class="news__stamp" href="https://x.com/thsottiaux" target="_blank" rel="noopener noreferrer">关注 @thsottiaux →</a>
+    </div>
+    <div class="card x-preview">
+      <div class="x-preview__intro">
+        <div>
+          <p class="result__label">Tibo · Codex / ChatGPT @OpenAI</p>
+          <p class="card__desc">关注 Codex、ChatGPT 和 AI 产品进展，展示官方时间线前 5 条动态。</p>
+        </div>
+        <button class="btn btn--ghost" id="x-refresh" type="button">刷新动态</button>
+      </div>
+      <div class="x-preview__toolbar">
+        <label><input id="x-auto" type="checkbox" checked> 每 60 秒自动刷新</label>
+        <span id="x-status" role="status">正在加载 X 动态…</span>
+      </div>
+      <div class="x-preview__timeline" id="x-timeline" aria-busy="true">
+        <p class="news__empty">正在加载…也可<a href="https://x.com/thsottiaux" target="_blank" rel="noopener noreferrer">直接查看 X.com</a>。</p>
+      </div>
+      <noscript><p class="news__empty">请启用 JavaScript 加载动态，或<a href="https://x.com/thsottiaux" target="_blank" rel="noopener noreferrer">访问 X.com</a>。</p></noscript>
+      <p class="news__foot">页面可见时定时重新请求 X 官方时间线，返回页面时会补刷新。内容顺序与更新速度由 X 决定，可能存在缓存延迟；若无法加载，可直接<a href="https://x.com/thsottiaux" target="_blank" rel="noopener noreferrer">打开 X.com</a>。</p>
+    </div>
+  </section>
+
   <!-- 小游戏 -->
   <section class="section" id="games">
     <h2 class="section__title">小游戏</h2>
@@ -378,6 +385,6 @@
 <script src="assets/news-rankings.js"></script>
 <script src="assets/daily.js"></script>
 <script src="assets/local.js"></script>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script src="assets/x-updates.js"></script>
 </body>
 </html>
