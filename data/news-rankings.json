@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-29T20:50:49+00:00",
-  "updated": "2026-09-29T20:50:49+00:00",
+  "generated_at": "2026-09-30T00:30:33+00:00",
+  "updated": "2026-09-30T00:30:33+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-09-28T00:00:00+08:00",
-    "end": "2026-09-29T20:50:49+00:00",
-    "total": 309,
+    "end": "2026-09-30T00:30:33+00:00",
+    "total": 336,
     "items": [
       {
         "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
@@ -22,6 +22,22 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "Chinese AI tool told researchers how to make bioweapons",
+        "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo",
+        "date": "2026-09-29T23:15:29+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
@@ -137,20 +153,6 @@
         ],
         "sources": [
           "CNBC"
-        ],
-        "source_count": 1,
-        "observed_days": 2
-      },
-      {
-        "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
-        "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do",
-        "date": "2026-09-29T15:26:23+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC World"
         ],
         "source_count": 1,
         "observed_days": 2
@@ -730,6 +732,22 @@
       ],
       "综合": [
         {
+          "title": "Chinese AI tool told researchers how to make bioweapons",
+          "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo",
+          "date": "2026-09-29T23:15:29+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
           "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o",
           "date": "2026-09-29T04:10:33+00:00",
@@ -858,23 +876,25 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "在印尼一座熱帶島嶼上，備受珍視的「永恆積雪」即將永遠消失",
-          "link": "https://www.bbc.com/zhongwen/articles/cwly54drj5l1o/trad",
-          "date": "2026-09-29T00:07:17+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
+        {
+          "title": "Chinese AI tool told researchers how to make bioweapons",
+          "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo",
+          "date": "2026-09-29T23:15:29+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
         {
           "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
           "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o",
@@ -964,9 +984,9 @@
           "observed_days": 2
         },
         {
-          "title": "Trump says he and tech leaders signed AI agreement that is 'morally binding'",
-          "link": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
-          "date": "2026-09-29T20:49:29+00:00",
+          "title": "Hedge funds hold a record share of the $30 trillion Treasury market. What could go wrong?",
+          "link": "https://www.cnbc.com/2026/09/30/us-treasury-market-is-relying-more-on-hedge-funds.html",
+          "date": "2026-09-30T00:19:09+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -978,23 +998,9 @@
           "observed_days": 1
         },
         {
-          "title": "IPO postponements are accelerating in third quarter, even beyond Oura",
-          "link": "https://www.cnbc.com/2026/09/29/ipo-postponements-are-accelerating-in-third-quarter-even-beyond-oura.html",
-          "date": "2026-09-29T20:33:01+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Soho House venue under investigation for food safety",
-          "link": "https://www.bbc.co.uk/news/articles/cjly4dn9r21qo",
-          "date": "2026-09-29T19:10:06+00:00",
+          "title": "'I like proving people wrong': The women taking up DIY and plumbing",
+          "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo",
+          "date": "2026-09-29T23:06:14+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1006,15 +1012,15 @@
           "observed_days": 1
         },
         {
-          "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
-          "link": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
-          "date": "2026-09-29T19:07:29+00:00",
+          "title": "Huel ad banned for suggesting its products could replace all conventional food",
+          "link": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo",
+          "date": "2026-09-29T23:06:06+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
           ],
           "sources": [
-            "CNBC"
+            "BBC Business"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -1024,8 +1030,8 @@
   },
   "month": {
     "start": "2026-09-01T00:00:00+08:00",
-    "end": "2026-09-29T20:50:49+00:00",
-    "total": 4083,
+    "end": "2026-09-30T00:30:33+00:00",
+    "total": 4110,
     "items": [
       {
         "title": "One month without AI",
