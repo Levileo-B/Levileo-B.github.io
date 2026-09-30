@@ -1,54 +1,54 @@
 {
   "schema_version": 1,
-  "updated": "2026-09-29T10:16:13.363010+00:00",
-  "attempted_at": "2026-09-29T10:16:13.363010+00:00",
+  "updated": "2026-09-30T07:28:01.459127+00:00",
+  "attempted_at": "2026-09-30T07:28:01.459127+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-09-29T10:16:13.363010+00:00",
+      "last_success": "2026-09-30T07:28:01.459127+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-09-29T10:16:13.363010+00:00",
+      "last_success": "2026-09-30T07:28:01.459127+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-09-29T10:16:13.363010+00:00",
+      "last_success": "2026-09-30T07:28:01.459127+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-09-29T10:16:13.363010+00:00",
+      "last_success": "2026-09-30T07:28:01.459127+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-09-29T10:16:13.363010+00:00",
+      "last_success": "2026-09-30T07:28:01.459127+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-09-29T10:16:13.363010+00:00",
+      "last_success": "2026-09-30T07:28:01.459127+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-09-29T10:16:13.363010+00:00",
+      "last_success": "2026-09-30T07:28:01.459127+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-09-29T10:16:13.363010+00:00",
+      "last_success": "2026-09-30T07:28:01.459127+00:00",
       "errors": []
     }
   ],
@@ -63,6 +63,18 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1038/s41598-026-73677-3",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70356",
+      "title": "Novel Sunlight Algorithm for AUV Fast Global Path Planning With Grid‐Constrained Sampling",
+      "journal_id": "jfr",
+      "published": "2026-09-29",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70356",
       "source": "crossref"
     },
     {
