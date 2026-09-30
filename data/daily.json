@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T19:24:14+00:00",
+  "updated": "2026-09-30T23:53:46+00:00",
   "leetcode": {
     "date": "2026-09-30",
     "id": "1111",
@@ -26,11 +26,11 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Free Air",
-    "creator": "Handy (Jam) Organization",
-    "year": "1937",
-    "url": "https://archive.org/download/FreeAir1937/FreeAir1937_512kb.mp4",
-    "page": "https://archive.org/details/FreeAir1937",
+    "title": "World of Tomorrow, The (Part I)",
+    "creator": "",
+    "year": "",
+    "url": "https://archive.org/download/world_of_tomorrow_1/world_of_tomorrow_1_512kb.mp4",
+    "page": "https://archive.org/details/world_of_tomorrow_1",
     "date": "2026-09-30",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
@@ -38,18 +38,32 @@
   },
   "music": [
     {
-      "title": "xxlounge 23",
-      "artist": "ton99",
-      "url": "https://archive.org/download/xxlounge-23-kw01-2007-www.ton99.de/xxlounge-23-kw01-2007-part1-www.ton99.de.mp3",
-      "page": "https://archive.org/details/xxlounge-23-kw01-2007-www.ton99.de",
+      "title": "Atractores Extraños II, or we are happy on the another planet",
+      "artist": "G.A.F.",
+      "url": "https://archive.org/download/tube101/tube101-01-gaf_-_gaf_likes_turbo_folk.mp3",
+      "page": "https://archive.org/details/tube101",
       "license": "Creative Commons"
     },
     {
-      "title": "Angel of Magnolia by Scott Bruzenak",
-      "artist": "Scott Bruzenak",
-      "url": "https://archive.org/download/luvs005/AngelOfMagnolia.mp3",
-      "page": "https://archive.org/details/luvs005",
+      "title": "...Finally Released",
+      "artist": "Syndrôm",
+      "url": "https://archive.org/download/FinallyReleased/01HelloWereOpen.mp3",
+      "page": "https://archive.org/details/FinallyReleased",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/fr/"
+    },
+    {
+      "title": "telafonica-theres-something-about-your-face",
+      "artist": "telafonica",
+      "url": "https://archive.org/download/telafonica-theres-something-about-your-face/5TheresSomethingAboutYourFace29.5.11.mp3",
+      "page": "https://archive.org/details/telafonica-theres-something-about-your-face",
       "license": "Creative Commons"
+    },
+    {
+      "title": "Make Rave Not Hate 2021-04: Ryoku & Cyan Music [FReeKS016]",
+      "artist": "Robert Bienert",
+      "url": "https://archive.org/download/FReeKS016-Make_Rave-not_Hate-2021-04_Ryoku_Cyan/FReeKS016-Make_Rave-not_Hate-2021-04.mp3",
+      "page": "https://archive.org/details/FReeKS016-Make_Rave-not_Hate-2021-04_Ryoku_Cyan",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
       "title": "Live",
@@ -59,67 +73,53 @@
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "frei² & Open Music Mix Association Special 2014-09-13",
-      "artist": "Robert Bienert",
-      "url": "https://archive.org/download/freihoch2-OpenMusicMixAssociationSpecial2014-09-13/3-freihoch2-OMMA-2014-09-13-Warmup.mp3",
-      "page": "https://archive.org/details/freihoch2-OpenMusicMixAssociationSpecial2014-09-13",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "[xs 71] cage cabarrett - covil radiophonic workshop",
-      "artist": "cage cabarret",
-      "url": "https://archive.org/download/xs71CageCabarrett-CovilRadiophonicWorkshop/CovilRadiophonicWorkshop1.mp3",
-      "page": "https://archive.org/details/xs71CageCabarrett-CovilRadiophonicWorkshop",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/pt/"
-    },
-    {
-      "title": "[GT019] Graphic Standart - Plane Mode â8",
-      "artist": "Vziel",
-      "url": "https://archive.org/download/gt019GraphicStandart-PlaneMode8/Untitled1.mp3",
-      "page": "https://archive.org/details/gt019GraphicStandart-PlaneMode8",
-      "license": "http://creativecommons.org/publicdomain/zero/1.0/"
-    },
-    {
-      "title": "[YESNO 028] COFFIN CADILLAC - Off The Road",
-      "artist": "Yes No Wave Music",
-      "url": "https://archive.org/download/yesno028/01_-_Hate_vbr.mp3",
-      "page": "https://archive.org/details/yesno028",
+      "title": "Fluidus (session 9) featuring Familiar",
+      "artist": "malaventura + Familiar",
+      "url": "https://archive.org/download/Fluidussession9FeaturingFamiliar/FluidusSession9.mp3",
+      "page": "https://archive.org/details/Fluidussession9FeaturingFamiliar",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "Fear of Erny",
-      "artist": "Deadman & Digi Hartatak",
-      "url": "https://archive.org/download/Fear_of_Erny/FearofErny.mp3",
-      "page": "https://archive.org/details/Fear_of_Erny",
-      "license": "http://creativecommons.org/licenses/by-sa/3.0/"
+      "title": "Netz Klang - Ausgabe 5.02.07",
+      "artist": "Tobi Tobsucht",
+      "url": "https://archive.org/download/netzklang-05-02-07/netzklang-05-02-07.mp3",
+      "page": "https://archive.org/details/netzklang-05-02-07",
+      "license": "Creative Commons"
     },
     {
-      "title": "Various Artists - netBloc Vol. 26: N.E.T.A.U.D.I.O.",
-      "artist": "Michael Gregoire",
-      "url": "https://archive.org/download/BSCOMP0026/01-DaveMersonHess-DidntUsedToBeThisWay.mp3",
-      "page": "https://archive.org/details/BSCOMP0026",
+      "title": "Lofiuser - Radiant Jaguar",
+      "artist": "Lofiuser",
+      "url": "https://archive.org/download/BSMX0132/01-AhtheHighlands_forSender.mp3",
+      "page": "https://archive.org/details/BSMX0132",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Kondenzator - Lift Rate [Freeosc52]",
+      "artist": "Irmin Imamovic",
+      "url": "https://archive.org/download/FreeOsc52/osc52-01-Kondenzator---Lift-Rate---Original.mp3",
+      "page": "https://archive.org/details/FreeOsc52",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "BOLANDER - Consistent Irritation [tzpdc 04]",
-      "artist": "Peter Bolander",
-      "url": "https://archive.org/download/tzpdc04/01_Flatlined.mp3",
-      "page": "https://archive.org/details/tzpdc04",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
+      "title": "BS059 Fuck This, Tilted Field",
+      "artist": "Nature Circuit",
+      "url": "https://archive.org/download/BS059/01-Sunlight_Hymn.mp3",
+      "page": "https://archive.org/details/BS059",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "[ffs11] Elektrobi - 1+1",
-      "artist": "Elektrobi",
-      "url": "https://archive.org/download/ffs11/FFS11_ELEKTROBI_-_01_jungla_1.mp3",
-      "page": "https://archive.org/details/ffs11",
-      "license": "http://creativecommons.org/licenses/by-nc/2.5/"
+      "title": "Fancy Pants",
+      "artist": "Digi Hartatak",
+      "url": "https://archive.org/download/Fancy_Pants_1/fancypants.mp3",
+      "page": "https://archive.org/details/Fancy_Pants_1",
+      "license": "http://creativecommons.org/licenses/by/3.0/"
     },
     {
-      "title": "False Adults - Year Two",
-      "artist": "False Adults",
-      "url": "https://archive.org/download/FalseAdults-YearTwo/01%20Intro%20Riddim.mp3",
-      "page": "https://archive.org/details/FalseAdults-YearTwo",
-      "license": "Creative Commons"
+      "title": "Flight Of Red Bird",
+      "artist": "Asaguare",
+      "url": "https://archive.org/download/FlightOfRedBird/FlightOfRedBirdHiFi.mp3",
+      "page": "https://archive.org/details/FlightOfRedBird",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     }
   ]
 }
