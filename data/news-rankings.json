@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-01T06:00:24+00:00",
-  "updated": "2026-10-01T06:00:23+00:00",
+  "generated_at": "2026-10-01T13:22:35+00:00",
+  "updated": "2026-10-01T13:22:34+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-09-28T00:00:00+08:00",
-    "end": "2026-10-01T06:00:24+00:00",
-    "total": 518,
+    "end": "2026-10-01T13:22:35+00:00",
+    "total": 549,
     "items": [
       {
         "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
@@ -40,6 +40,21 @@
         "observed_days": 2
       },
       {
+        "title": "How to speed up the Rust compiler in September 2026",
+        "link": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+        "date": "2026-09-30T02:08:22+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
         "title": "EDG C/C++ Compiler Project",
         "link": "https://github.com/edgcpp/compiler",
         "date": "2026-09-30T22:06:21+00:00",
@@ -50,6 +65,38 @@
         "sources": [
           "Hacker News",
           "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
+        "title": "Returning from vacation? The government can search your phone without a warrant",
+        "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+        "date": "2026-09-30T21:19:56+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发",
+          "科技"
+        ],
+        "sources": [
+          "Ars Technica",
+          "Hacker News"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
+        "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+        "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+        "date": "2026-09-30T15:54:38+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发",
+          "财经"
+        ],
+        "sources": [
+          "CNBC",
+          "Hacker News"
         ],
         "source_count": 2,
         "observed_days": 1
@@ -116,49 +163,6 @@
         ],
         "source_count": 2,
         "observed_days": 1
-      },
-      {
-        "title": "Don't couple your Go code to GitHub",
-        "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-        "date": "2026-09-27T16:50:58+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "Developer policy update: Transparency, state policy, and what’s ahead",
-        "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
-        "date": "2026-09-29T15:00:00+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "GitHub Blog"
-        ],
-        "source_count": 1,
-        "observed_days": 3
-      },
-      {
-        "title": "The Download: climate tech companies to watch and AI’s discovery problem",
-        "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
-        "date": "2026-09-29T12:10:00+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "AI"
-        ],
-        "sources": [
-          "MIT Technology Review"
-        ],
-        "source_count": 1,
-        "observed_days": 3
       }
     ],
     "by_category": {
@@ -321,6 +325,21 @@
           "observed_days": 3
         },
         {
+          "title": "How to speed up the Rust compiler in September 2026",
+          "link": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+          "date": "2026-09-30T02:08:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "EDG C/C++ Compiler Project",
           "link": "https://github.com/edgcpp/compiler",
           "date": "2026-09-30T22:06:21+00:00",
@@ -331,6 +350,38 @@
           "sources": [
             "Hacker News",
             "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Returning from vacation? The government can search your phone without a warrant",
+          "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+          "date": "2026-09-30T21:19:56+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+          "date": "2026-09-30T15:54:38+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "财经"
+          ],
+          "sources": [
+            "CNBC",
+            "Hacker News"
           ],
           "source_count": 2,
           "observed_days": 1
@@ -406,51 +457,25 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "How to speed up the Rust compiler in September 2026",
-          "link": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-          "date": "2026-09-30T02:08:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "CoW — a stacking window manager for Wayland",
-          "link": "https://cow-wm.codeberg.page/cow/",
-          "date": "2026-09-29T09:07:37+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "My experience writing automated tests for a SPA",
-          "link": "https://reecoute.fr/tech_blog/2026-09-28_my-experience-writing-automated-tests-for-a-spa",
-          "date": "2026-09-29T06:00:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "科技": [
+        {
+          "title": "Returning from vacation? The government can search your phone without a warrant",
+          "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+          "date": "2026-09-30T21:19:56+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
         {
           "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
           "link": "https://sspai.com/post/115153",
@@ -573,20 +598,6 @@
           ],
           "sources": [
             "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
-          "link": "https://sspai.com/post/115197",
-          "date": "2026-09-29T23:39:21+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -902,6 +913,22 @@
           "observed_days": 2
         },
         {
+          "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+          "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+          "date": "2026-09-30T15:54:38+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "财经"
+          ],
+          "sources": [
+            "CNBC",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Chinese AI tool told researchers how to make bioweapons",
           "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo",
           "date": "2026-09-29T23:15:29+00:00",
@@ -1018,28 +1045,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "30-year Treasury bond yield scales to highest level since 2002",
-          "link": "https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html",
-          "date": "2026-09-29T08:17:15+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-01T06:00:24+00:00",
-    "total": 73,
+    "end": "2026-10-01T13:22:35+00:00",
+    "total": 104,
     "items": [
       {
         "title": "EDG C/C++ Compiler Project",
@@ -1057,9 +1070,53 @@
         "observed_days": 1
       },
       {
-        "title": "[分享创造] 表情厨房更新： AI 做整套微信表情包之外，加了动态表情和三个免费 GIF 工具",
-        "link": "https://www.v2ex.com/t/1245999",
-        "date": "2026-10-01T05:53:49+00:00",
+        "title": "Returning from vacation? The government can search your phone without a warrant",
+        "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+        "date": "2026-09-30T21:19:56+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发",
+          "科技"
+        ],
+        "sources": [
+          "Ars Technica",
+          "Hacker News"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
+        "title": "Samsung raised prices on the Galaxy S26 by $100",
+        "link": "https://www.theverge.com/tech/1003328/samsung-s26-price-hikes-us",
+        "date": "2026-10-01T13:17:16+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "科技"
+        ],
+        "sources": [
+          "The Verge"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Gears of War: E-Day is a great game launching at a terrible time",
+        "link": "https://www.theverge.com/games/1002768/gears-of-war-eday-review-xbox",
+        "date": "2026-10-01T13:15:08+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "科技"
+        ],
+        "sources": [
+          "The Verge"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[程序员] 时隔 3 年，终于更新了个人主页",
+        "link": "https://www.v2ex.com/t/1246052",
+        "date": "2026-10-01T13:14:14+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -1071,23 +1128,9 @@
         "observed_days": 1
       },
       {
-        "title": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation",
-        "link": "https://www.cnbc.com/2026/10/01/trump-south-korea-investment-alaska-lng-nuclear-power.html",
-        "date": "2026-10-01T05:44:18+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "财经"
-        ],
-        "sources": [
-          "CNBC"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[分享创造] 没公网 IP 还会关机？把 Muse 虚拟机变成自己的 VPS",
-        "link": "https://www.v2ex.com/t/1245998",
-        "date": "2026-10-01T05:43:08+00:00",
+        "title": "[Claude] 如果 Google 账号被封了，关联的 Claude 是不是废了？",
+        "link": "https://www.v2ex.com/t/1246051",
+        "date": "2026-10-01T13:06:22+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -1099,91 +1142,107 @@
         "observed_days": 1
       },
       {
-        "title": "[AI Agent 智能体] muse.ai 通过 Cloudflare 免费版 Turnstile 人机验证",
-        "link": "https://www.v2ex.com/t/1245997",
-        "date": "2026-10-01T05:34:01+00:00",
+        "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
+        "link": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
+        "date": "2026-10-01T12:55:27+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
         ],
         "sources": [
-          "V2EX"
+          "Hacker News"
         ],
         "source_count": 1,
         "observed_days": 1
       },
       {
-        "title": "[程序员] 提醒一下 codex 有两个重置 10/4、10/5",
-        "link": "https://www.v2ex.com/t/1245995",
-        "date": "2026-10-01T05:24:14+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[职场话题] 国庆节来公司值班了，发现人很少",
-        "link": "https://www.v2ex.com/t/1245994",
-        "date": "2026-10-01T05:13:44+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "UK Prime Minister Burnham says Iran 'played a part' in British air base incident",
-        "link": "https://www.cnbc.com/2026/10/01/us-iran-war-trump-hormuz.html",
-        "date": "2026-10-01T05:08:23+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "财经"
-        ],
-        "sources": [
-          "CNBC"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "FirstDate：新加坡用諾貝爾奬演算法，為公務員配對約會對象",
-        "link": "https://www.bbc.com/zhongwen/articles/c60e3e4yn858o/trad",
-        "date": "2026-10-01T04:43:34+00:00",
+        "title": "What happened in failed execution of Christa Pike - and what next?",
+        "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo",
+        "date": "2026-10-01T12:51:14+00:00",
         "date_is_observed": false,
         "categories": [
           "综合"
         ],
         "sources": [
-          "BBC 中文"
+          "BBC World"
         ],
         "source_count": 1,
         "observed_days": 1
       },
       {
-        "title": "AI boom could trigger market shocks, Bank of England boss warns",
-        "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo",
-        "date": "2026-10-01T04:03:17+00:00",
+        "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+        "link": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
+        "date": "2026-10-01T12:48:59+00:00",
         "date_is_observed": false,
         "categories": [
-          "财经"
+          "开发"
         ],
         "sources": [
-          "BBC Business"
+          "Hacker News"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[求职] [远程 / 苏州] 8 年多开发经验，找全栈或 AI 应用开发的机会",
+        "link": "https://www.v2ex.com/t/1246048",
+        "date": "2026-10-01T12:47:27+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
         ],
         "source_count": 1,
         "observed_days": 1
       }
     ],
     "by_category": {
+      "AI": [
+        {
+          "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+          "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+          "date": "2026-10-01T12:10:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan",
+          "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+          "date": "2026-10-01T10:32:24+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "How smaller, distributed batteries could help the grid",
+          "link": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+          "date": "2026-10-01T10:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        }
+      ],
       "开发": [
         {
           "title": "EDG C/C++ Compiler Project",
@@ -1201,9 +1260,25 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] 表情厨房更新： AI 做整套微信表情包之外，加了动态表情和三个免费 GIF 工具",
-          "link": "https://www.v2ex.com/t/1245999",
-          "date": "2026-10-01T05:53:49+00:00",
+          "title": "Returning from vacation? The government can search your phone without a warrant",
+          "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+          "date": "2026-09-30T21:19:56+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "[程序员] 时隔 3 年，终于更新了个人主页",
+          "link": "https://www.v2ex.com/t/1246052",
+          "date": "2026-10-01T13:14:14+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1215,9 +1290,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] 没公网 IP 还会关机？把 Muse 虚拟机变成自己的 VPS",
-          "link": "https://www.v2ex.com/t/1245998",
-          "date": "2026-10-01T05:43:08+00:00",
+          "title": "[Claude] 如果 Google 账号被封了，关联的 Claude 是不是废了？",
+          "link": "https://www.v2ex.com/t/1246051",
+          "date": "2026-10-01T13:06:22+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1229,51 +1304,9 @@
           "observed_days": 1
         },
         {
-          "title": "[AI Agent 智能体] muse.ai 通过 Cloudflare 免费版 Turnstile 人机验证",
-          "link": "https://www.v2ex.com/t/1245997",
-          "date": "2026-10-01T05:34:01+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[程序员] 提醒一下 codex 有两个重置 10/4、10/5",
-          "link": "https://www.v2ex.com/t/1245995",
-          "date": "2026-10-01T05:24:14+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[职场话题] 国庆节来公司值班了，发现人很少",
-          "link": "https://www.v2ex.com/t/1245994",
-          "date": "2026-10-01T05:13:44+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Is sandboxing sufficient to contain rogue agents?",
-          "link": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
-          "date": "2026-10-01T03:27:41+00:00",
+          "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
+          "link": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
+          "date": "2026-10-01T12:55:27+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1285,9 +1318,9 @@
           "observed_days": 1
         },
         {
-          "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
-          "link": "https://github.com/TantrixAuto/yantra",
-          "date": "2026-10-01T02:30:48+00:00",
+          "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+          "link": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
+          "date": "2026-10-01T12:48:59+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1299,9 +1332,9 @@
           "observed_days": 1
         },
         {
-          "title": "[随想] 突然想起来一件事",
-          "link": "https://www.v2ex.com/t/1245945",
-          "date": "2026-09-30T23:48:55+00:00",
+          "title": "[求职] [远程 / 苏州] 8 年多开发经验，找全栈或 AI 应用开发的机会",
+          "link": "https://www.v2ex.com/t/1246048",
+          "date": "2026-10-01T12:47:27+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1313,21 +1346,163 @@
           "observed_days": 1
         },
         {
-          "title": "[浏览器] 最近迁移到 Catsxp 浏览器",
-          "link": "https://www.v2ex.com/t/1245944",
-          "date": "2026-09-30T23:41:52+00:00",
+          "title": "[问与答] 公网拨号，几分钟就受限，无法建新连接，已有连接不受影响",
+          "link": "https://www.v2ex.com/t/1246047",
+          "date": "2026-10-01T12:41:19+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
             "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[分享创造] 我的第一个网站",
+          "link": "https://www.v2ex.com/t/1246046",
+          "date": "2026-10-01T12:19:42+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Who's hiring? Q4 2026",
+          "link": "https://lobste.rs/s/bmcnwp/who_s_hiring_q4_2026",
+          "date": "2026-10-01T10:03:52+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Lobsters"
           ],
           "source_count": 1,
           "observed_days": 1
         }
       ],
       "科技": [
+        {
+          "title": "Returning from vacation? The government can search your phone without a warrant",
+          "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+          "date": "2026-09-30T21:19:56+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Samsung raised prices on the Galaxy S26 by $100",
+          "link": "https://www.theverge.com/tech/1003328/samsung-s26-price-hikes-us",
+          "date": "2026-10-01T13:17:16+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Gears of War: E-Day is a great game launching at a terrible time",
+          "link": "https://www.theverge.com/games/1002768/gears-of-war-eday-review-xbox",
+          "date": "2026-10-01T13:15:08+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Amazon is launching colorful new Kindles — and a case with physical page-turn buttons",
+          "link": "https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh",
+          "date": "2026-10-01T12:33:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "PS5 emulation is suddenly making big strides on PC",
+          "link": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/",
+          "date": "2026-10-01T11:30:41+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "NASA squeezed Treasury, vibe coded, and broke the mold in bid to save Swift",
+          "link": "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/",
+          "date": "2026-10-01T11:15:15+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "华为 Mate 90 系列发布：最强 Mate来了，5999 起即日开售",
+          "link": "https://www.ifanr.com/1682801",
+          "date": "2026-10-01T06:17:57+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "HP&#8217;s answer to the MacBook Neo is thinner, lighter, and comes with OLED",
+          "link": "https://www.theverge.com/gadgets/1003107/hp-omnibook-5-14-intel-wildcat-lake-8gb-macbook-neo-price-specs",
+          "date": "2026-10-01T02:47:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "早报｜曝苹果10月13日发布家庭中枢/豆包接入机票和火车票预订/东方甄选溜溜凳双倍退款",
           "link": "https://www.ifanr.com/1682780",
@@ -1355,121 +1530,65 @@
           ],
           "source_count": 1,
           "observed_days": 1
-        },
-        {
-          "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-          "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-          "date": "2026-10-01T00:23:45+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "The Verge"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "The new and huger Paramount has a new co-CEO",
-          "link": "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez",
-          "date": "2026-09-30T23:11:17+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "The Verge"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Dinosaur-killing impact crater might have been teeming with life",
-          "link": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
-          "date": "2026-09-30T21:54:12+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Fifth unvaccinated person dies of measles; CDC still not counting all deaths",
-          "link": "https://arstechnica.com/health/2026/09/fifth-unvaccinated-person-dies-of-measles-cdc-still-not-counting-all-deaths/",
-          "date": "2026-09-30T21:37:54+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Returning from vacation? The government can search your phone without a warrant.",
-          "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
-          "date": "2026-09-30T21:19:56+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "A local network of implants uses your body as the wiring",
-          "link": "https://arstechnica.com/science/2026/09/scientists-built-implants-that-talk-to-each-other-through-body-tissue/",
-          "date": "2026-09-30T21:06:56+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
-          "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
-          "date": "2026-09-30T20:44:48+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-          "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-          "date": "2026-09-30T20:41:41+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "The Verge"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "综合": [
+        {
+          "title": "What happened in failed execution of Christa Pike - and what next?",
+          "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo",
+          "date": "2026-10-01T12:51:14+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "香港國安處以「23條」拘捕網媒記者，與8.31事件相關",
+          "link": "https://www.bbc.com/zhongwen/articles/c6wyzy7ykn5go/trad",
+          "date": "2026-10-01T08:48:59+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "中國開始打擊AI戀愛關係，是過度干預還是先見之明？",
+          "link": "https://www.bbc.com/zhongwen/articles/cmz9z9e4247vo/trad",
+          "date": "2026-10-01T08:12:13+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "日本收緊外國人居留條件，申請費用上調二十倍",
+          "link": "https://www.bbc.com/zhongwen/articles/cxyvzvqp0z01o/trad",
+          "date": "2026-10-01T07:38:15+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "FirstDate：新加坡用諾貝爾奬演算法，為公務員配對約會對象",
           "link": "https://www.bbc.com/zhongwen/articles/c60e3e4yn858o/trad",
@@ -1485,7 +1604,7 @@
           "observed_days": 1
         },
         {
-          "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+          "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
           "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo",
           "date": "2026-10-01T03:43:06+00:00",
           "date_is_observed": false,
@@ -1541,65 +1660,9 @@
           "observed_days": 1
         },
         {
-          "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
+          "title": "US death row inmate survives execution attempt after two lethal injections",
           "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o",
           "date": "2026-09-30T23:42:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Tiny image sparks big backlash in Nikon photo contest",
-          "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno",
-          "date": "2026-09-30T23:10:19+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo",
-          "date": "2026-09-30T23:10:06+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
-          "link": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo",
-          "date": "2026-09-30T17:14:03+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "UK-France 'one in, one out' migrant scheme scrapped",
-          "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo",
-          "date": "2026-09-30T17:11:08+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -1612,6 +1675,62 @@
         }
       ],
       "财经": [
+        {
+          "title": "Travelodge failed sex assault victim 'at every stage'",
+          "link": "https://www.bbc.co.uk/news/articles/c93429dg425o",
+          "date": "2026-10-01T11:44:40+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o",
+          "date": "2026-10-01T11:37:46+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "10-year Treasury yield hits highest level since 2002 as global bond rout gathers pace",
+          "link": "https://www.cnbc.com/2026/10/01/us-treasury-bond-yield.html",
+          "date": "2026-10-01T10:22:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "The U.S. just made it much easier for retail investors to access private markets",
+          "link": "https://www.cnbc.com/2026/10/01/private-credit-sec-retail-investors.html",
+          "date": "2026-10-01T08:30:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation",
           "link": "https://www.cnbc.com/2026/10/01/trump-south-korea-investment-alaska-lng-nuclear-power.html",
@@ -1686,62 +1805,6 @@
           "title": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto",
           "link": "https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html",
           "date": "2026-09-30T23:50:01+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Vape prices to rise as new tax takes effect",
-          "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o",
-          "date": "2026-09-30T23:02:11+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "David Ellison names Ynon Kreiz co-CEO of Paramount and Warner Bros. Discovery",
-          "link": "https://www.cnbc.com/2026/09/30/david-ellison-ynon-kreiz-co-ceo-paramount-wbd.html",
-          "date": "2026-09-30T23:01:40+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Energy bills are going up - here's what you can do about it",
-          "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o",
-          "date": "2026-09-30T23:01:32+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Trump 'thinking about' diesel export ban, but says it could have 'negative impact' on gasoline",
-          "link": "https://www.cnbc.com/2026/09/30/trump-diesel-export-ban-gas.html",
-          "date": "2026-09-30T22:43:53+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
