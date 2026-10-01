@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-30T23:53:46+00:00",
-  "updated": "2026-09-30T23:53:46+00:00",
+  "generated_at": "2026-10-01T06:00:24+00:00",
+  "updated": "2026-10-01T06:00:23+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-09-28T00:00:00+08:00",
-    "end": "2026-09-30T23:53:46+00:00",
-    "total": 496,
+    "end": "2026-10-01T06:00:24+00:00",
+    "total": 518,
     "items": [
       {
         "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
@@ -38,6 +38,21 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "EDG C/C++ Compiler Project",
+        "link": "https://github.com/edgcpp/compiler",
+        "date": "2026-09-30T22:06:21+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "Chinese AI tool told researchers how to make bioweapons",
@@ -135,20 +150,6 @@
         "title": "The Download: climate tech companies to watch and AI’s discovery problem",
         "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
         "date": "2026-09-29T12:10:00+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "AI"
-        ],
-        "sources": [
-          "MIT Technology Review"
-        ],
-        "source_count": 1,
-        "observed_days": 3
-      },
-      {
-        "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
-        "link": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
-        "date": "2026-09-29T11:00:00+00:00",
         "date_is_observed": false,
         "categories": [
           "AI"
@@ -320,6 +321,21 @@
           "observed_days": 3
         },
         {
+          "title": "EDG C/C++ Compiler Project",
+          "link": "https://github.com/edgcpp/compiler",
+          "date": "2026-09-30T22:06:21+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "When did Google get so weird?",
           "link": "https://sancho.bearblog.dev/google-weird/",
           "date": "2026-09-27T20:12:54+00:00",
@@ -423,20 +439,6 @@
           "title": "My experience writing automated tests for a SPA",
           "link": "https://reecoute.fr/tech_blog/2026-09-28_my-experience-writing-automated-tests-for-a-spa",
           "date": "2026-09-29T06:00:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Bill Gates tries to install Movie Maker",
-          "link": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
-          "date": "2026-09-28T16:18:16+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1036,13 +1038,42 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-09-30T23:53:46+00:00",
-    "total": 52,
+    "end": "2026-10-01T06:00:24+00:00",
+    "total": 73,
     "items": [
       {
-        "title": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto",
-        "link": "https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html",
-        "date": "2026-09-30T23:50:01+00:00",
+        "title": "EDG C/C++ Compiler Project",
+        "link": "https://github.com/edgcpp/compiler",
+        "date": "2026-09-30T22:06:21+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
+        "title": "[分享创造] 表情厨房更新： AI 做整套微信表情包之外，加了动态表情和三个免费 GIF 工具",
+        "link": "https://www.v2ex.com/t/1245999",
+        "date": "2026-10-01T05:53:49+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation",
+        "link": "https://www.cnbc.com/2026/10/01/trump-south-korea-investment-alaska-lng-nuclear-power.html",
+        "date": "2026-10-01T05:44:18+00:00",
         "date_is_observed": false,
         "categories": [
           "财经"
@@ -1054,9 +1085,9 @@
         "observed_days": 1
       },
       {
-        "title": "[随想] 突然想起来一件事",
-        "link": "https://www.v2ex.com/t/1245945",
-        "date": "2026-09-30T23:48:55+00:00",
+        "title": "[分享创造] 没公网 IP 还会关机？把 Muse 虚拟机变成自己的 VPS",
+        "link": "https://www.v2ex.com/t/1245998",
+        "date": "2026-10-01T05:43:08+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -1068,107 +1099,79 @@
         "observed_days": 1
       },
       {
-        "title": "US Supreme Court allows execution of Christa Pike to go ahead",
-        "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o",
-        "date": "2026-09-30T23:42:10+00:00",
+        "title": "[AI Agent 智能体] muse.ai 通过 Cloudflare 免费版 Turnstile 人机验证",
+        "link": "https://www.v2ex.com/t/1245997",
+        "date": "2026-10-01T05:34:01+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[程序员] 提醒一下 codex 有两个重置 10/4、10/5",
+        "link": "https://www.v2ex.com/t/1245995",
+        "date": "2026-10-01T05:24:14+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[职场话题] 国庆节来公司值班了，发现人很少",
+        "link": "https://www.v2ex.com/t/1245994",
+        "date": "2026-10-01T05:13:44+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "UK Prime Minister Burnham says Iran 'played a part' in British air base incident",
+        "link": "https://www.cnbc.com/2026/10/01/us-iran-war-trump-hormuz.html",
+        "date": "2026-10-01T05:08:23+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "财经"
+        ],
+        "sources": [
+          "CNBC"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "FirstDate：新加坡用諾貝爾奬演算法，為公務員配對約會對象",
+        "link": "https://www.bbc.com/zhongwen/articles/c60e3e4yn858o/trad",
+        "date": "2026-10-01T04:43:34+00:00",
         "date_is_observed": false,
         "categories": [
           "综合"
         ],
         "sources": [
-          "BBC World"
+          "BBC 中文"
         ],
         "source_count": 1,
         "observed_days": 1
       },
       {
-        "title": "[浏览器] 最近迁移到 Catsxp 浏览器",
-        "link": "https://www.v2ex.com/t/1245944",
-        "date": "2026-09-30T23:41:52+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[问与答] 求支招，住的酒店临街，有明显的车流声，影响睡觉，怎么办",
-        "link": "https://www.v2ex.com/t/1245943",
-        "date": "2026-09-30T23:33:34+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[分享创造] 我为了做高效的牛马，做了一个 Codex 远程 App，支持手机网页，支持 ACP 比如 Copilot 和 Agents API",
-        "link": "https://www.v2ex.com/t/1245942",
-        "date": "2026-09-30T23:31:45+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "The new and huger Paramount has a new co-CEO",
-        "link": "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez",
-        "date": "2026-09-30T23:11:17+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "The Verge"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Tiny image sparks big backlash in Nikon photo contest",
-        "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno",
-        "date": "2026-09-30T23:10:19+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC World"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-        "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo",
-        "date": "2026-09-30T23:10:06+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC World"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Vape prices to rise as new tax takes effect",
-        "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o",
-        "date": "2026-09-30T23:02:11+00:00",
+        "title": "AI boom could trigger market shocks, Bank of England boss warns",
+        "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo",
+        "date": "2026-10-01T04:03:17+00:00",
         "date_is_observed": false,
         "categories": [
           "财经"
@@ -1182,6 +1185,119 @@
     ],
     "by_category": {
       "开发": [
+        {
+          "title": "EDG C/C++ Compiler Project",
+          "link": "https://github.com/edgcpp/compiler",
+          "date": "2026-09-30T22:06:21+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "[分享创造] 表情厨房更新： AI 做整套微信表情包之外，加了动态表情和三个免费 GIF 工具",
+          "link": "https://www.v2ex.com/t/1245999",
+          "date": "2026-10-01T05:53:49+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[分享创造] 没公网 IP 还会关机？把 Muse 虚拟机变成自己的 VPS",
+          "link": "https://www.v2ex.com/t/1245998",
+          "date": "2026-10-01T05:43:08+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[AI Agent 智能体] muse.ai 通过 Cloudflare 免费版 Turnstile 人机验证",
+          "link": "https://www.v2ex.com/t/1245997",
+          "date": "2026-10-01T05:34:01+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[程序员] 提醒一下 codex 有两个重置 10/4、10/5",
+          "link": "https://www.v2ex.com/t/1245995",
+          "date": "2026-10-01T05:24:14+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[职场话题] 国庆节来公司值班了，发现人很少",
+          "link": "https://www.v2ex.com/t/1245994",
+          "date": "2026-10-01T05:13:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Is sandboxing sufficient to contain rogue agents?",
+          "link": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+          "date": "2026-10-01T03:27:41+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
+          "link": "https://github.com/TantrixAuto/yantra",
+          "date": "2026-10-01T02:30:48+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "[随想] 突然想起来一件事",
           "link": "https://www.v2ex.com/t/1245945",
@@ -1209,121 +1325,51 @@
           ],
           "source_count": 1,
           "observed_days": 1
-        },
-        {
-          "title": "[问与答] 求支招，住的酒店临街，有明显的车流声，影响睡觉，怎么办",
-          "link": "https://www.v2ex.com/t/1245943",
-          "date": "2026-09-30T23:33:34+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[分享创造] 我为了做高效的牛马，做了一个 Codex 远程 App，支持手机网页，支持 ACP 比如 Copilot 和 Agents API",
-          "link": "https://www.v2ex.com/t/1245942",
-          "date": "2026-09-30T23:31:45+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "EDG C++ Compiler is open source",
-          "link": "https://github.com/edgcpp/compiler",
-          "date": "2026-09-30T22:48:44+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "56k.rip – the 1996 dial-up internet experience",
-          "link": "https://56k.rip/",
-          "date": "2026-09-30T22:08:50+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Automating Wi-Fi setup testing on the ESP32",
-          "link": "https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/",
-          "date": "2026-09-30T22:07:51+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
-          "link": "https://www.thespacereview.com/article/4951/1",
-          "date": "2026-09-30T22:03:04+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[Claude] 现在凌晨 4 点突然睡不着，梦见自己 cluade 弹出来了确认提示框",
-          "link": "https://www.v2ex.com/t/1245941",
-          "date": "2026-09-30T20:30:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Functional Ultrasound Imaging (fUSI) from scratch",
-          "link": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
-          "date": "2026-09-30T20:06:39+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "科技": [
+        {
+          "title": "早报｜曝苹果10月13日发布家庭中枢/豆包接入机票和火车票预订/东方甄选溜溜凳双倍退款",
+          "link": "https://www.ifanr.com/1682780",
+          "date": "2026-10-01T00:43:49+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Gemini 4 正式发布，我们终于有了一个写作强于代码的前沿模型",
+          "link": "https://www.ifanr.com/1682765",
+          "date": "2026-10-01T00:31:33+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+          "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+          "date": "2026-10-01T00:23:45+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "The new and huger Paramount has a new co-CEO",
           "link": "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez",
@@ -1421,53 +1467,81 @@
           ],
           "source_count": 1,
           "observed_days": 1
-        },
-        {
-          "title": "Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie",
-          "link": "https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie",
-          "date": "2026-09-30T20:24:39+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "The Verge"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Lawsuit demands OpenAI halt unsafe development that caused Hugging Face hack",
-          "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
-          "date": "2026-09-30T18:25:04+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "The AI Tamagotchis are coming",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-          "date": "2026-09-30T18:07:38+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "The Verge"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "综合": [
         {
-          "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+          "title": "FirstDate：新加坡用諾貝爾奬演算法，為公務員配對約會對象",
+          "link": "https://www.bbc.com/zhongwen/articles/c60e3e4yn858o/trad",
+          "date": "2026-10-01T04:43:34+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+          "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo",
+          "date": "2026-10-01T03:43:06+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "感情走下坡還有救嗎？伴侶治療師談修復關係的要素",
+          "link": "https://www.bbc.com/zhongwen/articles/cqvgy2z0r958o/trad",
+          "date": "2026-10-01T02:35:05+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "鈉離子電池：「美國製造」能超越中國嗎？",
+          "link": "https://www.bbc.com/zhongwen/articles/cwx2ze4g2d2go/trad",
+          "date": "2026-10-01T01:58:40+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+          "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o",
+          "date": "2026-10-01T00:08:23+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
           "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o",
           "date": "2026-09-30T23:42:10+00:00",
           "date_is_observed": false,
@@ -1535,23 +1609,79 @@
           ],
           "source_count": 1,
           "observed_days": 1
-        },
-        {
-          "title": "軍情五處警告：中國資助英國研究，成果交予北京間諜機關",
-          "link": "https://www.bbc.com/zhongwen/articles/cmwyz8y494xvo/trad",
-          "date": "2026-09-30T16:46:19+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "财经": [
+        {
+          "title": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation",
+          "link": "https://www.cnbc.com/2026/10/01/trump-south-korea-investment-alaska-lng-nuclear-power.html",
+          "date": "2026-10-01T05:44:18+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "UK Prime Minister Burnham says Iran 'played a part' in British air base incident",
+          "link": "https://www.cnbc.com/2026/10/01/us-iran-war-trump-hormuz.html",
+          "date": "2026-10-01T05:08:23+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "AI boom could trigger market shocks, Bank of England boss warns",
+          "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo",
+          "date": "2026-10-01T04:03:17+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "AI race heats up as OpenAI flags alleged model-copying campaign",
+          "link": "https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html",
+          "date": "2026-10-01T02:14:43+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Passengers and crew foil co-pilot's apparent attempt to crash FlyDubai flight to Israel",
+          "link": "https://www.cnbc.com/2026/10/01/dubai-israel-flight-pilot-crash-indian.html",
+          "date": "2026-10-01T01:09:18+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto",
           "link": "https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html",
@@ -1612,76 +1742,6 @@
           "title": "Trump 'thinking about' diesel export ban, but says it could have 'negative impact' on gasoline",
           "link": "https://www.cnbc.com/2026/09/30/trump-diesel-export-ban-gas.html",
           "date": "2026-09-30T22:43:53+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
-          "link": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
-          "date": "2026-09-30T20:59:05+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
-          "link": "https://www.cnbc.com/2026/09/30/hawley-openai-sam-altman-rogue-ai.html",
-          "date": "2026-09-30T20:51:44+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Crude oil exports through the Strait of Hormuz hit prewar levels, but fuel shipments remain constrained",
-          "link": "https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html",
-          "date": "2026-09-30T18:48:59+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Two trades that just happened in 'Magnificent Seven' stocks point to big gains ahead",
-          "link": "https://www.cnbc.com/2026/09/30/two-trades-that-just-happened-in-magnificent-seven-stocks-point-to-big-gains-ahead.html",
-          "date": "2026-09-30T18:47:35+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
-          "link": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
-          "date": "2026-09-30T17:15:24+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"

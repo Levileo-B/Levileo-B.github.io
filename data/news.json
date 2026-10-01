@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T23:53:46+00:00",
+  "updated": "2026-10-01T06:00:23+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -7,9 +7,19 @@
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
         {
+          "title": "FirstDate：新加坡用諾貝爾奬演算法，為公務員配對約會對象",
+          "link": "https://www.bbc.com/zhongwen/articles/c60e3e4yn858o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-01T04:43:34+00:00"
+        },
+        {
           "title": "軍情五處警告：中國資助英國研究，成果交予北京間諜機關",
           "link": "https://www.bbc.com/zhongwen/articles/cmwyz8y494xvo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-30T16:46:19+00:00"
+        },
+        {
+          "title": "鈉離子電池：「美國製造」能超越中國嗎？",
+          "link": "https://www.bbc.com/zhongwen/articles/cwx2ze4g2d2go/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-01T01:58:40+00:00"
         },
         {
           "title": "中國人工智慧工具「教導」研究人員製造生物武器",
@@ -17,19 +27,9 @@
           "date": "2026-09-30T02:20:26+00:00"
         },
         {
-          "title": "特朗普排除美中合作開發人工智能",
-          "link": "https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-30T04:39:30+00:00"
-        },
-        {
-          "title": "美軍撤離伊拉克：駐軍20年留下什麼遺產？接下來會發生什麼？",
-          "link": "https://www.bbc.com/zhongwen/articles/cr5ye133p55qo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-30T00:18:50+00:00"
-        },
-        {
-          "title": "貓眼如何啟發機器人的照相機技術發展",
-          "link": "https://www.bbc.com/zhongwen/articles/crz9zd51289jo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-30T04:54:09+00:00"
+          "title": "感情走下坡還有救嗎？伴侶治療師談修復關係的要素",
+          "link": "https://www.bbc.com/zhongwen/articles/cqvgy2z0r958o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-01T02:35:05+00:00"
         }
       ]
     },
@@ -39,9 +39,19 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
+          "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-01T05:34:41+00:00"
+        },
+        {
+          "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+          "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-01T03:43:06+00:00"
+        },
+        {
           "title": "What we know about stabbing on Flydubai flight to Israel",
           "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-30T21:36:31+00:00"
+          "date": "2026-10-01T02:31:24+00:00"
         },
         {
           "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
@@ -49,19 +59,9 @@
           "date": "2026-09-30T23:10:06+00:00"
         },
         {
-          "title": "US Supreme Court allows execution of Christa Pike to go ahead",
-          "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-30T23:42:10+00:00"
-        },
-        {
-          "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
-          "link": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-30T17:14:03+00:00"
-        },
-        {
-          "title": "Tiny image sparks big backlash in Nikon photo contest",
-          "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-30T23:10:19+00:00"
+          "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+          "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-01T00:08:23+00:00"
         }
       ]
     },
@@ -70,6 +70,11 @@
       "category": "财经",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
+        {
+          "title": "AI boom could trigger market shocks, Bank of England boss warns",
+          "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-01T04:03:17+00:00"
+        },
         {
           "title": "Vape prices to rise as new tax takes effect",
           "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
@@ -81,19 +86,14 @@
           "date": "2026-09-30T23:01:32+00:00"
         },
         {
+          "title": "Employers should teach primary-age children about work, says Milburn",
+          "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-09-30T21:40:31+00:00"
+        },
+        {
           "title": "Household energy bills forecast to see biggest rise in four years",
           "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
           "date": "2026-09-30T14:36:45+00:00"
-        },
-        {
-          "title": "Regulating AI 'not the right place to start' says Bailey",
-          "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-30T14:00:33+00:00"
-        },
-        {
-          "title": "Greggs to shut four factories and cut 740 jobs",
-          "link": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-30T15:03:22+00:00"
         }
       ]
     },
@@ -108,24 +108,24 @@
           "date": "2026-09-30T22:43:53+00:00"
         },
         {
-          "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
-          "link": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
-          "date": "2026-09-30T20:59:05+00:00"
+          "title": "Passengers and crew foil co-pilot's apparent attempt to crash FlyDubai flight to Israel",
+          "link": "https://www.cnbc.com/2026/10/01/dubai-israel-flight-pilot-crash-indian.html",
+          "date": "2026-10-01T01:09:18+00:00"
         },
         {
-          "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
-          "link": "https://www.cnbc.com/2026/09/30/hawley-openai-sam-altman-rogue-ai.html",
-          "date": "2026-09-30T20:51:44+00:00"
+          "title": "UK Prime Minister Burnham says Iran 'played a part' in British air base incident",
+          "link": "https://www.cnbc.com/2026/10/01/us-iran-war-trump-hormuz.html",
+          "date": "2026-10-01T05:08:23+00:00"
         },
         {
-          "title": "David Ellison names Ynon Kreiz co-CEO of Paramount and Warner Bros. Discovery",
-          "link": "https://www.cnbc.com/2026/09/30/david-ellison-ynon-kreiz-co-ceo-paramount-wbd.html",
-          "date": "2026-09-30T23:01:40+00:00"
+          "title": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation",
+          "link": "https://www.cnbc.com/2026/10/01/trump-south-korea-investment-alaska-lng-nuclear-power.html",
+          "date": "2026-10-01T05:44:18+00:00"
         },
         {
-          "title": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto",
-          "link": "https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html",
-          "date": "2026-09-30T23:50:01+00:00"
+          "title": "AI race heats up as OpenAI flags alleged model-copying campaign",
+          "link": "https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html",
+          "date": "2026-10-01T02:14:43+00:00"
         }
       ]
     },
@@ -167,6 +167,16 @@
       "url": "https://www.ifanr.com/feed",
       "items": [
         {
+          "title": "早报｜曝苹果10月13日发布家庭中枢/豆包接入机票和火车票预订/东方甄选溜溜凳双倍退款",
+          "link": "https://www.ifanr.com/1682780?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-10-01T00:43:49+00:00"
+        },
+        {
+          "title": "Gemini 4 正式发布，我们终于有了一个写作强于代码的前沿模型",
+          "link": "https://www.ifanr.com/1682765?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-10-01T00:31:33+00:00"
+        },
+        {
           "title": "突发！苹果全新产品线曝光，Siri AI 进家门",
           "link": "https://www.ifanr.com/1682750?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-09-30T15:04:28+00:00"
@@ -180,16 +190,6 @@
           "title": "问界新 M8 预售 38.98 万元，自行主导后，赛力斯迎来第一场实战",
           "link": "https://www.ifanr.com/1682703?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-09-30T09:03:43+00:00"
-        },
-        {
-          "title": "宝马新一代 3 系亮相！内外全换新，顶配还有 3.0T 六缸",
-          "link": "https://www.ifanr.com/1682682?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-09-30T06:50:17+00:00"
-        },
-        {
-          "title": "ChatGPT 一夜抄完半个 AI 圈，现场演示频频翻车",
-          "link": "https://www.ifanr.com/1682644?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-09-30T01:34:15+00:00"
         }
       ]
     },
@@ -231,6 +231,16 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Vivo’s X Fold 6 accidentally feels like a throwback",
+          "link": "https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras",
+          "date": "2026-09-30T15:27:57+00:00"
+        },
+        {
+          "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+          "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+          "date": "2026-10-01T00:23:45+00:00"
+        },
+        {
           "title": "The new and huger Paramount has a new co-CEO",
           "link": "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez",
           "date": "2026-09-30T23:11:17+00:00"
@@ -244,16 +254,6 @@
           "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
           "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
           "date": "2026-09-30T20:41:41+00:00"
-        },
-        {
-          "title": "The AI Tamagotchis are coming",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-          "date": "2026-09-30T20:19:43+00:00"
-        },
-        {
-          "title": "Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots",
-          "link": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
-          "date": "2026-09-30T18:00:43+00:00"
         }
       ]
     },
@@ -295,9 +295,14 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "EDG C++ Compiler is open source",
-          "link": "https://github.com/edgcpp/compiler",
-          "date": "2026-09-30T22:48:44+00:00"
+          "title": "Is sandboxing sufficient to contain rogue agents?",
+          "link": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+          "date": "2026-10-01T03:27:41+00:00"
+        },
+        {
+          "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
+          "link": "https://github.com/TantrixAuto/yantra",
+          "date": "2026-10-01T02:30:48+00:00"
         },
         {
           "title": "56k.rip – the 1996 dial-up internet experience",
@@ -305,12 +310,7 @@
           "date": "2026-09-30T22:08:50+00:00"
         },
         {
-          "title": "Automating Wi-Fi setup testing on the ESP32",
-          "link": "https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/",
-          "date": "2026-09-30T22:07:51+00:00"
-        },
-        {
-          "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
+          "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
           "link": "https://www.thespacereview.com/article/4951/1",
           "date": "2026-09-30T22:03:04+00:00"
         },
@@ -327,14 +327,14 @@
       "url": "https://lobste.rs/rss",
       "items": [
         {
+          "title": "Hanami, Why?: Introductions",
+          "link": "https://aaronmallen.me/writing/hanami-why-introductions",
+          "date": "2026-09-30T15:55:21+00:00"
+        },
+        {
           "title": "What TLA+ can and can't check",
           "link": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
           "date": "2026-09-30T14:02:33+00:00"
-        },
-        {
-          "title": "The Cuckoo's Egg",
-          "link": "https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)",
-          "date": "2026-09-30T08:48:43+00:00"
         },
         {
           "title": "Tcl/Tk 9.1",
@@ -342,14 +342,14 @@
           "date": "2026-09-30T15:27:41+00:00"
         },
         {
-          "title": "Hanami, Why?: Introductions",
-          "link": "https://aaronmallen.me/writing/hanami-why-introductions",
-          "date": "2026-09-30T15:55:21+00:00"
+          "title": "The Cuckoo's Egg",
+          "link": "https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)",
+          "date": "2026-09-30T08:48:43+00:00"
         },
         {
-          "title": "Differences between `foldl` and `foldr`",
-          "link": "https://blog.haskell.org/foldl-and-foldr/",
-          "date": "2026-09-30T12:47:02+00:00"
+          "title": "EDG C/C++ Compiler Project",
+          "link": "https://github.com/edgcpp/compiler",
+          "date": "2026-09-30T22:06:21+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[随想] 突然想起来一件事",
-          "link": "https://www.v2ex.com/t/1245945#reply0",
-          "date": "2026-09-30T23:48:55+00:00"
+          "title": "[分享创造] 表情厨房更新： AI 做整套微信表情包之外，加了动态表情和三个免费 GIF 工具",
+          "link": "https://www.v2ex.com/t/1245999#reply0",
+          "date": "2026-10-01T05:53:49+00:00"
         },
         {
-          "title": "[浏览器] 最近迁移到 Catsxp 浏览器",
-          "link": "https://www.v2ex.com/t/1245944#reply0",
-          "date": "2026-09-30T23:41:52+00:00"
+          "title": "[分享创造] 没公网 IP 还会关机？把 Muse 虚拟机变成自己的 VPS",
+          "link": "https://www.v2ex.com/t/1245998#reply1",
+          "date": "2026-10-01T05:43:08+00:00"
         },
         {
-          "title": "[问与答] 求支招，住的酒店临街，有明显的车流声，影响睡觉，怎么办",
-          "link": "https://www.v2ex.com/t/1245943#reply1",
-          "date": "2026-09-30T23:33:34+00:00"
+          "title": "[AI Agent 智能体] muse.ai 通过 Cloudflare 免费版 Turnstile 人机验证",
+          "link": "https://www.v2ex.com/t/1245997#reply0",
+          "date": "2026-10-01T05:34:01+00:00"
         },
         {
-          "title": "[分享创造] 我为了做高效的牛马，做了一个 Codex 远程 App，支持手机网页，支持 ACP 比如 Copilot 和 Agents API",
-          "link": "https://www.v2ex.com/t/1245942#reply0",
-          "date": "2026-09-30T23:31:45+00:00"
+          "title": "[程序员] 提醒一下 codex 有两个重置 10/4、10/5",
+          "link": "https://www.v2ex.com/t/1245995#reply0",
+          "date": "2026-10-01T05:24:14+00:00"
         },
         {
-          "title": "[Claude] 现在凌晨 4 点突然睡不着，梦见自己 cluade 弹出来了确认提示框",
-          "link": "https://www.v2ex.com/t/1245941#reply2",
-          "date": "2026-09-30T20:30:10+00:00"
+          "title": "[职场话题] 国庆节来公司值班了，发现人很少",
+          "link": "https://www.v2ex.com/t/1245994#reply3",
+          "date": "2026-10-01T05:13:44+00:00"
         }
       ]
     },
