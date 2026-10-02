@@ -1,58 +1,70 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-01T07:48:24.527565+00:00",
-  "attempted_at": "2026-10-01T07:48:24.527565+00:00",
+  "updated": "2026-10-02T07:31:36.024010+00:00",
+  "attempted_at": "2026-10-02T07:31:36.024010+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-10-01T07:48:24.527565+00:00",
+      "last_success": "2026-10-02T07:31:36.024010+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-10-01T07:48:24.527565+00:00",
+      "last_success": "2026-10-02T07:31:36.024010+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-10-01T07:48:24.527565+00:00",
+      "last_success": "2026-10-02T07:31:36.024010+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-10-01T07:48:24.527565+00:00",
+      "last_success": "2026-10-02T07:31:36.024010+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-10-01T07:48:24.527565+00:00",
+      "last_success": "2026-10-02T07:31:36.024010+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-10-01T07:48:24.527565+00:00",
+      "last_success": "2026-10-02T07:31:36.024010+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-10-01T07:48:24.527565+00:00",
+      "last_success": "2026-10-02T07:31:36.024010+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-10-01T07:48:24.527565+00:00",
+      "last_success": "2026-10-02T07:31:36.024010+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.1038/s41598-026-73305-0",
+      "title": "ACPSO: a novel PSO variant for 3D UAV path planning in multi-threat environments",
+      "journal_id": "scientific-reports",
+      "published": "2026-10-01",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-73305-0",
+      "source": "crossref"
+    },
     {
       "id": "10.1109/lra.2026.3730349",
       "title": "DS-MRNav: Distributed Multi-Robot Navigation With Static Obstacles via a Decoupled-State Dual-Stream Framework",
@@ -292,6 +304,18 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1109/lra.2026.3723261",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105784",
+      "title": "Velocity-obstacle-based MPC for shape-aware mobile robot motion planning",
+      "journal_id": "ras",
+      "published": "2026-10",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105784",
       "source": "crossref"
     },
     {
