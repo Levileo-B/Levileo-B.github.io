@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-02T18:27:22+00:00",
-  "updated": "2026-10-02T18:27:22+00:00",
+  "generated_at": "2026-10-02T22:59:49+00:00",
+  "updated": "2026-10-02T22:59:49+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-09-28T00:00:00+08:00",
-    "end": "2026-10-02T18:27:22+00:00",
-    "total": 723,
+    "end": "2026-10-02T22:59:49+00:00",
+    "total": 749,
     "items": [
       {
         "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
@@ -71,6 +71,37 @@
         "observed_days": 2
       },
       {
+        "title": "Zig 0.17.0 Release Notes",
+        "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+        "date": "2026-10-02T20:56:36+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
+        "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+        "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
+        "date": "2026-10-02T17:29:56+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
         "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
         "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
         "date": "2026-10-01T17:27:37+00:00",
@@ -129,38 +160,6 @@
         "sources": [
           "CNBC",
           "Hacker News"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "Chinese AI tool told researchers how to make bioweapons",
-        "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo",
-        "date": "2026-09-29T23:15:29+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
-        "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o",
-        "date": "2026-09-29T04:10:33+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
         ],
         "source_count": 2,
         "observed_days": 1
@@ -341,6 +340,21 @@
           "observed_days": 2
         },
         {
+          "title": "Zig 0.17.0 Release Notes",
+          "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+          "date": "2026-10-02T20:56:36+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "EDG C/C++ Compiler Project",
           "link": "https://github.com/edgcpp/compiler",
           "date": "2026-09-30T22:06:21+00:00",
@@ -444,20 +458,6 @@
           ],
           "source_count": 1,
           "observed_days": 5
-        },
-        {
-          "title": "Waterfox 6.7.5 Adds a Built-in Feed Reader",
-          "link": "https://www.waterfox.com/releases/6.7.5/",
-          "date": "2026-10-02T02:17:04+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "科技": [
@@ -780,6 +780,22 @@
           "observed_days": 2
         },
         {
+          "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+          "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
+          "date": "2026-10-02T17:29:56+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
           "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
           "date": "2026-10-01T17:27:37+00:00",
@@ -884,20 +900,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "「救了174人的生命」：杜拜航空劫機案，遭刺傷的印度機師是誰？",
-          "link": "https://www.bbc.com/zhongwen/articles/c61585j4vlkgo/trad",
-          "date": "2026-10-02T08:24:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
@@ -932,6 +934,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+          "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
+          "date": "2026-10-02T17:29:56+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
@@ -1040,28 +1058,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
-          "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o",
-          "date": "2026-10-01T23:32:59+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-02T18:27:22+00:00",
-    "total": 278,
+    "end": "2026-10-02T22:59:49+00:00",
+    "total": 304,
     "items": [
       {
         "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
@@ -1078,6 +1082,37 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "Zig 0.17.0 Release Notes",
+        "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+        "date": "2026-10-02T20:56:36+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
+        "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+        "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
+        "date": "2026-10-02T17:29:56+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
@@ -1178,34 +1213,6 @@
         ],
         "sources": [
           "爱范儿"
-        ],
-        "source_count": 1,
-        "observed_days": 3
-      },
-      {
-        "title": "Gemini 4 正式发布，我们终于有了一个写作强于代码的前沿模型",
-        "link": "https://www.ifanr.com/1682765",
-        "date": "2026-10-01T00:31:33+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "爱范儿"
-        ],
-        "source_count": 1,
-        "observed_days": 3
-      },
-      {
-        "title": "PS5 越狱取得突破",
-        "link": "https://www.solidot.org/story?sid=85520",
-        "date": "2026-09-30T17:01:06+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "Solidot"
         ],
         "source_count": 1,
         "observed_days": 3
@@ -1356,6 +1363,21 @@
       ],
       "开发": [
         {
+          "title": "Zig 0.17.0 Release Notes",
+          "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+          "date": "2026-10-02T20:56:36+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "EDG C/C++ Compiler Project",
           "link": "https://github.com/edgcpp/compiler",
           "date": "2026-09-30T22:06:21+00:00",
@@ -1457,9 +1479,9 @@
           "observed_days": 2
         },
         {
-          "title": "[问与答] muse 出了有段时间了，有复刻其 workflow 的 repo 吗？",
-          "link": "https://www.v2ex.com/t/1246194",
-          "date": "2026-10-02T18:20:59+00:00",
+          "title": "[分享创造] 用 kite 让 Claude Code 自己开会话派活给别的 Claude Code，记录一下今天实际跑的情况",
+          "link": "https://www.v2ex.com/t/1246199",
+          "date": "2026-10-02T22:44:26+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1471,23 +1493,9 @@
           "observed_days": 1
         },
         {
-          "title": "[问与答] OPC 来一波夯的，另外问一下你用 AI 赚了多少钱？",
-          "link": "https://www.v2ex.com/t/1246193",
-          "date": "2026-10-02T18:18:04+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[硬件] AMD EPYC 9006 全系价格出来了： 8 核 700 美元到 256 核 14904 美元，附完整型号表",
-          "link": "https://www.v2ex.com/t/1246192",
-          "date": "2026-10-02T18:12:10+00:00",
+          "title": "[问与答] 有老哥自己拼装过键盘吗？",
+          "link": "https://www.v2ex.com/t/1246198",
+          "date": "2026-10-02T21:36:32+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1757,8 +1765,8 @@
           "observed_days": 1
         },
         {
-          "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel <i>Ply</i>",
-          "link": "https://www.nature.com/articles/d41586-026-03057-4",
+          "title": "Location, location, location: how to edit genes only in the cells you want",
+          "link": "https://www.nature.com/articles/d41586-026-03037-8",
           "date": "2026-10-02T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
@@ -1771,8 +1779,8 @@
           "observed_days": 1
         },
         {
-          "title": "Can you name the women who have won a science Nobel prize?",
-          "link": "https://www.nature.com/articles/d41586-026-03133-9",
+          "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel <i>Ply</i>",
+          "link": "https://www.nature.com/articles/d41586-026-03057-4",
           "date": "2026-10-02T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
@@ -1801,6 +1809,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+          "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
+          "date": "2026-10-02T17:29:56+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
@@ -1915,20 +1939,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "香港國安處以「23條」拘捕網媒記者，與8.31事件相關",
-          "link": "https://www.bbc.com/zhongwen/articles/c6wyzy7ykn5go/trad",
-          "date": "2026-10-01T08:48:59+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
@@ -1947,6 +1957,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+          "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
+          "date": "2026-10-02T17:29:56+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
@@ -2035,9 +2061,9 @@
           "observed_days": 2
         },
         {
-          "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
-          "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
-          "date": "2026-10-02T18:21:13+00:00",
+          "title": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
+          "link": "https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html",
+          "date": "2026-10-02T22:38:49+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -2049,23 +2075,9 @@
           "observed_days": 1
         },
         {
-          "title": "Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s",
-          "link": "https://www.cnbc.com/2026/10/02/lilly-novo-amylin-obesity-drugs.html",
-          "date": "2026-10-02T17:55:26+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Men are losing ground in the labor market. Here's why",
-          "link": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
-          "date": "2026-10-02T17:38:59+00:00",
+          "title": "DOJ says it will not reopen criminal probe into former Fed Chair Powell",
+          "link": "https://www.cnbc.com/2026/10/02/doj-says-it-will-not-reopen-criminal-probe-into-former-fed-chair-powell.html",
+          "date": "2026-10-02T22:01:17+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
