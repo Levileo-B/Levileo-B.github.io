@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-01T23:55:12+00:00",
-  "updated": "2026-10-01T23:55:12+00:00",
+  "generated_at": "2026-10-02T05:43:05+00:00",
+  "updated": "2026-10-02T05:43:05+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-09-28T00:00:00+08:00",
-    "end": "2026-10-01T23:55:12+00:00",
-    "total": 623,
+    "end": "2026-10-02T05:43:05+00:00",
+    "total": 644,
     "items": [
       {
         "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
@@ -69,6 +69,22 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+        "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
+        "date": "2026-10-01T17:27:37+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "EDG C/C++ Compiler Project",
@@ -137,22 +153,6 @@
         "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
         "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o",
         "date": "2026-09-29T04:10:33+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "OpenAI scraps rollout of new model over safety concerns",
-        "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko",
-        "date": "2026-09-29T01:51:25+00:00",
         "date_is_observed": false,
         "categories": [
           "综合",
@@ -780,6 +780,22 @@
           "observed_days": 2
         },
         {
+          "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+          "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
+          "date": "2026-10-01T17:27:37+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Chinese AI tool told researchers how to make bioweapons",
           "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo",
           "date": "2026-09-29T23:15:29+00:00",
@@ -882,20 +898,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "日本收緊外國人居留條件，申請費用上調二十倍",
-          "link": "https://www.bbc.com/zhongwen/articles/cxyvzvqp0z01o/trad",
-          "date": "2026-10-01T07:38:15+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
@@ -930,6 +932,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+          "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
+          "date": "2026-10-01T17:27:37+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
@@ -1036,28 +1054,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Doubters spur me on: why more women are taking up DIY",
-          "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo",
-          "date": "2026-09-29T23:06:14+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-01T23:55:12+00:00",
-    "total": 178,
+    "end": "2026-10-02T05:43:05+00:00",
+    "total": 199,
     "items": [
       {
         "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
@@ -1074,6 +1078,22 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+        "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
+        "date": "2026-10-01T17:27:37+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "EDG C/C++ Compiler Project",
@@ -1186,20 +1206,6 @@
         ],
         "sources": [
           "BBC 中文"
-        ],
-        "source_count": 1,
-        "observed_days": 2
-      },
-      {
-        "title": "IANA's email about why example.com changed",
-        "link": "https://www.oliverdunk.com/2026/09/30/iana-reply",
-        "date": "2026-10-01T08:47:50+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Lobsters"
         ],
         "source_count": 1,
         "observed_days": 2
@@ -1339,9 +1345,9 @@
           "observed_days": 2
         },
         {
-          "title": "[服务器] 服务器自己关机",
-          "link": "https://www.v2ex.com/t/1246079",
-          "date": "2026-10-01T23:53:05+00:00",
+          "title": "[问与答] 戒短视频，碎片时间，可以干啥？",
+          "link": "https://www.v2ex.com/t/1246122",
+          "date": "2026-10-02T05:28:15+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1353,9 +1359,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] （古法编程）做了一款全平台掼蛋游戏， flutter, flame 和 soloud。",
-          "link": "https://www.v2ex.com/t/1246078",
-          "date": "2026-10-01T23:19:55+00:00",
+          "title": "[VPS] DigVPS 测评 - DataOnline 新增越南独立物理服务器产品详评数据，九折优惠中",
+          "link": "https://www.v2ex.com/t/1246121",
+          "date": "2026-10-02T05:24:51+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1367,9 +1373,9 @@
           "observed_days": 1
         },
         {
-          "title": "[问与答] 你们家里日常衣服晾晒到室外直接接触阳光吗？",
-          "link": "https://www.v2ex.com/t/1246077",
-          "date": "2026-10-01T23:10:11+00:00",
+          "title": "[分享创造] 网页装修小插件",
+          "link": "https://www.v2ex.com/t/1246120",
+          "date": "2026-10-02T05:21:40+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1381,9 +1387,23 @@
           "observed_days": 1
         },
         {
-          "title": "Apple's smart home camera reportedly won't record video",
-          "link": "https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/",
-          "date": "2026-10-01T23:00:10+00:00",
+          "title": "[Claude] claude 也重置了吗",
+          "link": "https://www.v2ex.com/t/1246119",
+          "date": "2026-10-02T05:17:28+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Shimano Bicycle Museum Review",
+          "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+          "date": "2026-10-02T05:12:58+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1395,29 +1415,15 @@
           "observed_days": 1
         },
         {
-          "title": "2026 International Utility Locate Rodeo",
-          "link": "https://locaterodeo.net/",
-          "date": "2026-10-01T22:33:23+00:00",
+          "title": "Meta's Muse is fantastic for web scraping",
+          "link": "https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/",
+          "date": "2026-10-02T04:56:02+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
             "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[推广] 做了个软考备考网站，厚着脸皮来求点反馈（考前送 VIP）",
-          "link": "https://www.v2ex.com/t/1246076",
-          "date": "2026-10-01T22:27:15+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -1727,6 +1733,22 @@
           "observed_days": 2
         },
         {
+          "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+          "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
+          "date": "2026-10-01T17:27:37+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "What happened in the failed execution of Christa Pike - and what next?",
           "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo",
           "date": "2026-10-01T12:51:14+00:00",
@@ -1811,37 +1833,23 @@
           "observed_days": 2
         },
         {
-          "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
-          "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo",
-          "date": "2026-10-01T20:30:47+00:00",
+          "title": "西班牙與中國愈走愈近，歐盟多方為何不滿？",
+          "link": "https://www.bbc.com/zhongwen/articles/cx9808vgjy09o/trad",
+          "date": "2026-10-02T05:09:30+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
           ],
           "sources": [
-            "BBC World"
+            "BBC 中文"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-          "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o",
-          "date": "2026-10-01T19:25:43+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-          "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o",
-          "date": "2026-10-01T18:48:46+00:00",
+          "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero",
+          "date": "2026-10-02T03:09:13+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -1871,6 +1879,22 @@
           "observed_days": 2
         },
         {
+          "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+          "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
+          "date": "2026-10-01T17:27:37+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "AI boom could trigger market shocks, Bank of England boss warns",
           "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo",
           "date": "2026-10-01T04:03:17+00:00",
@@ -1885,107 +1909,93 @@
           "observed_days": 2
         },
         {
+          "title": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
+          "link": "https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html",
+          "date": "2026-10-02T05:00:01+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "A Brexit reversal is on the table 10 years on from the vote that changed Britain. Here’s what’s at stake",
+          "link": "https://www.cnbc.com/2026/10/02/brexit-uk-rejoin-eu-referendum.html",
+          "date": "2026-10-02T05:00:01+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call",
+          "link": "https://www.cnbc.com/2026/10/02/us-india-trade-modi-trump-russia-oil.html",
+          "date": "2026-10-02T04:07:54+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "U.S. market regulator seeks to make it easier for funds, advisers to hold crypto",
+          "link": "https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html",
+          "date": "2026-10-02T03:49:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "OpenAI fires workers for mishandling 'sensitive information'",
+          "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo",
+          "date": "2026-10-02T01:34:56+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+          "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo",
+          "date": "2026-10-01T23:45:06+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
           "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o",
           "date": "2026-10-01T23:32:59+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
-          "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo",
-          "date": "2026-10-01T23:00:06+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Boeing engineers and technical workers approve new contract, avoiding strike",
-          "link": "https://www.cnbc.com/2026/10/01/boeing-contract-engineers-technical-workers.html",
-          "date": "2026-10-01T20:52:52+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Europe’s winter energy crunch may already be underway. Two U.S. stocks that may benefit",
-          "link": "https://www.cnbc.com/2026/10/01/europes-winter-energy-crunch-may-already-be-underway-two-us-stocks-that-may-benefit.html",
-          "date": "2026-10-01T20:41:38+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Brent oil jumps more than 4% as U.S. reportedly sends third aircraft carrier to Middle East",
-          "link": "https://www.cnbc.com/2026/10/01/oil-prices-today-wti-brent.html",
-          "date": "2026-10-01T19:29:26+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Trump could target three Fed governors. Removing them may be harder than it looks",
-          "link": "https://www.cnbc.com/2026/10/01/trump-fed-powell-lisa-cook-michael-barr-removal.html",
-          "date": "2026-10-01T19:03:35+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "The September jobs report will be released Friday. Here's what to expect",
-          "link": "https://www.cnbc.com/2026/10/01/the-september-jobs-report-will-be-released-friday-heres-what-to-expect.html",
-          "date": "2026-10-01T18:55:02+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "PM warned Rosebank oil field could breach West Bank sanctions",
-          "link": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo",
-          "date": "2026-10-01T18:38:22+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"

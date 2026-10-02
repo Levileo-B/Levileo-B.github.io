@@ -1,11 +1,21 @@
 {
-  "updated": "2026-10-01T23:55:12+00:00",
+  "updated": "2026-10-02T05:43:05+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "西班牙與中國愈走愈近，歐盟多方為何不滿？",
+          "link": "https://www.bbc.com/zhongwen/articles/cx9808vgjy09o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-02T05:09:30+00:00"
+        },
+        {
+          "title": "康乃爾大學輪姦案調查：我們目前知道多少？",
+          "link": "https://www.bbc.com/zhongwen/articles/ck0j3j415x0go/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-02T02:31:44+00:00"
+        },
         {
           "title": "香港國安處以「23條」拘捕網媒記者，與8.31事件相關",
           "link": "https://www.bbc.com/zhongwen/articles/c6wyzy7ykn5go/trad?at_medium=RSS&at_campaign=rss",
@@ -17,19 +27,9 @@
           "date": "2026-10-01T08:12:13+00:00"
         },
         {
-          "title": "日本收緊外國人居留條件，申請費用上調二十倍",
-          "link": "https://www.bbc.com/zhongwen/articles/cxyvzvqp0z01o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-01T07:38:15+00:00"
-        },
-        {
-          "title": "軍情五處警告：中國資助英國研究，成果交予北京間諜機關",
-          "link": "https://www.bbc.com/zhongwen/articles/cmwyz8y494xvo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-09-30T16:46:19+00:00"
-        },
-        {
-          "title": "鈉離子電池：「美國製造」能超越中國嗎？",
-          "link": "https://www.bbc.com/zhongwen/articles/cwx2ze4g2d2go/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-01T01:58:40+00:00"
+          "title": "「我喜歡證明別人錯了」：這些女性拿起工具，自己做裝修和水喉工程",
+          "link": "https://www.bbc.com/zhongwen/articles/cq36lg32d362o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-02T01:42:08+00:00"
         }
       ]
     },
@@ -39,29 +39,29 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+          "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-02T05:26:06+00:00"
+        },
+        {
           "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
           "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-01T22:28:45+00:00"
         },
         {
-          "title": "What happened in the failed execution of Christa Pike - and what next?",
-          "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-01T22:52:19+00:00"
+          "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
+          "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-02T02:49:44+00:00"
+        },
+        {
+          "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-02T03:09:13+00:00"
         },
         {
           "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
           "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-01T19:59:24+00:00"
-        },
-        {
-          "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-          "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-01T19:38:30+00:00"
-        },
-        {
-          "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
-          "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-01T20:30:47+00:00"
         }
       ]
     },
@@ -71,9 +71,14 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
-          "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+          "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
           "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-01T22:21:16+00:00"
+          "date": "2026-10-02T05:26:06+00:00"
+        },
+        {
+          "title": "OpenAI fires workers for mishandling 'sensitive information'",
+          "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-02T01:34:56+00:00"
         },
         {
           "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
@@ -81,19 +86,14 @@
           "date": "2026-10-01T23:00:06+00:00"
         },
         {
+          "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+          "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-01T23:45:06+00:00"
+        },
+        {
           "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
           "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-01T23:32:59+00:00"
-        },
-        {
-          "title": "HMRC urged to scrutinise tax implications of Man City case",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-01T18:21:22+00:00"
-        },
-        {
-          "title": "PM warned Rosebank oil field could breach West Bank sanctions",
-          "link": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-01T18:38:22+00:00"
         }
       ]
     },
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
-          "link": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
-          "date": "2026-10-01T21:34:44+00:00"
-        },
-        {
           "title": "Trump could target three Fed governors. Removing them may be harder than it looks",
           "link": "https://www.cnbc.com/2026/10/01/trump-fed-powell-lisa-cook-michael-barr-removal.html",
           "date": "2026-10-01T21:14:49+00:00"
         },
         {
-          "title": "Brent oil jumps more than 4% as U.S. reportedly sends third aircraft carrier to Middle East",
-          "link": "https://www.cnbc.com/2026/10/01/oil-prices-today-wti-brent.html",
-          "date": "2026-10-01T19:29:26+00:00"
+          "title": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call",
+          "link": "https://www.cnbc.com/2026/10/02/us-india-trade-modi-trump-russia-oil.html",
+          "date": "2026-10-02T04:07:54+00:00"
         },
         {
-          "title": "Europe’s winter energy crunch may already be underway. Two U.S. stocks that may benefit",
-          "link": "https://www.cnbc.com/2026/10/01/europes-winter-energy-crunch-may-already-be-underway-two-us-stocks-that-may-benefit.html",
-          "date": "2026-10-01T20:41:38+00:00"
+          "title": "A Brexit reversal is on the table 10 years on from the vote that changed Britain. Here’s what’s at stake",
+          "link": "https://www.cnbc.com/2026/10/02/brexit-uk-rejoin-eu-referendum.html",
+          "date": "2026-10-02T05:00:01+00:00"
         },
         {
-          "title": "Boeing engineers and technical workers approve new contract, avoiding strike",
-          "link": "https://www.cnbc.com/2026/10/01/boeing-contract-engineers-technical-workers.html",
-          "date": "2026-10-01T20:52:52+00:00"
+          "title": "U.S. market regulator seeks to make it easier for funds, advisers to hold crypto",
+          "link": "https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html",
+          "date": "2026-10-02T03:49:50+00:00"
+        },
+        {
+          "title": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
+          "link": "https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html",
+          "date": "2026-10-02T05:00:01+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Apple's smart home camera reportedly won't record video",
-          "link": "https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/",
-          "date": "2026-10-01T23:00:10+00:00"
+          "title": "Shimano Bicycle Museum Review",
+          "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+          "date": "2026-10-02T05:12:58+00:00"
         },
         {
-          "title": "2026 International Utility Locate Rodeo",
-          "link": "https://locaterodeo.net/",
-          "date": "2026-10-01T22:33:23+00:00"
+          "title": "Meta's Muse is fantastic for web scraping",
+          "link": "https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/",
+          "date": "2026-10-02T04:56:02+00:00"
         },
         {
-          "title": "Aweb – Communication for AI Agents",
-          "link": "https://aweb.ai",
-          "date": "2026-10-01T22:02:31+00:00"
+          "title": "DeepSeek Harness",
+          "link": "https://www.deepseek.com/en/harness/",
+          "date": "2026-10-02T03:11:20+00:00"
         },
         {
-          "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-          "link": "https://www.cssbed.com",
-          "date": "2026-10-01T21:21:32+00:00"
+          "title": "How Singapore's government-run dating service works",
+          "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+          "date": "2026-10-02T01:56:52+00:00"
         },
         {
-          "title": "The death of web development education",
-          "link": "https://molily.de/web-dev-education/",
-          "date": "2026-10-01T21:07:37+00:00"
+          "title": "Butterflies use optical illusions to dodge predators",
+          "link": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
+          "date": "2026-10-01T23:15:24+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[服务器] 服务器自己关机",
-          "link": "https://www.v2ex.com/t/1246079#reply0",
-          "date": "2026-10-01T23:53:05+00:00"
+          "title": "[问与答] 戒短视频，碎片时间，可以干啥？",
+          "link": "https://www.v2ex.com/t/1246122#reply1",
+          "date": "2026-10-02T05:28:15+00:00"
         },
         {
-          "title": "[分享创造] （古法编程）做了一款全平台掼蛋游戏， flutter, flame 和 soloud。",
-          "link": "https://www.v2ex.com/t/1246078#reply1",
-          "date": "2026-10-01T23:19:55+00:00"
+          "title": "[VPS] DigVPS 测评 - DataOnline 新增越南独立物理服务器产品详评数据，九折优惠中",
+          "link": "https://www.v2ex.com/t/1246121#reply0",
+          "date": "2026-10-02T05:24:51+00:00"
         },
         {
-          "title": "[问与答] 你们家里日常衣服晾晒到室外直接接触阳光吗？",
-          "link": "https://www.v2ex.com/t/1246077#reply4",
-          "date": "2026-10-01T23:10:11+00:00"
+          "title": "[分享创造] 网页装修小插件",
+          "link": "https://www.v2ex.com/t/1246120#reply1",
+          "date": "2026-10-02T05:21:40+00:00"
         },
         {
-          "title": "[推广] 做了个软考备考网站，厚着脸皮来求点反馈（考前送 VIP）",
-          "link": "https://www.v2ex.com/t/1246076#reply0",
-          "date": "2026-10-01T22:27:15+00:00"
+          "title": "[Claude] claude 也重置了吗",
+          "link": "https://www.v2ex.com/t/1246119#reply0",
+          "date": "2026-10-02T05:17:28+00:00"
         },
         {
-          "title": "[分享创造] Herduck 迭代：在 Herdr 上面补「这项活做到哪了」（自动归类 / 闲着就睡 / herduck 命令）— 求 Herdr 用户拍砖",
-          "link": "https://www.v2ex.com/t/1246075#reply0",
-          "date": "2026-10-01T19:21:58+00:00"
+          "title": "[分享创造] 跟个风，我也做了个 Codex 重置预测",
+          "link": "https://www.v2ex.com/t/1246118#reply4",
+          "date": "2026-10-02T04:23:37+00:00"
         }
       ]
     },

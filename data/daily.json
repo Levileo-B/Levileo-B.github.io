@@ -1,125 +1,126 @@
 {
-  "updated": "2026-10-01T23:55:12+00:00",
+  "updated": "2026-10-02T05:43:05+00:00",
   "leetcode": {
-    "date": "2026-10-01",
-    "id": "20",
-    "title": "Valid Parentheses",
-    "titleEn": "Valid Parentheses",
-    "slug": "valid-parentheses",
-    "difficulty": "Easy",
+    "date": "2026-10-02",
+    "id": "22",
+    "title": "Generate Parentheses",
+    "titleEn": "Generate Parentheses",
+    "slug": "generate-parentheses",
+    "difficulty": "Medium",
     "tags": [
       "String",
-      "Stack",
+      "Dynamic Programming",
+      "Backtracking",
       "Bracket Sequences"
     ],
-    "link": "https://leetcode.com/problems/valid-parentheses/",
+    "link": "https://leetcode.com/problems/generate-parentheses/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Independence Day (Nigeria)",
-    "text": "Independence Day is an annual public holiday in Nigeria observed on 1 October to commemorate the country's independence from the United Kingdom in 1960. It is celebrated nationwide with official ceremonies, military parades, cultural displays, and other public events. The formal transfer of sovereignty took place in Lagos at midnight on 1 October 1960, when the Union Jack was lowered and replaced with Nigeria's green–white–green flag. Princess Alexandra of Kent, representing Elizabeth II, presented the constitutional instruments of independence, and the new federal government formally assumed authority. Preparations for the inaugural festivities included cultural events, receptions, and the commissioning of new infrastructure.",
-    "words": 102,
-    "url": "https://en.wikipedia.org/wiki/Independence_Day_(Nigeria)",
-    "date": "2026-10-01",
+    "title": "Kaiser-class battleship",
+    "text": "The Kaiser class were five dreadnought battleships that were built for the German Kaiserliche Marine in the 1910s: Kaiser, Friedrich der Grosse, Kaiserin, Prinzregent Luitpold, and König Albert. They entered service shortly before World War I, and saw significant combat during the conflict. The Kaiser-class ships introduced several technological improvements to German battleship design, including steam turbines for propulsion and a more efficient superfiring arrangement for some of their main battery guns. They were also faster and more heavily armored than their predecessors of the Nassau and Helgoland classes. Carrying a primary armament of ten 30.5 cm (12 in) guns, they were less heavily armed compared to their British counterparts.",
+    "words": 110,
+    "url": "https://en.wikipedia.org/wiki/Kaiser-class_battleship",
+    "date": "2026-10-02",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Vista Stock Shots: Golden Gate Bridge 1",
+    "title": "Home Movie: 97315: Home and Travel",
     "creator": "",
-    "year": "1960",
-    "url": "https://archive.org/download/0609_Vista_Stock_Shots_Golden_Gate_Bridge_1_11_00_55_00/0609_Vista_Stock_Shots_Golden_Gate_Bridge_1_11_00_55_00_3mb.m4v",
-    "page": "https://archive.org/details/0609_Vista_Stock_Shots_Golden_Gate_Bridge_1_11_00_55_00",
-    "date": "2026-10-01",
+    "year": "1950",
+    "url": "https://archive.org/download/HMHomeandTravel97315/97315.mp4",
+    "page": "https://archive.org/details/HMHomeandTravel97315",
+    "date": "2026-10-02",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Enoch D▲rk - RGB (2017)",
-      "artist": "Enoch D▲rk",
-      "url": "https://archive.org/download/enoch-dark-rgb/01%20-%20Space%20Sauce.mp3",
-      "page": "https://archive.org/details/enoch-dark-rgb",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "DJ PulseID's Netlabel Music PodCast no.13 [ponmp013]",
-      "artist": "DJ PulseID",
-      "url": "https://archive.org/download/ponmp013/podcast-013-2012.mp3",
-      "page": "https://archive.org/details/ponmp013",
+      "title": "Despoilah - Pain and Pleasure",
+      "artist": "despoilah",
+      "url": "https://archive.org/download/Despoilah-PainAndPleasure/01Despoilah-FuckSociety.mp3",
+      "page": "https://archive.org/details/Despoilah-PainAndPleasure",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "Nigeria in Dub",
-      "artist": "12gods and 1disciple",
-      "url": "https://archive.org/download/ekafon055_nigeria_in_dub/01dubwise.mp3",
-      "page": "https://archive.org/details/ekafon055_nigeria_in_dub",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "[ENDE158] D.C.P. - Palveratta",
+      "title": "Pikoboy - Bits of Love (demo 2011)",
       "artist": "",
-      "url": "https://archive.org/download/ende158-dcp-palveratta/01%20-%20D.C.P.%20-%20Bigfish.mp3",
-      "page": "https://archive.org/details/ende158-dcp-palveratta",
-      "license": "Creative Commons"
+      "url": "https://archive.org/download/PPD-004/01_Welcome_to_Bits_of_Love.mp3",
+      "page": "https://archive.org/details/PPD-004",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "[ENDE473] Hyperex Machina - The Aesthetics Of Salvation",
+      "title": "Tenth Cloud - Edge of Summer [USC-WR-1804.0406]",
+      "artist": "Tenth Cloud",
+      "url": "https://archive.org/download/tenth-cloud-edge-of-summer/01.Something%20is%20Wrong.mp3",
+      "page": "https://archive.org/details/tenth-cloud-edge-of-summer",
+      "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "title": "Nilof - Herr muffins",
       "artist": "",
-      "url": "https://archive.org/download/ende473-hyperex-machina-the-aestehtics-of-salvation/01%20-%20Hyperex%20Machina%20-%20part%201.mp3",
-      "page": "https://archive.org/details/ende473-hyperex-machina-the-aestehtics-of-salvation",
-      "license": "Creative Commons"
+      "url": "https://archive.org/download/Nilof_-_Herr_Muffins-EP-2008-polka/01_we_vote_digitalism-polka.mp3",
+      "page": "https://archive.org/details/Nilof_-_Herr_Muffins-EP-2008-polka",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/se/"
     },
     {
-      "title": "download",
-      "artist": "f600",
-      "url": "https://archive.org/download/epa056/01_plomo.mp3",
-      "page": "https://archive.org/details/epa056",
-      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-    },
-    {
-      "title": "[ENDE557] DJ Buttbaby - Weak Ass Anime DJs Can Kiss My Ass Mix",
-      "artist": "",
-      "url": "https://archive.org/download/ende557-dj-buttbaby-weak-ass-anime-djs/01%20-%20%20DJ%20Buttbaby%20-%20part%201.mp3",
-      "page": "https://archive.org/details/ende557-dj-buttbaby-weak-ass-anime-djs",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "[ENDE294] Michael T Roper - Rich Cunt",
-      "artist": "",
-      "url": "https://archive.org/download/ende294-michael-t-roper-rich-cunt/01%20-%20Michael%20T%20Roper%20-%20BW.mp3",
-      "page": "https://archive.org/details/ende294-michael-t-roper-rich-cunt",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "The Isolation Mix",
-      "artist": "Nurses With Knives",
-      "url": "https://archive.org/download/earsheltering101/Nurses_With_Knives_-_The_Isolation_Mix.mp3",
-      "page": "https://archive.org/details/earsheltering101",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-    },
-    {
-      "title": "[ENDE081] Noistruct vs. Crippling Self Doubt - Godwhores",
-      "artist": "",
-      "url": "https://archive.org/download/ende081-noistruct-vs-cripplingselfdoubt-godwhores/01%20-%20Noistruct%20vs.%20Crippling%20Self%20Doubt%20-%20Ameristian.mp3",
-      "page": "https://archive.org/details/ende081-noistruct-vs-cripplingselfdoubt-godwhores",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "[EdP036] Gustavo Costa - Cummulative Restatement Of Liabilities",
-      "artist": "Gustavo Costa",
-      "url": "https://archive.org/download/edp036/01_cummulative_restatement_of_liabilities.mp3",
-      "page": "https://archive.org/details/edp036",
+      "title": "Phased Decade (EP)",
+      "artist": "Afghan Connection",
+      "url": "https://archive.org/download/DWK238/Afghan_Connection_-_01_-_All_Day.mp3",
+      "page": "https://archive.org/details/DWK238",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Dr. NoiseM - Flexi-Terror",
-      "artist": "Dr. NoiseM Tapes",
-      "url": "https://archive.org/download/dr-noisem-flexi-terror/01-1.%20Dr.%20NoiseM%20-%20Klakutta%20liegt%20am%20Ganges%20%28Flexi-Terror%20Mix%29.mp3",
-      "page": "https://archive.org/details/dr-noisem-flexi-terror",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "Spazieren im Filterwunderland",
+      "artist": "Kopfklang",
+      "url": "https://archive.org/download/FW101_Kopfklang/FW101-01_SpazierenImFilterwunderlandI.mp3",
+      "page": "https://archive.org/details/FW101_Kopfklang",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Alliance",
+      "artist": "Ninjai",
+      "url": "https://archive.org/download/Ninjai_-_Alliance_-_MIX_-_LRU013/01_-_Ninjai_-_Alliance.mp3",
+      "page": "https://archive.org/details/Ninjai_-_Alliance_-_MIX_-_LRU013",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "DTRASH103 - Faux Pride - Slapstick Bitch",
+      "artist": "Faux Pride",
+      "url": "https://archive.org/download/DTRASH103-FauxPride-SlapstickBitch/dtrash103_01_opening_for_slapstick_bitch.mp3",
+      "page": "https://archive.org/details/DTRASH103-FauxPride-SlapstickBitch",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Live in Philadelphia 2000",
+      "artist": "Gray Code",
+      "url": "https://archive.org/download/gray-code-live-in-philadelphia-2000/01-Gray-Code-Gray-Code-for-Five.mp3",
+      "page": "https://archive.org/details/gray-code-live-in-philadelphia-2000",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/us/"
+    },
+    {
+      "title": "Saturne (EP)",
+      "artist": "Subjectjazz",
+      "url": "https://archive.org/download/DWK255/Subjectjazz_-_01_-_NSIME.mp3",
+      "page": "https://archive.org/details/DWK255",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "NXL068 Actitud Positiva",
+      "artist": "Actitud Positiva",
+      "url": "https://archive.org/download/NXL068/01%20Justicia%20o%20Revolucion.mp3",
+      "page": "https://archive.org/details/NXL068",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Astrobastards & Assholes",
+      "artist": "Stratosonics",
+      "url": "https://archive.org/download/FW100-4_Stratosonics/FW100-4-01_InvasionOfTheAstrobastards.mp3",
+      "page": "https://archive.org/details/FW100-4_Stratosonics",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     }
   ]
 }
