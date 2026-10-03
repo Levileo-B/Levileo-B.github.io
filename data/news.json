@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T13:25:52+00:00",
+  "updated": "2026-10-03T17:58:44+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,29 +39,29 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+          "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-03T17:48:42+00:00"
+        },
+        {
           "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
           "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-03T11:20:21+00:00"
+          "date": "2026-10-03T14:27:33+00:00"
         },
         {
           "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
           "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-03T12:59:10+00:00"
+          "date": "2026-10-03T16:16:49+00:00"
         },
         {
-          "title": "Protesters across Spain demand action over housing crisis",
+          "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
           "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-03T12:16:15+00:00"
+          "date": "2026-10-03T13:34:11+00:00"
         },
         {
           "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
           "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-03T04:38:31+00:00"
-        },
-        {
-          "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-          "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-02T20:32:07+00:00"
         }
       ]
     },
@@ -103,13 +103,13 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "America’s data center fight is a preview of what's to come for the rest of the world",
-          "link": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
-          "date": "2026-10-03T12:39:29+00:00"
-        },
-        {
           "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
           "link": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
+          "date": "2026-10-03T11:00:01+00:00"
+        },
+        {
+          "title": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
+          "link": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
           "date": "2026-10-03T11:00:01+00:00"
         },
         {
@@ -118,14 +118,14 @@
           "date": "2026-10-03T12:34:59+00:00"
         },
         {
-          "title": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
-          "link": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
-          "date": "2026-10-03T11:00:01+00:00"
+          "title": "Berkshire buys more Lennar shares, but pace of purchases slows",
+          "link": "https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html",
+          "date": "2026-10-03T12:55:31+00:00"
         },
         {
-          "title": "High-tech vehicles are driving up auto repair costs for shops and consumers",
-          "link": "https://www.cnbc.com/2026/10/03/vehicle-repair-costs.html",
-          "date": "2026-10-03T12:00:01+00:00"
+          "title": "Novig credits Sydney Sweeney-backed campaign for platform’s surge in growth",
+          "link": "https://www.cnbc.com/2026/10/03/novig-credits-sydney-sweeney-backed-campaign-for-platforms-surge-in-growth.html",
+          "date": "2026-10-03T13:30:48+00:00"
         }
       ]
     },
@@ -231,6 +231,21 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "The best early October Prime Day deals happening now",
+          "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+          "date": "2026-10-03T16:22:40+00:00"
+        },
+        {
+          "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+          "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+          "date": "2026-10-02T17:19:41+00:00"
+        },
+        {
+          "title": "An OpenAI safety employee has quit and is sounding the alarm",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+          "date": "2026-10-03T14:31:56+00:00"
+        },
+        {
           "title": "3D movies are finally worth watching",
           "link": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
           "date": "2026-10-02T18:02:48+00:00"
@@ -239,21 +254,6 @@
           "title": "Meta open sources code to let you make Muse AI gadgets",
           "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
           "date": "2026-10-02T21:08:37+00:00"
-        },
-        {
-          "title": "Netflix is pivoting away from prestige",
-          "link": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
-          "date": "2026-10-02T20:30:26+00:00"
-        },
-        {
-          "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-          "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-          "date": "2026-10-02T20:08:55+00:00"
-        },
-        {
-          "title": "Sling TV drops its one-day cable passes",
-          "link": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
-          "date": "2026-10-02T20:00:20+00:00"
         }
       ]
     },
@@ -295,24 +295,24 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
-          "link": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
-          "date": "2026-10-03T12:02:10+00:00"
+          "title": "RetailReady (YC W24) Is Hiring",
+          "link": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
+          "date": "2026-10-03T17:00:12+00:00"
         },
         {
-          "title": "The Escalation of War in Ethiopia",
-          "link": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
-          "date": "2026-10-03T11:54:24+00:00"
+          "title": "City building games have a Soul Problem pt.2",
+          "link": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
+          "date": "2026-10-03T15:52:07+00:00"
         },
         {
-          "title": "Show HN: Germany's new sovereign AI model Kolibri",
+          "title": "FTL: A new operating system for clouds",
+          "link": "https://ftl-os.org/",
+          "date": "2026-10-03T15:02:36+00:00"
+        },
+        {
+          "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
           "link": "https://tej.as/blog/aleph-alpha-kolibri",
           "date": "2026-10-03T10:43:51+00:00"
-        },
-        {
-          "title": "GitHub's new dashboard experience now the default",
-          "link": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
-          "date": "2026-10-03T09:59:01+00:00"
         },
         {
           "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
@@ -332,6 +332,11 @@
           "date": "2026-10-02T22:19:02+00:00"
         },
         {
+          "title": "The Era of Software Quality, or the Era of Ostriches?",
+          "link": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
+          "date": "2026-10-03T13:31:58+00:00"
+        },
+        {
           "title": "Zig 0.17.0 Release Notes",
           "link": "https://ziglang.org/download/0.17.0/release-notes.html",
           "date": "2026-10-02T21:10:41+00:00"
@@ -342,14 +347,9 @@
           "date": "2026-10-02T22:01:27+00:00"
         },
         {
-          "title": "Actual RFC1149 packet being auctioned",
-          "link": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
-          "date": "2026-10-02T14:17:00+00:00"
-        },
-        {
-          "title": "gVisor is being donated to CNCF",
-          "link": "https://gvisor.dev/blog/2026/10/02/gvisor-cncf/",
-          "date": "2026-10-03T02:41:38+00:00"
+          "title": "How to Hack Time, With C2PA",
+          "link": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+          "date": "2026-10-03T11:58:14+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[程序员] 做了个“不受欢迎的博客特征”：全站离线按钮",
-          "link": "https://www.v2ex.com/t/1246296#reply2",
-          "date": "2026-10-03T13:01:44+00:00"
+          "title": "[程序员] 相比 AI 的能力，觉得更可怕是它进步的速度、变化的幅度。",
+          "link": "https://www.v2ex.com/t/1246322#reply0",
+          "date": "2026-10-03T17:47:32+00:00"
         },
         {
-          "title": "[分享创造] [魔力工作台] 一个开源版 workbuddy 替代品",
-          "link": "https://www.v2ex.com/t/1246295#reply0",
-          "date": "2026-10-03T12:56:15+00:00"
+          "title": "[分享创造] 写了 8 年代码，终于明白“说唱是男人最好的医美”",
+          "link": "https://www.v2ex.com/t/1246321#reply0",
+          "date": "2026-10-03T17:35:39+00:00"
         },
         {
-          "title": "[酷工作] 大家有什么离开码农岗位能保持一定稳定收入的事业？",
-          "link": "https://www.v2ex.com/t/1246294#reply1",
-          "date": "2026-10-03T12:55:37+00:00"
+          "title": "[远程工作] USACO 竞赛编程讲师（远程，华盛顿州）",
+          "link": "https://www.v2ex.com/t/1246319#reply0",
+          "date": "2026-10-03T17:09:32+00:00"
         },
         {
-          "title": "[AI SaaS 产品推荐] 10 月 1 日完成开发，看看我的新产品能跑多远",
-          "link": "https://www.v2ex.com/t/1246293#reply0",
-          "date": "2026-10-03T12:50:59+00:00"
+          "title": "[OpenAI] 有没有人觉得 Codex 的智能比 Chat 差多了",
+          "link": "https://www.v2ex.com/t/1246318#reply1",
+          "date": "2026-10-03T17:00:43+00:00"
         },
         {
-          "title": "[Apple] iPhone 18 Pro 屏下 Face ID 识别率下降，开局输入密码",
-          "link": "https://www.v2ex.com/t/1246292#reply0",
-          "date": "2026-10-03T12:49:39+00:00"
+          "title": "[德语] 用 GPT Live 构建了一个 德语 B1 口语考试的工具",
+          "link": "https://www.v2ex.com/t/1246317#reply0",
+          "date": "2026-10-03T16:15:26+00:00"
         }
       ]
     },
@@ -600,71 +600,40 @@
       ]
     },
     {
-      "name": "Nature",
-      "category": "科研",
-      "url": "https://www.nature.com/nature.rss",
-      "items": [
-        {
-          "title": "Location, location, location: how to edit genes only in the cells you want",
-          "link": "https://www.nature.com/articles/d41586-026-03037-8",
-          "date": "2026-10-02T00:00:00+00:00"
-        },
-        {
-          "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel <i>Ply</i>",
-          "link": "https://www.nature.com/articles/d41586-026-03057-4",
-          "date": "2026-10-02T00:00:00+00:00"
-        },
-        {
-          "title": "How to respond to hate speech without fuelling it further",
-          "link": "https://www.nature.com/articles/d41586-026-03058-3",
-          "date": "2026-10-02T00:00:00+00:00"
-        },
-        {
-          "title": "Stunning fossil shows dinosaurs’ distinctive path to flight",
-          "link": "https://www.nature.com/articles/d41586-026-03126-8",
-          "date": "2026-10-02T00:00:00+00:00"
-        },
-        {
-          "title": "Nature has rights — it is time the world recognized them",
-          "link": "https://www.nature.com/articles/d41586-026-03145-5",
-          "date": "2026-10-02T00:00:00+00:00"
-        }
-      ]
-    },
-    {
       "name": "ScienceDaily",
       "category": "科研",
       "url": "https://www.sciencedaily.com/rss/all.xml",
       "items": [
+        {
+          "title": "This protective enzyme could help stop fatty liver disease from getting worse",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm",
+          "date": "2026-10-03T13:46:11+00:00"
+        },
+        {
+          "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
+          "date": "2026-10-03T13:34:11+00:00"
+        },
         {
           "title": "NASA’s Roman telescope just opened its planet-hunting eye",
           "link": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm",
           "date": "2026-10-02T12:21:30+00:00"
         },
         {
-          "title": "Scientists find an “earthquake gate” as California fault stress hits a 1,000-year high",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261001095521.htm",
-          "date": "2026-10-02T04:58:10+00:00"
+          "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
+          "date": "2026-10-03T13:12:14+00:00"
         },
         {
-          "title": "Leucine does more than build muscle. It powers up your cells",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261001095319.htm",
-          "date": "2026-10-03T12:33:15+00:00"
-        },
-        {
-          "title": "This diet may slow brain aging by 2.5 years",
-          "link": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
-          "date": "2026-10-01T12:26:47+00:00"
-        },
-        {
-          "title": "Your gut may be making a molecule that raises Alzheimer’s risk",
-          "link": "https://www.sciencedaily.com/releases/2026/09/260930225459.htm",
-          "date": "2026-10-03T12:13:21+00:00"
+          "title": "Powerful simulations reveal how the first stars changed the universe",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261001214012.htm",
+          "date": "2026-10-03T12:50:57+00:00"
         }
       ]
     }
   ],
   "failed": [
-    "36 氪"
+    "36 氪",
+    "Nature"
   ]
 }
