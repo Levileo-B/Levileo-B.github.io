@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-03T17:58:44+00:00",
-  "updated": "2026-10-03T17:58:44+00:00",
+  "generated_at": "2026-10-03T21:22:13+00:00",
+  "updated": "2026-10-03T21:22:12+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-09-28T00:00:00+08:00",
-    "end": "2026-10-03T17:58:44+00:00",
-    "total": 819,
+    "end": "2026-10-03T21:22:13+00:00",
+    "total": 828,
     "items": [
       {
         "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
@@ -620,6 +620,34 @@
           "observed_days": 4
         },
         {
+          "title": "How to respond to hate speech without fuelling it further",
+          "link": "https://www.nature.com/articles/d41586-026-03058-3",
+          "date": "2026-10-02T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Stunning fossil shows dinosaurs’ distinctive path to flight",
+          "link": "https://www.nature.com/articles/d41586-026-03126-8",
+          "date": "2026-10-02T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
           "title": "Is the universe infinite? The answer gets weird fast",
           "link": "https://www.sciencedaily.com/releases/2026/09/260927225041.htm",
           "date": "2026-09-28T03:18:42+00:00",
@@ -648,8 +676,8 @@
           "observed_days": 2
         },
         {
-          "title": "How to respond to hate speech without fuelling it further",
-          "link": "https://www.nature.com/articles/d41586-026-03058-3",
+          "title": "Location, location, location: how to edit genes only in the cells you want",
+          "link": "https://www.nature.com/articles/d41586-026-03037-8",
           "date": "2026-10-02T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
@@ -662,8 +690,22 @@
           "observed_days": 2
         },
         {
-          "title": "Stunning fossil shows dinosaurs’ distinctive path to flight",
-          "link": "https://www.nature.com/articles/d41586-026-03126-8",
+          "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel <i>Ply</i>",
+          "link": "https://www.nature.com/articles/d41586-026-03057-4",
+          "date": "2026-10-02T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Nature has rights — it is time the world recognized them",
+          "link": "https://www.nature.com/articles/d41586-026-03145-5",
           "date": "2026-10-02T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
@@ -693,48 +735,6 @@
           "title": "This diet may slow brain aging by 2.5 years",
           "link": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
           "date": "2026-10-01T12:26:47+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Could quitting ultra-processed food boost your mental health?",
-          "link": "https://www.sciencedaily.com/releases/2026/09/260930225448.htm",
-          "date": "2026-10-01T06:34:01+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Alzheimer’s risk gene APOE4 may have a reversible weakness",
-          "link": "https://www.sciencedaily.com/releases/2026/09/260930225450.htm",
-          "date": "2026-10-01T04:45:26+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Cannabis users were twice as likely to commit violence, review finds",
-          "link": "https://www.sciencedaily.com/releases/2026/09/260930020255.htm",
-          "date": "2026-09-30T12:49:01+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -1064,8 +1064,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-03T17:58:44+00:00",
-    "total": 374,
+    "end": "2026-10-03T21:22:13+00:00",
+    "total": 383,
     "items": [
       {
         "title": "Zig 0.17.0 Release Notes",
@@ -1653,6 +1653,34 @@
       ],
       "科研": [
         {
+          "title": "How to respond to hate speech without fuelling it further",
+          "link": "https://www.nature.com/articles/d41586-026-03058-3",
+          "date": "2026-10-02T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Stunning fossil shows dinosaurs’ distinctive path to flight",
+          "link": "https://www.nature.com/articles/d41586-026-03126-8",
+          "date": "2026-10-02T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
           "title": "NASA’s Roman telescope just opened its planet-hunting eye",
           "link": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm",
           "date": "2026-10-02T12:21:30+00:00",
@@ -1667,8 +1695,8 @@
           "observed_days": 2
         },
         {
-          "title": "How to respond to hate speech without fuelling it further",
-          "link": "https://www.nature.com/articles/d41586-026-03058-3",
+          "title": "Location, location, location: how to edit genes only in the cells you want",
+          "link": "https://www.nature.com/articles/d41586-026-03037-8",
           "date": "2026-10-02T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
@@ -1681,8 +1709,22 @@
           "observed_days": 2
         },
         {
-          "title": "Stunning fossil shows dinosaurs’ distinctive path to flight",
-          "link": "https://www.nature.com/articles/d41586-026-03126-8",
+          "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel <i>Ply</i>",
+          "link": "https://www.nature.com/articles/d41586-026-03057-4",
+          "date": "2026-10-02T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Nature has rights — it is time the world recognized them",
+          "link": "https://www.nature.com/articles/d41586-026-03145-5",
           "date": "2026-10-02T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
@@ -1749,48 +1791,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "This protective enzyme could help stop fatty liver disease from getting worse",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm",
-          "date": "2026-10-03T13:46:11+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
-          "date": "2026-10-03T13:34:11+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
-          "date": "2026-10-03T13:12:14+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "综合": [
