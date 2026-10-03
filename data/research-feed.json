@@ -1,58 +1,70 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-02T07:31:36.024010+00:00",
-  "attempted_at": "2026-10-02T07:31:36.024010+00:00",
+  "updated": "2026-10-03T07:06:03.055481+00:00",
+  "attempted_at": "2026-10-03T07:06:03.055481+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-10-02T07:31:36.024010+00:00",
+      "last_success": "2026-10-03T07:06:03.055481+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-10-02T07:31:36.024010+00:00",
+      "last_success": "2026-10-03T07:06:03.055481+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-10-02T07:31:36.024010+00:00",
+      "last_success": "2026-10-03T07:06:03.055481+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-10-02T07:31:36.024010+00:00",
+      "last_success": "2026-10-03T07:06:03.055481+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-10-02T07:31:36.024010+00:00",
+      "last_success": "2026-10-03T07:06:03.055481+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-10-02T07:31:36.024010+00:00",
+      "last_success": "2026-10-03T07:06:03.055481+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-10-02T07:31:36.024010+00:00",
+      "last_success": "2026-10-03T07:06:03.055481+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-10-02T07:31:36.024010+00:00",
+      "last_success": "2026-10-03T07:06:03.055481+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.1038/s41598-026-73419-5",
+      "title": "A single-user feasibility study demonstrating real-time raycast-based stair and elevation-change detection on consumer smartphone LiDAR hardware",
+      "journal_id": "scientific-reports",
+      "published": "2026-10-02",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-73419-5",
+      "source": "crossref"
+    },
     {
       "id": "10.1038/s41598-026-73305-0",
       "title": "ACPSO: a novel PSO variant for 3D UAV path planning in multi-threat environments",
