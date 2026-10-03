@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-02T22:59:49+00:00",
-  "updated": "2026-10-02T22:59:49+00:00",
+  "generated_at": "2026-10-03T02:01:25+00:00",
+  "updated": "2026-10-03T02:01:25+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-09-28T00:00:00+08:00",
-    "end": "2026-10-02T22:59:49+00:00",
-    "total": 749,
+    "end": "2026-10-03T02:01:25+00:00",
+    "total": 757,
     "items": [
       {
         "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
@@ -1064,8 +1064,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-02T22:59:49+00:00",
-    "total": 304,
+    "end": "2026-10-03T02:01:25+00:00",
+    "total": 312,
     "items": [
       {
         "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
@@ -1479,9 +1479,9 @@
           "observed_days": 2
         },
         {
-          "title": "[分享创造] 用 kite 让 Claude Code 自己开会话派活给别的 Claude Code，记录一下今天实际跑的情况",
-          "link": "https://www.v2ex.com/t/1246199",
-          "date": "2026-10-02T22:44:26+00:00",
+          "title": "[分享发现] 发现一个 200kb 类似 vscode 编辑器, XPcode",
+          "link": "https://www.v2ex.com/t/1246214",
+          "date": "2026-10-03T01:55:34+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1493,9 +1493,9 @@
           "observed_days": 1
         },
         {
-          "title": "[问与答] 有老哥自己拼装过键盘吗？",
-          "link": "https://www.v2ex.com/t/1246198",
-          "date": "2026-10-02T21:36:32+00:00",
+          "title": "[分享创造] 让 AI Agent 改数据库之前，先开个分支：我们在 MatrixOne 里做了 Snapshot / Branch / Diff / Merge",
+          "link": "https://www.v2ex.com/t/1246213",
+          "date": "2026-10-03T01:55:29+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T22:59:49+00:00",
+  "updated": "2026-10-03T02:01:25+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -44,24 +44,24 @@
           "date": "2026-10-02T20:25:19+00:00"
         },
         {
-          "title": "Riot police clash with students as education protests rage in France",
-          "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-02T21:13:27+00:00"
-        },
-        {
           "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
           "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-02T20:32:07+00:00"
         },
         {
-          "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-02T17:44:08+00:00"
+          "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+          "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-02T23:53:35+00:00"
         },
         {
-          "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-          "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-02T15:26:37+00:00"
+          "title": "Riot police clash with students as education protests rage in France",
+          "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-02T21:13:27+00:00"
+        },
+        {
+          "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+          "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-02T15:30:12+00:00"
         }
       ]
     },
@@ -290,38 +290,6 @@
       ]
     },
     {
-      "name": "Hacker News",
-      "category": "开发",
-      "url": "https://hnrss.org/frontpage?count=10",
-      "items": [
-        {
-          "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "link": "https://allenai.org/blog/astabrief",
-          "date": "2026-10-02T21:25:25+00:00"
-        },
-        {
-          "title": "The Harness Is the Company",
-          "link": "https://blog.sshh.io/p/the-harness-is-the-company",
-          "date": "2026-10-02T21:06:56+00:00"
-        },
-        {
-          "title": "Zig v0.17.0",
-          "link": "https://ziglang.org/download/0.17.0/release-notes.html",
-          "date": "2026-10-02T20:56:36+00:00"
-        },
-        {
-          "title": "Show HN: Made an open-source Lego AI generator",
-          "link": "https://github.com/anteloc/ldraw-nova",
-          "date": "2026-10-02T20:00:15+00:00"
-        },
-        {
-          "title": "GrapheneOS has fixed the Android 17 QPR1 kernel performance regression",
-          "link": "https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression",
-          "date": "2026-10-02T19:45:06+00:00"
-        }
-      ]
-    },
-    {
       "name": "Lobsters",
       "category": "开发",
       "url": "https://lobste.rs/rss",
@@ -337,19 +305,19 @@
           "date": "2026-10-02T21:10:41+00:00"
         },
         {
+          "title": "I got targeted: Trying to get your credentials via a git post-checkout hook",
+          "link": "https://frankwiles.com/posts/i-got-targeted/",
+          "date": "2026-10-02T22:19:02+00:00"
+        },
+        {
+          "title": "Lobsters Interview with Sjamaan",
+          "link": "https://alexalejandre.com/interviews/peter-bex/",
+          "date": "2026-10-02T22:01:27+00:00"
+        },
+        {
           "title": "The forgetful CPU (Linux on M4)",
           "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
           "date": "2026-10-02T14:01:47+00:00"
-        },
-        {
-          "title": "Updates to Full Disk Access in macOS",
-          "link": "https://developer.apple.com/news/?id=p6zjojqw",
-          "date": "2026-10-02T20:10:26+00:00"
-        },
-        {
-          "title": "The Four Horsemen of Agentic Coding",
-          "link": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
-          "date": "2026-10-02T16:48:36+00:00"
         }
       ]
     },
@@ -359,29 +327,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享创造] 用 kite 让 Claude Code 自己开会话派活给别的 Claude Code，记录一下今天实际跑的情况",
-          "link": "https://www.v2ex.com/t/1246199#reply0",
-          "date": "2026-10-02T22:44:26+00:00"
+          "title": "[分享发现] 发现一个 200kb 类似 vscode 编辑器, XPcode",
+          "link": "https://www.v2ex.com/t/1246214#reply0",
+          "date": "2026-10-03T01:55:34+00:00"
         },
         {
-          "title": "[问与答] 有老哥自己拼装过键盘吗？",
-          "link": "https://www.v2ex.com/t/1246198#reply4",
-          "date": "2026-10-02T21:36:32+00:00"
+          "title": "[分享创造] 让 AI Agent 改数据库之前，先开个分支：我们在 MatrixOne 里做了 Snapshot / Branch / Diff / Merge",
+          "link": "https://www.v2ex.com/t/1246213#reply0",
+          "date": "2026-10-03T01:55:29+00:00"
         },
         {
-          "title": "[人工智能] DecisionsApi：把文本分类与决策模型接入 AI 工作流",
-          "link": "https://www.v2ex.com/t/1246197#reply0",
-          "date": "2026-10-02T20:18:13+00:00"
+          "title": "[推广] [推广] QuickSilver Pro： Claude 全线降价一半，至少官方价 5 折（Opus 5.5 $1.6/$8）， OpenAI 兼容， Claude Code 可直连",
+          "link": "https://www.v2ex.com/t/1246212#reply0",
+          "date": "2026-10-03T01:50:08+00:00"
         },
         {
-          "title": "[程序员] [CCProgress] 给 Claude Code 加了一个进度条， 长任务时能看到走到哪一步",
-          "link": "https://www.v2ex.com/t/1246196#reply3",
-          "date": "2026-10-02T19:53:20+00:00"
+          "title": "[推广] Apinoria 10 月活动：充值送 30%，多充多送",
+          "link": "https://www.v2ex.com/t/1246211#reply0",
+          "date": "2026-10-03T01:45:00+00:00"
         },
         {
-          "title": "[SSL] iTrustSSL 10 月最新优惠码",
-          "link": "https://www.v2ex.com/t/1246195#reply0",
-          "date": "2026-10-02T18:35:37+00:00"
+          "title": "[分享创造] 这也许就是你需要的静态博客/网站评论系统",
+          "link": "https://www.v2ex.com/t/1246210#reply1",
+          "date": "2026-10-03T01:39:01+00:00"
         }
       ]
     },
@@ -665,6 +633,7 @@
     }
   ],
   "failed": [
-    "36 氪"
+    "36 氪",
+    "Hacker News"
   ]
 }
