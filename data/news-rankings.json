@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-04T06:58:40+00:00",
-  "updated": "2026-10-04T06:58:40+00:00",
+  "generated_at": "2026-10-04T13:14:03+00:00",
+  "updated": "2026-10-04T13:14:03+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-09-28T00:00:00+08:00",
-    "end": "2026-10-04T06:58:40+00:00",
-    "total": 856,
+    "end": "2026-10-04T13:14:03+00:00",
+    "total": 884,
     "items": [
       {
         "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
@@ -22,6 +22,21 @@
         ],
         "source_count": 2,
         "observed_days": 6
+      },
+      {
+        "title": "Kolibri: A Sovereign Open-Weight Model",
+        "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+        "date": "2026-10-03T09:36:04+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
       },
       {
         "title": "Zig 0.17.0 Release Notes",
@@ -102,6 +117,21 @@
         "observed_days": 2
       },
       {
+        "title": "We’re going to need default hard budget caps on pretty much everything",
+        "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+        "date": "2026-10-04T00:20:16+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
         "title": "Why don’t more developers \"use the platform\"?",
         "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
         "date": "2026-10-03T21:35:28+00:00",
@@ -128,37 +158,6 @@
         "sources": [
           "BBC Business",
           "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "EDG C/C++ Compiler Project",
-        "link": "https://github.com/edgcpp/compiler",
-        "date": "2026-09-30T22:06:21+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "Returning from vacation? The government can search your phone without a warrant",
-        "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
-        "date": "2026-09-30T21:19:56+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发",
-          "科技"
-        ],
-        "sources": [
-          "Ars Technica",
-          "Hacker News"
         ],
         "source_count": 2,
         "observed_days": 1
@@ -324,6 +323,21 @@
           "observed_days": 6
         },
         {
+          "title": "Kolibri: A Sovereign Open-Weight Model",
+          "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+          "date": "2026-10-03T09:36:04+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Zig 0.17.0 Release Notes",
           "link": "https://ziglang.org/download/0.17.0/release-notes.html",
           "date": "2026-10-02T20:56:36+00:00",
@@ -352,6 +366,21 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "We’re going to need default hard budget caps on pretty much everything",
+          "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+          "date": "2026-10-04T00:20:16+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "Why don’t more developers \"use the platform\"?",
@@ -429,35 +458,6 @@
           ],
           "source_count": 2,
           "observed_days": 1
-        },
-        {
-          "title": "Don't couple your Go code to GitHub",
-          "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-          "date": "2026-09-27T16:50:58+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Developer policy update: Transparency, state policy, and what’s ahead",
-          "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
-          "date": "2026-09-29T15:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "GitHub Blog"
-          ],
-          "source_count": 1,
-          "observed_days": 6
         }
       ],
       "科技": [
@@ -1064,9 +1064,24 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-04T06:58:40+00:00",
-    "total": 411,
+    "end": "2026-10-04T13:14:03+00:00",
+    "total": 439,
     "items": [
+      {
+        "title": "Kolibri: A Sovereign Open-Weight Model",
+        "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+        "date": "2026-10-03T09:36:04+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
       {
         "title": "Zig 0.17.0 Release Notes",
         "link": "https://ziglang.org/download/0.17.0/release-notes.html",
@@ -1113,6 +1128,21 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "We’re going to need default hard budget caps on pretty much everything",
+        "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+        "date": "2026-10-04T00:20:16+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "Why don’t more developers \"use the platform\"?",
@@ -1186,34 +1216,6 @@
         ],
         "sources": [
           "MIT Technology Review"
-        ],
-        "source_count": 1,
-        "observed_days": 4
-      },
-      {
-        "title": "华为 Mate 90 系列发布：最强 Mate来了，5999 起即日开售",
-        "link": "https://www.ifanr.com/1682801",
-        "date": "2026-10-01T06:17:57+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "爱范儿"
-        ],
-        "source_count": 1,
-        "observed_days": 4
-      },
-      {
-        "title": "早报｜曝苹果10月13日发布家庭中枢/豆包接入机票和火车票预订/东方甄选溜溜凳双倍退款",
-        "link": "https://www.ifanr.com/1682780",
-        "date": "2026-10-01T00:43:49+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "爱范儿"
         ],
         "source_count": 1,
         "observed_days": 4
@@ -1364,6 +1366,21 @@
       ],
       "开发": [
         {
+          "title": "Kolibri: A Sovereign Open-Weight Model",
+          "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+          "date": "2026-10-03T09:36:04+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Zig 0.17.0 Release Notes",
           "link": "https://ziglang.org/download/0.17.0/release-notes.html",
           "date": "2026-10-02T20:56:36+00:00",
@@ -1377,6 +1394,21 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "We’re going to need default hard budget caps on pretty much everything",
+          "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+          "date": "2026-10-04T00:20:16+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "Why don’t more developers \"use the platform\"?",
@@ -1453,20 +1485,6 @@
           "observed_days": 2
         },
         {
-          "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
-          "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-          "date": "2026-10-03T09:36:04+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
           "title": "I got targeted: Trying to get your credentials via a git post-checkout hook",
           "link": "https://frankwiles.com/posts/i-got-targeted/",
           "date": "2026-10-02T22:19:02+00:00",
@@ -1490,20 +1508,6 @@
           ],
           "sources": [
             "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "AI is changing developer work. Here are three skills to strengthen.",
-          "link": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
-          "date": "2026-10-02T15:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "GitHub Blog"
           ],
           "source_count": 1,
           "observed_days": 2

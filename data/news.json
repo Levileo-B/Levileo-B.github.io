@@ -1,11 +1,16 @@
 {
-  "updated": "2026-10-04T06:58:40+00:00",
+  "updated": "2026-10-04T13:14:03+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "加拿大為何要為（概率極小的）美國入侵做準備",
+          "link": "https://www.bbc.com/zhongwen/articles/cr89zllz31wdo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-04T11:51:41+00:00"
+        },
         {
           "title": "迪拜航空劫機案：阿聯酋官員稱副駕駛用應急斧頭砍傷機長",
           "link": "https://www.bbc.com/zhongwen/articles/ck20w70p4n5wo/trad?at_medium=RSS&at_campaign=rss",
@@ -15,11 +20,6 @@
           "title": "西班牙數萬人上街遊行：抗議住房危機 紮營佔領馬德里市中心",
           "link": "https://www.bbc.com/zhongwen/articles/c6pwg8wkk951o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-04T04:01:33+00:00"
-        },
-        {
-          "title": "西班牙與中國愈走愈近，歐盟多方為何不滿？",
-          "link": "https://www.bbc.com/zhongwen/articles/cx9808vgjy09o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-02T05:09:30+00:00"
         },
         {
           "title": "康乃爾大學輪姦案調查：我們目前知道多少？",
@@ -39,9 +39,9 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-          "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-03T17:48:42+00:00"
+          "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+          "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-04T12:09:04+00:00"
         },
         {
           "title": "Australia investigating Flydubai co-pilot's links to country",
@@ -49,14 +49,14 @@
           "date": "2026-10-04T06:19:17+00:00"
         },
         {
+          "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+          "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-03T17:48:42+00:00"
+        },
+        {
           "title": "Cornell president says university 'must do better' after frat house rape allegations",
           "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-04T00:11:25+00:00"
-        },
-        {
-          "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-          "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-03T16:16:49+00:00"
         },
         {
           "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
@@ -103,9 +103,9 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
-          "link": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
-          "date": "2026-10-03T20:29:07+00:00"
+          "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
+          "link": "https://www.cnbc.com/2026/10/04//ai-wearables-oura-ipo-privacy.html",
+          "date": "2026-10-04T12:00:01+00:00"
         },
         {
           "title": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
@@ -113,19 +113,19 @@
           "date": "2026-10-04T05:00:01+00:00"
         },
         {
-          "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
+          "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar",
           "link": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
-          "date": "2026-10-03T23:37:23+00:00"
+          "date": "2026-10-04T12:53:12+00:00"
         },
         {
-          "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
-          "link": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
-          "date": "2026-10-03T11:00:01+00:00"
+          "title": "Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health experts are worried",
+          "link": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
+          "date": "2026-10-04T12:57:45+00:00"
         },
         {
-          "title": "FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says",
-          "link": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
-          "date": "2026-10-03T12:34:59+00:00"
+          "title": "Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad",
+          "link": "https://www.cnbc.com/2026/10/04/chick-fil-a-ceo-andrew-cathy-family-ownership-growth.html",
+          "date": "2026-10-04T12:08:54+00:00"
         }
       ]
     },
@@ -134,6 +134,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
+          "link": "https://sspai.com/post/115308",
+          "date": "2026-10-04T07:58:39+00:00"
+        },
         {
           "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
           "link": "https://sspai.com/post/114922",
@@ -153,11 +158,6 @@
           "title": "经典任务管理软件的现代重构：新版 2Do 详解",
           "link": "https://sspai.com/post/115166",
           "date": "2026-09-30T07:00:00+00:00"
-        },
-        {
-          "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
-          "link": "https://sspai.com/post/114945",
-          "date": "2026-09-30T03:02:18+00:00"
         }
       ]
     },
@@ -166,6 +166,11 @@
       "category": "科技",
       "url": "https://www.ifanr.com/feed",
       "items": [
+        {
+          "title": "OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相",
+          "link": "https://www.ifanr.com/1682922?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-10-04T07:08:18+00:00"
+        },
         {
           "title": "AI 视频榜全球第二，藏着一家新影视公司的野心",
           "link": "https://www.ifanr.com/1682888?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -185,11 +190,6 @@
           "title": "华为 Mate 90 系列发布：最强 Mate来了，5999 起即日开售",
           "link": "https://www.ifanr.com/1682801?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-10-01T06:17:57+00:00"
-        },
-        {
-          "title": "早报｜曝苹果10月13日发布家庭中枢/豆包接入机票和火车票预订/东方甄选溜溜凳双倍退款",
-          "link": "https://www.ifanr.com/1682780?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-10-01T00:43:49+00:00"
         }
       ]
     },
@@ -231,29 +231,29 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
-          "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-          "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-          "date": "2026-10-03T16:49:10+00:00"
+          "title": "The AirPods Pro 3 are a fantastic deal at $179",
+          "link": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
+          "date": "2026-10-04T12:37:02+00:00"
         },
         {
-          "title": "The best early October Prime Day deals happening now",
-          "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-          "date": "2026-10-03T16:22:40+00:00"
+          "title": "The MacBook Air M5 is $200 off for the first time in months",
+          "link": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
+          "date": "2026-10-04T12:34:01+00:00"
         },
         {
-          "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-          "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-          "date": "2026-10-02T17:19:41+00:00"
+          "title": "The iPad Mini is slightly cheaper again during Prime Day",
+          "link": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
+          "date": "2026-10-04T12:31:50+00:00"
         },
         {
-          "title": "An OpenAI safety employee has quit and is sounding the alarm",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-          "date": "2026-10-03T14:31:56+00:00"
+          "title": "The forgotten Chromebook that started it all",
+          "link": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
+          "date": "2026-10-02T18:40:00+00:00"
         },
         {
-          "title": "3D movies are finally worth watching",
-          "link": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
-          "date": "2026-10-02T18:02:48+00:00"
+          "title": "The rise, fall, and rise of portable MP3 players",
+          "link": "https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player",
+          "date": "2026-10-01T20:10:21+00:00"
         }
       ]
     },
@@ -262,6 +262,11 @@
       "category": "科技",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "All hail electrification. But let’s talk about the hard part.",
+          "link": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
+          "date": "2026-10-04T11:05:53+00:00"
+        },
         {
           "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
           "link": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
@@ -281,11 +286,6 @@
           "title": "Someone got Doom in an SQL database",
           "link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
           "date": "2026-10-02T21:19:05+00:00"
-        },
-        {
-          "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-          "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
-          "date": "2026-10-02T20:30:27+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Why don't more developers \"use the platform\"?",
-          "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-          "date": "2026-10-04T04:10:47+00:00"
+          "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
+          "link": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
+          "date": "2026-10-04T11:58:47+00:00"
         },
         {
-          "title": "We're working on a new RuneScape MMO",
-          "link": "https://play.runescape.com/4",
-          "date": "2026-10-04T01:12:22+00:00"
+          "title": "Show HN: AI search for every photo and every frame of video on macOS",
+          "link": "https://github.com/allenv0/SCM",
+          "date": "2026-10-04T09:24:52+00:00"
         },
         {
-          "title": "Tell HN: Bob Cringely has died",
-          "link": "https://news.ycombinator.com/item?id=49949438",
-          "date": "2026-10-04T00:50:52+00:00"
+          "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+          "link": "https://gamehistory.org/5k-magazines/",
+          "date": "2026-10-04T09:07:11+00:00"
         },
         {
-          "title": "We're going to need default hard budget caps on pretty much everything",
-          "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-          "date": "2026-10-04T00:20:16+00:00"
+          "title": "In Ukraine, distributed renewables foil Russia's assaults",
+          "link": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+          "date": "2026-10-04T08:39:58+00:00"
         },
         {
-          "title": "Reasons I didn't become an EMT, ranked",
-          "link": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
-          "date": "2026-10-03T20:49:15+00:00"
+          "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+          "link": "https://github.com/PowderworksCode/headstart",
+          "date": "2026-10-04T06:26:57+00:00"
         }
       ]
     },
@@ -327,29 +327,29 @@
       "url": "https://lobste.rs/rss",
       "items": [
         {
-          "title": "Why don’t more developers \"use the platform\"?",
-          "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-          "date": "2026-10-03T21:35:28+00:00"
-        },
-        {
           "title": "Rust's derive often implies inline",
           "link": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
           "date": "2026-10-04T01:41:57+00:00"
         },
         {
+          "title": "Why don’t more developers \"use the platform\"?",
+          "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+          "date": "2026-10-03T21:35:28+00:00"
+        },
+        {
+          "title": "We’re going to need default hard budget caps on pretty much everything",
+          "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+          "date": "2026-10-04T07:58:14+00:00"
+        },
+        {
+          "title": "Kolibri: A Sovereign Open-Weight Model",
+          "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+          "date": "2026-10-04T07:57:55+00:00"
+        },
+        {
           "title": "I got targeted: Trying to get your credentials via a git post-checkout hook",
           "link": "https://frankwiles.com/posts/i-got-targeted/",
           "date": "2026-10-02T22:19:02+00:00"
-        },
-        {
-          "title": "The Era of Software Quality, or the Era of Ostriches?",
-          "link": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
-          "date": "2026-10-03T13:31:58+00:00"
-        },
-        {
-          "title": "System-level ad-blocking in Android",
-          "link": "https://kevinboone.me/adblock.html",
-          "date": "2026-10-03T20:43:41+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享创造] [开源] 我做了一个没有删除和升级权限的链上论坛",
-          "link": "https://www.v2ex.com/t/1246367#reply0",
-          "date": "2026-10-04T06:51:22+00:00"
+          "title": "[分享创造] 开源 Bibo：成本极低，内置笔记、文件、任务和日历的 personal agent",
+          "link": "https://www.v2ex.com/t/1246418#reply0",
+          "date": "2026-10-04T12:55:30+00:00"
         },
         {
-          "title": "[宽带症候群] 回老家所有梯子都失效了",
-          "link": "https://www.v2ex.com/t/1246366#reply1",
-          "date": "2026-10-04T06:40:34+00:00"
+          "title": "[程序员] 为什么我的 codex 只能认 cc-switch 里边的第一个模型呢？",
+          "link": "https://www.v2ex.com/t/1246416#reply0",
+          "date": "2026-10-04T12:48:31+00:00"
         },
         {
-          "title": "[问与答] 几百页的 PDF 用什么阅读效果最好， iPad 或者电子书阅读器还是屏幕呢，求指点",
-          "link": "https://www.v2ex.com/t/1246365#reply0",
-          "date": "2026-10-04T06:06:37+00:00"
+          "title": "[macOS] libcr 项目组发布 免费 H5 界面的媒体播放器 crPlayer 1.2.0 for macOS",
+          "link": "https://www.v2ex.com/t/1246414#reply0",
+          "date": "2026-10-04T12:25:30+00:00"
         },
         {
-          "title": "[程序员] gemini4 还不下放，导致我下一步从 openai 叛逃都不知道该去 gemini 还是 grok",
-          "link": "https://www.v2ex.com/t/1246364#reply7",
-          "date": "2026-10-04T05:51:28+00:00"
+          "title": "[Firefox] Firefox 157 nova 主题也太丑了吧",
+          "link": "https://www.v2ex.com/t/1246412#reply1",
+          "date": "2026-10-04T12:13:12+00:00"
         },
         {
-          "title": "[职场话题] 工作一年的感悟：选择自己的生活，为自己的选择负责 [人工感悟+AI 润色，欢迎前辈指点补充]",
-          "link": "https://www.v2ex.com/t/1246363#reply1",
-          "date": "2026-10-04T05:49:34+00:00"
+          "title": "[问与答] IOS 独立开发 App 钱没挣到却因名称争议被对方要求改名或下架，有 IOS 开发大佬知道要怎么处理吗？",
+          "link": "https://www.v2ex.com/t/1246411#reply2",
+          "date": "2026-10-04T11:58:17+00:00"
         }
       ]
     },
@@ -541,6 +541,11 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
+          "title": "AI算力硬合作，马斯克还是更相信中国制造",
+          "link": "https://www.qbitai.com/2026/10/501605.html",
+          "date": "2026-10-04T06:12:22+00:00"
+        },
+        {
           "title": "最火AI岗位FDE：月薪5万，都干这些…",
           "link": "https://www.qbitai.com/2026/10/501506.html",
           "date": "2026-10-04T06:05:35+00:00"
@@ -559,11 +564,6 @@
           "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
           "link": "https://www.qbitai.com/2026/10/501368.html",
           "date": "2026-10-03T04:41:24+00:00"
-        },
-        {
-          "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
-          "link": "https://www.qbitai.com/2026/10/500148.html",
-          "date": "2026-10-03T02:38:19+00:00"
         }
       ]
     },
@@ -637,29 +637,29 @@
       "url": "https://www.sciencedaily.com/rss/all.xml",
       "items": [
         {
+          "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm",
+          "date": "2026-10-04T12:05:54+00:00"
+        },
+        {
           "title": "This protective enzyme could help stop fatty liver disease from getting worse",
           "link": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm",
           "date": "2026-10-03T13:46:11+00:00"
         },
         {
-          "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
-          "date": "2026-10-03T13:34:11+00:00"
+          "title": "Diet drinks work as well as water for weight loss, major trial finds",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261002080017.htm",
+          "date": "2026-10-04T02:10:59+00:00"
         },
         {
-          "title": "NASA’s Roman telescope just opened its planet-hunting eye",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm",
-          "date": "2026-10-02T12:21:30+00:00"
+          "title": "A meteor hit Oklahoma 100 million years later than scientists thought",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm",
+          "date": "2026-10-04T12:41:43+00:00"
         },
         {
-          "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
-          "date": "2026-10-03T13:12:14+00:00"
-        },
-        {
-          "title": "Powerful simulations reveal how the first stars changed the universe",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261001214012.htm",
-          "date": "2026-10-03T12:50:57+00:00"
+          "title": "A forgotten 30-year forest experiment just delivered a huge surprise",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261001214120.htm",
+          "date": "2026-10-04T11:50:46+00:00"
         }
       ]
     }
