@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-04T00:40:55+00:00",
-  "updated": "2026-10-04T00:40:55+00:00",
+  "generated_at": "2026-10-04T06:58:40+00:00",
+  "updated": "2026-10-04T06:58:40+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-09-28T00:00:00+08:00",
-    "end": "2026-10-04T00:40:55+00:00",
-    "total": 841,
+    "end": "2026-10-04T06:58:40+00:00",
+    "total": 856,
     "items": [
       {
         "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
@@ -102,6 +102,21 @@
         "observed_days": 2
       },
       {
+        "title": "Why don’t more developers \"use the platform\"?",
+        "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+        "date": "2026-10-03T21:35:28+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
         "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
         "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
         "date": "2026-10-01T17:27:37+00:00",
@@ -143,22 +158,6 @@
         ],
         "sources": [
           "Ars Technica",
-          "Hacker News"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-        "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-        "date": "2026-09-30T15:54:38+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发",
-          "财经"
-        ],
-        "sources": [
-          "CNBC",
           "Hacker News"
         ],
         "source_count": 2,
@@ -355,6 +354,21 @@
           "observed_days": 2
         },
         {
+          "title": "Why don’t more developers \"use the platform\"?",
+          "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+          "date": "2026-10-03T21:35:28+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "EDG C/C++ Compiler Project",
           "link": "https://github.com/edgcpp/compiler",
           "date": "2026-09-30T22:06:21+00:00",
@@ -435,20 +449,6 @@
           "title": "Developer policy update: Transparency, state policy, and what’s ahead",
           "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
           "date": "2026-09-29T15:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "GitHub Blog"
-          ],
-          "source_count": 1,
-          "observed_days": 6
-        },
-        {
-          "title": "Highlights from Git 2.56",
-          "link": "https://github.blog/open-source/git/highlights-from-git-2-56/",
-          "date": "2026-09-28T17:23:33+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1064,8 +1064,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-04T00:40:55+00:00",
-    "total": 396,
+    "end": "2026-10-04T06:58:40+00:00",
+    "total": 411,
     "items": [
       {
         "title": "Zig 0.17.0 Release Notes",
@@ -1113,6 +1113,21 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "Why don’t more developers \"use the platform\"?",
+        "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+        "date": "2026-10-03T21:35:28+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
@@ -1199,20 +1214,6 @@
         ],
         "sources": [
           "爱范儿"
-        ],
-        "source_count": 1,
-        "observed_days": 4
-      },
-      {
-        "title": "PS5 越狱取得突破",
-        "link": "https://www.solidot.org/story?sid=85520",
-        "date": "2026-09-30T17:01:06+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "Solidot"
         ],
         "source_count": 1,
         "observed_days": 4
@@ -1378,6 +1379,21 @@
           "observed_days": 2
         },
         {
+          "title": "Why don’t more developers \"use the platform\"?",
+          "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+          "date": "2026-10-03T21:35:28+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "EDG C/C++ Compiler Project",
           "link": "https://github.com/edgcpp/compiler",
           "date": "2026-09-30T22:06:21+00:00",
@@ -1488,20 +1504,6 @@
           ],
           "sources": [
             "GitHub Blog"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Waterfox 6.7.5 Adds a Built-in Feed Reader",
-          "link": "https://www.waterfox.com/releases/6.7.5/",
-          "date": "2026-10-02T02:17:04+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
           ],
           "source_count": 1,
           "observed_days": 2
