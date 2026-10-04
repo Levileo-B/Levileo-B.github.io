@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T21:22:12+00:00",
+  "updated": "2026-10-04T00:40:55+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -44,6 +44,11 @@
           "date": "2026-10-03T17:48:42+00:00"
         },
         {
+          "title": "Cornell president says university 'must do better' after frat house rape allegations",
+          "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-04T00:11:25+00:00"
+        },
+        {
           "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
           "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-03T14:27:33+00:00"
@@ -57,11 +62,6 @@
           "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
           "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-03T13:34:11+00:00"
-        },
-        {
-          "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-          "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-03T04:38:31+00:00"
         }
       ]
     },
@@ -113,6 +113,11 @@
           "date": "2026-10-03T11:00:01+00:00"
         },
         {
+          "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
+          "link": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+          "date": "2026-10-03T23:37:23+00:00"
+        },
+        {
           "title": "FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says",
           "link": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
           "date": "2026-10-03T12:34:59+00:00"
@@ -121,11 +126,6 @@
           "title": "Berkshire buys more Lennar shares, but pace of purchases slows",
           "link": "https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html",
           "date": "2026-10-03T12:55:31+00:00"
-        },
-        {
-          "title": "Novig credits Sydney Sweeney-backed campaign for platform’s surge in growth",
-          "link": "https://www.cnbc.com/2026/10/03/novig-credits-sydney-sweeney-backed-campaign-for-platforms-surge-in-growth.html",
-          "date": "2026-10-03T13:30:48+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "We want you to build the next Git platform on Cloudflare",
-          "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-          "date": "2026-10-03T19:33:16+00:00"
+          "title": "We're going to need default hard budget caps on pretty much everything",
+          "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+          "date": "2026-10-04T00:20:16+00:00"
         },
         {
-          "title": "Anthropic tried to persuade Pope that AI could be conscious being",
-          "link": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
-          "date": "2026-10-03T19:33:10+00:00"
+          "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+          "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "date": "2026-10-03T22:18:13+00:00"
         },
         {
-          "title": "Our AI Midwife",
-          "link": "https://www.astralcodexten.com/p/our-ai-midwife",
-          "date": "2026-10-03T19:12:27+00:00"
+          "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+          "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+          "date": "2026-10-03T22:07:13+00:00"
         },
         {
-          "title": "RSS Feed Best Practices (2022)",
-          "link": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
-          "date": "2026-10-03T19:09:25+00:00"
+          "title": "Reasons I didn't become an EMT, ranked",
+          "link": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+          "date": "2026-10-03T20:49:15+00:00"
         },
         {
-          "title": "Two American Airlines Flights End Up with the Same Flight Numbers",
-          "link": "https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/",
-          "date": "2026-10-03T19:07:18+00:00"
+          "title": "Surely you have ultra-wideband radios on your bins too?",
+          "link": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
+          "date": "2026-10-03T20:27:44+00:00"
         }
       ]
     },
@@ -337,6 +337,11 @@
           "date": "2026-10-03T13:31:58+00:00"
         },
         {
+          "title": "Why don’t more developers \"use the platform\"?",
+          "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+          "date": "2026-10-03T21:35:28+00:00"
+        },
+        {
           "title": "Zig 0.17.0 Release Notes",
           "link": "https://ziglang.org/download/0.17.0/release-notes.html",
           "date": "2026-10-02T21:10:41+00:00"
@@ -345,11 +350,6 @@
           "title": "How to Hack Time, With C2PA",
           "link": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
           "date": "2026-10-03T11:58:14+00:00"
-        },
-        {
-          "title": "Lobsters Interview with Sjamaan",
-          "link": "https://alexalejandre.com/interviews/peter-bex/",
-          "date": "2026-10-02T22:01:27+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享创造] 做了一个 Raindance AI 视频小工具，欢迎大家来用",
-          "link": "https://www.v2ex.com/t/1246324#reply0",
-          "date": "2026-10-03T19:27:47+00:00"
+          "title": "[职场话题] 公司让开发个某书刷阅读系统",
+          "link": "https://www.v2ex.com/t/1246332#reply2",
+          "date": "2026-10-04T00:07:10+00:00"
         },
         {
-          "title": "[分享创造] 做了一个 rap 视频生成器，可以上传照片生成 rap 视频。",
-          "link": "https://www.v2ex.com/t/1246323#reply0",
-          "date": "2026-10-03T18:07:38+00:00"
+          "title": "[OpenAI] macOS 上 ChatGPT 客户端长期无法使用",
+          "link": "https://www.v2ex.com/t/1246331#reply1",
+          "date": "2026-10-04T00:04:50+00:00"
         },
         {
-          "title": "[程序员] 相比 AI 的能力，觉得更可怕是它进步的速度、变化的幅度。",
-          "link": "https://www.v2ex.com/t/1246322#reply6",
-          "date": "2026-10-03T17:47:32+00:00"
+          "title": "[问与答] 有没有随身 wifi 推荐？用了两年上赞想换了",
+          "link": "https://www.v2ex.com/t/1246329#reply2",
+          "date": "2026-10-03T23:08:40+00:00"
         },
         {
-          "title": "[分享创造] 写了 8 年代码，终于明白“说唱是男人最好的医美”",
-          "link": "https://www.v2ex.com/t/1246321#reply1",
-          "date": "2026-10-03T17:35:39+00:00"
+          "title": "[macOS] libcr 项目组发布 免费瀑布流相册应用 crPhotos 1.8.0 for macOS",
+          "link": "https://www.v2ex.com/t/1246328#reply0",
+          "date": "2026-10-03T22:57:09+00:00"
         },
         {
-          "title": "[远程工作] USACO 竞赛编程讲师（远程，华盛顿州）",
-          "link": "https://www.v2ex.com/t/1246319#reply0",
-          "date": "2026-10-03T17:09:32+00:00"
+          "title": "[分享创造] 给 Touch Bar 做了个新用途：直接看 Codex / Claude Code 是在工作，还是已经做完",
+          "link": "https://www.v2ex.com/t/1246327#reply0",
+          "date": "2026-10-03T22:40:51+00:00"
         }
       ]
     },
