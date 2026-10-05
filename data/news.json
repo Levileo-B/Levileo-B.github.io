@@ -1,11 +1,16 @@
 {
-  "updated": "2026-10-04T21:31:25+00:00",
+  "updated": "2026-10-05T00:58:18+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "「特習會」後兩架美國 F-16V 抵台 「雖遲但到」的時機與信號",
+          "link": "https://www.bbc.com/zhongwen/articles/c6pwg52xjp8jo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-05T00:14:01+00:00"
+        },
         {
           "title": "加拿大為何要為（概率極小的）美國入侵做準備",
           "link": "https://www.bbc.com/zhongwen/articles/cr89zllz31wdo/trad?at_medium=RSS&at_campaign=rss",
@@ -17,19 +22,14 @@
           "date": "2026-10-04T02:44:22+00:00"
         },
         {
-          "title": "西班牙數萬人上街遊行：抗議住房危機 紮營佔領馬德里市中心",
-          "link": "https://www.bbc.com/zhongwen/articles/c6pwg8wkk951o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-04T04:01:33+00:00"
-        },
-        {
-          "title": "康乃爾大學輪姦案調查：我們目前知道多少？",
-          "link": "https://www.bbc.com/zhongwen/articles/ck0j3j415x0go/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-02T02:31:44+00:00"
-        },
-        {
           "title": "為什麼有些人坐電動車更容易暈車？",
           "link": "https://www.bbc.com/zhongwen/articles/cq62yr0ndd5zo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-03T04:19:55+00:00"
+        },
+        {
+          "title": "寒背又疼痛？五個保護頸部的運動",
+          "link": "https://www.bbc.com/zhongwen/articles/c3lylw2yx1pvo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-05T00:15:14+00:00"
         }
       ]
     },
@@ -54,9 +54,9 @@
           "date": "2026-10-04T16:51:30+00:00"
         },
         {
-          "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+          "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
           "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-04T21:11:49+00:00"
+          "date": "2026-10-05T00:27:06+00:00"
         },
         {
           "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
@@ -70,6 +70,11 @@
       "category": "财经",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
+        {
+          "title": "The job interview question you don't have to answer",
+          "link": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-04T23:22:07+00:00"
+        },
         {
           "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
           "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
@@ -89,11 +94,6 @@
           "title": "US jobs market sees sharp slowdown ahead of midterm elections",
           "link": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-02T14:30:48+00:00"
-        },
-        {
-          "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
-          "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-01T23:00:06+00:00"
         }
       ]
     },
@@ -103,14 +103,14 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health experts are worried",
-          "link": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
-          "date": "2026-10-04T12:57:45+00:00"
+          "title": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
+          "link": "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html",
+          "date": "2026-10-05T00:47:47+00:00"
         },
         {
           "title": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
           "link": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
-          "date": "2026-10-04T17:53:11+00:00"
+          "date": "2026-10-04T22:08:34+00:00"
         },
         {
           "title": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
@@ -118,14 +118,14 @@
           "date": "2026-10-04T20:28:47+00:00"
         },
         {
+          "title": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East",
+          "link": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
+          "date": "2026-10-04T21:46:15+00:00"
+        },
+        {
           "title": "Why brands like E.l.f., Wendy's and Gap are branching out into original music",
           "link": "https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html",
           "date": "2026-10-04T12:00:01+00:00"
-        },
-        {
-          "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
-          "link": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
-          "date": "2026-10-04T13:22:39+00:00"
         }
       ]
     },
@@ -275,9 +275,19 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-          "link": "https://island-three.gruberbuilds.workers.dev/",
-          "date": "2026-10-04T19:49:12+00:00"
+          "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+          "link": "https://getartcraft.com/apps",
+          "date": "2026-10-04T23:02:43+00:00"
+        },
+        {
+          "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+          "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+          "date": "2026-10-04T22:25:10+00:00"
+        },
+        {
+          "title": "In the wake of closure, a digital archive of animated materials appears online",
+          "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+          "date": "2026-10-04T21:01:28+00:00"
         },
         {
           "title": "Homa: The end of TCP for AI clusters [video]",
@@ -288,16 +298,6 @@
           "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
           "link": "https://github.com/omlahore/RemoveMacAI",
           "date": "2026-10-04T19:42:25+00:00"
-        },
-        {
-          "title": "Improper redaction reveals Google Data Center water and electricity usage",
-          "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-          "date": "2026-10-04T19:37:05+00:00"
-        },
-        {
-          "title": "Show HN: Build with Python – a beginner course where your code draws",
-          "link": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
-          "date": "2026-10-04T18:59:25+00:00"
         }
       ]
     },
@@ -306,6 +306,11 @@
       "category": "开发",
       "url": "https://lobste.rs/rss",
       "items": [
+        {
+          "title": "ncdu: NCurses Disk Usage (an updated fork)",
+          "link": "https://github.com/rcalixte/ncdu",
+          "date": "2026-10-04T19:30:36+00:00"
+        },
         {
           "title": "Rust's derive often implies inline",
           "link": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
@@ -322,11 +327,6 @@
           "date": "2026-10-04T10:28:57+00:00"
         },
         {
-          "title": "ncdu: NCurses Disk Usage (an updated fork)",
-          "link": "https://github.com/rcalixte/ncdu",
-          "date": "2026-10-04T19:30:36+00:00"
-        },
-        {
           "title": "We’re going to need default hard budget caps on pretty much everything",
           "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
           "date": "2026-10-04T07:58:14+00:00"
@@ -339,29 +339,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享创造] [问书] 自主学习网站",
-          "link": "https://www.v2ex.com/t/1246438#reply0",
-          "date": "2026-10-04T20:40:15+00:00"
+          "title": "[Python] wreq- Python ：重写协程桥接后的性能提升",
+          "link": "https://www.v2ex.com/t/1246447#reply0",
+          "date": "2026-10-05T00:34:58+00:00"
         },
         {
-          "title": "[分享创造] [开源] Precedent Loop：让 Agnet 换个会话也记得项目里踩过的坑",
-          "link": "https://www.v2ex.com/t/1246437#reply1",
-          "date": "2026-10-04T18:59:43+00:00"
+          "title": "[分享创造] 全功能文件管理器 Zexor ：从“找文件”到“用文件”，重新思考 Windows 文件管理器",
+          "link": "https://www.v2ex.com/t/1246445#reply1",
+          "date": "2026-10-05T00:23:01+00:00"
         },
         {
-          "title": "[硬件] 对着超微的实拍，把 Vera Rubin NVL72 机柜的正面和背面认了一遍",
-          "link": "https://www.v2ex.com/t/1246436#reply0",
-          "date": "2026-10-04T16:51:44+00:00"
+          "title": "[程序员] ai 时代怎么感觉招 js/ts 全栈还是那么少？",
+          "link": "https://www.v2ex.com/t/1246444#reply3",
+          "date": "2026-10-05T00:17:16+00:00"
         },
         {
-          "title": "[NAS] 2026 年，求 NAS 系统推荐",
-          "link": "https://www.v2ex.com/t/1246435#reply1",
-          "date": "2026-10-04T16:39:03+00:00"
+          "title": "[分享创造] 做了个 Claude Code 多账号路由工具：撞上限自动切账号",
+          "link": "https://www.v2ex.com/t/1246443#reply2",
+          "date": "2026-10-04T23:34:44+00:00"
         },
         {
-          "title": "[分享创造] 测了 1000 个中文大站的 llms.txt，只有 30 个放了真正的文件",
-          "link": "https://www.v2ex.com/t/1246434#reply4",
-          "date": "2026-10-04T16:27:34+00:00"
+          "title": "[OpenAI] Tibo：在接下来的 28 天里，我们每天要么推出一项明显的改进，要么进行一次全面重置",
+          "link": "https://www.v2ex.com/t/1246442#reply2",
+          "date": "2026-10-04T23:09:52+00:00"
         }
       ]
     },
