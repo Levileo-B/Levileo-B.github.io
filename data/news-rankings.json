@@ -1,115 +1,33 @@
 {
-  "generated_at": "2026-10-05T00:58:18+00:00",
-  "updated": "2026-10-05T00:58:18+00:00",
+  "generated_at": "2026-10-05T07:06:42+00:00",
+  "updated": "2026-10-05T07:06:42+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-05T00:00:00+08:00",
-    "end": "2026-10-05T00:58:18+00:00",
-    "total": 38,
+    "end": "2026-10-05T07:06:42+00:00",
+    "total": 69,
     "items": [
       {
-        "title": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
-        "link": "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html",
-        "date": "2026-10-05T00:47:47+00:00",
+        "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+        "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo",
+        "date": "2026-10-05T06:15:29+00:00",
         "date_is_observed": false,
         "categories": [
+          "综合",
           "财经"
         ],
         "sources": [
-          "CNBC"
+          "BBC Business",
+          "BBC World"
         ],
-        "source_count": 1,
+        "source_count": 2,
         "observed_days": 1
       },
       {
-        "title": "[Python] wreq- Python ：重写协程桥接后的性能提升",
-        "link": "https://www.v2ex.com/t/1246447",
-        "date": "2026-10-05T00:34:58+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[分享创造] 全功能文件管理器 Zexor ：从“找文件”到“用文件”，重新思考 Windows 文件管理器",
-        "link": "https://www.v2ex.com/t/1246445",
-        "date": "2026-10-05T00:23:01+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[程序员] ai 时代怎么感觉招 js/ts 全栈还是那么少？",
-        "link": "https://www.v2ex.com/t/1246444",
-        "date": "2026-10-05T00:17:16+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "寒背又疼痛？五個保護頸部的運動",
-        "link": "https://www.bbc.com/zhongwen/articles/c3lylw2yx1pvo/trad",
-        "date": "2026-10-05T00:15:14+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC 中文"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "「特習會」後兩架美國 F-16V 抵台 「雖遲但到」的時機與信號",
-        "link": "https://www.bbc.com/zhongwen/articles/c6pwg52xjp8jo/trad",
-        "date": "2026-10-05T00:14:01+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC 中文"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[分享创造] 做了个 Claude Code 多账号路由工具：撞上限自动切账号",
-        "link": "https://www.v2ex.com/t/1246443",
-        "date": "2026-10-04T23:34:44+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "The job interview question you don't have to answer",
-        "link": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno",
-        "date": "2026-10-04T23:22:07+00:00",
+        "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
+        "link": "https://www.bbc.co.uk/news/articles/cvze4g06526ro",
+        "date": "2026-10-05T07:05:42+00:00",
         "date_is_observed": false,
         "categories": [
           "财经"
@@ -121,9 +39,9 @@
         "observed_days": 1
       },
       {
-        "title": "[OpenAI] Tibo：在接下来的 28 天里，我们每天要么推出一项明显的改进，要么进行一次全面重置",
-        "link": "https://www.v2ex.com/t/1246442",
-        "date": "2026-10-04T23:09:52+00:00",
+        "title": "[iOS] iOS27.0.1 值得升吗？目前停在 iOS26.4.1",
+        "link": "https://www.v2ex.com/t/1246501",
+        "date": "2026-10-05T07:04:06+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -135,26 +53,154 @@
         "observed_days": 1
       },
       {
-        "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
-        "link": "https://getartcraft.com/apps",
-        "date": "2026-10-04T23:02:43+00:00",
+        "title": "[分享创造] [开源] 做了个能让 AI 替你玩的三国 SLG 网页游戏， Claude / GPT / ZCODE / WorkBuddy 等无缝接入",
+        "link": "https://www.v2ex.com/t/1246499",
+        "date": "2026-10-05T06:59:36+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
         ],
         "sources": [
-          "Hacker News"
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Euro hits 17-month low as political uncertainty in Spain and France rattles markets",
+        "link": "https://www.cnbc.com/2026/10/05/euro-dollar-spain-france-risk.html",
+        "date": "2026-10-05T06:54:13+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "财经"
+        ],
+        "sources": [
+          "CNBC"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[V2EX] MUSE 兑换码有人互用吗",
+        "link": "https://www.v2ex.com/t/1246496",
+        "date": "2026-10-05T06:40:12+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[程序员] Windows 搭建 WSL2 AI 开发环境",
+        "link": "https://www.v2ex.com/t/1246495",
+        "date": "2026-10-05T06:33:40+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[分享创造] AI 参照网-给 AI 做网站的审美参照与收集万星 Skill",
+        "link": "https://www.v2ex.com/t/1246494",
+        "date": "2026-10-05T06:29:13+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "美國華裔房產經紀涉監視賴清德兒子 被FBI拘捕",
+        "link": "https://www.bbc.com/zhongwen/articles/cw5yn53n4y7ko/trad",
+        "date": "2026-10-05T06:17:26+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合"
+        ],
+        "sources": [
+          "BBC 中文"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "印度如何陷入對中國進口商品的危險依賴？",
+        "link": "https://www.bbc.com/zhongwen/articles/c98rzd1ye6n0o/trad",
+        "date": "2026-10-05T06:15:56+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合"
+        ],
+        "sources": [
+          "BBC 中文"
         ],
         "source_count": 1,
         "observed_days": 1
       }
     ],
     "by_category": {
+      "AI": [
+        {
+          "title": "刚刚，Hinton发了首篇RSI论文",
+          "link": "https://www.qbitai.com/2026/10/501705.html",
+          "date": "2026-10-05T04:42:52+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "EmTech Future 2026: When AI Meets Everything",
+          "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+          "date": "2026-10-05T04:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+          "link": "https://www.qbitai.com/2026/10/501700.html",
+          "date": "2026-10-05T02:50:46+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        }
+      ],
       "开发": [
         {
-          "title": "[Python] wreq- Python ：重写协程桥接后的性能提升",
-          "link": "https://www.v2ex.com/t/1246447",
-          "date": "2026-10-05T00:34:58+00:00",
+          "title": "[iOS] iOS27.0.1 值得升吗？目前停在 iOS26.4.1",
+          "link": "https://www.v2ex.com/t/1246501",
+          "date": "2026-10-05T07:04:06+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -166,9 +212,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] 全功能文件管理器 Zexor ：从“找文件”到“用文件”，重新思考 Windows 文件管理器",
-          "link": "https://www.v2ex.com/t/1246445",
-          "date": "2026-10-05T00:23:01+00:00",
+          "title": "[分享创造] [开源] 做了个能让 AI 替你玩的三国 SLG 网页游戏， Claude / GPT / ZCODE / WorkBuddy 等无缝接入",
+          "link": "https://www.v2ex.com/t/1246499",
+          "date": "2026-10-05T06:59:36+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -180,9 +226,9 @@
           "observed_days": 1
         },
         {
-          "title": "[程序员] ai 时代怎么感觉招 js/ts 全栈还是那么少？",
-          "link": "https://www.v2ex.com/t/1246444",
-          "date": "2026-10-05T00:17:16+00:00",
+          "title": "[V2EX] MUSE 兑换码有人互用吗",
+          "link": "https://www.v2ex.com/t/1246496",
+          "date": "2026-10-05T06:40:12+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -194,9 +240,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] 做了个 Claude Code 多账号路由工具：撞上限自动切账号",
-          "link": "https://www.v2ex.com/t/1246443",
-          "date": "2026-10-04T23:34:44+00:00",
+          "title": "[程序员] Windows 搭建 WSL2 AI 开发环境",
+          "link": "https://www.v2ex.com/t/1246495",
+          "date": "2026-10-05T06:33:40+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -208,9 +254,9 @@
           "observed_days": 1
         },
         {
-          "title": "[OpenAI] Tibo：在接下来的 28 天里，我们每天要么推出一项明显的改进，要么进行一次全面重置",
-          "link": "https://www.v2ex.com/t/1246442",
-          "date": "2026-10-04T23:09:52+00:00",
+          "title": "[分享创造] AI 参照网-给 AI 做网站的审美参照与收集万星 Skill",
+          "link": "https://www.v2ex.com/t/1246494",
+          "date": "2026-10-05T06:29:13+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -222,9 +268,9 @@
           "observed_days": 1
         },
         {
-          "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
-          "link": "https://getartcraft.com/apps",
-          "date": "2026-10-04T23:02:43+00:00",
+          "title": "Anthropic reported diary entry to police, woman faces felony charge",
+          "link": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "date": "2026-10-05T05:37:40+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -236,9 +282,9 @@
           "observed_days": 1
         },
         {
-          "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-          "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
-          "date": "2026-10-04T22:25:10+00:00",
+          "title": "Replacement of petroleum based products with plant-based materials (2025)",
+          "link": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
+          "date": "2026-10-05T05:09:43+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -250,9 +296,9 @@
           "observed_days": 1
         },
         {
-          "title": "In the wake of closure, a digital archive of animated materials appears online",
-          "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-          "date": "2026-10-04T21:01:28+00:00",
+          "title": "Nearly 200 people under observation after Irkutsk lab worker dies from plague",
+          "link": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+          "date": "2026-10-05T02:31:45+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -264,23 +310,23 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] [问书] 自主学习网站",
-          "link": "https://www.v2ex.com/t/1246438",
-          "date": "2026-10-04T20:40:15+00:00",
+          "title": "Refinement E-Graphs",
+          "link": "https://www.philipzucker.com/refinement_egraph/",
+          "date": "2026-10-05T02:23:30+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "V2EX"
+            "Lobsters"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-          "link": "https://island-three.gruberbuilds.workers.dev/",
-          "date": "2026-10-04T19:49:12+00:00",
+          "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+          "link": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+          "date": "2026-10-05T01:54:08+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -293,6 +339,34 @@
         }
       ],
       "科技": [
+        {
+          "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+          "link": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+          "date": "2026-10-05T04:00:52+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "十个案例助你轻松上手 iOS 27 通知自动化",
+          "link": "https://sspai.com/post/114536",
+          "date": "2026-10-05T02:59:24+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "The new Fitbit Edge leaks",
           "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
@@ -350,7 +424,123 @@
           "observed_days": 1
         }
       ],
+      "科研": [
+        {
+          "title": "The “glue” holding your cells together has a surprising second job",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261002080023.htm",
+          "date": "2026-10-05T03:12:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        }
+      ],
       "综合": [
+        {
+          "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+          "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo",
+          "date": "2026-10-05T06:15:29+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "美國華裔房產經紀涉監視賴清德兒子 被FBI拘捕",
+          "link": "https://www.bbc.com/zhongwen/articles/cw5yn53n4y7ko/trad",
+          "date": "2026-10-05T06:17:26+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "印度如何陷入對中國進口商品的危險依賴？",
+          "link": "https://www.bbc.com/zhongwen/articles/c98rzd1ye6n0o/trad",
+          "date": "2026-10-05T06:15:56+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "US air force removes all bombers from British military base RAF Fairford",
+          "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko",
+          "date": "2026-10-05T04:58:56+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Watch: How Brazil's dramatic election unfolded",
+          "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo",
+          "date": "2026-10-05T04:51:24+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "France closes up to 500 schools Monday over student protests",
+          "link": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o",
+          "date": "2026-10-05T04:49:14+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "反恐案件後 美國從英國西南基地撤走全數轟炸機",
+          "link": "https://www.bbc.com/zhongwen/articles/ckjwedyygxgvo/trad",
+          "date": "2026-10-05T02:42:58+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "寒背又疼痛？五個保護頸部的運動",
           "link": "https://www.bbc.com/zhongwen/articles/c3lylw2yx1pvo/trad",
@@ -392,37 +582,109 @@
           ],
           "source_count": 1,
           "observed_days": 1
-        },
-        {
-          "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-          "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o",
-          "date": "2026-10-04T16:51:30+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
-          "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o",
-          "date": "2026-10-04T16:24:48+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "财经": [
+        {
+          "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+          "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo",
+          "date": "2026-10-05T06:15:29+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
+          "link": "https://www.bbc.co.uk/news/articles/cvze4g06526ro",
+          "date": "2026-10-05T07:05:42+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Euro hits 17-month low as political uncertainty in Spain and France rattles markets",
+          "link": "https://www.cnbc.com/2026/10/05/euro-dollar-spain-france-risk.html",
+          "date": "2026-10-05T06:54:13+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Russia hospitalizes almost 200 people after researcher's death from plague: Reports",
+          "link": "https://www.cnbc.com/2026/10/05/suspected-plague-cases-reported-in-russias-irkutsk-region.html",
+          "date": "2026-10-05T05:34:17+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances",
+          "link": "https://www.cnbc.com/2026/10/05/aging-population-moodys-public-finances.html",
+          "date": "2026-10-05T05:00:01+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Surging Treasury yields don’t signal a U.S. 'fiscal apocalypse' — yet",
+          "link": "https://www.cnbc.com/2026/10/05/treasury-yields-fiscal-concerns-not-crisis-yet.html",
+          "date": "2026-10-05T02:24:07+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "How India became dangerously addicted to Chinese imports",
+          "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno",
+          "date": "2026-10-05T01:42:11+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
           "link": "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html",
@@ -464,42 +726,14 @@
           ],
           "source_count": 1,
           "observed_days": 1
-        },
-        {
-          "title": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
-          "link": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
-          "date": "2026-10-04T20:28:47+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
-          "link": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
-          "date": "2026-10-04T17:53:11+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ]
     }
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-05T00:58:18+00:00",
-    "total": 488,
+    "end": "2026-10-05T07:06:42+00:00",
+    "total": 519,
     "items": [
       {
         "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
@@ -594,6 +828,22 @@
         "observed_days": 2
       },
       {
+        "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+        "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo",
+        "date": "2026-10-05T06:15:29+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
         "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
         "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
         "date": "2026-10-01T17:27:37+00:00",
@@ -639,20 +889,6 @@
         ],
         "source_count": 2,
         "observed_days": 1
-      },
-      {
-        "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-        "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-        "date": "2026-10-01T12:10:00+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "AI"
-        ],
-        "sources": [
-          "MIT Technology Review"
-        ],
-        "source_count": 1,
-        "observed_days": 5
       }
     ],
     "by_category": {
@@ -1267,6 +1503,22 @@
           "observed_days": 2
         },
         {
+          "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+          "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo",
+          "date": "2026-10-05T06:15:29+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
           "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
           "date": "2026-10-01T17:27:37+00:00",
@@ -1365,20 +1617,6 @@
           ],
           "source_count": 1,
           "observed_days": 3
-        },
-        {
-          "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-          "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo",
-          "date": "2026-10-04T12:09:04+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
@@ -1413,6 +1651,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+          "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo",
+          "date": "2026-10-05T06:15:29+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
@@ -1504,20 +1758,6 @@
           "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
           "link": "https://www.cnbc.com/2026/10/04//ai-wearables-oura-ipo-privacy.html",
           "date": "2026-10-04T12:00:01+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
-          "link": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
-          "date": "2026-10-04T05:00:01+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
