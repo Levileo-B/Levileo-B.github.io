@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-06T17:13:57+00:00",
-  "updated": "2026-10-06T17:13:57+00:00",
+  "generated_at": "2026-10-06T21:41:00+00:00",
+  "updated": "2026-10-06T21:41:00+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-05T00:00:00+08:00",
-    "end": "2026-10-06T17:13:57+00:00",
-    "total": 251,
+    "end": "2026-10-06T21:41:00+00:00",
+    "total": 278,
     "items": [
       {
         "title": "Trump chooses top spy boss to run new AI taskforce",
@@ -23,6 +23,22 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
+        "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+        "date": "2026-10-06T17:33:44+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发",
+          "科技"
+        ],
+        "sources": [
+          "Ars Technica",
+          "Hacker News"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "刚刚，Hinton发了首篇RSI论文",
@@ -81,7 +97,7 @@
         "observed_days": 2
       },
       {
-        "title": "ASOS app users receive push notifications apparently sent by hackers",
+        "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
         "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
         "date": "2026-10-06T09:49:42+00:00",
         "date_is_observed": false,
@@ -126,20 +142,6 @@
         "title": "不er，咋陶哲轩也成AI减速派了？？",
         "link": "https://www.qbitai.com/2026/10/501736.html",
         "date": "2026-10-06T07:59:17+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "AI"
-        ],
-        "sources": [
-          "量子位"
-        ],
-        "source_count": 1,
-        "observed_days": 2
-      },
-      {
-        "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
-        "link": "https://www.qbitai.com/2026/10/501726.html",
-        "date": "2026-10-06T06:45:40+00:00",
         "date_is_observed": false,
         "categories": [
           "AI"
@@ -296,6 +298,22 @@
       ],
       "开发": [
         {
+          "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
+          "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+          "date": "2026-10-06T17:33:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
           "link": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
           "date": "2026-10-04T17:38:25+00:00",
@@ -380,23 +398,23 @@
           "observed_days": 2
         },
         {
-          "title": "[生活] 我要和女朋友结婚了，关于婚纱照，求各位大佬给我点意见！",
-          "link": "https://www.v2ex.com/t/1246705",
-          "date": "2026-10-06T17:08:38+00:00",
+          "title": "Building Git infrastructure for agent-scale development",
+          "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+          "date": "2026-10-06T20:57:56+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "V2EX"
+            "GitHub Blog"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "AI is now capable of developing its own inference hardware",
-          "link": "https://github.com/FeSens/openTPU",
-          "date": "2026-10-06T16:23:25+00:00",
+          "title": "OpenSSH 10.6",
+          "link": "https://www.openssh.org/releasenotes.html",
+          "date": "2026-10-06T20:41:39+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -408,23 +426,9 @@
           "observed_days": 1
         },
         {
-          "title": "[Wunder] 把系统的实时状态画成 GIF",
-          "link": "https://www.v2ex.com/t/1246703",
-          "date": "2026-10-06T16:17:20+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[程序员] 又一个知名大厂程序员被判，很好奇这是怎么被抓到的？",
-          "link": "https://www.v2ex.com/t/1246702",
-          "date": "2026-10-06T16:14:00+00:00",
+          "title": "[阅读] 2026 年八月 读女性研究，小说，随笔 6 本",
+          "link": "https://www.v2ex.com/t/1246710",
+          "date": "2026-10-06T19:47:19+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -437,6 +441,22 @@
         }
       ],
       "科技": [
+        {
+          "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
+          "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+          "date": "2026-10-06T17:33:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
         {
           "title": "十个案例助你轻松上手 iOS 27 通知自动化",
           "link": "https://sspai.com/post/114536",
@@ -562,20 +582,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "We can’t just change the definition of ‘recording’",
-          "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
-          "date": "2026-10-06T16:29:44+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "The Verge"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "科研": [
@@ -850,9 +856,9 @@
           "observed_days": 2
         },
         {
-          "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-          "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo",
-          "date": "2026-10-06T16:22:37+00:00",
+          "title": "US death row inmate Christa Pike conscious and speaking after failed execution, lawyers say",
+          "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko",
+          "date": "2026-10-06T21:39:09+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -882,7 +888,7 @@
           "observed_days": 2
         },
         {
-          "title": "ASOS app users receive push notifications apparently sent by hackers",
+          "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
           "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
           "date": "2026-10-06T09:49:42+00:00",
           "date_is_observed": false,
@@ -891,6 +897,20 @@
           ],
           "sources": [
             "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Trump hedges on paying back government for ads that already aired",
+          "link": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
+          "date": "2026-10-06T01:55:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -938,9 +958,9 @@
           "observed_days": 2
         },
         {
-          "title": "Alito plans to stay on Supreme Court, even if Democrats regain Senate: Report",
-          "link": "https://www.cnbc.com/2026/10/06/alito-supreme-court-democrats-senate.html",
-          "date": "2026-10-06T16:56:33+00:00",
+          "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
+          "link": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
+          "date": "2026-10-06T20:50:54+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -952,37 +972,9 @@
           "observed_days": 1
         },
         {
-          "title": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
-          "link": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
-          "date": "2026-10-06T16:19:16+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
-          "link": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
-          "date": "2026-10-06T16:19:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
-          "link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo",
-          "date": "2026-10-06T16:01:11+00:00",
+          "title": "What can I do to protect myself after 'Asos hacked' message?",
+          "link": "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo",
+          "date": "2026-10-06T19:17:23+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -994,9 +986,23 @@
           "observed_days": 1
         },
         {
-          "title": "British Airways plans record 106-seat business class on Airbus A380 jumbo jets",
-          "link": "https://www.cnbc.com/2026/10/06/british-airways-business-class-a380.html",
-          "date": "2026-10-06T15:52:33+00:00",
+          "title": "Amazon wins global rights to stream Emmys in six-year deal",
+          "link": "https://www.bbc.co.uk/news/articles/cqd09g77mygko",
+          "date": "2026-10-06T19:08:21+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Kalshi launches transparency features on its election contracts ahead of midterms",
+          "link": "https://www.cnbc.com/2026/10/06/kalshi-launches-transparency-features-on-its-election-contracts-ahead-of-midterms-.html",
+          "date": "2026-10-06T18:34:49+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1012,8 +1018,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-06T17:13:57+00:00",
-    "total": 701,
+    "end": "2026-10-06T21:41:00+00:00",
+    "total": 728,
     "items": [
       {
         "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
@@ -1078,6 +1084,21 @@
         "observed_days": 2
       },
       {
+        "title": "System-level ad-blocking in Android",
+        "link": "https://kevinboone.me/adblock.html",
+        "date": "2026-10-03T20:43:41+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
         "title": "Kolibri: A Sovereign Open-Weight Model",
         "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
         "date": "2026-10-03T09:36:04+00:00",
@@ -1124,6 +1145,22 @@
         "observed_days": 2
       },
       {
+        "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
+        "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+        "date": "2026-10-06T17:33:44+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发",
+          "科技"
+        ],
+        "sources": [
+          "Ars Technica",
+          "Hacker News"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
         "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
         "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
         "date": "2026-10-01T17:27:37+00:00",
@@ -1135,37 +1172,6 @@
         "sources": [
           "BBC Business",
           "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "EDG C/C++ Compiler Project",
-        "link": "https://github.com/edgcpp/compiler",
-        "date": "2026-09-30T22:06:21+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "Returning from vacation? The government can search your phone without a warrant",
-        "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
-        "date": "2026-09-30T21:19:56+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发",
-          "科技"
-        ],
-        "sources": [
-          "Ars Technica",
-          "Hacker News"
         ],
         "source_count": 2,
         "observed_days": 1
@@ -1346,6 +1352,21 @@
           "observed_days": 2
         },
         {
+          "title": "System-level ad-blocking in Android",
+          "link": "https://kevinboone.me/adblock.html",
+          "date": "2026-10-03T20:43:41+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Kolibri: A Sovereign Open-Weight Model",
           "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
           "date": "2026-10-03T09:36:04+00:00",
@@ -1374,6 +1395,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
+          "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+          "date": "2026-10-06T17:33:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "EDG C/C++ Compiler Project",
@@ -1433,37 +1470,25 @@
           ],
           "source_count": 1,
           "observed_days": 5
-        },
-        {
-          "title": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
-          "link": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
-          "date": "2026-10-04T17:38:25+00:00",
-          "date_is_observed": true,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "美团技术团队"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "Email Self Hosters - what are you using?",
-          "link": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
-          "date": "2026-10-06T08:09:53+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "科技": [
+        {
+          "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
+          "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+          "date": "2026-10-06T17:33:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
         {
           "title": "Returning from vacation? The government can search your phone without a warrant",
           "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
@@ -1588,20 +1613,6 @@
           ],
           "sources": [
             "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 4
-        },
-        {
-          "title": "华为 Mate 90 系列发布：最强 Mate来了，5999 起即日开售",
-          "link": "https://www.ifanr.com/1682801",
-          "date": "2026-10-01T06:17:57+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
           ],
           "source_count": 1,
           "observed_days": 4
@@ -2035,7 +2046,7 @@
           "observed_days": 3
         },
         {
-          "title": "ASOS app users receive push notifications apparently sent by hackers",
+          "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
           "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
           "date": "2026-10-06T09:49:42+00:00",
           "date_is_observed": false,
