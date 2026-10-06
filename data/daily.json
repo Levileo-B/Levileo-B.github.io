@@ -1,125 +1,126 @@
 {
-  "updated": "2026-10-05T22:41:08+00:00",
+  "updated": "2026-10-06T03:01:47+00:00",
   "leetcode": {
-    "date": "2026-10-05",
-    "id": "856",
-    "title": "Score of Parentheses",
-    "titleEn": "Score of Parentheses",
-    "slug": "score-of-parentheses",
+    "date": "2026-10-06",
+    "id": "921",
+    "title": "Minimum Add to Make Parentheses Valid",
+    "titleEn": "Minimum Add to Make Parentheses Valid",
+    "slug": "minimum-add-to-make-parentheses-valid",
     "difficulty": "Medium",
     "tags": [
       "String",
       "Stack",
+      "Greedy",
       "Bracket Sequences"
     ],
-    "link": "https://leetcode.com/problems/score-of-parentheses/",
+    "link": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "White-headed fruit dove",
-    "text": "The white-headed fruit dove is a species of bird in the pigeon family, Columbidae. It was described by the English ornithologist John Gould in 1856, and the specific name eugeniae honours the French empress Eugénie de Montijo. Adults of the species have white heads, a purplish-red breast patch, a grey shoulder patch, olive-green upperparts, greenish underparts with a blue tinge, and a yellowish vent. Juveniles have green heads with the white restricted to the forehead and upper throat, a much smaller grey shoulder patch, and the red breast patch restricted to the centre of the breast.",
-    "words": 96,
-    "url": "https://en.wikipedia.org/wiki/White-headed_fruit_dove",
-    "date": "2026-10-05",
+    "title": "History of cricket to 1725",
+    "text": "The origins of the game of cricket are murky, but the earliest definite reference to the sport is dated 17 January 1597, equating to 27 January 1598 in modern New Style dates. It is a deposition in the records of a legal case at Guildford, Surrey, regarding usage of a parcel of land. John Derrick, a coroner, testified that he had played cricket on the land when he was a boy in about 1550. Derrick's testimony is confirmation that the sport was being played by the middle of the 16th century, but its true origin is unknown. All that is known with a fair degree of certainty is that its beginning was earlier than 1550, probably somewhere in south-east England within the counties of Kent, Sussex, and Surrey. There have been suggestions that it can be traced to Flemish immigrants then resident in the area. The origin of the word cricket could derive from the Flemish word krick(-e), meaning a stick.",
+    "words": 161,
+    "url": "https://en.wikipedia.org/wiki/History_of_cricket_to_1725",
+    "date": "2026-10-06",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Range Grazing Practices",
-    "creator": "",
-    "year": "1958",
-    "url": "https://archive.org/download/Range_Grazing_Practices/Range_Grazing_Practices.intros.mp4",
-    "page": "https://archive.org/details/Range_Grazing_Practices",
-    "date": "2026-10-05",
+    "title": "[Forests Are Born]",
+    "creator": "Lasar Dunner Productions",
+    "year": "",
+    "url": "https://archive.org/download/Forests_Are_Born/Forests_Are_Born.intros.mp4",
+    "page": "https://archive.org/details/Forests_Are_Born",
+    "date": "2026-10-06",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Nobody's Nail Machine - Fallout Nevada Remastered",
-      "artist": "Nobody's Nail Machine",
-      "url": "https://archive.org/download/FalloutNevadaRemastered/01.%20Fallout%20Nevada%20Theme.mp3",
-      "page": "https://archive.org/details/FalloutNevadaRemastered",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
-    },
-    {
-      "title": "United in Silence",
-      "artist": "Rinus Van Alebeek",
-      "url": "https://archive.org/download/zerom02/UnitedInSilence.mp3",
-      "page": "https://archive.org/details/zerom02",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "Noise Research Reaktions",
-      "artist": "London Concrete",
-      "url": "https://archive.org/download/NoiseResearchReaktions/LondonConcrete-NrReaktions1.mp3",
-      "page": "https://archive.org/details/NoiseResearchReaktions",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/uk/"
-    },
-    {
-      "title": "Warhol’s Ugly Brood",
-      "artist": "Gypsy",
-      "url": "https://archive.org/download/warhols-ugly-brood/01%20-%20To%20Prog%20Or%20Not%20To%20Prog%20%28That%20Is%20The%20Dilemma%29.mp3",
-      "page": "https://archive.org/details/warhols-ugly-brood",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "Astrobastards & Assholes",
-      "artist": "Stratosonics",
-      "url": "https://archive.org/download/FW100-4_Stratosonics/FW100-4-01_InvasionOfTheAstrobastards.mp3",
-      "page": "https://archive.org/details/FW100-4_Stratosonics",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "na mesma estrada",
-      "artist": "nuno maltez",
-      "url": "https://archive.org/download/NaMesmaEstrada/NaMesmaEstrada.mp3",
-      "page": "https://archive.org/details/NaMesmaEstrada",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "Apkallu - \"Original eMotion Picture Soundtrack. City Edition\"",
-      "artist": "",
-      "url": "https://archive.org/download/PL019/01_Gteborg.mp3",
-      "page": "https://archive.org/details/PL019",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
-    },
-    {
-      "title": "...Not Dark and Emo",
-      "artist": "Stark and Nimo",
-      "url": "https://archive.org/download/NotDarkAndEmo/01Humming.mp3",
-      "page": "https://archive.org/details/NotDarkAndEmo",
-      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-    },
-    {
-      "title": "NoiseNoD08_Roxy",
-      "artist": "Salon Bruit",
-      "url": "https://archive.org/download/NoiseNoD08_Roxy/01_federsel.mp3",
-      "page": "https://archive.org/details/NoiseNoD08_Roxy",
+      "title": "[alg060] - kERN + Ranter’s Bay - White matter synaptic transmission",
+      "artist": "kERN + Ranter’s Bay",
+      "url": "https://archive.org/download/alg060/alg060-White-Matter-Synaptic-Transmission.mp3",
+      "page": "https://archive.org/details/alg060",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "FRee-K Sounds 010: Toucan in the Room",
-      "artist": "DJ Robb",
-      "url": "https://archive.org/download/FReeKS010-Toucan_in_the_room-2020-02-15/2020-02-15-Toucan_in_the_room.mp3",
-      "page": "https://archive.org/details/FReeKS010-Toucan_in_the_room-2020-02-15",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "GI Joe Killaz - Takin' Over Tha World [nt057]",
+      "artist": "GI Joe Killaz",
+      "url": "https://archive.org/download/nt057/nt057-1-gi_joe_killaz-takin_over_tha_world_radio_edit.mp3",
+      "page": "https://archive.org/details/nt057",
+      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
     },
     {
-      "title": "おそろしくてほろびる",
-      "artist": "Yukiga Futte Uresii",
-      "url": "https://archive.org/download/Osorosikutehorobiru/01_Osorosikutehorobiru.mp3",
-      "page": "https://archive.org/details/Osorosikutehorobiru",
-      "license": "https://creativecommons.org/licenses/by/4.0/"
+      "title": "(P091) 3cloneB - Admira EP",
+      "artist": "3cloneB",
+      "url": "https://archive.org/download/p091-3cloneb-admira-ep/%28P091%29%2001.%203cloneB%20-%20Admira_Admira%20EP.mp3",
+      "page": "https://archive.org/details/p091-3cloneb-admira-ep",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "Roman Olegov - After Calamity (PCR011)",
-      "artist": "Roman Olegov",
-      "url": "https://archive.org/download/PCR011/pcr011-01_01_roman_olegov_deep_ocean_of_dust.mp3",
-      "page": "https://archive.org/details/PCR011",
+      "title": "Magic Oranges from Spain! [AS78]",
+      "artist": "Spanish Propaganda Ministry",
+      "url": "https://archive.org/download/orangesofspain/01.%20They%20Are%20the%20Daughters%20of%20the%20Sun.mp3",
+      "page": "https://archive.org/details/orangesofspain",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    {
+      "title": "The Vanhalia Project / The Sundog Project - The Vanhalia Project / The Sundog Project [enrmp205]",
+      "artist": "The Vanhalia Project / The Sundog Project",
+      "url": "https://archive.org/download/enrmp205/01_the_vanhalia_project_-_first_breath_of_a_new_sun.mp3",
+      "page": "https://archive.org/details/enrmp205",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "obsidian flux",
+      "artist": "",
+      "url": "https://archive.org/download/algoEP008/1_algo-magma.mp3",
+      "page": "https://archive.org/details/algoEP008",
       "license": "Creative Commons"
+    },
+    {
+      "title": "the soulseek period : 002 : kilowatts - b sprouts first fight : [june 2003]",
+      "artist": "",
+      "url": "https://archive.org/download/the_slsk_002/01_b_e_n_vs_bass_-_green_planet.mp3",
+      "page": "https://archive.org/details/the_slsk_002",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Here",
+      "artist": "The Man From Viersen",
+      "url": "https://archive.org/download/here_20250825/01%20-%20The%20Color%20Of%20Distance.mp3",
+      "page": "https://archive.org/details/here_20250825",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "Aqua Regia - Pump Up The L.E.D.s to Red, Take Some Drugs & Shake Your Head [ird009]",
+      "artist": "",
+      "url": "https://archive.org/download/ird009/ird009-aqua-regia-pump-up-the-leds-to-red-take-some-drugs-and-shake-your-head.mp3",
+      "page": "https://archive.org/details/ird009",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "[SAR_015].Hope - When Competition has Begin",
+      "artist": "Hope",
+      "url": "https://archive.org/download/sar_015.hope-WhenCompetitionHasBegin/SAR015/01.Intro-whenCompetitionHasBegin.mp3",
+      "page": "https://archive.org/details/sar_015.hope-WhenCompetitionHasBegin",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/us/"
+    },
+    {
+      "title": "[ar083] OWL & MACK",
+      "artist": "BORIS HAUF | In Memory of Jason Molina",
+      "url": "https://archive.org/download/ar083BorisHauf/01.InMemoryOfJasonMolina.mp3",
+      "page": "https://archive.org/details/ar083BorisHauf",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Moving The Ocean",
+      "artist": "Blastculture",
+      "url": "https://archive.org/download/tou326/tou326_blastculture_moving_the_ocean.mp3",
+      "page": "https://archive.org/details/tou326",
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
     }
   ]
 }
