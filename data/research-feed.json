@@ -1,58 +1,71 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-05T07:41:16.223177+00:00",
-  "attempted_at": "2026-10-05T07:41:16.223177+00:00",
+  "updated": "2026-10-06T08:08:16.315067+00:00",
+  "attempted_at": "2026-10-06T08:08:16.315067+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-10-05T07:41:16.223177+00:00",
+      "last_success": "2026-10-06T08:08:16.315067+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-10-05T07:41:16.223177+00:00",
+      "last_success": "2026-10-06T08:08:16.315067+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-10-05T07:41:16.223177+00:00",
+      "last_success": "2026-10-06T08:08:16.315067+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-10-05T07:41:16.223177+00:00",
+      "last_success": "2026-10-06T08:08:16.315067+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-10-05T07:41:16.223177+00:00",
+      "last_success": "2026-10-06T08:08:16.315067+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-10-05T07:41:16.223177+00:00",
+      "last_success": "2026-10-06T08:08:16.315067+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-10-05T07:41:16.223177+00:00",
+      "last_success": "2026-10-06T08:08:16.315067+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-10-05T07:41:16.223177+00:00",
+      "last_success": "2026-10-06T08:08:16.315067+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.1002/rob.70355",
+      "title": "Robotic Pose Estimation Enhancement via Landmark Features‐Based LiDAR Odometry for Autonomous Systems",
+      "journal_id": "jfr",
+      "published": "2026-10-06",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70355",
+      "source": "crossref"
+    },
     {
       "id": "10.3389/frobt.2026.1920106",
       "title": "Heterogeneity-aware risk-adaptive trajectory planning for UAVs in air-ground multi-agent interaction",
@@ -75,6 +88,30 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1038/s41598-026-70368-x",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70354",
+      "title": "Multi‐AUV Cooperative SLAM With Depth and Intensity Dual‐Channel Joint Registration",
+      "journal_id": "jfr",
+      "published": "2026-10-05",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70354",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18193406",
+      "title": "Quality Control of GNSS/Leveling-Derived Geoid Heights and Implications for LiDAR-Based Coastal Low-Elevation Classification",
+      "journal_id": "remote-sensing",
+      "published": "2026-10-04",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18193406",
       "source": "crossref"
     },
     {
@@ -1464,18 +1501,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.3390/rs18162814",
-      "source": "crossref"
-    },
-    {
-      "id": "10.3390/rs18162804",
-      "title": "Geo-Consistent Centralized Multi-UAV Gaussian SLAM for Incremental Orthophoto Generation",
-      "journal_id": "remote-sensing",
-      "published": "2026-08-19",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18162804",
       "source": "crossref"
     },
     {
