@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-07T01:35:19+00:00",
-  "updated": "2026-10-07T01:35:19+00:00",
+  "generated_at": "2026-10-07T08:43:52+00:00",
+  "updated": "2026-10-07T08:43:52+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-05T00:00:00+08:00",
-    "end": "2026-10-07T01:35:19+00:00",
-    "total": 305,
+    "end": "2026-10-07T08:43:52+00:00",
+    "total": 332,
     "items": [
       {
         "title": "Trump chooses top spy boss to run new AI taskforce",
@@ -23,6 +23,22 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+        "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+        "date": "2026-10-06T19:21:14+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发",
+          "科技"
+        ],
+        "sources": [
+          "Ars Technica",
+          "Hacker News"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
@@ -137,20 +153,6 @@
         ],
         "source_count": 1,
         "observed_days": 2
-      },
-      {
-        "title": "不er，咋陶哲轩也成AI减速派了？？",
-        "link": "https://www.qbitai.com/2026/10/501736.html",
-        "date": "2026-10-06T07:59:17+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "AI"
-        ],
-        "sources": [
-          "量子位"
-        ],
-        "source_count": 1,
-        "observed_days": 2
       }
     ],
     "by_category": {
@@ -240,6 +242,34 @@
           "observed_days": 2
         },
         {
+          "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+          "link": "https://www.qbitai.com/2026/10/501791.html",
+          "date": "2026-10-07T06:39:36+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+          "link": "https://www.qbitai.com/2026/10/501749.html",
+          "date": "2026-10-07T01:05:13+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
           "link": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
           "date": "2026-10-06T16:40:36+00:00",
@@ -266,37 +296,25 @@
           ],
           "source_count": 1,
           "observed_days": 1
-        },
-        {
-          "title": "刚刚，诺贝尔物理奖一人独揽！",
-          "link": "https://www.qbitai.com/2026/10/501746.html",
-          "date": "2026-10-06T10:44:58+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "2026 Climate Tech Companies to Watch",
-          "link": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
-          "date": "2026-10-06T10:35:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "开发": [
+        {
+          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+          "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+          "date": "2026-10-06T19:21:14+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
         {
           "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
           "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
@@ -398,9 +416,9 @@
           "observed_days": 2
         },
         {
-          "title": "[问与答] youtube 上有没有颜值比较高的旅游博主推荐？",
-          "link": "https://www.v2ex.com/t/1246722",
-          "date": "2026-10-07T01:32:39+00:00",
+          "title": "[程序员] 面向企业客户的 SaaS 系统",
+          "link": "https://www.v2ex.com/t/1246791",
+          "date": "2026-10-07T08:35:38+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -412,23 +430,9 @@
           "observed_days": 1
         },
         {
-          "title": "[问与答] 学习 AI 量化，做股票分析的朋友看一下，太可怕了",
-          "link": "https://www.v2ex.com/t/1246721",
-          "date": "2026-10-07T01:25:07+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[开源软件] 10 MB 的 Postman 替代品，启动不到 1 秒，欢迎小伙伴们试用",
-          "link": "https://www.v2ex.com/t/1246720",
-          "date": "2026-10-07T01:23:11+00:00",
+          "title": "[分享创造] 做了个 BotBus：手机和手表管理 Codex、Claude Code、Hermes、OpenCode、DeepSeek Harness 等 Agent",
+          "link": "https://www.v2ex.com/t/1246789",
+          "date": "2026-10-07T08:30:13+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -441,6 +445,22 @@
         }
       ],
       "科技": [
+        {
+          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+          "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+          "date": "2026-10-06T19:21:14+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
         {
           "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
           "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
@@ -568,20 +588,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "太阳系可能没有以前认为的能存在千亿年",
-          "link": "https://www.solidot.org/story?sid=85535",
-          "date": "2026-10-04T17:14:32+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "科研": [
@@ -656,6 +662,34 @@
           "observed_days": 2
         },
         {
+          "title": "A new way to fight gum disease without wiping out good bacteria",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261005012230.htm",
+          "date": "2026-10-07T03:55:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Humans may not be as hardwired for violence as we thought",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261005071529.htm",
+          "date": "2026-10-07T03:22:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
           "link": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
           "date": "2026-10-06T13:03:47+00:00",
@@ -693,34 +727,6 @@
           ],
           "sources": [
             "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Scientists take a radiometer for a spin in a hot-air balloon",
-          "link": "https://www.nature.com/articles/d41586-026-02973-9",
-          "date": "2026-10-06T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "How digital breakdowns affect supply chains — and endanger the global economy",
-          "link": "https://www.nature.com/articles/d41586-026-03105-z",
-          "date": "2026-10-06T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -856,9 +862,9 @@
           "observed_days": 2
         },
         {
-          "title": "找工作？面試中那個你不必回答的問題",
-          "link": "https://www.bbc.com/zhongwen/articles/cqglw400kdx4o/trad",
-          "date": "2026-10-07T00:26:11+00:00",
+          "title": "在俄羅斯無人機轟炸中，烏克蘭鐵路冒著恐懼匍匐前進",
+          "link": "https://www.bbc.com/zhongwen/articles/cqdjv34xrmd3o/trad",
+          "date": "2026-10-07T08:24:05+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -958,9 +964,9 @@
           "observed_days": 2
         },
         {
-          "title": "Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next",
-          "link": "https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html",
-          "date": "2026-10-07T00:49:34+00:00",
+          "title": "Chevron CEO warns against 'unwise' diesel export ban, saying it could make things worse",
+          "link": "https://www.cnbc.com/2026/10/07/chevron-ceo-diesel-export-ban-trump-supply.html",
+          "date": "2026-10-07T08:42:29+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -972,43 +978,43 @@
           "observed_days": 1
         },
         {
-          "title": "From 'woke' ridicule to real car - new electric Jaguar unveiled",
-          "link": "https://www.bbc.co.uk/news/articles/c6je50ydld31o",
-          "date": "2026-10-07T00:01:38+00:00",
+          "title": "Treasury yields rise ahead of closely-watched 10-year auction and FOMC minutes",
+          "link": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
+          "date": "2026-10-07T08:31:25+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
           ],
           "sources": [
-            "BBC Business"
+            "CNBC"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Froyo's made a comeback. But at £12 a tub will it last?",
-          "link": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o",
-          "date": "2026-10-06T23:01:31+00:00",
+          "title": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
+          "link": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
+          "date": "2026-10-07T05:29:30+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
           ],
           "sources": [
-            "BBC Business"
+            "CNBC"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
-          "link": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo",
-          "date": "2026-10-06T23:01:22+00:00",
+          "title": "Trump set to talk to Russia's Putin 'very soon' about plague-related death in Siberia",
+          "link": "https://www.cnbc.com/2026/10/07/trump-putin-russian-plague-death-cdc-pneumonic-.html",
+          "date": "2026-10-07T04:12:27+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
           ],
           "sources": [
-            "BBC Business"
+            "CNBC"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -1018,8 +1024,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-07T01:35:19+00:00",
-    "total": 755,
+    "end": "2026-10-07T08:43:52+00:00",
+    "total": 782,
     "items": [
       {
         "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
@@ -1145,9 +1151,9 @@
         "observed_days": 2
       },
       {
-        "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
-        "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
-        "date": "2026-10-06T17:33:44+00:00",
+        "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+        "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+        "date": "2026-10-06T19:21:14+00:00",
         "date_is_observed": false,
         "categories": [
           "开发",
@@ -1161,17 +1167,17 @@
         "observed_days": 1
       },
       {
-        "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
-        "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
-        "date": "2026-10-01T17:27:37+00:00",
+        "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
+        "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+        "date": "2026-10-06T17:33:44+00:00",
         "date_is_observed": false,
         "categories": [
-          "综合",
-          "财经"
+          "开发",
+          "科技"
         ],
         "sources": [
-          "BBC Business",
-          "BBC World"
+          "Ars Technica",
+          "Hacker News"
         ],
         "source_count": 2,
         "observed_days": 1
@@ -1397,6 +1403,22 @@
           "observed_days": 2
         },
         {
+          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+          "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+          "date": "2026-10-06T19:21:14+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
           "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
           "date": "2026-10-06T17:33:44+00:00",
@@ -1456,23 +1478,25 @@
           ],
           "source_count": 1,
           "observed_days": 6
-        },
-        {
-          "title": "AI is changing developer work. Here are three skills to strengthen.",
-          "link": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
-          "date": "2026-10-02T15:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "GitHub Blog"
-          ],
-          "source_count": 1,
-          "observed_days": 5
         }
       ],
       "科技": [
+        {
+          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+          "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+          "date": "2026-10-06T19:21:14+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
         {
           "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
           "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
@@ -1599,20 +1623,6 @@
           ],
           "sources": [
             "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 4
-        },
-        {
-          "title": "PS5 模拟器的开发取得突破",
-          "link": "https://www.solidot.org/story?sid=85524",
-          "date": "2026-10-01T16:11:32+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
           ],
           "source_count": 1,
           "observed_days": 4
@@ -1826,6 +1836,20 @@
           "observed_days": 1
         },
         {
+          "title": "美國女囚死刑執行失敗：注射兩劑藥物仍存活，接下來將如何發展？",
+          "link": "https://www.bbc.com/zhongwen/articles/c6x2z2dqv080o/trad",
+          "date": "2026-10-02T07:14:39+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 4
+        },
+        {
           "title": "康乃爾大學輪姦案調查：我們目前知道多少？",
           "link": "https://www.bbc.com/zhongwen/articles/ck0j3j415x0go/trad",
           "date": "2026-10-02T02:31:44+00:00",
@@ -1857,20 +1881,6 @@
           "title": "「救了174人的生命」：杜拜航空劫機案，遭刺傷的印度機師是誰？",
           "link": "https://www.bbc.com/zhongwen/articles/c61585j4vlkgo/trad",
           "date": "2026-10-02T08:24:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "美國女囚死刑執行失敗：注射兩劑藥物仍存活，接下來將如何發展？",
-          "link": "https://www.bbc.com/zhongwen/articles/c6x2z2dqv080o/trad",
-          "date": "2026-10-02T07:14:39+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
