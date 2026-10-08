@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T22:01:07+00:00",
+  "updated": "2026-10-08T01:58:52+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -7,14 +7,19 @@
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
         {
+          "title": "美國中期選舉是甚麼？這是一份簡易指南",
+          "link": "https://www.bbc.com/zhongwen/articles/cq5ynx00d4leo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-08T01:00:02+00:00"
+        },
+        {
+          "title": "派拉蒙合併華納兄弟：可能以四種方式影響你的生活",
+          "link": "https://www.bbc.com/zhongwen/articles/cwvgdlgq3110o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-08T01:10:42+00:00"
+        },
+        {
           "title": "到底是鼠疫嗎？俄羅斯實驗室人員死因說法不斷變化",
           "link": "https://www.bbc.com/zhongwen/articles/c8wy910lv7q6o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-07T10:24:31+00:00"
-        },
-        {
-          "title": "俄羅斯鼠疫：死者名叫希皮洛娃，已有200接觸者被觀察",
-          "link": "https://www.bbc.com/zhongwen/articles/c6vg90zwkezlo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-07T07:04:23+00:00"
         },
         {
           "title": "美國女囚死刑執行失敗：注射兩劑藥物仍存活，接下來將如何發展？",
@@ -25,11 +30,6 @@
           "title": "喝多醉才算醉？康奈爾輪姦案指控揭「同意法」漏洞爭議",
           "link": "https://www.bbc.com/zhongwen/articles/cvwy7g2j0pk8o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-07T09:17:46+00:00"
-        },
-        {
-          "title": "在俄羅斯無人機轟炸中，烏克蘭鐵路冒著恐懼匍匐前進",
-          "link": "https://www.bbc.com/zhongwen/articles/cqdjv34xrmd3o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-07T08:24:05+00:00"
         }
       ]
     },
@@ -41,7 +41,7 @@
         {
           "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
           "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-07T21:40:24+00:00"
+          "date": "2026-10-08T00:09:17+00:00"
         },
         {
           "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
@@ -71,29 +71,29 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
+          "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
+          "link": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-07T23:00:55+00:00"
+        },
+        {
+          "title": "Hedgehog among four chosen animals to feature on new banknotes",
+          "link": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-07T23:01:30+00:00"
+        },
+        {
+          "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
+          "link": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-07T23:05:17+00:00"
+        },
+        {
+          "title": "AI chip boom pushes Samsung profits to record $80bn",
+          "link": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-08T01:31:56+00:00"
+        },
+        {
           "title": "Boots sold in £7bn deal to Canadian billionaire family",
           "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-07T17:18:30+00:00"
-        },
-        {
-          "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
-          "link": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-07T20:34:17+00:00"
-        },
-        {
-          "title": "Ex-bankers jailed for rigging rates have convictions quashed",
-          "link": "https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-07T13:52:13+00:00"
-        },
-        {
-          "title": "Royal Mail plans to cut 2,500 jobs",
-          "link": "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-07T12:25:46+00:00"
-        },
-        {
-          "title": "Jaguar unveils new electric car after 'woke' ridicule",
-          "link": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-07T07:57:10+00:00"
         }
       ]
     },
@@ -108,24 +108,24 @@
           "date": "2026-10-07T18:42:36+00:00"
         },
         {
-          "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
-          "link": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
-          "date": "2026-10-07T20:26:13+00:00"
+          "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
+          "link": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
+          "date": "2026-10-08T00:51:23+00:00"
         },
         {
-          "title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
-          "link": "https://www.cnbc.com/2026/10/07/supertanker-from-us-to-china-chartered-for-76-million-source.html",
-          "date": "2026-10-07T20:33:34+00:00"
+          "title": "Oil gains as Middle East hostilities stoke supply worries",
+          "link": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
+          "date": "2026-10-08T01:46:56+00:00"
         },
         {
-          "title": "Trump awarding medals to Musk, Dell, Nadella and other tech execs at science summit",
-          "link": "https://www.cnbc.com/2026/10/07/trump-awarding-medals-to-musk-dell-nadella-at-science-summit.html",
-          "date": "2026-10-07T21:32:55+00:00"
+          "title": "Trump doesn't think Russia plague incident is bioweapon, plans Putin call Wednesday",
+          "link": "https://www.cnbc.com/2026/10/07/trump-russia-plague-bioweapon-putin.html",
+          "date": "2026-10-07T21:20:40+00:00"
         },
         {
-          "title": "Lululemon poaches Athleta CEO as new chief product officer",
-          "link": "https://www.cnbc.com/2026/10/07/lululemon-athleta-ceo-maggie-gauger-chief-product-officer.html",
-          "date": "2026-10-07T21:47:06+00:00"
+          "title": "Anthropic will be 'most ridiculous IPO' of year, analyst says",
+          "link": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+          "date": "2026-10-07T22:29:41+00:00"
         }
       ]
     },
@@ -134,6 +134,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "派早报：微软发布 Windows 相关新品、Google AI 新闻两则等",
+          "link": "https://sspai.com/post/115455",
+          "date": "2026-10-08T00:16:57+00:00"
+        },
         {
           "title": "罗马：永恒之城，永恒于世",
           "link": "https://sspai.com/post/114845",
@@ -153,11 +158,6 @@
           "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
           "link": "https://sspai.com/post/115308",
           "date": "2026-10-04T07:58:39+00:00"
-        },
-        {
-          "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
-          "link": "https://sspai.com/post/114922",
-          "date": "2026-10-03T07:00:00+00:00"
         }
       ]
     },
@@ -166,6 +166,11 @@
       "category": "科技",
       "url": "https://www.ifanr.com/feed",
       "items": [
+        {
+          "title": "早报｜苹果一大波新品曝光，最快下周发布/全球纯汽油车份额首次跌破50%/2599 美元起，Surface Laptop Ultra发布",
+          "link": "https://www.ifanr.com/1683053?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-10-08T00:14:13+00:00"
+        },
         {
           "title": "DLSS 5 正式版体验：十年没进步的游戏画面，英伟达怎么让它以假乱真？",
           "link": "https://www.ifanr.com/1682974?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -185,11 +190,6 @@
           "title": "OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相",
           "link": "https://www.ifanr.com/1682922?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-10-04T07:08:18+00:00"
-        },
-        {
-          "title": "AI 视频榜全球第二，藏着一家新影视公司的野心",
-          "link": "https://www.ifanr.com/1682888?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-10-03T07:00:20+00:00"
         }
       ]
     },
@@ -231,6 +231,11 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
+          "link": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
+          "date": "2026-10-07T19:44:31+00:00"
+        },
+        {
           "title": "Teenage Engineering’s CEO says it’ll stop making synths",
           "link": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
           "date": "2026-10-07T21:19:54+00:00"
@@ -249,11 +254,6 @@
           "title": "Roku’s OLED TVs are up to $400 off during Prime Day, starting at $700",
           "link": "https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale",
           "date": "2026-10-07T19:27:39+00:00"
-        },
-        {
-          "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-          "date": "2026-10-07T19:10:42+00:00"
         }
       ]
     },
@@ -262,6 +262,11 @@
       "category": "科技",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+          "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+          "date": "2026-10-07T21:56:42+00:00"
+        },
         {
           "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
           "link": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/",
@@ -281,11 +286,6 @@
           "title": "Pediatricians renew call to ban raw milk as anti-science rhetoric reigns",
           "link": "https://arstechnica.com/health/2026/10/pediatricians-renew-call-to-ban-raw-milk-as-anti-science-rhetoric-reigns/",
           "date": "2026-10-07T18:24:39+00:00"
-        },
-        {
-          "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
-          "link": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
-          "date": "2026-10-07T17:57:39+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Margaret Hamilton, who led software development for Apollo program, dies at 90",
+          "title": "Rust Port of TypeScript (Tsc)",
+          "link": "https://github.com/pingdotgg/ts-rust",
+          "date": "2026-10-08T00:46:00+00:00"
+        },
+        {
+          "title": "Margaret Hamilton has died",
           "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
           "date": "2026-10-07T21:16:18+00:00"
         },
         {
-          "title": "Despite what Watson said, Rosalind Franklin understood structure of DNA first",
-          "link": "https://link.springer.com/article/10.1007/s10739-026-09866-7",
-          "date": "2026-10-07T19:56:16+00:00"
+          "title": "'Jonathan' is the oldest land animal on Earth",
+          "link": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+          "date": "2026-10-07T20:01:37+00:00"
         },
         {
-          "title": "Show HN: gtlds.fyi – All the proposed new gTLDs",
-          "link": "https://gtlds.fyi/",
-          "date": "2026-10-07T19:53:17+00:00"
+          "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+          "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+          "date": "2026-10-07T18:49:40+00:00"
         },
         {
-          "title": "The Mathocalypse",
-          "link": "https://scottaaronson.blog/?p=10169",
-          "date": "2026-10-07T19:33:40+00:00"
-        },
-        {
-          "title": "ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains",
-          "link": "https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en",
-          "date": "2026-10-07T19:01:45+00:00"
+          "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+          "link": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+          "date": "2026-10-07T18:43:18+00:00"
         }
       ]
     },
@@ -337,19 +337,19 @@
           "date": "2026-10-07T19:35:08+00:00"
         },
         {
+          "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
+          "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+          "date": "2026-10-07T21:38:09+00:00"
+        },
+        {
           "title": "C for Rust Programmers",
           "link": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
           "date": "2026-10-07T14:30:05+00:00"
         },
         {
-          "title": "Creating distro build tooling for a small community",
-          "link": "https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html",
-          "date": "2026-10-07T16:23:03+00:00"
-        },
-        {
-          "title": "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
-          "link": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/",
-          "date": "2026-10-06T22:26:46+00:00"
+          "title": "Calling a function in C without naming it",
+          "link": "https://wiro.world/posts/calling-c-func-without-naming-it/",
+          "date": "2026-10-07T18:15:02+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享创造] Tessoa 跨平台文件管理器开启早鸟销售，分享一下内测反馈和后续计划",
-          "link": "https://www.v2ex.com/t/1246875#reply0",
-          "date": "2026-10-07T21:38:55+00:00"
+          "title": "[Apple] Icloud 求个双人车",
+          "link": "https://www.v2ex.com/t/1246921#reply0",
+          "date": "2026-10-08T01:57:40+00:00"
         },
         {
-          "title": "[分享创造] 精酿啤酒模拟经营小游戏",
-          "link": "https://www.v2ex.com/t/1246874#reply0",
-          "date": "2026-10-07T21:26:46+00:00"
+          "title": "[Apple] 18PM 刚买完 AC 第二天就碎屏了",
+          "link": "https://www.v2ex.com/t/1246920#reply0",
+          "date": "2026-10-08T01:56:32+00:00"
         },
         {
-          "title": "[程序员] ZCode 增强工具：功能增强、样式自定义、多种插件管理",
-          "link": "https://www.v2ex.com/t/1246873#reply2",
-          "date": "2026-10-07T19:48:26+00:00"
+          "title": "[分享创造] 假期结束了，第一天只想摸鱼",
+          "link": "https://www.v2ex.com/t/1246919#reply0",
+          "date": "2026-10-08T01:55:06+00:00"
         },
         {
-          "title": "[Claude] Claude Code 扩大了其初创公司支持计划！",
-          "link": "https://www.v2ex.com/t/1246872#reply0",
-          "date": "2026-10-07T19:43:37+00:00"
+          "title": "[职场话题] 裸辞三个月：貌似要结束地球 online 了",
+          "link": "https://www.v2ex.com/t/1246918#reply1",
+          "date": "2026-10-08T01:53:35+00:00"
         },
         {
-          "title": "[程序员] zcode-plugins：不识图的模型也能看图、命令输出与对话历史双级压缩、AI 代码评审",
-          "link": "https://www.v2ex.com/t/1246871#reply1",
-          "date": "2026-10-07T19:12:10+00:00"
+          "title": "[VPS] 求购 IEPL 广港",
+          "link": "https://www.v2ex.com/t/1246917#reply1",
+          "date": "2026-10-08T01:50:58+00:00"
         }
       ]
     },
@@ -541,6 +541,16 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
+          "title": "GPT-6今起免费用！拒答变少，话变多了",
+          "link": "https://www.qbitai.com/2026/10/501834.html",
+          "date": "2026-10-08T01:07:19+00:00"
+        },
+        {
+          "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+          "link": "https://www.qbitai.com/2026/10/501832.html",
+          "date": "2026-10-08T01:04:00+00:00"
+        },
+        {
           "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
           "link": "https://www.qbitai.com/2026/10/501825.html",
           "date": "2026-10-07T14:10:33+00:00"
@@ -554,16 +564,6 @@
           "title": "晕…这年头还有说人话的AI不",
           "link": "https://www.qbitai.com/2026/10/501796.html",
           "date": "2026-10-07T08:41:13+00:00"
-        },
-        {
-          "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
-          "link": "https://www.qbitai.com/2026/10/501791.html",
-          "date": "2026-10-07T06:39:36+00:00"
-        },
-        {
-          "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
-          "link": "https://www.qbitai.com/2026/10/501749.html",
-          "date": "2026-10-07T01:05:13+00:00"
         }
       ]
     },
@@ -596,6 +596,38 @@
           "title": "Here’s how our climate team picked 10 promising companies to watch",
           "link": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
           "date": "2026-10-06T10:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Nature",
+      "category": "科研",
+      "url": "https://www.nature.com/nature.rss",
+      "items": [
+        {
+          "title": "A guide to Nature Index tables",
+          "link": "https://www.nature.com/articles/d41586-026-02999-z",
+          "date": "2026-10-07T00:00:00+00:00"
+        },
+        {
+          "title": "Nobel Prizes 2026: brain switches, ‘ghost’ particle hunter, and 'the chemistry of life'",
+          "link": "https://www.nature.com/articles/d41586-026-03208-7",
+          "date": "2026-10-07T00:00:00+00:00"
+        },
+        {
+          "title": "NASA releases trove of Moon data from historic Artemis II flight",
+          "link": "https://www.nature.com/articles/d41586-026-03197-7",
+          "date": "2026-10-07T00:00:00+00:00"
+        },
+        {
+          "title": "How we ditched presentations and embraced silence in our lab meetings",
+          "link": "https://www.nature.com/articles/d41586-026-02836-3",
+          "date": "2026-10-07T00:00:00+00:00"
+        },
+        {
+          "title": "Blend",
+          "link": "https://www.nature.com/articles/d41586-026-02864-z",
+          "date": "2026-10-07T00:00:00+00:00"
         }
       ]
     },
@@ -633,7 +665,6 @@
     }
   ],
   "failed": [
-    "36 氪",
-    "Nature"
+    "36 氪"
   ]
 }

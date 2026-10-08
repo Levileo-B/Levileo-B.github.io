@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-07T22:01:07+00:00",
-  "updated": "2026-10-07T22:01:07+00:00",
+  "generated_at": "2026-10-08T01:58:52+00:00",
+  "updated": "2026-10-08T01:58:52+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-05T00:00:00+08:00",
-    "end": "2026-10-07T22:01:07+00:00",
-    "total": 415,
+    "end": "2026-10-08T01:58:52+00:00",
+    "total": 446,
     "items": [
       {
         "title": "Trump chooses top spy boss to run new AI taskforce",
@@ -23,6 +23,21 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
+        "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+        "date": "2026-10-07T21:16:18+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -139,20 +154,6 @@
         ],
         "source_count": 1,
         "observed_days": 3
-      },
-      {
-        "title": "在俄羅斯無人機轟炸中，烏克蘭鐵路冒著恐懼匍匐前進",
-        "link": "https://www.bbc.com/zhongwen/articles/cqdjv34xrmd3o/trad",
-        "date": "2026-10-07T08:24:05+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC 中文"
-        ],
-        "source_count": 1,
-        "observed_days": 2
       }
     ],
     "by_category": {
@@ -300,6 +301,21 @@
       ],
       "开发": [
         {
+          "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
+          "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+          "date": "2026-10-07T21:16:18+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
           "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
           "date": "2026-10-06T19:21:14+00:00",
@@ -419,20 +435,6 @@
           "title": "Async Rust: Where does the scheduler live?",
           "link": "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
           "date": "2026-10-05T18:31:29+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Gleam doesn't compile to Erlang source anymore",
-          "link": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-          "date": "2026-10-05T17:29:17+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -978,9 +980,9 @@
           "observed_days": 2
         },
         {
-          "title": "Lululemon poaches Athleta CEO as new chief product officer",
-          "link": "https://www.cnbc.com/2026/10/07/lululemon-athleta-ceo-maggie-gauger-chief-product-officer.html",
-          "date": "2026-10-07T21:47:06+00:00",
+          "title": "Oil gains as Middle East hostilities stoke supply worries",
+          "link": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
+          "date": "2026-10-08T01:46:56+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -992,23 +994,9 @@
           "observed_days": 1
         },
         {
-          "title": "Trump awarding medals to Musk, Dell, Nadella and other tech execs at science summit",
-          "link": "https://www.cnbc.com/2026/10/07/trump-awarding-medals-to-musk-dell-nadella-at-science-summit.html",
-          "date": "2026-10-07T21:32:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
-          "link": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o",
-          "date": "2026-10-07T20:34:17+00:00",
+          "title": "AI chip boom pushes Samsung profits to record $80bn",
+          "link": "https://www.bbc.co.uk/news/articles/c687z8127302o",
+          "date": "2026-10-08T01:31:56+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1018,14 +1006,28 @@
           ],
           "source_count": 1,
           "observed_days": 1
+        },
+        {
+          "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
+          "link": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
+          "date": "2026-10-08T00:51:23+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
         }
       ]
     }
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-07T22:01:07+00:00",
-    "total": 865,
+    "end": "2026-10-08T01:58:52+00:00",
+    "total": 896,
     "items": [
       {
         "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
@@ -1151,25 +1153,24 @@
         "observed_days": 2
       },
       {
-        "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-        "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-        "date": "2026-10-06T19:21:14+00:00",
+        "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
+        "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+        "date": "2026-10-07T21:16:18+00:00",
         "date_is_observed": false,
         "categories": [
-          "开发",
-          "科技"
+          "开发"
         ],
         "sources": [
-          "Ars Technica",
-          "Hacker News"
+          "Hacker News",
+          "Lobsters"
         ],
         "source_count": 2,
         "observed_days": 1
       },
       {
-        "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
-        "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
-        "date": "2026-10-06T17:33:44+00:00",
+        "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+        "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+        "date": "2026-10-06T19:21:14+00:00",
         "date_is_observed": false,
         "categories": [
           "开发",
@@ -1403,6 +1404,21 @@
           "observed_days": 2
         },
         {
+          "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
+          "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+          "date": "2026-10-07T21:16:18+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
           "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
           "date": "2026-10-06T19:21:14+00:00",
@@ -1464,20 +1480,6 @@
           ],
           "source_count": 2,
           "observed_days": 1
-        },
-        {
-          "title": "10 technical talks I’m excited about at GitHub Universe 2026",
-          "link": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
-          "date": "2026-10-01T15:07:16+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "GitHub Blog"
-          ],
-          "source_count": 1,
-          "observed_days": 7
         }
       ],
       "科技": [
