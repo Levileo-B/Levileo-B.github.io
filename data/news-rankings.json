@@ -1,13 +1,28 @@
 {
-  "generated_at": "2026-10-08T09:02:25+00:00",
-  "updated": "2026-10-08T09:02:25+00:00",
+  "generated_at": "2026-10-08T16:31:58+00:00",
+  "updated": "2026-10-08T16:31:58+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-05T00:00:00+08:00",
-    "end": "2026-10-08T09:02:25+00:00",
-    "total": 481,
+    "end": "2026-10-08T16:31:58+00:00",
+    "total": 534,
     "items": [
+      {
+        "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
+        "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+        "date": "2026-10-07T21:16:18+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
       {
         "title": "Trump chooses top spy boss to run new AI taskforce",
         "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo",
@@ -23,21 +38,6 @@
         ],
         "source_count": 2,
         "observed_days": 2
-      },
-      {
-        "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
-        "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-        "date": "2026-10-07T21:16:18+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 1
       },
       {
         "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -72,6 +72,34 @@
         "observed_days": 1
       },
       {
+        "title": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
+        "link": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
+        "date": "2026-10-04T17:38:25+00:00",
+        "date_is_observed": true,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "美团技术团队"
+        ],
+        "source_count": 1,
+        "observed_days": 5
+      },
+      {
+        "title": "ReviewBench: An open benchmark for AI code review",
+        "link": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+        "date": "2026-10-05T15:59:40+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "GitHub Blog"
+        ],
+        "source_count": 1,
+        "observed_days": 4
+      },
+      {
         "title": "十个案例助你轻松上手 iOS 27 通知自动化",
         "link": "https://sspai.com/post/114536",
         "date": "2026-10-05T02:59:24+00:00",
@@ -86,23 +114,9 @@
         "observed_days": 4
       },
       {
-        "title": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
-        "link": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
-        "date": "2026-10-04T17:38:25+00:00",
-        "date_is_observed": true,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "美团技术团队"
-        ],
-        "source_count": 1,
-        "observed_days": 4
-      },
-      {
-        "title": "ReviewBench: An open benchmark for AI code review",
-        "link": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
-        "date": "2026-10-05T15:59:40+00:00",
+        "title": "Building Git infrastructure for agent-scale development",
+        "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+        "date": "2026-10-06T20:57:56+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -140,20 +154,6 @@
         ],
         "source_count": 1,
         "observed_days": 3
-      },
-      {
-        "title": "刚刚，Hinton发了首篇RSI论文",
-        "link": "https://www.qbitai.com/2026/10/501705.html",
-        "date": "2026-10-05T04:42:52+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "AI"
-        ],
-        "sources": [
-          "量子位"
-        ],
-        "source_count": 1,
-        "observed_days": 3
       }
     ],
     "by_category": {
@@ -171,6 +171,34 @@
           ],
           "source_count": 1,
           "observed_days": 3
+        },
+        {
+          "title": "Building a safer path to autonomous industrial AI",
+          "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+          "date": "2026-10-08T08:17:32+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+          "link": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+          "date": "2026-10-07T12:10:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 2
         },
         {
           "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
@@ -269,34 +297,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
-          "link": "https://www.qbitai.com/2026/10/501726.html",
-          "date": "2026-10-06T06:45:40+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "刚刚，诺贝尔奖颁给光遗传学！",
-          "link": "https://www.qbitai.com/2026/10/501720.html",
-          "date": "2026-10-05T10:37:01+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "开发": [
@@ -313,7 +313,7 @@
             "Lobsters"
           ],
           "source_count": 2,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
           "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -359,7 +359,7 @@
             "美团技术团队"
           ],
           "source_count": 1,
-          "observed_days": 4
+          "observed_days": 5
         },
         {
           "title": "ReviewBench: An open benchmark for AI code review",
@@ -373,21 +373,7 @@
             "GitHub Blog"
           ],
           "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
-          "link": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/",
-          "date": "2026-10-06T22:26:46+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
+          "observed_days": 4
         },
         {
           "title": "Building Git infrastructure for agent-scale development",
@@ -401,12 +387,12 @@
             "GitHub Blog"
           ],
           "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
-          "title": "That Time I Worked With a Laptop Thief (2025)",
-          "link": "https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/",
-          "date": "2026-10-06T20:16:33+00:00",
+          "title": "Software developers are not okay",
+          "link": "https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/",
+          "date": "2026-10-07T19:35:08+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -418,9 +404,23 @@
           "observed_days": 2
         },
         {
-          "title": "Email Self Hosters - what are you using?",
-          "link": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
-          "date": "2026-10-06T08:09:53+00:00",
+          "title": "Secret protection must scale with software",
+          "link": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+          "date": "2026-10-07T17:45:34+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "GitHub Blog"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Anti-Patterns in Software Blogging",
+          "link": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+          "date": "2026-10-07T13:09:33+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -432,9 +432,9 @@
           "observed_days": 2
         },
         {
-          "title": "Async Rust: Where does the scheduler live?",
-          "link": "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
-          "date": "2026-10-05T18:31:29+00:00",
+          "title": "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
+          "link": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/",
+          "date": "2026-10-06T22:26:46+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -522,9 +522,9 @@
           "observed_days": 3
         },
         {
-          "title": "DLSS 5 正式版体验：十年没进步的游戏画面，英伟达怎么让它以假乱真？",
-          "link": "https://www.ifanr.com/1682974",
-          "date": "2026-10-07T07:44:32+00:00",
+          "title": "Windows 迎来 AI 时代最大更新，拉来黄仁勋跟 Mac 宣战",
+          "link": "https://www.ifanr.com/1683177",
+          "date": "2026-10-08T08:15:32+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -536,9 +536,9 @@
           "observed_days": 2
         },
         {
-          "title": "罗马：永恒之城，永恒于世",
-          "link": "https://sspai.com/post/114845",
-          "date": "2026-10-07T03:00:00+00:00",
+          "title": "扔掉的是杂念，掌控的是生活：我的断舍离实践经验",
+          "link": "https://sspai.com/post/115209",
+          "date": "2026-10-08T06:42:14+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -550,23 +550,9 @@
           "observed_days": 2
         },
         {
-          "title": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
-          "link": "https://sspai.com/post/115416",
-          "date": "2026-10-06T10:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "苹果突发收紧 Mac 权限，全是 AI 惹的祸",
-          "link": "https://www.ifanr.com/1682953",
-          "date": "2026-10-06T02:05:20+00:00",
+          "title": "黄仁勋发布史上最强 Surface！专为「无限智能」设计",
+          "link": "https://www.ifanr.com/1683127",
+          "date": "2026-10-08T03:22:06+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -578,21 +564,49 @@
           "observed_days": 2
         },
         {
-          "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-          "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-          "date": "2026-10-05T22:26:35+00:00",
+          "title": "App Store 生态规模五年翻倍，助力中国开发者走向全球",
+          "link": "https://sspai.com/post/115462",
+          "date": "2026-10-08T01:47:59+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "Ars Technica"
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "派早报：微软发布 Windows 相关新品、Google AI 新闻两则等",
+          "link": "https://sspai.com/post/115455",
+          "date": "2026-10-08T00:16:57+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
           ],
           "source_count": 1,
           "observed_days": 2
         }
       ],
       "科研": [
+        {
+          "title": "Scientists warn a popular vitamin D supplement may have a hidden downside",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261007232940.htm",
+          "date": "2026-10-08T04:06:26+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
         {
           "title": "Humans may not be as hardwired for violence as we thought",
           "link": "https://www.sciencedaily.com/releases/2026/10/261005071529.htm",
@@ -678,9 +692,9 @@
           "observed_days": 2
         },
         {
-          "title": "Scientists warn a popular vitamin D supplement may have a hidden downside",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261007232940.htm",
-          "date": "2026-10-08T04:06:26+00:00",
+          "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm",
+          "date": "2026-10-08T13:31:39+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -692,9 +706,9 @@
           "observed_days": 1
         },
         {
-          "title": "Not all trans fats are bad, major review finds",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261006234505.htm",
-          "date": "2026-10-08T03:00:54+00:00",
+          "title": "This “golden tree” coral was too strange for any known family",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261007042116.htm",
+          "date": "2026-10-08T13:18:54+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -706,23 +720,9 @@
           "observed_days": 1
         },
         {
-          "title": "Dads are dying after their kids are born, and almost no one is tracking it",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261005071537.htm",
-          "date": "2026-10-08T02:05:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
-          "date": "2026-10-07T13:09:15+00:00",
+          "title": "Scientists found Homo erectus 200,000 years earlier than expected",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261007042113.htm",
+          "date": "2026-10-08T12:47:46+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -749,6 +749,90 @@
             "BBC World"
           ],
           "source_count": 2,
+          "observed_days": 2
+        },
+        {
+          "title": "俄羅斯鼠疫會引發一場全球疫情嗎？",
+          "link": "https://www.bbc.com/zhongwen/articles/ckwyq35pnxjno/trad",
+          "date": "2026-10-08T08:28:14+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+          "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo",
+          "date": "2026-10-08T08:13:52+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "以色列大選：哈馬斯襲擊三年後，以色列民眾要求追究責任",
+          "link": "https://www.bbc.com/zhongwen/articles/c615j9n1xlkpo/trad",
+          "date": "2026-10-08T07:50:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "口譯與施壓：台灣楊双子德國活動捲入政治爭議的前前後後",
+          "link": "https://www.bbc.com/zhongwen/articles/cmd7q5glg9llo/trad",
+          "date": "2026-10-08T05:29:23+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "加州一對華裔夫婦被控虐待至少14名代孕子女",
+          "link": "https://www.bbc.com/zhongwen/articles/cr4g1w328qxqo/trad",
+          "date": "2026-10-08T05:27:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "美國中期選舉是甚麼？這是一份簡易指南",
+          "link": "https://www.bbc.com/zhongwen/articles/cq5ynx00d4leo/trad",
+          "date": "2026-10-08T01:00:02+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
           "observed_days": 2
         },
         {
@@ -792,90 +876,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "中美AI軍事化背景下 BBC獲悉五角大樓正式停用 Anthropic 工具",
-          "link": "https://www.bbc.com/zhongwen/articles/cm8ezkd09057o/trad",
-          "date": "2026-10-06T08:35:20+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "美國圖書館為何正迅速下架眾多圖書？",
-          "link": "https://www.bbc.com/zhongwen/articles/cwzrd73z6k6mo/trad",
-          "date": "2026-10-06T06:31:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "俄羅斯鼠疫實驗室人員死亡 美方稱「密切關注」",
-          "link": "https://www.bbc.com/zhongwen/articles/cqx28nw0kn47o/trad",
-          "date": "2026-10-06T04:41:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "駐日美軍涉謀殺女性被捕 重燃沖繩抗議浪潮",
-          "link": "https://www.bbc.com/zhongwen/articles/cwzd6164jv6ro/trad",
-          "date": "2026-10-06T00:11:41+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "台北選戰：蔣萬安的2028前哨戰，沈伯洋能否靠「洋流」突圍？",
-          "link": "https://www.bbc.com/zhongwen/articles/ck0j0wv57jw7o/trad",
-          "date": "2026-10-06T00:11:21+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "美國華裔房產經紀涉監視賴清德兒子 被FBI拘捕",
-          "link": "https://www.bbc.com/zhongwen/articles/cw5yn53n4y7ko/trad",
-          "date": "2026-10-05T06:17:26+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
@@ -893,6 +893,48 @@
             "BBC World"
           ],
           "source_count": 2,
+          "observed_days": 2
+        },
+        {
+          "title": "'Come all the way' back to EU, French finance minister tells UK",
+          "link": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go",
+          "date": "2026-10-08T04:02:26+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Oil prices jump 4% as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production",
+          "link": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
+          "date": "2026-10-08T01:46:56+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
+          "link": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o",
+          "date": "2026-10-07T23:05:17+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
           "observed_days": 2
         },
         {
@@ -978,56 +1020,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Elon Musk blames Indian 'oligarchs' for stalling Starlink launch",
-          "link": "https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html",
-          "date": "2026-10-08T08:43:44+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Russia's internet giant Yandex halts operations at major data center after drone attack",
-          "link": "https://www.cnbc.com/2026/10/08/russia-yandex-ukraine-drone-strike-data-center.html",
-          "date": "2026-10-08T08:17:47+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "The Indian billionaire investing in Trump's refinery project is also buying more Venezuelan crude",
-          "link": "https://www.cnbc.com/2026/10/08/india-billionaire-trump-ambani-venezuela-oil.html",
-          "date": "2026-10-08T07:41:51+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ]
     }
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-08T09:02:25+00:00",
-    "total": 931,
+    "end": "2026-10-08T16:31:58+00:00",
+    "total": 984,
     "items": [
       {
         "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
@@ -1044,6 +1044,21 @@
         ],
         "source_count": 2,
         "observed_days": 3
+      },
+      {
+        "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
+        "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+        "date": "2026-10-07T21:16:18+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
       },
       {
         "title": "Trump chooses top spy boss to run new AI taskforce",
@@ -1151,21 +1166,6 @@
         ],
         "source_count": 2,
         "observed_days": 2
-      },
-      {
-        "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
-        "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-        "date": "2026-10-07T21:16:18+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 1
       },
       {
         "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -1329,6 +1329,21 @@
       ],
       "开发": [
         {
+          "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
+          "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+          "date": "2026-10-07T21:16:18+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "We’re going to need default hard budget caps on pretty much everything",
           "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
           "date": "2026-10-04T00:20:16+00:00",
@@ -1402,21 +1417,6 @@
           ],
           "source_count": 2,
           "observed_days": 2
-        },
-        {
-          "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
-          "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-          "date": "2026-10-07T21:16:18+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 1
         },
         {
           "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -1716,6 +1716,20 @@
           "observed_days": 3
         },
         {
+          "title": "Scientists warn a popular vitamin D supplement may have a hidden downside",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261007232940.htm",
+          "date": "2026-10-08T04:06:26+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
           "title": "Humans may not be as hardwired for violence as we thought",
           "link": "https://www.sciencedaily.com/releases/2026/10/261005071529.htm",
           "date": "2026-10-07T03:22:55+00:00",
@@ -1746,20 +1760,6 @@
         {
           "title": "Maintaining global science collaboration during conflict requires fairer rules",
           "link": "https://www.nature.com/articles/d41586-026-03176-y",
-          "date": "2026-10-06T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Preprints must not leak sensitive research information",
-          "link": "https://www.nature.com/articles/d41586-026-03177-x",
           "date": "2026-10-06T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
@@ -2058,9 +2058,9 @@
           "observed_days": 3
         },
         {
-          "title": "Jaguar unveils new electric car after 'woke' ridicule",
-          "link": "https://www.bbc.co.uk/news/articles/c6je50ydld31o",
-          "date": "2026-10-07T00:01:38+00:00",
+          "title": "'Come all the way' back to EU, French finance minister tells UK",
+          "link": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go",
+          "date": "2026-10-08T04:02:26+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
