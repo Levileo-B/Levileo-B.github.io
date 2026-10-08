@@ -1,58 +1,106 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-07T07:42:54.273983+00:00",
-  "attempted_at": "2026-10-07T07:42:54.273983+00:00",
+  "updated": "2026-10-08T07:59:18.973450+00:00",
+  "attempted_at": "2026-10-08T07:59:18.973450+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-10-07T07:42:54.273983+00:00",
+      "last_success": "2026-10-08T07:59:18.973450+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-10-07T07:42:54.273983+00:00",
+      "last_success": "2026-10-08T07:59:18.973450+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-10-07T07:42:54.273983+00:00",
+      "last_success": "2026-10-08T07:59:18.973450+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-10-07T07:42:54.273983+00:00",
+      "last_success": "2026-10-08T07:59:18.973450+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-10-07T07:42:54.273983+00:00",
+      "last_success": "2026-10-08T07:59:18.973450+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-10-07T07:42:54.273983+00:00",
+      "last_success": "2026-10-08T07:59:18.973450+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-10-07T07:42:54.273983+00:00",
+      "last_success": "2026-10-08T07:59:18.973450+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-10-07T07:42:54.273983+00:00",
+      "last_success": "2026-10-08T07:59:18.973450+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.1038/s41598-026-68790-2",
+      "title": "An attention guided local global feature fusion network for robust point cloud registration",
+      "journal_id": "scientific-reports",
+      "published": "2026-10-08",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-68790-2",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18193424",
+      "title": "A Fusion Framework Integrating UAV LiDAR and SBAS-InSAR for Enhanced Mining-Induced Surface Subsidence Modeling",
+      "journal_id": "remote-sensing",
+      "published": "2026-10-07",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18193424",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70367",
+      "title": "Adaptive Soft Robot for Complex Multiple Scenes: Navigating Pipelines, Valves, and Pressure Vessels",
+      "journal_id": "jfr",
+      "published": "2026-10-07",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70367",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70360",
+      "title": "Evaluating Pose Estimation Uncertainty From Automatic Point Cloud Registration in Multi‐Sensor Robotic Systems",
+      "journal_id": "jfr",
+      "published": "2026-10-07",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70360",
+      "source": "crossref"
+    },
     {
       "id": "10.1002/rob.70355",
       "title": "Robotic Pose Estimation Enhancement via Landmark Features‐Based LiDAR Odometry for Autonomous Systems",
@@ -1489,18 +1537,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1038/s41598-026-63761-z",
-      "source": "crossref"
-    },
-    {
-      "id": "10.3390/rs18162814",
-      "title": "Predicting LiDAR-Derived Canopy Leaf Area Index in Loblolly Pine Plantations with Sentinel-2 Imagery Using a Convolutional Neural Network Approach",
-      "journal_id": "remote-sensing",
-      "published": "2026-08-20",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18162814",
       "source": "crossref"
     },
     {
