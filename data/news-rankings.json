@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-09T02:13:03+00:00",
-  "updated": "2026-10-09T02:13:03+00:00",
+  "generated_at": "2026-10-09T09:10:46+00:00",
+  "updated": "2026-10-09T09:10:45+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-05T00:00:00+08:00",
-    "end": "2026-10-09T02:13:03+00:00",
-    "total": 601,
+    "end": "2026-10-09T09:10:46+00:00",
+    "total": 637,
     "items": [
       {
         "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
@@ -53,6 +53,21 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "Bevy 0.20",
+        "link": "https://bevy.org/news/bevy-0-20/",
+        "date": "2026-10-08T22:57:50+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "Adidas sues Australian label White Fox over four stripes design",
@@ -143,20 +158,6 @@
         ],
         "source_count": 1,
         "observed_days": 4
-      },
-      {
-        "title": "Building Git infrastructure for agent-scale development",
-        "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
-        "date": "2026-10-06T20:57:56+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "GitHub Blog"
-        ],
-        "source_count": 1,
-        "observed_days": 3
       }
     ],
     "by_category": {
@@ -334,6 +335,21 @@
           "observed_days": 2
         },
         {
+          "title": "Bevy 0.20",
+          "link": "https://bevy.org/news/bevy-0-20/",
+          "date": "2026-10-08T22:57:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
           "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
           "date": "2026-10-06T19:21:14+00:00",
@@ -431,20 +447,6 @@
           ],
           "sources": [
             "GitHub Blog"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Anti-Patterns in Software Blogging",
-          "link": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
-          "date": "2026-10-07T13:09:33+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -1034,8 +1036,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-09T02:13:03+00:00",
-    "total": 1051,
+    "end": "2026-10-09T09:10:46+00:00",
+    "total": 1087,
     "items": [
       {
         "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
@@ -1441,6 +1443,21 @@
           "observed_days": 2
         },
         {
+          "title": "Bevy 0.20",
+          "link": "https://bevy.org/news/bevy-0-20/",
+          "date": "2026-10-08T22:57:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
           "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
           "date": "2026-10-06T19:21:14+00:00",
@@ -1468,21 +1485,6 @@
           "sources": [
             "Ars Technica",
             "Hacker News"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "EDG C/C++ Compiler Project",
-          "link": "https://github.com/edgcpp/compiler",
-          "date": "2026-09-30T22:06:21+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
           ],
           "source_count": 2,
           "observed_days": 1
