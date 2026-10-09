@@ -1,58 +1,94 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-08T07:59:18.973450+00:00",
-  "attempted_at": "2026-10-08T07:59:18.973450+00:00",
+  "updated": "2026-10-09T08:00:22.073932+00:00",
+  "attempted_at": "2026-10-09T08:00:22.073932+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-10-08T07:59:18.973450+00:00",
+      "last_success": "2026-10-09T08:00:22.073932+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-10-08T07:59:18.973450+00:00",
+      "last_success": "2026-10-09T08:00:22.073932+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-10-08T07:59:18.973450+00:00",
+      "last_success": "2026-10-09T08:00:22.073932+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-10-08T07:59:18.973450+00:00",
+      "last_success": "2026-10-09T08:00:22.073932+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-10-08T07:59:18.973450+00:00",
+      "last_success": "2026-10-09T08:00:22.073932+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-10-08T07:59:18.973450+00:00",
+      "last_success": "2026-10-09T08:00:22.073932+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-10-08T07:59:18.973450+00:00",
+      "last_success": "2026-10-09T08:00:22.073932+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-10-08T07:59:18.973450+00:00",
+      "last_success": "2026-10-09T08:00:22.073932+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.3390/rs18193430",
+      "title": "Mask-Guided Diffusion-Consistency Network for Multimodal Hyperspectral Point-Cloud Mineral Mapping",
+      "journal_id": "remote-sensing",
+      "published": "2026-10-08",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18193430",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-74836-2",
+      "title": "An inter-row navigation system design for a safflower picking robot",
+      "journal_id": "scientific-reports",
+      "published": "2026-10-08",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-74836-2",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-73543-2",
+      "title": "UAV close-range photogrammetry combined with adaptive octree-based point cloud filtering for rock joint extraction of open-pit mine slopes",
+      "journal_id": "scientific-reports",
+      "published": "2026-10-08",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-73543-2",
+      "source": "crossref"
+    },
     {
       "id": "10.1038/s41598-026-68790-2",
       "title": "An attention guided local global feature fusion network for robust point cloud registration",
@@ -1504,18 +1540,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.3390/rs18162841",
-      "title": "Sharing Cultural Values Through 3D Point-Cloud-Based Documentation of Transylvanian Heritage",
-      "journal_id": "remote-sensing",
-      "published": "2026-08-21",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18162841",
-      "source": "crossref"
-    },
-    {
       "id": "10.1038/s41598-026-67953-5",
       "title": "Mapping and autonomous navigation of TurtleBot2 using hybridization of A* algorithm, DWA, and RatSLAM",
       "journal_id": "scientific-reports",
@@ -1821,18 +1845,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.1038/s41598-026-61977-7",
-      "title": "Adaptive navigation control of a bionic robotic fish in complex Karman vortex street flow fields using an LSTM-DDPG hybrid strategy",
-      "journal_id": "scientific-reports",
-      "published": "2026-07-26",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-61977-7",
-      "source": "crossref"
-    },
-    {
       "id": "10.3389/frobt.2026.1823324",
       "title": "Uncertainty-guided informative path planning for ecological monitoring using autonomous surface vehicles under Dubins motion constraints",
       "journal_id": "frontiers",
@@ -1878,18 +1890,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1002/rob.70289",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1038/s41598-026-59923-8",
-      "title": "Physics-constrained multimodal reinforcement learning for local UAV Navigation in complex static obstacle environments",
-      "journal_id": "scientific-reports",
-      "published": "2026-07-07",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-59923-8",
       "source": "crossref"
     },
     {
