@@ -1,11 +1,16 @@
 {
-  "updated": "2026-10-09T16:16:09+00:00",
+  "updated": "2026-10-09T21:00:24+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "特朗普與普京達成協議允俄國出售柴油，澤連斯基批評「送大禮」",
+          "link": "https://www.bbc.com/zhongwen/articles/cwg7xz103032o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-09T20:33:46+00:00"
+        },
         {
           "title": "美國要網上直播軍法槍決胡德堡基地槍擊案兇手",
           "link": "https://www.bbc.com/zhongwen/articles/cqr7yvg2n4kvo/trad?at_medium=RSS&at_campaign=rss",
@@ -22,11 +27,6 @@
           "date": "2026-10-08T09:37:08+00:00"
         },
         {
-          "title": "扎克伯格有形象問題，為何Meta的業務卻蒸蒸日上？",
-          "link": "https://www.bbc.com/zhongwen/articles/cvj6jz6e89n2o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-09T08:04:54+00:00"
-        },
-        {
           "title": "法國學生示威：憤怒背後隱藏著什麼？",
           "link": "https://www.bbc.com/zhongwen/articles/crz98g94n9k5o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-09T09:42:25+00:00"
@@ -39,29 +39,29 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-          "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-09T16:15:09+00:00"
+          "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-09T20:32:42+00:00"
         },
         {
-          "title": "Firing squad execution to be livestreamed, Pentagon says",
-          "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-09T12:24:58+00:00"
-        },
-        {
-          "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-09T09:43:22+00:00"
-        },
-        {
-          "title": "US imposes sanctions on International Criminal Court",
+          "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
           "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-09T16:06:59+00:00"
+          "date": "2026-10-09T18:40:10+00:00"
         },
         {
-          "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-          "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-09T15:24:43+00:00"
+          "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+          "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-09T20:42:11+00:00"
+        },
+        {
+          "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+          "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-09T19:39:52+00:00"
+        },
+        {
+          "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+          "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-09T17:14:44+00:00"
         }
       ]
     },
@@ -70,6 +70,11 @@
       "category": "财经",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
+        {
+          "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-09T20:32:42+00:00"
+        },
         {
           "title": "Burnham promises to curb non-compete rules in job contracts",
           "link": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
@@ -83,17 +88,12 @@
         {
           "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
           "link": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-09T04:55:14+00:00"
+          "date": "2026-10-09T19:32:50+00:00"
         },
         {
           "title": "I've been with my boyfriend for two years and don't know his salary",
           "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-09T09:37:38+00:00"
-        },
-        {
-          "title": "Anthropic bans users from being 'cruel' to its AI systems",
-          "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-09T12:34:27+00:00"
         }
       ]
     },
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
+          "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
+          "link": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html",
+          "date": "2026-10-09T20:20:57+00:00"
+        },
+        {
           "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
           "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
-          "date": "2026-10-09T16:10:41+00:00"
+          "date": "2026-10-09T19:18:24+00:00"
         },
         {
-          "title": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
-          "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
-          "date": "2026-10-09T16:10:02+00:00"
+          "title": "Trump Media advisor Katie Zacharia offered White House press secretary role",
+          "link": "https://www.cnbc.com/2026/10/09/katie-zacharia-white-house-press-secretary.html",
+          "date": "2026-10-09T19:25:28+00:00"
         },
         {
-          "title": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
-          "link": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
-          "date": "2026-10-09T14:13:40+00:00"
+          "title": "Junk bonds are 'flashing yellow.' Watch these warning signs",
+          "link": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
+          "date": "2026-10-09T20:51:25+00:00"
         },
         {
-          "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
-          "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
-          "date": "2026-10-09T15:07:46+00:00"
-        },
-        {
-          "title": "ICE won't pause enforcement in NY after Bronx shooting, DHS' Mullin says",
-          "link": "https://www.cnbc.com/2026/10/09/ice-bronx-shooting-mamdani-dhs.html",
-          "date": "2026-10-09T15:20:56+00:00"
+          "title": "Two massive trades just happened in Micron and Nvidia. What they could mean for chips",
+          "link": "https://www.cnbc.com/2026/10/09/two-massive-trades-just-happened-in-micron-and-nvidia-what-they-could-mean-for-chips.html",
+          "date": "2026-10-09T18:50:21+00:00"
         }
       ]
     },
@@ -231,29 +231,29 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
-          "title": "YouTube, Meta, and Twitch won&#8217;t say if they&#8217;ll allow the US government to livestream an execution",
-          "link": "https://www.theverge.com/streaming/1008722/youtube-meta-twitch-government-execution-livestream",
-          "date": "2026-10-09T15:32:12+00:00"
+          "title": "Ohio blogger found guilty of harassment for sending Shrek nude to senator",
+          "link": "https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude",
+          "date": "2026-10-09T19:41:11+00:00"
         },
         {
-          "title": "The AI is in the computer",
-          "link": "https://www.theverge.com/podcast/1008707/amazon-alexa-tablet-googlebooks-apple-vergecast",
-          "date": "2026-10-09T15:10:12+00:00"
+          "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+          "date": "2026-10-09T19:11:12+00:00"
         },
         {
-          "title": "Trump’s attempt to rename AI is looking awfully artificial",
-          "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-          "date": "2026-10-09T14:25:43+00:00"
+          "title": "Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution",
+          "link": "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air",
+          "date": "2026-10-09T18:30:48+00:00"
         },
         {
-          "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
-          "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-          "date": "2026-10-08T21:38:35+00:00"
+          "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+          "date": "2026-10-09T18:06:57+00:00"
         },
         {
-          "title": "A week with Googlebooks: four notes from our testing so far",
-          "link": "https://www.theverge.com/tech/1008563/googlebook-software-impressions-thoughts-roundtable",
-          "date": "2026-10-09T13:36:02+00:00"
+          "title": "Google teases Fitbit Edge launch next week",
+          "link": "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week",
+          "date": "2026-10-09T18:08:36+00:00"
         }
       ]
     },
@@ -263,61 +263,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Microsoft barred from sponsoring foreign workers for US residency",
-          "link": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
-          "date": "2026-10-09T13:14:33+00:00"
+          "title": "AI coding agents generate more code, but not more software",
+          "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+          "date": "2026-10-09T19:43:50+00:00"
         },
         {
-          "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
-          "link": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
-          "date": "2026-10-09T11:00:57+00:00"
+          "title": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
+          "link": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
+          "date": "2026-10-09T19:27:27+00:00"
         },
         {
-          "title": "Volkswagen's replacement for the ID.4 crossover is here",
-          "link": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
-          "date": "2026-10-09T10:00:59+00:00"
+          "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
+          "link": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+          "date": "2026-10-09T18:54:52+00:00"
         },
         {
-          "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
-          "link": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
-          "date": "2026-10-08T21:37:32+00:00"
+          "title": "AI disqualification yields new Nikon Small World in Motion winner",
+          "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+          "date": "2026-10-09T18:44:06+00:00"
         },
         {
-          "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
-          "link": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
-          "date": "2026-10-08T20:53:01+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Hacker News",
-      "category": "开发",
-      "url": "https://hnrss.org/frontpage?count=10",
-      "items": [
-        {
-          "title": "A statement on the Tor Project's relationship with Mullvad",
-          "link": "https://blog.torproject.org/on-tor-relationship-with-mullvad/",
-          "date": "2026-10-09T15:49:31+00:00"
-        },
-        {
-          "title": "The super intelligence shit is a humiliation ritual for OpenAI",
-          "link": "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z",
-          "date": "2026-10-09T15:18:59+00:00"
-        },
-        {
-          "title": "Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland",
-          "link": "https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms",
-          "date": "2026-10-09T15:05:24+00:00"
-        },
-        {
-          "title": "Imposing Sanctions on the International Criminal Court",
-          "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/",
-          "date": "2026-10-09T14:55:57+00:00"
-        },
-        {
-          "title": "Python 3.15.0",
-          "link": "https://www.python.org/downloads/release/python-3150/",
-          "date": "2026-10-09T14:35:42+00:00"
+          "title": "Your artwork could be featured in the next Debian release",
+          "link": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/",
+          "date": "2026-10-09T18:33:26+00:00"
         }
       ]
     },
@@ -332,24 +300,24 @@
           "date": "2026-10-09T11:09:10+00:00"
         },
         {
-          "title": "Deno is joining Cloudflare",
-          "link": "https://deno.com/blog/cloudflare",
-          "date": "2026-10-09T13:24:29+00:00"
-        },
-        {
           "title": "A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda",
           "link": "https://blueberrywren.dev/blog/primes/",
           "date": "2026-10-09T14:30:28+00:00"
         },
         {
-          "title": "There are many themes, but this one is yours",
-          "link": "https://earendil.com/posts/system-theme/",
-          "date": "2026-10-09T12:08:09+00:00"
-        },
-        {
           "title": "Why Are Coding Agents So Dumb?",
           "link": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
           "date": "2026-10-09T14:22:04+00:00"
+        },
+        {
+          "title": "Unison Cloud is now open source",
+          "link": "https://www.unison-lang.org/blog/unison-cloud-open-source/",
+          "date": "2026-10-09T15:32:51+00:00"
+        },
+        {
+          "title": "There are many themes, but this one is yours",
+          "link": "https://earendil.com/posts/system-theme/",
+          "date": "2026-10-09T12:08:09+00:00"
         }
       ]
     },
@@ -359,29 +327,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享创造] QuotaPal: 面向 Android 的 Codex 额度监控 App",
-          "link": "https://www.v2ex.com/t/1247484#reply0",
-          "date": "2026-10-09T16:13:40+00:00"
+          "title": "[分享创造] 做了个小站，想帮去香港看赛的朋友看懂赛卡（hkracecard.com）",
+          "link": "https://www.v2ex.com/t/1247493#reply0",
+          "date": "2026-10-09T19:57:27+00:00"
         },
         {
-          "title": "[薅羊毛] [快来薅羊毛]免费一年 .cv 顶级域名！无需绑卡直接开通",
-          "link": "https://www.v2ex.com/t/1247483#reply0",
-          "date": "2026-10-09T16:11:40+00:00"
+          "title": "[推广] 官方 API 2-5 折消耗，注册送 10 美元体验金",
+          "link": "https://www.v2ex.com/t/1247492#reply2",
+          "date": "2026-10-09T18:52:32+00:00"
         },
         {
-          "title": "[分享创造] 参考 OpenAI 工程博客的配图，做了个画技术图的 Agent Skill",
-          "link": "https://www.v2ex.com/t/1247482#reply0",
-          "date": "2026-10-09T15:56:48+00:00"
+          "title": "[程序员] AI 现在强大到什么地步？",
+          "link": "https://www.v2ex.com/t/1247490#reply0",
+          "date": "2026-10-09T18:14:20+00:00"
         },
         {
-          "title": "[推广] ChatGPT Plus 续费现在还需要折腾外卡吗？你们都用什么方式？",
-          "link": "https://www.v2ex.com/t/1247481#reply0",
-          "date": "2026-10-09T15:55:37+00:00"
+          "title": "[Chrome] 现在的 chrome 对密码软件是不是有问题？ 1pass 和 bitwarden 都不好用！",
+          "link": "https://www.v2ex.com/t/1247489#reply0",
+          "date": "2026-10-09T17:25:45+00:00"
         },
         {
-          "title": "[字体排印] 等宽字体推荐：中英文混排时追求对齐",
-          "link": "https://www.v2ex.com/t/1247480#reply0",
-          "date": "2026-10-09T15:52:18+00:00"
+          "title": "[人工智能] 个人使用总结，仅代表我本人。",
+          "link": "https://www.v2ex.com/t/1247488#reply0",
+          "date": "2026-10-09T17:08:48+00:00"
         }
       ]
     },
@@ -468,6 +436,38 @@
           "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
           "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
           "date": "2026-09-11T00:11:50+00:00"
+        }
+      ]
+    },
+    {
+      "name": "酷壳",
+      "category": "开发",
+      "url": "https://coolshell.cn/feed",
+      "items": [
+        {
+          "title": "是微服务架构不香还是云不香？",
+          "link": "https://coolshell.cn/articles/22422.html",
+          "date": "2023-05-08T09:52:06+00:00"
+        },
+        {
+          "title": "我看ChatGPT: 为啥谷歌掉了千亿美金",
+          "link": "https://coolshell.cn/articles/22398.html",
+          "date": "2023-02-11T16:31:16+00:00"
+        },
+        {
+          "title": "聊聊 nostr 和 审查",
+          "link": "https://coolshell.cn/articles/22367.html",
+          "date": "2023-02-03T07:46:13+00:00"
+        },
+        {
+          "title": "感染新冠的经历",
+          "link": "https://coolshell.cn/articles/22341.html",
+          "date": "2022-12-13T07:39:39+00:00"
+        },
+        {
+          "title": "eBPF 介绍",
+          "link": "https://coolshell.cn/articles/22320.html",
+          "date": "2022-12-10T02:38:51+00:00"
         }
       ]
     },
@@ -573,6 +573,11 @@
       "url": "https://www.nature.com/nature.rss",
       "items": [
         {
+          "title": "Breaking down nerve-cell scaffold relieves chronic pain in mice",
+          "link": "https://www.nature.com/articles/d41586-026-03159-z",
+          "date": "2026-10-09T00:00:00+00:00"
+        },
+        {
           "title": "Briefing Chat: Top researchers are being misled by sham academic societies",
           "link": "https://www.nature.com/articles/d41586-026-03216-7",
           "date": "2026-10-09T00:00:00+00:00"
@@ -590,11 +595,6 @@
         {
           "title": "Watch this invisible tattoo appear under UV light",
           "link": "https://www.nature.com/articles/d41586-026-03210-z",
-          "date": "2026-10-09T00:00:00+00:00"
-        },
-        {
-          "title": "An experiment to glimpse the future Amazon — in pictures",
-          "link": "https://www.nature.com/articles/d41586-026-02909-3",
           "date": "2026-10-09T00:00:00+00:00"
         }
       ]
@@ -634,6 +634,6 @@
   ],
   "failed": [
     "36 氪",
-    "酷壳"
+    "Hacker News"
   ]
 }

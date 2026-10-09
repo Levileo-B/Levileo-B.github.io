@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-09T16:16:09+00:00",
-  "updated": "2026-10-09T16:16:09+00:00",
+  "generated_at": "2026-10-09T21:00:24+00:00",
+  "updated": "2026-10-09T21:00:24+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-05T00:00:00+08:00",
-    "end": "2026-10-09T16:16:09+00:00",
-    "total": 697,
+    "end": "2026-10-09T21:00:24+00:00",
+    "total": 723,
     "items": [
       {
         "title": "Programming Isn’t Special",
@@ -68,6 +68,22 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
+        "date": "2026-10-09T20:32:42+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "Bevy 0.20",
@@ -145,20 +161,6 @@
         ],
         "source_count": 1,
         "observed_days": 6
-      },
-      {
-        "title": "ReviewBench: An open benchmark for AI code review",
-        "link": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
-        "date": "2026-10-05T15:59:40+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "GitHub Blog"
-        ],
-        "source_count": 1,
-        "observed_days": 5
       }
     ],
     "by_category": {
@@ -760,6 +762,22 @@
           "observed_days": 2
         },
         {
+          "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
+          "date": "2026-10-09T20:32:42+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Adidas sues Australian label White Fox over four stripes design",
           "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o",
           "date": "2026-10-08T18:17:28+00:00",
@@ -872,20 +890,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "以色列大選：哈馬斯襲擊三年後，以色列民眾要求追究責任",
-          "link": "https://www.bbc.com/zhongwen/articles/c615j9n1xlkpo/trad",
-          "date": "2026-10-08T07:50:44+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
@@ -904,6 +908,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
+          "date": "2026-10-09T20:32:42+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "Adidas sues Australian label White Fox over four stripes design",
@@ -1018,28 +1038,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Trump hedges on paying back government for ads that already aired",
-          "link": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
-          "date": "2026-10-06T01:55:50+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-09T16:16:09+00:00",
-    "total": 1147,
+    "end": "2026-10-09T21:00:24+00:00",
+    "total": 1173,
     "items": [
       {
         "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
@@ -1830,6 +1836,22 @@
           "observed_days": 2
         },
         {
+          "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
+          "date": "2026-10-09T20:32:42+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Adidas sues Australian label White Fox over four stripes design",
           "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o",
           "date": "2026-10-08T18:17:28+00:00",
@@ -1916,20 +1938,6 @@
           ],
           "source_count": 1,
           "observed_days": 3
-        },
-        {
-          "title": "西班牙與中國愈走愈近，歐盟多方為何不滿？",
-          "link": "https://www.bbc.com/zhongwen/articles/cx9808vgjy09o/trad",
-          "date": "2026-10-02T05:09:30+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 3
         }
       ],
       "财经": [
@@ -1980,6 +1988,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
+          "date": "2026-10-09T20:32:42+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "Adidas sues Australian label White Fox over four stripes design",
@@ -2059,20 +2083,6 @@
           "title": "Suppliers pile pressure on government over energy bills",
           "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o",
           "date": "2026-10-03T08:58:44+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "US jobs market sees sharp slowdown ahead of midterm elections",
-          "link": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo",
-          "date": "2026-10-02T14:30:48+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
