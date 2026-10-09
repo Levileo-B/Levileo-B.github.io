@@ -1,17 +1,32 @@
 {
-  "generated_at": "2026-10-08T22:07:03+00:00",
-  "updated": "2026-10-08T22:07:03+00:00",
+  "generated_at": "2026-10-09T02:13:03+00:00",
+  "updated": "2026-10-09T02:13:03+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-05T00:00:00+08:00",
-    "end": "2026-10-08T22:07:03+00:00",
-    "total": 565,
+    "end": "2026-10-09T02:13:03+00:00",
+    "total": 601,
     "items": [
       {
         "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
         "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
         "date": "2026-10-07T21:16:18+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
+        "title": "Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs",
+        "link": "https://arxiv.org/abs/2610.08144",
+        "date": "2026-10-07T15:24:38+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -38,6 +53,22 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "Adidas sues Australian label White Fox over four stripes design",
+        "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o",
+        "date": "2026-10-08T18:17:28+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -123,34 +154,6 @@
         ],
         "sources": [
           "GitHub Blog"
-        ],
-        "source_count": 1,
-        "observed_days": 3
-      },
-      {
-        "title": "科学家识别出三种叫声最响亮的鸟",
-        "link": "https://www.solidot.org/story?sid=85539",
-        "date": "2026-10-05T14:45:39+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "Solidot"
-        ],
-        "source_count": 1,
-        "observed_days": 3
-      },
-      {
-        "title": "因涌入大量 AI 报告 Google 冻结其 Bug 悬赏计划",
-        "link": "https://www.solidot.org/story?sid=85538",
-        "date": "2026-10-05T14:27:52+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "Solidot"
         ],
         "source_count": 1,
         "observed_days": 3
@@ -316,6 +319,21 @@
           "observed_days": 2
         },
         {
+          "title": "Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs",
+          "link": "https://arxiv.org/abs/2610.08144",
+          "date": "2026-10-07T15:24:38+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
           "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
           "date": "2026-10-06T19:21:14+00:00",
@@ -421,20 +439,6 @@
           "title": "Anti-Patterns in Software Blogging",
           "link": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
           "date": "2026-10-07T13:09:33+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
-          "link": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/",
-          "date": "2026-10-06T22:26:46+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -752,6 +756,22 @@
           "observed_days": 2
         },
         {
+          "title": "Adidas sues Australian label White Fox over four stripes design",
+          "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o",
+          "date": "2026-10-08T18:17:28+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "俄羅斯鼠疫會引發一場全球疫情嗎？",
           "link": "https://www.bbc.com/zhongwen/articles/ckwyq35pnxjno/trad",
           "date": "2026-10-08T08:28:14+00:00",
@@ -862,20 +882,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "'Ghost particles' from space telescope wins physics Nobel",
-          "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo",
-          "date": "2026-10-06T10:10:02+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
@@ -894,6 +900,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "Adidas sues Australian label White Fox over four stripes design",
+          "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o",
+          "date": "2026-10-08T18:17:28+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "'Come all the way' back to EU, French finance minister tells UK",
@@ -1006,28 +1028,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "The job interview question you don't have to answer",
-          "link": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno",
-          "date": "2026-10-04T23:22:07+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-08T22:07:03+00:00",
-    "total": 1015,
+    "end": "2026-10-09T02:13:03+00:00",
+    "total": 1051,
     "items": [
       {
         "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
@@ -1049,6 +1057,21 @@
         "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
         "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
         "date": "2026-10-07T21:16:18+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
+        "title": "Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs",
+        "link": "https://arxiv.org/abs/2610.08144",
+        "date": "2026-10-07T15:24:38+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -1166,22 +1189,6 @@
         ],
         "source_count": 2,
         "observed_days": 2
-      },
-      {
-        "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-        "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-        "date": "2026-10-06T19:21:14+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发",
-          "科技"
-        ],
-        "sources": [
-          "Ars Technica",
-          "Hacker News"
-        ],
-        "source_count": 2,
-        "observed_days": 1
       }
     ],
     "by_category": {
@@ -1344,6 +1351,21 @@
           "observed_days": 2
         },
         {
+          "title": "Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs",
+          "link": "https://arxiv.org/abs/2610.08144",
+          "date": "2026-10-07T15:24:38+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "We’re going to need default hard budget caps on pretty much everything",
           "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
           "date": "2026-10-04T00:20:16+00:00",
@@ -1461,22 +1483,6 @@
           "sources": [
             "Hacker News",
             "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Returning from vacation? The government can search your phone without a warrant",
-          "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
-          "date": "2026-09-30T21:19:56+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发",
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica",
-            "Hacker News"
           ],
           "source_count": 2,
           "observed_days": 1
@@ -1822,6 +1828,22 @@
           "observed_days": 2
         },
         {
+          "title": "Adidas sues Australian label White Fox over four stripes design",
+          "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o",
+          "date": "2026-10-08T18:17:28+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
           "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
           "date": "2026-10-01T17:27:37+00:00",
@@ -1906,20 +1928,6 @@
           ],
           "source_count": 1,
           "observed_days": 3
-        },
-        {
-          "title": "中國開始打擊AI戀愛關係，是過度干預還是先見之明？",
-          "link": "https://www.bbc.com/zhongwen/articles/cmz9z9e4247vo/trad",
-          "date": "2026-10-01T08:12:13+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 3
         }
       ],
       "财经": [
@@ -1970,6 +1978,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "Adidas sues Australian label White Fox over four stripes design",
+          "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o",
+          "date": "2026-10-08T18:17:28+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
@@ -2056,20 +2080,6 @@
           ],
           "source_count": 1,
           "observed_days": 3
-        },
-        {
-          "title": "'Come all the way' back to EU, French finance minister tells UK",
-          "link": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go",
-          "date": "2026-10-08T04:02:26+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
