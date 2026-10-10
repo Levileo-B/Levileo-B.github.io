@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T18:39:36+00:00",
+  "updated": "2026-10-10T22:36:07+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -41,17 +41,17 @@
         {
           "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
           "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-10T18:36:23+00:00"
+          "date": "2026-10-10T19:28:28+00:00"
         },
         {
-          "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+          "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
           "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-10T14:16:50+00:00"
+          "date": "2026-10-10T20:51:12+00:00"
         },
         {
           "title": "Several injured in attack on airport in Saudi capital Riyadh",
           "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-10T18:37:10+00:00"
+          "date": "2026-10-10T21:27:10+00:00"
         },
         {
           "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
@@ -59,9 +59,9 @@
           "date": "2026-10-10T17:44:26+00:00"
         },
         {
-          "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-          "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-10T12:29:31+00:00"
+          "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+          "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-10T22:02:07+00:00"
         }
       ]
     },
@@ -108,6 +108,11 @@
           "date": "2026-10-10T14:22:23+00:00"
         },
         {
+          "title": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
+          "link": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+          "date": "2026-10-10T20:59:28+00:00"
+        },
+        {
           "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
           "link": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
           "date": "2026-10-10T11:00:01+00:00"
@@ -121,11 +126,6 @@
           "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
           "link": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
           "date": "2026-10-10T13:42:36+00:00"
-        },
-        {
-          "title": "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance",
-          "link": "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
-          "date": "2026-10-10T13:00:01+00:00"
         }
       ]
     },
@@ -231,6 +231,16 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+          "date": "2026-10-10T22:10:17+00:00"
+        },
+        {
+          "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+          "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+          "date": "2026-10-10T21:23:38+00:00"
+        },
+        {
           "title": "Ledger wallet tampering suspected after reports of crypto thefts",
           "link": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
           "date": "2026-10-10T17:39:16+00:00"
@@ -244,16 +254,6 @@
           "title": "Anthropic is cutting off its internal evaluations from the internet",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
           "date": "2026-10-10T14:41:16+00:00"
-        },
-        {
-          "title": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
-          "link": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
-          "date": "2026-10-09T20:18:04+00:00"
-        },
-        {
-          "title": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
-          "link": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
-          "date": "2026-10-09T22:49:57+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-          "link": "https://jobs.ashbyhq.com/workweave",
-          "date": "2026-10-10T18:16:19+00:00"
+          "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+          "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+          "date": "2026-10-10T21:19:42+00:00"
         },
         {
-          "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
-          "link": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
-          "date": "2026-10-10T18:10:54+00:00"
+          "title": "A city-building game in which the city would prefer you didn't",
+          "link": "https://housing.over.pizza/",
+          "date": "2026-10-10T20:31:50+00:00"
         },
         {
-          "title": "AI Is Throwing a Roadside Picnic",
-          "link": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
-          "date": "2026-10-10T16:19:23+00:00"
+          "title": "50MB operating system can resurrect your old PC",
+          "link": "https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/",
+          "date": "2026-10-10T19:59:24+00:00"
         },
         {
-          "title": "Knuth Reward Check",
-          "link": "https://www.thomas-huehn.com/knuth-reward-check",
-          "date": "2026-10-10T15:47:01+00:00"
+          "title": "Takeshi's Castle",
+          "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
+          "date": "2026-10-10T19:12:55+00:00"
         },
         {
-          "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
-          "link": "https://chronicles.popvax.com/p/popvax-goes-clinical",
-          "date": "2026-10-10T15:10:24+00:00"
+          "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+          "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+          "date": "2026-10-10T18:48:35+00:00"
         }
       ]
     },
@@ -342,14 +342,14 @@
           "date": "2026-10-10T09:08:30+00:00"
         },
         {
-          "title": "A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda",
-          "link": "https://blueberrywren.dev/blog/primes/",
-          "date": "2026-10-09T14:30:28+00:00"
-        },
-        {
           "title": "Iframes that finally fit their content",
           "link": "https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html",
           "date": "2026-10-10T12:54:56+00:00"
+        },
+        {
+          "title": "The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors",
+          "link": "https://lightbulbcomputer.com/",
+          "date": "2026-10-10T11:53:29+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享创造] 关于展示性网页+个人博客重构, 从 halo 和 wordpress 中摆脱出来, 意外发现很有意思的动静态结合的方法",
-          "link": "https://www.v2ex.com/t/1247745#reply0",
-          "date": "2026-10-10T17:50:03+00:00"
+          "title": "[程序员] 哎 程序员还有饭吃嘛",
+          "link": "https://www.v2ex.com/t/1247750#reply3",
+          "date": "2026-10-10T21:43:39+00:00"
         },
         {
-          "title": "[分享创造] 把 Tripo Studio 连接到 Codex 的插件",
-          "link": "https://www.v2ex.com/t/1247744#reply0",
-          "date": "2026-10-10T17:48:16+00:00"
+          "title": "[创业组队] 寻找技术合伙人｜一起做陪诊、陪护数字化平台 “PAPA”",
+          "link": "https://www.v2ex.com/t/1247749#reply0",
+          "date": "2026-10-10T20:49:54+00:00"
         },
         {
-          "title": "[分享创造] 关于自己的 agent-harness 的实践与迭代过程中一些好玩的点",
-          "link": "https://www.v2ex.com/t/1247742#reply0",
-          "date": "2026-10-10T16:51:32+00:00"
+          "title": "[推广] 做了个小站：上传一张照片，生成 Jean Phil 风格的短视频",
+          "link": "https://www.v2ex.com/t/1247748#reply0",
+          "date": "2026-10-10T20:35:17+00:00"
         },
         {
-          "title": "[中转站] [中转站福利] 大家好， Kitool 又来送福利啦， 上次被一个用户薅完，这一世我发誓要重来！ 10 元额度 20 个，先到先得！",
-          "link": "https://www.v2ex.com/t/1247741#reply0",
-          "date": "2026-10-10T16:40:49+00:00"
+          "title": "[AI Tools 精品 AI 工具导航] 做了一个 Google Trends 上升词监控工具，适合 SEO 和选题研究",
+          "link": "https://www.v2ex.com/t/1247747#reply0",
+          "date": "2026-10-10T20:19:07+00:00"
         },
         {
-          "title": "[推广] [OpenLux] 留 ID 送约 3.5 元 API 体验额度｜ MiniMax-H3、Gemini TTS 等近期上新",
-          "link": "https://www.v2ex.com/t/1247740#reply0",
-          "date": "2026-10-10T16:36:34+00:00"
+          "title": "[分享创造] 做了个 Mistral AI 工作空间，聊天、对话管理和成本估算都放到了一起",
+          "link": "https://www.v2ex.com/t/1247746#reply0",
+          "date": "2026-10-10T19:56:25+00:00"
         }
       ]
     },
@@ -468,6 +468,38 @@
           "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
           "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
           "date": "2026-09-11T00:11:50+00:00"
+        }
+      ]
+    },
+    {
+      "name": "酷壳",
+      "category": "开发",
+      "url": "https://coolshell.cn/feed",
+      "items": [
+        {
+          "title": "是微服务架构不香还是云不香？",
+          "link": "https://coolshell.cn/articles/22422.html",
+          "date": "2023-05-08T09:52:06+00:00"
+        },
+        {
+          "title": "我看ChatGPT: 为啥谷歌掉了千亿美金",
+          "link": "https://coolshell.cn/articles/22398.html",
+          "date": "2023-02-11T16:31:16+00:00"
+        },
+        {
+          "title": "聊聊 nostr 和 审查",
+          "link": "https://coolshell.cn/articles/22367.html",
+          "date": "2023-02-03T07:46:13+00:00"
+        },
+        {
+          "title": "感染新冠的经历",
+          "link": "https://coolshell.cn/articles/22341.html",
+          "date": "2022-12-13T07:39:39+00:00"
+        },
+        {
+          "title": "eBPF 介绍",
+          "link": "https://coolshell.cn/articles/22320.html",
+          "date": "2022-12-10T02:38:51+00:00"
         }
       ]
     },
@@ -568,38 +600,6 @@
       ]
     },
     {
-      "name": "Nature",
-      "category": "科研",
-      "url": "https://www.nature.com/nature.rss",
-      "items": [
-        {
-          "title": "Breaking down nerve-cell scaffold relieves chronic pain in mice",
-          "link": "https://www.nature.com/articles/d41586-026-03159-z",
-          "date": "2026-10-09T00:00:00+00:00"
-        },
-        {
-          "title": "Briefing Chat: Top researchers are being misled by sham academic societies",
-          "link": "https://www.nature.com/articles/d41586-026-03216-7",
-          "date": "2026-10-09T00:00:00+00:00"
-        },
-        {
-          "title": "Chimp and gorilla brains resist weight loss with age — unlike human brains",
-          "link": "https://www.nature.com/articles/d41586-026-03158-0",
-          "date": "2026-10-09T00:00:00+00:00"
-        },
-        {
-          "title": "The life of Darwin and the science of clouds: Books in brief",
-          "link": "https://www.nature.com/articles/d41586-026-03217-6",
-          "date": "2026-10-09T00:00:00+00:00"
-        },
-        {
-          "title": "Watch this invisible tattoo appear under UV light",
-          "link": "https://www.nature.com/articles/d41586-026-03210-z",
-          "date": "2026-10-09T00:00:00+00:00"
-        }
-      ]
-    },
-    {
       "name": "ScienceDaily",
       "category": "科研",
       "url": "https://www.sciencedaily.com/rss/all.xml",
@@ -615,25 +615,25 @@
           "date": "2026-10-09T02:37:22+00:00"
         },
         {
+          "title": "Scientists discover 5 hidden brain patterns behind depression",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261008005251.htm",
+          "date": "2026-10-09T18:34:02+00:00"
+        },
+        {
           "title": "NASA is searching for hidden caves to build its first Moon base",
           "link": "https://www.sciencedaily.com/releases/2026/10/261008005247.htm",
           "date": "2026-10-08T12:19:20+00:00"
         },
         {
-          "title": "Only one workout helped older adults lose fat and keep muscle",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261007233348.htm",
-          "date": "2026-10-09T10:57:40+00:00"
-        },
-        {
-          "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm",
-          "date": "2026-10-08T13:31:39+00:00"
+          "title": "Scientists may have found a shortcut to fusion energy",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
+          "date": "2026-10-10T18:57:27+00:00"
         }
       ]
     }
   ],
   "failed": [
     "36 氪",
-    "酷壳"
+    "Nature"
   ]
 }
