@@ -1,54 +1,54 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-09T08:00:22.073932+00:00",
-  "attempted_at": "2026-10-09T08:00:22.073932+00:00",
+  "updated": "2026-10-10T07:44:33.648767+00:00",
+  "attempted_at": "2026-10-10T07:44:33.648767+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-10-09T08:00:22.073932+00:00",
+      "last_success": "2026-10-10T07:44:33.648767+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-10-09T08:00:22.073932+00:00",
+      "last_success": "2026-10-10T07:44:33.648767+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-10-09T08:00:22.073932+00:00",
+      "last_success": "2026-10-10T07:44:33.648767+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-10-09T08:00:22.073932+00:00",
+      "last_success": "2026-10-10T07:44:33.648767+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-10-09T08:00:22.073932+00:00",
+      "last_success": "2026-10-10T07:44:33.648767+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-10-09T08:00:22.073932+00:00",
+      "last_success": "2026-10-10T07:44:33.648767+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-10-09T08:00:22.073932+00:00",
+      "last_success": "2026-10-10T07:44:33.648767+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-10-09T08:00:22.073932+00:00",
+      "last_success": "2026-10-10T07:44:33.648767+00:00",
       "errors": []
     }
   ],
@@ -461,6 +461,30 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1109/lra.2026.3723261",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105803",
+      "title": "Trajectory Planning and Control for Multimodal Locomotion Robots",
+      "journal_id": "ras",
+      "published": "2026-10",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105803",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105799",
+      "title": "Learning-based path planning and tracking for the walking–jumping quadrupedal robot",
+      "journal_id": "ras",
+      "published": "2026-10",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105799",
       "source": "crossref"
     },
     {
