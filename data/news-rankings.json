@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-09T21:00:24+00:00",
-  "updated": "2026-10-09T21:00:24+00:00",
+  "generated_at": "2026-10-10T00:55:23+00:00",
+  "updated": "2026-10-10T00:55:23+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-05T00:00:00+08:00",
-    "end": "2026-10-09T21:00:24+00:00",
-    "total": 723,
+    "end": "2026-10-10T00:55:23+00:00",
+    "total": 740,
     "items": [
       {
         "title": "Programming Isn’t Special",
@@ -70,7 +70,23 @@
         "observed_days": 2
       },
       {
-        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+        "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo",
+        "date": "2026-10-09T22:30:22+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
+        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
         "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
         "date": "2026-10-09T20:32:42+00:00",
         "date_is_observed": false,
@@ -81,6 +97,21 @@
         "sources": [
           "BBC Business",
           "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
+        "title": "Python 3.15.0",
+        "link": "https://www.python.org/downloads/release/python-3150/",
+        "date": "2026-10-09T14:35:42+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
         ],
         "source_count": 2,
         "observed_days": 1
@@ -131,36 +162,6 @@
         ],
         "source_count": 2,
         "observed_days": 1
-      },
-      {
-        "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
-        "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
-        "date": "2026-10-06T17:33:44+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发",
-          "科技"
-        ],
-        "sources": [
-          "Ars Technica",
-          "Hacker News"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
-        "link": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
-        "date": "2026-10-04T17:38:25+00:00",
-        "date_is_observed": true,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "美团技术团队"
-        ],
-        "source_count": 1,
-        "observed_days": 6
       }
     ],
     "by_category": {
@@ -353,6 +354,21 @@
           "observed_days": 2
         },
         {
+          "title": "Python 3.15.0",
+          "link": "https://www.python.org/downloads/release/python-3150/",
+          "date": "2026-10-09T14:35:42+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Bevy 0.20",
           "link": "https://bevy.org/news/bevy-0-20/",
           "date": "2026-10-08T22:57:50+00:00",
@@ -440,20 +456,6 @@
           ],
           "source_count": 1,
           "observed_days": 4
-        },
-        {
-          "title": "Secret protection must scale with software",
-          "link": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
-          "date": "2026-10-07T17:45:34+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "GitHub Blog"
-          ],
-          "source_count": 1,
-          "observed_days": 3
         }
       ],
       "科技": [
@@ -762,7 +764,23 @@
           "observed_days": 2
         },
         {
-          "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+          "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo",
+          "date": "2026-10-09T22:30:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
           "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
           "date": "2026-10-09T20:32:42+00:00",
           "date_is_observed": false,
@@ -876,20 +894,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo",
-          "date": "2026-10-08T08:13:52+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
@@ -910,7 +914,23 @@
           "observed_days": 2
         },
         {
-          "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+          "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo",
+          "date": "2026-10-09T22:30:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
           "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
           "date": "2026-10-09T20:32:42+00:00",
           "date_is_observed": false,
@@ -1024,28 +1044,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
-          "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
-          "date": "2026-10-06T09:49:42+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-09T21:00:24+00:00",
-    "total": 1173,
+    "end": "2026-10-10T00:55:23+00:00",
+    "total": 1190,
     "items": [
       {
         "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
@@ -1465,9 +1471,9 @@
           "observed_days": 2
         },
         {
-          "title": "Bevy 0.20",
-          "link": "https://bevy.org/news/bevy-0-20/",
-          "date": "2026-10-08T22:57:50+00:00",
+          "title": "Python 3.15.0",
+          "link": "https://www.python.org/downloads/release/python-3150/",
+          "date": "2026-10-09T14:35:42+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1480,17 +1486,16 @@
           "observed_days": 1
         },
         {
-          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-          "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-          "date": "2026-10-06T19:21:14+00:00",
+          "title": "Bevy 0.20",
+          "link": "https://bevy.org/news/bevy-0-20/",
+          "date": "2026-10-08T22:57:50+00:00",
           "date_is_observed": false,
           "categories": [
-            "开发",
-            "科技"
+            "开发"
           ],
           "sources": [
-            "Ars Technica",
-            "Hacker News"
+            "Hacker News",
+            "Lobsters"
           ],
           "source_count": 2,
           "observed_days": 1
@@ -1836,7 +1841,23 @@
           "observed_days": 2
         },
         {
-          "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+          "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo",
+          "date": "2026-10-09T22:30:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
           "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
           "date": "2026-10-09T20:32:42+00:00",
           "date_is_observed": false,
@@ -1924,20 +1945,6 @@
           ],
           "source_count": 1,
           "observed_days": 3
-        },
-        {
-          "title": "「救了174人的生命」：杜拜航空劫機案，遭刺傷的印度機師是誰？",
-          "link": "https://www.bbc.com/zhongwen/articles/c61585j4vlkgo/trad",
-          "date": "2026-10-02T08:24:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 3
         }
       ],
       "财经": [
@@ -1990,7 +1997,23 @@
           "observed_days": 2
         },
         {
-          "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+          "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo",
+          "date": "2026-10-09T22:30:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
           "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
           "date": "2026-10-09T20:32:42+00:00",
           "date_is_observed": false,
@@ -2075,20 +2098,6 @@
           ],
           "sources": [
             "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "Suppliers pile pressure on government over energy bills",
-          "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o",
-          "date": "2026-10-03T08:58:44+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
           ],
           "source_count": 1,
           "observed_days": 3
