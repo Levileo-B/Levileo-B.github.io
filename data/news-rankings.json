@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-11T01:56:51+00:00",
-  "updated": "2026-10-11T01:56:51+00:00",
+  "generated_at": "2026-10-11T08:57:17+00:00",
+  "updated": "2026-10-11T08:57:17+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-05T00:00:00+08:00",
-    "end": "2026-10-11T01:56:51+00:00",
-    "total": 849,
+    "end": "2026-10-11T08:57:17+00:00",
+    "total": 878,
     "items": [
       {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
@@ -102,6 +102,21 @@
         "observed_days": 2
       },
       {
+        "title": "LineageOS 24.0 released",
+        "link": "https://lineageos.org/Changelog-32/",
+        "date": "2026-10-11T06:18:59+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
         "title": "Python 3.15.0",
         "link": "https://www.python.org/downloads/release/python-3150/",
         "date": "2026-10-09T14:35:42+00:00",
@@ -143,22 +158,6 @@
         "sources": [
           "BBC Business",
           "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-        "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-        "date": "2026-10-06T19:21:14+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发",
-          "科技"
-        ],
-        "sources": [
-          "Ars Technica",
-          "Hacker News"
         ],
         "source_count": 2,
         "observed_days": 1
@@ -354,6 +353,21 @@
           "observed_days": 2
         },
         {
+          "title": "LineageOS 24.0 released",
+          "link": "https://lineageos.org/Changelog-32/",
+          "date": "2026-10-11T06:18:59+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Python 3.15.0",
           "link": "https://www.python.org/downloads/release/python-3150/",
           "date": "2026-10-09T14:35:42+00:00",
@@ -442,20 +456,6 @@
           ],
           "source_count": 1,
           "observed_days": 6
-        },
-        {
-          "title": "Building Git infrastructure for agent-scale development",
-          "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
-          "date": "2026-10-06T20:57:56+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "GitHub Blog"
-          ],
-          "source_count": 1,
-          "observed_days": 5
         }
       ],
       "科技": [
@@ -1050,8 +1050,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-11T01:56:51+00:00",
-    "total": 1299,
+    "end": "2026-10-11T08:57:17+00:00",
+    "total": 1328,
     "items": [
       {
         "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
@@ -1473,9 +1473,9 @@
           "observed_days": 2
         },
         {
-          "title": "Python 3.15.0",
-          "link": "https://www.python.org/downloads/release/python-3150/",
-          "date": "2026-10-09T14:35:42+00:00",
+          "title": "LineageOS 24.0 released",
+          "link": "https://lineageos.org/Changelog-32/",
+          "date": "2026-10-11T06:18:59+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1488,9 +1488,9 @@
           "observed_days": 1
         },
         {
-          "title": "Bevy 0.20",
-          "link": "https://bevy.org/news/bevy-0-20/",
-          "date": "2026-10-08T22:57:50+00:00",
+          "title": "Python 3.15.0",
+          "link": "https://www.python.org/downloads/release/python-3150/",
+          "date": "2026-10-09T14:35:42+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
