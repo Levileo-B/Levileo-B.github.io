@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-11T08:57:17+00:00",
-  "updated": "2026-10-11T08:57:17+00:00",
+  "generated_at": "2026-10-11T15:44:53+00:00",
+  "updated": "2026-10-11T15:44:53+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-05T00:00:00+08:00",
-    "end": "2026-10-11T08:57:17+00:00",
-    "total": 878,
+    "end": "2026-10-11T15:44:53+00:00",
+    "total": 907,
     "items": [
       {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
@@ -51,6 +51,22 @@
         "sources": [
           "Hacker News",
           "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
+        "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+        "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
+        "date": "2026-10-08T14:04:42+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发",
+          "科技"
+        ],
+        "sources": [
+          "Ars Technica",
+          "Hacker News"
         ],
         "source_count": 2,
         "observed_days": 2
@@ -102,6 +118,37 @@
         "observed_days": 2
       },
       {
+        "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+        "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo",
+        "date": "2026-10-11T14:38:10+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
+        "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+        "link": "https://verdagon.dev/blog/valen-group-borrowing",
+        "date": "2026-10-11T12:06:22+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
         "title": "LineageOS 24.0 released",
         "link": "https://lineageos.org/Changelog-32/",
         "date": "2026-10-11T06:18:59+00:00",
@@ -112,52 +159,6 @@
         "sources": [
           "Hacker News",
           "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "Python 3.15.0",
-        "link": "https://www.python.org/downloads/release/python-3150/",
-        "date": "2026-10-09T14:35:42+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "Bevy 0.20",
-        "link": "https://bevy.org/news/bevy-0-20/",
-        "date": "2026-10-08T22:57:50+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "Adidas sues Australian label White Fox over four stripes design",
-        "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o",
-        "date": "2026-10-08T18:17:28+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
         ],
         "source_count": 2,
         "observed_days": 1
@@ -323,6 +324,22 @@
           "observed_days": 2
         },
         {
+          "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+          "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
+          "date": "2026-10-08T14:04:42+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
           "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
           "date": "2026-10-07T21:16:18+00:00",
@@ -351,6 +368,21 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+          "link": "https://verdagon.dev/blog/valen-group-borrowing",
+          "date": "2026-10-11T12:06:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "LineageOS 24.0 released",
@@ -428,37 +460,25 @@
           ],
           "source_count": 2,
           "observed_days": 1
-        },
-        {
-          "title": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
-          "link": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
-          "date": "2026-10-04T17:38:25+00:00",
-          "date_is_observed": true,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "美团技术团队"
-          ],
-          "source_count": 1,
-          "observed_days": 7
-        },
-        {
-          "title": "ReviewBench: An open benchmark for AI code review",
-          "link": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
-          "date": "2026-10-05T15:59:40+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "GitHub Blog"
-          ],
-          "source_count": 1,
-          "observed_days": 6
         }
       ],
       "科技": [
+        {
+          "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+          "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
+          "date": "2026-10-08T14:04:42+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
         {
           "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
           "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
@@ -585,20 +605,6 @@
           ],
           "sources": [
             "Ars Technica"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "华为 Mate 90 Pro Max 深度体验：Mate 系列新高峰",
-          "link": "https://www.ifanr.com/1683673",
-          "date": "2026-10-10T10:30:03+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -796,6 +802,22 @@
           "observed_days": 2
         },
         {
+          "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+          "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo",
+          "date": "2026-10-11T14:38:10+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Adidas sues Australian label White Fox over four stripes design",
           "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o",
           "date": "2026-10-08T18:17:28+00:00",
@@ -880,20 +902,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "特朗普與普京達成協議允俄國出售柴油，澤連斯基批評「送大禮」",
-          "link": "https://www.bbc.com/zhongwen/articles/cwg7xz103032o/trad",
-          "date": "2026-10-09T20:33:46+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
@@ -944,6 +952,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+          "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo",
+          "date": "2026-10-11T14:38:10+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "Adidas sues Australian label White Fox over four stripes design",
@@ -1030,28 +1054,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Burnham promises to curb non-compete rules in job contracts",
-          "link": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo",
-          "date": "2026-10-09T16:15:30+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-11T08:57:17+00:00",
-    "total": 1328,
+    "end": "2026-10-11T15:44:53+00:00",
+    "total": 1357,
     "items": [
       {
         "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
@@ -1112,6 +1122,22 @@
         "sources": [
           "Hacker News",
           "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
+        "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+        "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
+        "date": "2026-10-08T14:04:42+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发",
+          "科技"
+        ],
+        "sources": [
+          "Ars Technica",
+          "Hacker News"
         ],
         "source_count": 2,
         "observed_days": 2
@@ -1181,21 +1207,6 @@
         "title": "Why don’t more developers \"use the platform\"?",
         "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
         "date": "2026-10-03T21:35:28+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "System-level ad-blocking in Android",
-        "link": "https://kevinboone.me/adblock.html",
-        "date": "2026-10-03T20:43:41+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -1368,6 +1379,22 @@
           "observed_days": 2
         },
         {
+          "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+          "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
+          "date": "2026-10-08T14:04:42+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
           "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
           "date": "2026-10-07T21:16:18+00:00",
@@ -1473,24 +1500,9 @@
           "observed_days": 2
         },
         {
-          "title": "LineageOS 24.0 released",
-          "link": "https://lineageos.org/Changelog-32/",
-          "date": "2026-10-11T06:18:59+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Python 3.15.0",
-          "link": "https://www.python.org/downloads/release/python-3150/",
-          "date": "2026-10-09T14:35:42+00:00",
+          "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+          "link": "https://verdagon.dev/blog/valen-group-borrowing",
+          "date": "2026-10-11T12:06:22+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1504,6 +1516,22 @@
         }
       ],
       "科技": [
+        {
+          "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+          "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
+          "date": "2026-10-08T14:04:42+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
         {
           "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
           "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
@@ -1632,20 +1660,6 @@
           ],
           "sources": [
             "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 5
-        },
-        {
-          "title": "OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相",
-          "link": "https://www.ifanr.com/1682922",
-          "date": "2026-10-04T07:08:18+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
           ],
           "source_count": 1,
           "observed_days": 5
@@ -1875,6 +1889,22 @@
           "observed_days": 2
         },
         {
+          "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+          "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo",
+          "date": "2026-10-11T14:38:10+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Adidas sues Australian label White Fox over four stripes design",
           "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o",
           "date": "2026-10-08T18:17:28+00:00",
@@ -1933,20 +1963,6 @@
           ],
           "source_count": 1,
           "observed_days": 4
-        },
-        {
-          "title": "老撾的班根軍用機場 中國能用來做甚麼？",
-          "link": "https://www.bbc.com/zhongwen/articles/cmwy48r8ex41o/trad",
-          "date": "2026-10-09T00:18:18+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 3
         }
       ],
       "财经": [
@@ -2031,6 +2047,22 @@
           "observed_days": 2
         },
         {
+          "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+          "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo",
+          "date": "2026-10-11T14:38:10+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Adidas sues Australian label White Fox over four stripes design",
           "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o",
           "date": "2026-10-08T18:17:28+00:00",
@@ -2089,20 +2121,6 @@
           ],
           "source_count": 1,
           "observed_days": 4
-        },
-        {
-          "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
-          "link": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
-          "date": "2026-10-03T11:00:01+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 3
         }
       ]
     }
