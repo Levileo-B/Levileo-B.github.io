@@ -1,70 +1,110 @@
 {
-  "updated": "2026-10-10T22:36:08+00:00",
+  "updated": "2026-10-11T01:56:52+00:00",
   "leetcode": {
-    "date": "2026-10-10",
-    "id": "2333",
-    "title": "Minimum Sum of Squared Difference",
-    "titleEn": "Minimum Sum of Squared Difference",
-    "slug": "minimum-sum-of-squared-difference",
-    "difficulty": "Medium",
+    "date": "2026-10-11",
+    "id": "2778",
+    "title": "Sum of Squares of Special Elements ",
+    "titleEn": "Sum of Squares of Special Elements ",
+    "slug": "sum-of-squares-of-special-elements",
+    "difficulty": "Easy",
     "tags": [
       "Array",
-      "Binary Search",
-      "Greedy",
-      "Sorting"
+      "Enumeration"
     ],
-    "link": "https://leetcode.com/problems/minimum-sum-of-squared-difference/",
+    "link": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Fridtjof Nansen",
-    "text": "Fridtjof Wedel-Jarlsberg Nansen was a Norwegian polymath and Nobel Peace Prize laureate. He gained prominence at various points in his life as an explorer, a scientist, a diplomat, a humanitarian, and the co-founder of the Fatherland League.",
-    "words": 37,
-    "url": "https://en.wikipedia.org/wiki/Fridtjof_Nansen",
-    "date": "2026-10-10",
+    "title": "Userkare",
+    "text": "Userkare was the second king of the Sixth Dynasty of Egypt during the Old Kingdom Period.\nHe reigned briefly, two to four years, in the late 24th or the early 23rd century BC. Userkare's relation to his predecessor Teti and successor Pepi I is unknown and his reign remains enigmatic.",
+    "words": 50,
+    "url": "https://en.wikipedia.org/wiki/Userkare",
+    "date": "2026-10-11",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Light Of Your Life A",
-    "creator": "General Electric",
+    "title": "Home Movie: 97328: Christmas",
+    "creator": "",
     "year": "",
-    "url": "https://archive.org/download/LightOfYourL/LightOfYourL_512kb.mp4",
-    "page": "https://archive.org/details/LightOfYourL",
-    "date": "2026-10-10",
+    "url": "https://archive.org/download/HMChristmas97328/97328.mp4",
+    "page": "https://archive.org/details/HMChristmas97328",
+    "date": "2026-10-11",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "...Not Dark and Emo",
-      "artist": "Stark and Nimo",
-      "url": "https://archive.org/download/NotDarkAndEmo/01Humming.mp3",
-      "page": "https://archive.org/details/NotDarkAndEmo",
-      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
+      "title": "Tha Bloc Report hosted by Pot-C - Tha Bloc Report Episode 8: The RSD19 Special Edition Crate Dig Episode",
+      "artist": "Pot-C",
+      "url": "https://archive.org/download/BSBCTBR0008/01-ThaBlocReport-TheRSD19SpecialEditionCrateDigEpisode.mp3",
+      "page": "https://archive.org/details/BSBCTBR0008",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
-      "title": "NADIE - NADIE",
-      "artist": "NADIE",
-      "url": "https://archive.org/download/NadieNadie/01%20%E5%86%85%E6%9B%B8.mp3",
-      "page": "https://archive.org/details/NadieNadie",
-      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+      "title": "Cheese N Pot-C - TA2MI Presents: Cheese N Pot-C",
+      "artist": "Cheese N Pot-C",
+      "url": "https://archive.org/download/BSMX0145/01-HomeBase_FeaturingLongJohn.mp3",
+      "page": "https://archive.org/details/BSMX0145",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "Live",
-      "artist": "Fundstücke",
-      "url": "https://archive.org/download/zero157/Fundstuecke%20-%20Live%20-%2001%20Der%20Erste.mp3",
-      "page": "https://archive.org/details/zero157",
+      "title": "Noize Overdose - System Error #1990 [LEGS-NET 037]",
+      "artist": "Noize Overdose",
+      "url": "https://archive.org/download/NoizeOverdose-SystemError1990legs-net037/1.SystemError1990.mp3",
+      "page": "https://archive.org/details/NoizeOverdose-SystemError1990legs-net037",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Olympus Mons",
-      "artist": "Asaguare",
-      "url": "https://archive.org/download/OlympusMons/OlympusMonsHiFi.mp3",
-      "page": "https://archive.org/details/OlympusMons",
+      "title": "Serhio Efremis & Elli Q - Post-Vocalise",
+      "artist": "Serhio Efremis & Elli Q",
+      "url": "https://archive.org/download/BSMX0087/01-SerhioEfremis-Post-Vocalise.mp3",
+      "page": "https://archive.org/details/BSMX0087",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Endometrium Cuntplow & Intestinal Disgorge - Collaboration",
+      "artist": "",
+      "url": "https://archive.org/download/PFD020/01_-_ECID_-_Collab.mp3",
+      "page": "https://archive.org/details/PFD020",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
+    },
+    {
+      "title": "[onorezdiLP016] Gain (Jan. 26. 2014) [REUP]",
+      "artist": "I.Z. aka IDzeroNo",
+      "url": "https://archive.org/download/OnorezdiLP016/Annabloom%20-%20Expression%20In%20the%20Face%20Of%20The%20Listener%20%28Ft.%20BillyRayDrums%2C%20Doxent%20Zsigmond%2C%20Kara%20Square%2C%20NiGiD%2C%20IDzeroNo%29.mp3",
+      "page": "https://archive.org/details/OnorezdiLP016",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Piko​@​Lab v11​.​0 Compilation Album",
+      "artist": "",
+      "url": "https://archive.org/download/PPD-PR012/01_Parabola_-_Proximity.mp3",
+      "page": "https://archive.org/details/PPD-PR012",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "nata - what the sea saw",
+      "artist": "nata",
+      "url": "https://archive.org/download/Nata-WhatTheSeaSaw/WhatTheSeaSaw.mp3",
+      "page": "https://archive.org/details/Nata-WhatTheSeaSaw",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "KIL005 - Thee Undead Big Blues Shit - Baladas Do Morto-Vivo",
+      "artist": "Thee Undead Big Blues Shit",
+      "url": "https://archive.org/download/KIL005/01_blue_moon_of_kentucky_vbr.mp3",
+      "page": "https://archive.org/details/KIL005",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Natanas Gathered Dispersal Halted",
+      "artist": "Natanas",
+      "url": "https://archive.org/download/NatanasGatheredDispersalHalted/Natanas%20-%20Gathered%20Dispersal%20Halted%20-%2001%20Sometimes.mp3",
+      "page": "https://archive.org/details/NatanasGatheredDispersalHalted",
+      "license": "Creative Commons"
     },
     {
       "title": "United in Silence",
@@ -74,53 +114,11 @@
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "Non Commissioning Boundaries",
-      "artist": "Lucas Darklord and Samuel Bruce",
-      "url": "https://archive.org/download/NonCommissioningBoundaries/NonCommissioningBoundaries.mp3",
-      "page": "https://archive.org/details/NonCommissioningBoundaries",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "NXL145 PsykoNautas En Directo 2025",
-      "artist": "Psykonautas",
-      "url": "https://archive.org/download/NXL145/01%20-%20Salimos%20a%20las%20Calles.mp3",
-      "page": "https://archive.org/details/NXL145",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "[YESNO 078] RULLY SHABARA & RUDY WURYOKO \"Wirok\"",
-      "artist": "Rully Shabara & Rudy Wuryoko",
-      "url": "https://archive.org/download/yesno078/01%20Pak%21.mp3",
-      "page": "https://archive.org/details/yesno078",
-      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-    },
-    {
-      "title": "[Nu-Logic023] Pois - Resìne",
-      "artist": "Pois",
-      "url": "https://archive.org/download/Nu-Logic023/01.POIS-Lithum.mp3",
-      "page": "https://archive.org/details/Nu-Logic023",
+      "title": "NXL002 Seguimos Riendonos",
+      "artist": "Eskorbutin",
+      "url": "https://archive.org/download/NXL002/01Eskorbutin-YaNoQuedanMasCojones.mp3",
+      "page": "https://archive.org/details/NXL002",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "[FNET016] Harmash - Der Golem (mp3, 320)",
-      "artist": "Vitali Harmash",
-      "url": "https://archive.org/download/FNET016HarmashDerGolemmp3320/Harmash-DerGolem_01.mp3",
-      "page": "https://archive.org/details/FNET016HarmashDerGolemmp3320",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "Noise Research Reaktions",
-      "artist": "London Concrete",
-      "url": "https://archive.org/download/NoiseResearchReaktions/LondonConcrete-NrReaktions1.mp3",
-      "page": "https://archive.org/details/NoiseResearchReaktions",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/uk/"
-    },
-    {
-      "title": "Apkallu - \"Original eMotion Picture Soundtrack. City Edition\"",
-      "artist": "",
-      "url": "https://archive.org/download/PL019/01_Gteborg.mp3",
-      "page": "https://archive.org/details/PL019",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
     }
   ]
 }
