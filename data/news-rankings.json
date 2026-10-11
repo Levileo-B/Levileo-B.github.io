@@ -1,12 +1,435 @@
 {
-  "generated_at": "2026-10-11T15:44:53+00:00",
-  "updated": "2026-10-11T15:44:53+00:00",
+  "generated_at": "2026-10-11T20:20:34+00:00",
+  "updated": "2026-10-11T20:20:34+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
-    "start": "2026-10-05T00:00:00+08:00",
-    "end": "2026-10-11T15:44:53+00:00",
-    "total": 907,
+    "start": "2026-10-12T00:00:00+08:00",
+    "end": "2026-10-11T20:20:34+00:00",
+    "total": 21,
+    "items": [
+      {
+        "title": "GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析",
+        "link": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
+        "date": "2026-10-11T20:20:34+00:00",
+        "date_is_observed": true,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "美团技术团队"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Justice Department investigates TV networks as White House press-access fight escalates",
+        "link": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
+        "date": "2026-10-11T20:18:38+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "财经"
+        ],
+        "sources": [
+          "CNBC"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "A college in Illinois tried to cancel its Flock contact and it refused",
+        "link": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+        "date": "2026-10-11T20:06:43+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "科技"
+        ],
+        "sources": [
+          "The Verge"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Cognitive Decline or Sanity Incline?",
+        "link": "https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline",
+        "date": "2026-10-11T20:05:03+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[Claude] 凌晨 4 点失眠了",
+        "link": "https://www.v2ex.com/t/1247920",
+        "date": "2026-10-11T20:02:58+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[推广] Qwen Image 2.1 Pro 与 Nano Banana 2.1：透明编辑、视频参考和多轮修图怎么选？",
+        "link": "https://www.v2ex.com/t/1247919",
+        "date": "2026-10-11T19:55:26+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Be The Onion's Hero for Once",
+        "link": "https://mailchi.mp/email.theonion.com/archivehunt",
+        "date": "2026-10-11T19:43:32+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Trump declares 'energy ceasefire' between Russia and Ukraine; Zelenskyy is waiting for details",
+        "link": "https://www.cnbc.com/2026/10/11/trump-energy-ceasefire-russia-ukraine-zelenskyy.html",
+        "date": "2026-10-11T19:33:51+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "财经"
+        ],
+        "sources": [
+          "CNBC"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "The Unreasonable Effectiveness of Vex in NixOS",
+        "link": "https://blog.kammel.dev/post/nixos_vex/",
+        "date": "2026-10-11T19:23:07+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+        "date": "2026-10-11T18:33:56+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "科技"
+        ],
+        "sources": [
+          "The Verge"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      }
+    ],
+    "by_category": {
+      "开发": [
+        {
+          "title": "GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析",
+          "link": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
+          "date": "2026-10-11T20:20:34+00:00",
+          "date_is_observed": true,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "美团技术团队"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Cognitive Decline or Sanity Incline?",
+          "link": "https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline",
+          "date": "2026-10-11T20:05:03+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[Claude] 凌晨 4 点失眠了",
+          "link": "https://www.v2ex.com/t/1247920",
+          "date": "2026-10-11T20:02:58+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[推广] Qwen Image 2.1 Pro 与 Nano Banana 2.1：透明编辑、视频参考和多轮修图怎么选？",
+          "link": "https://www.v2ex.com/t/1247919",
+          "date": "2026-10-11T19:55:26+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Be The Onion's Hero for Once",
+          "link": "https://mailchi.mp/email.theonion.com/archivehunt",
+          "date": "2026-10-11T19:43:32+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "The Unreasonable Effectiveness of Vex in NixOS",
+          "link": "https://blog.kammel.dev/post/nixos_vex/",
+          "date": "2026-10-11T19:23:07+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Chapter 1 of Ways of Seeing by John Berger",
+          "link": "https://www.ways-of-seeing.com/ch1",
+          "date": "2026-10-11T18:26:24+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Total Annihilation, rebuilt for modern computers",
+          "link": "https://nanolathe.gg/",
+          "date": "2026-10-11T18:04:47+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[分享创造] [开源自荐] 小喷 1.1.0： Mac 菜单栏语音伙伴，支持 ChatGPT 订阅和本机 Ollama",
+          "link": "https://www.v2ex.com/t/1247918",
+          "date": "2026-10-11T17:31:20+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[分享创造] 做了个 Nano Banana 图片生成站：从一句脑洞，到产品图、海报和社媒配图",
+          "link": "https://www.v2ex.com/t/1247916",
+          "date": "2026-10-11T17:00:45+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        }
+      ],
+      "科技": [
+        {
+          "title": "A college in Illinois tried to cancel its Flock contact and it refused",
+          "link": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+          "date": "2026-10-11T20:06:43+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+          "date": "2026-10-11T18:33:56+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
+          "link": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
+          "date": "2026-10-11T17:31:07+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        }
+      ],
+      "综合": [
+        {
+          "title": "Poland detains man suspected of planning assassination of PM Tusk",
+          "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o",
+          "date": "2026-10-11T17:27:24+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Saudi capital airport hit by second Houthi strike in two days",
+          "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o",
+          "date": "2026-10-11T16:41:37+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        }
+      ],
+      "财经": [
+        {
+          "title": "Justice Department investigates TV networks as White House press-access fight escalates",
+          "link": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
+          "date": "2026-10-11T20:18:38+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Trump declares 'energy ceasefire' between Russia and Ukraine; Zelenskyy is waiting for details",
+          "link": "https://www.cnbc.com/2026/10/11/trump-energy-ceasefire-russia-ukraine-zelenskyy.html",
+          "date": "2026-10-11T19:33:51+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "From BJ’s to Lululemon, retailers are trimming assortments to boost business",
+          "link": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
+          "date": "2026-10-11T17:08:30+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Citroen revives the 2CV for an electric age",
+          "link": "https://www.bbc.co.uk/news/articles/c620r33plgppo",
+          "date": "2026-10-11T17:00:05+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        }
+      ]
+    }
+  },
+  "month": {
+    "start": "2026-10-01T00:00:00+08:00",
+    "end": "2026-10-11T20:20:34+00:00",
+    "total": 1380,
     "items": [
       {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
@@ -22,7 +445,7 @@
           "BBC World"
         ],
         "source_count": 2,
-        "observed_days": 2
+        "observed_days": 3
       },
       {
         "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
@@ -38,1031 +461,8 @@
           "BBC World"
         ],
         "source_count": 2,
-        "observed_days": 2
+        "observed_days": 3
       },
-      {
-        "title": "Programming Isn’t Special",
-        "link": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
-        "date": "2026-10-09T07:44:36+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
-        "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
-        "date": "2026-10-08T14:04:42+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发",
-          "科技"
-        ],
-        "sources": [
-          "Ars Technica",
-          "Hacker News"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
-        "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-        "date": "2026-10-07T21:16:18+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs",
-        "link": "https://arxiv.org/abs/2610.08144",
-        "date": "2026-10-07T15:24:38+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Trump chooses top spy boss to run new AI taskforce",
-        "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo",
-        "date": "2026-10-05T06:15:29+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-        "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo",
-        "date": "2026-10-11T14:38:10+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-        "link": "https://verdagon.dev/blog/valen-group-borrowing",
-        "date": "2026-10-11T12:06:22+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "LineageOS 24.0 released",
-        "link": "https://lineageos.org/Changelog-32/",
-        "date": "2026-10-11T06:18:59+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      }
-    ],
-    "by_category": {
-      "AI": [
-        {
-          "title": "字节找到了DeepSeek时强时弱的原因",
-          "link": "https://www.qbitai.com/2026/10/502364.html",
-          "date": "2026-10-09T07:11:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-          "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-          "date": "2026-10-09T00:08:24+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "刚刚，Hinton发了首篇RSI论文",
-          "link": "https://www.qbitai.com/2026/10/501705.html",
-          "date": "2026-10-05T04:42:52+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "特斯拉FSD，在欧洲被打回原形",
-          "link": "https://www.qbitai.com/2026/10/502467.html",
-          "date": "2026-10-10T06:59:02+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
-          "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
-          "date": "2026-10-09T12:10:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "TRAE终于把Code和Work合并了",
-          "link": "https://www.qbitai.com/2026/10/502426.html",
-          "date": "2026-10-09T09:19:57+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "We’re putting too much faith in AI’s ability to say no",
-          "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-          "date": "2026-10-09T09:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Job titles of the future: Delivery drone air traffic controller",
-          "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
-          "date": "2026-10-09T09:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
-          "link": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
-          "date": "2026-10-09T09:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
-          "link": "https://www.qbitai.com/2026/10/502422.html",
-          "date": "2026-10-09T08:53:08+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        }
-      ],
-      "开发": [
-        {
-          "title": "Programming Isn’t Special",
-          "link": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
-          "date": "2026-10-09T07:44:36+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
-          "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
-          "date": "2026-10-08T14:04:42+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发",
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica",
-            "Hacker News"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
-          "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-          "date": "2026-10-07T21:16:18+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs",
-          "link": "https://arxiv.org/abs/2610.08144",
-          "date": "2026-10-07T15:24:38+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-          "link": "https://verdagon.dev/blog/valen-group-borrowing",
-          "date": "2026-10-11T12:06:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "LineageOS 24.0 released",
-          "link": "https://lineageos.org/Changelog-32/",
-          "date": "2026-10-11T06:18:59+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Python 3.15.0",
-          "link": "https://www.python.org/downloads/release/python-3150/",
-          "date": "2026-10-09T14:35:42+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Bevy 0.20",
-          "link": "https://bevy.org/news/bevy-0-20/",
-          "date": "2026-10-08T22:57:50+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-          "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-          "date": "2026-10-06T19:21:14+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发",
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica",
-            "Hacker News"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
-          "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
-          "date": "2026-10-06T17:33:44+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发",
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica",
-            "Hacker News"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        }
-      ],
-      "科技": [
-        {
-          "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
-          "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
-          "date": "2026-10-08T14:04:42+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发",
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica",
-            "Hacker News"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-          "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-          "date": "2026-10-06T19:21:14+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发",
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica",
-            "Hacker News"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
-          "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
-          "date": "2026-10-06T17:33:44+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发",
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica",
-            "Hacker News"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "十个案例助你轻松上手 iOS 27 通知自动化",
-          "link": "https://sspai.com/post/114536",
-          "date": "2026-10-05T02:59:24+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 4
-        },
-        {
-          "title": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧",
-          "link": "https://sspai.com/post/115456",
-          "date": "2026-10-09T06:43:28+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts",
-          "link": "https://sspai.com/post/114869",
-          "date": "2026-10-09T02:08:37+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
-          "link": "https://sspai.com/post/115532",
-          "date": "2026-10-09T00:51:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "科学家识别出三种叫声最响亮的鸟",
-          "link": "https://www.solidot.org/story?sid=85539",
-          "date": "2026-10-05T14:45:39+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "因涌入大量 AI 报告 Google 冻结其 Bug 悬赏计划",
-          "link": "https://www.solidot.org/story?sid=85538",
-          "date": "2026-10-05T14:27:52+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "One with the world? A new look at brains transformed by psychedelics.",
-          "link": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
-          "date": "2026-10-10T11:15:35+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        }
-      ],
-      "科研": [
-        {
-          "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm",
-          "date": "2026-10-08T13:31:39+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "NASA is searching for hidden caves to build its first Moon base",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261008005247.htm",
-          "date": "2026-10-08T12:19:20+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "Only one workout helped older adults lose fat and keep muscle",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261007233348.htm",
-          "date": "2026-10-09T10:57:40+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "NASA astronauts splash down after 100 million miles in space",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
-          "date": "2026-10-09T03:56:28+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "October’s night sky is full of cosmic tricks and treats",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261008102704.htm",
-          "date": "2026-10-09T02:37:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Chimp and gorilla brains resist weight loss with age — unlike human brains",
-          "link": "https://www.nature.com/articles/d41586-026-03158-0",
-          "date": "2026-10-09T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Breaking down nerve-cell scaffold relieves chronic pain in mice",
-          "link": "https://www.nature.com/articles/d41586-026-03159-z",
-          "date": "2026-10-09T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Watch this invisible tattoo appear under UV light",
-          "link": "https://www.nature.com/articles/d41586-026-03210-z",
-          "date": "2026-10-09T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Briefing Chat: Top researchers are being misled by sham academic societies",
-          "link": "https://www.nature.com/articles/d41586-026-03216-7",
-          "date": "2026-10-09T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "The life of Darwin and the science of clouds: Books in brief",
-          "link": "https://www.nature.com/articles/d41586-026-03217-6",
-          "date": "2026-10-09T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        }
-      ],
-      "综合": [
-        {
-          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-          "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo",
-          "date": "2026-10-09T22:30:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
-          "date": "2026-10-09T20:32:42+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Trump chooses top spy boss to run new AI taskforce",
-          "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo",
-          "date": "2026-10-05T06:15:29+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-          "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo",
-          "date": "2026-10-11T14:38:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Adidas sues Australian label White Fox over four stripes design",
-          "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o",
-          "date": "2026-10-08T18:17:28+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "老撾的班根軍用機場 中國能用來做甚麼？",
-          "link": "https://www.bbc.com/zhongwen/articles/cmwy48r8ex41o/trad",
-          "date": "2026-10-09T00:18:18+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-          "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo",
-          "date": "2026-10-10T12:29:31+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "以「山巔之城」論台灣：賴清德雙十演說想傳達什麼訊息？",
-          "link": "https://www.bbc.com/zhongwen/articles/c6lyk794d8p7o/trad",
-          "date": "2026-10-10T11:37:11+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-          "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o",
-          "date": "2026-10-10T11:17:15+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "這位丈夫15年來潛水760次，就為了「靠近」海嘯失蹤的妻子",
-          "link": "https://www.bbc.com/zhongwen/articles/c60rlq5d24wwo/trad",
-          "date": "2026-10-10T07:48:57+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        }
-      ],
-      "财经": [
-        {
-          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-          "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo",
-          "date": "2026-10-09T22:30:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
-          "date": "2026-10-09T20:32:42+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Trump chooses top spy boss to run new AI taskforce",
-          "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo",
-          "date": "2026-10-05T06:15:29+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-          "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo",
-          "date": "2026-10-11T14:38:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Adidas sues Australian label White Fox over four stripes design",
-          "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o",
-          "date": "2026-10-08T18:17:28+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
-          "link": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
-          "date": "2026-10-10T13:42:36+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance",
-          "link": "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
-          "date": "2026-10-10T13:00:01+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
-          "link": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
-          "date": "2026-10-10T11:00:01+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
-          "link": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
-          "date": "2026-10-09T23:16:50+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Boots has a new owner: Three ways it could affect you",
-          "link": "https://www.bbc.co.uk/news/articles/c63djxry8124o",
-          "date": "2026-10-09T23:01:14+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        }
-      ]
-    }
-  },
-  "month": {
-    "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-11T15:44:53+00:00",
-    "total": 1357,
-    "items": [
       {
         "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
         "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
@@ -1080,9 +480,9 @@
         "observed_days": 3
       },
       {
-        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-        "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo",
-        "date": "2026-10-09T22:30:22+00:00",
+        "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+        "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo",
+        "date": "2026-10-11T14:38:10+00:00",
         "date_is_observed": false,
         "categories": [
           "综合",
@@ -1096,17 +496,16 @@
         "observed_days": 2
       },
       {
-        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-        "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
-        "date": "2026-10-09T20:32:42+00:00",
+        "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+        "link": "https://verdagon.dev/blog/valen-group-borrowing",
+        "date": "2026-10-11T12:06:22+00:00",
         "date_is_observed": false,
         "categories": [
-          "综合",
-          "财经"
+          "开发"
         ],
         "sources": [
-          "BBC Business",
-          "BBC World"
+          "Hacker News",
+          "Lobsters"
         ],
         "source_count": 2,
         "observed_days": 2
@@ -1184,36 +583,6 @@
         "sources": [
           "BBC Business",
           "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "We’re going to need default hard budget caps on pretty much everything",
-        "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-        "date": "2026-10-04T00:20:16+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Why don’t more developers \"use the platform\"?",
-        "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-        "date": "2026-10-03T21:35:28+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
         ],
         "source_count": 2,
         "observed_days": 2
@@ -1234,6 +603,20 @@
           ],
           "source_count": 1,
           "observed_days": 5
+        },
+        {
+          "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+          "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+          "date": "2026-10-09T00:08:24+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 4
         },
         {
           "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
@@ -1278,6 +661,62 @@
           "observed_days": 4
         },
         {
+          "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+          "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+          "date": "2026-10-09T12:10:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "We’re putting too much faith in AI’s ability to say no",
+          "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+          "date": "2026-10-09T09:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Job titles of the future: Delivery drone air traffic controller",
+          "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+          "date": "2026-10-09T09:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+          "link": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+          "date": "2026-10-09T09:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
           "title": "字节找到了DeepSeek时强时弱的原因",
           "link": "https://www.qbitai.com/2026/10/502364.html",
           "date": "2026-10-09T07:11:55+00:00",
@@ -1290,79 +729,24 @@
           ],
           "source_count": 1,
           "observed_days": 3
-        },
-        {
-          "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-          "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-          "date": "2026-10-09T00:08:24+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "刚刚，Hinton发了首篇RSI论文",
-          "link": "https://www.qbitai.com/2026/10/501705.html",
-          "date": "2026-10-05T04:42:52+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "AI算力硬合作，马斯克还是更相信中国制造",
-          "link": "https://www.qbitai.com/2026/10/501605.html",
-          "date": "2026-10-04T06:12:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "最火AI岗位FDE：月薪5万，都干这些…",
-          "link": "https://www.qbitai.com/2026/10/501506.html",
-          "date": "2026-10-04T06:05:35+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
-          "link": "https://www.qbitai.com/2026/10/501381.html",
-          "date": "2026-10-03T07:54:43+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 3
         }
       ],
       "开发": [
+        {
+          "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+          "link": "https://verdagon.dev/blog/valen-group-borrowing",
+          "date": "2026-10-11T12:06:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
         {
           "title": "Programming Isn’t Special",
           "link": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
@@ -1498,21 +882,6 @@
           ],
           "source_count": 2,
           "observed_days": 2
-        },
-        {
-          "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-          "link": "https://verdagon.dev/blog/valen-group-borrowing",
-          "date": "2026-10-11T12:06:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 1
         }
       ],
       "科技": [
@@ -1695,6 +1064,104 @@
           "observed_days": 4
         },
         {
+          "title": "NASA astronauts splash down after 100 million miles in space",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
+          "date": "2026-10-09T03:56:28+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "October’s night sky is full of cosmic tricks and treats",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261008102704.htm",
+          "date": "2026-10-09T02:37:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Chimp and gorilla brains resist weight loss with age — unlike human brains",
+          "link": "https://www.nature.com/articles/d41586-026-03158-0",
+          "date": "2026-10-09T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Breaking down nerve-cell scaffold relieves chronic pain in mice",
+          "link": "https://www.nature.com/articles/d41586-026-03159-z",
+          "date": "2026-10-09T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Watch this invisible tattoo appear under UV light",
+          "link": "https://www.nature.com/articles/d41586-026-03210-z",
+          "date": "2026-10-09T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Briefing Chat: Top researchers are being misled by sham academic societies",
+          "link": "https://www.nature.com/articles/d41586-026-03216-7",
+          "date": "2026-10-09T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "The life of Darwin and the science of clouds: Books in brief",
+          "link": "https://www.nature.com/articles/d41586-026-03217-6",
+          "date": "2026-10-09T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
           "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
           "link": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm",
           "date": "2026-10-08T13:31:39+00:00",
@@ -1707,107 +1174,41 @@
           ],
           "source_count": 1,
           "observed_days": 3
-        },
-        {
-          "title": "NASA is searching for hidden caves to build its first Moon base",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261008005247.htm",
-          "date": "2026-10-08T12:19:20+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm",
-          "date": "2026-10-04T12:05:54+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "Location, location, location: how to edit genes only in the cells you want",
-          "link": "https://www.nature.com/articles/d41586-026-03037-8",
-          "date": "2026-10-02T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel <i>Ply</i>",
-          "link": "https://www.nature.com/articles/d41586-026-03057-4",
-          "date": "2026-10-02T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "Nature has rights — it is time the world recognized them",
-          "link": "https://www.nature.com/articles/d41586-026-03145-5",
-          "date": "2026-10-02T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "Only one workout helped older adults lose fat and keep muscle",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261007233348.htm",
-          "date": "2026-10-09T10:57:40+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "NASA astronauts splash down after 100 million miles in space",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm",
-          "date": "2026-10-09T03:56:28+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "综合": [
+        {
+          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+          "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo",
+          "date": "2026-10-09T22:30:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 3
+        },
+        {
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
+          "date": "2026-10-09T20:32:42+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 3
+        },
         {
           "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
           "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
@@ -1825,25 +1226,9 @@
           "observed_days": 3
         },
         {
-          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-          "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo",
-          "date": "2026-10-09T22:30:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
-          "date": "2026-10-09T20:32:42+00:00",
+          "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+          "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo",
+          "date": "2026-10-11T14:38:10+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -1887,22 +1272,6 @@
           ],
           "source_count": 2,
           "observed_days": 2
-        },
-        {
-          "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-          "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo",
-          "date": "2026-10-11T14:38:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
         },
         {
           "title": "Adidas sues Australian label White Fox over four stripes design",
@@ -1967,6 +1336,38 @@
       ],
       "财经": [
         {
+          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+          "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo",
+          "date": "2026-10-09T22:30:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 3
+        },
+        {
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
+          "date": "2026-10-09T20:32:42+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 3
+        },
+        {
           "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
           "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
           "date": "2026-10-02T17:29:56+00:00",
@@ -1983,25 +1384,9 @@
           "observed_days": 3
         },
         {
-          "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-          "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo",
-          "date": "2026-10-09T22:30:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
-          "date": "2026-10-09T20:32:42+00:00",
+          "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+          "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo",
+          "date": "2026-10-11T14:38:10+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -2045,22 +1430,6 @@
           ],
           "source_count": 2,
           "observed_days": 2
-        },
-        {
-          "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-          "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo",
-          "date": "2026-10-11T14:38:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
         },
         {
           "title": "Adidas sues Australian label White Fox over four stripes design",
