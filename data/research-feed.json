@@ -1,58 +1,82 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-10T07:44:33.648767+00:00",
-  "attempted_at": "2026-10-10T07:44:33.648767+00:00",
+  "updated": "2026-10-11T07:48:58.736110+00:00",
+  "attempted_at": "2026-10-11T07:48:58.736110+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-10-10T07:44:33.648767+00:00",
+      "last_success": "2026-10-11T07:48:58.736110+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-10-10T07:44:33.648767+00:00",
+      "last_success": "2026-10-11T07:48:58.736110+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-10-10T07:44:33.648767+00:00",
+      "last_success": "2026-10-11T07:48:58.736110+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-10-10T07:44:33.648767+00:00",
+      "last_success": "2026-10-11T07:48:58.736110+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-10-10T07:44:33.648767+00:00",
+      "last_success": "2026-10-11T07:48:58.736110+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-10-10T07:44:33.648767+00:00",
+      "last_success": "2026-10-11T07:48:58.736110+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-10-10T07:44:33.648767+00:00",
+      "last_success": "2026-10-11T07:48:58.736110+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-10-10T07:44:33.648767+00:00",
+      "last_success": "2026-10-11T07:48:58.736110+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.1038/s41598-026-74261-5",
+      "title": "A Covariance-Guided Pursuit Birds of Prey-Based Optimization for global optimization and UAV path planning",
+      "journal_id": "scientific-reports",
+      "published": "2026-10-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-74261-5",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-72313-4",
+      "title": "A picture fuzzy SWARA–VIKOR framework for evaluating drone-swarm navigation and mission-coordination strategies under uncertainty",
+      "journal_id": "scientific-reports",
+      "published": "2026-10-10",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-72313-4",
+      "source": "crossref"
+    },
     {
       "id": "10.3390/rs18193430",
       "title": "Mask-Guided Diffusion-Consistency Network for Multimodal Hyperspectral Point-Cloud Mineral Mapping",
@@ -461,6 +485,19 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1109/lra.2026.3723261",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105808",
+      "title": "SN-LIO: Entropy-driven LiDAR-Inertial SLAM and quality-aware 3D memory for autonomous swiftlet’s nest monitoring in dark and texture-poor environments",
+      "journal_id": "ras",
+      "published": "2026-10",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105808",
       "source": "crossref"
     },
     {
@@ -1661,18 +1698,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.1038/s41598-026-65759-z",
-      "title": "Task allocation and path planning for multi-robot inspection in mines considering charging",
-      "journal_id": "scientific-reports",
-      "published": "2026-08-06",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-65759-z",
-      "source": "crossref"
-    },
-    {
       "id": "10.3389/frobt.2026.1885625",
       "title": "Combining exploration and imitation in contact-rich task learning on an articulated soft robot arm",
       "journal_id": "frontiers",
@@ -1842,18 +1867,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1002/rob.70311",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1038/s41598-026-63051-8",
-      "title": "The UnderwaterVLA dual-brain vision-language-action architecture enables robust autonomous underwater navigation",
-      "journal_id": "scientific-reports",
-      "published": "2026-07-28",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-63051-8",
       "source": "crossref"
     },
     {
