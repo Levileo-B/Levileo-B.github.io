@@ -1,45 +1,49 @@
 {
-  "generated_at": "2026-10-12T00:35:37+00:00",
-  "updated": "2026-10-12T00:35:37+00:00",
+  "generated_at": "2026-10-12T07:24:40+00:00",
+  "updated": "2026-10-12T07:24:40+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-12T00:00:00+08:00",
-    "end": "2026-10-12T00:35:37+00:00",
-    "total": 45,
+    "end": "2026-10-12T07:24:40+00:00",
+    "total": 66,
     "items": [
       {
-        "title": "[OpenWrt] 同一机场在不同运营商宽带下测速差异很大，如何排查？",
-        "link": "https://www.v2ex.com/t/1247937",
-        "date": "2026-10-12T00:30:21+00:00",
+        "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+        "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo",
+        "date": "2026-10-12T05:00:52+00:00",
         "date_is_observed": false,
         "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Judge orders Trump admin to stop airing challenged government-funded ads immediately",
-        "link": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
-        "date": "2026-10-12T00:29:50+00:00",
-        "date_is_observed": false,
-        "categories": [
+          "综合",
           "财经"
         ],
         "sources": [
-          "CNBC"
+          "BBC Business",
+          "BBC World"
         ],
-        "source_count": 1,
+        "source_count": 2,
         "observed_days": 1
       },
       {
-        "title": "[分享创造] [开源]: 让 GitHub notifications 保持清爽",
-        "link": "https://www.v2ex.com/t/1247936",
-        "date": "2026-10-12T00:26:45+00:00",
+        "title": "Trump faces growing backlash over plans to import diesel from Russia",
+        "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo",
+        "date": "2026-10-11T23:18:45+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
+        "title": "[分享创造] 分享一个我的做的 iOS 小工具",
+        "link": "https://www.v2ex.com/t/1248109",
+        "date": "2026-10-12T07:16:04+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -51,9 +55,9 @@
         "observed_days": 1
       },
       {
-        "title": "[分享创造] 做运维 / 自建服务的时候，半夜经常靠邮件或 Slack 刷消息，手机上不够醒目，就做了个 iOS App： Hookpager。",
-        "link": "https://www.v2ex.com/t/1247935",
-        "date": "2026-10-12T00:23:59+00:00",
+        "title": "[程序员] 用 AI 智能体一小时跑起了搁置多年的主机面板，聊聊这段时间烧 token 的心得",
+        "link": "https://www.v2ex.com/t/1248108",
+        "date": "2026-10-12T07:11:51+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -65,9 +69,9 @@
         "observed_days": 1
       },
       {
-        "title": "[分享创造] [开源] MAC 菜单栏流量可视化工具-流量喵，仅 1m",
-        "link": "https://www.v2ex.com/t/1247934",
-        "date": "2026-10-12T00:23:51+00:00",
+        "title": "[分享发现] 现在 100G 的攻击成本大约是多少？",
+        "link": "https://www.v2ex.com/t/1248107",
+        "date": "2026-10-12T07:08:51+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -79,9 +83,9 @@
         "observed_days": 1
       },
       {
-        "title": "[推广] 1.9 折起按量消耗，用多少扣多少，新人送 10 美元",
-        "link": "https://www.v2ex.com/t/1247933",
-        "date": "2026-10-12T00:22:15+00:00",
+        "title": "[推广] 生图真的要卷起来了，低到离谱，一律 8 分！",
+        "link": "https://www.v2ex.com/t/1248106",
+        "date": "2026-10-12T07:07:49+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -93,51 +97,37 @@
         "observed_days": 1
       },
       {
-        "title": "早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXAI改名SpaceXSI",
-        "link": "https://www.ifanr.com/1683302",
-        "date": "2026-10-12T00:12:37+00:00",
+        "title": "[程序员] yoagent，极简的 rust agent loop library, 现在支持 DSH 插件和 Pi 扩展的无缝调用",
+        "link": "https://www.v2ex.com/t/1248104",
+        "date": "2026-10-12T07:05:38+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "微软在 Qwen 模型基础上推出决策模型 Microsoft-Decision-1",
+        "link": "https://www.solidot.org/story?sid=85584",
+        "date": "2026-10-12T06:44:23+00:00",
         "date_is_observed": false,
         "categories": [
           "科技"
         ],
         "sources": [
-          "爱范儿"
+          "Solidot"
         ],
         "source_count": 1,
         "observed_days": 1
       },
       {
-        "title": "美國停止公開處決已近一個世紀，如今為何重啟？",
-        "link": "https://www.bbc.com/zhongwen/articles/c6lyk8d5d7ygo/trad",
-        "date": "2026-10-12T00:08:36+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC 中文"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "緬甸年輕人的恐懼：走在街頭，隨時被「抓壯丁」賣給軍方",
-        "link": "https://www.bbc.com/zhongwen/articles/c63el43dw8pko/trad",
-        "date": "2026-10-12T00:08:15+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC 中文"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Local Indexing to reduce tool calling and token usage",
-        "link": "https://tedhaley.ca/pensieve/",
-        "date": "2026-10-12T00:03:53+00:00",
+        "title": "Attack of the Vibe Coded Photoshop Clones",
+        "link": "https://www.shokunin.studio/blog/2026/10/9/attack-of-the-vibe-coded-photoshop-clones",
+        "date": "2026-10-12T06:35:05+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -147,14 +137,28 @@
         ],
         "source_count": 1,
         "observed_days": 1
+      },
+      {
+        "title": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
+        "link": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
+        "date": "2026-10-12T05:57:29+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "财经"
+        ],
+        "sources": [
+          "CNBC"
+        ],
+        "source_count": 1,
+        "observed_days": 1
       }
     ],
     "by_category": {
       "开发": [
         {
-          "title": "[OpenWrt] 同一机场在不同运营商宽带下测速差异很大，如何排查？",
-          "link": "https://www.v2ex.com/t/1247937",
-          "date": "2026-10-12T00:30:21+00:00",
+          "title": "[分享创造] 分享一个我的做的 iOS 小工具",
+          "link": "https://www.v2ex.com/t/1248109",
+          "date": "2026-10-12T07:16:04+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -166,9 +170,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] [开源]: 让 GitHub notifications 保持清爽",
-          "link": "https://www.v2ex.com/t/1247936",
-          "date": "2026-10-12T00:26:45+00:00",
+          "title": "[程序员] 用 AI 智能体一小时跑起了搁置多年的主机面板，聊聊这段时间烧 token 的心得",
+          "link": "https://www.v2ex.com/t/1248108",
+          "date": "2026-10-12T07:11:51+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -180,9 +184,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] 做运维 / 自建服务的时候，半夜经常靠邮件或 Slack 刷消息，手机上不够醒目，就做了个 iOS App： Hookpager。",
-          "link": "https://www.v2ex.com/t/1247935",
-          "date": "2026-10-12T00:23:59+00:00",
+          "title": "[分享发现] 现在 100G 的攻击成本大约是多少？",
+          "link": "https://www.v2ex.com/t/1248107",
+          "date": "2026-10-12T07:08:51+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -194,9 +198,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] [开源] MAC 菜单栏流量可视化工具-流量喵，仅 1m",
-          "link": "https://www.v2ex.com/t/1247934",
-          "date": "2026-10-12T00:23:51+00:00",
+          "title": "[推广] 生图真的要卷起来了，低到离谱，一律 8 分！",
+          "link": "https://www.v2ex.com/t/1248106",
+          "date": "2026-10-12T07:07:49+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -208,9 +212,9 @@
           "observed_days": 1
         },
         {
-          "title": "[推广] 1.9 折起按量消耗，用多少扣多少，新人送 10 美元",
-          "link": "https://www.v2ex.com/t/1247933",
-          "date": "2026-10-12T00:22:15+00:00",
+          "title": "[程序员] yoagent，极简的 rust agent loop library, 现在支持 DSH 插件和 Pi 扩展的无缝调用",
+          "link": "https://www.v2ex.com/t/1248104",
+          "date": "2026-10-12T07:05:38+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -222,9 +226,9 @@
           "observed_days": 1
         },
         {
-          "title": "Local Indexing to reduce tool calling and token usage",
-          "link": "https://tedhaley.ca/pensieve/",
-          "date": "2026-10-12T00:03:53+00:00",
+          "title": "Attack of the Vibe Coded Photoshop Clones",
+          "link": "https://www.shokunin.studio/blog/2026/10/9/attack-of-the-vibe-coded-photoshop-clones",
+          "date": "2026-10-12T06:35:05+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -236,9 +240,9 @@
           "observed_days": 1
         },
         {
-          "title": "Whatever became of holography? (2011)",
-          "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
-          "date": "2026-10-11T23:50:34+00:00",
+          "title": "Type-safe HTML templating in Zig",
+          "link": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+          "date": "2026-10-12T05:02:34+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -250,9 +254,9 @@
           "observed_days": 1
         },
         {
-          "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-          "link": "https://github.com/plimsollmark/plimsoll",
-          "date": "2026-10-11T23:47:59+00:00",
+          "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+          "link": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
+          "date": "2026-10-12T04:54:00+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -264,9 +268,9 @@
           "observed_days": 1
         },
         {
-          "title": "Governments are mishandling the affordability crisis",
-          "link": "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis",
-          "date": "2026-10-11T23:40:06+00:00",
+          "title": "Crest – an Arc-inspired open-source browser for Mac",
+          "link": "https://crestbrowser.com/",
+          "date": "2026-10-12T03:37:09+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -278,21 +282,63 @@
           "observed_days": 1
         },
         {
-          "title": "Illustration Beyond Proof",
-          "link": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
-          "date": "2026-10-11T23:22:36+00:00",
+          "title": "'AI' is Not a Tool",
+          "link": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+          "date": "2026-10-12T01:18:09+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "Hacker News"
+            "Lobsters"
           ],
           "source_count": 1,
           "observed_days": 1
         }
       ],
       "科技": [
+        {
+          "title": "微软在 Qwen 模型基础上推出决策模型 Microsoft-Decision-1",
+          "link": "https://www.solidot.org/story?sid=85584",
+          "date": "2026-10-12T06:44:23+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Solidot"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "FAST 发现一个脉冲星三星系统",
+          "link": "https://www.solidot.org/story?sid=85583",
+          "date": "2026-10-12T05:45:52+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Solidot"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
+          "link": "https://sspai.com/post/114821",
+          "date": "2026-10-12T03:20:18+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXAI改名SpaceXSI",
           "link": "https://www.ifanr.com/1683302",
@@ -380,6 +426,66 @@
       ],
       "综合": [
         {
+          "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+          "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo",
+          "date": "2026-10-12T05:00:52+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Trump faces growing backlash over plans to import diesel from Russia",
+          "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo",
+          "date": "2026-10-11T23:18:45+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "特朗普計劃從俄羅斯進口柴油 反對聲浪趨漲",
+          "link": "https://www.bbc.com/zhongwen/articles/cm4g1d4p2k2no/trad",
+          "date": "2026-10-12T05:38:13+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "走進印度新一輪Z世代主導的「蟑螂」抗議——圖輯",
+          "link": "https://www.bbc.com/zhongwen/articles/c3vgx1jxyejyo/trad",
+          "date": "2026-10-12T04:29:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "美國停止公開處決已近一個世紀，如今為何重啟？",
           "link": "https://www.bbc.com/zhongwen/articles/c6lyk8d5d7ygo/trad",
           "date": "2026-10-12T00:08:36+00:00",
@@ -408,7 +514,7 @@
           "observed_days": 1
         },
         {
-          "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+          "title": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
           "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o",
           "date": "2026-10-11T21:36:40+00:00",
           "date_is_observed": false,
@@ -466,7 +572,81 @@
       ],
       "财经": [
         {
-          "title": "Judge orders Trump admin to stop airing challenged government-funded ads immediately",
+          "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+          "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo",
+          "date": "2026-10-12T05:00:52+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Trump faces growing backlash over plans to import diesel from Russia",
+          "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo",
+          "date": "2026-10-11T23:18:45+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
+          "link": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
+          "date": "2026-10-12T05:57:29+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "TikTok CEO sees major scientific breakthroughs from AI within three years",
+          "link": "https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html",
+          "date": "2026-10-12T04:24:33+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Why China is importing a record amount of gold — and what it means for prices",
+          "link": "https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html",
+          "date": "2026-10-12T00:51:10+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
           "link": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
           "date": "2026-10-12T00:29:50+00:00",
           "date_is_observed": false,
@@ -508,20 +688,6 @@
           "observed_days": 1
         },
         {
-          "title": "Trump faces growing backlash over plans to import diesel from Russia",
-          "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo",
-          "date": "2026-10-11T23:18:45+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
           "title": "AI is less regulated than milk, says Microsoft president",
           "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo",
           "date": "2026-10-11T23:07:35+00:00",
@@ -536,65 +702,9 @@
           "observed_days": 1
         },
         {
-          "title": "Iran war threatens Healey's Budget plans, think tank warns",
+          "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
           "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo",
           "date": "2026-10-11T23:04:07+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Justice Department investigates TV networks as White House press-access fight escalates",
-          "link": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
-          "date": "2026-10-11T20:18:38+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Trump declares 'energy ceasefire' between Russia and Ukraine; Zelenskyy is waiting for details",
-          "link": "https://www.cnbc.com/2026/10/11/trump-energy-ceasefire-russia-ukraine-zelenskyy.html",
-          "date": "2026-10-11T19:33:51+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "From BJ’s to Lululemon, retailers are trimming assortments to boost business",
-          "link": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
-          "date": "2026-10-11T17:08:30+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Citroen revives the 2CV for an electric age",
-          "link": "https://www.bbc.co.uk/news/articles/c620r33plgppo",
-          "date": "2026-10-11T17:00:05+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -610,8 +720,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-12T00:35:37+00:00",
-    "total": 1404,
+    "end": "2026-10-12T07:24:40+00:00",
+    "total": 1425,
     "items": [
       {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
@@ -1456,6 +1566,38 @@
           "observed_days": 2
         },
         {
+          "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+          "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo",
+          "date": "2026-10-12T05:00:52+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Trump faces growing backlash over plans to import diesel from Russia",
+          "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo",
+          "date": "2026-10-11T23:18:45+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Adidas sues Australian label White Fox over four stripes design",
           "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o",
           "date": "2026-10-08T18:17:28+00:00",
@@ -1486,34 +1628,6 @@
           ],
           "source_count": 2,
           "observed_days": 1
-        },
-        {
-          "title": "美國女囚死刑執行失敗：注射兩劑藥物仍存活，接下來將如何發展？",
-          "link": "https://www.bbc.com/zhongwen/articles/c6x2z2dqv080o/trad",
-          "date": "2026-10-02T07:14:39+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 5
-        },
-        {
-          "title": "康乃爾大學輪姦案調查：我們目前知道多少？",
-          "link": "https://www.bbc.com/zhongwen/articles/ck0j3j415x0go/trad",
-          "date": "2026-10-02T02:31:44+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 4
         }
       ],
       "财经": [
@@ -1614,6 +1728,38 @@
           "observed_days": 2
         },
         {
+          "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+          "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo",
+          "date": "2026-10-12T05:00:52+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Trump faces growing backlash over plans to import diesel from Russia",
+          "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo",
+          "date": "2026-10-11T23:18:45+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Adidas sues Australian label White Fox over four stripes design",
           "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o",
           "date": "2026-10-08T18:17:28+00:00",
@@ -1644,34 +1790,6 @@
           ],
           "source_count": 2,
           "observed_days": 1
-        },
-        {
-          "title": "UK diesel prices top £2 a litre for first time, RAC says",
-          "link": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo",
-          "date": "2026-10-02T11:17:31+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 4
-        },
-        {
-          "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
-          "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo",
-          "date": "2026-10-01T23:00:06+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 4
         }
       ]
     }
