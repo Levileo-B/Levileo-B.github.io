@@ -1,73 +1,17 @@
 {
-  "generated_at": "2026-10-11T20:20:34+00:00",
-  "updated": "2026-10-11T20:20:34+00:00",
+  "generated_at": "2026-10-12T00:35:37+00:00",
+  "updated": "2026-10-12T00:35:37+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-12T00:00:00+08:00",
-    "end": "2026-10-11T20:20:34+00:00",
-    "total": 21,
+    "end": "2026-10-12T00:35:37+00:00",
+    "total": 45,
     "items": [
       {
-        "title": "GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析",
-        "link": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
-        "date": "2026-10-11T20:20:34+00:00",
-        "date_is_observed": true,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "美团技术团队"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Justice Department investigates TV networks as White House press-access fight escalates",
-        "link": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
-        "date": "2026-10-11T20:18:38+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "财经"
-        ],
-        "sources": [
-          "CNBC"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "A college in Illinois tried to cancel its Flock contact and it refused",
-        "link": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
-        "date": "2026-10-11T20:06:43+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "The Verge"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Cognitive Decline or Sanity Incline?",
-        "link": "https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline",
-        "date": "2026-10-11T20:05:03+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[Claude] 凌晨 4 点失眠了",
-        "link": "https://www.v2ex.com/t/1247920",
-        "date": "2026-10-11T20:02:58+00:00",
+        "title": "[OpenWrt] 同一机场在不同运营商宽带下测速差异很大，如何排查？",
+        "link": "https://www.v2ex.com/t/1247937",
+        "date": "2026-10-12T00:30:21+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -79,37 +23,9 @@
         "observed_days": 1
       },
       {
-        "title": "[推广] Qwen Image 2.1 Pro 与 Nano Banana 2.1：透明编辑、视频参考和多轮修图怎么选？",
-        "link": "https://www.v2ex.com/t/1247919",
-        "date": "2026-10-11T19:55:26+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Be The Onion's Hero for Once",
-        "link": "https://mailchi.mp/email.theonion.com/archivehunt",
-        "date": "2026-10-11T19:43:32+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Trump declares 'energy ceasefire' between Russia and Ukraine; Zelenskyy is waiting for details",
-        "link": "https://www.cnbc.com/2026/10/11/trump-energy-ceasefire-russia-ukraine-zelenskyy.html",
-        "date": "2026-10-11T19:33:51+00:00",
+        "title": "Judge orders Trump admin to stop airing challenged government-funded ads immediately",
+        "link": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
+        "date": "2026-10-12T00:29:50+00:00",
         "date_is_observed": false,
         "categories": [
           "财经"
@@ -121,29 +37,113 @@
         "observed_days": 1
       },
       {
-        "title": "The Unreasonable Effectiveness of Vex in NixOS",
-        "link": "https://blog.kammel.dev/post/nixos_vex/",
-        "date": "2026-10-11T19:23:07+00:00",
+        "title": "[分享创造] [开源]: 让 GitHub notifications 保持清爽",
+        "link": "https://www.v2ex.com/t/1247936",
+        "date": "2026-10-12T00:26:45+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[分享创造] 做运维 / 自建服务的时候，半夜经常靠邮件或 Slack 刷消息，手机上不够醒目，就做了个 iOS App： Hookpager。",
+        "link": "https://www.v2ex.com/t/1247935",
+        "date": "2026-10-12T00:23:59+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[分享创造] [开源] MAC 菜单栏流量可视化工具-流量喵，仅 1m",
+        "link": "https://www.v2ex.com/t/1247934",
+        "date": "2026-10-12T00:23:51+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[推广] 1.9 折起按量消耗，用多少扣多少，新人送 10 美元",
+        "link": "https://www.v2ex.com/t/1247933",
+        "date": "2026-10-12T00:22:15+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXAI改名SpaceXSI",
+        "link": "https://www.ifanr.com/1683302",
+        "date": "2026-10-12T00:12:37+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "科技"
+        ],
+        "sources": [
+          "爱范儿"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "美國停止公開處決已近一個世紀，如今為何重啟？",
+        "link": "https://www.bbc.com/zhongwen/articles/c6lyk8d5d7ygo/trad",
+        "date": "2026-10-12T00:08:36+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合"
+        ],
+        "sources": [
+          "BBC 中文"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "緬甸年輕人的恐懼：走在街頭，隨時被「抓壯丁」賣給軍方",
+        "link": "https://www.bbc.com/zhongwen/articles/c63el43dw8pko/trad",
+        "date": "2026-10-12T00:08:15+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合"
+        ],
+        "sources": [
+          "BBC 中文"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Local Indexing to reduce tool calling and token usage",
+        "link": "https://tedhaley.ca/pensieve/",
+        "date": "2026-10-12T00:03:53+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
         ],
         "sources": [
           "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-        "date": "2026-10-11T18:33:56+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "The Verge"
         ],
         "source_count": 1,
         "observed_days": 1
@@ -152,37 +152,9 @@
     "by_category": {
       "开发": [
         {
-          "title": "GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析",
-          "link": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
-          "date": "2026-10-11T20:20:34+00:00",
-          "date_is_observed": true,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "美团技术团队"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Cognitive Decline or Sanity Incline?",
-          "link": "https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline",
-          "date": "2026-10-11T20:05:03+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[Claude] 凌晨 4 点失眠了",
-          "link": "https://www.v2ex.com/t/1247920",
-          "date": "2026-10-11T20:02:58+00:00",
+          "title": "[OpenWrt] 同一机场在不同运营商宽带下测速差异很大，如何排查？",
+          "link": "https://www.v2ex.com/t/1247937",
+          "date": "2026-10-12T00:30:21+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -194,9 +166,9 @@
           "observed_days": 1
         },
         {
-          "title": "[推广] Qwen Image 2.1 Pro 与 Nano Banana 2.1：透明编辑、视频参考和多轮修图怎么选？",
-          "link": "https://www.v2ex.com/t/1247919",
-          "date": "2026-10-11T19:55:26+00:00",
+          "title": "[分享创造] [开源]: 让 GitHub notifications 保持清爽",
+          "link": "https://www.v2ex.com/t/1247936",
+          "date": "2026-10-12T00:26:45+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -208,65 +180,9 @@
           "observed_days": 1
         },
         {
-          "title": "Be The Onion's Hero for Once",
-          "link": "https://mailchi.mp/email.theonion.com/archivehunt",
-          "date": "2026-10-11T19:43:32+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "The Unreasonable Effectiveness of Vex in NixOS",
-          "link": "https://blog.kammel.dev/post/nixos_vex/",
-          "date": "2026-10-11T19:23:07+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Chapter 1 of Ways of Seeing by John Berger",
-          "link": "https://www.ways-of-seeing.com/ch1",
-          "date": "2026-10-11T18:26:24+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Total Annihilation, rebuilt for modern computers",
-          "link": "https://nanolathe.gg/",
-          "date": "2026-10-11T18:04:47+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[分享创造] [开源自荐] 小喷 1.1.0： Mac 菜单栏语音伙伴，支持 ChatGPT 订阅和本机 Ollama",
-          "link": "https://www.v2ex.com/t/1247918",
-          "date": "2026-10-11T17:31:20+00:00",
+          "title": "[分享创造] 做运维 / 自建服务的时候，半夜经常靠邮件或 Slack 刷消息，手机上不够醒目，就做了个 iOS App： Hookpager。",
+          "link": "https://www.v2ex.com/t/1247935",
+          "date": "2026-10-12T00:23:59+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -278,21 +194,133 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] 做了个 Nano Banana 图片生成站：从一句脑洞，到产品图、海报和社媒配图",
-          "link": "https://www.v2ex.com/t/1247916",
-          "date": "2026-10-11T17:00:45+00:00",
+          "title": "[分享创造] [开源] MAC 菜单栏流量可视化工具-流量喵，仅 1m",
+          "link": "https://www.v2ex.com/t/1247934",
+          "date": "2026-10-12T00:23:51+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
             "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[推广] 1.9 折起按量消耗，用多少扣多少，新人送 10 美元",
+          "link": "https://www.v2ex.com/t/1247933",
+          "date": "2026-10-12T00:22:15+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Local Indexing to reduce tool calling and token usage",
+          "link": "https://tedhaley.ca/pensieve/",
+          "date": "2026-10-12T00:03:53+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Whatever became of holography? (2011)",
+          "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
+          "date": "2026-10-11T23:50:34+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+          "link": "https://github.com/plimsollmark/plimsoll",
+          "date": "2026-10-11T23:47:59+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Governments are mishandling the affordability crisis",
+          "link": "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis",
+          "date": "2026-10-11T23:40:06+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Illustration Beyond Proof",
+          "link": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+          "date": "2026-10-11T23:22:36+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
           ],
           "source_count": 1,
           "observed_days": 1
         }
       ],
       "科技": [
+        {
+          "title": "早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXAI改名SpaceXSI",
+          "link": "https://www.ifanr.com/1683302",
+          "date": "2026-10-12T00:12:37+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见",
+          "link": "https://sspai.com/post/115845",
+          "date": "2026-10-11T22:34:54+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "A college in Illinois tried to cancel its Flock contact and it refused",
           "link": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
@@ -322,6 +350,20 @@
           "observed_days": 1
         },
         {
+          "title": "Review: 4-hour Musk documentary feels like two different films",
+          "link": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
+          "date": "2026-10-11T18:10:54+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
           "link": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
           "date": "2026-10-11T17:31:07+00:00",
@@ -338,6 +380,62 @@
       ],
       "综合": [
         {
+          "title": "美國停止公開處決已近一個世紀，如今為何重啟？",
+          "link": "https://www.bbc.com/zhongwen/articles/c6lyk8d5d7ygo/trad",
+          "date": "2026-10-12T00:08:36+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "緬甸年輕人的恐懼：走在街頭，隨時被「抓壯丁」賣給軍方",
+          "link": "https://www.bbc.com/zhongwen/articles/c63el43dw8pko/trad",
+          "date": "2026-10-12T00:08:15+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+          "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o",
+          "date": "2026-10-11T21:36:40+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+          "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o",
+          "date": "2026-10-11T21:12:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Poland detains man suspected of planning assassination of PM Tusk",
           "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o",
           "date": "2026-10-11T17:27:24+00:00",
@@ -352,7 +450,7 @@
           "observed_days": 1
         },
         {
-          "title": "Saudi capital airport hit by second Houthi strike in two days",
+          "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
           "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o",
           "date": "2026-10-11T16:41:37+00:00",
           "date_is_observed": false,
@@ -367,6 +465,90 @@
         }
       ],
       "财经": [
+        {
+          "title": "Judge orders Trump admin to stop airing challenged government-funded ads immediately",
+          "link": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
+          "date": "2026-10-12T00:29:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Roofing scammers con homeowners out of thousands of pounds",
+          "link": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o",
+          "date": "2026-10-11T23:19:49+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Debt advice that may leave you owing even more money",
+          "link": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo",
+          "date": "2026-10-11T23:19:07+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Trump faces growing backlash over plans to import diesel from Russia",
+          "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo",
+          "date": "2026-10-11T23:18:45+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "AI is less regulated than milk, says Microsoft president",
+          "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo",
+          "date": "2026-10-11T23:07:35+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Iran war threatens Healey's Budget plans, think tank warns",
+          "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo",
+          "date": "2026-10-11T23:04:07+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "Justice Department investigates TV networks as White House press-access fight escalates",
           "link": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
@@ -428,8 +610,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-11T20:20:34+00:00",
-    "total": 1380,
+    "end": "2026-10-12T00:35:37+00:00",
+    "total": 1404,
     "items": [
       {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",

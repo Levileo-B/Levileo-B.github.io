@@ -1,124 +1,126 @@
 {
-  "updated": "2026-10-11T20:20:34+00:00",
+  "updated": "2026-10-12T00:35:37+00:00",
   "leetcode": {
-    "date": "2026-10-11",
-    "id": "2778",
-    "title": "Sum of Squares of Special Elements ",
-    "titleEn": "Sum of Squares of Special Elements ",
-    "slug": "sum-of-squares-of-special-elements",
-    "difficulty": "Easy",
+    "date": "2026-10-12",
+    "id": "2897",
+    "title": "Apply Operations on Array to Maximize Sum of Squares",
+    "titleEn": "Apply Operations on Array to Maximize Sum of Squares",
+    "slug": "apply-operations-on-array-to-maximize-sum-of-squares",
+    "difficulty": "Hard",
     "tags": [
       "Array",
-      "Enumeration"
+      "Hash Table",
+      "Greedy",
+      "Bit Manipulation"
     ],
-    "link": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+    "link": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Userkare",
-    "text": "Userkare was the second king of the Sixth Dynasty of Egypt during the Old Kingdom Period.\nHe reigned briefly, two to four years, in the late 24th or the early 23rd century BC. Userkare's relation to his predecessor Teti and successor Pepi I is unknown and his reign remains enigmatic.",
-    "words": 50,
-    "url": "https://en.wikipedia.org/wiki/Userkare",
-    "date": "2026-10-11",
+    "title": "Poecilia vandepolli",
+    "text": "Poecilia vandepolli, or Van de Poll's molly, is a poeciliid fish native to the Caribbean islands of Aruba, Bonaire, and Curaçao. It is one of the most common fish in its range, inhabiting fresh, brackish, salt, and hypersaline waters such as streams, ponds, bays, salt pans, and lagoons. For much of the twentieth century, it was regarded as a subspecies or synonym of P. sphenops, but morphological and genetic studies have confirmed its status as a distinct species. The molly is highly variable in size and color, with males ranging from 2.6 to 5.3 cm and females from 3.2 to 9.6 cm, and coloration varying from grayish-brown to yellow or orange in any given population. Marine fish are generally larger, stronger, and more colorful than freshwater specimens. Males' ability to develop an intense orange coloration may make the species attractive to aquarists.",
+    "words": 142,
+    "url": "https://en.wikipedia.org/wiki/Poecilia_vandepolli",
+    "date": "2026-10-12",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "John Schmidt Collection: Reel 03",
-    "creator": "John B. Schmidt",
-    "year": "",
-    "url": "https://archive.org/download/202300_Schmidt_Collection_03/202300_Schmidt_Collection_03_master.intros.mp4",
-    "page": "https://archive.org/details/202300_Schmidt_Collection_03",
-    "date": "2026-10-11",
+    "title": "Movietone News: \"The Star-Spangled Banner\" (Version I)",
+    "creator": "Fox Movietone News",
+    "year": "1942",
+    "url": "https://archive.org/download/Movieton1942/Movieton1942_512kb.mp4",
+    "page": "https://archive.org/details/Movieton1942",
+    "date": "2026-10-12",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "[mm09] Symmetrical evolution",
-      "artist": "Minimal militant",
-      "url": "https://archive.org/download/minimalmilitant09/1SymmetricalEvolution.mp3",
-      "page": "https://archive.org/details/minimalmilitant09",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/se/"
-    },
-    {
-      "title": "contra16: Infex - Type C",
-      "artist": "Infex",
-      "url": "https://archive.org/download/contra16/contra16-infex-01type-c1.mp3",
-      "page": "https://archive.org/details/contra16",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
-    },
-    {
-      "title": "NXL068 Actitud Positiva",
-      "artist": "Actitud Positiva",
-      "url": "https://archive.org/download/NXL068/01%20Justicia%20o%20Revolucion.mp3",
-      "page": "https://archive.org/details/NXL068",
+      "title": "DAÑEZ - XMAS MIXTAPE 2008",
+      "artist": "Ricardo Yañez a.k.a Dañez",
+      "url": "https://archive.org/download/da_ez-xmas-mixtape-2008/da_ez-xmas-mixtape-2008.mp3",
+      "page": "https://archive.org/details/da_ez-xmas-mixtape-2008",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Aunderwex - Nanosomie (20k24) 2003",
-      "artist": "",
-      "url": "https://archive.org/download/20k024/20k024-Aunderwex-01-Nanosomie-I.mp3",
-      "page": "https://archive.org/details/20k024",
-      "license": "http://creativecommons.org/licenses/publicdomain/"
+      "title": "Andrew Weathers, Erik Schoster & Jason Nanna | Translation",
+      "artist": "Andrew Weathers, Erik Schoster & Jason Nanna",
+      "url": "https://archive.org/download/bsc_040/01_-_andrew-jason-erik_-_translation.mp3",
+      "page": "https://archive.org/details/bsc_040",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "Piko​@​Lab v11​.​0 Compilation Album",
-      "artist": "",
-      "url": "https://archive.org/download/PPD-PR012/01_Parabola_-_Proximity.mp3",
-      "page": "https://archive.org/details/PPD-PR012",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "[45rpm050-2011] Nameless Dancers - End Of Night",
-      "artist": "Nameless Dancers",
-      "url": "https://archive.org/download/45rpm050-2011NamelessDancers-EndOfNight/01Nameless_Dancers_-_Intro.mp3",
-      "page": "https://archive.org/details/45rpm050-2011NamelessDancers-EndOfNight",
+      "title": "Royce Icon - There are worse things than being alone (ca094)",
+      "artist": "Royce Icon",
+      "url": "https://archive.org/download/ca094_ri/1_Another_stupid_religion.mp3",
+      "page": "https://archive.org/details/ca094_ri",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Isobutane - Evening In Different Rooms b/w Nyuu (enough fighting edit)",
-      "artist": "Isobutane",
-      "url": "https://archive.org/download/442-net7-07jan/A-Evening-In-Different-Rooms.mp3",
-      "page": "https://archive.org/details/442-net7-07jan",
+      "title": "Erich Schall | Distant Twirl",
+      "artist": "Erich Schall",
+      "url": "https://archive.org/download/bsc_035/01_-_erich_schall_-_distant_twirl_-_distant_twirl_outside_part_II.mp3",
+      "page": "https://archive.org/details/bsc_035",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "[ENDE534] Unpalatable - 777 Ways To Die (All Vinyl Breakcore MIx)",
+      "artist": "",
+      "url": "https://archive.org/download/ende534-unpalatable-777-ways-to-die-vinyl-mix/01%20%20-%20Unpalatable%20-%20side%201.mp3",
+      "page": "https://archive.org/details/ende534-unpalatable-777-ways-to-die-vinyl-mix",
       "license": "Creative Commons"
     },
     {
-      "title": "A-Tek - In + Out [Urban Nightmares] EP",
-      "artist": "A-TEK",
-      "url": "https://archive.org/download/A-tek_-_inOuturbanNightmares/01_-_888888888888888888-8.mp3",
-      "page": "https://archive.org/details/A-tek_-_inOuturbanNightmares",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/br/"
-    },
-    {
-      "title": "A22018 - Axiomas Indígenas",
-      "artist": "Roy F Guzmán",
-      "url": "https://archive.org/download/A22018_Axiomas_Indigenas/01.%20Roy%20F%20Guzma%CC%81n%20-%20I.mp3",
-      "page": "https://archive.org/details/A22018_Axiomas_Indigenas",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-    },
-    {
-      "title": "263DIYChurch_Kevin alone in the air (pink talk girl edit)",
-      "artist": "G:O;D",
-      "url": "https://archive.org/download/263DIYChurch/263DIYChurch_KevinAloneInTheAir_TalkGirlEdit.mp3",
-      "page": "https://archive.org/details/263DIYChurch",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/my/"
-    },
-    {
-      "title": "Jimmy Slaughter - Pump The Riot (Up To 40K!!) (20k06)-2002",
-      "artist": "",
-      "url": "https://archive.org/download/20k006/20k006-Jimmy-Slaughter-01-Fuck-The-Brother-Back.mp3",
-      "page": "https://archive.org/details/20k006",
-      "license": "http://creativecommons.org/licenses/publicdomain/"
-    },
-    {
-      "title": "054DIYChurch_erotique Anarchists in atomic Chaos",
-      "artist": "G.O:D.",
-      "url": "https://archive.org/download/054diychurch_erotiqueAnarchistsInAtomicChaos/054diychurch_erotiqueAnarchistsInatomicChaos.mp3",
-      "page": "https://archive.org/details/054diychurch_erotiqueAnarchistsInAtomicChaos",
+      "title": "Mikaere | Ending To Beginning",
+      "artist": "Mikaere",
+      "url": "https://archive.org/download/bsc_049/01_-_mikaere_-_ending_to_beginning_-_a_lit_circle.mp3",
+      "page": "https://archive.org/details/bsc_049",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "[csm037] KurteeK [Asthmafunk table technology EP]",
+      "artist": "",
+      "url": "https://archive.org/download/csm037KurteekasthmafunkTableTechnologyEp/01Weekend.mp3",
+      "page": "https://archive.org/details/csm037KurteekasthmafunkTableTechnologyEp",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "ZAUS / .E. - Mutilatus Mutuus (ca374)",
+      "artist": "ZAUS / .E.",
+      "url": "https://archive.org/download/ca374_ze/01AFixAClueAPointer.mp3",
+      "page": "https://archive.org/details/ca374_ze",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "[BRNET13]Comfortable With Maums",
+      "artist": "Comfortable With Maums",
+      "url": "https://archive.org/download/brnet13comfortableWithMaums/01Blackjobs.mp3",
+      "page": "https://archive.org/details/brnet13comfortableWithMaums",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
+    },
+    {
+      "title": "Transient - Endless Towers [Cam068]",
+      "artist": "Transient",
+      "url": "https://archive.org/download/camomille068/Cam68-endlesstowers-01-endlesstowers_transient.mp3",
+      "page": "https://archive.org/details/camomille068",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
+    },
+    {
+      "title": "Captan, obvio - Die Captan, obvio Die!!! (ca366)",
+      "artist": "Captan, obvio",
+      "url": "https://archive.org/download/ca366_co/01_Take_your_hands_off_me_you_damn_dirty_ape.mp3",
+      "page": "https://archive.org/details/ca366_co",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "(USER099) user88885842577 - Angel EP",
+      "artist": "user88885842577",
+      "url": "https://archive.org/download/user099-user88885842577-angel-ep/%28USER099%29%2001.%20user88885842577%20-%20The%20Fallin%20Angel_Angel%20EP.mp3",
+      "page": "https://archive.org/details/user099-user88885842577-angel-ep",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     }
   ]
 }
