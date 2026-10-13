@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-13T16:02:51+00:00",
-  "updated": "2026-10-13T16:02:51+00:00",
+  "generated_at": "2026-10-13T21:18:17+00:00",
+  "updated": "2026-10-13T21:18:17+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-12T00:00:00+08:00",
-    "end": "2026-10-13T16:02:51+00:00",
-    "total": 238,
+    "end": "2026-10-13T21:18:17+00:00",
+    "total": 273,
     "items": [
       {
         "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
@@ -170,7 +170,7 @@
           "observed_days": 2
         },
         {
-          "title": "Mars may be a hellhole, but the moon is not far behind",
+          "title": "What it would take to build a city on the moon",
           "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
           "date": "2026-10-12T09:37:02+00:00",
           "date_is_observed": false,
@@ -368,9 +368,9 @@
           "observed_days": 2
         },
         {
-          "title": "[分享发现] 东欧斯拉夫民族，他们对逆向游戏有这么热爱吗？",
-          "link": "https://www.v2ex.com/t/1248539",
-          "date": "2026-10-13T15:53:16+00:00",
+          "title": "[Google] 4 Argon 上线 Gemini 客户端了",
+          "link": "https://www.v2ex.com/t/1248551",
+          "date": "2026-10-13T19:42:48+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -382,9 +382,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享发现] Meta 新出的 AI 助手 Muse，我拿它当了半个月\"家庭运维总监\"",
-          "link": "https://www.v2ex.com/t/1248538",
-          "date": "2026-10-13T15:47:46+00:00",
+          "title": "[Apple] 上海联通收不到短信验证码",
+          "link": "https://www.v2ex.com/t/1248550",
+          "date": "2026-10-13T19:05:51+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -396,43 +396,43 @@
           "observed_days": 1
         },
         {
-          "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
-          "link": "https://news.ycombinator.com/item?id=50073471",
-          "date": "2026-10-13T15:41:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Now That Information Is Free, What's a College Campus For?",
-          "link": "https://commonedge.org/now-that-information-is-free-whats-a-college-campus-for/",
-          "date": "2026-10-13T15:40:03+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[分享创造] 做了个英文恐怖故事站 LiveLore： AI 辅助写作，读者投票决定剧情走向",
-          "link": "https://www.v2ex.com/t/1248537",
-          "date": "2026-10-13T15:38:43+00:00",
+          "title": "[程序员] 战战兢兢，非程序员的第一个开源项目，以国标为基础的公文生成与机检工具",
+          "link": "https://www.v2ex.com/t/1248549",
+          "date": "2026-10-13T18:29:32+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
             "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[生活] 关于跨文化婚恋的不容易",
+          "link": "https://www.v2ex.com/t/1248548",
+          "date": "2026-10-13T18:17:28+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+          "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+          "date": "2026-10-13T17:56:33+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "GitHub Blog"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -652,51 +652,9 @@
           "observed_days": 1
         },
         {
-          "title": "Popular weight loss drugs linked to a surprising fingernail problem",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261011211604.htm",
-          "date": "2026-10-12T09:34:48+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Scientists find hidden driver of aging and a simple amino acid that fights memory loss in mice",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261009025708.htm",
-          "date": "2026-10-12T09:23:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Scientists discover vanilla’s hidden healing potential",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261011211550.htm",
-          "date": "2026-10-12T04:34:24+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Beyond the solvent fog: watching molecules dance in the crowd",
-          "link": "https://www.nature.com/articles/d41586-026-02970-y",
-          "date": "2026-10-12T00:00:00+00:00",
+          "title": "Preserve research data for tomorrow’s AI-enabled integrity checks",
+          "link": "https://www.nature.com/articles/d41586-026-03244-3",
+          "date": "2026-10-13T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -708,9 +666,51 @@
           "observed_days": 1
         },
         {
-          "title": "Keep medical doctors in academia — without them, health-care research will suffer",
-          "link": "https://www.nature.com/articles/d41586-026-03225-6",
-          "date": "2026-10-12T00:00:00+00:00",
+          "title": "Decentralized AI needs more evidence on energy use",
+          "link": "https://www.nature.com/articles/d41586-026-03245-2",
+          "date": "2026-10-13T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "When microbes degrade plastic, where does it go?",
+          "link": "https://www.nature.com/articles/d41586-026-03246-1",
+          "date": "2026-10-13T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Selective, Catalytic Oxidation of Polyethylene Surfaces",
+          "link": "https://www.nature.com/articles/s41586-026-11255-3",
+          "date": "2026-10-13T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Atomic-scale spin sensing of a 2D d-wave altermagnet <i>via</i> helical tunneling",
+          "link": "https://www.nature.com/articles/s41586-026-11257-1",
+          "date": "2026-10-13T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -986,9 +986,9 @@
           "observed_days": 2
         },
         {
-          "title": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
-          "link": "https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html",
-          "date": "2026-10-13T15:57:46+00:00",
+          "title": "Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her name",
+          "link": "https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html",
+          "date": "2026-10-13T21:15:32+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1000,9 +1000,9 @@
           "observed_days": 1
         },
         {
-          "title": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
-          "link": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html",
-          "date": "2026-10-13T15:52:44+00:00",
+          "title": "Saudi national OpenAI employee arrested after 'sophisticated recording device' planted in office",
+          "link": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+          "date": "2026-10-13T21:08:45+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1018,8 +1018,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-13T16:02:51+00:00",
-    "total": 1601,
+    "end": "2026-10-13T21:18:17+00:00",
+    "total": 1636,
     "items": [
       {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
