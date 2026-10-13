@@ -1,58 +1,131 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-12T07:58:38.440740+00:00",
-  "attempted_at": "2026-10-12T07:58:38.440740+00:00",
+  "updated": "2026-10-13T08:26:37.346142+00:00",
+  "attempted_at": "2026-10-13T08:26:37.346142+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-10-12T07:58:38.440740+00:00",
+      "last_success": "2026-10-13T08:26:37.346142+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-10-12T07:58:38.440740+00:00",
+      "last_success": "2026-10-13T08:26:37.346142+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-10-12T07:58:38.440740+00:00",
+      "last_success": "2026-10-13T08:26:37.346142+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-10-12T07:58:38.440740+00:00",
+      "last_success": "2026-10-13T08:26:37.346142+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-10-12T07:58:38.440740+00:00",
+      "last_success": "2026-10-13T08:26:37.346142+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-10-12T07:58:38.440740+00:00",
+      "last_success": "2026-10-13T08:26:37.346142+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-10-12T07:58:38.440740+00:00",
+      "last_success": "2026-10-13T08:26:37.346142+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-10-12T07:58:38.440740+00:00",
+      "last_success": "2026-10-13T08:26:37.346142+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.1002/rob.70369",
+      "title": "Context‐Aware Reconstruction for DVL Outlier Detection in Robust AUV Navigation",
+      "journal_id": "jfr",
+      "published": "2026-10-13",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70369",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18203495",
+      "title": "LiDAR-Assisted Survey Locates Unregistered Rock Shelters in the Blue Mountains, Australia",
+      "journal_id": "remote-sensing",
+      "published": "2026-10-12",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18203495",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18203493",
+      "title": "Automatic Extraction of Discontinuity Traces from Rock Mass Point Cloud Data Using PhaseVote",
+      "journal_id": "remote-sensing",
+      "published": "2026-10-12",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18203493",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70366",
+      "title": "Slip‐Aware Coverage Path Planning Using a Turning Feasibility Table for an Orchard Robot Sprayer",
+      "journal_id": "jfr",
+      "published": "2026-10-12",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70366",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70364",
+      "title": "Consensus Collision‐Free Trajectory Planning for Multi‐AUV Formation Gathering",
+      "journal_id": "jfr",
+      "published": "2026-10-12",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70364",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70362",
+      "title": "DR‐ICP: Robust LiDAR SLAM Registration for Degenerate Tunnels",
+      "journal_id": "jfr",
+      "published": "2026-10-12",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70362",
+      "source": "crossref"
+    },
     {
       "id": "10.1038/s41598-026-74261-5",
       "title": "A Covariance-Guided Pursuit Birds of Prey-Based Optimization for global optimization and UAV path planning",
@@ -1529,18 +1602,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.3390/rs18172879",
-      "title": "A Closed-Form Statistical Expression for Evaluating Wind Speed and Direction Prediction Intervals from Doppler Lidar Arc Scans",
-      "journal_id": "remote-sensing",
-      "published": "2026-08-26",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18172879",
-      "source": "crossref"
-    },
-    {
       "id": "10.1002/rob.70328",
       "title": "Visual Point‐Line and Inertial Measurement Unit Fusion‐Based Simultaneous Localization and Mapping Algorithm for Robotic Grinding of Wind Turbine Blades",
       "journal_id": "jfr",
@@ -1550,18 +1611,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1002/rob.70328",
-      "source": "crossref"
-    },
-    {
-      "id": "10.3390/rs18172864",
-      "title": "Quantitative Assessment of LiDAR Availability in Smoke-Filled Tunnels Using a Degradation Scoring Algorithm",
-      "journal_id": "remote-sensing",
-      "published": "2026-08-24",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18172864",
       "source": "crossref"
     },
     {
@@ -2350,30 +2399,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1002/rob.70217",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1002/rob.70214",
-      "title": "Intelligent Autonomy: A Novel Hybrid Navigation System for Autonomous Load‐Haul‐Dump Vehicles",
-      "journal_id": "jfr",
-      "published": "2026-04-20",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1002/rob.70214",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1002/rob.70222",
-      "title": "Soft Computing Techniques Applied to Adaptive Hybrid Navigation Methods for Tethered Robots in Dynamic Environments",
-      "journal_id": "jfr",
-      "published": "2026-04-16",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1002/rob.70222",
       "source": "crossref"
     }
   ]
