@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-12T17:58:53+00:00",
-  "updated": "2026-10-12T17:58:53+00:00",
+  "generated_at": "2026-10-13T00:44:46+00:00",
+  "updated": "2026-10-13T00:44:46+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-12T00:00:00+08:00",
-    "end": "2026-10-12T17:58:53+00:00",
-    "total": 117,
+    "end": "2026-10-13T00:44:46+00:00",
+    "total": 150,
     "items": [
       {
         "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
@@ -256,65 +256,9 @@
           "observed_days": 2
         },
         {
-          "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
-          "date": "2026-10-12T17:43:59+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "GitHub Blog"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Thinking Will Become a Hobby",
-          "link": "https://www.spinellis.gr/blog/20261008/?li261008=",
-          "date": "2026-10-12T16:54:08+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Muse Wonder",
-          "link": "https://research.meta.ai/blog/muse-wonder",
-          "date": "2026-10-12T16:48:01+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-          "link": "https://news.ycombinator.com/item?id=50059096",
-          "date": "2026-10-12T16:46:34+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[推广] 做定制订单工具时，选规格和排版为什么分开做",
-          "link": "https://www.v2ex.com/t/1248249",
-          "date": "2026-10-12T16:32:06+00:00",
+          "title": "[推广] Zbox：桌面格子 + 悬浮面板（日历/待办/传输/视频下载）+ 截图钉图，一个 Windows 桌面小工具",
+          "link": "https://www.v2ex.com/t/1248261",
+          "date": "2026-10-13T00:40:19+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -326,9 +270,65 @@
           "observed_days": 1
         },
         {
-          "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
-          "link": "https://github.com/morluto/rea",
-          "date": "2026-10-12T16:31:55+00:00",
+          "title": "[生活] 避坑恒洁卫浴，前所未见的售后体验",
+          "link": "https://www.v2ex.com/t/1248260",
+          "date": "2026-10-13T00:36:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[程序员] 现在 AI 是不是逐渐能取代很多高水平程序员了",
+          "link": "https://www.v2ex.com/t/1248259",
+          "date": "2026-10-13T00:35:14+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[分享创造] 广州欢迎你",
+          "link": "https://www.v2ex.com/t/1248258",
+          "date": "2026-10-13T00:29:12+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[推广] Claude Code、Cursor、Cline 共用一个 Key，加群领 10 美元",
+          "link": "https://www.v2ex.com/t/1248257",
+          "date": "2026-10-13T00:23:59+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+          "link": "https://doi.org/10.1111/acel.70751",
+          "date": "2026-10-12T23:34:22+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -340,29 +340,29 @@
           "observed_days": 1
         },
         {
-          "title": "[杭州] 杭州买房求大佬指点",
-          "link": "https://www.v2ex.com/t/1248248",
-          "date": "2026-10-12T16:27:02+00:00",
+          "title": "A shared, verifiable fix database that AI agents read and write themselves",
+          "link": "https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt",
+          "date": "2026-10-12T23:22:00+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "V2EX"
+            "Hacker News"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "[分享创造] 做了一个原生的 macOS Vaultwarden 客户端：基于 MyGo ，主窗口零 WebView，支持 Touch ID 与系统级 AutoFill",
-          "link": "https://www.v2ex.com/t/1248247",
-          "date": "2026-10-12T16:02:41+00:00",
+          "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+          "link": "https://github.com/andrewfader/blokkily",
+          "date": "2026-10-12T23:21:12+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "V2EX"
+            "Hacker News"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -426,37 +426,23 @@
           "observed_days": 2
         },
         {
-          "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
-          "link": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
-          "date": "2026-10-12T16:52:54+00:00",
+          "title": "早报｜对话库克：Apple Watch要做「个人守护者」/华为折叠屏出货量突破2000万台/DeepSeek拟入局具身智能",
+          "link": "https://www.ifanr.com/1683909",
+          "date": "2026-10-13T00:17:03+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "The Verge"
+            "爱范儿"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "美国核反应堆开始整合 AI 助手",
-          "link": "https://www.solidot.org/story?sid=85592",
-          "date": "2026-10-12T16:04:33+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
-          "link": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
-          "date": "2026-10-12T16:01:08+00:00",
+          "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
+          "link": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
+          "date": "2026-10-12T21:54:35+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -468,9 +454,9 @@
           "observed_days": 1
         },
         {
-          "title": "The Yandex outage probably didn’t blitz Russian bots",
-          "link": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
-          "date": "2026-10-12T15:43:07+00:00",
+          "title": "The Social Reckoning is flopping at the box office",
+          "link": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
+          "date": "2026-10-12T21:21:23+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -482,29 +468,43 @@
           "observed_days": 1
         },
         {
-          "title": "亚马逊放弃 Fire 品牌改为推出 Alexa 平板",
-          "link": "https://www.solidot.org/story?sid=85591",
-          "date": "2026-10-12T15:22:12+00:00",
+          "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+          "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+          "date": "2026-10-12T20:59:50+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "Solidot"
+            "Ars Technica"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Android is the best and worst thing about Googlebooks",
-          "link": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
-          "date": "2026-10-12T15:04:23+00:00",
+          "title": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
+          "link": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
+          "date": "2026-10-12T20:26:14+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "The Verge"
+            "Ars Technica"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "WHO report on Russian lab worker death highlights \"key uncertainty\"",
+          "link": "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/",
+          "date": "2026-10-12T18:46:43+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -549,6 +549,76 @@
           ],
           "sources": [
             "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Beyond the solvent fog: watching molecules dance in the crowd",
+          "link": "https://www.nature.com/articles/d41586-026-02970-y",
+          "date": "2026-10-12T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Keep medical doctors in academia — without them, health-care research will suffer",
+          "link": "https://www.nature.com/articles/d41586-026-03225-6",
+          "date": "2026-10-12T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Award-winning microscopy image disqualified over AI use",
+          "link": "https://www.nature.com/articles/d41586-026-03240-7",
+          "date": "2026-10-12T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Economics Nobel awarded for work on stabilizing economies in crisis",
+          "link": "https://www.nature.com/articles/d41586-026-03251-4",
+          "date": "2026-10-12T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Author Correction: Timing and trajectory of <i>BCR::ABL1</i>-driven chronic myeloid leukaemia",
+          "link": "https://www.nature.com/articles/s41586-026-11253-5",
+          "date": "2026-10-12T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -644,6 +714,62 @@
           "observed_days": 2
         },
         {
+          "title": "廣州開發電玩遊戲「喚醒」威爾士民間傳說潛力",
+          "link": "https://www.bbc.com/zhongwen/articles/cm20wlw680w9o/trad",
+          "date": "2026-10-13T00:12:26+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Breaking Bad actor RJ Mitte dies aged 34",
+          "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o",
+          "date": "2026-10-13T00:12:25+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "伊朗與烏克蘭 哪場戰爭對柴油價格影響最大？",
+          "link": "https://www.bbc.com/zhongwen/articles/c9p8gv3dnjmgo/trad",
+          "date": "2026-10-13T00:12:19+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+          "link": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo",
+          "date": "2026-10-12T20:17:37+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
           "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo",
           "date": "2026-10-12T17:32:13+00:00",
@@ -653,62 +779,6 @@
           ],
           "sources": [
             "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Immigration agents search Congresswoman Ilhan Omar's home",
-          "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o",
-          "date": "2026-10-12T17:09:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
-          "link": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko",
-          "date": "2026-10-12T16:46:49+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-          "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o",
-          "date": "2026-10-12T14:00:03+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "胡塞武裝空襲對華重要窗口利雅德機場 中東衝突又一危險時刻",
-          "link": "https://www.bbc.com/zhongwen/articles/cqy0rd16x33lo/trad",
-          "date": "2026-10-12T11:06:34+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -790,65 +860,9 @@
           "observed_days": 2
         },
         {
-          "title": "Rep. Ilhan Omar blasts federal criminal raid on home: 'I will not be silenced'",
-          "link": "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
-          "date": "2026-10-12T17:39:38+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
-          "link": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
-          "date": "2026-10-12T17:34:35+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
-          "link": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
-          "date": "2026-10-12T17:15:21+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
-          "link": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
-          "date": "2026-10-12T16:50:44+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Fridges in French supermarkets hit by cyber attack",
-          "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo",
-          "date": "2026-10-12T16:17:59+00:00",
+          "title": "Publicly owned rail is popular. But is it making the trains run on time?",
+          "link": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do",
+          "date": "2026-10-12T23:37:00+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -858,14 +872,70 @@
           ],
           "source_count": 1,
           "observed_days": 1
+        },
+        {
+          "title": "Heating oil customers face tough winter despite shake-up promise",
+          "link": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o",
+          "date": "2026-10-12T23:02:24+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "I earn £120,000 a year making social media videos go viral",
+          "link": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o",
+          "date": "2026-10-12T23:01:45+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Trump 'not happy' with Kimberly Guilfoyle, weighs firing her as ambassador to Greece",
+          "link": "https://www.cnbc.com/2026/10/12/trump-kimberly-guilfoyle-ambassador.html",
+          "date": "2026-10-12T22:26:59+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
+          "link": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
+          "date": "2026-10-12T21:17:58+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
         }
       ]
     }
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-12T17:58:53+00:00",
-    "total": 1480,
+    "end": "2026-10-13T00:44:46+00:00",
+    "total": 1513,
     "items": [
       {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
