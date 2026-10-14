@@ -1,125 +1,124 @@
 {
-  "updated": "2026-10-13T21:18:17+00:00",
+  "updated": "2026-10-14T01:15:09+00:00",
   "leetcode": {
-    "date": "2026-10-13",
-    "id": "3727",
-    "title": "Maximum Alternating Sum of Squares",
-    "titleEn": "Maximum Alternating Sum of Squares",
-    "slug": "maximum-alternating-sum-of-squares",
+    "date": "2026-10-14",
+    "id": "3723",
+    "title": "Maximize Sum of Squares of Digits",
+    "titleEn": "Maximize Sum of Squares of Digits",
+    "slug": "maximize-sum-of-squares-of-digits",
     "difficulty": "Medium",
     "tags": [
-      "Array",
-      "Greedy",
-      "Sorting"
+      "Math",
+      "Greedy"
     ],
-    "link": "https://leetcode.com/problems/maximum-alternating-sum-of-squares/",
+    "link": "https://leetcode.com/problems/maximize-sum-of-squares-of-digits/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Beauty Revealed",
-    "text": "Beauty Revealed is an 1828 self-portrait by the American artist Sarah Goodridge. Depicting only the artist's bared breasts surrounded by white cloth, the 2.6-by-3.1-inch painting, originally backed with paper, is now in a modern frame. Goodridge, aged forty when she completed the watercolor portrait miniature on a piece of ivory, presented the breasts as youthful and individualized. She employed a frontal view that showed only the area from the collarbone to just underneath the breasts, thereby anonymizing the portrait.",
-    "words": 79,
-    "url": "https://en.wikipedia.org/wiki/Beauty_Revealed",
-    "date": "2026-10-13",
+    "title": "RAAF area commands",
+    "text": "Area commands were the major operational and administrative formations of the Royal Australian Air Force (RAAF) between 1940 and 1954. Established in response to the outbreak of World War II, they underpinned the Air Force's geographically based command-and-control system for the duration of the conflict and into the early years of the Cold War, until being superseded by a functional control system made up of Home, Training, and Maintenance Commands.",
+    "words": 70,
+    "url": "https://en.wikipedia.org/wiki/RAAF_area_commands",
+    "date": "2026-10-14",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Chicken of Tomorrow, The",
-    "creator": "Audio Productions",
-    "year": "1948",
-    "url": "https://archive.org/download/1371TheChickenofTomorrow/1371TheChickenofTomorrow.m4v",
-    "page": "https://archive.org/details/1371TheChickenofTomorrow",
-    "date": "2026-10-13",
+    "title": "Movie Trailers (Promotion for Morning and Midnight Shows)",
+    "creator": "",
+    "year": "1930",
+    "url": "https://archive.org/download/1953_Movie_Trailers_Promotion_for_Morning_and_Midnight_Shows/1953_Movie_Trailers_Promotion_for_Morning_and_Midnight_Shows_00_28_25_24_3mb.mp4",
+    "page": "https://archive.org/details/1953_Movie_Trailers_Promotion_for_Morning_and_Midnight_Shows",
+    "date": "2026-10-14",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Nilof - Herr muffins",
-      "artist": "",
-      "url": "https://archive.org/download/Nilof_-_Herr_Muffins-EP-2008-polka/01_we_vote_digitalism-polka.mp3",
-      "page": "https://archive.org/details/Nilof_-_Herr_Muffins-EP-2008-polka",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/se/"
-    },
-    {
-      "title": "Zantrip 2000 - Espagne Etudes I VI",
-      "artist": "Zan Hoffman",
-      "url": "https://archive.org/download/647Zantrip2000EspagneEtudesIVI/647%20Zantrip%202000-%20Espagne%20Etudes%20I-VI.mp3",
-      "page": "https://archive.org/details/647Zantrip2000EspagneEtudesIVI",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
-    },
-    {
-      "title": "The Will To Go No Futher",
-      "artist": "Pha-Q Phonographs",
-      "url": "https://archive.org/download/PHAQVA03/01_-_Banned_in_31_-_Baby_on_fire.wav.mp3",
-      "page": "https://archive.org/details/PHAQVA03",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Infected Signal / Soda Dosa (split)",
-      "artist": "",
-      "url": "https://archive.org/download/InfectedSignalSodaDosasplit/1.ixsx-Endocannibalism.mp3",
-      "page": "https://archive.org/details/InfectedSignalSodaDosasplit",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "[in]anace, soundrix, 020200 - normaluhr + remixes ep [63_035]",
-      "artist": "",
-      "url": "https://archive.org/download/63_035/63_035a-soundrix-remix_of_nulln-interstate.mp3",
-      "page": "https://archive.org/details/63_035",
-      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
-    },
-    {
-      "title": "Narcolepsy Collection",
-      "artist": "Keith David Doyle (as Night Shift, 1983)",
-      "url": "https://archive.org/download/Narcolepsy/01-shift_change.mp3",
-      "page": "https://archive.org/details/Narcolepsy",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Twilight Electric - Rawk Hard [8bp031]",
-      "artist": "Twilight Electric",
-      "url": "https://archive.org/download/8bp031/8bp031-01-twilight-electric-hidden-dangers.mp3",
-      "page": "https://archive.org/details/8bp031",
-      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
-    },
-    {
-      "title": "[Nu-Logic035] Botch Up! - Tea for two Ep",
-      "artist": "Botch Up!",
-      "url": "https://archive.org/download/Nu-Logic035/01.Botch_up_-_Well_Splitted.mp3",
-      "page": "https://archive.org/details/Nu-Logic035",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Noise Research Reaktions",
-      "artist": "London Concrete",
-      "url": "https://archive.org/download/NoiseResearchReaktions/LondonConcrete-NrReaktions1.mp3",
-      "page": "https://archive.org/details/NoiseResearchReaktions",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/uk/"
-    },
-    {
-      "title": "Sabastian Boaz - Sabby Inside You [8bp024]",
-      "artist": "Sabastian Boaz",
-      "url": "https://archive.org/download/8bp024/8bp024-01-sabastian-boaz-greater-then-less-then.mp3",
-      "page": "https://archive.org/details/8bp024",
-      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
-    },
-    {
-      "title": "A22018 - Axiomas Indígenas",
-      "artist": "Roy F Guzmán",
-      "url": "https://archive.org/download/A22018_Axiomas_Indigenas/01.%20Roy%20F%20Guzma%CC%81n%20-%20I.mp3",
-      "page": "https://archive.org/details/A22018_Axiomas_Indigenas",
+      "title": "(monoKraK287) Floating Mind \"Shoot For The Stars\"",
+      "artist": "Floating Mind",
+      "url": "https://archive.org/download/monoKraK287_FloatingMind-ShootForTheStars/%28monoKraK287%29%20FloatingMind_Ciel_Extatique.mp3",
+      "page": "https://archive.org/details/monoKraK287_FloatingMind-ShootForTheStars",
       "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
-      "title": "INTERZONA - Underground Hate Noise",
-      "artist": "",
-      "url": "https://archive.org/download/Interzona-UHN/1-______.mp3",
-      "page": "https://archive.org/details/Interzona-UHN",
+      "title": "Glassy Weasel",
+      "artist": "Jazzaria.com",
+      "url": "https://archive.org/download/glassy-weasel/glassy-weasel.mp3",
+      "page": "https://archive.org/details/glassy-weasel",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "L.A.M.P. - Intersphere Quazar (ca090)",
+      "artist": "L.A.M.P.",
+      "url": "https://archive.org/download/ca090_lamp/01_Into_The_Bazaar.mp3",
+      "page": "https://archive.org/details/ca090_lamp",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "[dplm30] Zizz - Caxap EP",
+      "artist": "Zizz",
+      "url": "https://archive.org/download/dplm30Zizz-CaxapEp/dplm30_01_Zizz_-_Caxap_Xtrngr_Rmx.mp3",
+      "page": "https://archive.org/details/dplm30Zizz-CaxapEp",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Esprit III Aspic Project, second serie",
+      "artist": "",
+      "url": "https://archive.org/download/esprit_III_aspic_project_2/601ThingstoBeashamedOf.mp3",
+      "page": "https://archive.org/details/esprit_III_aspic_project_2",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
+    },
+    {
+      "title": "dUAS sEMIcOLCHEIAS iNVERTIDAS - 4 [enrmp314]",
+      "artist": "dUAS sEMIcOLCHEIAS iNVERTIDAS",
+      "url": "https://archive.org/download/enrmp314_duas_semi_colcheias_invertidas_-_4/01_duas_semi_colcheias_invertidas_-_33_anos_sem_dormir.mp3",
+      "page": "https://archive.org/details/enrmp314_duas_semi_colcheias_invertidas_-_4",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "contra07: Vloda Techk - Bestia Adversus Bestia",
+      "artist": "Vloda Techk",
+      "url": "https://archive.org/download/contra07VlodaTeck_BestiaAdversusBestia/contra07_VlodaTechk_BestiaAdversusBestia.mp3",
+      "page": "https://archive.org/details/contra07VlodaTeck_BestiaAdversusBestia",
+      "license": "http://creativecommons.org/licenses/by-nc/2.5/"
+    },
+    {
+      "title": "Earkus - Bank [mia057]",
+      "artist": "Earkus",
+      "url": "https://archive.org/download/mia057/mia57_earkus_-_bank.mp3",
+      "page": "https://archive.org/details/mia057",
+      "license": "http://creativecommons.org/licenses/by-nd/2.0/"
+    },
+    {
+      "title": "[miniatura061] Bleupulp - Love Stab EP",
+      "artist": "",
+      "url": "https://archive.org/download/miniatura061Bleupulp-LoveStabEp/01-bleupulp-LoveStabV1.mp3",
+      "page": "https://archive.org/details/miniatura061Bleupulp-LoveStabEp",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Red Dawn - We Have Arrived [enrmp121]",
+      "artist": "Red Dawn",
+      "url": "https://archive.org/download/enrmp121_red_dawn_-_we_have_arrived/01_red_dawn_-_dream_sequence_-_part_i.mp3",
+      "page": "https://archive.org/details/enrmp121_red_dawn_-_we_have_arrived",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "title": "[Eg0_102] Eurovision Über Alles : Üphemism",
+      "artist": "Eurovision Über Alles",
+      "url": "https://archive.org/download/eg0_102/EurovisionberAlles-phemismPart1.mp3",
+      "page": "https://archive.org/details/eg0_102",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Thelxinoe - Inner Subspace",
+      "artist": "Thelxinoe",
+      "url": "https://archive.org/download/dna_142_thelxinoe_inner_subspace/01_-_Thelxinoe_-_Virgo_I_Cluster.mp3",
+      "page": "https://archive.org/details/dna_142_thelxinoe_inner_subspace",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     }
   ]
 }

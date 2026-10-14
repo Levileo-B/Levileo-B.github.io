@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-13T21:18:17+00:00",
-  "updated": "2026-10-13T21:18:17+00:00",
+  "generated_at": "2026-10-14T01:15:08+00:00",
+  "updated": "2026-10-14T01:15:08+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-12T00:00:00+08:00",
-    "end": "2026-10-13T21:18:17+00:00",
-    "total": 273,
+    "end": "2026-10-14T01:15:08+00:00",
+    "total": 298,
     "items": [
       {
         "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
@@ -23,6 +23,22 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+        "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo",
+        "date": "2026-10-13T21:42:49+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "Trump faces growing backlash over plans to import diesel from Russia",
@@ -134,20 +150,6 @@
         ],
         "sources": [
           "少数派"
-        ],
-        "source_count": 1,
-        "observed_days": 2
-      },
-      {
-        "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-        "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o",
-        "date": "2026-10-13T02:26:21+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC World"
         ],
         "source_count": 1,
         "observed_days": 2
@@ -368,9 +370,9 @@
           "observed_days": 2
         },
         {
-          "title": "[Google] 4 Argon 上线 Gemini 客户端了",
-          "link": "https://www.v2ex.com/t/1248551",
-          "date": "2026-10-13T19:42:48+00:00",
+          "title": "[ WATCH] apple watch 中国大陆已推出睡眠呼吸暂停功能",
+          "link": "https://www.v2ex.com/t/1248579",
+          "date": "2026-10-14T01:12:39+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -382,9 +384,9 @@
           "observed_days": 1
         },
         {
-          "title": "[Apple] 上海联通收不到短信验证码",
-          "link": "https://www.v2ex.com/t/1248550",
-          "date": "2026-10-13T19:05:51+00:00",
+          "title": "[问与答] 现在修电视都这么贵的吗？",
+          "link": "https://www.v2ex.com/t/1248577",
+          "date": "2026-10-14T01:11:06+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -396,9 +398,9 @@
           "observed_days": 1
         },
         {
-          "title": "[程序员] 战战兢兢，非程序员的第一个开源项目，以国标为基础的公文生成与机检工具",
-          "link": "https://www.v2ex.com/t/1248549",
-          "date": "2026-10-13T18:29:32+00:00",
+          "title": "[分享发现] muse 免费领取 30 亿词元",
+          "link": "https://www.v2ex.com/t/1248576",
+          "date": "2026-10-14T01:09:02+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -410,9 +412,9 @@
           "observed_days": 1
         },
         {
-          "title": "[生活] 关于跨文化婚恋的不容易",
-          "link": "https://www.v2ex.com/t/1248548",
-          "date": "2026-10-13T18:17:28+00:00",
+          "title": "[分享创造] 给 PhotoCraft 做了两个浏览器试用入口，补了上手教程和 PSD 检查说明",
+          "link": "https://www.v2ex.com/t/1248575",
+          "date": "2026-10-14T00:55:54+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -424,15 +426,15 @@
           "observed_days": 1
         },
         {
-          "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
-          "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
-          "date": "2026-10-13T17:56:33+00:00",
+          "title": "[Claude] 用 claude 网页版的别忘了关闭浏览器的预加载",
+          "link": "https://www.v2ex.com/t/1248574",
+          "date": "2026-10-14T00:54:51+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "GitHub Blog"
+            "V2EX"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -740,6 +742,22 @@
           "observed_days": 2
         },
         {
+          "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+          "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo",
+          "date": "2026-10-13T21:42:49+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Trump faces growing backlash over plans to import diesel from Russia",
           "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo",
           "date": "2026-10-11T23:18:45+00:00",
@@ -852,20 +870,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "緬甸年輕人的恐懼：走在街頭，隨時被「抓壯丁」賣給軍方",
-          "link": "https://www.bbc.com/zhongwen/articles/c63el43dw8pko/trad",
-          "date": "2026-10-12T00:08:15+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
@@ -884,6 +888,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+          "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo",
+          "date": "2026-10-13T21:42:49+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "Trump faces growing backlash over plans to import diesel from Russia",
@@ -986,23 +1006,9 @@
           "observed_days": 2
         },
         {
-          "title": "Judge says Musk engaged in intimidation of ex-FEMA CFO Mary Comans, clears her name",
-          "link": "https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html",
-          "date": "2026-10-13T21:15:32+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Saudi national OpenAI employee arrested after 'sophisticated recording device' planted in office",
-          "link": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
-          "date": "2026-10-13T21:08:45+00:00",
+          "title": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
+          "link": "https://www.cnbc.com/2026/10/14/singapore-gdp-q3.html",
+          "date": "2026-10-14T00:28:34+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1018,8 +1024,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-13T21:18:17+00:00",
-    "total": 1636,
+    "end": "2026-10-14T01:15:08+00:00",
+    "total": 1661,
     "items": [
       {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
@@ -1884,6 +1890,22 @@
           "observed_days": 2
         },
         {
+          "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+          "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo",
+          "date": "2026-10-13T21:42:49+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Trump faces growing backlash over plans to import diesel from Russia",
           "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo",
           "date": "2026-10-11T23:18:45+00:00",
@@ -1903,22 +1925,6 @@
           "title": "Adidas sues Australian label White Fox over four stripes design",
           "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o",
           "date": "2026-10-08T18:17:28+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
-          "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
-          "date": "2026-10-01T17:27:37+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -2046,6 +2052,22 @@
           "observed_days": 2
         },
         {
+          "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+          "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo",
+          "date": "2026-10-13T21:42:49+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Trump faces growing backlash over plans to import diesel from Russia",
           "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo",
           "date": "2026-10-11T23:18:45+00:00",
@@ -2065,22 +2087,6 @@
           "title": "Adidas sues Australian label White Fox over four stripes design",
           "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o",
           "date": "2026-10-08T18:17:28+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
-          "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo",
-          "date": "2026-10-01T17:27:37+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
