@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T06:13:33+00:00",
+  "updated": "2026-10-14T12:01:00+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -7,9 +7,19 @@
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
         {
+          "title": "從今以後，不擇手段？普京新策略要讓烏克蘭全國片瓦無存",
+          "link": "https://www.bbc.com/zhongwen/articles/cwm235qpgrrdo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-14T09:09:43+00:00"
+        },
+        {
           "title": "台灣選舉解讀：「北藍南綠」的政治版圖是否「鐵板一塊」？",
           "link": "https://www.bbc.com/zhongwen/articles/c3n07pkpk5ggo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-14T03:36:37+00:00"
+        },
+        {
+          "title": "「我會跟電視說話」：中國這些孤獨的人付錢感受溫暖",
+          "link": "https://www.bbc.com/zhongwen/articles/cmqln6xl303no/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-14T08:42:17+00:00"
         },
         {
           "title": "梵蒂岡證實教宗患上肺腺癌，但手術成功",
@@ -17,19 +27,9 @@
           "date": "2026-10-14T04:37:43+00:00"
         },
         {
-          "title": "中共中央紀委：薄熙來前搭檔黃奇帆接受調查",
-          "link": "https://www.bbc.com/zhongwen/articles/c63r584g9xwpo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-13T13:34:13+00:00"
-        },
-        {
-          "title": "AI翻譯：還有多久會完全取代人類？",
-          "link": "https://www.bbc.com/zhongwen/articles/crvg9n72v9p2o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-14T02:38:13+00:00"
-        },
-        {
-          "title": "華為尊界V800事件：一場煞車測試如何演變成中國輿論風暴",
-          "link": "https://www.bbc.com/zhongwen/articles/c862yzkgzwero/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-13T09:04:11+00:00"
+          "title": "俄羅斯以間諜罪嫌抓捕日本駐庫頁島記者",
+          "link": "https://www.bbc.com/zhongwen/articles/cx054n50gm37o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-14T10:34:28+00:00"
         }
       ]
     },
@@ -39,29 +39,29 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-14T00:17:00+00:00"
+          "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+          "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-14T11:32:07+00:00"
         },
         {
-          "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-          "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-13T21:42:49+00:00"
+          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-14T11:17:51+00:00"
         },
         {
           "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
           "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-13T23:42:22+00:00"
+          "date": "2026-10-14T09:32:54+00:00"
         },
         {
-          "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-          "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-13T15:52:15+00:00"
+          "title": "Saudi employee charged with planting recording device in OpenAI office",
+          "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-13T21:42:49+00:00"
         },
         {
-          "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-          "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-14T04:20:17+00:00"
+          "title": "Turkish police raid opposition TV station, halting live broadcasts",
+          "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-14T10:50:11+00:00"
         }
       ]
     },
@@ -71,29 +71,29 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
-          "title": "Not building third runway would be 'huge missed opportunity', warns Heathrow boss",
-          "link": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-14T04:59:06+00:00"
+          "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
+          "link": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-14T11:04:12+00:00"
         },
         {
-          "title": "Royal Mail losing 400 postal workers a week, says union",
-          "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-13T23:03:59+00:00"
+          "title": "Civil servant faked illness so he could juggle five jobs from home, court hears",
+          "link": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-14T11:57:22+00:00"
         },
         {
-          "title": "Is it OK for jobseekers or employers to use AI?",
+          "title": "Wayfair among firms fined millions for misleading sales tactics",
+          "link": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-14T11:05:16+00:00"
+        },
+        {
+          "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
           "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-13T23:04:39+00:00"
+          "date": "2026-10-14T08:27:17+00:00"
         },
         {
-          "title": "Bank of America hit with $1.2bn fine for money laundering failings",
-          "link": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-14T02:05:32+00:00"
-        },
-        {
-          "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
-          "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-13T15:59:07+00:00"
+          "title": "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
+          "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-14T07:18:08+00:00"
         }
       ]
     },
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico",
-          "link": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
-          "date": "2026-10-14T05:19:36+00:00"
+          "title": "The latest inflation data is expected to show price increases are accelerating",
+          "link": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
+          "date": "2026-10-13T18:05:57+00:00"
         },
         {
-          "title": "ASML says it's getting order interest through 2030 as profit smashes expectations",
-          "link": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
-          "date": "2026-10-14T05:56:11+00:00"
+          "title": "Bank of America posts third-quarter profit drop due to $1.2 billion Treasury fine; shares decline",
+          "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+          "date": "2026-10-14T11:58:23+00:00"
         },
         {
-          "title": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
-          "link": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
-          "date": "2026-10-14T04:07:00+00:00"
+          "title": "Morgan Stanley tops estimates as equities trading revenue exceeds expectations by $909 million",
+          "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+          "date": "2026-10-14T11:58:05+00:00"
         },
         {
-          "title": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
-          "link": "https://www.cnbc.com/2026/10/14/taiwan-alaska-lng-project-trump-.html",
-          "date": "2026-10-14T02:09:00+00:00"
+          "title": "Delta's business-class revamp: New seats, menus, plates and more Porsches",
+          "link": "https://www.cnbc.com/2026/10/14/delta-one-revamp.html",
+          "date": "2026-10-14T11:00:01+00:00"
         },
         {
-          "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
-          "link": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
-          "date": "2026-10-14T00:13:45+00:00"
+          "title": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
+          "link": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
+          "date": "2026-10-14T09:18:18+00:00"
         }
       ]
     },
@@ -134,6 +134,16 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "认知心理学背后的播客剪辑技巧",
+          "link": "https://sspai.com/post/114861",
+          "date": "2026-10-14T09:33:49+00:00"
+        },
+        {
+          "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+          "link": "https://sspai.com/post/115426",
+          "date": "2026-10-14T07:00:00+00:00"
+        },
         {
           "title": "家中、这里、那里——Sonos Play 体验",
           "link": "https://sspai.com/post/115382",
@@ -148,16 +158,6 @@
           "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒",
           "link": "https://sspai.com/post/92653",
           "date": "2026-10-14T02:00:04+00:00"
-        },
-        {
-          "title": "派早报：Apple 发布 HomePod mini 2、HomeView 等新品",
-          "link": "https://sspai.com/post/116138",
-          "date": "2026-10-14T00:40:39+00:00"
-        },
-        {
-          "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议",
-          "link": "https://sspai.com/post/116068",
-          "date": "2026-10-13T09:00:00+00:00"
         }
       ]
     },
@@ -166,6 +166,16 @@
       "category": "科技",
       "url": "https://www.ifanr.com/feed",
       "items": [
+        {
+          "title": "Nothing Headphone (1) Pro 体验：全面晋级，当旗舰头戴也开始玩多单元",
+          "link": "https://www.ifanr.com/1683906?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-10-14T10:14:04+00:00"
+        },
+        {
+          "title": "纯电续航破千！比亚迪大汉 23.59 万元起，看齐全尺寸行政旗舰",
+          "link": "https://www.ifanr.com/1684288?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-10-14T06:52:43+00:00"
+        },
         {
           "title": "刚刚，Anthropic 宣布弃用Git，统治编程20年的工具顶不住AI了",
           "link": "https://www.ifanr.com/1684269?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -180,16 +190,6 @@
           "title": "我建议你马上更新，国行 Apple Watch 终于等来这个「救命功能」！",
           "link": "https://www.ifanr.com/1684204?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-10-14T02:31:34+00:00"
-        },
-        {
-          "title": "企业微信和 WorkBuddy 组了个「王炸局」，AI 终于不用人伺候了",
-          "link": "https://www.ifanr.com/1684200?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-10-14T02:30:24+00:00"
-        },
-        {
-          "title": "早报｜苹果发布十多款「果家」新品/Gemini 4来了，写代码更省心/3999元，阶跃智能体手机发布",
-          "link": "https://www.ifanr.com/1684137?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-10-14T00:08:24+00:00"
         }
       ]
     },
@@ -199,29 +199,29 @@
       "url": "https://www.solidot.org/index.rss",
       "items": [
         {
-          "title": "蜜蜂的螫针如何泵送毒液",
-          "link": "https://www.solidot.org/story?sid=85603",
-          "date": "2026-10-13T15:25:58+00:00"
+          "title": "荷兰税务与海关总署放弃部署微软公有云，采用开源替代",
+          "link": "https://www.solidot.org/story?sid=85611",
+          "date": "2026-10-14T10:07:45+00:00"
         },
         {
-          "title": "气候暖化速度过去十五年加倍",
-          "link": "https://www.solidot.org/story?sid=85602",
-          "date": "2026-10-13T14:58:20+00:00"
+          "title": "水产养殖未减轻过度捕捞问题",
+          "link": "https://www.solidot.org/story?sid=85610",
+          "date": "2026-10-14T08:06:34+00:00"
         },
         {
-          "title": "ESA 想要将 voices38 列入恶名盗版市场名单",
-          "link": "https://www.solidot.org/story?sid=85600",
-          "date": "2026-10-13T10:53:53+00:00"
+          "title": "韦伯望远镜发现一颗熔岩行星存在大气",
+          "link": "https://www.solidot.org/story?sid=85609",
+          "date": "2026-10-14T07:38:35+00:00"
         },
         {
-          "title": "《RimWorld》将游戏引擎从 Unity 切换到 Waylith Engine",
-          "link": "https://www.solidot.org/story?sid=85599",
-          "date": "2026-10-13T10:15:59+00:00"
+          "title": "NetBSD 成为反 AI 开发者青睐的开源操作系统",
+          "link": "https://www.solidot.org/story?sid=85608",
+          "date": "2026-10-14T07:31:49+00:00"
         },
         {
-          "title": "美国麻疹病例突破 4080 例",
-          "link": "https://www.solidot.org/story?sid=85598",
-          "date": "2026-10-13T09:03:53+00:00"
+          "title": "存在比地球更宜居的星球",
+          "link": "https://www.solidot.org/story?sid=85606",
+          "date": "2026-10-14T06:39:11+00:00"
         }
       ]
     },
@@ -230,6 +230,16 @@
       "category": "科技",
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
+        {
+          "title": "The Tesla Roadster could have stayed vaporware",
+          "link": "https://www.theverge.com/transportation/1010694/tesla-roadster-reveal-vaporware-spacex-elon-musk",
+          "date": "2026-10-14T01:23:38+00:00"
+        },
+        {
+          "title": "Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting",
+          "link": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
+          "date": "2026-10-14T09:05:24+00:00"
+        },
         {
           "title": "Apple’s HomeView ad is confusing to everyone except parents",
           "link": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
@@ -244,16 +254,6 @@
           "title": "It looks like Apple Music is getting a new icon",
           "link": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta",
           "date": "2026-10-13T20:05:02+00:00"
-        },
-        {
-          "title": "Shopify opens its catalog up to more AI agents",
-          "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-          "date": "2026-10-13T20:23:23+00:00"
-        },
-        {
-          "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-          "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-          "date": "2026-10-13T19:10:43+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
-          "link": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
-          "date": "2026-10-14T05:53:36+00:00"
+          "title": "Xi's 'death watch' will become a global spectacle",
+          "link": "https://www.semafor.com/article/10/13/2026/xis-death-watch-will-become-a-global-spectacle",
+          "date": "2026-10-14T10:55:57+00:00"
         },
         {
-          "title": "Felix Rieseberg Homepage",
-          "link": "https://felixrieseberg.com/",
-          "date": "2026-10-14T04:42:33+00:00"
+          "title": "Show HN: Building an LLM from Scratch in TypeScript",
+          "link": "https://book.humanexperiences.io/",
+          "date": "2026-10-14T10:29:56+00:00"
         },
         {
-          "title": "Is 'Attention' the Essence of Intelligence?",
-          "link": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
-          "date": "2026-10-14T03:10:25+00:00"
+          "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+          "link": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
+          "date": "2026-10-14T10:26:53+00:00"
         },
         {
-          "title": "I built a tool to track what AI leaders say and how their views change on video",
-          "link": "https://blumify.io/people",
-          "date": "2026-10-14T01:09:13+00:00"
+          "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+          "link": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
+          "date": "2026-10-14T10:26:24+00:00"
         },
         {
-          "title": "Do Frameworks Matter Anymore?",
-          "link": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
-          "date": "2026-10-14T01:01:08+00:00"
+          "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
+          "link": "https://museumofages.org/w/vinci",
+          "date": "2026-10-14T10:00:24+00:00"
         }
       ]
     },
@@ -332,19 +332,19 @@
           "date": "2026-10-13T14:36:52+00:00"
         },
         {
+          "title": "Apple: Switch to Safari (from Chrome)",
+          "link": "https://www.apple.com/safari/switch/",
+          "date": "2026-10-14T04:18:17+00:00"
+        },
+        {
           "title": "Did Ente Locker copy my code without attribution?",
           "link": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
           "date": "2026-10-13T13:44:47+00:00"
         },
         {
-          "title": "The reverts will continue until morale improves",
-          "link": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
-          "date": "2026-10-13T11:37:06+00:00"
-        },
-        {
-          "title": "Who is vfmaddrnd231pd??",
-          "link": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-          "date": "2026-10-13T04:43:34+00:00"
+          "title": "Fancy Curl Sites",
+          "link": "https://nytpu.com/gemlog/2026-03-18",
+          "date": "2026-10-14T06:24:41+00:00"
         },
         {
           "title": "Redesigning source control at Anthropic",
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[程序员] 准备出租 JP 的家里云（家宽）",
-          "link": "https://www.v2ex.com/t/1248708#reply0",
-          "date": "2026-10-14T06:07:23+00:00"
+          "title": "[程序员] 一个个人博客，记事本",
+          "link": "https://www.v2ex.com/t/1248815#reply0",
+          "date": "2026-10-14T11:54:44+00:00"
         },
         {
-          "title": "[酷工作] Looking for good Execution Systems Dev",
-          "link": "https://www.v2ex.com/t/1248707#reply0",
-          "date": "2026-10-14T06:07:08+00:00"
+          "title": "[问与答] 全屋 wifi 中兴晴天 poe 版本如何？",
+          "link": "https://www.v2ex.com/t/1248814#reply0",
+          "date": "2026-10-14T11:30:37+00:00"
         },
         {
-          "title": "[程序员] 26 年是关键的一年，感觉 26 年很多码农的思维从“我的水平 llm 还不配取代我”到“别挣扎了，不管做到什么程度 llm 终将取代我”",
-          "link": "https://www.v2ex.com/t/1248706#reply3",
-          "date": "2026-10-14T06:05:33+00:00"
+          "title": "[Claude] 记录一下， claude 活了一天",
+          "link": "https://www.v2ex.com/t/1248813#reply2",
+          "date": "2026-10-14T11:25:24+00:00"
         },
         {
-          "title": "[Local LLM] 你好 NVFP4： strata-0.1.44.1， qwen3.8-flash-next， rtx pro 5000 48GB + 64GB RAM， decode 130t/s， prefill2600 t/s",
-          "link": "https://www.v2ex.com/t/1248704#reply0",
-          "date": "2026-10-14T05:57:13+00:00"
+          "title": "[酷工作] 有招 UI 的吗？ 10 年经验， C 端 app web",
+          "link": "https://www.v2ex.com/t/1248812#reply0",
+          "date": "2026-10-14T11:25:03+00:00"
         },
         {
-          "title": "[Claude] 刚刚，升级了 Max， 然后弹出了身份认证",
-          "link": "https://www.v2ex.com/t/1248703#reply8",
-          "date": "2026-10-14T05:46:16+00:00"
+          "title": "[问与答] 台湾寄电子产品到大陆， 700 美元被顺丰收了 642 元税金，这个金额正常吗？",
+          "link": "https://www.v2ex.com/t/1248811#reply11",
+          "date": "2026-10-14T11:16:26+00:00"
         }
       ]
     },
@@ -541,29 +541,29 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
-          "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
-          "link": "https://www.qbitai.com/2026/10/503172.html",
-          "date": "2026-10-14T04:51:32+00:00"
+          "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+          "link": "https://www.qbitai.com/2026/10/503294.html",
+          "date": "2026-10-14T10:41:47+00:00"
         },
         {
-          "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
-          "link": "https://www.qbitai.com/2026/10/503173.html",
-          "date": "2026-10-14T04:09:29+00:00"
+          "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
+          "link": "https://www.qbitai.com/2026/10/503244.html",
+          "date": "2026-10-14T08:01:18+00:00"
         },
         {
-          "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
-          "link": "https://www.qbitai.com/2026/10/503165.html",
-          "date": "2026-10-14T03:32:48+00:00"
+          "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
+          "link": "https://www.qbitai.com/2026/10/503231.html",
+          "date": "2026-10-14T07:12:02+00:00"
         },
         {
-          "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
-          "link": "https://www.qbitai.com/2026/10/503157.html",
-          "date": "2026-10-14T02:14:50+00:00"
+          "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+          "link": "https://www.qbitai.com/2026/10/503211.html",
+          "date": "2026-10-14T07:03:44+00:00"
         },
         {
-          "title": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存",
-          "link": "https://www.qbitai.com/2026/10/503109.html",
-          "date": "2026-10-13T20:55:15+00:00"
+          "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
+          "link": "https://www.qbitai.com/2026/10/503201.html",
+          "date": "2026-10-14T06:45:38+00:00"
         }
       ]
     },
@@ -572,6 +572,11 @@
       "category": "AI",
       "url": "https://www.technologyreview.com/feed/",
       "items": [
+        {
+          "title": "The US military’s race to make fake blood",
+          "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+          "date": "2026-10-14T09:00:00+00:00"
+        },
         {
           "title": "The Download: open model trade-offs and geothermal power’s promise",
           "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
@@ -591,11 +596,6 @@
           "title": "The Download: moon city problems and drone traffic controllers",
           "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
           "date": "2026-10-12T12:10:00+00:00"
-        },
-        {
-          "title": "What it would take to build a city on the moon",
-          "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
-          "date": "2026-10-12T09:37:02+00:00"
         }
       ]
     },
