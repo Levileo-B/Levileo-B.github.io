@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-14T01:15:08+00:00",
-  "updated": "2026-10-14T01:15:08+00:00",
+  "generated_at": "2026-10-14T06:13:33+00:00",
+  "updated": "2026-10-14T06:13:33+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-12T00:00:00+08:00",
-    "end": "2026-10-14T01:15:08+00:00",
-    "total": 298,
+    "end": "2026-10-14T06:13:33+00:00",
+    "total": 336,
     "items": [
       {
         "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
@@ -186,6 +186,76 @@
           "observed_days": 2
         },
         {
+          "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
+          "link": "https://www.qbitai.com/2026/10/503172.html",
+          "date": "2026-10-14T04:51:32+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
+          "link": "https://www.qbitai.com/2026/10/503173.html",
+          "date": "2026-10-14T04:09:29+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+          "link": "https://www.qbitai.com/2026/10/503165.html",
+          "date": "2026-10-14T03:32:48+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
+          "link": "https://www.qbitai.com/2026/10/503157.html",
+          "date": "2026-10-14T02:14:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存",
+          "link": "https://www.qbitai.com/2026/10/503109.html",
+          "date": "2026-10-13T20:55:15+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "The Download: open model trade-offs and geothermal power’s promise",
           "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
           "date": "2026-10-13T12:00:00+00:00",
@@ -223,76 +293,6 @@
           ],
           "sources": [
             "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
-          "link": "https://www.qbitai.com/2026/10/503093.html",
-          "date": "2026-10-13T09:33:37+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "AI labs are buying data from dead startups to train their models",
-          "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-          "date": "2026-10-13T09:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
-          "link": "https://www.qbitai.com/2026/10/502992.html",
-          "date": "2026-10-13T07:20:23+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
-          "link": "https://www.qbitai.com/2026/10/502954.html",
-          "date": "2026-10-13T07:19:21+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
-          "link": "https://www.qbitai.com/2026/10/502920.html",
-          "date": "2026-10-13T06:19:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -370,9 +370,9 @@
           "observed_days": 2
         },
         {
-          "title": "[ WATCH] apple watch 中国大陆已推出睡眠呼吸暂停功能",
-          "link": "https://www.v2ex.com/t/1248579",
-          "date": "2026-10-14T01:12:39+00:00",
+          "title": "[程序员] 准备出租 JP 的家里云（家宽）",
+          "link": "https://www.v2ex.com/t/1248708",
+          "date": "2026-10-14T06:07:23+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -384,9 +384,9 @@
           "observed_days": 1
         },
         {
-          "title": "[问与答] 现在修电视都这么贵的吗？",
-          "link": "https://www.v2ex.com/t/1248577",
-          "date": "2026-10-14T01:11:06+00:00",
+          "title": "[酷工作] Looking for good Execution Systems Dev",
+          "link": "https://www.v2ex.com/t/1248707",
+          "date": "2026-10-14T06:07:08+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -398,9 +398,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享发现] muse 免费领取 30 亿词元",
-          "link": "https://www.v2ex.com/t/1248576",
-          "date": "2026-10-14T01:09:02+00:00",
+          "title": "[程序员] 26 年是关键的一年，感觉 26 年很多码农的思维从“我的水平 llm 还不配取代我”到“别挣扎了，不管做到什么程度 llm 终将取代我”",
+          "link": "https://www.v2ex.com/t/1248706",
+          "date": "2026-10-14T06:05:33+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -412,9 +412,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] 给 PhotoCraft 做了两个浏览器试用入口，补了上手教程和 PSD 检查说明",
-          "link": "https://www.v2ex.com/t/1248575",
-          "date": "2026-10-14T00:55:54+00:00",
+          "title": "[Local LLM] 你好 NVFP4： strata-0.1.44.1， qwen3.8-flash-next， rtx pro 5000 48GB + 64GB RAM， decode 130t/s， prefill2600 t/s",
+          "link": "https://www.v2ex.com/t/1248704",
+          "date": "2026-10-14T05:57:13+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -426,15 +426,15 @@
           "observed_days": 1
         },
         {
-          "title": "[Claude] 用 claude 网页版的别忘了关闭浏览器的预加载",
-          "link": "https://www.v2ex.com/t/1248574",
-          "date": "2026-10-14T00:54:51+00:00",
+          "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
+          "link": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
+          "date": "2026-10-14T05:53:36+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "V2EX"
+            "Hacker News"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -584,6 +584,76 @@
       ],
       "科研": [
         {
+          "title": "Gigantic prehistoric snake discovered in India may have been one of the largest ever",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261014001406.htm",
+          "date": "2026-10-14T05:44:39+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "New knee arthritis treatment delivers lasting pain relief without surgery",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261013234801.htm",
+          "date": "2026-10-14T04:39:11+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "AI reveals a hidden chemical shortcut that could turn CO2 into fuel",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261013015758.htm",
+          "date": "2026-10-14T00:01:11+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "China’s extraordinary rise in science and how it will change the world",
+          "link": "https://www.nature.com/articles/d41586-026-03222-9",
+          "date": "2026-10-14T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "China’s AI research is booming. Where is it headed?",
+          "link": "https://www.nature.com/articles/d41586-026-03223-8",
+          "date": "2026-10-14T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
           "link": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
           "date": "2026-10-13T11:27:24+00:00",
@@ -649,76 +719,6 @@
           ],
           "sources": [
             "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Preserve research data for tomorrow’s AI-enabled integrity checks",
-          "link": "https://www.nature.com/articles/d41586-026-03244-3",
-          "date": "2026-10-13T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Decentralized AI needs more evidence on energy use",
-          "link": "https://www.nature.com/articles/d41586-026-03245-2",
-          "date": "2026-10-13T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "When microbes degrade plastic, where does it go?",
-          "link": "https://www.nature.com/articles/d41586-026-03246-1",
-          "date": "2026-10-13T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Selective, Catalytic Oxidation of Polyethylene Surfaces",
-          "link": "https://www.nature.com/articles/s41586-026-11255-3",
-          "date": "2026-10-13T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Atomic-scale spin sensing of a 2D d-wave altermagnet <i>via</i> helical tunneling",
-          "link": "https://www.nature.com/articles/s41586-026-11257-1",
-          "date": "2026-10-13T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -1006,9 +1006,9 @@
           "observed_days": 2
         },
         {
-          "title": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
-          "link": "https://www.cnbc.com/2026/10/14/singapore-gdp-q3.html",
-          "date": "2026-10-14T00:28:34+00:00",
+          "title": "ASML says it's getting order interest through 2030 as profit smashes expectations",
+          "link": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
+          "date": "2026-10-14T05:56:11+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1024,8 +1024,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-14T01:15:08+00:00",
-    "total": 1661,
+    "end": "2026-10-14T06:13:33+00:00",
+    "total": 1699,
     "items": [
       {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
