@@ -1,58 +1,82 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-13T08:26:37.346142+00:00",
-  "attempted_at": "2026-10-13T08:26:37.346142+00:00",
+  "updated": "2026-10-14T06:42:38.658520+00:00",
+  "attempted_at": "2026-10-14T06:42:38.658520+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-10-13T08:26:37.346142+00:00",
+      "last_success": "2026-10-14T06:42:38.658520+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-10-13T08:26:37.346142+00:00",
+      "last_success": "2026-10-14T06:42:38.658520+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-10-13T08:26:37.346142+00:00",
+      "last_success": "2026-10-14T06:42:38.658520+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-10-13T08:26:37.346142+00:00",
+      "last_success": "2026-10-14T06:42:38.658520+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-10-13T08:26:37.346142+00:00",
+      "last_success": "2026-10-14T06:42:38.658520+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-10-13T08:26:37.346142+00:00",
+      "last_success": "2026-10-14T06:42:38.658520+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-10-13T08:26:37.346142+00:00",
+      "last_success": "2026-10-14T06:42:38.658520+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-10-13T08:26:37.346142+00:00",
+      "last_success": "2026-10-14T06:42:38.658520+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.3390/rs18203514",
+      "title": "UAV-LiDAR and Machine Learning for Estimating Individual Tree Diameter at Breast Height in Chinese Fir Plantations Approaching Maturity",
+      "journal_id": "remote-sensing",
+      "published": "2026-10-13",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18203514",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-74609-x",
+      "title": "WebXR-based mobile point cloud rendering and semantic segmentation using depth data and voxel fusion",
+      "journal_id": "scientific-reports",
+      "published": "2026-10-13",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-74609-x",
+      "source": "crossref"
+    },
     {
       "id": "10.1002/rob.70369",
       "title": "Context‐Aware Reconstruction for DVL Outlier Detection in Robust AUV Navigation",
@@ -1590,18 +1614,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.3390/rs18172883",
-      "title": "How Accurately Can Smartphone LiDAR Document the Exposed Coarse Root Architecture of Scots Pine? A Low-Cost Field Workflow",
-      "journal_id": "remote-sensing",
-      "published": "2026-08-26",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18172883",
-      "source": "crossref"
-    },
-    {
       "id": "10.1002/rob.70328",
       "title": "Visual Point‐Line and Inertial Measurement Unit Fusion‐Based Simultaneous Localization and Mapping Algorithm for Robotic Grinding of Wind Turbine Blades",
       "journal_id": "jfr",
@@ -1732,18 +1744,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1002/rob.70323",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1038/s41598-026-66447-8",
-      "title": "Robust local feature descriptor for 3D point cloud analysis using siamese networks",
-      "journal_id": "scientific-reports",
-      "published": "2026-08-11",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-66447-8",
       "source": "crossref"
     },
     {
