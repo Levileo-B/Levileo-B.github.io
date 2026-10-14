@@ -1,13 +1,28 @@
 {
-  "generated_at": "2026-10-14T17:15:17+00:00",
-  "updated": "2026-10-14T17:15:17+00:00",
+  "generated_at": "2026-10-14T20:45:33+00:00",
+  "updated": "2026-10-14T20:45:33+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-12T00:00:00+08:00",
-    "end": "2026-10-14T17:15:17+00:00",
-    "total": 419,
+    "end": "2026-10-14T20:45:33+00:00",
+    "total": 451,
     "items": [
+      {
+        "title": "Fancy Curl Sites",
+        "link": "https://nytpu.com/gemlog/2026-03-18",
+        "date": "2026-10-14T06:24:41+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
       {
         "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
         "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo",
@@ -138,20 +153,6 @@
         ],
         "sources": [
           "量子位"
-        ],
-        "source_count": 1,
-        "observed_days": 2
-      },
-      {
-        "title": "俄羅斯以間諜罪嫌抓捕日本駐庫頁島記者",
-        "link": "https://www.bbc.com/zhongwen/articles/cx054n50gm37o/trad",
-        "date": "2026-10-14T10:34:28+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC 中文"
         ],
         "source_count": 1,
         "observed_days": 2
@@ -302,6 +303,21 @@
       ],
       "开发": [
         {
+          "title": "Fancy Curl Sites",
+          "link": "https://nytpu.com/gemlog/2026-03-18",
+          "date": "2026-10-14T06:24:41+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析",
           "link": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
           "date": "2026-10-11T20:20:34+00:00",
@@ -328,20 +344,6 @@
           ],
           "source_count": 1,
           "observed_days": 3
-        },
-        {
-          "title": "Fancy Curl Sites",
-          "link": "https://nytpu.com/gemlog/2026-03-18",
-          "date": "2026-10-14T06:24:41+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         },
         {
           "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
@@ -400,9 +402,9 @@
           "observed_days": 2
         },
         {
-          "title": "[推广] I built Bulin 47 AI — put yourself in the viral Bulin 47 freestyle from one photo (720P, original sound, $9.99, no subsc",
-          "link": "https://www.v2ex.com/t/1248862",
-          "date": "2026-10-14T17:07:49+00:00",
+          "title": "[分享创造] 做了一个游戏融合目录，帮玩家从演示视频找到原作者和安装要求",
+          "link": "https://www.v2ex.com/t/1248870",
+          "date": "2026-10-14T20:06:53+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -414,23 +416,23 @@
           "observed_days": 1
         },
         {
-          "title": "[问与答] 不同的模型，如何选择模型的客户端",
-          "link": "https://www.v2ex.com/t/1248861",
-          "date": "2026-10-14T16:58:07+00:00",
+          "title": "GitHub availability report: September 2026",
+          "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
+          "date": "2026-10-14T20:01:35+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "V2EX"
+            "GitHub Blog"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "[职场话题] AI 冲击之下，最近 v2 的程序员们都怎么样了",
-          "link": "https://www.v2ex.com/t/1248860",
-          "date": "2026-10-14T16:56:54+00:00",
+          "title": "[分享发现] 网络反诈，人人有责，警惕 AI 会员购买诈骗",
+          "link": "https://www.v2ex.com/t/1248869",
+          "date": "2026-10-14T19:58:54+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -670,6 +672,20 @@
           "observed_days": 1
         },
         {
+          "title": "Biomedical engineering is growing rapidly, but will it help patients?",
+          "link": "https://www.nature.com/articles/d41586-026-03202-z",
+          "date": "2026-10-14T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "China’s extraordinary rise in science and how it will change the world",
           "link": "https://www.nature.com/articles/d41586-026-03222-9",
           "date": "2026-10-14T00:00:00+00:00",
@@ -698,29 +714,15 @@
           "observed_days": 1
         },
         {
-          "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
-          "date": "2026-10-13T11:27:24+00:00",
+          "title": "Growing plane and ship traffic degrade the air of western North America",
+          "link": "https://www.nature.com/articles/d41586-026-03239-0",
+          "date": "2026-10-14T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
           ],
           "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Scientists discover a surprising paradox in how our cells age",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261012185009.htm",
-          "date": "2026-10-13T11:01:38+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
+            "Nature"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -1030,8 +1032,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-14T17:15:17+00:00",
-    "total": 1782,
+    "end": "2026-10-14T20:45:33+00:00",
+    "total": 1814,
     "items": [
       {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
@@ -1080,6 +1082,21 @@
         ],
         "source_count": 2,
         "observed_days": 3
+      },
+      {
+        "title": "Fancy Curl Sites",
+        "link": "https://nytpu.com/gemlog/2026-03-18",
+        "date": "2026-10-14T06:24:41+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
       },
       {
         "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
@@ -1171,21 +1188,6 @@
         "sources": [
           "Ars Technica",
           "Hacker News"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
-        "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-        "date": "2026-10-07T21:16:18+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
         ],
         "source_count": 2,
         "observed_days": 2
@@ -1336,6 +1338,21 @@
       ],
       "开发": [
         {
+          "title": "Fancy Curl Sites",
+          "link": "https://nytpu.com/gemlog/2026-03-18",
+          "date": "2026-10-14T06:24:41+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
           "link": "https://verdagon.dev/blog/valen-group-borrowing",
           "date": "2026-10-11T12:06:22+00:00",
@@ -1461,21 +1478,6 @@
           "title": "System-level ad-blocking in Android",
           "link": "https://kevinboone.me/adblock.html",
           "date": "2026-10-03T20:43:41+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Kolibri: A Sovereign Open-Weight Model",
-          "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-          "date": "2026-10-03T09:36:04+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
