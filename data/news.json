@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T20:45:33+00:00",
+  "updated": "2026-10-14T23:57:21+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,9 +39,14 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
-          "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-14T13:11:17+00:00"
+          "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+          "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-14T20:55:24+00:00"
+        },
+        {
+          "title": "Student protesters attack government buildings in Albania",
+          "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-14T20:29:05+00:00"
         },
         {
           "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
@@ -57,11 +62,6 @@
           "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
           "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-14T13:41:51+00:00"
-        },
-        {
-          "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-          "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-14T13:35:29+00:00"
         }
       ]
     },
@@ -81,6 +81,11 @@
           "date": "2026-10-14T16:47:32+00:00"
         },
         {
+          "title": "How backlash against data centres could shape the US midterm elections",
+          "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-14T23:02:57+00:00"
+        },
+        {
           "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
           "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-14T15:54:04+00:00"
@@ -89,11 +94,6 @@
           "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
           "link": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-14T11:04:12+00:00"
-        },
-        {
-          "title": "Driving test waits fall to two-year low - but still average 20 weeks",
-          "link": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-14T13:45:34+00:00"
         }
       ]
     },
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-          "link": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
-          "date": "2026-10-14T19:22:00+00:00"
+          "title": "How high inflation became a 'fact of life' in the U.S.",
+          "link": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
+          "date": "2026-10-14T17:20:23+00:00"
         },
         {
           "title": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest",
           "link": "https://www.cnbc.com/2026/10/14/openai-alfozan-recording-raed-ventures.html",
-          "date": "2026-10-14T20:33:22+00:00"
-        },
-        {
-          "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
-          "link": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
-          "date": "2026-10-14T20:12:14+00:00"
-        },
-        {
-          "title": "Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge",
-          "link": "https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html",
-          "date": "2026-10-14T19:03:44+00:00"
+          "date": "2026-10-14T21:18:13+00:00"
         },
         {
           "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
           "link": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
           "date": "2026-10-14T20:19:25+00:00"
+        },
+        {
+          "title": "OpenAI sued by 8 states over ChatGPT safety concerns",
+          "link": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
+          "date": "2026-10-14T21:09:20+00:00"
+        },
+        {
+          "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
+          "link": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
+          "date": "2026-10-14T20:46:32+00:00"
         }
       ]
     },
@@ -231,6 +231,21 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "McKinsey is making job applicants spar with a fake AI client",
+          "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+          "date": "2026-10-14T22:53:31+00:00"
+        },
+        {
+          "title": "The best feature of Apple’s HomeView might be its simplicity",
+          "link": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
+          "date": "2026-10-14T22:52:14+00:00"
+        },
+        {
+          "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+          "date": "2026-10-14T21:17:29+00:00"
+        },
+        {
           "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
           "link": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
           "date": "2026-10-14T20:03:43+00:00"
@@ -239,21 +254,6 @@
           "title": "The AI race is back on",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
           "date": "2026-10-14T19:06:03+00:00"
-        },
-        {
-          "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-          "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-          "date": "2026-10-14T18:47:54+00:00"
-        },
-        {
-          "title": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
-          "link": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features",
-          "date": "2026-10-14T19:46:41+00:00"
-        },
-        {
-          "title": "YouTube sticks new labels on AI-generated songs",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-          "date": "2026-10-14T18:25:04+00:00"
         }
       ]
     },
@@ -263,29 +263,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
-          "link": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
-          "date": "2026-10-14T19:10:58+00:00"
+          "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+          "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+          "date": "2026-10-14T21:35:09+00:00"
         },
         {
-          "title": "Researchers use AI to design proteins that cut up other proteins",
-          "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
-          "date": "2026-10-14T17:10:15+00:00"
+          "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+          "link": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+          "date": "2026-10-14T21:15:56+00:00"
         },
         {
-          "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-          "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-          "date": "2026-10-14T16:41:49+00:00"
+          "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+          "link": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+          "date": "2026-10-14T21:03:11+00:00"
         },
         {
-          "title": "Legendary FPS level designer Richard \"Levelord\" Gray dies at 68",
-          "link": "https://arstechnica.com/gaming/2026/10/legendary-fps-level-designer-richard-levelord-gray-passes-away-at-68/",
-          "date": "2026-10-14T16:02:08+00:00"
+          "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
+          "link": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+          "date": "2026-10-14T20:48:07+00:00"
         },
         {
-          "title": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
-          "link": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
-          "date": "2026-10-14T13:56:11+00:00"
+          "title": "Schools across US protest FCC plan that could disconnect kids from Internet",
+          "link": "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
+          "date": "2026-10-14T20:15:56+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Fancy Curl Sites",
-          "link": "https://nytpu.com/gemlog/2026-03-18",
-          "date": "2026-10-14T19:29:12+00:00"
+          "title": "Tiny Little Office",
+          "link": "https://tinylittleoffice.com/",
+          "date": "2026-10-14T22:10:08+00:00"
         },
         {
-          "title": "Things to know if you get cancer in 2026",
-          "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-          "date": "2026-10-14T19:26:30+00:00"
+          "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+          "link": "https://typesafe.ai/blog/jev-1-14",
+          "date": "2026-10-14T21:11:03+00:00"
         },
         {
-          "title": "Suicide rates highest ever among middle-aged men",
-          "link": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
-          "date": "2026-10-14T19:03:58+00:00"
+          "title": "OpenCode 2.0",
+          "link": "https://anoma.ly/notes/opencode-2-0/",
+          "date": "2026-10-14T20:48:24+00:00"
         },
         {
-          "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-          "link": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-          "date": "2026-10-14T18:37:21+00:00"
+          "title": "Anthropic's Scion is heavily inspired by Mononoke",
+          "link": "https://sunshowers.io/posts/anthropic-mononoke/",
+          "date": "2026-10-14T20:30:54+00:00"
         },
         {
-          "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-          "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-          "date": "2026-10-14T18:32:52+00:00"
+          "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+          "link": "https://blog.cloudflare.com/yandex-outage/",
+          "date": "2026-10-14T20:29:13+00:00"
         }
       ]
     },
@@ -326,6 +326,11 @@
       "category": "开发",
       "url": "https://lobste.rs/rss",
       "items": [
+        {
+          "title": "Anthropic's Scion is heavily inspired by Mononoke",
+          "link": "https://sunshowers.io/posts/anthropic-mononoke/",
+          "date": "2026-10-14T20:56:59+00:00"
+        },
         {
           "title": "Introducing Firefox Enterprise",
           "link": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
@@ -345,11 +350,6 @@
           "title": "Fancy Curl Sites",
           "link": "https://nytpu.com/gemlog/2026-03-18",
           "date": "2026-10-14T06:24:41+00:00"
-        },
-        {
-          "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-          "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-          "date": "2026-10-14T07:54:56+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
+          "title": "[macOS] 写了一个 macOS 原生的 Conky",
+          "link": "https://www.v2ex.com/t/1248874#reply0",
+          "date": "2026-10-14T23:25:58+00:00"
+        },
+        {
+          "title": "[问与答] 今天发工资突然多了一些钱",
+          "link": "https://www.v2ex.com/t/1248873#reply3",
+          "date": "2026-10-14T23:22:45+00:00"
+        },
+        {
+          "title": "[分享创造] 做了一个 A 股信息整理工具，把指标、涨停复盘和新闻分别导出成卡片",
+          "link": "https://www.v2ex.com/t/1248872#reply0",
+          "date": "2026-10-14T21:06:11+00:00"
+        },
+        {
           "title": "[分享创造] 做了一个游戏融合目录，帮玩家从演示视频找到原作者和安装要求",
           "link": "https://www.v2ex.com/t/1248870#reply0",
           "date": "2026-10-14T20:06:53+00:00"
         },
         {
           "title": "[分享发现] 网络反诈，人人有责，警惕 AI 会员购买诈骗",
-          "link": "https://www.v2ex.com/t/1248869#reply1",
+          "link": "https://www.v2ex.com/t/1248869#reply4",
           "date": "2026-10-14T19:58:54+00:00"
-        },
-        {
-          "title": "[VPS] CloudStorm｜ AWS / Azure / GCP / Oracle / Vultr / Linode 等云平台账号｜自动交付・实时库存",
-          "link": "https://www.v2ex.com/t/1248868#reply0",
-          "date": "2026-10-14T18:58:58+00:00"
-        },
-        {
-          "title": "[程序员] 10 元/年注册.com 域名教程，无实名无手机号，续费也是 10 元",
-          "link": "https://www.v2ex.com/t/1248867#reply0",
-          "date": "2026-10-14T18:47:41+00:00"
-        },
-        {
-          "title": "[职场话题] 阿里云外包相关 文科小弟的询问",
-          "link": "https://www.v2ex.com/t/1248866#reply0",
-          "date": "2026-10-14T18:42:32+00:00"
         }
       ]
     },

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-14T20:45:33+00:00",
-  "updated": "2026-10-14T20:45:33+00:00",
+  "generated_at": "2026-10-14T23:57:21+00:00",
+  "updated": "2026-10-14T23:57:21+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-12T00:00:00+08:00",
-    "end": "2026-10-14T20:45:33+00:00",
-    "total": 451,
+    "end": "2026-10-14T23:57:21+00:00",
+    "total": 472,
     "items": [
       {
         "title": "Fancy Curl Sites",
@@ -38,6 +38,21 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "Anthropic's Scion is heavily inspired by Mononoke",
+        "link": "https://sunshowers.io/posts/anthropic-mononoke/",
+        "date": "2026-10-14T20:30:54+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "US inflation rises more than expected - here's what is happening with prices",
@@ -139,20 +154,6 @@
         ],
         "sources": [
           "BBC Business"
-        ],
-        "source_count": 1,
-        "observed_days": 2
-      },
-      {
-        "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
-        "link": "https://www.qbitai.com/2026/10/503294.html",
-        "date": "2026-10-14T10:41:47+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "AI"
-        ],
-        "sources": [
-          "量子位"
         ],
         "source_count": 1,
         "observed_days": 2
@@ -318,6 +319,21 @@
           "observed_days": 2
         },
         {
+          "title": "Anthropic's Scion is heavily inspired by Mononoke",
+          "link": "https://sunshowers.io/posts/anthropic-mononoke/",
+          "date": "2026-10-14T20:30:54+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析",
           "link": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
           "date": "2026-10-11T20:20:34+00:00",
@@ -402,9 +418,9 @@
           "observed_days": 2
         },
         {
-          "title": "[分享创造] 做了一个游戏融合目录，帮玩家从演示视频找到原作者和安装要求",
-          "link": "https://www.v2ex.com/t/1248870",
-          "date": "2026-10-14T20:06:53+00:00",
+          "title": "[macOS] 写了一个 macOS 原生的 Conky",
+          "link": "https://www.v2ex.com/t/1248874",
+          "date": "2026-10-14T23:25:58+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -416,23 +432,9 @@
           "observed_days": 1
         },
         {
-          "title": "GitHub availability report: September 2026",
-          "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
-          "date": "2026-10-14T20:01:35+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "GitHub Blog"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[分享发现] 网络反诈，人人有责，警惕 AI 会员购买诈骗",
-          "link": "https://www.v2ex.com/t/1248869",
-          "date": "2026-10-14T19:58:54+00:00",
+          "title": "[问与答] 今天发工资突然多了一些钱",
+          "link": "https://www.v2ex.com/t/1248873",
+          "date": "2026-10-14T23:22:45+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1032,8 +1034,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-14T20:45:33+00:00",
-    "total": 1814,
+    "end": "2026-10-14T23:57:21+00:00",
+    "total": 1835,
     "items": [
       {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
