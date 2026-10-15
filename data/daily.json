@@ -1,41 +1,57 @@
 {
-  "updated": "2026-10-14T23:57:22+00:00",
+  "updated": "2026-10-15T04:44:50+00:00",
   "leetcode": {
-    "date": "2026-10-14",
-    "id": "3723",
-    "title": "Maximize Sum of Squares of Digits",
-    "titleEn": "Maximize Sum of Squares of Digits",
-    "slug": "maximize-sum-of-squares-of-digits",
-    "difficulty": "Medium",
+    "date": "2026-10-15",
+    "id": "2913",
+    "title": "Subarrays Distinct Element Sum of Squares I",
+    "titleEn": "Subarrays Distinct Element Sum of Squares I",
+    "slug": "subarrays-distinct-element-sum-of-squares-i",
+    "difficulty": "Easy",
     "tags": [
-      "Math",
-      "Greedy"
+      "Array",
+      "Hash Table",
+      "Binary Indexed Tree",
+      "Segment Tree"
     ],
-    "link": "https://leetcode.com/problems/maximize-sum-of-squares-of-digits/",
+    "link": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "RAAF area commands",
-    "text": "Area commands were the major operational and administrative formations of the Royal Australian Air Force (RAAF) between 1940 and 1954. Established in response to the outbreak of World War II, they underpinned the Air Force's geographically based command-and-control system for the duration of the conflict and into the early years of the Cold War, until being superseded by a functional control system made up of Home, Training, and Maintenance Commands.",
-    "words": 70,
-    "url": "https://en.wikipedia.org/wiki/RAAF_area_commands",
-    "date": "2026-10-14",
+    "title": "Easy on Me",
+    "text": "\"Easy on Me\" is a song by the English singer Adele from her fourth studio album, 30 (2021). Adele wrote the song with its producer, Greg Kurstin. Columbia Records released it as the album's lead single on 15 October 2021. It is a torch song and ballad which places emphasis on Adele's vocals, set over progressively louder-growing piano instrumentation. In its lyrics, she addresses her divorce and pleads for forgiveness and understanding from her son, ex-husband, and herself.",
+    "words": 78,
+    "url": "https://en.wikipedia.org/wiki/Easy_on_Me",
+    "date": "2026-10-15",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "[Gould can 5483.6: Kinograms Newsreel]",
+    "title": "Home Movie: 10990: Prelinger Collection",
     "creator": "",
-    "year": "1927",
-    "url": "https://archive.org/download/Gould_can_5483_6_Kinograms_Newsreel/0206_Gould_can_5483_6_Kinograms_Newsreel_01_51_12_09_3mb.mp4",
-    "page": "https://archive.org/details/Gould_can_5483_6_Kinograms_Newsreel",
-    "date": "2026-10-14",
+    "year": "1963",
+    "url": "https://archive.org/download/HMPrelingerCollectio10990/10990.mp4",
+    "page": "https://archive.org/details/HMPrelingerCollectio10990",
+    "date": "2026-10-15",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
+    {
+      "title": "Ilir Lluka - Twelve Years of Nihilism",
+      "artist": "Ilir Lluka",
+      "url": "https://archive.org/download/IlirLluka_12yoN/01.%20One.mp3",
+      "page": "https://archive.org/details/IlirLluka_12yoN",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "The Sound Of Anything",
+      "artist": "JCM",
+      "url": "https://archive.org/download/JCM-TheSoundOfAnything/01ListlessTravel.mp3",
+      "page": "https://archive.org/details/JCM-TheSoundOfAnything",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
     {
       "title": "Boar & Intestinal Disgorge",
       "artist": "",
@@ -44,81 +60,67 @@
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
     },
     {
-      "title": "IDS05_Pobre_topo_resquemores_de_un_cafe",
-      "artist": "Ideadelsur",
-      "url": "https://archive.org/download/IDS05PTRESQUEMORES/1%20Sentir.mp3",
-      "page": "https://archive.org/details/IDS05PTRESQUEMORES",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "Of Gates EP [AS13]",
-      "artist": "Alan Morse Davies",
-      "url": "https://archive.org/download/OfGates/01.%20Of%20Gates.mp3",
-      "page": "https://archive.org/details/OfGates",
-      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-    },
-    {
-      "title": "Onslow - Five Simple Words",
-      "artist": "Onslow",
-      "url": "https://archive.org/download/Onslow-FiveSimpleWords/01%20-%20Line%20of%20Command.mp3",
-      "page": "https://archive.org/details/Onslow-FiveSimpleWords",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Pha-Q And Your Friends",
-      "artist": "Pha-Q Phonographs",
-      "url": "https://archive.org/download/PHAQVA01/01-_Kitten-Felcher_-Thank-You-For-Letting-Us-In-Your-House-While-We-Fuck-Your-Mother-And-Kill-Your-Friends-While-Youre-Tied-To-A-Chair-Crying-You-Spineless-Fuck.mp3.mp3",
-      "page": "https://archive.org/details/PHAQVA01",
-      "license": "http://creativecommons.org/licenses/publicdomain/"
-    },
-    {
-      "title": "Piko Piko Detroit - Piko@Lab v3.0 Compilation Album",
-      "artist": "",
-      "url": "https://archive.org/download/PPD-PR003/01_Baron_Knoxburry_-_bediddle_stump_thrusters.mp3",
-      "page": "https://archive.org/details/PPD-PR003",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "The Adjuster - Over His Heart (Mashtronic Remix) [USER13]",
-      "artist": "",
-      "url": "https://archive.org/download/BEVLARUSER13/BEVLARUSER13_01_The_Adjuster-OHH_Mashtronic_Remix_vbr.mp3",
-      "page": "https://archive.org/details/BEVLARUSER13",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
-    },
-    {
-      "title": "[ABC037] Noistruct Speed The Collapse",
-      "artist": "",
-      "url": "https://archive.org/download/Noistruct04Pigabella_20161003_1321/Noistruct%20-%2002%20-%20The%20revolution%20will%20not%20be%20emulated.mp3",
-      "page": "https://archive.org/details/Noistruct04Pigabella_20161003_1321",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "The Will To Go No Futher",
-      "artist": "Pha-Q Phonographs",
-      "url": "https://archive.org/download/PHAQVA03/01_-_Banned_in_31_-_Baby_on_fire.wav.mp3",
-      "page": "https://archive.org/details/PHAQVA03",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Tha Bloc Report hosted by Pot-C - Tha Bloc Report Episode 8: The RSD19 Special Edition Crate Dig Episode",
-      "artist": "Pot-C",
-      "url": "https://archive.org/download/BSBCTBR0008/01-ThaBlocReport-TheRSD19SpecialEditionCrateDigEpisode.mp3",
-      "page": "https://archive.org/details/BSBCTBR0008",
+      "title": "Indian Summer",
+      "artist": "George L Smyth",
+      "url": "https://archive.org/download/IndianSummer_201806/Indian%20Summer.mp3",
+      "page": "https://archive.org/details/IndianSummer_201806",
       "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
-      "title": "Nic Falcon - Playing Fair",
-      "artist": "Nic Falcon",
-      "url": "https://archive.org/download/BS450021/01-PlayingFair.mp3",
-      "page": "https://archive.org/details/BS450021",
+      "title": "INR 061 - Split Fight 007 - Nihilia / KHRYZALIIS / NecroNoise Twin / To-Bo",
+      "artist": "Industrial Noise Records",
+      "url": "https://archive.org/download/Inr061-SplitFight007-NihiliaKhryzaliisNecronoiseTwinTo-bo/01.Nihilia-LastTimeToLive.mp3",
+      "page": "https://archive.org/details/Inr061-SplitFight007-NihiliaKhryzaliisNecronoiseTwinTo-bo",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
+    },
+    {
+      "title": "Андрей Гаев - 17 мгновений Донбасса (Single) (2018)",
+      "artist": "Андрей Гаев",
+      "url": "https://archive.org/download/IBR_681/01.%2017%20%D0%BC%D0%B3%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81%D1%81%D0%B0.mp3",
+      "page": "https://archive.org/details/IBR_681",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Alliance",
+      "artist": "Ninjai",
+      "url": "https://archive.org/download/Ninjai_-_Alliance_-_MIX_-_LRU013/01_-_Ninjai_-_Alliance.mp3",
+      "page": "https://archive.org/details/Ninjai_-_Alliance_-_MIX_-_LRU013",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Apostles of Robespierre - I",
+      "artist": "Apostles of Robespierre",
+      "url": "https://archive.org/download/IHeartInternet/01__WELCOME_TO_INTERNET.mp3",
+      "page": "https://archive.org/details/IHeartInternet",
+      "license": "http://creativecommons.org/licenses/by-nc/2.5/"
+    },
+    {
+      "title": "N'Toko-Studio Sešn",
+      "artist": "N'Toko, Sonvol",
+      "url": "https://archive.org/download/Ntoko-studioSen/NToko-1989.mp3",
+      "page": "https://archive.org/details/Ntoko-studioSen",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "Salomè Lego Playset - Intolerance (SR064)",
+      "artist": "Salomè Lego Playset",
+      "url": "https://archive.org/download/Intolerance_201711/Intolerance.mp3",
+      "page": "https://archive.org/details/Intolerance_201711",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "10",
-      "artist": "Out Level",
-      "url": "https://archive.org/download/OutLevel10/elru_087_01_auditorio_cca_oliveira_do_hospital_10_07_2009.mp3",
-      "page": "https://archive.org/details/OutLevel10",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/pt/"
+      "title": "Endometrium Cuntplow & Intestinal Disgorge - Collaboration",
+      "artist": "",
+      "url": "https://archive.org/download/PFD020/01_-_ECID_-_Collab.mp3",
+      "page": "https://archive.org/details/PFD020",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
+    },
+    {
+      "title": "Noize Overdose - System Error #1990 [LEGS-NET 037]",
+      "artist": "Noize Overdose",
+      "url": "https://archive.org/download/NoizeOverdose-SystemError1990legs-net037/1.SystemError1990.mp3",
+      "page": "https://archive.org/details/NoizeOverdose-SystemError1990legs-net037",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     }
   ]
 }

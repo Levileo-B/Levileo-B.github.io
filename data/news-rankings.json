@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-14T23:57:21+00:00",
-  "updated": "2026-10-14T23:57:21+00:00",
+  "generated_at": "2026-10-15T04:44:50+00:00",
+  "updated": "2026-10-15T04:44:50+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-12T00:00:00+08:00",
-    "end": "2026-10-14T23:57:21+00:00",
-    "total": 472,
+    "end": "2026-10-15T04:44:50+00:00",
+    "total": 502,
     "items": [
       {
         "title": "Fancy Curl Sites",
@@ -418,9 +418,9 @@
           "observed_days": 2
         },
         {
-          "title": "[macOS] 写了一个 macOS 原生的 Conky",
-          "link": "https://www.v2ex.com/t/1248874",
-          "date": "2026-10-14T23:25:58+00:00",
+          "title": "[程序员] 现在有哪些模型可以 patch 二进制和破解商业软件?",
+          "link": "https://www.v2ex.com/t/1248994",
+          "date": "2026-10-15T04:42:08+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -432,9 +432,9 @@
           "observed_days": 1
         },
         {
-          "title": "[问与答] 今天发工资突然多了一些钱",
-          "link": "https://www.v2ex.com/t/1248873",
-          "date": "2026-10-14T23:22:45+00:00",
+          "title": "[分享发现] 投胎抽卡——人生模拟游戏「80 亿分之 1」现在有繁体中文了……",
+          "link": "https://www.v2ex.com/t/1248993",
+          "date": "2026-10-15T04:40:36+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -618,6 +618,48 @@
           "observed_days": 2
         },
         {
+          "title": "Ozempic and Wegovy linked to rare risk of sudden vision loss",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261014015521.htm",
+          "date": "2026-10-15T04:14:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "A 47-year study reveals the age when your body starts losing strength",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261014000912.htm",
+          "date": "2026-10-15T00:28:19+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "A forgotten fossil reveals a fearsome dinosaur with giant claws",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261014015457.htm",
+          "date": "2026-10-14T22:51:56+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Scientists reveal why some workout recovery tricks can backfire",
           "link": "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
           "date": "2026-10-14T12:04:20+00:00",
@@ -676,48 +718,6 @@
         {
           "title": "Biomedical engineering is growing rapidly, but will it help patients?",
           "link": "https://www.nature.com/articles/d41586-026-03202-z",
-          "date": "2026-10-14T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "China’s extraordinary rise in science and how it will change the world",
-          "link": "https://www.nature.com/articles/d41586-026-03222-9",
-          "date": "2026-10-14T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "China’s AI research is booming. Where is it headed?",
-          "link": "https://www.nature.com/articles/d41586-026-03223-8",
-          "date": "2026-10-14T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Growing plane and ship traffic degrade the air of western North America",
-          "link": "https://www.nature.com/articles/d41586-026-03239-0",
           "date": "2026-10-14T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
@@ -1034,8 +1034,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-14T23:57:21+00:00",
-    "total": 1835,
+    "end": "2026-10-15T04:44:50+00:00",
+    "total": 1865,
     "items": [
       {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
