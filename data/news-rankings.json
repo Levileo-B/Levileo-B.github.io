@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-15T19:11:54+00:00",
-  "updated": "2026-10-15T19:11:54+00:00",
+  "generated_at": "2026-10-15T22:23:01+00:00",
+  "updated": "2026-10-15T22:23:01+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-12T00:00:00+08:00",
-    "end": "2026-10-15T19:11:54+00:00",
-    "total": 604,
+    "end": "2026-10-15T22:23:01+00:00",
+    "total": 624,
     "items": [
       {
         "title": "An Israeli firm is sending zero-click spyware through online ads",
@@ -28,6 +28,21 @@
         "title": "Anthropic's Scion is heavily inspired by Mononoke",
         "link": "https://sunshowers.io/posts/anthropic-mononoke/",
         "date": "2026-10-14T20:30:54+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
+        "title": "What I Self-Host",
+        "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+        "date": "2026-10-14T15:32:48+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -145,20 +160,6 @@
         ],
         "source_count": 1,
         "observed_days": 4
-      },
-      {
-        "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
-        "link": "https://www.qbitai.com/2026/10/503294.html",
-        "date": "2026-10-14T10:41:47+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "AI"
-        ],
-        "sources": [
-          "量子位"
-        ],
-        "source_count": 1,
-        "observed_days": 3
       }
     ],
     "by_category": {
@@ -337,6 +338,21 @@
           "observed_days": 2
         },
         {
+          "title": "What I Self-Host",
+          "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+          "date": "2026-10-14T15:32:48+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Fancy Curl Sites",
           "link": "https://nytpu.com/gemlog/2026-03-18",
           "date": "2026-10-14T06:24:41+00:00",
@@ -425,20 +441,6 @@
           "title": "GitHub availability report: September 2026",
           "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
           "date": "2026-10-14T20:01:35+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "GitHub Blog"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
-          "link": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
-          "date": "2026-10-14T19:11:33+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1008,7 +1010,7 @@
           "observed_days": 2
         },
         {
-          "title": "Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries",
+          "title": "Nvidia, AMD, Dell sink in global tech rout on AI funding worries",
           "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
           "date": "2026-10-15T01:07:01+00:00",
           "date_is_observed": false,
@@ -1040,8 +1042,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-15T19:11:54+00:00",
-    "total": 1967,
+    "end": "2026-10-15T22:23:01+00:00",
+    "total": 1987,
     "items": [
       {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
@@ -1123,6 +1125,21 @@
         "observed_days": 2
       },
       {
+        "title": "What I Self-Host",
+        "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+        "date": "2026-10-14T15:32:48+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
         "title": "Fancy Curl Sites",
         "link": "https://nytpu.com/gemlog/2026-03-18",
         "date": "2026-10-14T06:24:41+00:00",
@@ -1180,22 +1197,6 @@
         "sources": [
           "Hacker News",
           "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "AI coding agents generate more code, but not more software",
-        "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-        "date": "2026-10-09T19:43:50+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发",
-          "科技"
-        ],
-        "sources": [
-          "Ars Technica",
-          "Hacker News"
         ],
         "source_count": 2,
         "observed_days": 2
@@ -1377,6 +1378,21 @@
           "observed_days": 2
         },
         {
+          "title": "What I Self-Host",
+          "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+          "date": "2026-10-14T15:32:48+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Fancy Curl Sites",
           "link": "https://nytpu.com/gemlog/2026-03-18",
           "date": "2026-10-14T06:24:41+00:00",
@@ -1472,21 +1488,6 @@
           "title": "Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs",
           "link": "https://arxiv.org/abs/2610.08144",
           "date": "2026-10-07T15:24:38+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "We’re going to need default hard budget caps on pretty much everything",
-          "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-          "date": "2026-10-04T00:20:16+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
