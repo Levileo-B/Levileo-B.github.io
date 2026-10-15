@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-15T09:58:56+00:00",
-  "updated": "2026-10-15T09:58:56+00:00",
+  "generated_at": "2026-10-15T15:04:44+00:00",
+  "updated": "2026-10-15T15:04:44+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-12T00:00:00+08:00",
-    "end": "2026-10-15T09:58:56+00:00",
-    "total": 527,
+    "end": "2026-10-15T15:04:44+00:00",
+    "total": 568,
     "items": [
       {
         "title": "Fancy Curl Sites",
@@ -418,23 +418,23 @@
           "observed_days": 2
         },
         {
-          "title": "SLM 生成式高并发推理引擎：延迟约束下的有效吞吐优化",
-          "link": "https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html",
-          "date": "2026-10-15T09:58:56+00:00",
-          "date_is_observed": true,
+          "title": "[分享创造] 一个基于 Rust 的 Windows 远程桌面 RDP 连接管理小工具，用于管理 Windows 远程桌面 RDP 连接（仅 Windows 版）",
+          "link": "https://www.v2ex.com/t/1249173",
+          "date": "2026-10-15T14:59:47+00:00",
+          "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "美团技术团队"
+            "V2EX"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "[分享创造] 钱散在几个 App 里，你们怎么算总资产？",
-          "link": "https://www.v2ex.com/t/1249111",
-          "date": "2026-10-15T09:54:22+00:00",
+          "title": "[程序员] 想问一下使用最近热门的 rea 项目，会导致 chatgpt 封号吗",
+          "link": "https://www.v2ex.com/t/1249172",
+          "date": "2026-10-15T14:52:29+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -618,6 +618,62 @@
           "observed_days": 2
         },
         {
+          "title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
+          "date": "2026-10-15T12:52:05+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Arctic sea ice hits another troubling low in 2026",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261015073212.htm",
+          "date": "2026-10-15T12:40:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Eating late at night linked to up to 30% higher risk of liver disease",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261014015503.htm",
+          "date": "2026-10-15T12:26:16+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "A fungus is threatening the world’s food supply. Scientists just found a new defense",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261014015501.htm",
+          "date": "2026-10-15T11:45:43+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Ozempic and Wegovy linked to rare risk of sudden vision loss",
           "link": "https://www.sciencedaily.com/releases/2026/10/261014015521.htm",
           "date": "2026-10-15T04:14:55+00:00",
@@ -646,8 +702,8 @@
           "observed_days": 1
         },
         {
-          "title": "ArXiv versus AI slop: will capping preprint submissions work?",
-          "link": "https://www.nature.com/articles/d41586-026-03194-w",
+          "title": "Give me the good news: four science stories to brighten your day",
+          "link": "https://www.nature.com/articles/d41586-026-03152-6",
           "date": "2026-10-15T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
@@ -660,71 +716,15 @@
           "observed_days": 1
         },
         {
-          "title": "A forgotten fossil reveals a fearsome dinosaur with giant claws",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261014015457.htm",
-          "date": "2026-10-14T22:51:56+00:00",
+          "title": "ArXiv versus AI slop: will capping preprint submissions work?",
+          "link": "https://www.nature.com/articles/d41586-026-03194-w",
+          "date": "2026-10-15T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
           ],
           "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Scientists reveal why some workout recovery tricks can backfire",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
-          "date": "2026-10-14T12:04:20+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "The secret to easier exercise as an adult may start in childhood",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261013015811.htm",
-          "date": "2026-10-14T11:36:23+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Scientists may have overlooked a hidden Alzheimer's culprit for decades",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm",
-          "date": "2026-10-14T11:06:19+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "AI reveals a hidden chemical shortcut that could turn CO2 into fuel",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261013015758.htm",
-          "date": "2026-10-14T00:01:11+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
+            "Nature"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -1034,8 +1034,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-15T09:58:56+00:00",
-    "total": 1890,
+    "end": "2026-10-15T15:04:44+00:00",
+    "total": 1931,
     "items": [
       {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
