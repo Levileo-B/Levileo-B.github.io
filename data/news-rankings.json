@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-16T17:27:25+00:00",
-  "updated": "2026-10-16T17:27:25+00:00",
+  "generated_at": "2026-10-16T21:14:01+00:00",
+  "updated": "2026-10-16T21:14:01+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-12T00:00:00+08:00",
-    "end": "2026-10-16T17:27:25+00:00",
-    "total": 758,
+    "end": "2026-10-16T21:14:01+00:00",
+    "total": 783,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
@@ -1050,8 +1050,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-16T17:27:25+00:00",
-    "total": 2121,
+    "end": "2026-10-16T21:14:01+00:00",
+    "total": 2145,
     "items": [
       {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
@@ -1213,6 +1213,20 @@
     "by_category": {
       "AI": [
         {
+          "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+          "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+          "date": "2026-10-09T00:08:24+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 5
+        },
+        {
           "title": "The Download: AI “mind-reading” and creative uses for small batteries",
           "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
           "date": "2026-10-01T12:10:00+00:00",
@@ -1244,20 +1258,6 @@
           "title": "We’re putting too much faith in AI’s ability to say no",
           "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
           "date": "2026-10-09T09:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 4
-        },
-        {
-          "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-          "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-          "date": "2026-10-09T00:08:24+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
