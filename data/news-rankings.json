@@ -1,13 +1,44 @@
 {
-  "generated_at": "2026-10-16T12:30:22+00:00",
-  "updated": "2026-10-16T12:30:22+00:00",
+  "generated_at": "2026-10-16T17:27:25+00:00",
+  "updated": "2026-10-16T17:27:25+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-12T00:00:00+08:00",
-    "end": "2026-10-16T12:30:22+00:00",
-    "total": 712,
+    "end": "2026-10-16T17:27:25+00:00",
+    "total": 758,
     "items": [
+      {
+        "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+        "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no",
+        "date": "2026-10-16T05:00:17+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
+        "title": "JPEG XL vs AVIF for web use-cases",
+        "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+        "date": "2026-10-15T14:42:45+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
       {
         "title": "An Israeli firm is sending zero-click spyware through online ads",
         "link": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
@@ -86,22 +117,6 @@
         "observed_days": 2
       },
       {
-        "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-        "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no",
-        "date": "2026-10-16T05:00:17+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
         "title": "US inflation rises more than expected - here's what is happening with prices",
         "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o",
         "date": "2026-10-14T15:26:14+00:00",
@@ -148,20 +163,6 @@
         ],
         "source_count": 2,
         "observed_days": 1
-      },
-      {
-        "title": "GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析",
-        "link": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
-        "date": "2026-10-11T20:20:34+00:00",
-        "date_is_observed": true,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "美团技术团队"
-        ],
-        "source_count": 1,
-        "observed_days": 5
       }
     ],
     "by_category": {
@@ -223,6 +224,76 @@
           "observed_days": 3
         },
         {
+          "title": "The Download: failed social media bans, and extending pets’ lives",
+          "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+          "date": "2026-10-16T12:10:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "This implant can restore sight for patients with macular degeneration",
+          "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+          "date": "2026-10-16T09:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Love is infrastructure",
+          "link": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+          "date": "2026-10-16T09:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
+          "link": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
+          "date": "2026-10-16T09:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
+          "link": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
+          "date": "2026-10-16T07:56:32+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
           "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
           "link": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
           "date": "2026-10-15T12:10:00+00:00",
@@ -235,79 +306,24 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "How much more can nuclear power plants give?",
-          "link": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
-          "date": "2026-10-15T10:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Six wild ideas for perpetuating your mind",
-          "link": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
-          "date": "2026-10-15T09:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
-          "link": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
-          "date": "2026-10-15T08:43:24+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
-          "link": "https://www.qbitai.com/2026/10/503303.html",
-          "date": "2026-10-15T01:56:20+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "The Download: faking blood and the future of batteries",
-          "link": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
-          "date": "2026-10-14T12:10:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "开发": [
+        {
+          "title": "JPEG XL vs AVIF for web use-cases",
+          "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+          "date": "2026-10-15T14:42:45+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
         {
           "title": "An Israeli firm is sending zero-click spyware through online ads",
           "link": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
@@ -381,7 +397,21 @@
             "美团技术团队"
           ],
           "source_count": 1,
-          "observed_days": 5
+          "observed_days": 6
+        },
+        {
+          "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+          "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+          "date": "2026-10-13T17:56:33+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "GitHub Blog"
+          ],
+          "source_count": 1,
+          "observed_days": 4
         },
         {
           "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
@@ -398,20 +428,6 @@
           "observed_days": 4
         },
         {
-          "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
-          "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
-          "date": "2026-10-13T17:56:33+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "GitHub Blog"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
           "title": "SLM 生成式高并发推理引擎：延迟约束下的有效吞吐优化",
           "link": "https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html",
           "date": "2026-10-15T09:58:56+00:00",
@@ -423,21 +439,7 @@
             "美团技术团队"
           ],
           "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Haxy on Haxy",
-          "link": "https://try.haxy.net/haxy:haxy",
-          "date": "2026-10-15T07:58:35+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
           "title": "GitHub availability report: September 2026",
@@ -451,7 +453,7 @@
             "GitHub Blog"
           ],
           "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         }
       ],
       "科技": [
@@ -472,9 +474,9 @@
           "observed_days": 2
         },
         {
-          "title": "给现实世界按下复制键，禾赛做了一台「AI 空间相机」",
-          "link": "https://www.ifanr.com/1684538",
-          "date": "2026-10-15T14:20:44+00:00",
+          "title": "英伟达RTX Spark笔记本首发实测，我实现了WorkBuddy额度自由",
+          "link": "https://www.ifanr.com/1684682",
+          "date": "2026-10-16T12:08:15+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -486,9 +488,9 @@
           "observed_days": 2
         },
         {
-          "title": "技术没有捷径：十年 1.3 万亿研发投入，华为选择走自己的路",
-          "link": "https://www.ifanr.com/1684477",
-          "date": "2026-10-15T12:00:10+00:00",
+          "title": "8 年 10 亿美金，为什么《GTA VI》是今年最值得期待的游戏？",
+          "link": "https://www.ifanr.com/1684660",
+          "date": "2026-10-16T11:10:58+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -500,23 +502,9 @@
           "observed_days": 2
         },
         {
-          "title": "Surface Laptop Ultra 首发体验：是最强 Windows 笔记本，也是 AI 时代的全能本",
-          "link": "https://www.ifanr.com/1684442",
-          "date": "2026-10-15T12:00:02+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Google 悄悄关联手机号码和所有用户登录账号",
-          "link": "https://www.solidot.org/story?sid=85621",
-          "date": "2026-10-15T09:45:14+00:00",
+          "title": "人与猫的催产素水平正相关",
+          "link": "https://www.solidot.org/story?sid=85633",
+          "date": "2026-10-16T10:27:47+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -528,9 +516,9 @@
           "observed_days": 2
         },
         {
-          "title": "新玩意 253｜少数派的编辑们最近买了啥？",
-          "link": "https://sspai.com/post/116246",
-          "date": "2026-10-15T09:10:14+00:00",
+          "title": "本周看什么 | 最近值得一看的 13 部作品",
+          "link": "https://sspai.com/post/116423",
+          "date": "2026-10-16T10:21:07+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -542,9 +530,23 @@
           "observed_days": 2
         },
         {
-          "title": "独家｜库克确认苹果国行 AI，10 月底上线测试版！",
-          "link": "https://www.ifanr.com/1684431",
-          "date": "2026-10-15T09:09:38+00:00",
+          "title": "人真能活到 200 岁吗？",
+          "link": "https://www.solidot.org/story?sid=85632",
+          "date": "2026-10-16T09:16:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Solidot"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "苹果为「家」开场，果然家庭 AI 还是绕不开「语音+屏幕」",
+          "link": "https://www.ifanr.com/1684640",
+          "date": "2026-10-16T09:00:24+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -556,37 +558,37 @@
           "observed_days": 2
         },
         {
-          "title": "顺应变化，重申标准：《少数派创作手册》修订说明",
-          "link": "https://sspai.com/post/116181",
-          "date": "2026-10-15T08:09:12+00:00",
+          "title": "微软声称 Windows 11 显著改进了 8GB 内存下的性能",
+          "link": "https://www.solidot.org/story?sid=85631",
+          "date": "2026-10-16T08:59:29+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "少数派"
+            "Solidot"
           ],
           "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "学得会的快捷指令，零基础入门苹果效率魔法",
-          "link": "https://sspai.com/post/116182",
-          "date": "2026-10-15T06:30:00+00:00",
+          "title": "三季度中国手机出货量下跌 15.4%",
+          "link": "https://www.solidot.org/story?sid=85630",
+          "date": "2026-10-16T08:26:03+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "少数派"
+            "Solidot"
           ],
           "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "App+1｜Mangata：把每次散步当作一次探索旅行",
-          "link": "https://sspai.com/post/115238",
-          "date": "2026-10-15T03:00:00+00:00",
+          "title": "「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式",
+          "link": "https://sspai.com/post/114836",
+          "date": "2026-10-16T06:24:47+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -600,9 +602,9 @@
       ],
       "科研": [
         {
-          "title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
-          "date": "2026-10-15T12:52:05+00:00",
+          "title": "Arctic sea ice hits another troubling low in 2026",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261015073212.htm",
+          "date": "2026-10-15T12:40:44+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -611,12 +613,40 @@
             "ScienceDaily"
           ],
           "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "The pianist who never played",
+          "link": "https://www.nature.com/articles/d41586-026-03112-0",
+          "date": "2026-10-16T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "Arctic sea ice hits another troubling low in 2026",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261015073212.htm",
-          "date": "2026-10-15T12:40:44+00:00",
+          "title": "Unprecedented atlas explores mitochondria across the tree of life",
+          "link": "https://www.nature.com/articles/d41586-026-03195-9",
+          "date": "2026-10-16T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
+          "date": "2026-10-15T12:52:05+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -710,37 +740,25 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "New knee arthritis treatment delivers lasting pain relief without surgery",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261013234801.htm",
-          "date": "2026-10-14T04:39:11+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "The pianist who never played",
-          "link": "https://www.nature.com/articles/d41586-026-03112-0",
-          "date": "2026-10-16T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "综合": [
+        {
+          "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+          "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no",
+          "date": "2026-10-16T05:00:17+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
         {
           "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
           "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo",
@@ -756,22 +774,6 @@
           ],
           "source_count": 2,
           "observed_days": 2
-        },
-        {
-          "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-          "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no",
-          "date": "2026-10-16T05:00:17+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
         },
         {
           "title": "US inflation rises more than expected - here's what is happening with prices",
@@ -822,51 +824,9 @@
           "observed_days": 1
         },
         {
-          "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-          "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo",
-          "date": "2026-10-15T14:52:18+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-          "link": "https://www.bbc.co.uk/news/articles/cked326llddgo",
-          "date": "2026-10-15T12:28:26+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-          "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o",
-          "date": "2026-10-15T12:03:51+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "中朝新鴨綠江大橋通車：北京、平壤與莫斯科的新格局",
-          "link": "https://www.bbc.com/zhongwen/articles/cqn065gxdk4lo/trad",
-          "date": "2026-10-15T11:39:24+00:00",
+          "title": "石油出口放緩之際 霍爾木茲海峽輪船遇襲案件創新高",
+          "link": "https://www.bbc.com/zhongwen/articles/cqx2vky9ky0no/trad",
+          "date": "2026-10-16T11:44:49+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -878,9 +838,51 @@
           "observed_days": 2
         },
         {
-          "title": "減肥針「微劑量」用藥漸成風潮：注射少量真的安全嗎？",
-          "link": "https://www.bbc.com/zhongwen/articles/ckp8gd38100ro/trad",
-          "date": "2026-10-15T06:09:59+00:00",
+          "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+          "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro",
+          "date": "2026-10-16T10:37:47+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "「我今年12歲，該嘗試蛋白粉嗎？」",
+          "link": "https://www.bbc.com/zhongwen/articles/cqkgl3re7mnpo/trad",
+          "date": "2026-10-16T09:28:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "哈里與梅根返英後首次亮相，為何如此像一場正式王室活動？",
+          "link": "https://www.bbc.com/zhongwen/articles/ck5yn7plnlllo/trad",
+          "date": "2026-10-16T08:14:28+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "「日子難熬」：美國人苦苦應對不斷上漲的通貨膨脹",
+          "link": "https://www.bbc.com/zhongwen/articles/c6vgj9r0k18eo/trad",
+          "date": "2026-10-16T00:27:29+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -893,6 +895,22 @@
         }
       ],
       "财经": [
+        {
+          "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+          "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no",
+          "date": "2026-10-16T05:00:17+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
         {
           "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
           "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo",
@@ -908,22 +926,6 @@
           ],
           "source_count": 2,
           "observed_days": 2
-        },
-        {
-          "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-          "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no",
-          "date": "2026-10-16T05:00:17+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
         },
         {
           "title": "US inflation rises more than expected - here's what is happening with prices",
@@ -985,6 +987,34 @@
             "BBC Business"
           ],
           "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "I find it quite demoralising in store - why I do all my shopping online",
+          "link": "https://www.bbc.co.uk/news/articles/c36lk280kd1o",
+          "date": "2026-10-15T23:16:12+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Banks expect to be hit with higher taxes in Budget",
+          "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo",
+          "date": "2026-10-15T17:14:36+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
           "observed_days": 2
         },
         {
@@ -1014,42 +1044,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
-          "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo",
-          "date": "2026-10-15T04:19:17+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Nvidia, AMD, Dell sink in global tech rout on AI funding worries",
-          "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-          "date": "2026-10-15T01:07:01+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-16T12:30:22+00:00",
-    "total": 2075,
+    "end": "2026-10-16T17:27:25+00:00",
+    "total": 2121,
     "items": [
       {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
@@ -1098,6 +1100,37 @@
         ],
         "source_count": 2,
         "observed_days": 3
+      },
+      {
+        "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+        "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no",
+        "date": "2026-10-16T05:00:17+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
+        "title": "JPEG XL vs AVIF for web use-cases",
+        "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+        "date": "2026-10-15T14:42:45+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
       },
       {
         "title": "An Israeli firm is sending zero-click spyware through online ads",
@@ -1172,37 +1205,6 @@
         "sources": [
           "BBC Business",
           "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-        "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo",
-        "date": "2026-10-11T14:38:10+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-        "link": "https://verdagon.dev/blog/valen-group-borrowing",
-        "date": "2026-10-11T12:06:22+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
         ],
         "source_count": 2,
         "observed_days": 2
@@ -1353,6 +1355,21 @@
       ],
       "开发": [
         {
+          "title": "JPEG XL vs AVIF for web use-cases",
+          "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+          "date": "2026-10-15T14:42:45+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "An Israeli firm is sending zero-click spyware through online ads",
           "link": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
           "date": "2026-10-15T14:11:41+00:00",
@@ -1479,21 +1496,6 @@
           "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
           "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
           "date": "2026-10-07T21:16:18+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs",
-          "link": "https://arxiv.org/abs/2610.08144",
-          "date": "2026-10-07T15:24:38+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1690,6 +1692,20 @@
           "observed_days": 4
         },
         {
+          "title": "Arctic sea ice hits another troubling low in 2026",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261015073212.htm",
+          "date": "2026-10-15T12:40:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
           "title": "A surprisingly simple way to relieve knee arthritis pain without pills or surgery",
           "link": "https://www.sciencedaily.com/releases/2026/10/261009025434.htm",
           "date": "2026-10-11T00:00:24+00:00",
@@ -1786,20 +1802,6 @@
           ],
           "source_count": 1,
           "observed_days": 3
-        },
-        {
-          "title": "The life of Darwin and the science of clouds: Books in brief",
-          "link": "https://www.nature.com/articles/d41586-026-03217-6",
-          "date": "2026-10-09T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 3
         }
       ],
       "综合": [
@@ -1850,6 +1852,22 @@
           ],
           "source_count": 2,
           "observed_days": 3
+        },
+        {
+          "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+          "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no",
+          "date": "2026-10-16T05:00:17+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
         },
         {
           "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
@@ -1914,22 +1932,6 @@
           ],
           "source_count": 2,
           "observed_days": 2
-        },
-        {
-          "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-          "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no",
-          "date": "2026-10-16T05:00:17+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
         },
         {
           "title": "US inflation rises more than expected - here's what is happening with prices",
@@ -2014,6 +2016,22 @@
           "observed_days": 3
         },
         {
+          "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+          "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no",
+          "date": "2026-10-16T05:00:17+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
           "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo",
           "date": "2026-10-12T05:00:52+00:00",
@@ -2076,22 +2094,6 @@
           ],
           "source_count": 2,
           "observed_days": 2
-        },
-        {
-          "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-          "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no",
-          "date": "2026-10-16T05:00:17+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
         },
         {
           "title": "US inflation rises more than expected - here's what is happening with prices",
