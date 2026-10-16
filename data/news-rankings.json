@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-16T07:14:10+00:00",
-  "updated": "2026-10-16T07:14:10+00:00",
+  "generated_at": "2026-10-16T12:30:22+00:00",
+  "updated": "2026-10-16T12:30:22+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-12T00:00:00+08:00",
-    "end": "2026-10-16T07:14:10+00:00",
-    "total": 675,
+    "end": "2026-10-16T12:30:22+00:00",
+    "total": 712,
     "items": [
       {
         "title": "An Israeli firm is sending zero-click spyware through online ads",
@@ -86,6 +86,22 @@
         "observed_days": 2
       },
       {
+        "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+        "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no",
+        "date": "2026-10-16T05:00:17+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
         "title": "US inflation rises more than expected - here's what is happening with prices",
         "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o",
         "date": "2026-10-14T15:26:14+00:00",
@@ -146,20 +162,6 @@
         ],
         "source_count": 1,
         "observed_days": 5
-      },
-      {
-        "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-        "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
-        "date": "2026-10-12T17:43:59+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "GitHub Blog"
-        ],
-        "source_count": 1,
-        "observed_days": 4
       }
     ],
     "by_category": {
@@ -724,15 +726,15 @@
           "observed_days": 2
         },
         {
-          "title": "A 47-year study reveals the age when your body starts losing strength",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261014000912.htm",
-          "date": "2026-10-15T00:28:19+00:00",
+          "title": "The pianist who never played",
+          "link": "https://www.nature.com/articles/d41586-026-03112-0",
+          "date": "2026-10-16T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
           ],
           "sources": [
-            "ScienceDaily"
+            "Nature"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -754,6 +756,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+          "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no",
+          "date": "2026-10-16T05:00:17+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "US inflation rises more than expected - here's what is happening with prices",
@@ -872,20 +890,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "中國和印度不算老友，尼泊爾想團結他們應對氣候威脅",
-          "link": "https://www.bbc.com/zhongwen/articles/c674pq1e0dxqo/trad",
-          "date": "2026-10-15T05:50:29+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
@@ -904,6 +908,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+          "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no",
+          "date": "2026-10-16T05:00:17+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "US inflation rises more than expected - here's what is happening with prices",
@@ -1022,28 +1042,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "How backlash against data centres could shape the US midterm elections",
-          "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro",
-          "date": "2026-10-14T23:02:57+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-16T07:14:10+00:00",
-    "total": 2038,
+    "end": "2026-10-16T12:30:22+00:00",
+    "total": 2075,
     "items": [
       {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
@@ -1910,6 +1916,22 @@
           "observed_days": 2
         },
         {
+          "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+          "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no",
+          "date": "2026-10-16T05:00:17+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "US inflation rises more than expected - here's what is happening with prices",
           "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o",
           "date": "2026-10-14T15:26:14+00:00",
@@ -1929,22 +1951,6 @@
           "title": "Saudi employee charged with planting recording device in OpenAI office",
           "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo",
           "date": "2026-10-13T21:42:49+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Trump faces growing backlash over plans to import diesel from Russia",
-          "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo",
-          "date": "2026-10-11T23:18:45+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -2072,6 +2078,22 @@
           "observed_days": 2
         },
         {
+          "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+          "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no",
+          "date": "2026-10-16T05:00:17+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "US inflation rises more than expected - here's what is happening with prices",
           "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o",
           "date": "2026-10-14T15:26:14+00:00",
@@ -2091,22 +2113,6 @@
           "title": "Saudi employee charged with planting recording device in OpenAI office",
           "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo",
           "date": "2026-10-13T21:42:49+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Trump faces growing backlash over plans to import diesel from Russia",
-          "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo",
-          "date": "2026-10-11T23:18:45+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
