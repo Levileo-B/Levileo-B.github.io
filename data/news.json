@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T19:27:58+00:00",
+  "updated": "2026-10-17T22:22:48+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,29 +39,29 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+          "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-17T20:52:17+00:00"
+        },
+        {
           "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
           "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-17T19:19:19+00:00"
         },
         {
-          "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
-          "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-17T09:58:17+00:00"
+          "title": "European diplomats attacked by Israeli settlers in West Bank",
+          "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-17T18:38:57+00:00"
         },
         {
-          "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-          "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-17T03:11:10+00:00"
+          "title": "Anti-government protesters battle with police in Albania",
+          "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-17T20:53:00+00:00"
         },
         {
-          "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-          "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-17T02:33:09+00:00"
-        },
-        {
-          "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
-          "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-17T12:11:58+00:00"
+          "title": "At least 17 dead in crush at Hindu festival event in India",
+          "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-17T19:19:16+00:00"
         }
       ]
     },
@@ -105,7 +105,7 @@
         {
           "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
           "link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
-          "date": "2026-10-17T19:26:12+00:00"
+          "date": "2026-10-17T19:35:18+00:00"
         },
         {
           "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
@@ -231,6 +231,11 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "TikTok bans Musk documentary account",
+          "link": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+          "date": "2026-10-17T19:32:23+00:00"
+        },
+        {
           "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
           "link": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
           "date": "2026-10-16T19:20:13+00:00"
@@ -249,11 +254,6 @@
           "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
           "link": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
           "date": "2026-10-16T19:35:20+00:00"
-        },
-        {
-          "title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
-          "link": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
-          "date": "2026-10-17T12:44:24+00:00"
         }
       ]
     },
@@ -295,14 +295,19 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
+          "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
+          "date": "2026-10-17T20:07:33+00:00"
+        },
+        {
+          "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
+          "link": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+          "date": "2026-10-17T18:45:07+00:00"
+        },
+        {
           "title": "Pattern Matching Beats Narrative Reasoning",
           "link": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
           "date": "2026-10-17T18:34:13+00:00"
-        },
-        {
-          "title": "AI Can Write the Code. Who Verifies It?",
-          "link": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
-          "date": "2026-10-17T18:31:30+00:00"
         },
         {
           "title": "OpenCode Hacked: User credentials leaked",
@@ -310,14 +315,9 @@
           "date": "2026-10-17T18:01:41+00:00"
         },
         {
-          "title": "Development statistics for the 7.2 kernel",
-          "link": "https://lwn.net/Articles/1088776/",
-          "date": "2026-10-17T17:14:12+00:00"
-        },
-        {
-          "title": "tsc-ts: TypeScript written in TypeScript",
-          "link": "https://github.com/vercel-labs/tsc-ts",
-          "date": "2026-10-17T17:10:27+00:00"
+          "title": "Codex is EATING my Mac's disk space",
+          "link": "https://github.com/openai/codex/issues/25921",
+          "date": "2026-10-17T17:45:08+00:00"
         }
       ]
     },
@@ -359,8 +359,18 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
+          "title": "[分享创造] 做了个 Roadster 网页游戏合集，已经整理了 21 款",
+          "link": "https://www.v2ex.com/t/1249688#reply0",
+          "date": "2026-10-17T19:48:34+00:00"
+        },
+        {
+          "title": "[OpenAI] 又重置了。",
+          "link": "https://www.v2ex.com/t/1249687#reply0",
+          "date": "2026-10-17T19:43:06+00:00"
+        },
+        {
           "title": "[问与答] 求助：母亲被 6 人围殴打伤， 18 年后还能做什么？",
-          "link": "https://www.v2ex.com/t/1249686#reply0",
+          "link": "https://www.v2ex.com/t/1249686#reply3",
           "date": "2026-10-17T19:02:46+00:00"
         },
         {
@@ -372,16 +382,6 @@
           "title": "[OpenAI] tibo 发推了，还有额度的赶紧用，重置卡先留着",
           "link": "https://www.v2ex.com/t/1249683#reply1",
           "date": "2026-10-17T17:58:59+00:00"
-        },
-        {
-          "title": "[问与答] 为什么还有人宣场读书无用论？",
-          "link": "https://www.v2ex.com/t/1249681#reply6",
-          "date": "2026-10-17T17:44:41+00:00"
-        },
-        {
-          "title": "[分享发现] 马斯克肯定没想到火的是 flying car ai 视频",
-          "link": "https://www.v2ex.com/t/1249680#reply0",
-          "date": "2026-10-17T17:20:25+00:00"
         }
       ]
     },
@@ -468,6 +468,38 @@
           "title": "科技爱好者周刊（第 413 期）：再见了，React Native",
           "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
           "date": "2026-09-18T00:03:02+00:00"
+        }
+      ]
+    },
+    {
+      "name": "酷壳",
+      "category": "开发",
+      "url": "https://coolshell.cn/feed",
+      "items": [
+        {
+          "title": "是微服务架构不香还是云不香？",
+          "link": "https://coolshell.cn/articles/22422.html",
+          "date": "2023-05-08T09:52:06+00:00"
+        },
+        {
+          "title": "我看ChatGPT: 为啥谷歌掉了千亿美金",
+          "link": "https://coolshell.cn/articles/22398.html",
+          "date": "2023-02-11T16:31:16+00:00"
+        },
+        {
+          "title": "聊聊 nostr 和 审查",
+          "link": "https://coolshell.cn/articles/22367.html",
+          "date": "2023-02-03T07:46:13+00:00"
+        },
+        {
+          "title": "感染新冠的经历",
+          "link": "https://coolshell.cn/articles/22341.html",
+          "date": "2022-12-13T07:39:39+00:00"
+        },
+        {
+          "title": "eBPF 介绍",
+          "link": "https://coolshell.cn/articles/22320.html",
+          "date": "2022-12-10T02:38:51+00:00"
         }
       ]
     },
@@ -633,7 +665,6 @@
     }
   ],
   "failed": [
-    "36 氪",
-    "酷壳"
+    "36 氪"
   ]
 }
