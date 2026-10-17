@@ -1,126 +1,125 @@
 {
-  "updated": "2026-10-16T23:39:22+00:00",
+  "updated": "2026-10-17T04:32:36+00:00",
   "leetcode": {
-    "date": "2026-10-16",
-    "id": "2916",
-    "title": "Subarrays Distinct Element Sum of Squares II",
-    "titleEn": "Subarrays Distinct Element Sum of Squares II",
-    "slug": "subarrays-distinct-element-sum-of-squares-ii",
-    "difficulty": "Hard",
+    "date": "2026-10-17",
+    "id": "3551",
+    "title": "Minimum Swaps to Sort by Digit Sum",
+    "titleEn": "Minimum Swaps to Sort by Digit Sum",
+    "slug": "minimum-swaps-to-sort-by-digit-sum",
+    "difficulty": "Medium",
     "tags": [
       "Array",
       "Hash Table",
-      "Binary Indexed Tree",
-      "Segment Tree"
+      "Sorting"
     ],
-    "link": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/",
+    "link": "https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "The Hunger (collection)",
-    "text": "The Hunger is the seventh collection by British designer Alexander McQueen, released for the Spring/Summer 1996 season of his eponymous fashion house. The collection was primarily inspired by The Hunger, a 1983 erotic horror film about vampires. McQueen had limited financial backing, so the collection was created on a minimal budget. Typically for McQueen in the early stages of his career, the collection centred around sharply tailored garments and emphasised female sexuality. It was his first collection to include menswear.",
-    "words": 80,
-    "url": "https://en.wikipedia.org/wiki/The_Hunger_(collection)",
-    "date": "2026-10-16",
+    "title": "French battleship Brennus",
+    "text": "Brennus was the first pre-dreadnought battleship built for the Marine Nationale. Completed in 1896, she was the sole member of her class, with a main battery of heavy guns mounted on the centerline and the first use of Belleville boilers. She formed the basis for several subsequent designs, beginning with Charles Martel. As completed in 1893, the ship was very top-heavy and had to be rebuilt over the next three years before she was ready to enter service.",
+    "words": 78,
+    "url": "https://en.wikipedia.org/wiki/French_battleship_Brennus",
+    "date": "2026-10-17",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Home movie: 000573-3: 1957 Ontario trip",
+    "title": "Home Movie: 97328: Christmas",
     "creator": "",
     "year": "",
-    "url": "https://archive.org/download/000573-3/000573-3.m4v",
-    "page": "https://archive.org/details/000573-3",
-    "date": "2026-10-16",
+    "url": "https://archive.org/download/HMChristmas97328/97328.mp4",
+    "page": "https://archive.org/details/HMChristmas97328",
+    "date": "2026-10-17",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "dUAS sEMIcOLCHEIAS iNVERTIDAS - 4 [enrmp314]",
-      "artist": "dUAS sEMIcOLCHEIAS iNVERTIDAS",
-      "url": "https://archive.org/download/enrmp314_duas_semi_colcheias_invertidas_-_4/01_duas_semi_colcheias_invertidas_-_33_anos_sem_dormir.mp3",
-      "page": "https://archive.org/details/enrmp314_duas_semi_colcheias_invertidas_-_4",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "[Eg0_149] Ars Sonor : Sjöarna",
-      "artist": "Ars Sonor",
-      "url": "https://archive.org/download/eg0_149/01%20-%20Himmerfj%C3%A4rden.mp3",
-      "page": "https://archive.org/details/eg0_149",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "[ENDE567] Boris Otterdam - Hey It's Gettin Cloudy Mixtape",
-      "artist": "",
-      "url": "https://archive.org/download/ende567-boris-hey-its-gettin-cloudy/01%20-%20%20Boris%20Otterdam%20-%20hey%20it%27s%20gettin%20cloudy%20mixtape.mp3",
-      "page": "https://archive.org/details/ende567-boris-hey-its-gettin-cloudy",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Federico Monti - Consola EP [Fukk God 027]",
-      "artist": "",
-      "url": "https://archive.org/download/fukkgod027/fukkgod027_-_federico_monti_-_01_-_consola.mp3",
-      "page": "https://archive.org/details/fukkgod027",
-      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
-    },
-    {
-      "title": "Roger Rabbit's Revenge ( Remastered)",
-      "artist": "Funny Bunny",
-      "url": "https://archive.org/download/funny_bunny_roger_rabbits_revenge_remastered/01_-_Funny_Bunny_-_Puppets_%28Remastered%29.mp3",
-      "page": "https://archive.org/details/funny_bunny_roger_rabbits_revenge_remastered",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "Ementa Das Almas de Loriga (excerto) (2019)",
-      "artist": "Luis Antero",
-      "url": "https://archive.org/download/ementadasalmasloriga2019excerto/Ementa%20das%20Almas_Loriga_2019_excerto.mp3",
-      "page": "https://archive.org/details/ementadasalmasloriga2019excerto",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/"
-    },
-    {
-      "title": "[ENDE081] Noistruct vs. Crippling Self Doubt - Godwhores",
-      "artist": "",
-      "url": "https://archive.org/download/ende081-noistruct-vs-cripplingselfdoubt-godwhores/01%20-%20Noistruct%20vs.%20Crippling%20Self%20Doubt%20-%20Ameristian.mp3",
-      "page": "https://archive.org/details/ende081-noistruct-vs-cripplingselfdoubt-godwhores",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Profan / Josué, O Salvador - Profan / Josué, O Salvador [enrmp227]",
-      "artist": "Profan / Josué, O Salvador",
-      "url": "https://archive.org/download/enrmp227_profan___josue__o_salvador_-_profan___josue__o_salvador/01_josue__o_salvador_-_for_those_about_to_rock.mp3",
-      "page": "https://archive.org/details/enrmp227_profan___josue__o_salvador_-_profan___josue__o_salvador",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "Tsukimono - The Back is a Collection of Busted Static [Fukk God 018]",
-      "artist": "",
-      "url": "https://archive.org/download/fukkgod018/fukkgod018_-_tsukimono_-_01_-_punked_up_fuck_attitude.mp3",
-      "page": "https://archive.org/details/fukkgod018",
-      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
-    },
-    {
-      "title": "Sebkha-Chott NeXXXt Epilog Master 2012 04 24 V 0 1",
-      "artist": "Sebkha-Chott v.2009",
-      "url": "https://archive.org/download/master-2012-04-24-v-0-1/Master_2012-04-24_v0-1.mp3",
-      "page": "https://archive.org/details/master-2012-04-24-v-0-1",
-      "license": "https://creativecommons.org/licenses/by-sa/4.0/"
-    },
-    {
-      "title": "GF09 The Sun in its Jewel Case",
-      "artist": "The Gack Factory Orchestra",
-      "url": "https://archive.org/download/gf09-the-sun-in-its-jewel-case/01-Intro.mp3",
-      "page": "https://archive.org/details/gf09-the-sun-in-its-jewel-case",
+      "title": "BPMF11.Bjarkan.Illusion is the one reality,substance is the great impostor (2005.released 2007)",
+      "artist": "Bjarkan",
+      "url": "https://archive.org/download/Bpmf11.bjarkan.illusionIsTheOneRealitysubstanceIsTheGreatImpostor/Bjarkan.01.beyondBoundaries.mp3",
+      "page": "https://archive.org/details/Bpmf11.bjarkan.illusionIsTheOneRealitysubstanceIsTheGreatImpostor",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "[ENDE472] -pastel boi - Daddy Issues",
-      "artist": "",
-      "url": "https://archive.org/download/ende472-pastel-boi-daddy-issues/01%20-%20-pastel%20boi%20-%20bush%20doof.mp3",
-      "page": "https://archive.org/details/ende472-pastel-boi-daddy-issues",
-      "license": "Creative Commons"
+      "title": "Feeling of Love live in the OCCII",
+      "artist": "The Feeling of Love",
+      "url": "https://archive.org/download/FeelingOfLoveliveintheOCCII/FeelingOfLove_01.mp3",
+      "page": "https://archive.org/details/FeelingOfLoveliveintheOCCII",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Duck Tales From A Quacky Imagination",
+      "artist": "I Killed Techno! / Earth Dies Screaming",
+      "url": "https://archive.org/download/PHAQVA06/01-I-Killed-Techno-Attack-Of-The-Space-Dinosaurs.mp3",
+      "page": "https://archive.org/details/PHAQVA06",
+      "license": "http://creativecommons.org/licenses/publicdomain/"
+    },
+    {
+      "title": "Nine Guitars",
+      "artist": "George L Smyth",
+      "url": "https://archive.org/download/NineGuitars/Nine%20Guitars.mp3",
+      "page": "https://archive.org/details/NineGuitars",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "title": "Card Paintings Loops",
+      "artist": "SG",
+      "url": "https://archive.org/download/CARDPAINTINGS/6CP-004B.mp3",
+      "page": "https://archive.org/details/CARDPAINTINGS",
+      "license": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+      "title": "NXL049",
+      "artist": "Louis Lingg and the Bombs",
+      "url": "https://archive.org/download/NXL049/01PunkStormMario.mp3",
+      "page": "https://archive.org/details/NXL049",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "contra16: Infex - Type C",
+      "artist": "Infex",
+      "url": "https://archive.org/download/contra16/contra16-infex-01type-c1.mp3",
+      "page": "https://archive.org/details/contra16",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
+    },
+    {
+      "title": "Nada - Mirror Image",
+      "artist": "Nada",
+      "url": "https://archive.org/download/NadaMirrorImage/01%20the%20pesty%20samurai.mp3",
+      "page": "https://archive.org/details/NadaMirrorImage",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "[FNet005] Various - Pick n Mix Vol.1",
+      "artist": "Faturenet Collective",
+      "url": "https://archive.org/download/FNet005/01.Mainiakist-Just_Flowin.mp3",
+      "page": "https://archive.org/details/FNet005",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Fear of Erny",
+      "artist": "Deadman & Digi Hartatak",
+      "url": "https://archive.org/download/Fear_of_Erny/FearofErny.mp3",
+      "page": "https://archive.org/details/Fear_of_Erny",
+      "license": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "title": "Nobody's Nail Machine - Fallout Nevada Remastered",
+      "artist": "Nobody's Nail Machine",
+      "url": "https://archive.org/download/FalloutNevadaRemastered/01.%20Fallout%20Nevada%20Theme.mp3",
+      "page": "https://archive.org/details/FalloutNevadaRemastered",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+    },
+    {
+      "title": "In Extremis Ex Nihilo Sound Artefact Capture Performance",
+      "artist": "PIRATE Tapes",
+      "url": "https://archive.org/download/PIRATE_Tapes_In_Extremis_Ex_Nihilo_Sound_Artefact_Capture_Performance/In%20Extremis%20Ex%20Nihilo%20Sound%20Artefact%20Capture%20Performance%20by%20PIRATE%20Tapes.mp3",
+      "page": "https://archive.org/details/PIRATE_Tapes_In_Extremis_Ex_Nihilo_Sound_Artefact_Capture_Performance",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     }
   ]
 }
