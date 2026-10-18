@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T18:08:39+00:00",
+  "updated": "2026-10-18T20:48:19+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -44,6 +44,16 @@
           "date": "2026-10-18T12:07:31+00:00"
         },
         {
+          "title": "Macron calls for 'calm and order' after riots across France",
+          "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-18T20:33:21+00:00"
+        },
+        {
+          "title": "What we know so far about deadly fire at Canadian military base",
+          "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-18T19:42:37+00:00"
+        },
+        {
           "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
           "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-18T15:46:10+00:00"
@@ -52,16 +62,6 @@
           "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
           "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-18T05:04:31+00:00"
-        },
-        {
-          "title": "European diplomats attacked by Israeli settlers in West Bank",
-          "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-18T12:16:14+00:00"
-        },
-        {
-          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-18T01:10:25+00:00"
         }
       ]
     },
@@ -105,7 +105,7 @@
         {
           "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
           "link": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
-          "date": "2026-10-18T16:44:10+00:00"
+          "date": "2026-10-18T19:37:28+00:00"
         },
         {
           "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
@@ -231,6 +231,16 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
+          "link": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
+          "date": "2026-10-18T19:21:56+00:00"
+        },
+        {
+          "title": "A woman was arrested in Philly for blocking a delivery robot",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+          "date": "2026-10-18T18:28:10+00:00"
+        },
+        {
           "title": "Video game ownership bill introduced in Congress",
           "link": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
           "date": "2026-10-18T16:27:51+00:00"
@@ -244,16 +254,6 @@
           "title": "J Mascis has nothing better to do",
           "link": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
           "date": "2026-10-18T14:13:04+00:00"
-        },
-        {
-          "title": "Trump says Google kisses his ass",
-          "link": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
-          "date": "2026-10-18T13:26:28+00:00"
-        },
-        {
-          "title": "The best gadget I bought this year is a milk frother",
-          "link": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
-          "date": "2026-10-16T22:15:10+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
-          "link": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
-          "date": "2026-10-18T17:27:30+00:00"
+          "title": "Tiny Brutalism – Thanks to HN it's on Steam",
+          "link": "https://store.steampowered.com/app/5426130/Tiny_Brutalism/",
+          "date": "2026-10-18T18:59:09+00:00"
         },
         {
-          "title": "Mitos editor is a fork of Helix",
-          "link": "https://mitos.computer/",
-          "date": "2026-10-18T17:19:34+00:00"
+          "title": "Free Pascal compiler now supports dynamic packages",
+          "link": "https://www.getlazarus.org/dynamic/",
+          "date": "2026-10-18T18:48:04+00:00"
+        },
+        {
+          "title": "Florida's HOAs and condo associations are making the housing crisis worse",
+          "link": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+          "date": "2026-10-18T18:40:16+00:00"
+        },
+        {
+          "title": "PalmOS Lemmings",
+          "link": "https://github.com/ardiri/palmos-lemmings",
+          "date": "2026-10-18T17:56:59+00:00"
         },
         {
           "title": "Namecheap just seized and disabled all my domains",
           "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
           "date": "2026-10-18T16:56:56+00:00"
-        },
-        {
-          "title": "Someone Behind the Software",
-          "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-          "date": "2026-10-18T16:32:00+00:00"
-        },
-        {
-          "title": "The Intel 8087 chip: floating-point addition and subtraction",
-          "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-          "date": "2026-10-18T16:20:27+00:00"
         }
       ]
     },
@@ -359,6 +359,16 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
+          "title": "[分享创造] 通过丢几个参考链接，让 grok bot 直接做了个 AI 导航站，大概十几轮对话，做完直接部署。",
+          "link": "https://www.v2ex.com/t/1249847#reply2",
+          "date": "2026-10-18T19:25:17+00:00"
+        },
+        {
+          "title": "[问与答] 你们的 tailscale in shadowrocket 还好吗，为啥我的总错误",
+          "link": "https://www.v2ex.com/t/1249846#reply0",
+          "date": "2026-10-18T19:22:19+00:00"
+        },
+        {
           "title": "[分享创造] Play Martin:No Filter Fighters",
           "link": "https://www.v2ex.com/t/1249845#reply0",
           "date": "2026-10-18T18:06:43+00:00"
@@ -372,16 +382,6 @@
           "title": "[OpenAI] codex 邀请新用户各得 1000 额度，还有需要的吗，留下邮箱",
           "link": "https://www.v2ex.com/t/1249843#reply0",
           "date": "2026-10-18T17:39:12+00:00"
-        },
-        {
-          "title": "[前端开发] Obsidian 开源了新的文本绘图库",
-          "link": "https://www.v2ex.com/t/1249842#reply1",
-          "date": "2026-10-18T17:39:03+00:00"
-        },
-        {
-          "title": "[加密货币] 你认为 V2EX 币未来能超越 狗狗币 吗",
-          "link": "https://www.v2ex.com/t/1249841#reply2",
-          "date": "2026-10-18T17:13:13+00:00"
         }
       ]
     },
