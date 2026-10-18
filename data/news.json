@@ -1,11 +1,16 @@
 {
-  "updated": "2026-10-18T01:06:24+00:00",
+  "updated": "2026-10-18T05:58:03+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "法國抗議爆發暴力衝突、搶劫、建築物起火，逾千人被捕",
+          "link": "https://www.bbc.com/zhongwen/articles/cq8ez1wny72xo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-18T05:12:41+00:00"
+        },
         {
           "title": "遊艇上的水上滑梯、泳池：衛星影像揭示的金正恩「夏宮」生活",
           "link": "https://www.bbc.com/zhongwen/articles/cm9dzq7z7vw8o/trad?at_medium=RSS&at_campaign=rss",
@@ -17,19 +22,14 @@
           "date": "2026-10-17T12:54:47+00:00"
         },
         {
-          "title": "美國中國研究生涉嫌毒害越南同學：大學與受害者家屬怎麼說？",
+          "title": "在美中國研究生涉毒害越南同學：大學與家屬怎麼說？",
           "link": "https://www.bbc.com/zhongwen/articles/c6vg08d0glp7o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-18T00:31:53+00:00"
         },
         {
-          "title": "「我申請了200份工作」——用AI「撒網」投履歷為何容易弄巧成拙？",
+          "title": "「我申請了200份工作」——用AI「撒網」求職為何易弄巧成拙？",
           "link": "https://www.bbc.com/zhongwen/articles/crz65gwv8gv5o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-18T00:32:02+00:00"
-        },
-        {
-          "title": "上任僅五天便下台，特朗普的白宮新聞秘書出了甚麼問題？",
-          "link": "https://www.bbc.com/zhongwen/articles/ck5yng42z0dlo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-17T05:43:01+00:00"
         }
       ]
     },
@@ -39,14 +39,14 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+          "title": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests",
           "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-17T20:52:17+00:00"
+          "date": "2026-10-18T05:56:20+00:00"
         },
         {
-          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-17T19:19:19+00:00"
+          "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+          "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-18T05:04:31+00:00"
         },
         {
           "title": "European diplomats attacked by Israeli settlers in West Bank",
@@ -54,14 +54,14 @@
           "date": "2026-10-17T23:52:38+00:00"
         },
         {
-          "title": "Anti-government protesters battle with police in Albania",
-          "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-17T20:53:00+00:00"
+          "title": "Deaths confirmed in major fire at Canada military base",
+          "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-18T04:00:50+00:00"
         },
         {
-          "title": "At least 17 dead in crush at Hindu festival event in India",
-          "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-17T19:19:16+00:00"
+          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-18T01:10:25+00:00"
         }
       ]
     },
@@ -295,61 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "JDK 28",
-          "link": "https://openjdk.org/projects/jdk/28/",
-          "date": "2026-10-17T21:37:07+00:00"
+          "title": "The game industry is broken – can we fix it?",
+          "link": "https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash",
+          "date": "2026-10-18T05:27:58+00:00"
         },
         {
-          "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
-          "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
-          "date": "2026-10-17T20:07:33+00:00"
+          "title": "Matthew Prince on why Cloudflare offers a free version and always will",
+          "link": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+          "date": "2026-10-18T05:09:14+00:00"
         },
         {
-          "title": "Microsoft and CMU team up to train early career software engineers",
-          "link": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-          "date": "2026-10-17T18:45:07+00:00"
+          "title": "A Mole Infiltrated the Highest Ranks of American Militias",
+          "link": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+          "date": "2026-10-18T04:59:24+00:00"
         },
         {
-          "title": "OpenCode Hacked: User credentials leaked",
-          "link": "https://twitter.com/opencode/status/2111516673953935833",
-          "date": "2026-10-17T18:01:41+00:00"
+          "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+          "link": "https://sphinx-six-theta.vercel.app/",
+          "date": "2026-10-18T04:33:49+00:00"
         },
         {
-          "title": "Codex Desktop continuously generates Crashpad pending dumps",
-          "link": "https://github.com/openai/codex/issues/25921",
-          "date": "2026-10-17T17:45:08+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Lobsters",
-      "category": "开发",
-      "url": "https://lobste.rs/rss",
-      "items": [
-        {
-          "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
-          "link": "https://words.filippo.io/seeds-solved/",
-          "date": "2026-10-16T20:18:36+00:00"
-        },
-        {
-          "title": "Intuitive concurrent programming in any language",
-          "link": "https://www.lf-lang.org/",
-          "date": "2026-10-17T12:17:20+00:00"
-        },
-        {
-          "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
-          "link": "https://maevyn.codes/decoherence",
-          "date": "2026-10-16T16:36:29+00:00"
-        },
-        {
-          "title": "It took me nine years to hack my Xbox 360",
-          "link": "https://kennedn.com/blog/posts/glitching/",
-          "date": "2026-10-17T16:13:32+00:00"
-        },
-        {
-          "title": "Interactive refactoring in gopls",
-          "link": "https://go.dev/blog/interactive-refactoring",
-          "date": "2026-10-17T01:12:09+00:00"
+          "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
+          "link": "https://tkgally.github.io/500-clocks/",
+          "date": "2026-10-18T04:04:58+00:00"
         }
       ]
     },
@@ -359,29 +327,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[程序员] 之前让 AI 智能体去服务器在线改 BUG，我动不动就 CPU 内存占满",
-          "link": "https://www.v2ex.com/t/1249694#reply0",
-          "date": "2026-10-18T00:18:29+00:00"
+          "title": "[游戏] 还记得童年集不齐的小浣熊水浒卡吗？我把它做成了麻将版国风《小丑牌》",
+          "link": "https://www.v2ex.com/t/1249745#reply0",
+          "date": "2026-10-18T05:31:28+00:00"
         },
         {
-          "title": "[程序员] 一觉醒来， Tibo 已经在凌晨 5 点完成了 18 号的重置，没办法说快蹬了 😭",
-          "link": "https://www.v2ex.com/t/1249693#reply0",
-          "date": "2026-10-18T00:11:56+00:00"
+          "title": "[分享创造] 英语不好的程序员爸爸，给上小学的孩子做了个英语 App（iOS / 安卓 / 鸿蒙）",
+          "link": "https://www.v2ex.com/t/1249744#reply0",
+          "date": "2026-10-18T05:07:11+00:00"
         },
         {
-          "title": "[OpenAI] 10.18 - day 13 - Tibo 已经完成了重置。。。欺负国人啊",
-          "link": "https://www.v2ex.com/t/1249692#reply3",
-          "date": "2026-10-17T23:55:12+00:00"
+          "title": "[分享创造] 做了一个 X 的第三方客户端， Liquid Glass，全流程翻译",
+          "link": "https://www.v2ex.com/t/1249743#reply7",
+          "date": "2026-10-18T04:56:00+00:00"
         },
         {
-          "title": "[推广] AI Zombie Trend Generator",
-          "link": "https://www.v2ex.com/t/1249691#reply0",
-          "date": "2026-10-17T23:31:00+00:00"
+          "title": "[分享创造] 大家是一笔一笔记账还是攒着一起记？",
+          "link": "https://www.v2ex.com/t/1249742#reply0",
+          "date": "2026-10-18T04:45:19+00:00"
         },
         {
-          "title": "[分享创造] 策略抽卡自走棋游戏",
-          "link": "https://www.v2ex.com/t/1249690#reply2",
-          "date": "2026-10-17T23:30:03+00:00"
+          "title": "[酷工作] SEO 增长专员（社招）",
+          "link": "https://www.v2ex.com/t/1249740#reply0",
+          "date": "2026-10-18T04:40:20+00:00"
         }
       ]
     },
@@ -541,29 +509,29 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
-          "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
-          "link": "https://www.qbitai.com/2026/10/503880.html",
-          "date": "2026-10-16T12:54:54+00:00"
+          "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+          "link": "https://www.qbitai.com/2026/10/504067.html",
+          "date": "2026-10-17T12:21:09+00:00"
         },
         {
-          "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
-          "link": "https://www.qbitai.com/2026/10/503865.html",
-          "date": "2026-10-16T08:12:01+00:00"
+          "title": "智谱新模型，懂法方面全球第一了",
+          "link": "https://www.qbitai.com/2026/10/503965.html",
+          "date": "2026-10-17T12:13:45+00:00"
         },
         {
-          "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
-          "link": "https://www.qbitai.com/2026/10/503861.html",
-          "date": "2026-10-16T08:07:33+00:00"
+          "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+          "link": "https://www.qbitai.com/2026/10/503935.html",
+          "date": "2026-10-17T12:10:35+00:00"
         },
         {
-          "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
-          "link": "https://www.qbitai.com/2026/10/503843.html",
-          "date": "2026-10-16T08:00:31+00:00"
+          "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
+          "link": "https://www.qbitai.com/2026/10/503910.html",
+          "date": "2026-10-17T12:06:51+00:00"
         },
         {
-          "title": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
-          "link": "https://www.qbitai.com/2026/10/503829.html",
-          "date": "2026-10-16T07:16:11+00:00"
+          "title": "科技企业出海，为啥我推荐你去迪拜？",
+          "link": "https://www.qbitai.com/2026/10/503893.html",
+          "date": "2026-10-17T09:05:08+00:00"
         }
       ]
     },
@@ -665,6 +633,7 @@
     }
   ],
   "failed": [
-    "36 氪"
+    "36 氪",
+    "Lobsters"
   ]
 }
