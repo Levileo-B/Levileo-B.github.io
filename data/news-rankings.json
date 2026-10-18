@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-18T11:12:19+00:00",
-  "updated": "2026-10-18T11:12:19+00:00",
+  "generated_at": "2026-10-18T14:37:47+00:00",
+  "updated": "2026-10-18T14:37:47+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-12T00:00:00+08:00",
-    "end": "2026-10-18T11:12:19+00:00",
-    "total": 930,
+    "end": "2026-10-18T14:37:47+00:00",
+    "total": 958,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
@@ -117,6 +117,21 @@
         "observed_days": 2
       },
       {
+        "title": "The Brain Sandwich",
+        "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+        "date": "2026-10-18T03:03:36+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
         "title": "US inflation rises more than expected - here's what is happening with prices",
         "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o",
         "date": "2026-10-14T15:26:14+00:00",
@@ -136,22 +151,6 @@
         "title": "Saudi employee charged with planting recording device in OpenAI office",
         "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo",
         "date": "2026-10-13T21:42:49+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "Trump faces growing backlash over plans to import diesel from Russia",
-        "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo",
-        "date": "2026-10-11T23:18:45+00:00",
         "date_is_observed": false,
         "categories": [
           "综合",
@@ -386,6 +385,21 @@
           "observed_days": 2
         },
         {
+          "title": "The Brain Sandwich",
+          "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+          "date": "2026-10-18T03:03:36+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析",
           "link": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
           "date": "2026-10-11T20:20:34+00:00",
@@ -431,20 +445,6 @@
           "title": "GitHub availability report: September 2026",
           "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
           "date": "2026-10-14T20:01:35+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "GitHub Blog"
-          ],
-          "source_count": 1,
-          "observed_days": 4
-        },
-        {
-          "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
-          "link": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
-          "date": "2026-10-14T19:11:33+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1050,8 +1050,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-18T11:12:19+00:00",
-    "total": 2292,
+    "end": "2026-10-18T14:37:47+00:00",
+    "total": 2320,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
