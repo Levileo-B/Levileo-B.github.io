@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T20:48:20+00:00",
+  "updated": "2026-10-18T23:16:42+00:00",
   "leetcode": {
     "date": "2026-10-18",
     "id": "1569",
@@ -27,11 +27,11 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Home Movie: 12107: Hirota Collection",
+    "title": "[Home Movies: Medicus Collection: \"West 1940\"]",
     "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/12107_hm_hirota_collection/12107.mp4",
-    "page": "https://archive.org/details/12107_hm_hirota_collection",
+    "year": "1940",
+    "url": "https://archive.org/download/0685_HM_Medicus_Collection_West_1940_09_01_00_00/0685_HM_Medicus_Collection_West_1940_09_01_00_00_3mb.mp4",
+    "page": "https://archive.org/details/0685_HM_Medicus_Collection_West_1940_09_01_00_00",
     "date": "2026-10-18",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
@@ -39,11 +39,25 @@
   },
   "music": [
     {
-      "title": "mnblck023 - Otolith - The Dark Side EP (2009)",
-      "artist": "Otolith",
-      "url": "https://archive.org/download/mnblck023/mnblck023-Otolith-The_Dark_Side_EP-01-Monolith1.mp3",
-      "page": "https://archive.org/details/mnblck023",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/de/"
+      "title": "atone - un an plus tard ep",
+      "artist": "autres_directions",
+      "url": "https://archive.org/download/moulin016/ATONE_Un_An_Plus_Tard_01_Seul_The_Remote_Viewer_Remix.mp3",
+      "page": "https://archive.org/details/moulin016",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "[SAR_074].YK Decay - Rasah Do Cangkeman",
+      "artist": "YK Decay",
+      "url": "https://archive.org/download/sar_074.ykDecay-RasahDoCangkeman/01.YkDecaytoHellWithTheUk.mp3",
+      "page": "https://archive.org/details/sar_074.ykDecay-RasahDoCangkeman",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Vim! - 8-Bitten Break Smitten [mtk054]",
+      "artist": "",
+      "url": "https://archive.org/download/mtk054/mtk054-vim-8-bitten-break-smitten.mp3",
+      "page": "https://archive.org/details/mtk054",
+      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
     },
     {
       "title": "[miniatura048] Marteaux - Kemmer EP",
@@ -53,74 +67,60 @@
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
+      "title": "[MNT104] TERATOCARCINOMA - Clostridium Botulinum",
+      "artist": "Teratocarcinoma",
+      "url": "https://archive.org/download/mnt104/01-teratocarcinoma-delirium_tremens-maquinarianet.mp3",
+      "page": "https://archive.org/details/mnt104",
+      "license": "http://creativecommons.org/licenses/by/2.5/ar/"
+    },
+    {
+      "title": "ses000 - Browne's Edition",
+      "artist": "Browne's Edition",
+      "url": "https://archive.org/download/ses000/ses000_01_brownes_edition_to_kill_a_messenger.mp3",
+      "page": "https://archive.org/details/ses000",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Phoenix",
+      "artist": "Shino",
+      "url": "https://archive.org/download/shino_phoenix/01_-_shino_-_blind.mp3",
+      "page": "https://archive.org/details/shino_phoenix",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/de/"
+    },
+    {
+      "title": "simulacro: 1997. Escape de Abstractia ep",
+      "artist": "simulacro:",
+      "url": "https://archive.org/download/rlsm03ep/01-simulacro-aterrizaje_en_wtc.mp3",
+      "page": "https://archive.org/details/rlsm03ep",
+      "license": "http://creativecommons.org/licenses/by-sa/2.5/mx/"
+    },
+    {
+      "title": "microbio05 The Human Isolated Bacteria: Cerelac",
+      "artist": "Microbio",
+      "url": "https://archive.org/download/microbio05/m_05-01.mp3",
+      "page": "https://archive.org/details/microbio05",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Rosellon",
+      "artist": "",
+      "url": "https://archive.org/download/rosellon/01%20-%20Feedback.mp3",
+      "page": "https://archive.org/details/rosellon",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+    },
+    {
+      "title": "[RFR014_CD3] V.A. - 2 Years Rumpfunk-Records",
+      "artist": "all the Rumpfunk-Artists",
+      "url": "https://archive.org/download/rfr014_cd3/rfr014_CD3_01_Frequenzkiller_-_Electrolux.mp3",
+      "page": "https://archive.org/details/rfr014_cd3",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/de/"
+    },
+    {
       "title": "Andrew Howes - 'Set'",
       "artist": "Andrew Howes",
       "url": "https://archive.org/download/sPE_0098/Andrew_Howes_Set_01_Condo.mp3",
       "page": "https://archive.org/details/sPE_0098",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Lindon - Eksajoule [mtk014]",
-      "artist": "",
-      "url": "https://archive.org/download/mtk014/mtk014-lindon-eksajoule.mp3",
-      "page": "https://archive.org/details/mtk014",
-      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
-    },
-    {
-      "title": "S.Louhela - vetac [tantan] (excerpt) {rel#80}",
-      "artist": "S.Louhela",
-      "url": "https://archive.org/download/milk-rel80/01%20-%20vetac%20%5Btantan%5D%20%28excerpt%29.mp3",
-      "page": "https://archive.org/details/milk-rel80",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "[Miga17] - Alex Cortex - \"Invierano\"",
-      "artist": "Alex Cortex",
-      "url": "https://archive.org/download/miga17/alex_cortex_-_invierano_pt-1.mp3",
-      "page": "https://archive.org/details/miga17",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "Solitaire Albread - Lemon Juice Can [mia006]",
-      "artist": "solitaire albread",
-      "url": "https://archive.org/download/mia006/mia6-solitare_albread-lemon_juice_can.mp3",
-      "page": "https://archive.org/details/mia006",
-      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
-    },
-    {
-      "title": "Knobs Are My Friends EP [mph011]",
-      "artist": "Kujoma",
-      "url": "https://archive.org/download/mph011/mph011-01-Kujoma-Happy_vbr.mp3",
-      "page": "https://archive.org/details/mph011",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
-    },
-    {
-      "title": "Mousuet",
-      "artist": "Jazzaria.com",
-      "url": "https://archive.org/download/mousuet/mousuet.mp3",
-      "page": "https://archive.org/details/mousuet",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "Anthony Donovan - ‘Wir wissen beide (for Jaan Patterson)’",
-      "artist": "Anthony Donovan",
-      "url": "https://archive.org/download/sPE_0196/Anthony_Donovan_-_01_Wir_wissen_beide_for_Jaan_Patterson.mp3",
-      "page": "https://archive.org/details/sPE_0196",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
-    },
-    {
-      "title": "Alexander Kibanov & Norihito Kodama - 'Avant-Guard'",
-      "artist": "Alexander Kibanov & Norihito Kodama",
-      "url": "https://archive.org/download/sPE_0061/Alexander_Kibanov_Norihito_Kodama_Avant_Guard_01_AK_NK_0201.mp3",
-      "page": "https://archive.org/details/sPE_0061",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "V.A. - Perfect Victim Remixes [RC017]",
-      "artist": "House Of Cards",
-      "url": "https://archive.org/download/ronincollective017/RC017-07-perfectvictim_houseofcards_shiftlessremix.mp3",
-      "page": "https://archive.org/details/ronincollective017",
-      "license": "Creative Commons"
     }
   ]
 }

@@ -1,45 +1,31 @@
 {
-  "generated_at": "2026-10-18T20:48:19+00:00",
-  "updated": "2026-10-18T20:48:19+00:00",
+  "generated_at": "2026-10-18T23:16:42+00:00",
+  "updated": "2026-10-18T23:16:42+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-19T00:00:00+08:00",
-    "end": "2026-10-18T20:48:19+00:00",
-    "total": 23,
+    "end": "2026-10-18T23:16:42+00:00",
+    "total": 38,
     "items": [
       {
-        "title": "Macron calls for 'calm and order' after riots across France",
-        "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o",
-        "date": "2026-10-18T20:33:21+00:00",
+        "title": "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East",
+        "link": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html",
+        "date": "2026-10-18T23:10:45+00:00",
         "date_is_observed": false,
         "categories": [
-          "综合"
+          "财经"
         ],
         "sources": [
-          "BBC World"
+          "CNBC"
         ],
         "source_count": 1,
         "observed_days": 1
       },
       {
-        "title": "What we know so far about deadly fire at Canadian military base",
-        "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do",
-        "date": "2026-10-18T19:42:37+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC World"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[分享创造] 通过丢几个参考链接，让 grok bot 直接做了个 AI 导航站，大概十几轮对话，做完直接部署。",
-        "link": "https://www.v2ex.com/t/1249847",
-        "date": "2026-10-18T19:25:17+00:00",
+        "title": "[分享发现] NSFW/姿势出图 skill",
+        "link": "https://www.v2ex.com/t/1249850",
+        "date": "2026-10-18T23:05:45+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -51,9 +37,23 @@
         "observed_days": 1
       },
       {
-        "title": "[问与答] 你们的 tailscale in shadowrocket 还好吗，为啥我的总错误",
-        "link": "https://www.v2ex.com/t/1249846",
-        "date": "2026-10-18T19:22:19+00:00",
+        "title": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
+        "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+        "date": "2026-10-18T23:00:01+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "财经"
+        ],
+        "sources": [
+          "CNBC"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[问与答] V 站的高收入大佬上岸之后还需要去上班吗",
+        "link": "https://www.v2ex.com/t/1249849",
+        "date": "2026-10-18T22:59:40+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -65,9 +65,23 @@
         "observed_days": 1
       },
       {
-        "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
-        "link": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
-        "date": "2026-10-18T19:21:56+00:00",
+        "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+        "link": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+        "date": "2026-10-18T22:55:48+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "财经"
+        ],
+        "sources": [
+          "CNBC"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+        "link": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+        "date": "2026-10-18T22:20:53+00:00",
         "date_is_observed": false,
         "categories": [
           "科技"
@@ -79,71 +93,57 @@
         "observed_days": 1
       },
       {
-        "title": "Tiny Brutalism – Thanks to HN it's on Steam",
-        "link": "https://store.steampowered.com/app/5426130/Tiny_Brutalism/",
-        "date": "2026-10-18T18:59:09+00:00",
+        "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+        "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo",
+        "date": "2026-10-18T22:10:45+00:00",
         "date_is_observed": false,
         "categories": [
-          "开发"
+          "综合"
         ],
         "sources": [
-          "Hacker News"
+          "BBC World"
         ],
         "source_count": 1,
         "observed_days": 1
       },
       {
-        "title": "Free Pascal compiler now supports dynamic packages",
-        "link": "https://www.getlazarus.org/dynamic/",
-        "date": "2026-10-18T18:48:04+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Florida's HOAs and condo associations are making the housing crisis worse",
-        "link": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
-        "date": "2026-10-18T18:40:16+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "A woman was arrested in Philly for blocking a delivery robot",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-        "date": "2026-10-18T18:28:10+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "The Verge"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[分享创造] Play Martin:No Filter Fighters",
-        "link": "https://www.v2ex.com/t/1249845",
-        "date": "2026-10-18T18:06:43+00:00",
+        "title": "[问与答] 有什么适合送给十岁左右男孩子的礼物",
+        "link": "https://www.v2ex.com/t/1249848",
+        "date": "2026-10-18T21:37:42+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
         ],
         "sources": [
           "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+        "link": "https://github.com/finereli/whatsapp-mcp",
+        "date": "2026-10-18T21:36:10+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux",
+        "link": "https://github.com/omnipty-terminal/omnipty",
+        "date": "2026-10-18T21:24:13+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News"
         ],
         "source_count": 1,
         "observed_days": 1
@@ -151,6 +151,104 @@
     ],
     "by_category": {
       "开发": [
+        {
+          "title": "[分享发现] NSFW/姿势出图 skill",
+          "link": "https://www.v2ex.com/t/1249850",
+          "date": "2026-10-18T23:05:45+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[问与答] V 站的高收入大佬上岸之后还需要去上班吗",
+          "link": "https://www.v2ex.com/t/1249849",
+          "date": "2026-10-18T22:59:40+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[问与答] 有什么适合送给十岁左右男孩子的礼物",
+          "link": "https://www.v2ex.com/t/1249848",
+          "date": "2026-10-18T21:37:42+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "link": "https://github.com/finereli/whatsapp-mcp",
+          "date": "2026-10-18T21:36:10+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux",
+          "link": "https://github.com/omnipty-terminal/omnipty",
+          "date": "2026-10-18T21:24:13+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "link": "https://arxiv.org/abs/2610.18861",
+          "date": "2026-10-18T20:48:14+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
+          "link": "https://github.com/Netflix/vmaf",
+          "date": "2026-10-18T20:43:40+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "[分享创造] 通过丢几个参考链接，让 grok bot 直接做了个 AI 导航站，大概十几轮对话，做完直接部署。",
           "link": "https://www.v2ex.com/t/1249847",
@@ -192,107 +290,23 @@
           ],
           "source_count": 1,
           "observed_days": 1
-        },
-        {
-          "title": "Free Pascal compiler now supports dynamic packages",
-          "link": "https://www.getlazarus.org/dynamic/",
-          "date": "2026-10-18T18:48:04+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Florida's HOAs and condo associations are making the housing crisis worse",
-          "link": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
-          "date": "2026-10-18T18:40:16+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[分享创造] Play Martin:No Filter Fighters",
-          "link": "https://www.v2ex.com/t/1249845",
-          "date": "2026-10-18T18:06:43+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "PalmOS Lemmings",
-          "link": "https://github.com/ardiri/palmos-lemmings",
-          "date": "2026-10-18T17:56:59+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[分享创造] 分享一个开源项目 Agent8：让只有 Java 8 的 AIX / HP-UX / Solaris 继续当新版 Jenkins 的 agent",
-          "link": "https://www.v2ex.com/t/1249844",
-          "date": "2026-10-18T17:48:47+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[OpenAI] codex 邀请新用户各得 1000 额度，还有需要的吗，留下邮箱",
-          "link": "https://www.v2ex.com/t/1249843",
-          "date": "2026-10-18T17:39:12+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[前端开发] Obsidian 开源了新的文本绘图库",
-          "link": "https://www.v2ex.com/t/1249842",
-          "date": "2026-10-18T17:39:03+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "科技": [
+        {
+          "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+          "link": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+          "date": "2026-10-18T22:20:53+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
           "link": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
@@ -352,6 +366,34 @@
       ],
       "综合": [
         {
+          "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+          "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo",
+          "date": "2026-10-18T22:10:45+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+          "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o",
+          "date": "2026-10-18T21:00:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Macron calls for 'calm and order' after riots across France",
           "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o",
           "date": "2026-10-18T20:33:21+00:00",
@@ -382,6 +424,62 @@
       ],
       "财经": [
         {
+          "title": "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East",
+          "link": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html",
+          "date": "2026-10-18T23:10:45+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
+          "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+          "date": "2026-10-18T23:00:01+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+          "link": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+          "date": "2026-10-18T22:55:48+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Microsoft pulls out of UK's largest AI data centre",
+          "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo",
+          "date": "2026-10-18T16:46:42+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
           "link": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
           "date": "2026-10-18T16:44:10+00:00",
@@ -400,8 +498,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-18T20:48:19+00:00",
-    "total": 2350,
+    "end": "2026-10-18T23:16:42+00:00",
+    "total": 2365,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
