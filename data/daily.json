@@ -1,90 +1,70 @@
 {
-  "updated": "2026-10-17T22:22:48+00:00",
+  "updated": "2026-10-18T01:06:24+00:00",
   "leetcode": {
-    "date": "2026-10-17",
-    "id": "3551",
-    "title": "Minimum Swaps to Sort by Digit Sum",
-    "titleEn": "Minimum Swaps to Sort by Digit Sum",
-    "slug": "minimum-swaps-to-sort-by-digit-sum",
-    "difficulty": "Medium",
+    "date": "2026-10-18",
+    "id": "1569",
+    "title": "Number of Ways to Reorder Array to Get Same BST",
+    "titleEn": "Number of Ways to Reorder Array to Get Same BST",
+    "slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+    "difficulty": "Hard",
     "tags": [
       "Array",
-      "Hash Table",
-      "Sorting"
+      "Math",
+      "Divide and Conquer",
+      "Dynamic Programming"
     ],
-    "link": "https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/",
+    "link": "https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "French battleship Brennus",
-    "text": "Brennus was the first pre-dreadnought battleship built for the Marine Nationale. Completed in 1896, she was the sole member of her class, with a main battery of heavy guns mounted on the centerline and the first use of Belleville boilers. She formed the basis for several subsequent designs, beginning with Charles Martel. As completed in 1893, the ship was very top-heavy and had to be rebuilt over the next three years before she was ready to enter service.",
-    "words": 78,
-    "url": "https://en.wikipedia.org/wiki/French_battleship_Brennus",
-    "date": "2026-10-17",
+    "title": "The Demi-Virgin",
+    "text": "The Demi-Virgin is a three-act play written by Avery Hopwood. Producer Albert H. Woods staged it on Broadway, where it was a hit during the 1921–22 season. The play is a bedroom farce about former couple Gloria Graham and Wally Deane, both movie actors, whose brief marriage causes press speculation about whether Gloria is still a virgin. She attempts to seduce Wally when they are forced to reunite for a movie, but after playing along he surprises her by revealing that their divorce is not valid.",
+    "words": 86,
+    "url": "https://en.wikipedia.org/wiki/The_Demi-Virgin",
+    "date": "2026-10-18",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "[News Magazine of the Screen, March]",
-    "creator": "Warner Pathe News",
-    "year": "1952",
-    "url": "https://archive.org/download/NewsMaga1952_2/NewsMaga1952_2_512kb.mp4",
-    "page": "https://archive.org/details/NewsMaga1952_2",
-    "date": "2026-10-17",
+    "title": "Good Taste In Decorating Reel 2 B",
+    "creator": "",
+    "year": "",
+    "url": "https://archive.org/download/rpgoodtasteindecoratingreel2b/RP-Good_Taste_In_Decorating_Reel2B.mp4",
+    "page": "https://archive.org/details/rpgoodtasteindecoratingreel2b",
+    "date": "2026-10-18",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "[LFR-6] Sessions 2011",
-      "artist": "The Children of Mu",
-      "url": "https://archive.org/download/sessions2011childrenofmu/Anthill%20Recordings%20-%20Justin%20Wierbonski%20-%20%282011%29%20Sessions%202011%20-%2001%20The%20Two%20Sided%20Square.mp3",
-      "page": "https://archive.org/details/sessions2011childrenofmu",
+      "title": "Live in Eswezeria, Krakow, Poland, (amp093)",
+      "artist": "Ayankoko",
+      "url": "https://archive.org/download/amp093/Ayankoko_live_eswezeria_krakow_part1.mp3",
+      "page": "https://archive.org/details/amp093",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/mx/"
+    },
+    {
+      "title": "An Uncomfortable Mind",
+      "artist": "Alain Baron",
+      "url": "https://archive.org/download/an_uncomfortable_mind/Alain_Baron-An_Uncomfortable_Mind.mp3",
+      "page": "https://archive.org/details/an_uncomfortable_mind",
       "license": "Creative Commons"
     },
     {
-      "title": "[SAR_074].YK Decay - Rasah Do Cangkeman",
-      "artist": "YK Decay",
-      "url": "https://archive.org/download/sar_074.ykDecay-RasahDoCangkeman/01.YkDecaytoHellWithTheUk.mp3",
-      "page": "https://archive.org/details/sar_074.ykDecay-RasahDoCangkeman",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "Back Cover",
+      "title": "[alk029] Oscar Myer [at the breakfast bar]",
       "artist": "",
-      "url": "https://archive.org/download/arch016/arch016_1-ditch_-_seesaw.mp3",
-      "page": "https://archive.org/details/arch016",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
-    },
-    {
-      "title": "Prrose Sélavy - \"Profunda Femoris Conceived\"",
-      "artist": "Prrose Sélavy",
-      "url": "https://archive.org/download/sPE_0119/Prrose_Selavy_Profunda_Femoris_Conceived.mp3",
-      "page": "https://archive.org/details/sPE_0119",
+      "url": "https://archive.org/download/alk029OscarMyeratTheBreakfastBar/01YoungMoneyAndDranceMusrics.mp3",
+      "page": "https://archive.org/details/alk029OscarMyeratTheBreakfastBar",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Steve Combs - \"Anthology\"",
-      "artist": "Steve Combs",
-      "url": "https://archive.org/download/sc-anthology/1-01%20Welcome%20to%20Michigan%20%28Remix%29.mp3",
-      "page": "https://archive.org/details/sc-anthology",
-      "license": "http://creativecommons.org/licenses/by/3.0/"
-    },
-    {
-      "title": "(AR146) D.Vilayleck Trio Live@Croco Bleu",
-      "artist": "David Vilayleck",
-      "url": "https://archive.org/download/ar146-d.vilayleck-trio-livecroco-bleu/%28AR146%29%20D.Vilayleck%20Trio%20Live%40Croco%20Bleu%20/1%20D.Vilayleck%20Trio-Molam%209%20Live%40Croco%20bleu%20set%201.mp3",
-      "page": "https://archive.org/details/ar146-d.vilayleck-trio-livecroco-bleu",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/"
-    },
-    {
-      "title": "[AMR341] The December Nightskies Collection",
-      "artist": "December Nightskies",
-      "url": "https://archive.org/download/amr341TheDecemberNightskiesCollection/TheDecemberNightskiesCollection.mp3",
-      "page": "https://archive.org/details/amr341TheDecemberNightskiesCollection",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+      "title": "Mikk Rebane - Deviations [foot270]",
+      "artist": "Mikk Rebane",
+      "url": "https://archive.org/download/foot270/foot270_01-mikk_rebane-aberrated.mp3",
+      "page": "https://archive.org/details/foot270",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
       "title": "[alg061] - Ranter’s Bay & Pablo Orza - Fragments",
@@ -94,32 +74,53 @@
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "bilexth - bilexth (EP)",
-      "artist": "bilexth",
-      "url": "https://archive.org/download/bilexth-bilexth-ep/01%20-%20torn%20flowers.mp3",
-      "page": "https://archive.org/details/bilexth-bilexth-ep",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "hunz - mr icky tape",
+      "artist": "hunz",
+      "url": "https://archive.org/download/fm-73/01%20-%20mr%20icky%20tape.mp3",
+      "page": "https://archive.org/details/fm-73",
+      "license": "Creative Commons"
     },
     {
-      "title": "[AMR332] I Am Always Watching You While You Sleep",
-      "artist": "December Nightskies",
-      "url": "https://archive.org/download/amr332IAmAlwaysWatchingYouWhileYouSleep/1.DriftingAway.mp3",
-      "page": "https://archive.org/details/amr332IAmAlwaysWatchingYouWhileYouSleep",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+      "title": "(AR146) D.Vilayleck Trio Live@Croco Bleu",
+      "artist": "David Vilayleck",
+      "url": "https://archive.org/download/ar146-d.vilayleck-trio-livecroco-bleu/%28AR146%29%20D.Vilayleck%20Trio%20Live%40Croco%20Bleu%20/1%20D.Vilayleck%20Trio-Molam%209%20Live%40Croco%20bleu%20set%201.mp3",
+      "page": "https://archive.org/details/ar146-d.vilayleck-trio-livecroco-bleu",
+      "license": "https://creativecommons.org/licenses/by-nd/4.0/"
     },
     {
-      "title": "Dubs #2",
-      "artist": "You are not all Boring",
-      "url": "https://archive.org/download/NABI-Dubs2/01-YouarenotallBoring-DigDub.mp3",
-      "page": "https://archive.org/details/NABI-Dubs2",
-      "license": "http://creativecommons.org/licenses/by/3.0/"
+      "title": "V.A. - Perfect Victim Remixes [RC017]",
+      "artist": "House Of Cards",
+      "url": "https://archive.org/download/ronincollective017/RC017-07-perfectvictim_houseofcards_shiftlessremix.mp3",
+      "page": "https://archive.org/details/ronincollective017",
+      "license": "Creative Commons"
     },
     {
-      "title": "Andrew Howes - 'Set'",
-      "artist": "Andrew Howes",
-      "url": "https://archive.org/download/sPE_0098/Andrew_Howes_Set_01_Condo.mp3",
-      "page": "https://archive.org/details/sPE_0098",
+      "title": "Salvation disorder no.1",
+      "artist": "RDI crucifixion project",
+      "url": "https://archive.org/download/fri060/01nightmares.mp3",
+      "page": "https://archive.org/details/fri060",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "S-Archive",
+      "artist": "Clouds In My Home",
+      "url": "https://archive.org/download/f_pass012/pass012_-_01_clouds_in_my_home_-_s1.mp3",
+      "page": "https://archive.org/details/f_pass012",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Electronic Phantom Orchestra - 'The Mystical Album'",
+      "artist": "Electronic Phantom Orchestra",
+      "url": "https://archive.org/download/sPE_0096/Electronic_Phantom_Orchestra_The_Mystical_Album_01_Quiet_Room.mp3",
+      "page": "https://archive.org/details/sPE_0096",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "amor_loco_0005_,_fonemas_y_martillos",
+      "artist": "criadero en seres",
+      "url": "https://archive.org/download/fonemas_y_martillos_._criadero_en_seres/01_._Criadero_en_Seres_._El_aposento_doble_._Fonemas_y_Martillos.mp3",
+      "page": "https://archive.org/details/fonemas_y_martillos_._criadero_en_seres",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
     }
   ]
 }
