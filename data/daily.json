@@ -1,126 +1,125 @@
 {
-  "updated": "2026-10-18T23:16:42+00:00",
+  "updated": "2026-10-19T01:23:12+00:00",
   "leetcode": {
-    "date": "2026-10-18",
-    "id": "1569",
-    "title": "Number of Ways to Reorder Array to Get Same BST",
-    "titleEn": "Number of Ways to Reorder Array to Get Same BST",
-    "slug": "number-of-ways-to-reorder-array-to-get-same-bst",
-    "difficulty": "Hard",
+    "date": "2026-10-19",
+    "id": "2089",
+    "title": "Find Target Indices After Sorting Array",
+    "titleEn": "Find Target Indices After Sorting Array",
+    "slug": "find-target-indices-after-sorting-array",
+    "difficulty": "Easy",
     "tags": [
       "Array",
-      "Math",
-      "Divide and Conquer",
-      "Dynamic Programming"
+      "Binary Search",
+      "Sorting"
     ],
-    "link": "https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/",
+    "link": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "The Demi-Virgin",
-    "text": "The Demi-Virgin is a three-act play written by Avery Hopwood. Producer Albert H. Woods staged it on Broadway, where it was a hit during the 1921–22 season. The play is a bedroom farce about former couple Gloria Graham and Wally Dean, both movie actors, whose brief marriage causes the press to speculate about whether Gloria is still a virgin. She attempts to seduce Wally when they are forced to reunite for a movie, but after playing along he surprises her by revealing that their divorce is not valid.",
-    "words": 88,
-    "url": "https://en.wikipedia.org/wiki/The_Demi-Virgin",
-    "date": "2026-10-18",
+    "title": "Ancient Cappadocian language",
+    "text": "The ancient Cappadocian language is an unattested language once spoken in antiquity in Cappadocia, a historical region of central Anatolia in modern-day Turkey. There are no known texts written in Cappadocian, although classical Greek writers identified Cappadocian as distinct from Greek, and a few Greek words were attributed to a Cappadocian origin. The language also influenced the pronunciation of Greek spoken by Cappadocians, whose accent was infamous among classical authors, but there is no evidence for a corresponding influence on Greek grammar or vocabulary.",
+    "words": 84,
+    "url": "https://en.wikipedia.org/wiki/Ancient_Cappadocian_language",
+    "date": "2026-10-19",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "[Home Movies: Medicus Collection: \"West 1940\"]",
-    "creator": "",
-    "year": "1940",
-    "url": "https://archive.org/download/0685_HM_Medicus_Collection_West_1940_09_01_00_00/0685_HM_Medicus_Collection_West_1940_09_01_00_00_3mb.mp4",
-    "page": "https://archive.org/details/0685_HM_Medicus_Collection_West_1940_09_01_00_00",
-    "date": "2026-10-18",
+    "title": "Banks and Credit",
+    "creator": "Coronet Instructional Films",
+    "year": "1948",
+    "url": "https://archive.org/download/0537_Banks_and_Credit_19_41_46_04/0537_Banks_and_Credit_19_41_46_04.m4v",
+    "page": "https://archive.org/details/0537_Banks_and_Credit_19_41_46_04",
+    "date": "2026-10-19",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "atone - un an plus tard ep",
-      "artist": "autres_directions",
-      "url": "https://archive.org/download/moulin016/ATONE_Un_An_Plus_Tard_01_Seul_The_Remote_Viewer_Remix.mp3",
-      "page": "https://archive.org/details/moulin016",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+      "title": "сборник шумных репетиций",
+      "artist": "The Room 23",
+      "url": "https://archive.org/download/tr23rep/%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%20%D1%88%D1%83%D0%BC%D0%BD%D1%8B%D1%85%20%D1%80%D0%B5%D0%BF%D0%B5%D1%82%D0%B8%D1%86%D0%B8%D0%B9/2011.02.13%20-%20%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B5%D0%BF%D0%B5%D1%82%D0%B8%D1%86%D0%B8%D1%8F.mp3",
+      "page": "https://archive.org/details/tr23rep",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
     {
-      "title": "[SAR_074].YK Decay - Rasah Do Cangkeman",
-      "artist": "YK Decay",
-      "url": "https://archive.org/download/sar_074.ykDecay-RasahDoCangkeman/01.YkDecaytoHellWithTheUk.mp3",
-      "page": "https://archive.org/details/sar_074.ykDecay-RasahDoCangkeman",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+      "title": "Take Pills Die - 06.08.08 Happy Homeless [tpdm074]",
+      "artist": "Andrew Cauthen",
+      "url": "https://archive.org/download/tpdm074/tpdm074_06.08.08_Happy_Homeless.mp3",
+      "page": "https://archive.org/details/tpdm074",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/"
     },
     {
-      "title": "Vim! - 8-Bitten Break Smitten [mtk054]",
-      "artist": "",
-      "url": "https://archive.org/download/mtk054/mtk054-vim-8-bitten-break-smitten.mp3",
-      "page": "https://archive.org/details/mtk054",
-      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
-    },
-    {
-      "title": "[miniatura048] Marteaux - Kemmer EP",
-      "artist": "",
-      "url": "https://archive.org/download/miniatura048Marteaux-KemmerEp/01-marteaux-Leep.mp3",
-      "page": "https://archive.org/details/miniatura048Marteaux-KemmerEp",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "[MNT104] TERATOCARCINOMA - Clostridium Botulinum",
-      "artist": "Teratocarcinoma",
-      "url": "https://archive.org/download/mnt104/01-teratocarcinoma-delirium_tremens-maquinarianet.mp3",
-      "page": "https://archive.org/details/mnt104",
-      "license": "http://creativecommons.org/licenses/by/2.5/ar/"
-    },
-    {
-      "title": "ses000 - Browne's Edition",
-      "artist": "Browne's Edition",
-      "url": "https://archive.org/download/ses000/ses000_01_brownes_edition_to_kill_a_messenger.mp3",
-      "page": "https://archive.org/details/ses000",
+      "title": "[CDK 012] Spurs Of A Dead Ranger",
+      "artist": "Sparkyboy",
+      "url": "https://archive.org/download/CDK012/01-Uber%20Jungle.mp3",
+      "page": "https://archive.org/details/CDK012",
       "license": "Creative Commons"
     },
     {
-      "title": "Phoenix",
-      "artist": "Shino",
-      "url": "https://archive.org/download/shino_phoenix/01_-_shino_-_blind.mp3",
-      "page": "https://archive.org/details/shino_phoenix",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/de/"
+      "title": "Mystified - Alien Doppler [wh045]",
+      "artist": "Mystified",
+      "url": "https://archive.org/download/wh045b/wh045_mystified_alien_doppler.mp3",
+      "page": "https://archive.org/details/wh045b",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
     },
     {
-      "title": "simulacro: 1997. Escape de Abstractia ep",
-      "artist": "simulacro:",
-      "url": "https://archive.org/download/rlsm03ep/01-simulacro-aterrizaje_en_wtc.mp3",
-      "page": "https://archive.org/details/rlsm03ep",
-      "license": "http://creativecommons.org/licenses/by-sa/2.5/mx/"
-    },
-    {
-      "title": "microbio05 The Human Isolated Bacteria: Cerelac",
-      "artist": "Microbio",
-      "url": "https://archive.org/download/microbio05/m_05-01.mp3",
-      "page": "https://archive.org/details/microbio05",
+      "title": "[GV-255] Eensdenkend - Aeon",
+      "artist": "Eensdenkend",
+      "url": "https://archive.org/download/gv255/01.Eensdenkend-VndorlGondolatszilnkok.mp3",
+      "page": "https://archive.org/details/gv255",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Rosellon",
-      "artist": "",
-      "url": "https://archive.org/download/rosellon/01%20-%20Feedback.mp3",
-      "page": "https://archive.org/details/rosellon",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+      "title": "frei² - magazine for free music at Freies Radio Kassel, radioshow 2007-02-06",
+      "artist": "Robert Bienert",
+      "url": "https://archive.org/download/freihoch2-2007-02-06-FRK-1900/freihoch2-2007-02-06-FRK-1900_vbr.mp3",
+      "page": "https://archive.org/details/freihoch2-2007-02-06-FRK-1900",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/"
     },
     {
-      "title": "[RFR014_CD3] V.A. - 2 Years Rumpfunk-Records",
-      "artist": "all the Rumpfunk-Artists",
-      "url": "https://archive.org/download/rfr014_cd3/rfr014_CD3_01_Frequenzkiller_-_Electrolux.mp3",
-      "page": "https://archive.org/details/rfr014_cd3",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/de/"
+      "title": "King Imagine - AXID (2017) - Cota 303 Label",
+      "artist": "King Imagine",
+      "url": "https://archive.org/download/COTA010/01Morning_Explorer.mp3",
+      "page": "https://archive.org/details/COTA010",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "Andrew Howes - 'Set'",
-      "artist": "Andrew Howes",
-      "url": "https://archive.org/download/sPE_0098/Andrew_Howes_Set_01_Condo.mp3",
-      "page": "https://archive.org/details/sPE_0098",
+      "title": "Bing Satellites - Summer Night [BFW001]",
+      "artist": "BFW Recordings",
+      "url": "https://archive.org/download/BingSatellites-SummerNight_55/101SummerNight.mp3",
+      "page": "https://archive.org/details/BingSatellites-SummerNight_55",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Patchwork on the Blues - 11-4-1 [zufall004]",
+      "artist": "Patchwork on the Blues",
+      "url": "https://archive.org/download/zufall004/01-patchwork_on_the_blues-this_little_girl.mp3",
+      "page": "https://archive.org/details/zufall004",
+      "license": "http://creativecommons.org/licenses/by-nc/2.5/"
+    },
+    {
+      "title": "Cheapmachines - Convergence",
+      "artist": "Cheapmachines",
+      "url": "https://archive.org/download/zero084/01_cm_convergence.mp3",
+      "page": "https://archive.org/details/zero084",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "BS035 6",
+      "artist": "Syrtis Major",
+      "url": "https://archive.org/download/BS035/01-Winters_Clear_Sky.mp3",
+      "page": "https://archive.org/details/BS035",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "[unfound84] ghini-b - endlessly walking",
+      "artist": "ghini-b",
+      "url": "https://archive.org/download/unfound84/unfound84_01_-_ghini-b_-_4am_downtown.mp3",
+      "page": "https://archive.org/details/unfound84",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
     }
   ]
 }
