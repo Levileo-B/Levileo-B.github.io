@@ -1,54 +1,54 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-18T06:36:01.158099+00:00",
-  "attempted_at": "2026-10-18T06:36:01.158099+00:00",
+  "updated": "2026-10-19T06:50:07.587964+00:00",
+  "attempted_at": "2026-10-19T06:50:07.587964+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-10-18T06:36:01.158099+00:00",
+      "last_success": "2026-10-19T06:50:07.587964+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-10-18T06:36:01.158099+00:00",
+      "last_success": "2026-10-19T06:50:07.587964+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-10-18T06:36:01.158099+00:00",
+      "last_success": "2026-10-19T06:50:07.587964+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-10-18T06:36:01.158099+00:00",
+      "last_success": "2026-10-19T06:50:07.587964+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-10-18T06:36:01.158099+00:00",
+      "last_success": "2026-10-19T06:50:07.587964+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-10-18T06:36:01.158099+00:00",
+      "last_success": "2026-10-19T06:50:07.587964+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-10-18T06:36:01.158099+00:00",
+      "last_success": "2026-10-19T06:50:07.587964+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-10-18T06:36:01.158099+00:00",
+      "last_success": "2026-10-19T06:50:07.587964+00:00",
       "errors": []
     }
   ],
@@ -2387,18 +2387,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1016/j.isprsjprs.2026.03.004",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1002/rob.70217",
-      "title": "Visual 3D Spatiotemporal Fields‐Driven Obstacle Avoidance Using Model Predictive Control for Nursing Robots in Unstructured Environments",
-      "journal_id": "jfr",
-      "published": "2026-04-21",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1002/rob.70217",
       "source": "crossref"
     }
   ]
