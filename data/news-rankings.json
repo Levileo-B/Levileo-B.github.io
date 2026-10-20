@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-19T21:06:12+00:00",
-  "updated": "2026-10-19T21:06:12+00:00",
+  "generated_at": "2026-10-20T00:23:48+00:00",
+  "updated": "2026-10-20T00:23:48+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-19T00:00:00+08:00",
-    "end": "2026-10-19T21:06:12+00:00",
-    "total": 175,
+    "end": "2026-10-20T00:23:48+00:00",
+    "total": 204,
     "items": [
       {
         "title": "Wine ported to OpenBSD",
@@ -22,6 +22,22 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+        "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
+        "date": "2026-10-19T16:22:12+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
@@ -131,20 +147,6 @@
         ],
         "sources": [
           "Solidot"
-        ],
-        "source_count": 1,
-        "observed_days": 2
-      },
-      {
-        "title": "A5 v1.0",
-        "link": "https://a5geo.org/blog/2026/10/14/a5-v1",
-        "date": "2026-10-19T13:56:50+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Lobsters"
         ],
         "source_count": 1,
         "observed_days": 2
@@ -352,9 +354,9 @@
           "observed_days": 2
         },
         {
-          "title": "[Mac mini] 求推荐 macmini M4 拓展坞",
-          "link": "https://www.v2ex.com/t/1250160",
-          "date": "2026-10-19T21:02:37+00:00",
+          "title": "[分享创造] 做了个没有一句台词的安卓小游戏：小刺猬帮森林里的小动物解决小麻烦（内测招募）",
+          "link": "https://www.v2ex.com/t/1250169",
+          "date": "2026-10-20T00:22:26+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -366,9 +368,9 @@
           "observed_days": 1
         },
         {
-          "title": "[程序员] 做了一个产品宣传站",
-          "link": "https://www.v2ex.com/t/1250159",
-          "date": "2026-10-19T20:13:35+00:00",
+          "title": "[问与答] 有没有好用的男士粉底液推荐一下？",
+          "link": "https://www.v2ex.com/t/1250168",
+          "date": "2026-10-20T00:18:59+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -380,9 +382,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] [开源] 做了个本地 AI 小说写作工具，把伏笔和正文连起来",
-          "link": "https://www.v2ex.com/t/1250158",
-          "date": "2026-10-19T19:45:15+00:00",
+          "title": "[Apple TV] 2026 年了，国内最优雅的 Apple TV 看有线电视姿势是什么",
+          "link": "https://www.v2ex.com/t/1250167",
+          "date": "2026-10-20T00:11:37+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -394,23 +396,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享发现] 坦桑尼亚首款招聘 APP — Jobsoko 上线半年",
-          "link": "https://www.v2ex.com/t/1250157",
-          "date": "2026-10-19T18:58:39+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Towards Company World Models",
-          "link": "https://www.beaconholdings.com/research/towards-company-world-models",
-          "date": "2026-10-19T18:51:09+00:00",
+          "title": "France's Supermarket Fridges Were Vulnerable Online for Months",
+          "link": "https://ipinfo.io/blog/france-fridges-hack",
+          "date": "2026-10-20T00:00:49+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -422,15 +410,29 @@
           "observed_days": 1
         },
         {
-          "title": "How to continue a GitHub Copilot app session in VS Code",
-          "link": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
-          "date": "2026-10-19T18:47:22+00:00",
+          "title": "Token-maxxing is dead, OpenRouter's token usage plateaus",
+          "link": "https://openrouter.ai/rankings",
+          "date": "2026-10-19T23:40:15+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "GitHub Blog"
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[分享发现] 你会在虚拟机里跑你不信任的代码吗？",
+          "link": "https://www.v2ex.com/t/1250166",
+          "date": "2026-10-19T23:39:39+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -722,6 +724,22 @@
       ],
       "综合": [
         {
+          "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+          "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
+          "date": "2026-10-19T16:22:12+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
           "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo",
           "date": "2026-10-19T15:25:59+00:00",
@@ -834,23 +852,9 @@
           "observed_days": 2
         },
         {
-          "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-          "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o",
-          "date": "2026-10-19T20:49:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-          "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
-          "date": "2026-10-19T16:22:12+00:00",
+          "title": "Five ways El Niño is affecting the weather around the world",
+          "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo",
+          "date": "2026-10-19T23:08:25+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -863,6 +867,22 @@
         }
       ],
       "财经": [
+        {
+          "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+          "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
+          "date": "2026-10-19T16:22:12+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
         {
           "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
           "link": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
@@ -948,6 +968,34 @@
           "observed_days": 2
         },
         {
+          "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
+          "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo",
+          "date": "2026-10-19T23:00:21+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+          "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno",
+          "date": "2026-10-19T21:30:06+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
           "link": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
           "date": "2026-10-19T21:00:02+00:00",
@@ -960,56 +1008,14 @@
           ],
           "source_count": 1,
           "observed_days": 1
-        },
-        {
-          "title": "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real",
-          "link": "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html",
-          "date": "2026-10-19T20:57:14+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
-          "link": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
-          "date": "2026-10-19T19:46:07+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Bikes 'not for jousting,' says Lime after duel video",
-          "link": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo",
-          "date": "2026-10-19T15:44:53+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ]
     }
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-19T21:06:12+00:00",
-    "total": 2503,
+    "end": "2026-10-20T00:23:48+00:00",
+    "total": 2533,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
@@ -1890,9 +1896,9 @@
           "observed_days": 2
         },
         {
-          "title": "US inflation rises more than expected - here's what is happening with prices",
-          "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o",
-          "date": "2026-10-14T15:26:14+00:00",
+          "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+          "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
+          "date": "2026-10-19T16:22:12+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -1906,9 +1912,9 @@
           "observed_days": 1
         },
         {
-          "title": "Saudi employee charged with planting recording device in OpenAI office",
-          "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo",
-          "date": "2026-10-13T21:42:49+00:00",
+          "title": "US inflation rises more than expected - here's what is happening with prices",
+          "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o",
+          "date": "2026-10-14T15:26:14+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -2052,9 +2058,9 @@
           "observed_days": 2
         },
         {
-          "title": "US inflation rises more than expected - here's what is happening with prices",
-          "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o",
-          "date": "2026-10-14T15:26:14+00:00",
+          "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+          "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
+          "date": "2026-10-19T16:22:12+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -2068,9 +2074,9 @@
           "observed_days": 1
         },
         {
-          "title": "Saudi employee charged with planting recording device in OpenAI office",
-          "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo",
-          "date": "2026-10-13T21:42:49+00:00",
+          "title": "US inflation rises more than expected - here's what is happening with prices",
+          "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o",
+          "date": "2026-10-14T15:26:14+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",

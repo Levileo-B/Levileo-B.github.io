@@ -1,125 +1,126 @@
 {
-  "updated": "2026-10-19T21:06:12+00:00",
+  "updated": "2026-10-20T00:23:48+00:00",
   "leetcode": {
-    "date": "2026-10-19",
-    "id": "2089",
-    "title": "Find Target Indices After Sorting Array",
-    "titleEn": "Find Target Indices After Sorting Array",
-    "slug": "find-target-indices-after-sorting-array",
-    "difficulty": "Easy",
+    "date": "2026-10-20",
+    "id": "3886",
+    "title": "Sum of Sortable Integers",
+    "titleEn": "Sum of Sortable Integers",
+    "slug": "sum-of-sortable-integers",
+    "difficulty": "Hard",
     "tags": [
       "Array",
-      "Binary Search",
-      "Sorting"
+      "Math",
+      "Sorting",
+      "Enumeration"
     ],
-    "link": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
+    "link": "https://leetcode.com/problems/sum-of-sortable-integers/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Ancient Cappadocian language",
-    "text": "The ancient Cappadocian language is an unattested language once spoken in antiquity in Cappadocia, a historical region of central Anatolia in modern-day Turkey. There are no known texts written in Cappadocian, although classical Greek writers identified Cappadocian as distinct from Greek, and a few Greek words were attributed to a Cappadocian origin. The language also influenced the pronunciation of Greek spoken by Cappadocians, whose accent was infamous among classical authors, but there is no evidence for a corresponding influence on Greek grammar or vocabulary.",
-    "words": 84,
-    "url": "https://en.wikipedia.org/wiki/Ancient_Cappadocian_language",
-    "date": "2026-10-19",
+    "title": "London Monster",
+    "text": "The London Monster was the name given to an attacker of women in London between 1788 and 1790. Renwick Williams, a Welsh maker of artificial flowers, was arrested for the attacks in June 1790, given two trials and sent to Newgate Prison for six years. The Monster's modus operandi was to verbally abuse women with lewd and suggestive comments and then attack them with a knife, cutting the clothing and slicing into buttocks, thighs or chest. Other forms of attack included having knives attached to his knees, possibly attached as a claw-like device to his hands or having a sharp implement hidden in a nosegay—a small flower bouquet. Over fifty women reported attacks, sometimes several on the same day, including up to six reported attacks in one night. Such was the number of attacks, variety of methods and discrepancies in the descriptions of the attackers, that historians are unsure if the Monster was one man or several.",
+    "words": 157,
+    "url": "https://en.wikipedia.org/wiki/London_Monster",
+    "date": "2026-10-20",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Home movie: 010106: 1930s to 1940s family wedding and working waterfront",
+    "title": "Home Movie: 10398: Salinas Jr. Rodeo, Yosemite, Redwoods, Yellowstone",
     "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/010106_202005/010106.m4v",
-    "page": "https://archive.org/details/010106_202005",
-    "date": "2026-10-19",
+    "year": "1956",
+    "url": "https://archive.org/download/HMSalinasJrRodeo10398/10398.mp4",
+    "page": "https://archive.org/details/HMSalinasJrRodeo10398",
+    "date": "2026-10-20",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Phonic Psychomimesis – ‘The Howling Rectangles‘",
-      "artist": "Phonic Psychomimesis",
-      "url": "https://archive.org/download/sPE_0181/Phonic_Psychomimesis_-_The_Howling_Rectangles_The_Howling_Rectangles.mp3",
-      "page": "https://archive.org/details/sPE_0181",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
-    },
-    {
-      "title": "DIENSTbar @ dfm.nu Transmission No. 255 Special Guest: Many Tentacles Session",
-      "artist": "DIENSTbar",
-      "url": "https://archive.org/download/dbdfmnu255/dbdfmnu255.mp3",
-      "page": "https://archive.org/details/dbdfmnu255",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/"
-    },
-    {
-      "title": "Voltaic Retinue",
-      "artist": "Jazzaria.com",
-      "url": "https://archive.org/download/voltaic-retinue/voltaic-retinue.mp3",
-      "page": "https://archive.org/details/voltaic-retinue",
+      "title": "This Is Not Art",
+      "artist": "Anti Media Foundation & Gypsy & Federico Balducci",
+      "url": "https://archive.org/download/ThisIsNotArt/01%20-%20Oppenheimer%20Freeform%20Backdraft.mp3",
+      "page": "https://archive.org/details/ThisIsNotArt",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "Prrose Sélavy - \"Profunda Femoris Conceived\"",
-      "artist": "Prrose Sélavy",
-      "url": "https://archive.org/download/sPE_0119/Prrose_Selavy_Profunda_Femoris_Conceived.mp3",
-      "page": "https://archive.org/details/sPE_0119",
+      "title": "Thelonia",
+      "artist": "George L Smyth",
+      "url": "https://archive.org/download/Thelonia/Thelonia.mp3",
+      "page": "https://archive.org/details/Thelonia",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Stories Of Life And Love",
+      "artist": "Arzathon (feat. Shanna Dawn)",
+      "url": "https://archive.org/download/StoriesOfLifeAndLove/Arzathon%20%28feat.%20Shanna%20Dawn%29%20-%20Stories%20Of%20Life%20And%20Love%20-%2001%20Dreamers%20Wake.mp3",
+      "page": "https://archive.org/details/StoriesOfLifeAndLove",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "TFR716 - Molting / His Blood - Slippery Inhabitants / His Acid Word",
+      "artist": "Molting / His Blood",
+      "url": "https://archive.org/download/TFR716-MoltingHisBlood-SlipperyInhabitantsHisAcidWord/01-Molting-AmplifiedReproductionOfTheMarshlandDwellingAmphiuma.mp3",
+      "page": "https://archive.org/details/TFR716-MoltingHisBlood-SlipperyInhabitantsHisAcidWord",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "DIENSTbar @ dfm.nu Transmission No. 197 Special Theme: Spiritual Ambient Night",
-      "artist": "DIENSTbar",
-      "url": "https://archive.org/download/dbdfmnu197/dbdfmnu197.mp3",
-      "page": "https://archive.org/details/dbdfmnu197",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "[mm09] Symmetrical evolution",
+      "artist": "Minimal militant",
+      "url": "https://archive.org/download/minimalmilitant09/1SymmetricalEvolution.mp3",
+      "page": "https://archive.org/details/minimalmilitant09",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/se/"
     },
     {
-      "title": "[nws0290] netwaves 08.16: e-waves",
-      "artist": "netwaves",
-      "url": "https://archive.org/download/nws290/01%20Space%20Love%20%28Featuring%20Bries%29.mp3",
-      "page": "https://archive.org/details/nws290",
+      "title": "TFR270 - PlasticBag FaceMask - Peanut-Butter Radio",
+      "artist": "PlasticBag FaceMask",
+      "url": "https://archive.org/download/TFR270-PlasticBagFaceMask-Peanut-ButterRadio/01-TheChampIsHere.mp3",
+      "page": "https://archive.org/details/TFR270-PlasticBagFaceMask-Peanut-ButterRadio",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "CUM 114 - El tío del socavón - EP 2",
-      "artist": "El tí­o del socavón",
-      "url": "https://archive.org/download/cum.114ElToDelTocavn-ElToDelSocavnEp2/01Intoxicadoenamorado.mp3",
-      "page": "https://archive.org/details/cum.114ElToDelTocavn-ElToDelSocavnEp2",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Squirl",
-      "artist": "Concrete Soda",
-      "url": "https://archive.org/download/ex09.squirl/ex_09a.mp3",
-      "page": "https://archive.org/details/ex09.squirl",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
-    },
-    {
-      "title": "Binary - Binatone [mtk036]",
+      "title": "RR.124 - the richter execution - hey there, mr. richter",
       "artist": "",
-      "url": "https://archive.org/download/mtk036/mtk036-binary-01-vienna-gigolo.mp3",
-      "page": "https://archive.org/details/mtk036",
-      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
-    },
-    {
-      "title": "[miniatura048] Marteaux - Kemmer EP",
-      "artist": "",
-      "url": "https://archive.org/download/miniatura048Marteaux-KemmerEp/01-marteaux-Leep.mp3",
-      "page": "https://archive.org/details/miniatura048Marteaux-KemmerEp",
+      "url": "https://archive.org/download/TheRichterExecution_HeyThereMrRichter/01ThereHasToBeAHole.mp3",
+      "page": "https://archive.org/details/TheRichterExecution_HeyThereMrRichter",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "[ENDE473] Hyperex Machina - The Aesthetics Of Salvation",
+      "title": "The Wounded Meadow - Celestial Silence EP",
+      "artist": "Johan Levin, Daniel Nilsson, Fredrik Rydberg, Lars TÃ¤ngmark",
+      "url": "https://archive.org/download/TheWoundedMeadow-CelestialSilenceEp_493/TheWoundedMeadow-CelestialSilenceEp-01-CelestialSilence.mp3",
+      "page": "https://archive.org/details/TheWoundedMeadow-CelestialSilenceEp_493",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/"
+    },
+    {
+      "title": "tng1035 Marc McNulty - Minumism",
       "artist": "",
-      "url": "https://archive.org/download/ende473-hyperex-machina-the-aestehtics-of-salvation/01%20-%20Hyperex%20Machina%20-%20part%201.mp3",
-      "page": "https://archive.org/details/ende473-hyperex-machina-the-aestehtics-of-salvation",
+      "url": "https://archive.org/download/Tng1035MarcMcnulty-Minumism/tng1035_01_elenime.mp3",
+      "page": "https://archive.org/details/Tng1035MarcMcnulty-Minumism",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "[TAN035] senselessness - ASTR",
+      "artist": "Mad God",
+      "url": "https://archive.org/download/TAN035/ASTR1.mp3",
+      "page": "https://archive.org/details/TAN035",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+    },
+    {
+      "title": "$up - Gimme 6",
+      "artist": "Sup",
+      "url": "https://archive.org/download/Sup-Gimme6/01%20-%20High%20or%20Dry.mp3",
+      "page": "https://archive.org/details/Sup-Gimme6",
       "license": "Creative Commons"
     },
     {
-      "title": "[ENDE190] Dark Matter Project - Uno",
-      "artist": "",
-      "url": "https://archive.org/download/ende190-dark-matter-project-uno/01%20-%20Dark%20Matter%20Project%20-%20Part%20I.mp3",
-      "page": "https://archive.org/details/ende190-dark-matter-project-uno",
-      "license": "Creative Commons"
+      "title": "Disco Romancin' - The Way That You Love Me (TDCDV004)",
+      "artist": "Disco Romancin'",
+      "url": "https://archive.org/download/TDCDV004/01%20-%20The%20Way%20That%20You%20Love%20Me.mp3",
+      "page": "https://archive.org/details/TDCDV004",
+      "license": "http://creativecommons.org/licenses/by-sa/3.0/"
     }
   ]
 }
