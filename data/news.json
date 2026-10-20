@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T11:43:34+00:00",
+  "updated": "2026-10-20T17:12:50+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -7,14 +7,14 @@
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
         {
+          "title": "朝鮮發佈金正恩照片：為何他的死亡傳言總是捲土重來？",
+          "link": "https://www.bbc.com/zhongwen/articles/cm4g1zr53y80o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-20T14:58:04+00:00"
+        },
+        {
           "title": "普京提議中美俄「三方會談」：特朗普響應，北京未表態，基輔反對",
           "link": "https://www.bbc.com/zhongwen/articles/cmlyl0j445peo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-20T08:40:09+00:00"
-        },
-        {
-          "title": "美國下令政府系統禁用DeepSeek：中美AI競爭繼續升溫",
-          "link": "https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-20T07:42:45+00:00"
         },
         {
           "title": "香港演員鍾雪瑩、袁澧林發聲之後，她們親述被性別冒犯的經歷",
@@ -22,14 +22,14 @@
           "date": "2026-10-20T04:37:42+00:00"
         },
         {
+          "title": "美國下令政府系統禁用DeepSeek：中美AI競爭繼續升溫",
+          "link": "https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-20T07:42:45+00:00"
+        },
+        {
           "title": "法國騷亂：巴黎局部宵禁 被劫商品現身二手平台",
           "link": "https://www.bbc.com/zhongwen/articles/cwp9g811d5ydo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-20T02:47:44+00:00"
-        },
-        {
-          "title": "緬甸軍政府：英王查爾斯贈書昂山素季",
-          "link": "https://www.bbc.com/zhongwen/articles/cmd93yyzx2g8o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-20T09:20:03+00:00"
         }
       ]
     },
@@ -39,9 +39,14 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
+          "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
           "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-20T11:30:59+00:00"
+          "date": "2026-10-20T16:11:56+00:00"
+        },
+        {
+          "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+          "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-20T12:08:06+00:00"
         },
         {
           "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
@@ -49,19 +54,14 @@
           "date": "2026-10-20T11:25:35+00:00"
         },
         {
-          "title": "Suspect arrested after historic town hall set alight during disorder - French media",
-          "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-20T08:58:26+00:00"
+          "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+          "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-20T16:09:54+00:00"
         },
         {
-          "title": "Seventh day of violent clashes between Albanian protesters and police",
-          "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-20T02:45:05+00:00"
-        },
-        {
-          "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
-          "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-20T03:10:39+00:00"
+          "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-20T16:59:06+00:00"
         }
       ]
     },
@@ -70,6 +70,16 @@
       "category": "财经",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
+        {
+          "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+          "link": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-20T15:53:13+00:00"
+        },
+        {
+          "title": "Union attacks NatWest plans to get workers back to the office",
+          "link": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-20T14:50:19+00:00"
+        },
         {
           "title": "Jobless rate falls but small firms cut back hiring",
           "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
@@ -84,16 +94,6 @@
           "title": "Burnham vows end to 'rip-off parking charges' under new rules",
           "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-20T08:55:02+00:00"
-        },
-        {
-          "title": "'I'm fed up of swiping': The singles choosing dating events over apps",
-          "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-20T10:28:36+00:00"
-        },
-        {
-          "title": "How is the US economy really doing under President Trump?",
-          "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-20T05:00:45+00:00"
         }
       ]
     },
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-          "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-          "date": "2026-10-20T11:41:09+00:00"
+          "title": "September data shows housing market in a deep freeze",
+          "link": "https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html",
+          "date": "2026-10-20T14:18:58+00:00"
         },
         {
-          "title": "Walmart launches joint membership with Sam's Club as it leans into delivery, gas discounts",
-          "link": "https://www.cnbc.com/2026/10/20/walmart-sams-club-plus-membership.html",
-          "date": "2026-10-20T10:00:01+00:00"
+          "title": "Trump sued over 50% tariffs on Canada in latest trade challenge",
+          "link": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
+          "date": "2026-10-20T16:43:42+00:00"
         },
         {
-          "title": "U.S. oil surges to top $109, Brent crude at five-month high amid Mideast tensions",
-          "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
-          "date": "2026-10-20T11:19:45+00:00"
+          "title": "Investors look to earnings to reset the bull market. The key level to watch on the S&P 500",
+          "link": "https://www.cnbc.com/2026/10/20/santoli-key-sp-500-level-to-watch.html",
+          "date": "2026-10-20T12:52:29+00:00"
         },
         {
-          "title": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
-          "link": "https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html",
-          "date": "2026-10-20T11:00:01+00:00"
+          "title": "Here's what to expect when Netflix reports earnings after the bell",
+          "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+          "date": "2026-10-20T16:00:01+00:00"
         },
         {
-          "title": "Zelenskyy to meet with U.S. envoy as tensions with Trump mount",
-          "link": "https://www.cnbc.com/2026/10/20/zelenskyy-witkoff-trump-ukraine-russia.html",
-          "date": "2026-10-20T10:30:49+00:00"
+          "title": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
+          "link": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
+          "date": "2026-10-20T14:12:38+00:00"
         }
       ]
     },
@@ -167,6 +167,11 @@
       "url": "https://www.ifanr.com/feed",
       "items": [
         {
+          "title": "从一句话到一个能玩的世界，VAST 把整条链路开源了",
+          "link": "https://www.ifanr.com/1685059?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-10-20T14:13:34+00:00"
+        },
+        {
           "title": "押注记忆原生，MemT 1.0 破局养成系 AI 下半场",
           "link": "https://www.ifanr.com/1684997?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-10-20T03:57:44+00:00"
@@ -185,11 +190,6 @@
           "title": "早报｜苹果定档下周发布新品，触屏MacBook Pro或将亮相/华为苹果拿下中国手机四成份额/杨立昆锐评特斯拉飞车，马斯克：放屁",
           "link": "https://www.ifanr.com/1684957?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-10-20T00:07:06+00:00"
-        },
-        {
-          "title": "苹果第一个 AI 机器人，可能是个能动的 HomeView",
-          "link": "https://www.ifanr.com/1684921?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-10-19T10:09:25+00:00"
         }
       ]
     },
@@ -199,29 +199,29 @@
       "url": "https://www.solidot.org/index.rss",
       "items": [
         {
+          "title": "字节阿里腾讯订购了逾 350 亿美元的 RTX PRO 5500 显卡",
+          "link": "https://www.solidot.org/story?sid=85668",
+          "date": "2026-10-20T15:55:15+00:00"
+        },
+        {
+          "title": "AI slop 游戏充斥着 Steam 新品节",
+          "link": "https://www.solidot.org/story?sid=85667",
+          "date": "2026-10-20T15:33:08+00:00"
+        },
+        {
+          "title": "十分之一 Tor 出口节点被用于发动中间人攻击",
+          "link": "https://www.solidot.org/story?sid=85666",
+          "date": "2026-10-20T15:22:58+00:00"
+        },
+        {
+          "title": "OpenBSD 8.0 释出",
+          "link": "https://www.solidot.org/story?sid=85665",
+          "date": "2026-10-20T14:58:59+00:00"
+        },
+        {
           "title": "法国超市联网制冷设备存在漏洞长达数月之久",
           "link": "https://www.solidot.org/story?sid=85664",
           "date": "2026-10-20T10:24:19+00:00"
-        },
-        {
-          "title": "四分之一数据中心位于水资源受限的区域",
-          "link": "https://www.solidot.org/story?sid=85663",
-          "date": "2026-10-20T09:02:49+00:00"
-        },
-        {
-          "title": "涉嫌监听 OpenAI 高管的沙特籍工程师手机上有名为 Saudi Gov Docs 的文件夹",
-          "link": "https://www.solidot.org/story?sid=85662",
-          "date": "2026-10-20T08:30:33+00:00"
-        },
-        {
-          "title": "日本成功发射火星卫星探测器",
-          "link": "https://www.solidot.org/story?sid=85661",
-          "date": "2026-10-20T08:00:36+00:00"
-        },
-        {
-          "title": "挪威公司提议铺设绕过美国的海底光缆",
-          "link": "https://www.solidot.org/story?sid=85660",
-          "date": "2026-10-20T07:53:05+00:00"
         }
       ]
     },
@@ -231,29 +231,29 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
-          "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
-          "link": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
-          "date": "2026-10-20T10:16:47+00:00"
+          "title": "Chrome will now show a warning before you visit ‘suspicious’ sites",
+          "link": "https://www.theverge.com/tech/1014446/google-chrome-suspicious-website-warning",
+          "date": "2026-10-20T17:09:06+00:00"
         },
         {
-          "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
-          "link": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
-          "date": "2026-10-19T18:12:45+00:00"
+          "title": "AMD is bringing FSR 4.1 to Xbox consoles and handhelds",
+          "link": "https://www.theverge.com/news/1014455/amd-fsr-4-1-xbox-consoles-handhelds-laptops",
+          "date": "2026-10-20T16:34:06+00:00"
         },
         {
-          "title": "Elon Musk’s proposed SpaceX stock giveaway would go into &#8216;Trump Accounts&#8217;",
-          "link": "https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account",
-          "date": "2026-10-19T22:30:42+00:00"
+          "title": "Arturia’s MiniFreak 49 makes its Freak synths more professional",
+          "link": "https://www.theverge.com/gadgets/1014255/arturias-minifreak-49-synthesizer",
+          "date": "2026-10-20T14:10:58+00:00"
         },
         {
-          "title": "The fossil fuel comeback is here",
-          "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
-          "date": "2026-10-19T21:48:01+00:00"
+          "title": "The Gospel according to Peter (Thiel)",
+          "link": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
+          "date": "2026-10-20T15:39:16+00:00"
         },
         {
-          "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-          "date": "2026-10-20T10:26:38+00:00"
+          "title": "Over $963,000 worth of graded Pokémon and sports cards were stolen from FedEx",
+          "link": "https://www.theverge.com/entertainment/1014276/professional-sports-authenticator-psa-stolen-graded-sports-pokemon-cards-fedex",
+          "date": "2026-10-20T15:31:24+00:00"
         }
       ]
     },
@@ -262,6 +262,11 @@
       "category": "科技",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+          "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+          "date": "2026-10-20T12:33:13+00:00"
+        },
         {
           "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
           "link": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
@@ -281,43 +286,6 @@
           "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
           "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
           "date": "2026-10-19T20:54:17+00:00"
-        },
-        {
-          "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-          "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-          "date": "2026-10-19T20:21:53+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Hacker News",
-      "category": "开发",
-      "url": "https://hnrss.org/frontpage?count=10",
-      "items": [
-        {
-          "title": "Google cloud outage takes down banks",
-          "link": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
-          "date": "2026-10-20T10:26:02+00:00"
-        },
-        {
-          "title": "Revolut down as users report app not working",
-          "link": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
-          "date": "2026-10-20T09:54:48+00:00"
-        },
-        {
-          "title": "DeepSeek just open-sourced its inference engine",
-          "link": "https://github.com/deepseek-ai/DeepInfer",
-          "date": "2026-10-20T09:08:54+00:00"
-        },
-        {
-          "title": "Fizzpoker – No-login Online Poker with friends",
-          "link": "https://www.fizzpoker.com",
-          "date": "2026-10-20T08:55:50+00:00"
-        },
-        {
-          "title": "There is no official XScreenSaver GitHub repository",
-          "link": "https://github.com/xscreensaver-official/xscreensaver",
-          "date": "2026-10-20T08:51:31+00:00"
         }
       ]
     },
@@ -327,19 +295,14 @@
       "url": "https://lobste.rs/rss",
       "items": [
         {
+          "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
+          "link": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
+          "date": "2026-10-20T13:00:50+00:00"
+        },
+        {
           "title": "Updates to site guidelines and AI/LLM tags",
           "link": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
           "date": "2026-10-19T01:28:53+00:00"
-        },
-        {
-          "title": "OpenBSD 8.0",
-          "link": "https://www.openbsd.org/80.html",
-          "date": "2026-10-20T01:46:00+00:00"
-        },
-        {
-          "title": "Wine ported to OpenBSD",
-          "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-          "date": "2026-10-19T14:44:02+00:00"
         },
         {
           "title": "Setting up SSH keys on macOS with Touch ID",
@@ -347,9 +310,14 @@
           "date": "2026-10-20T10:23:58+00:00"
         },
         {
-          "title": "Do web components have a future if nobody is writing them?",
-          "link": "https://nolanlawson.com/2026/10/19/do-web-components-have-a-future-if-nobody-is-writing-them/",
-          "date": "2026-10-20T00:41:18+00:00"
+          "title": "OpenBSD 8.0",
+          "link": "https://www.openbsd.org/80.html",
+          "date": "2026-10-20T01:46:00+00:00"
+        },
+        {
+          "title": "Jepsen: Orkes Conductor 5.3.2",
+          "link": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
+          "date": "2026-10-20T13:14:54+00:00"
         }
       ]
     },
@@ -359,29 +327,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[问与答] 有没有一款这样的 app",
-          "link": "https://www.v2ex.com/t/1250409#reply0",
-          "date": "2026-10-20T11:38:53+00:00"
+          "title": "[程序员] 你们用过苹果的轻应用吗？",
+          "link": "https://www.v2ex.com/t/1250468#reply4",
+          "date": "2026-10-20T16:44:51+00:00"
         },
         {
-          "title": "[分享发现] 刚 pdd 买了个小米 nas 8t 2599",
-          "link": "https://www.v2ex.com/t/1250408#reply0",
-          "date": "2026-10-20T11:37:26+00:00"
+          "title": "[问与答] 我发现很多人都迷之自信的认为， AI 不会取代自己的能力。",
+          "link": "https://www.v2ex.com/t/1250467#reply4",
+          "date": "2026-10-20T16:38:45+00:00"
         },
         {
-          "title": "[程序员] antigravity 有人用么",
-          "link": "https://www.v2ex.com/t/1250406#reply3",
-          "date": "2026-10-20T11:25:31+00:00"
+          "title": "[程序员] 不知道大家是对 matt pocock 特别感兴趣，还是对 spec 驱动开发痛恨，这个视频一下就火了",
+          "link": "https://www.v2ex.com/t/1250466#reply2",
+          "date": "2026-10-20T16:19:34+00:00"
         },
         {
-          "title": "[程序员] codex 为什么这么慢啊？",
-          "link": "https://www.v2ex.com/t/1250405#reply5",
-          "date": "2026-10-20T11:23:12+00:00"
+          "title": "[分享创造] 做了个双人 AI 跳舞小项目：本人四肢不协调，但照片可以先出道",
+          "link": "https://www.v2ex.com/t/1250465#reply0",
+          "date": "2026-10-20T16:18:56+00:00"
         },
         {
-          "title": "[程序员] opencode go 怎么看着这么不靠谱",
-          "link": "https://www.v2ex.com/t/1250404#reply7",
-          "date": "2026-10-20T11:08:42+00:00"
+          "title": "[问与答] 不得不吐槽某为，现在双十一想买个平板是真费劲",
+          "link": "https://www.v2ex.com/t/1250464#reply2",
+          "date": "2026-10-20T16:14:07+00:00"
         }
       ]
     },
@@ -423,6 +391,11 @@
       "url": "https://github.blog/feed/",
       "items": [
         {
+          "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+          "link": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+          "date": "2026-10-20T16:05:03+00:00"
+        },
+        {
           "title": "How to continue a GitHub Copilot app session in VS Code",
           "link": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
           "date": "2026-10-19T18:47:22+00:00"
@@ -441,11 +414,6 @@
           "title": "GitHub availability report: September 2026",
           "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
           "date": "2026-10-14T20:01:35+00:00"
-        },
-        {
-          "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
-          "link": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
-          "date": "2026-10-14T19:11:33+00:00"
         }
       ]
     },
@@ -541,6 +509,21 @@
       "url": "https://www.technologyreview.com/feed/",
       "items": [
         {
+          "title": "The new economics of enterprise AI",
+          "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+          "date": "2026-10-20T15:20:25+00:00"
+        },
+        {
+          "title": "The Download: the claim shaking up AI and the internet’s agent problem",
+          "link": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
+          "date": "2026-10-20T12:10:00+00:00"
+        },
+        {
+          "title": "AI adoption by industry shows what other sectors can learn",
+          "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+          "date": "2026-10-20T12:00:00+00:00"
+        },
+        {
           "title": "How to study a swiftly melting climate disaster",
           "link": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
           "date": "2026-10-20T10:00:00+00:00"
@@ -549,21 +532,38 @@
           "title": "A visit to Samsung’s massive new semiconductor hub",
           "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
           "date": "2026-10-20T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Nature",
+      "category": "科研",
+      "url": "https://www.nature.com/nature.rss",
+      "items": [
+        {
+          "title": "Is it ‘moon-stroke’, or a chill?",
+          "link": "https://www.nature.com/articles/d41586-026-02975-7",
+          "date": "2026-10-20T00:00:00+00:00"
         },
         {
-          "title": "These startups hope “blended” food will cut our appetite for red meat",
-          "link": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/",
-          "date": "2026-10-20T09:00:00+00:00"
+          "title": "Bundle water safeguards into critical-mineral licences",
+          "link": "https://www.nature.com/articles/d41586-026-03353-z",
+          "date": "2026-10-20T00:00:00+00:00"
         },
         {
-          "title": "Making the internet better for AI agents might make it worse for everyone else",
-          "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-          "date": "2026-10-19T18:22:47+00:00"
+          "title": "Nobel-prizewinning breakthroughs can emerge from neglected organisms",
+          "link": "https://www.nature.com/articles/d41586-026-03351-1",
+          "date": "2026-10-20T00:00:00+00:00"
         },
         {
-          "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-          "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-          "date": "2026-10-19T17:45:55+00:00"
+          "title": "Conservation planning should follow animal clocks",
+          "link": "https://www.nature.com/articles/d41586-026-03354-y",
+          "date": "2026-10-20T00:00:00+00:00"
+        },
+        {
+          "title": "Europe and the rest of the world must come up with an answer to US science strategy",
+          "link": "https://www.nature.com/articles/d41586-026-03352-0",
+          "date": "2026-10-20T00:00:00+00:00"
         }
       ]
     },
@@ -573,36 +573,36 @@
       "url": "https://www.sciencedaily.com/rss/all.xml",
       "items": [
         {
-          "title": "Just 3,000 steps a day may help slow Alzheimer's, scientists find",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261018205058.htm",
-          "date": "2026-10-19T11:23:26+00:00"
+          "title": "Scientists finally uncover why statins can cause muscle pain",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm",
+          "date": "2026-10-20T13:00:56+00:00"
         },
         {
-          "title": "Alaska’s monster tsunami sent water 1,580 feet up a mountain",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261018205047.htm",
-          "date": "2026-10-19T13:09:18+00:00"
+          "title": "Hurricane warning maps are improving, but a dangerous problem remains",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261019093443.htm",
+          "date": "2026-10-20T12:49:51+00:00"
         },
         {
-          "title": "Why some people escape Alzheimer’s despite carrying a high-risk gene",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261018205044.htm",
-          "date": "2026-10-19T12:57:02+00:00"
+          "title": "Astronomers uncover new secrets of the Universe’s first five minutes",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261019093442.htm",
+          "date": "2026-10-20T12:34:15+00:00"
         },
         {
-          "title": "Something strange is happening beneath a volcano near 2 million people",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261018205039.htm",
-          "date": "2026-10-19T12:35:09+00:00"
+          "title": "Scientists discover a surprising link between vitamin C and cancer survival",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261019093437.htm",
+          "date": "2026-10-20T04:21:35+00:00"
         },
         {
-          "title": "Scientists win 2026 Nobel Prize for controlling brain cells with light",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm",
-          "date": "2026-10-19T10:02:32+00:00"
+          "title": "Scientists discover a bizarre Jurassic “squid” unlike anything ever seen",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261019093434.htm",
+          "date": "2026-10-20T12:20:44+00:00"
         }
       ]
     }
   ],
   "failed": [
     "36 氪",
-    "酷壳",
-    "Nature"
+    "Hacker News",
+    "酷壳"
   ]
 }
