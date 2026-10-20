@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-20T00:23:48+00:00",
-  "updated": "2026-10-20T00:23:48+00:00",
+  "generated_at": "2026-10-20T06:04:41+00:00",
+  "updated": "2026-10-20T06:04:41+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-19T00:00:00+08:00",
-    "end": "2026-10-20T00:23:48+00:00",
-    "total": 204,
+    "end": "2026-10-20T06:04:41+00:00",
+    "total": 237,
     "items": [
       {
         "title": "Wine ported to OpenBSD",
@@ -22,6 +22,21 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "OpenBSD 8.0",
+        "link": "https://www.openbsd.org/80.html",
+        "date": "2026-10-20T01:46:00+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
@@ -136,20 +151,6 @@
         ],
         "source_count": 1,
         "observed_days": 2
-      },
-      {
-        "title": "ESA Hera 探测器准备飞越 DART 撞击的小行星",
-        "link": "https://www.solidot.org/story?sid=85652",
-        "date": "2026-10-19T13:59:09+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "Solidot"
-        ],
-        "source_count": 1,
-        "observed_days": 2
       }
     ],
     "by_category": {
@@ -164,6 +165,34 @@
           ],
           "sources": [
             "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+          "link": "https://www.qbitai.com/2026/10/504266.html",
+          "date": "2026-10-19T10:27:39+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "全栈自研！国产高端互连芯片，稳了!",
+          "link": "https://www.qbitai.com/2026/10/504225.html",
+          "date": "2026-10-19T10:15:19+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -197,6 +226,20 @@
           "observed_days": 2
         },
         {
+          "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+          "link": "https://www.qbitai.com/2026/10/504314.html",
+          "date": "2026-10-20T01:09:43+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Making the internet better for AI agents might make it worse for everyone else",
           "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
           "date": "2026-10-19T18:22:47+00:00",
@@ -225,9 +268,9 @@
           "observed_days": 1
         },
         {
-          "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
-          "link": "https://www.qbitai.com/2026/10/504266.html",
-          "date": "2026-10-19T10:27:39+00:00",
+          "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
+          "link": "https://www.qbitai.com/2026/10/504277.html",
+          "date": "2026-10-19T14:33:26+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -239,57 +282,15 @@
           "observed_days": 1
         },
         {
-          "title": "全栈自研！国产高端互连芯片，稳了!",
-          "link": "https://www.qbitai.com/2026/10/504225.html",
-          "date": "2026-10-19T10:15:19+00:00",
+          "title": "通研院孵化的团队，也盯上了RSI",
+          "link": "https://www.qbitai.com/2026/10/504294.html",
+          "date": "2026-10-19T14:31:12+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
           ],
           "sources": [
             "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "AI 开始挑战最复杂的系统：生命",
-          "link": "https://www.qbitai.com/2026/10/504242.html",
-          "date": "2026-10-19T10:04:18+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "达摩院玄铁出席RISC-V中国峰会，首发车规产品路线图",
-          "link": "https://www.qbitai.com/2026/10/504238.html",
-          "date": "2026-10-19T09:56:38+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "How far can we push computing?",
-          "link": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
-          "date": "2026-10-19T09:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -310,6 +311,21 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "OpenBSD 8.0",
+          "link": "https://www.openbsd.org/80.html",
+          "date": "2026-10-20T01:46:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "A5 v1.0",
@@ -354,9 +370,9 @@
           "observed_days": 2
         },
         {
-          "title": "[分享创造] 做了个没有一句台词的安卓小游戏：小刺猬帮森林里的小动物解决小麻烦（内测招募）",
-          "link": "https://www.v2ex.com/t/1250169",
-          "date": "2026-10-20T00:22:26+00:00",
+          "title": "[OpenAI] 所以 Day 15 就这样结束了吗？",
+          "link": "https://www.v2ex.com/t/1250289",
+          "date": "2026-10-20T06:03:23+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -368,9 +384,9 @@
           "observed_days": 1
         },
         {
-          "title": "[问与答] 有没有好用的男士粉底液推荐一下？",
-          "link": "https://www.v2ex.com/t/1250168",
-          "date": "2026-10-20T00:18:59+00:00",
+          "title": "[Apple] Apple ID 的重置如果是登录很久的设备是不是不需要密码",
+          "link": "https://www.v2ex.com/t/1250287",
+          "date": "2026-10-20T06:01:25+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -382,9 +398,9 @@
           "observed_days": 1
         },
         {
-          "title": "[Apple TV] 2026 年了，国内最优雅的 Apple TV 看有线电视姿势是什么",
-          "link": "https://www.v2ex.com/t/1250167",
-          "date": "2026-10-20T00:11:37+00:00",
+          "title": "[AI Agent 智能体] AI 写的 code 越来越多，这已经没办法 review 了啊，只能再靠 AI review 了吗",
+          "link": "https://www.v2ex.com/t/1250286",
+          "date": "2026-10-20T06:01:18+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -396,37 +412,23 @@
           "observed_days": 1
         },
         {
-          "title": "France's Supermarket Fridges Were Vulnerable Online for Months",
-          "link": "https://ipinfo.io/blog/france-fridges-hack",
-          "date": "2026-10-20T00:00:49+00:00",
+          "title": "[推广] Day of the Dead Pet AI：一张宠物照片生成亡灵节纪念视频（$9.9 起）",
+          "link": "https://www.v2ex.com/t/1250285",
+          "date": "2026-10-20T06:00:07+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "Hacker News"
+            "V2EX"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Token-maxxing is dead, OpenRouter's token usage plateaus",
-          "link": "https://openrouter.ai/rankings",
-          "date": "2026-10-19T23:40:15+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[分享发现] 你会在虚拟机里跑你不信任的代码吗？",
-          "link": "https://www.v2ex.com/t/1250166",
-          "date": "2026-10-19T23:39:39+00:00",
+          "title": "[问与答] Cursor Pro 新老套餐",
+          "link": "https://www.v2ex.com/t/1250284",
+          "date": "2026-10-20T05:56:44+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -852,15 +854,15 @@
           "observed_days": 2
         },
         {
-          "title": "Five ways El Niño is affecting the weather around the world",
-          "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo",
-          "date": "2026-10-19T23:08:25+00:00",
+          "title": "香港演員鍾雪瑩、袁澧林發聲之後，她們親述被性別冒犯的經歷",
+          "link": "https://www.bbc.com/zhongwen/articles/cqly0v0xnxdvo/trad",
+          "date": "2026-10-20T04:37:42+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
           ],
           "sources": [
-            "BBC World"
+            "BBC 中文"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -968,9 +970,9 @@
           "observed_days": 2
         },
         {
-          "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
-          "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo",
-          "date": "2026-10-19T23:00:21+00:00",
+          "title": "How is the US economy really doing under President Trump?",
+          "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o",
+          "date": "2026-10-20T05:00:45+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -982,23 +984,23 @@
           "observed_days": 1
         },
         {
-          "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-          "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno",
-          "date": "2026-10-19T21:30:06+00:00",
+          "title": "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricultural stocks lower",
+          "link": "https://www.cnbc.com/2026/10/20/singapore-haze-shanmugam-indonesia-malaysia.html",
+          "date": "2026-10-20T04:48:52+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
           ],
           "sources": [
-            "BBC Business"
+            "CNBC"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
-          "link": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
-          "date": "2026-10-19T21:00:02+00:00",
+          "title": "BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor bids top $26 billion",
+          "link": "https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html",
+          "date": "2026-10-20T02:44:35+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1014,8 +1016,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-20T00:23:48+00:00",
-    "total": 2533,
+    "end": "2026-10-20T06:04:41+00:00",
+    "total": 2566,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
