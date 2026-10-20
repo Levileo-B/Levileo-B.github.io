@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-20T17:12:50+00:00",
-  "updated": "2026-10-20T17:12:50+00:00",
+  "generated_at": "2026-10-20T20:38:45+00:00",
+  "updated": "2026-10-20T20:38:45+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-19T00:00:00+08:00",
-    "end": "2026-10-20T17:12:50+00:00",
-    "total": 318,
+    "end": "2026-10-20T20:38:45+00:00",
+    "total": 346,
     "items": [
       {
         "title": "OpenBSD 8.0",
@@ -398,9 +398,23 @@
           "observed_days": 2
         },
         {
-          "title": "[程序员] 你们用过苹果的轻应用吗？",
-          "link": "https://www.v2ex.com/t/1250468",
-          "date": "2026-10-20T16:44:51+00:00",
+          "title": "On AI writing",
+          "link": "https://www.bolkunov.com/p/on-ai-writing",
+          "date": "2026-10-20T19:55:11+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[推广] 做了个积分能换域名、邮箱的论坛，结果小游戏越塞越多了",
+          "link": "https://www.v2ex.com/t/1250471",
+          "date": "2026-10-20T19:12:42+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -412,29 +426,15 @@
           "observed_days": 1
         },
         {
-          "title": "[问与答] 我发现很多人都迷之自信的认为， AI 不会取代自己的能力。",
-          "link": "https://www.v2ex.com/t/1250467",
-          "date": "2026-10-20T16:38:45+00:00",
+          "title": "SimCity, but with Permits",
+          "link": "https://permit.petercai.com/",
+          "date": "2026-10-20T18:29:09+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[程序员] 不知道大家是对 matt pocock 特别感兴趣，还是对 spec 驱动开发痛恨，这个视频一下就火了",
-          "link": "https://www.v2ex.com/t/1250466",
-          "date": "2026-10-20T16:19:34+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
+            "Hacker News"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -1016,8 +1016,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-20T17:12:50+00:00",
-    "total": 2647,
+    "end": "2026-10-20T20:38:45+00:00",
+    "total": 2675,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
