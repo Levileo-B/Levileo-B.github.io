@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-20T20:38:45+00:00",
-  "updated": "2026-10-20T20:38:45+00:00",
+  "generated_at": "2026-10-20T23:55:22+00:00",
+  "updated": "2026-10-20T23:55:22+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-19T00:00:00+08:00",
-    "end": "2026-10-20T20:38:45+00:00",
-    "total": 346,
+    "end": "2026-10-20T23:55:22+00:00",
+    "total": 369,
     "items": [
       {
         "title": "OpenBSD 8.0",
@@ -125,7 +125,7 @@
         "observed_days": 2
       },
       {
-        "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+        "title": "Man charged with attack on Australia MP to face court",
         "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno",
         "date": "2026-10-20T11:25:35+00:00",
         "date_is_observed": false,
@@ -398,23 +398,9 @@
           "observed_days": 2
         },
         {
-          "title": "On AI writing",
-          "link": "https://www.bolkunov.com/p/on-ai-writing",
-          "date": "2026-10-20T19:55:11+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[推广] 做了个积分能换域名、邮箱的论坛，结果小游戏越塞越多了",
-          "link": "https://www.v2ex.com/t/1250471",
-          "date": "2026-10-20T19:12:42+00:00",
+          "title": "[分享创造] [开源] 不想再为小达人点读笔装 30GB 虚拟机，借助 Codex 搓了个 Mac 客户端",
+          "link": "https://www.v2ex.com/t/1250474",
+          "date": "2026-10-20T23:24:18+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -426,15 +412,29 @@
           "observed_days": 1
         },
         {
-          "title": "SimCity, but with Permits",
-          "link": "https://permit.petercai.com/",
-          "date": "2026-10-20T18:29:09+00:00",
+          "title": "The Other Epidemic: Trying to get off benzodiazepines",
+          "link": "https://www.thebeliever.net/the-other-epidemic/",
+          "date": "2026-10-20T23:04:09+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
             "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[推广] [Apixo] GLM-5.3 仅官方 0.1 倍率｜ DeepSeek $0.04/M｜一个 Key 调用 30+ 模型｜留 ID 送 500 万 tokens",
+          "link": "https://www.v2ex.com/t/1250473",
+          "date": "2026-10-20T22:46:34+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -756,7 +756,7 @@
           "observed_days": 2
         },
         {
-          "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+          "title": "Man charged with attack on Australia MP to face court",
           "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno",
           "date": "2026-10-20T11:25:35+00:00",
           "date_is_observed": false,
@@ -1016,8 +1016,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-20T20:38:45+00:00",
-    "total": 2675,
+    "end": "2026-10-20T23:55:22+00:00",
+    "total": 2698,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
