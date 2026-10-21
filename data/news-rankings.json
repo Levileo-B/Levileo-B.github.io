@@ -1,13 +1,28 @@
 {
-  "generated_at": "2026-10-21T04:54:15+00:00",
-  "updated": "2026-10-21T04:54:15+00:00",
+  "generated_at": "2026-10-21T10:13:43+00:00",
+  "updated": "2026-10-21T10:13:42+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-19T00:00:00+08:00",
-    "end": "2026-10-21T04:54:15+00:00",
-    "total": 397,
+    "end": "2026-10-21T10:13:43+00:00",
+    "total": 434,
     "items": [
+      {
+        "title": "Setting up SSH keys on macOS with Touch ID",
+        "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+        "date": "2026-10-20T10:23:58+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
       {
         "title": "OpenBSD 8.0",
         "link": "https://www.openbsd.org/80.html",
@@ -39,7 +54,7 @@
         "observed_days": 2
       },
       {
-        "title": "Elon Musk says Tesla-SpaceX merger being considered",
+        "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
         "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
         "date": "2026-10-20T23:24:47+00:00",
         "date_is_observed": false,
@@ -138,20 +153,6 @@
         ],
         "sources": [
           "BBC World"
-        ],
-        "source_count": 1,
-        "observed_days": 2
-      },
-      {
-        "title": "Jobless rate falls but small firms cut back hiring",
-        "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o",
-        "date": "2026-10-20T11:26:48+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "财经"
-        ],
-        "sources": [
-          "BBC Business"
         ],
         "source_count": 1,
         "observed_days": 2
@@ -302,6 +303,21 @@
       ],
       "开发": [
         {
+          "title": "Setting up SSH keys on macOS with Touch ID",
+          "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+          "date": "2026-10-20T10:23:58+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "OpenBSD 8.0",
           "link": "https://www.openbsd.org/80.html",
           "date": "2026-10-20T01:46:00+00:00",
@@ -362,20 +378,6 @@
           "observed_days": 3
         },
         {
-          "title": "Setting up SSH keys on macOS with Touch ID",
-          "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
-          "date": "2026-10-20T10:23:58+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
           "title": "How to continue a GitHub Copilot app session in VS Code",
           "link": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
           "date": "2026-10-19T18:47:22+00:00",
@@ -418,9 +420,9 @@
           "observed_days": 2
         },
         {
-          "title": "[程序员] AI 时代的屎山大家遇到过嘛？前前前同事用 GPT-4 构建的程序，到现在都 6 了，还在不断叠屎山",
-          "link": "https://www.v2ex.com/t/1250591",
-          "date": "2026-10-21T04:52:37+00:00",
+          "title": "[推广] [满血中转站] 稳定号池不降智，欢迎 V 友们进来领鸡蛋",
+          "link": "https://www.v2ex.com/t/1250711",
+          "date": "2026-10-21T10:10:28+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -432,9 +434,9 @@
           "observed_days": 1
         },
         {
-          "title": "[Apple] Apple Watch 收到通知时无法自动亮屏",
-          "link": "https://www.v2ex.com/t/1250590",
-          "date": "2026-10-21T04:45:42+00:00",
+          "title": "[微信] 做了个提取视频文案的微信小程序",
+          "link": "https://www.v2ex.com/t/1250710",
+          "date": "2026-10-21T10:09:18+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -662,6 +664,48 @@
           "observed_days": 2
         },
         {
+          "title": "How tech billionaires are disrupting biomedical science",
+          "link": "https://www.nature.com/articles/d41586-026-03311-9",
+          "date": "2026-10-21T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "How a new wave of science philanthropists can have the greatest impact",
+          "link": "https://www.nature.com/articles/d41586-026-03326-2",
+          "date": "2026-10-21T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Global emissions slow — but world hurtles towards 2 °C of warming",
+          "link": "https://www.nature.com/articles/d41586-026-03355-x",
+          "date": "2026-10-21T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Scientists finally uncover why statins can cause muscle pain",
           "link": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm",
           "date": "2026-10-20T13:00:56+00:00",
@@ -688,53 +732,11 @@
           ],
           "source_count": 1,
           "observed_days": 1
-        },
-        {
-          "title": "Astronomers uncover new secrets of the Universe’s first five minutes",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261019093442.htm",
-          "date": "2026-10-20T12:34:15+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Scientists discover a bizarre Jurassic “squid” unlike anything ever seen",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261019093434.htm",
-          "date": "2026-10-20T12:20:44+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Scientists discover a surprising link between vitamin C and cancer survival",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261019093437.htm",
-          "date": "2026-10-20T04:21:35+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "综合": [
         {
-          "title": "Elon Musk says Tesla-SpaceX merger being considered",
+          "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
           "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
           "date": "2026-10-20T23:24:47+00:00",
           "date_is_observed": false,
@@ -880,7 +882,7 @@
       ],
       "财经": [
         {
-          "title": "Elon Musk says Tesla-SpaceX merger being considered",
+          "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
           "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
           "date": "2026-10-20T23:24:47+00:00",
           "date_is_observed": false,
@@ -1028,8 +1030,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-21T04:54:15+00:00",
-    "total": 2726,
+    "end": "2026-10-21T10:13:43+00:00",
+    "total": 2763,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
@@ -1094,6 +1096,21 @@
         ],
         "source_count": 2,
         "observed_days": 3
+      },
+      {
+        "title": "Setting up SSH keys on macOS with Touch ID",
+        "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+        "date": "2026-10-20T10:23:58+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
       },
       {
         "title": "OpenBSD 8.0",
@@ -1167,21 +1184,6 @@
         "sources": [
           "Hacker News",
           "The Verge"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Anthropic's Scion is heavily inspired by Mononoke",
-        "link": "https://sunshowers.io/posts/anthropic-mononoke/",
-        "date": "2026-10-14T20:30:54+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
         ],
         "source_count": 2,
         "observed_days": 2
@@ -1332,6 +1334,21 @@
       ],
       "开发": [
         {
+          "title": "Setting up SSH keys on macOS with Touch ID",
+          "link": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+          "date": "2026-10-20T10:23:58+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "OpenBSD 8.0",
           "link": "https://www.openbsd.org/80.html",
           "date": "2026-10-20T01:46:00+00:00",
@@ -1456,21 +1473,6 @@
           "title": "The reverts will continue until morale improves",
           "link": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
           "date": "2026-10-13T11:37:06+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-          "link": "https://verdagon.dev/blog/valen-group-borrowing",
-          "date": "2026-10-11T12:06:22+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1911,7 +1913,7 @@
           "observed_days": 2
         },
         {
-          "title": "Elon Musk says Tesla-SpaceX merger being considered",
+          "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
           "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
           "date": "2026-10-20T23:24:47+00:00",
           "date_is_observed": false,
@@ -2073,7 +2075,7 @@
           "observed_days": 2
         },
         {
-          "title": "Elon Musk says Tesla-SpaceX merger being considered",
+          "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
           "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
           "date": "2026-10-20T23:24:47+00:00",
           "date_is_observed": false,
