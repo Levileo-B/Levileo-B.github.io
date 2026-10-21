@@ -1,126 +1,123 @@
 {
-  "updated": "2026-10-20T23:55:22+00:00",
+  "updated": "2026-10-21T04:54:15+00:00",
   "leetcode": {
-    "date": "2026-10-20",
-    "id": "3886",
-    "title": "Sum of Sortable Integers",
-    "titleEn": "Sum of Sortable Integers",
-    "slug": "sum-of-sortable-integers",
-    "difficulty": "Hard",
+    "date": "2026-10-21",
+    "id": "3863",
+    "title": "Minimum Operations to Sort a String",
+    "titleEn": "Minimum Operations to Sort a String",
+    "slug": "minimum-operations-to-sort-a-string",
+    "difficulty": "Medium",
     "tags": [
-      "Array",
-      "Math",
-      "Sorting",
-      "Enumeration"
+      "String"
     ],
-    "link": "https://leetcode.com/problems/sum-of-sortable-integers/",
+    "link": "https://leetcode.com/problems/minimum-operations-to-sort-a-string/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "London Monster",
-    "text": "The name London Monster was used to describe an attacker of women in London between 1788 and 1790. Renwick Williams, a Welsh maker of artificial flowers, was arrested for the attacks in June 1790, given two trials and sent to Newgate Prison for six years. The Monster's modus operandi was to verbally abuse women with lewd and suggestive comments and then attack them with a knife, cutting the clothing and slicing into buttocks, thighs or chest. Other forms of attack included having knives attached to his knees, possibly attached as a claw-like device to his hands or having a sharp implement hidden in a nosegay—a small flower bouquet. Over fifty women reported attacks, sometimes several on the same day, including up to six reported attacks in one night. Such was the number of attacks, variety of methods and discrepancies in the descriptions of the attackers, that historians are unsure if the Monster was one man or several.",
-    "words": 157,
-    "url": "https://en.wikipedia.org/wiki/London_Monster",
-    "date": "2026-10-20",
+    "title": "Hongwu Emperor",
+    "text": "The Hongwu Emperor, personal name Zhu Yuanzhang, was the founding emperor of the Ming dynasty of China, reigning from 1368 to 1398.",
+    "words": 22,
+    "url": "https://en.wikipedia.org/wiki/Hongwu_Emperor",
+    "date": "2026-10-21",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Bars To Bullets Reel 4",
-    "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/rpbarstobulletsreel4/RP-Bars_to_Bullets_Reel_4.mp4",
-    "page": "https://archive.org/details/rpbarstobulletsreel4",
-    "date": "2026-10-20",
+    "title": "Facts on Friction",
+    "creator": "Handy (Jam) Organization",
+    "year": "1934",
+    "url": "https://archive.org/download/0690_Facts_on_Friction_M05650_03_22_47_00/0690_Facts_on_Friction_M05650_03_22_47_00.m4v",
+    "page": "https://archive.org/details/0690_Facts_on_Friction_M05650_03_22_47_00",
+    "date": "2026-10-21",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "The Noise Of A Collapsing Society",
-      "artist": "Swamp Donkey",
-      "url": "https://archive.org/download/the-noise-of-a-collapsing-society/01%20-%20The%20Noise%20Of%20A%20Collapsing%20Society%202.mp3",
-      "page": "https://archive.org/details/the-noise-of-a-collapsing-society",
+      "title": "frei² 2018-12-05: Weihnachten (X-Mas)",
+      "artist": "Robert Bienert",
+      "url": "https://archive.org/download/freihoch2-2018-12-05-Weihnachten/freihoch2-2018-12-05-Weihnachten.mp3",
+      "page": "https://archive.org/details/freihoch2-2018-12-05-Weihnachten",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "title": "Scott Lawlor - \"The Space Between The Leaves | Meadows of Summer (waag_rel035)\"",
+      "artist": "Scott Lawlor",
+      "url": "https://archive.org/download/waag_rel035/01_-_Scott-Lawlor_-_The-Space-Between-The-Leaves.mp3",
+      "page": "https://archive.org/details/waag_rel035",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+    },
+    {
+      "title": "V/A - Swamp Soundscapes",
+      "artist": "Cian Orbe Netlabel",
+      "url": "https://archive.org/download/v-a-swamp-soundscapes/01%20-%20EGT%20DND%20-%20Swamp%20Night.mp3",
+      "page": "https://archive.org/details/v-a-swamp-soundscapes",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "WAC30: Naoto Yamagishi / Aldo Ahmad / Wasis Tanata - Klik 9 (2019)",
-      "artist": "Naoto Yamagishi, Aldo Ahmad, Wasis Tanata",
-      "url": "https://archive.org/download/WAC30NaotoWasisAldoKlik9/ImprovisasiNaotoWasisAldo.mp3",
-      "page": "https://archive.org/details/WAC30NaotoWasisAldoKlik9",
-      "license": "http://creativecommons.org/licenses/by-nd/4.0/"
+      "title": "DIENSTbar @ dfm.nu Transmission No. 109 Special Guest: Matt Grau",
+      "artist": "Ohmnoise",
+      "url": "https://archive.org/download/dbdfmnu109/dbdfmnu109.mp3",
+      "page": "https://archive.org/details/dbdfmnu109",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "DIENSTbar @ dfm.nu Transmission No. 218 Special Theme: Do You Synthesize?",
-      "artist": "DIENSTbar",
-      "url": "https://archive.org/download/dbdfmnu218/dbdfmnu218.mp3",
-      "page": "https://archive.org/details/dbdfmnu218",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/"
-    },
-    {
-      "title": "Tendon Levey ‎- There's A Fog With Me",
-      "artist": "Tendon Levey",
-      "url": "https://archive.org/download/theres-a-fog-with-me/01%20Eggshells%20Rain%20Down.mp3",
-      "page": "https://archive.org/details/theres-a-fog-with-me",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "FOUND",
-      "artist": "Noise Research; Herve Perez; Gary Fisher; Maxbender; W VON; Graham Dunning; Koobaatoo Asparagus; URN; Salford Media City; Chris Anderson; Trying to Remember Fields; The Royal House of Choke",
-      "url": "https://archive.org/download/skip07/01_1001_edit.mp3",
-      "page": "https://archive.org/details/skip07",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Una Cancion",
-      "artist": "Asaguare",
-      "url": "https://archive.org/download/UnaCancion_820/UnaCancionHiFi.mp3",
-      "page": "https://archive.org/details/UnaCancion_820",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "Venetian Veil - Apophenia",
+      "title": "[ENDE374] Chiba Lounge - Subway Radio",
       "artist": "",
-      "url": "https://archive.org/download/VenetianVeil-Apophenia/1Untitled.mp3",
-      "page": "https://archive.org/details/VenetianVeil-Apophenia",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "url": "https://archive.org/download/ende374-chiba-lounge-subway-radio/01%20-%20Chiba%20Lounge%20-%20Roller.mp3",
+      "page": "https://archive.org/details/ende374-chiba-lounge-subway-radio",
+      "license": "Creative Commons"
     },
     {
-      "title": "Marc Atmost - Farewell Note",
-      "artist": "Marc Atmost",
-      "url": "https://archive.org/download/stasis013/01_afterwards.mp3",
-      "page": "https://archive.org/details/stasis013",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "[Eg0_062] Alphaxone : Grounds EP",
+      "artist": "Alphaxone",
+      "url": "https://archive.org/download/eg0_062/01_-_Emerging.mp3",
+      "page": "https://archive.org/details/eg0_062",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"
     },
     {
-      "title": "Labam - Straight Outta EP [tek08]",
-      "artist": "Labam",
-      "url": "https://archive.org/download/tek08/tek08-01-labam-straight_outta_espelkamp.mp3",
-      "page": "https://archive.org/details/tek08",
-      "license": "http://creativecommons.org/licenses/by-sa/2.5/"
+      "title": "Seism & Reverend Aphex Empire On Mars - Split LP - DBR01",
+      "artist": "Seism & Reverend Aphex Empire On Mars",
+      "url": "https://archive.org/download/dbr01/DBR01-_-01-_-Seism-_-Sound_Mirror.mp3",
+      "page": "https://archive.org/details/dbr01",
+      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
     },
     {
-      "title": "The Unexplored",
-      "artist": "Gypsy & Gintare Sokelyte",
-      "url": "https://archive.org/download/the-unexplored_202507/01%20-%20Building%20End%20Of%20Days.mp3",
-      "page": "https://archive.org/details/the-unexplored_202507",
+      "title": "DIENSTbar @ dfm.nu Transmission No. 62 The Total Remix",
+      "artist": "Ohmnoise",
+      "url": "https://archive.org/download/dbdfmnu62/dbdfmnu62.mp3",
+      "page": "https://archive.org/details/dbdfmnu62",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "ユニヴォェス/メタヴォェス",
-      "artist": "Yukiga Futte Uresii",
-      "url": "https://archive.org/download/UnivoeseMetavoese/01_Univoese.mp3",
-      "page": "https://archive.org/details/UnivoeseMetavoese",
-      "license": "http://creativecommons.org/licenses/by/4.0/"
+      "title": "[miniatura048] Marteaux - Kemmer EP",
+      "artist": "",
+      "url": "https://archive.org/download/miniatura048Marteaux-KemmerEp/01-marteaux-Leep.mp3",
+      "page": "https://archive.org/details/miniatura048Marteaux-KemmerEp",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "The Nin9",
-      "artist": "Blackdaylight",
-      "url": "https://archive.org/download/stigae014/01LastTimePastTime.mp3",
-      "page": "https://archive.org/details/stigae014",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
+      "title": "DIENSTbar @ dfm.nu Transmission No. 95 Special Guest: Utemosku",
+      "artist": "Ohmnoise",
+      "url": "https://archive.org/download/dfmnu95/dfmnu95.mp3",
+      "page": "https://archive.org/details/dfmnu95",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "Weltraum, Erde, Ich E.P.",
+      "artist": "Institute Of Noise",
+      "url": "https://archive.org/download/ex20.weltraum_erde_ich/ex_20-01.mp3",
+      "page": "https://archive.org/details/ex20.weltraum_erde_ich",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
+    },
+    {
+      "title": "Sijis Radio Show - Down with the Chiarman 8 [sijis_DWTC08]",
+      "artist": "mutton_deluxe",
+      "url": "https://archive.org/download/dwtc08/DWTC08_256kps.mp3",
+      "page": "https://archive.org/details/dwtc08",
+      "license": "http://creativecommons.org/licenses/by-nc/2.0/"
     }
   ]
 }

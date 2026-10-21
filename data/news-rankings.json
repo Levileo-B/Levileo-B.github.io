@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-20T23:55:22+00:00",
-  "updated": "2026-10-20T23:55:22+00:00",
+  "generated_at": "2026-10-21T04:54:15+00:00",
+  "updated": "2026-10-21T04:54:15+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-19T00:00:00+08:00",
-    "end": "2026-10-20T23:55:22+00:00",
-    "total": 369,
+    "end": "2026-10-21T04:54:15+00:00",
+    "total": 397,
     "items": [
       {
         "title": "OpenBSD 8.0",
@@ -37,6 +37,38 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "Elon Musk says Tesla-SpaceX merger being considered",
+        "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
+        "date": "2026-10-20T23:24:47+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
+        "title": "Muse exposes users' personal and business secrets when they share conversations",
+        "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+        "date": "2026-10-20T12:33:13+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发",
+          "科技"
+        ],
+        "sources": [
+          "Ars Technica",
+          "Hacker News"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
@@ -120,34 +152,6 @@
         ],
         "sources": [
           "BBC Business"
-        ],
-        "source_count": 1,
-        "observed_days": 2
-      },
-      {
-        "title": "Man charged with attack on Australia MP to face court",
-        "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno",
-        "date": "2026-10-20T11:25:35+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC World"
-        ],
-        "source_count": 1,
-        "observed_days": 2
-      },
-      {
-        "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
-        "link": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
-        "date": "2026-10-20T11:00:16+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "Ars Technica"
         ],
         "source_count": 1,
         "observed_days": 2
@@ -328,6 +332,22 @@
           "observed_days": 2
         },
         {
+          "title": "Muse exposes users' personal and business secrets when they share conversations",
+          "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+          "date": "2026-10-20T12:33:13+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Updates to site guidelines and AI/LLM tags",
           "link": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
           "date": "2026-10-19T01:28:53+00:00",
@@ -398,9 +418,9 @@
           "observed_days": 2
         },
         {
-          "title": "[分享创造] [开源] 不想再为小达人点读笔装 30GB 虚拟机，借助 Codex 搓了个 Mac 客户端",
-          "link": "https://www.v2ex.com/t/1250474",
-          "date": "2026-10-20T23:24:18+00:00",
+          "title": "[程序员] AI 时代的屎山大家遇到过嘛？前前前同事用 GPT-4 构建的程序，到现在都 6 了，还在不断叠屎山",
+          "link": "https://www.v2ex.com/t/1250591",
+          "date": "2026-10-21T04:52:37+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -412,23 +432,9 @@
           "observed_days": 1
         },
         {
-          "title": "The Other Epidemic: Trying to get off benzodiazepines",
-          "link": "https://www.thebeliever.net/the-other-epidemic/",
-          "date": "2026-10-20T23:04:09+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[推广] [Apixo] GLM-5.3 仅官方 0.1 倍率｜ DeepSeek $0.04/M｜一个 Key 调用 30+ 模型｜留 ID 送 500 万 tokens",
-          "link": "https://www.v2ex.com/t/1250473",
-          "date": "2026-10-20T22:46:34+00:00",
+          "title": "[Apple] Apple Watch 收到通知时无法自动亮屏",
+          "link": "https://www.v2ex.com/t/1250590",
+          "date": "2026-10-21T04:45:42+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -441,6 +447,22 @@
         }
       ],
       "科技": [
+        {
+          "title": "Muse exposes users' personal and business secrets when they share conversations",
+          "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+          "date": "2026-10-20T12:33:13+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
         {
           "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
           "link": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
@@ -557,20 +579,6 @@
           "title": "特斯拉只能飞 5 秒？科学家称其为「放屁车」，联邦航空局：不符合航空器定义",
           "link": "https://www.ifanr.com/1684938",
           "date": "2026-10-20T02:18:01+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "苹果新发布会官宣：iPad mini 终于配「高刷」，MacBook 要能「上手」了",
-          "link": "https://www.ifanr.com/1684978",
-          "date": "2026-10-20T01:00:07+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -726,6 +734,22 @@
       ],
       "综合": [
         {
+          "title": "Elon Musk says Tesla-SpaceX merger being considered",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
+          "date": "2026-10-20T23:24:47+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
           "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
           "date": "2026-10-19T16:22:12+00:00",
@@ -852,23 +876,25 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-          "link": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo",
-          "date": "2026-10-19T13:44:57+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
+        {
+          "title": "Elon Musk says Tesla-SpaceX merger being considered",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
+          "date": "2026-10-20T23:24:47+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
         {
           "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
           "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
@@ -996,28 +1022,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Home sellers cut asking prices on 3,000 properties a day",
-          "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo",
-          "date": "2026-10-18T23:00:45+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-20T23:55:22+00:00",
-    "total": 2698,
+    "end": "2026-10-21T04:54:15+00:00",
+    "total": 2726,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
@@ -1521,6 +1533,22 @@
           "observed_days": 2
         },
         {
+          "title": "Muse exposes users' personal and business secrets when they share conversations",
+          "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+          "date": "2026-10-20T12:33:13+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
           "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
           "date": "2026-10-06T19:21:14+00:00",
@@ -1606,20 +1634,6 @@
           ],
           "sources": [
             "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 6
-        },
-        {
-          "title": "你的下一台「泡面盖」，何必是塑料的？",
-          "link": "https://www.ifanr.com/1682870",
-          "date": "2026-10-02T06:10:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
           ],
           "source_count": 1,
           "observed_days": 6
@@ -1897,9 +1911,9 @@
           "observed_days": 2
         },
         {
-          "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-          "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
-          "date": "2026-10-19T16:22:12+00:00",
+          "title": "Elon Musk says Tesla-SpaceX merger being considered",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
+          "date": "2026-10-20T23:24:47+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -1913,9 +1927,9 @@
           "observed_days": 1
         },
         {
-          "title": "US inflation rises more than expected - here's what is happening with prices",
-          "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o",
-          "date": "2026-10-14T15:26:14+00:00",
+          "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+          "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
+          "date": "2026-10-19T16:22:12+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -2059,9 +2073,9 @@
           "observed_days": 2
         },
         {
-          "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-          "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
-          "date": "2026-10-19T16:22:12+00:00",
+          "title": "Elon Musk says Tesla-SpaceX merger being considered",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
+          "date": "2026-10-20T23:24:47+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -2075,9 +2089,9 @@
           "observed_days": 1
         },
         {
-          "title": "US inflation rises more than expected - here's what is happening with prices",
-          "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o",
-          "date": "2026-10-14T15:26:14+00:00",
+          "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+          "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
+          "date": "2026-10-19T16:22:12+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
