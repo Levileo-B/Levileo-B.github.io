@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T15:19:47+00:00",
+  "updated": "2026-10-21T20:12:23+00:00",
   "leetcode": {
     "date": "2026-10-21",
     "id": "3863",
@@ -23,8 +23,101 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
-  "failed": [
-    "每日趣味视频",
-    "背景音乐歌单"
+  "video": {
+    "title": "[Television Commercials: Toy Reel]",
+    "creator": "",
+    "year": "",
+    "url": "https://archive.org/download/0649_Television_Commercials_Toy_Reel_20_35_24_00/0649_Television_Commercials_Toy_Reel_20_35_24_00.m4v",
+    "page": "https://archive.org/details/0649_Television_Commercials_Toy_Reel_20_35_24_00",
+    "date": "2026-10-21",
+    "source": "Internet Archive · Prelinger Archives",
+    "license": "公有领域",
+    "licenseUrl": "https://archive.org/details/prelinger"
+  },
+  "music": [
+    {
+      "title": "Prrose Sélavy - \"Profunda Femoris Conceived\"",
+      "artist": "Prrose Sélavy",
+      "url": "https://archive.org/download/sPE_0119/Prrose_Selavy_Profunda_Femoris_Conceived.mp3",
+      "page": "https://archive.org/details/sPE_0119",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Scattered Signals",
+      "artist": "Jazzaria.com",
+      "url": "https://archive.org/download/scattered-signals/scattered-signals.mp3",
+      "page": "https://archive.org/details/scattered-signals",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "...ending the year on a high 2012 compilation",
+      "artist": "various artists",
+      "url": "https://archive.org/download/waag_com001/01_-_Ketsa_-_A-Waiting-Game.mp3",
+      "page": "https://archive.org/details/waag_com001",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "[dk] - Painprovider [sk007]",
+      "artist": "[dk]",
+      "url": "https://archive.org/download/painprovider/01ainprovider.mp3",
+      "page": "https://archive.org/details/painprovider",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "V/A - Swamp Soundscapes",
+      "artist": "Cian Orbe Netlabel",
+      "url": "https://archive.org/download/v-a-swamp-soundscapes/01%20-%20EGT%20DND%20-%20Swamp%20Night.mp3",
+      "page": "https://archive.org/details/v-a-swamp-soundscapes",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "Prob. - Emotion EP [mtk042]",
+      "artist": "",
+      "url": "https://archive.org/download/mtk042/mtk042-prob-01-emotion.mp3",
+      "page": "https://archive.org/details/mtk042",
+      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
+    },
+    {
+      "title": "DIENSTbar @ dfm.nu Transmission No. 63 Special Guest: Lady Gaby",
+      "artist": "Ohmnoise",
+      "url": "https://archive.org/download/dbdfmnu63/dbdfmnu63.mp3",
+      "page": "https://archive.org/details/dbdfmnu63",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "DIENSTbar @ dfm.nu Transmission No. 109 Special Guest: Matt Grau",
+      "artist": "Ohmnoise",
+      "url": "https://archive.org/download/dbdfmnu109/dbdfmnu109.mp3",
+      "page": "https://archive.org/details/dbdfmnu109",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "cvux - Above, under, choose (GT002)",
+      "artist": "",
+      "url": "https://archive.org/download/cvuxAboveunderchoose/cvux%20-%20Above%2C%20under%2C%20choose%20-%2001%20I%20just%20%28love%20it%29.mp3",
+      "page": "https://archive.org/details/cvuxAboveunderchoose",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "DIENSTbar @ dfm.nu Transmission No. 255 Special Guest: Many Tentacles Session",
+      "artist": "DIENSTbar",
+      "url": "https://archive.org/download/dbdfmnu255/dbdfmnu255.mp3",
+      "page": "https://archive.org/details/dbdfmnu255",
+      "license": "https://creativecommons.org/licenses/by-nd/4.0/"
+    },
+    {
+      "title": "DIENSTbar @ dfm.nu Transmission No. 13 Special Guest: Kate Donovan",
+      "artist": "ohmnoise",
+      "url": "https://archive.org/download/dbdfmnu13/dbdfmnu13.mp3",
+      "page": "https://archive.org/details/dbdfmnu13",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "Seism & Reverend Aphex Empire On Mars - Split LP - DBR01",
+      "artist": "Seism & Reverend Aphex Empire On Mars",
+      "url": "https://archive.org/download/dbr01/DBR01-_-01-_-Seism-_-Sound_Mirror.mp3",
+      "page": "https://archive.org/details/dbr01",
+      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
+    }
   ]
 }
