@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-21T10:13:43+00:00",
-  "updated": "2026-10-21T10:13:42+00:00",
+  "generated_at": "2026-10-21T15:19:47+00:00",
+  "updated": "2026-10-21T15:19:47+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-19T00:00:00+08:00",
-    "end": "2026-10-21T10:13:43+00:00",
-    "total": 434,
+    "end": "2026-10-21T15:19:47+00:00",
+    "total": 471,
     "items": [
       {
         "title": "Setting up SSH keys on macOS with Touch ID",
@@ -52,6 +52,21 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "The Future of CSS",
+        "link": "https://www.joshwcomeau.com/css/interop-2027/",
+        "date": "2026-10-21T01:47:28+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
@@ -142,20 +157,6 @@
         ],
         "source_count": 1,
         "observed_days": 3
-      },
-      {
-        "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-        "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo",
-        "date": "2026-10-20T11:30:59+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC World"
-        ],
-        "source_count": 1,
-        "observed_days": 2
       }
     ],
     "by_category": {
@@ -348,6 +349,21 @@
           "observed_days": 2
         },
         {
+          "title": "The Future of CSS",
+          "link": "https://www.joshwcomeau.com/css/interop-2027/",
+          "date": "2026-10-21T01:47:28+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Muse exposes users' personal and business secrets when they share conversations",
           "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
           "date": "2026-10-20T12:33:13+00:00",
@@ -420,23 +436,9 @@
           "observed_days": 2
         },
         {
-          "title": "[推广] [满血中转站] 稳定号池不降智，欢迎 V 友们进来领鸡蛋",
-          "link": "https://www.v2ex.com/t/1250711",
-          "date": "2026-10-21T10:10:28+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[微信] 做了个提取视频文案的微信小程序",
-          "link": "https://www.v2ex.com/t/1250710",
-          "date": "2026-10-21T10:09:18+00:00",
+          "title": "[分享创造] RUST+ GPUI 海量图片管理",
+          "link": "https://www.v2ex.com/t/1250762",
+          "date": "2026-10-21T15:04:09+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -664,51 +666,9 @@
           "observed_days": 2
         },
         {
-          "title": "How tech billionaires are disrupting biomedical science",
-          "link": "https://www.nature.com/articles/d41586-026-03311-9",
-          "date": "2026-10-21T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "How a new wave of science philanthropists can have the greatest impact",
-          "link": "https://www.nature.com/articles/d41586-026-03326-2",
-          "date": "2026-10-21T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Global emissions slow — but world hurtles towards 2 °C of warming",
-          "link": "https://www.nature.com/articles/d41586-026-03355-x",
-          "date": "2026-10-21T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Scientists finally uncover why statins can cause muscle pain",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm",
-          "date": "2026-10-20T13:00:56+00:00",
+          "title": "Too much RNA can starve cells of energy, scientists discover",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm",
+          "date": "2026-10-21T13:02:34+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -720,9 +680,51 @@
           "observed_days": 1
         },
         {
-          "title": "Hurricane warning maps are improving, but a dangerous problem remains",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261019093443.htm",
-          "date": "2026-10-20T12:49:51+00:00",
+          "title": "A train was delayed by a solar storm. But something didn't add up.",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm",
+          "date": "2026-10-21T12:35:57+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Astronauts’ hearts just passed a surprising test for Mars",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
+          "date": "2026-10-21T11:59:14+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Just 4 minutes a day can dramatically improve strength after 65",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261020085025.htm",
+          "date": "2026-10-21T09:52:28+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261020085727.htm",
+          "date": "2026-10-21T04:08:28+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -1030,8 +1032,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-21T10:13:43+00:00",
-    "total": 2763,
+    "end": "2026-10-21T15:19:47+00:00",
+    "total": 2800,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
