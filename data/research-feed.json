@@ -1,58 +1,82 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-20T06:36:40.819780+00:00",
-  "attempted_at": "2026-10-20T06:36:40.819780+00:00",
+  "updated": "2026-10-21T06:34:30.419072+00:00",
+  "attempted_at": "2026-10-21T06:34:30.419072+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-10-20T06:36:40.819780+00:00",
+      "last_success": "2026-10-21T06:34:30.419072+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-10-20T06:36:40.819780+00:00",
+      "last_success": "2026-10-21T06:34:30.419072+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-10-20T06:36:40.819780+00:00",
+      "last_success": "2026-10-21T06:34:30.419072+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-10-20T06:36:40.819780+00:00",
+      "last_success": "2026-10-21T06:34:30.419072+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-10-20T06:36:40.819780+00:00",
+      "last_success": "2026-10-21T06:34:30.419072+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-10-20T06:36:40.819780+00:00",
+      "last_success": "2026-10-21T06:34:30.419072+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-10-20T06:36:40.819780+00:00",
+      "last_success": "2026-10-21T06:34:30.419072+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-10-20T06:36:40.819780+00:00",
+      "last_success": "2026-10-21T06:34:30.419072+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.1038/s41598-026-72118-5",
+      "title": "Hybrid optimization of multimodal SLAM for underground robots with seismic vibration geomagnetic and tactile sensing",
+      "journal_id": "scientific-reports",
+      "published": "2026-10-21",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-72118-5",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18203609",
+      "title": "Deep Learning-Based Detection and Severity Classification of Individual Trees Damaged by Dendrolimus sibiricus Using UAV Multispectral Imagery and LiDAR Data",
+      "journal_id": "remote-sensing",
+      "published": "2026-10-20",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18203609",
+      "source": "crossref"
+    },
     {
       "id": "10.3390/rs18203558",
       "title": "Fallen Tree Detection and Mapping from Airborne Laser Scanning Point Clouds Using Physics-Guided Supervoxel Learning",
@@ -1358,18 +1382,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.3390/rs18172988",
-      "title": "Evaluating the Impact of DEM Resolution on Landslide Hazard Assessment: A Comparative Study Using LiDAR and 1:5000 Topographic Map-Derived DEMs",
-      "journal_id": "remote-sensing",
-      "published": "2026-09-03",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18172988",
-      "source": "crossref"
-    },
-    {
       "id": "10.3389/frobt.2026.1974584",
       "title": "Editorial: Robotic perception, multi-robot exploration, mapping, and autonomous computing",
       "journal_id": "frontiers",
@@ -1696,18 +1708,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1038/s41598-026-67953-5",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1038/s41598-026-63761-z",
-      "title": "Local path planning for autonomous vehicles: a dynamic potential field-guided and force-coupled adaptive pure pursuit approach",
-      "journal_id": "scientific-reports",
-      "published": "2026-08-21",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-63761-z",
       "source": "crossref"
     },
     {
