@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-21T23:23:50+00:00",
-  "updated": "2026-10-21T23:23:50+00:00",
+  "generated_at": "2026-10-22T04:54:14+00:00",
+  "updated": "2026-10-22T04:54:13+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-19T00:00:00+08:00",
-    "end": "2026-10-21T23:23:50+00:00",
-    "total": 532,
+    "end": "2026-10-22T04:54:14+00:00",
+    "total": 561,
     "items": [
       {
         "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
@@ -69,6 +69,53 @@
         "observed_days": 2
       },
       {
+        "title": "What is PHP and why did it spark a global cyber-security scramble?",
+        "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
+        "date": "2026-10-22T03:48:50+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
+        "title": "Websites taken down worldwide as critical cyber-security update issued",
+        "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o",
+        "date": "2026-10-21T19:54:57+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
+        "title": "Google's Rust Style Guide",
+        "link": "https://google.github.io/styleguide/rustguide.html",
+        "date": "2026-10-21T19:11:57+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
         "title": "The Future of CSS",
         "link": "https://www.joshwcomeau.com/css/interop-2027/",
         "date": "2026-10-21T01:47:28+00:00",
@@ -114,50 +161,6 @@
         ],
         "source_count": 2,
         "observed_days": 1
-      },
-      {
-        "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-        "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
-        "date": "2026-10-19T16:22:12+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁",
-        "link": "https://sspai.com/prime/story/inside-release-notes-261020",
-        "date": "2026-10-20T10:01:54+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "少数派"
-        ],
-        "source_count": 1,
-        "observed_days": 3
-      },
-      {
-        "title": "How to continue a GitHub Copilot app session in VS Code",
-        "link": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
-        "date": "2026-10-19T18:47:22+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "GitHub Blog"
-        ],
-        "source_count": 1,
-        "observed_days": 3
       }
     ],
     "by_category": {
@@ -365,6 +368,21 @@
           "observed_days": 2
         },
         {
+          "title": "Google's Rust Style Guide",
+          "link": "https://google.github.io/styleguide/rustguide.html",
+          "date": "2026-10-21T19:11:57+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "The Future of CSS",
           "link": "https://www.joshwcomeau.com/css/interop-2027/",
           "date": "2026-10-21T01:47:28+00:00",
@@ -427,20 +445,6 @@
           "title": "Unikernels in OCaml",
           "link": "https://uniker.nl/",
           "date": "2026-10-21T07:51:20+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Upcoming Critical PHP Security Release",
-          "link": "https://www.php.net/archive/2026.php",
-          "date": "2026-10-20T22:23:54+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -740,6 +744,38 @@
       ],
       "综合": [
         {
+          "title": "What is PHP and why did it spark a global cyber-security scramble?",
+          "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
+          "date": "2026-10-22T03:48:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Websites taken down worldwide as critical cyber-security update issued",
+          "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o",
+          "date": "2026-10-21T19:54:57+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
           "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
           "date": "2026-10-20T23:24:47+00:00",
@@ -854,37 +890,41 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "朝鮮發佈金正恩照片：為何他的死亡傳言總是捲土重來？",
-          "link": "https://www.bbc.com/zhongwen/articles/cm4g1zr53y80o/trad",
-          "date": "2026-10-20T14:58:04+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-          "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo",
-          "date": "2026-10-20T11:30:59+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
+        {
+          "title": "What is PHP and why did it spark a global cyber-security scramble?",
+          "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
+          "date": "2026-10-22T03:48:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Websites taken down worldwide as critical cyber-security update issued",
+          "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o",
+          "date": "2026-10-21T19:54:57+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
         {
           "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
           "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
@@ -1000,42 +1040,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-          "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno",
-          "date": "2026-10-19T21:30:06+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-          "link": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
-          "date": "2026-10-19T15:37:25+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-21T23:23:50+00:00",
-    "total": 2861,
+    "end": "2026-10-22T04:54:14+00:00",
+    "total": 2890,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
@@ -1916,9 +1928,9 @@
           "observed_days": 2
         },
         {
-          "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-          "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
-          "date": "2026-10-20T23:24:47+00:00",
+          "title": "What is PHP and why did it spark a global cyber-security scramble?",
+          "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
+          "date": "2026-10-22T03:48:50+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -1932,9 +1944,9 @@
           "observed_days": 1
         },
         {
-          "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-          "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
-          "date": "2026-10-19T16:22:12+00:00",
+          "title": "Websites taken down worldwide as critical cyber-security update issued",
+          "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o",
+          "date": "2026-10-21T19:54:57+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -2078,9 +2090,9 @@
           "observed_days": 2
         },
         {
-          "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-          "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
-          "date": "2026-10-20T23:24:47+00:00",
+          "title": "What is PHP and why did it spark a global cyber-security scramble?",
+          "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
+          "date": "2026-10-22T03:48:50+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -2094,9 +2106,9 @@
           "observed_days": 1
         },
         {
-          "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-          "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo",
-          "date": "2026-10-19T16:22:12+00:00",
+          "title": "Websites taken down worldwide as critical cyber-security update issued",
+          "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o",
+          "date": "2026-10-21T19:54:57+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
