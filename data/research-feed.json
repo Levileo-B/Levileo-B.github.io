@@ -1,58 +1,70 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-21T06:34:30.419072+00:00",
-  "attempted_at": "2026-10-21T06:34:30.419072+00:00",
+  "updated": "2026-10-22T06:34:50.304375+00:00",
+  "attempted_at": "2026-10-22T06:34:50.304375+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-10-21T06:34:30.419072+00:00",
+      "last_success": "2026-10-22T06:34:50.304375+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-10-21T06:34:30.419072+00:00",
+      "last_success": "2026-10-22T06:34:50.304375+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-10-21T06:34:30.419072+00:00",
+      "last_success": "2026-10-22T06:34:50.304375+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-10-21T06:34:30.419072+00:00",
+      "last_success": "2026-10-22T06:34:50.304375+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-10-21T06:34:30.419072+00:00",
+      "last_success": "2026-10-22T06:34:50.304375+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-10-21T06:34:30.419072+00:00",
+      "last_success": "2026-10-22T06:34:50.304375+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-10-21T06:34:30.419072+00:00",
+      "last_success": "2026-10-22T06:34:50.304375+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-10-21T06:34:30.419072+00:00",
+      "last_success": "2026-10-22T06:34:50.304375+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.1038/s41598-026-77136-x",
+      "title": "Multi-criteria prioritized reinforcement learning for autonomous underwater vehicle navigation in 3D multi-node environments",
+      "journal_id": "scientific-reports",
+      "published": "2026-10-21",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-77136-x",
+      "source": "crossref"
+    },
     {
       "id": "10.1038/s41598-026-72118-5",
       "title": "Hybrid optimization of multimodal SLAM for underground robots with seismic vibration geomagnetic and tactile sensing",
@@ -63,6 +75,18 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1038/s41598-026-72118-5",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-71931-2",
+      "title": "A LiDAR-driven urban energy benchmarking framework for mapping building energy intensity and carbon emissions in hyper-arid cities",
+      "journal_id": "scientific-reports",
+      "published": "2026-10-21",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-71931-2",
       "source": "crossref"
     },
     {
@@ -667,6 +691,18 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1109/lra.2026.3723261",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105817",
+      "title": "Integral-based kinematic estimation for noise-robust robotic navigation",
+      "journal_id": "ras",
+      "published": "2026-10",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105817",
       "source": "crossref"
     },
     {
@@ -1638,19 +1674,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.1038/s41598-026-64648-9",
-      "title": "LiDAR-based navigation system for spiral-driven grain silo robots using enhanced D*lite",
-      "journal_id": "scientific-reports",
-      "published": "2026-08-27",
-      "topics": [
-        "point-cloud",
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-64648-9",
-      "source": "crossref"
-    },
-    {
       "id": "10.1002/rob.70328",
       "title": "Visual Point‐Line and Inertial Measurement Unit Fusion‐Based Simultaneous Localization and Mapping Algorithm for Robotic Grinding of Wind Turbine Blades",
       "journal_id": "jfr",
@@ -1696,18 +1719,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1002/rob.70331",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1038/s41598-026-67953-5",
-      "title": "Mapping and autonomous navigation of TurtleBot2 using hybridization of A* algorithm, DWA, and RatSLAM",
-      "journal_id": "scientific-reports",
-      "published": "2026-08-21",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-67953-5",
       "source": "crossref"
     },
     {
