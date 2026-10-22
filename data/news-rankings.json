@@ -1,13 +1,28 @@
 {
-  "generated_at": "2026-10-22T20:10:14+00:00",
-  "updated": "2026-10-22T20:10:14+00:00",
+  "generated_at": "2026-10-22T23:25:47+00:00",
+  "updated": "2026-10-22T23:25:46+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-19T00:00:00+08:00",
-    "end": "2026-10-22T20:10:14+00:00",
-    "total": 673,
+    "end": "2026-10-22T23:25:47+00:00",
+    "total": 694,
     "items": [
+      {
+        "title": "Quad9 DNS Resolver to exit France",
+        "link": "https://quad9.net/news/blog/au-revoir-france/",
+        "date": "2026-10-22T14:32:38+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
       {
         "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
         "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
@@ -142,22 +157,6 @@
         "sources": [
           "BBC Business",
           "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "Muse exposes users' personal and business secrets when they share conversations",
-        "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-        "date": "2026-10-20T12:33:13+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发",
-          "科技"
-        ],
-        "sources": [
-          "Ars Technica",
-          "Hacker News"
         ],
         "source_count": 2,
         "observed_days": 1
@@ -308,6 +307,21 @@
       ],
       "开发": [
         {
+          "title": "Quad9 DNS Resolver to exit France",
+          "link": "https://quad9.net/news/blog/au-revoir-france/",
+          "date": "2026-10-22T14:32:38+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
           "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
           "date": "2026-10-21T09:08:08+00:00",
@@ -437,20 +451,6 @@
           ],
           "sources": [
             "GitHub Blog"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "Updates to site guidelines and AI/LLM tags",
-          "link": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
-          "date": "2026-10-19T01:28:53+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
           ],
           "source_count": 1,
           "observed_days": 3
@@ -1046,8 +1046,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-22T20:10:14+00:00",
-    "total": 3002,
+    "end": "2026-10-22T23:25:47+00:00",
+    "total": 3023,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
@@ -1114,6 +1114,21 @@
         "observed_days": 3
       },
       {
+        "title": "Quad9 DNS Resolver to exit France",
+        "link": "https://quad9.net/news/blog/au-revoir-france/",
+        "date": "2026-10-22T14:32:38+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
         "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
         "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
         "date": "2026-10-21T09:08:08+00:00",
@@ -1177,21 +1192,6 @@
         "title": "The Brain Sandwich",
         "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
         "date": "2026-10-18T03:03:36+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "JPEG XL vs AVIF for web use-cases",
-        "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-        "date": "2026-10-15T14:42:45+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -1349,6 +1349,21 @@
       ],
       "开发": [
         {
+          "title": "Quad9 DNS Resolver to exit France",
+          "link": "https://quad9.net/news/blog/au-revoir-france/",
+          "date": "2026-10-22T14:32:38+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
           "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
           "date": "2026-10-21T09:08:08+00:00",
@@ -1473,21 +1488,6 @@
           "title": "What I Self-Host",
           "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
           "date": "2026-10-14T15:32:48+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Fancy Curl Sites",
-          "link": "https://nytpu.com/gemlog/2026-03-18",
-          "date": "2026-10-14T06:24:41+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
