@@ -1,58 +1,70 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-22T06:34:50.304375+00:00",
-  "attempted_at": "2026-10-22T06:34:50.304375+00:00",
+  "updated": "2026-10-23T06:28:42.257550+00:00",
+  "attempted_at": "2026-10-23T06:28:42.257550+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-10-22T06:34:50.304375+00:00",
+      "last_success": "2026-10-23T06:28:42.257550+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-10-22T06:34:50.304375+00:00",
+      "last_success": "2026-10-23T06:28:42.257550+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-10-22T06:34:50.304375+00:00",
+      "last_success": "2026-10-23T06:28:42.257550+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-10-22T06:34:50.304375+00:00",
+      "last_success": "2026-10-23T06:28:42.257550+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-10-22T06:34:50.304375+00:00",
+      "last_success": "2026-10-23T06:28:42.257550+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-10-22T06:34:50.304375+00:00",
+      "last_success": "2026-10-23T06:28:42.257550+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-10-22T06:34:50.304375+00:00",
+      "last_success": "2026-10-23T06:28:42.257550+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-10-22T06:34:50.304375+00:00",
+      "last_success": "2026-10-23T06:28:42.257550+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.3390/rs18213632",
+      "title": "Application of Multi-Temporal LiDAR for Gully Erosion Monitoring in Mediterranean Intensive Olive Groves",
+      "journal_id": "remote-sensing",
+      "published": "2026-10-22",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18213632",
+      "source": "crossref"
+    },
     {
       "id": "10.1038/s41598-026-77136-x",
       "title": "Multi-criteria prioritized reinforcement learning for autonomous underwater vehicle navigation in 3D multi-node environments",
@@ -1403,18 +1415,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.3390/rs18172993",
-      "source": "crossref"
-    },
-    {
-      "id": "10.3390/rs18172990",
-      "title": "GFE-Net: Geometry-Enhanced Feature Extraction Network for Semantic Segmentation of Large-Scale LiDAR Point Clouds",
-      "journal_id": "remote-sensing",
-      "published": "2026-09-03",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18172990",
       "source": "crossref"
     },
     {
