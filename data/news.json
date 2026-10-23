@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T04:56:44+00:00",
+  "updated": "2026-10-23T10:08:00+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -7,7 +7,7 @@
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
         {
-          "title": "颱風薔琵逼近  台灣大部分縣市停班停課",
+          "title": "颱風薔琵：台灣釀1死171傷，大部分縣市停班停課",
           "link": "https://www.bbc.com/zhongwen/live/c6y8lvmvj151t/trad?at_medium=RSS&at_campaign=rss",
           "date": ""
         },
@@ -17,19 +17,19 @@
           "date": "2026-10-23T00:41:11+00:00"
         },
         {
-          "title": "西藏發生7級強烈地震，據報至少16死，已派翼龍無人機進行災情偵察",
+          "title": "巴黎騷亂中的三位華人：「激烈的地方激烈，安靜的地方安靜」",
+          "link": "https://www.bbc.com/zhongwen/articles/ckq6n02lqz8vo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-23T08:59:14+00:00"
+        },
+        {
+          "title": "西藏那曲7級地震16死54傷，當局派翼龍無人機進行災情偵察",
           "link": "https://www.bbc.com/zhongwen/articles/c9zrd1rd3jmyo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-23T03:50:56+00:00"
+          "date": "2026-10-23T05:23:41+00:00"
         },
         {
-          "title": "特朗普訴BBC誹謗案：法官下令總統須宣誓並答問作證",
-          "link": "https://www.bbc.com/zhongwen/articles/ckx2qdelv0jeo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-23T01:42:51+00:00"
-        },
-        {
-          "title": "不點單，沒座位：星巴克中國推出新門店政策",
-          "link": "https://www.bbc.com/zhongwen/articles/ckn9r7e4e8jpo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-22T09:50:32+00:00"
+          "title": "PHP是什麼？為何它引發全球網絡安全危機？",
+          "link": "https://www.bbc.com/zhongwen/articles/c370pr45nelgo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-23T08:09:29+00:00"
         }
       ]
     },
@@ -39,29 +39,29 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
-          "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-22T23:16:16+00:00"
-        },
-        {
-          "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+          "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
           "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-22T21:42:39+00:00"
+          "date": "2026-10-23T09:36:43+00:00"
         },
         {
-          "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-          "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-22T15:56:36+00:00"
+          "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
+          "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-23T07:52:32+00:00"
         },
         {
-          "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
-          "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-22T22:27:53+00:00"
+          "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+          "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-23T08:45:58+00:00"
         },
         {
-          "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-          "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-23T01:38:44+00:00"
+          "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+          "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-23T05:16:37+00:00"
+        },
+        {
+          "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+          "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-23T09:44:40+00:00"
         }
       ]
     },
@@ -71,9 +71,14 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
-          "title": "Grid operator says lights will stay on this winter after concerns",
+          "title": "Lights will stay on this winter, grid operator says after concerns",
           "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-22T23:04:38+00:00"
+          "date": "2026-10-23T06:47:10+00:00"
+        },
+        {
+          "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+          "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-22T23:20:38+00:00"
         },
         {
           "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
@@ -81,7 +86,7 @@
           "date": "2026-10-22T18:26:56+00:00"
         },
         {
-          "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+          "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
           "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-22T22:27:53+00:00"
         },
@@ -89,11 +94,6 @@
           "title": "'I wasn't thinking straight' says five jobs civil servant",
           "link": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-22T15:05:47+00:00"
-        },
-        {
-          "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-          "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-22T14:28:59+00:00"
         }
       ]
     },
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "SK Hynix shares rebound after initial drop on scrapped Solidigm IPO plans",
-          "link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
-          "date": "2026-10-23T04:05:35+00:00"
+          "title": "U.S. oil holds above $100, Brent at five-month high as Iran says it’s prepared for warfare",
+          "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
+          "date": "2026-10-23T09:02:44+00:00"
         },
         {
-          "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
-          "link": "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html",
-          "date": "2026-10-23T04:55:59+00:00"
+          "title": "Volvo Cars plunges 27% as CEO says China sales slump came 'faster than we thought'",
+          "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
+          "date": "2026-10-23T09:41:01+00:00"
+        },
+        {
+          "title": "Nvidia's Huang heads to Kazakhstan for the first time — and he's not the only one with big plans",
+          "link": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
+          "date": "2026-10-23T09:21:59+00:00"
+        },
+        {
+          "title": "France is flashing euro crisis signals. This time, the fault lines are different",
+          "link": "https://www.cnbc.com/2026/10/23/france-debt-euro-zone-contagion.html",
+          "date": "2026-10-23T09:03:26+00:00"
         },
         {
           "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
           "link": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
           "date": "2026-10-22T21:02:07+00:00"
-        },
-        {
-          "title": "10-year Treasury yield tumbles below 5% to lowest level in nearly a month",
-          "link": "https://www.cnbc.com/2026/10/22/treasurys-bonds-ai-yields.html",
-          "date": "2026-10-22T20:05:13+00:00"
-        },
-        {
-          "title": "Moderna shares plunge after cancer vaccine data leaks — despite positive results",
-          "link": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
-          "date": "2026-10-22T21:52:02+00:00"
         }
       ]
     },
@@ -134,6 +134,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
+          "link": "https://sspai.com/post/116398",
+          "date": "2026-10-23T07:00:00+00:00"
+        },
         {
           "title": "破与立：设计视角下的 iPhone Duo",
           "link": "https://sspai.com/post/116979",
@@ -153,11 +158,6 @@
           "title": "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本",
           "link": "https://sspai.com/post/116923",
           "date": "2026-10-22T07:00:00+00:00"
-        },
-        {
-          "title": "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记",
-          "link": "https://sspai.com/post/115090",
-          "date": "2026-10-22T03:36:57+00:00"
         }
       ]
     },
@@ -166,6 +166,11 @@
       "category": "科技",
       "url": "https://www.ifanr.com/feed",
       "items": [
+        {
+          "title": "实测 iPhone Duo 微信适配版：适配好了吗，体验怎么样？",
+          "link": "https://www.ifanr.com/1685575?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-10-23T09:52:47+00:00"
+        },
         {
           "title": "早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
           "link": "https://www.ifanr.com/1685530?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -185,11 +190,6 @@
           "title": "PHP爆雷引发全球紧急「拔网线」，别指望 AI 拯救互联网",
           "link": "https://www.ifanr.com/1685446?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-10-22T05:58:07+00:00"
-        },
-        {
-          "title": "首发｜我们用了一周的 iPhone Duo，这里有你关心的一切",
-          "link": "https://www.ifanr.com/1685251?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-10-22T00:45:50+00:00"
         }
       ]
     },
@@ -199,29 +199,29 @@
       "url": "https://www.solidot.org/index.rss",
       "items": [
         {
-          "title": "坏苹果效应：人们会效仿他人的违规行为",
-          "link": "https://www.solidot.org/story?sid=85679",
-          "date": "2026-10-21T16:41:02+00:00"
+          "title": "mRNA 癌症疫苗将死亡复发风险减少 42%",
+          "link": "https://www.solidot.org/story?sid=85693",
+          "date": "2026-10-23T08:48:00+00:00"
         },
         {
-          "title": "鸟类是地球最重要的养分搬运者之一",
-          "link": "https://www.solidot.org/story?sid=85678",
-          "date": "2026-10-21T15:25:51+00:00"
+          "title": "浏览器 Arc 将于 12 月关闭",
+          "link": "https://www.solidot.org/story?sid=85692",
+          "date": "2026-10-23T07:25:16+00:00"
         },
         {
-          "title": "微软下一代 Xbox 游戏机售价在 1200-1800 美元之间",
-          "link": "https://www.solidot.org/story?sid=85677",
-          "date": "2026-10-21T14:55:37+00:00"
+          "title": "Switch 2 越狱能运行自制程序",
+          "link": "https://www.solidot.org/story?sid=85691",
+          "date": "2026-10-23T07:11:05+00:00"
         },
         {
-          "title": "AI 增加了英国公务员的工作量",
-          "link": "https://www.solidot.org/story?sid=85676",
-          "date": "2026-10-21T14:45:08+00:00"
+          "title": "KeePassXC 2.8.0 释出",
+          "link": "https://www.solidot.org/story?sid=85690",
+          "date": "2026-10-23T06:05:58+00:00"
         },
         {
-          "title": "PHP 释出更新修复两个允许远程执行代码的高危漏洞",
-          "link": "https://www.solidot.org/story?sid=85675",
-          "date": "2026-10-21T14:04:30+00:00"
+          "title": "eMudhra 退出全球 CA 业务",
+          "link": "https://www.solidot.org/story?sid=85689",
+          "date": "2026-10-23T03:32:21+00:00"
         }
       ]
     },
@@ -230,6 +230,11 @@
       "category": "科技",
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
+        {
+          "title": "No, the iPhone Duo isn’t a small phone",
+          "link": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
+          "date": "2026-10-22T23:48:51+00:00"
+        },
         {
           "title": "Etsy is cracking down on AI slop listings",
           "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
@@ -249,11 +254,6 @@
           "title": "Canva’s first AI image model plans designs before generating them",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
           "date": "2026-10-22T21:53:22+00:00"
-        },
-        {
-          "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
-          "link": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
-          "date": "2026-10-22T21:30:39+00:00"
         }
       ]
     },
@@ -295,12 +295,12 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Median product \"lifespan\" has fallen from ~4y down to ~1.5y",
-          "link": "https://news.ycombinator.com/item?id=50204125",
-          "date": "2026-10-23T03:20:38+00:00"
+          "title": "I Did This Without Your Knowledge",
+          "link": "https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge",
+          "date": "2026-10-23T05:51:45+00:00"
         },
         {
-          "title": "This I Believe",
+          "title": "This I Believe (1952)",
           "link": "https://www.awakin.org/v2/read/view.php?tid=468",
           "date": "2026-10-23T02:19:38+00:00"
         },
@@ -310,9 +310,9 @@
           "date": "2026-10-23T00:52:01+00:00"
         },
         {
-          "title": "Mapping the Northern Sky",
-          "link": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
-          "date": "2026-10-22T23:56:39+00:00"
+          "title": "Show HN: Making a smart TV dumb and then smart",
+          "link": "https://github.com/anubhavmalhotra/r2d2-tv",
+          "date": "2026-10-23T00:10:45+00:00"
         },
         {
           "title": "Jank – The native Clojure dialect with seamless C++ interop",
@@ -332,24 +332,24 @@
           "date": "2026-10-22T20:09:22+00:00"
         },
         {
+          "title": "UUIDv7 doesn't have the properties you think it does",
+          "link": "https://alexsci.com/blog/uuidv7-is-weird/",
+          "date": "2026-10-23T01:22:17+00:00"
+        },
+        {
+          "title": "Please don't mess with links",
+          "link": "https://maurycyz.com/misc/real_links/",
+          "date": "2026-10-23T00:37:10+00:00"
+        },
+        {
           "title": "a hacky fucked up way to portably access errno from outside of c",
           "link": "https://sebsite.pw/w/20260925-errno.html",
           "date": "2026-10-22T21:42:04+00:00"
         },
         {
-          "title": "examining the macOS gcc binary",
-          "link": "https://zoey-on-github.github.io/blog/macgcc.html",
-          "date": "2026-10-22T06:45:58+00:00"
-        },
-        {
           "title": "Quad9 DNS Resolver to exit France",
           "link": "https://quad9.net/news/blog/au-revoir-france/",
           "date": "2026-10-22T19:47:39+00:00"
-        },
-        {
-          "title": "UUIDv7 doesn't have the properties you think it does",
-          "link": "https://alexsci.com/blog/uuidv7-is-weird/",
-          "date": "2026-10-23T01:22:17+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[OpenAI] 10.23 - day 18 - Tibo 又要重置了",
-          "link": "https://www.v2ex.com/t/1251225#reply0",
-          "date": "2026-10-23T04:51:15+00:00"
+          "title": "[酷工作] 目前就业形势到底多差？",
+          "link": "https://www.v2ex.com/t/1251338#reply1",
+          "date": "2026-10-23T10:04:42+00:00"
         },
         {
-          "title": "[程序员] 现在有了 AI，让 AI 去读同事在 AI 时代前写的代码，是不是就高下立见了",
-          "link": "https://www.v2ex.com/t/1251224#reply2",
-          "date": "2026-10-23T04:30:48+00:00"
+          "title": "[分享创造] 分享一个自己做的翻译插件 mewCat，蓝白配色，带一点二次元风格",
+          "link": "https://www.v2ex.com/t/1251337#reply0",
+          "date": "2026-10-23T09:59:57+00:00"
         },
         {
-          "title": "[问与答] 现在还有什么法子能用 claude code 么。。",
-          "link": "https://www.v2ex.com/t/1251223#reply0",
-          "date": "2026-10-23T04:29:26+00:00"
+          "title": "[分享创造] 最近用 Vibe Coding 做了个抛硬币小程序",
+          "link": "https://www.v2ex.com/t/1251336#reply0",
+          "date": "2026-10-23T09:39:31+00:00"
         },
         {
-          "title": "[分享创造] 好几年没玩魔方了，最近 Vibe Coding 了个拍照解魔方的小程序",
-          "link": "https://www.v2ex.com/t/1251222#reply0",
-          "date": "2026-10-23T04:28:09+00:00"
+          "title": "[推广] 🔥今日份福利— 纯净住宅 IP 免费领",
+          "link": "https://www.v2ex.com/t/1251335#reply0",
+          "date": "2026-10-23T09:33:06+00:00"
         },
         {
-          "title": "[酷工作] 程序员远程工作真的靠谱？",
-          "link": "https://www.v2ex.com/t/1251220#reply1",
-          "date": "2026-10-23T04:14:06+00:00"
+          "title": "[随想] 领导觉得有 AI 后写代码不需要时间，原本两周的活硬压到两天上线",
+          "link": "https://www.v2ex.com/t/1251334#reply0",
+          "date": "2026-10-23T09:27:19+00:00"
         }
       ]
     },
@@ -509,6 +509,16 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
+          "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+          "link": "https://www.qbitai.com/2026/10/504901.html",
+          "date": "2026-10-23T07:35:51+00:00"
+        },
+        {
+          "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+          "link": "https://www.qbitai.com/2026/10/504879.html",
+          "date": "2026-10-22T09:07:05+00:00"
+        },
+        {
           "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
           "link": "https://www.qbitai.com/2026/10/504841.html",
           "date": "2026-10-22T07:14:48+00:00"
@@ -522,16 +532,6 @@
           "title": "谁在给OpenAI供应具身数据？",
           "link": "https://www.qbitai.com/2026/10/504800.html",
           "date": "2026-10-22T07:05:59+00:00"
-        },
-        {
-          "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
-          "link": "https://www.qbitai.com/2026/10/504734.html",
-          "date": "2026-10-21T11:30:59+00:00"
-        },
-        {
-          "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
-          "link": "https://www.qbitai.com/2026/10/504730.html",
-          "date": "2026-10-21T09:45:22+00:00"
         }
       ]
     },
@@ -540,6 +540,11 @@
       "category": "AI",
       "url": "https://www.technologyreview.com/feed/",
       "items": [
+        {
+          "title": "In the biotech world, you can’t see everything",
+          "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+          "date": "2026-10-23T09:00:00+00:00"
+        },
         {
           "title": "Designing an AI serving harness built to last",
           "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
@@ -559,43 +564,6 @@
           "title": "Making the case for context-aware AI",
           "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
           "date": "2026-10-22T10:00:00+00:00"
-        },
-        {
-          "title": "Three things you should know about permafrost",
-          "link": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
-          "date": "2026-10-22T10:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Nature",
-      "category": "科研",
-      "url": "https://www.nature.com/nature.rss",
-      "items": [
-        {
-          "title": "Can a 'lullaby' save coral reefs from extinction?",
-          "link": "https://www.nature.com/articles/d41586-026-03414-3",
-          "date": "2026-10-22T00:00:00+00:00"
-        },
-        {
-          "title": "A first for CRISPR: powerful prime editing alters DNA directly in the human body",
-          "link": "https://www.nature.com/articles/d41586-026-03371-x",
-          "date": "2026-10-22T00:00:00+00:00"
-        },
-        {
-          "title": "Teen depression and anxiety predicted by childhood brain development",
-          "link": "https://www.nature.com/articles/d41586-026-03357-9",
-          "date": "2026-10-22T00:00:00+00:00"
-        },
-        {
-          "title": "Can maths survive AI? Fields medallist Terence Tao calls for a ‘Maths 2.0’ world",
-          "link": "https://www.nature.com/articles/d41586-026-03389-1",
-          "date": "2026-10-22T00:00:00+00:00"
-        },
-        {
-          "title": "Current-Driven Molecular Machine with Rotation-Enhanced Conductance",
-          "link": "https://www.nature.com/articles/s41586-026-11312-x",
-          "date": "2026-10-22T00:00:00+00:00"
         }
       ]
     },
@@ -634,6 +602,7 @@
   ],
   "failed": [
     "36 氪",
-    "酷壳"
+    "酷壳",
+    "Nature"
   ]
 }
