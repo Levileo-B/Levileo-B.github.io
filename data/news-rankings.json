@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-22T23:25:47+00:00",
-  "updated": "2026-10-22T23:25:46+00:00",
+  "generated_at": "2026-10-23T04:56:44+00:00",
+  "updated": "2026-10-23T04:56:44+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-19T00:00:00+08:00",
-    "end": "2026-10-22T23:25:47+00:00",
-    "total": 694,
+    "end": "2026-10-23T04:56:44+00:00",
+    "total": 730,
     "items": [
       {
         "title": "Quad9 DNS Resolver to exit France",
@@ -84,6 +84,22 @@
         "observed_days": 2
       },
       {
+        "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+        "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo",
+        "date": "2026-10-22T22:27:53+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
         "title": "What is PHP and why did it spark a global cyber-security scramble?",
         "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
         "date": "2026-10-22T03:48:50+00:00",
@@ -141,22 +157,6 @@
         "sources": [
           "Hacker News",
           "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-        "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
-        "date": "2026-10-20T23:24:47+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
         ],
         "source_count": 2,
         "observed_days": 1
@@ -744,6 +744,22 @@
       ],
       "综合": [
         {
+          "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+          "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo",
+          "date": "2026-10-22T22:27:53+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "What is PHP and why did it spark a global cyber-security scramble?",
           "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
           "date": "2026-10-22T03:48:50+00:00",
@@ -876,23 +892,25 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Macron accuses foreign leaders of exploiting French riots",
-          "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo",
-          "date": "2026-10-21T14:04:28+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
+        {
+          "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+          "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo",
+          "date": "2026-10-22T22:27:53+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
         {
           "title": "What is PHP and why did it spark a global cyber-security scramble?",
           "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
@@ -1026,28 +1044,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
-          "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-          "date": "2026-10-21T08:52:33+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-22T23:25:47+00:00",
-    "total": 3023,
+    "end": "2026-10-23T04:56:44+00:00",
+    "total": 3059,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
@@ -1928,9 +1932,9 @@
           "observed_days": 2
         },
         {
-          "title": "What is PHP and why did it spark a global cyber-security scramble?",
-          "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
-          "date": "2026-10-22T03:48:50+00:00",
+          "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+          "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo",
+          "date": "2026-10-22T22:27:53+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -1944,9 +1948,9 @@
           "observed_days": 1
         },
         {
-          "title": "Websites taken down worldwide as critical cyber-security update issued",
-          "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o",
-          "date": "2026-10-21T19:54:57+00:00",
+          "title": "What is PHP and why did it spark a global cyber-security scramble?",
+          "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
+          "date": "2026-10-22T03:48:50+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -2090,9 +2094,9 @@
           "observed_days": 2
         },
         {
-          "title": "What is PHP and why did it spark a global cyber-security scramble?",
-          "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
-          "date": "2026-10-22T03:48:50+00:00",
+          "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+          "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo",
+          "date": "2026-10-22T22:27:53+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -2106,9 +2110,9 @@
           "observed_days": 1
         },
         {
-          "title": "Websites taken down worldwide as critical cyber-security update issued",
-          "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o",
-          "date": "2026-10-21T19:54:57+00:00",
+          "title": "What is PHP and why did it spark a global cyber-security scramble?",
+          "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
+          "date": "2026-10-22T03:48:50+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",

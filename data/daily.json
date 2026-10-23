@@ -1,40 +1,69 @@
 {
-  "updated": "2026-10-22T23:25:47+00:00",
+  "updated": "2026-10-23T04:56:44+00:00",
   "leetcode": {
-    "date": "2026-10-22",
-    "id": "3942",
-    "title": "Minimum Operations to Sort a Permutation",
-    "titleEn": "Minimum Operations to Sort a Permutation",
-    "slug": "minimum-operations-to-sort-a-permutation",
+    "date": "2026-10-23",
+    "id": "3644",
+    "title": "Maximum K to Sort a Permutation",
+    "titleEn": "Maximum K to Sort a Permutation",
+    "slug": "maximum-k-to-sort-a-permutation",
     "difficulty": "Medium",
     "tags": [
-      "Array"
+      "Array",
+      "Bit Manipulation"
     ],
-    "link": "https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/",
+    "link": "https://leetcode.com/problems/maximum-k-to-sort-a-permutation/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "1986–87 Gillingham F.C. season",
-    "text": "During the 1986–87 English football season, Gillingham F.C. competed in the Football League Third Division. It was the 55th season in which the club competed in the Football League, and the 37th since the club was voted back into the league in 1950. Gillingham began the season strongly and were top of the Third Division table shortly before the mid-point of the season. The team's form declined in the second half of the season; to qualify for the play-offs for promotion to the Football League Second Division, the team needed to win their final game and both Bristol City and Notts County had to fail to win theirs. A victory over Bolton Wanderers, combined with both the other teams being held to draws, meant that Gillingham finished in fifth place and qualified for the play-offs. After beating Sunderland in the semi-finals, Gillingham faced Swindon Town in the final. The two teams drew 2–2 on aggregate, necessitating a replay at a neutral venue, which Swindon won 2–0 to claim a place in the Second Division.",
-    "words": 174,
-    "url": "https://en.wikipedia.org/wiki/1986%E2%80%9387_Gillingham_F.C._season",
-    "date": "2026-10-22",
+    "title": "Thuggee",
+    "text": "Thuggee was a phenomenon of highway robbery in the Indian subcontinent that saw gangs of Thugs murder and rob travellers, often by strangling. During the British colonial era, thuggee was represented and popularised as a secret pan-Indian fraternity of ritual stranglers with ancient origins, motivated by fanaticism and bloodlust. This portrayal has come under intense scholarly criticism beginning in the 1950s, with historical reinterpretations generally contesting the significance of religion to thuggee and viewing the Thugs as more or less ordinary criminals, or thuggee as a type of banditry. There is a general consensus among contemporary historians against the colonial-era representation.",
+    "words": 101,
+    "url": "https://en.wikipedia.org/wiki/Thuggee",
+    "date": "2026-10-23",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "The Ducktators",
-    "creator": "Norman McCabe",
-    "year": "1942",
-    "url": "https://archive.org/download/201164_The_Ducktators/201164_The_Ducktators_master.intros.mp4",
-    "page": "https://archive.org/details/201164_The_Ducktators",
-    "date": "2026-10-22",
+    "title": "Outsider, The",
+    "creator": "Centron Productions",
+    "year": "1951",
+    "url": "https://archive.org/download/Outsider1951/Outsider1951_512kb.mp4",
+    "page": "https://archive.org/details/Outsider1951",
+    "date": "2026-10-23",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
+    {
+      "title": "Duo Henrique Iwao-Mário Del Nunzio - Trios & Quartetos [lim01, mp3]",
+      "artist": "Henrique Iwao, Mário Del Nunzio",
+      "url": "https://archive.org/download/duo_henrique_iwao-mario_del_nunzio-trios_e_quartetos-mp3/01.%20quarteto%201%2C%20no.%202%20%28com%20antonio%20panda%20gianfratti%20e%20lucas%20araujo%29.mp3",
+      "page": "https://archive.org/details/duo_henrique_iwao-mario_del_nunzio-trios_e_quartetos-mp3",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "ЖЕСТОКОЕ БЛЯДСКОЕ УБИЙСТВО - Vangers sell biburats dick for bibas and flegmas (2020)",
+      "artist": "ЖЕСТОКОЕ БЛЯДСКОЕ УБИЙСТВО",
+      "url": "https://archive.org/download/IBR_1495/01.%20%D0%98%D0%9D%D0%A2%D0%A0%D0%9E%20%D0%94%D0%9B%D0%AF%20%D0%9C%D0%9E%D0%A0%D0%90%D0%9B%D0%AC%D0%9D%D0%9E%20%D0%98%D0%A1%D0%A2%D0%9E%D0%A9%D0%95%D0%9D%D0%9D%D0%AB%D0%A5%20%D0%93%D0%95%D0%95%D0%92.mp3",
+      "page": "https://archive.org/details/IBR_1495",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "DIENSTbar @ dfm.nu Transmission No. 109 Special Guest: Matt Grau",
+      "artist": "Ohmnoise",
+      "url": "https://archive.org/download/dbdfmnu109/dbdfmnu109.mp3",
+      "page": "https://archive.org/details/dbdfmnu109",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "[ENDE473] Hyperex Machina - The Aesthetics Of Salvation",
+      "artist": "",
+      "url": "https://archive.org/download/ende473-hyperex-machina-the-aestehtics-of-salvation/01%20-%20Hyperex%20Machina%20-%20part%201.mp3",
+      "page": "https://archive.org/details/ende473-hyperex-machina-the-aestehtics-of-salvation",
+      "license": "Creative Commons"
+    },
     {
       "title": "ryan l - aquas [quiz015]",
       "artist": "ryan l",
@@ -43,81 +72,53 @@
       "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
     },
     {
-      "title": "Silas & Friends vol.3 (waag_rel050)",
-      "artist": "Cousin Silas and Friends",
-      "url": "https://archive.org/download/waag_rel050/01_-_Cousin-Silas-and-Ian-Scott_-_Think-of-a-sound.mp3",
-      "page": "https://archive.org/details/waag_rel050",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "Beyond The Smoke Is Light",
+      "artist": "George L Smyth",
+      "url": "https://archive.org/download/beyondthesmokeislight/Beyond%20the%20Smoke%20Is%20Light.mp3",
+      "page": "https://archive.org/details/beyondthesmokeislight",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
-      "title": "NXL014 Contracorriente + Respeto",
-      "artist": "Pobreza Extrema",
-      "url": "https://archive.org/download/NXL014/01Farsante.mp3",
-      "page": "https://archive.org/details/NXL014",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "V/A - Swamp Soundscapes",
+      "artist": "Cian Orbe Netlabel",
+      "url": "https://archive.org/download/v-a-swamp-soundscapes/01%20-%20EGT%20DND%20-%20Swamp%20Night.mp3",
+      "page": "https://archive.org/details/v-a-swamp-soundscapes",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "Reii - 001 Farewell [foot055]",
-      "artist": "Ren Rei",
-      "url": "https://archive.org/download/foot055/foot055_01-reii-overdose.mp3",
-      "page": "https://archive.org/details/foot055",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "VBR Podcast #38",
-      "artist": "Banyek",
-      "url": "https://archive.org/download/vbr038/vbr_038.mp3",
-      "page": "https://archive.org/details/vbr038",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
-    },
-    {
-      "title": "Frame - Random Features [enrmp339]",
-      "artist": "Frame",
-      "url": "https://archive.org/download/enrmp339_frame_-_random_features/01_frame_-_global_communication.mp3",
-      "page": "https://archive.org/details/enrmp339_frame_-_random_features",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "prep16 - on the grid",
-      "artist": "Perrin",
-      "url": "https://archive.org/download/prep16/prep16-perrin_-_on_the_grid.mp3",
-      "page": "https://archive.org/details/prep16",
+      "title": "Fabrice Planquette - musique pour Dans la solitude des champs du coton [cnv 12]",
+      "artist": "fabrice planquette",
+      "url": "https://archive.org/download/cnv12/cnv12_-_fabrice_planquette_-_01.mp3",
+      "page": "https://archive.org/details/cnv12",
       "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/"
     },
     {
-      "title": "Starvation Ritual- The Gallows' Lament",
-      "artist": "Starvation Ritual",
-      "url": "https://archive.org/download/StarvationRitual-TheGallowsLament/EternalSuffering.mp3",
-      "page": "https://archive.org/details/StarvationRitual-TheGallowsLament",
-      "license": "http://creativecommons.org/licenses/by-nc/3.0/us/"
+      "title": "Plantre - Tunnel Of A Centillion Millipede Legs EP [exp010]",
+      "artist": "Plantre",
+      "url": "https://archive.org/download/exp010/plantre_-_tunnel_of_a_centillion_millipede_legs_-_01_-_field_cave.mp3",
+      "page": "https://archive.org/details/exp010",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
     },
     {
-      "title": "sex song 3000",
-      "artist": "gordan ramsay",
-      "url": "https://archive.org/download/sex-song-3000/gordan%20ramsay%20-%20sex%20song%203000/Old%20GwennyLOL-TDC%20Gwenhyvar%20Music%20-%20sex%20song%203000%20-%2009%20el%20funkin%20del%20venerdi%20sera%20mi%20uccide.mp3",
-      "page": "https://archive.org/details/sex-song-3000",
-      "license": "Creative Commons"
+      "title": "DIENSTbar @ dfm.nu Transmission No. 250 Special Theme: Exquisite Session",
+      "artist": "DIENSTbar",
+      "url": "https://archive.org/download/dbdfmnu250/dbdfmnu250.mp3",
+      "page": "https://archive.org/details/dbdfmnu250",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "Mean Mother Green",
-      "artist": "Deadman & Digi Hartatak",
-      "url": "https://archive.org/download/meanmothergreen/MeanMotherGreen.mp3",
-      "page": "https://archive.org/details/meanmothergreen",
-      "license": "http://creativecommons.org/licenses/by/3.0/"
+      "title": "V/A - ▼ Experiments on the Witch House ▲",
+      "artist": "Dawn of Darkness Netlabel",
+      "url": "https://archive.org/download/experiments-on-the-witch-house/01%20-%20Messerschmitt%20-%20Petrel.mp3",
+      "page": "https://archive.org/details/experiments-on-the-witch-house",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "Cow - 'Animal Salad'",
-      "artist": "Cow: Christie Howes, Andrew Howes",
-      "url": "https://archive.org/download/sPE_0157/Cow_-_Animal_Salad_01_Bird_Market.mp3",
-      "page": "https://archive.org/details/sPE_0157",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "Hunz - i am way one son",
-      "artist": "Hunz",
-      "url": "https://archive.org/download/fm-63/01%20-%20i%20am%20way%20one%20son.mp3",
-      "page": "https://archive.org/details/fm-63",
-      "license": "Creative Commons"
+      "title": "Seism & Reverend Aphex Empire On Mars - Split LP - DBR01",
+      "artist": "Seism & Reverend Aphex Empire On Mars",
+      "url": "https://archive.org/download/dbr01/DBR01-_-01-_-Seism-_-Sound_Mirror.mp3",
+      "page": "https://archive.org/details/dbr01",
+      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
     }
   ]
 }
