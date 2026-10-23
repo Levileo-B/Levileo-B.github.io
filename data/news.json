@@ -1,11 +1,16 @@
 {
-  "updated": "2026-10-23T10:08:00+00:00",
+  "updated": "2026-10-23T15:07:58+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "台灣地方選舉倒數一個月：「颱風假」牽動選情？",
+          "link": "https://www.bbc.com/zhongwen/articles/c9zrdkn7336yo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-23T10:33:20+00:00"
+        },
         {
           "title": "颱風薔琵：台灣釀1死171傷，大部分縣市停班停課",
           "link": "https://www.bbc.com/zhongwen/live/c6y8lvmvj151t/trad?at_medium=RSS&at_campaign=rss",
@@ -25,11 +30,6 @@
           "title": "西藏那曲7級地震16死54傷，當局派翼龍無人機進行災情偵察",
           "link": "https://www.bbc.com/zhongwen/articles/c9zrd1rd3jmyo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-23T05:23:41+00:00"
-        },
-        {
-          "title": "PHP是什麼？為何它引發全球網絡安全危機？",
-          "link": "https://www.bbc.com/zhongwen/articles/c370pr45nelgo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-23T08:09:29+00:00"
         }
       ]
     },
@@ -39,29 +39,29 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-          "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-23T09:36:43+00:00"
+          "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+          "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-23T14:15:23+00:00"
         },
         {
-          "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-          "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-23T07:52:32+00:00"
+          "title": "Six shot dead by gunmen at church funeral in Jordan, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-23T15:00:27+00:00"
         },
         {
-          "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
-          "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-23T08:45:58+00:00"
-        },
-        {
-          "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-23T05:16:37+00:00"
-        },
-        {
-          "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+          "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
           "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-23T09:44:40+00:00"
+          "date": "2026-10-23T14:45:43+00:00"
+        },
+        {
+          "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-23T15:06:27+00:00"
+        },
+        {
+          "title": "PSG v Lyon moved as Paris prepares for more protests",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-23T14:18:41+00:00"
         }
       ]
     },
@@ -70,6 +70,11 @@
       "category": "财经",
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
+        {
+          "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
+          "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-23T11:48:04+00:00"
+        },
         {
           "title": "Lights will stay on this winter, grid operator says after concerns",
           "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
@@ -89,11 +94,6 @@
           "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
           "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-22T22:27:53+00:00"
-        },
-        {
-          "title": "'I wasn't thinking straight' says five jobs civil servant",
-          "link": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-22T15:05:47+00:00"
         }
       ]
     },
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "U.S. oil holds above $100, Brent at five-month high as Iran says it’s prepared for warfare",
-          "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-          "date": "2026-10-23T09:02:44+00:00"
+          "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+          "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+          "date": "2026-10-23T15:04:33+00:00"
         },
         {
-          "title": "Volvo Cars plunges 27% as CEO says China sales slump came 'faster than we thought'",
-          "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
-          "date": "2026-10-23T09:41:01+00:00"
+          "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+          "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+          "date": "2026-10-23T14:55:36+00:00"
         },
         {
-          "title": "Nvidia's Huang heads to Kazakhstan for the first time — and he's not the only one with big plans",
-          "link": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
-          "date": "2026-10-23T09:21:59+00:00"
+          "title": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
+          "link": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html",
+          "date": "2026-10-23T14:34:37+00:00"
         },
         {
-          "title": "France is flashing euro crisis signals. This time, the fault lines are different",
-          "link": "https://www.cnbc.com/2026/10/23/france-debt-euro-zone-contagion.html",
-          "date": "2026-10-23T09:03:26+00:00"
+          "title": "Restaurant earnings will test whether owning more brands pays off",
+          "link": "https://www.cnbc.com/2026/10/23/darden-brinker-qsr-stocks-restaurant-earnings.html",
+          "date": "2026-10-23T13:55:46+00:00"
         },
         {
-          "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
-          "link": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
-          "date": "2026-10-22T21:02:07+00:00"
+          "title": "Corruption is voters' top issue ahead of midterm election, CNBC survey shows",
+          "link": "https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html",
+          "date": "2026-10-23T10:00:01+00:00"
         }
       ]
     },
@@ -134,6 +134,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "本周看什么 | 最近值得一看的 12 部作品",
+          "link": "https://sspai.com/post/117169",
+          "date": "2026-10-23T10:09:01+00:00"
+        },
         {
           "title": "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
           "link": "https://sspai.com/post/116398",
@@ -153,11 +158,6 @@
           "title": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
           "link": "https://sspai.com/post/115437",
           "date": "2026-10-22T09:10:03+00:00"
-        },
-        {
-          "title": "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本",
-          "link": "https://sspai.com/post/116923",
-          "date": "2026-10-22T07:00:00+00:00"
         }
       ]
     },
@@ -199,29 +199,29 @@
       "url": "https://www.solidot.org/index.rss",
       "items": [
         {
+          "title": "梵高名画《The Starry Night》可能描绘的是真实的夜空",
+          "link": "https://www.solidot.org/story?sid=85697",
+          "date": "2026-10-23T12:01:50+00:00"
+        },
+        {
+          "title": "希腊通过法案禁止 15 岁以下儿童使用社媒",
+          "link": "https://www.solidot.org/story?sid=85696",
+          "date": "2026-10-23T11:07:11+00:00"
+        },
+        {
+          "title": "宫本茂成为首位获得日本文化勋章的游戏从业者",
+          "link": "https://www.solidot.org/story?sid=85695",
+          "date": "2026-10-23T10:03:59+00:00"
+        },
+        {
+          "title": "联合国警告厄尔尼诺可能导致数千万人粮食短缺",
+          "link": "https://www.solidot.org/story?sid=85694",
+          "date": "2026-10-23T09:32:18+00:00"
+        },
+        {
           "title": "mRNA 癌症疫苗将死亡复发风险减少 42%",
           "link": "https://www.solidot.org/story?sid=85693",
           "date": "2026-10-23T08:48:00+00:00"
-        },
-        {
-          "title": "浏览器 Arc 将于 12 月关闭",
-          "link": "https://www.solidot.org/story?sid=85692",
-          "date": "2026-10-23T07:25:16+00:00"
-        },
-        {
-          "title": "Switch 2 越狱能运行自制程序",
-          "link": "https://www.solidot.org/story?sid=85691",
-          "date": "2026-10-23T07:11:05+00:00"
-        },
-        {
-          "title": "KeePassXC 2.8.0 释出",
-          "link": "https://www.solidot.org/story?sid=85690",
-          "date": "2026-10-23T06:05:58+00:00"
-        },
-        {
-          "title": "eMudhra 退出全球 CA 业务",
-          "link": "https://www.solidot.org/story?sid=85689",
-          "date": "2026-10-23T03:32:21+00:00"
         }
       ]
     },
@@ -231,29 +231,29 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
-          "title": "No, the iPhone Duo isn’t a small phone",
-          "link": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
-          "date": "2026-10-22T23:48:51+00:00"
+          "title": "Our best tips for using the iPhone Duo",
+          "link": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe",
+          "date": "2026-10-23T01:00:51+00:00"
         },
         {
-          "title": "Etsy is cracking down on AI slop listings",
-          "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
-          "date": "2026-10-23T00:09:58+00:00"
+          "title": "Apple revives the original iPod as an Apple Music easter egg",
+          "link": "https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page",
+          "date": "2026-10-23T14:00:39+00:00"
         },
         {
-          "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
-          "link": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
-          "date": "2026-10-22T23:02:43+00:00"
+          "title": "People are vibe coding their way to better TVs",
+          "link": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+          "date": "2026-10-23T13:03:51+00:00"
         },
         {
-          "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
-          "link": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
-          "date": "2026-10-22T23:10:21+00:00"
+          "title": "Netflix can’t fire its way out of this downward spiral",
+          "link": "https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad",
+          "date": "2026-10-23T13:14:38+00:00"
         },
         {
-          "title": "Canva’s first AI image model plans designs before generating them",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-          "date": "2026-10-22T21:53:22+00:00"
+          "title": "Brick’s new app blocker is designed for bedtime doomscrolling",
+          "link": "https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch",
+          "date": "2026-10-23T12:50:17+00:00"
         }
       ]
     },
@@ -263,29 +263,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
+          "link": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
+          "date": "2026-10-23T13:43:21+00:00"
+        },
+        {
+          "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+          "link": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+          "date": "2026-10-23T11:30:22+00:00"
+        },
+        {
+          "title": "Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees",
+          "link": "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
+          "date": "2026-10-23T11:15:03+00:00"
+        },
+        {
+          "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
+          "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
+          "date": "2026-10-23T11:00:57+00:00"
+        },
+        {
           "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
           "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
           "date": "2026-10-22T22:25:33+00:00"
-        },
-        {
-          "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
-          "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
-          "date": "2026-10-22T22:12:19+00:00"
-        },
-        {
-          "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
-          "link": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
-          "date": "2026-10-22T21:52:31+00:00"
-        },
-        {
-          "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
-          "link": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
-          "date": "2026-10-22T21:07:09+00:00"
-        },
-        {
-          "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
-          "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
-          "date": "2026-10-22T20:17:52+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "I Did This Without Your Knowledge",
-          "link": "https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge",
-          "date": "2026-10-23T05:51:45+00:00"
+          "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+          "link": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+          "date": "2026-10-23T13:41:10+00:00"
         },
         {
-          "title": "This I Believe (1952)",
-          "link": "https://www.awakin.org/v2/read/view.php?tid=468",
-          "date": "2026-10-23T02:19:38+00:00"
+          "title": "Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
+          "link": "https://keepandroidopen.org/?",
+          "date": "2026-10-23T13:19:42+00:00"
         },
         {
-          "title": "The foolishness of \"natural language programming\" (1978)",
-          "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-          "date": "2026-10-23T00:52:01+00:00"
+          "title": "Shitter – A Nitter Fork",
+          "link": "https://codeberg.org/shitter/shitter",
+          "date": "2026-10-23T13:02:23+00:00"
         },
         {
-          "title": "Show HN: Making a smart TV dumb and then smart",
-          "link": "https://github.com/anubhavmalhotra/r2d2-tv",
-          "date": "2026-10-23T00:10:45+00:00"
+          "title": "Hacker leaks 281 GB of data from Germany's far-right AfD party",
+          "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd",
+          "date": "2026-10-23T12:56:38+00:00"
         },
         {
-          "title": "Jank – The native Clojure dialect with seamless C++ interop",
-          "link": "https://jank-lang.org/",
-          "date": "2026-10-22T23:56:36+00:00"
+          "title": "OpenSSL 4.1.0",
+          "link": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+          "date": "2026-10-23T12:42:44+00:00"
         }
       ]
     },
@@ -342,14 +342,14 @@
           "date": "2026-10-23T00:37:10+00:00"
         },
         {
-          "title": "a hacky fucked up way to portably access errno from outside of c",
-          "link": "https://sebsite.pw/w/20260925-errno.html",
-          "date": "2026-10-22T21:42:04+00:00"
+          "title": "How close can pure FP get to C?",
+          "link": "https://rtfeldman.com/fp-vs-c",
+          "date": "2026-10-23T11:37:22+00:00"
         },
         {
-          "title": "Quad9 DNS Resolver to exit France",
-          "link": "https://quad9.net/news/blog/au-revoir-france/",
-          "date": "2026-10-22T19:47:39+00:00"
+          "title": "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
+          "link": "https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/",
+          "date": "2026-10-23T07:44:09+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[酷工作] 目前就业形势到底多差？",
-          "link": "https://www.v2ex.com/t/1251338#reply1",
-          "date": "2026-10-23T10:04:42+00:00"
+          "title": "[程序员] 做了一个通用的多 agent 协作工具",
+          "link": "https://www.v2ex.com/t/1251384#reply0",
+          "date": "2026-10-23T15:03:11+00:00"
         },
         {
-          "title": "[分享创造] 分享一个自己做的翻译插件 mewCat，蓝白配色，带一点二次元风格",
-          "link": "https://www.v2ex.com/t/1251337#reply0",
-          "date": "2026-10-23T09:59:57+00:00"
+          "title": "[生活] 年轻人的出路在哪里？",
+          "link": "https://www.v2ex.com/t/1251383#reply3",
+          "date": "2026-10-23T14:49:50+00:00"
         },
         {
-          "title": "[分享创造] 最近用 Vibe Coding 做了个抛硬币小程序",
-          "link": "https://www.v2ex.com/t/1251336#reply0",
-          "date": "2026-10-23T09:39:31+00:00"
+          "title": "[问与答] 现在你们有没有炒股的 美股的 用哪些看盘工具， 现在我在用这个 tradingview 平台，有人在这个平台充值吗",
+          "link": "https://www.v2ex.com/t/1251381#reply1",
+          "date": "2026-10-23T14:44:38+00:00"
         },
         {
-          "title": "[推广] 🔥今日份福利— 纯净住宅 IP 免费领",
-          "link": "https://www.v2ex.com/t/1251335#reply0",
-          "date": "2026-10-23T09:33:06+00:00"
+          "title": "[分享创造] [分享创造] 我做了个图片转可编辑 PPT 的工具，聊聊三类图的实际结果",
+          "link": "https://www.v2ex.com/t/1251380#reply0",
+          "date": "2026-10-23T14:43:18+00:00"
         },
         {
-          "title": "[随想] 领导觉得有 AI 后写代码不需要时间，原本两周的活硬压到两天上线",
-          "link": "https://www.v2ex.com/t/1251334#reply0",
-          "date": "2026-10-23T09:27:19+00:00"
+          "title": "[程序员] we are interested in purchasing either an Apple Developer Enterprise Program account or an enterprise distribution certi",
+          "link": "https://www.v2ex.com/t/1251378#reply0",
+          "date": "2026-10-23T14:35:12+00:00"
         }
       ]
     },
@@ -541,6 +541,11 @@
       "url": "https://www.technologyreview.com/feed/",
       "items": [
         {
+          "title": "The Download: testing six tech promises and biotech’s blind spots",
+          "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "date": "2026-10-23T12:10:00+00:00"
+        },
+        {
           "title": "In the biotech world, you can’t see everything",
           "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
           "date": "2026-10-23T09:00:00+00:00"
@@ -559,11 +564,6 @@
           "title": "The Download: computing’s next leap and permafrost’s climate threat",
           "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
           "date": "2026-10-22T12:10:00+00:00"
-        },
-        {
-          "title": "Making the case for context-aware AI",
-          "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-          "date": "2026-10-22T10:00:00+00:00"
         }
       ]
     },
@@ -573,29 +573,29 @@
       "url": "https://www.sciencedaily.com/rss/all.xml",
       "items": [
         {
+          "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
+          "date": "2026-10-23T11:23:19+00:00"
+        },
+        {
+          "title": "Nearly 20% of Switzerland’s glacier ice has vanished in just five years",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261022081316.htm",
+          "date": "2026-10-23T09:42:58+00:00"
+        },
+        {
+          "title": "Dental implants can hijack your immune system, scientists discover",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
+          "date": "2026-10-23T11:12:28+00:00"
+        },
+        {
           "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
           "link": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
           "date": "2026-10-23T01:21:47+00:00"
         },
         {
-          "title": "Birds are more afraid of women than men. Scientists have no idea why",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm",
-          "date": "2026-10-22T12:06:14+00:00"
-        },
-        {
-          "title": "Oxford scientists discover how viruses build themselves without a blueprint",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261021231248.htm",
-          "date": "2026-10-22T11:42:05+00:00"
-        },
-        {
-          "title": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm",
-          "date": "2026-10-23T02:54:41+00:00"
-        },
-        {
-          "title": "40 years later, Chernobyl's nuclear fallout is not what scientists expected",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261021231241.htm",
-          "date": "2026-10-23T03:35:13+00:00"
+          "title": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
+          "date": "2026-10-23T11:02:25+00:00"
         }
       ]
     }
