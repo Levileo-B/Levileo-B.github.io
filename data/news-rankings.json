@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-24T12:43:08+00:00",
-  "updated": "2026-10-24T12:43:07+00:00",
+  "generated_at": "2026-10-24T16:38:14+00:00",
+  "updated": "2026-10-24T16:38:14+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-19T00:00:00+08:00",
-    "end": "2026-10-24T12:43:08+00:00",
-    "total": 919,
+    "end": "2026-10-24T16:38:14+00:00",
+    "total": 946,
     "items": [
       {
         "title": "How close can pure FP get to C?",
@@ -176,6 +176,62 @@
             "MIT Technology Review"
           ],
           "source_count": 1,
+          "observed_days": 4
+        },
+        {
+          "title": "The Download: testing six tech promises and biotech’s blind spots",
+          "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "date": "2026-10-23T12:10:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "In the biotech world, you can’t see everything",
+          "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+          "date": "2026-10-23T09:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Designing an AI serving harness built to last",
+          "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+          "date": "2026-10-22T21:17:29+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "The Foundations of Scalable AI",
+          "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+          "date": "2026-10-22T18:48:04+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
           "observed_days": 3
         },
         {
@@ -247,62 +303,6 @@
           ],
           "source_count": 1,
           "observed_days": 3
-        },
-        {
-          "title": "The Download: testing six tech promises and biotech’s blind spots",
-          "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
-          "date": "2026-10-23T12:10:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "In the biotech world, you can’t see everything",
-          "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
-          "date": "2026-10-23T09:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
-          "link": "https://www.qbitai.com/2026/10/504901.html",
-          "date": "2026-10-23T07:35:51+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Designing an AI serving harness built to last",
-          "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-          "date": "2026-10-22T21:17:29+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "开发": [
@@ -454,7 +454,7 @@
             "GitHub Blog"
           ],
           "source_count": 1,
-          "observed_days": 5
+          "observed_days": 6
         }
       ],
       "科技": [
@@ -473,6 +473,62 @@
           ],
           "source_count": 2,
           "observed_days": 1
+        },
+        {
+          "title": "本周看什么 | 最近值得一看的 12 部作品",
+          "link": "https://sspai.com/post/117169",
+          "date": "2026-10-23T10:09:01+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
+          "link": "https://sspai.com/post/116398",
+          "date": "2026-10-23T07:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "破与立：设计视角下的 iPhone Duo",
+          "link": "https://sspai.com/post/116979",
+          "date": "2026-10-23T03:07:19+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
+          "link": "https://sspai.com/post/117104",
+          "date": "2026-10-23T00:20:32+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
         },
         {
           "title": "OpenAI 发现 PHP「世纪漏洞」，全球 70% 网站都危险了",
@@ -543,62 +599,6 @@
           ],
           "source_count": 1,
           "observed_days": 3
-        },
-        {
-          "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁",
-          "link": "https://sspai.com/prime/story/inside-release-notes-261020",
-          "date": "2026-10-20T10:01:54+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "梵高名画《The Starry Night》可能描绘的是真实的夜空",
-          "link": "https://www.solidot.org/story?sid=85697",
-          "date": "2026-10-23T12:01:50+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "希腊通过法案禁止 15 岁以下儿童使用社媒",
-          "link": "https://www.solidot.org/story?sid=85696",
-          "date": "2026-10-23T11:07:11+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 12 部作品",
-          "link": "https://sspai.com/post/117169",
-          "date": "2026-10-23T10:09:01+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "科研": [
@@ -673,71 +673,71 @@
           "observed_days": 2
         },
         {
-          "title": "Birds are more afraid of women than men. Scientists have no idea why",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm",
-          "date": "2026-10-22T12:06:14+00:00",
+          "title": "Sleep declines in rural communities after electricity arrives",
+          "link": "https://www.nature.com/articles/d41586-026-03318-2",
+          "date": "2026-10-23T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
           ],
           "sources": [
-            "ScienceDaily"
+            "Nature"
           ],
           "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "Oxford scientists discover how viruses build themselves without a blueprint",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261021231248.htm",
-          "date": "2026-10-22T11:42:05+00:00",
+          "title": "Elusive snow leopards and evasive particles: Books in brief",
+          "link": "https://www.nature.com/articles/d41586-026-03395-3",
+          "date": "2026-10-23T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
           ],
           "sources": [
-            "ScienceDaily"
+            "Nature"
           ],
           "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "A revolutionary new microscope could reveal the hidden machinery of life",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261021231230.htm",
-          "date": "2026-10-22T11:30:49+00:00",
+          "title": "First person infected with rare Shamonda virus: what we know",
+          "link": "https://www.nature.com/articles/d41586-026-03416-1",
+          "date": "2026-10-23T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
           ],
           "sources": [
-            "ScienceDaily"
+            "Nature"
           ],
           "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261021231238.htm",
-          "date": "2026-10-22T11:03:49+00:00",
+          "title": "Briefing Chat: How physicists successfully trapped the electron's antimatter equivalent",
+          "link": "https://www.nature.com/articles/d41586-026-03418-z",
+          "date": "2026-10-23T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
           ],
           "sources": [
-            "ScienceDaily"
+            "Nature"
           ],
           "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "Scientists discover a surprising secret behind the human brain’s wrinkles",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261021231235.htm",
-          "date": "2026-10-22T10:10:23+00:00",
+          "title": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+          "link": "https://www.nature.com/articles/s41586-026-11303-y",
+          "date": "2026-10-23T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
           ],
           "sources": [
-            "ScienceDaily"
+            "Nature"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -825,48 +825,6 @@
           "observed_days": 1
         },
         {
-          "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
-          "date": "2026-10-23T15:06:27+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o",
-          "date": "2026-10-23T15:00:27+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-          "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo",
-          "date": "2026-10-23T14:15:23+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
           "title": "台灣地方選舉倒數一個月：「颱風假」牽動選情？",
           "link": "https://www.bbc.com/zhongwen/articles/c9zrdkn7336yo/trad",
           "date": "2026-10-23T10:33:20+00:00",
@@ -878,21 +836,63 @@
             "BBC 中文"
           ],
           "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
-          "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-          "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko",
-          "date": "2026-10-23T09:44:40+00:00",
+          "title": "巴黎騷亂中的三位華人：「激烈的地方激烈，安靜的地方安靜」",
+          "link": "https://www.bbc.com/zhongwen/articles/ckq6n02lqz8vo/trad",
+          "date": "2026-10-23T08:59:14+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
           ],
           "sources": [
-            "BBC World"
+            "BBC 中文"
           ],
           "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
+        },
+        {
+          "title": "颱風薔琵：台灣釀1死171傷，大部分縣市停班停課",
+          "link": "https://www.bbc.com/zhongwen/live/c6y8lvmvj151t/trad",
+          "date": "2026-10-23T04:56:44+00:00",
+          "date_is_observed": true,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "西藏那曲7級地震16死54傷，當局派翼龍無人機進行災情偵察",
+          "link": "https://www.bbc.com/zhongwen/articles/c9zrd1rd3jmyo/trad",
+          "date": "2026-10-23T03:50:56+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "中共五中全會前瞻：會前為何密集「打虎」？未來怎樣「從嚴治黨」？",
+          "link": "https://www.bbc.com/zhongwen/articles/ckx2q587wvrqo/trad",
+          "date": "2026-10-23T00:41:11+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 3
         }
       ],
       "财经": [
@@ -988,54 +988,54 @@
             "BBC Business"
           ],
           "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
-          "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
-          "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o",
-          "date": "2026-10-22T23:20:38+00:00",
+          "title": "Why popular airplanes are getting scrapped years early",
+          "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+          "date": "2026-10-24T12:20:22+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
           ],
           "sources": [
-            "BBC Business"
+            "CNBC"
           ],
           "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "Lights will stay on this winter, grid operator says after concerns",
-          "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo",
-          "date": "2026-10-22T23:04:38+00:00",
+          "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
+          "link": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
+          "date": "2026-10-24T10:59:16+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
           ],
           "sources": [
-            "BBC Business"
+            "CNBC"
           ],
           "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-          "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno",
-          "date": "2026-10-22T18:26:56+00:00",
+          "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
+          "link": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
+          "date": "2026-10-24T06:23:02+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
           ],
           "sources": [
-            "BBC Business"
+            "CNBC"
           ],
           "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "Tank barrel production returns to UK after 20 years",
-          "link": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o",
-          "date": "2026-10-22T13:45:19+00:00",
+          "title": "How does the UK state pension compare with other countries?",
+          "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo",
+          "date": "2026-10-24T00:09:12+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1051,8 +1051,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-24T12:43:08+00:00",
-    "total": 3248,
+    "end": "2026-10-24T16:38:14+00:00",
+    "total": 3275,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
@@ -1240,6 +1240,20 @@
           "observed_days": 5
         },
         {
+          "title": "The Download: computing’s next leap and permafrost’s climate threat",
+          "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+          "date": "2026-10-22T12:10:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 4
+        },
+        {
           "title": "The Download: failed social media bans, and extending pets’ lives",
           "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
           "date": "2026-10-16T12:10:00+00:00",
@@ -1327,20 +1341,6 @@
           "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
           "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
           "date": "2026-10-02T12:10:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 4
-        },
-        {
-          "title": "A new contest pits competitors against each other in a race to biological youth",
-          "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
-          "date": "2026-10-02T09:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
