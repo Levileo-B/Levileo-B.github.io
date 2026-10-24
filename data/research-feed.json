@@ -1,58 +1,94 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-23T06:28:42.257550+00:00",
-  "attempted_at": "2026-10-23T06:28:42.257550+00:00",
+  "updated": "2026-10-24T06:28:09.664707+00:00",
+  "attempted_at": "2026-10-24T06:28:09.664707+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-10-23T06:28:42.257550+00:00",
+      "last_success": "2026-10-24T06:28:09.664707+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-10-23T06:28:42.257550+00:00",
+      "last_success": "2026-10-24T06:28:09.664707+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-10-23T06:28:42.257550+00:00",
+      "last_success": "2026-10-24T06:28:09.664707+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-10-23T06:28:42.257550+00:00",
+      "last_success": "2026-10-24T06:28:09.664707+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-10-23T06:28:42.257550+00:00",
+      "last_success": "2026-10-24T06:28:09.664707+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-10-23T06:28:42.257550+00:00",
+      "last_success": "2026-10-24T06:28:09.664707+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-10-23T06:28:42.257550+00:00",
+      "last_success": "2026-10-24T06:28:09.664707+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-10-23T06:28:42.257550+00:00",
+      "last_success": "2026-10-24T06:28:09.664707+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.1038/s41598-026-77216-y",
+      "title": "ASC-MAPPO: attention-based communication and safety-constrained multi-agent proximal policy optimization for cooperative path planning and dynamic obstacle avoidance of connected autonomous vehicles",
+      "journal_id": "scientific-reports",
+      "published": "2026-10-24",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-77216-y",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-76456-2",
+      "title": "An improved polarization-sensitive semi-analytic monte carlo simulation method for bathymetric lidar considering complex water-column stratification",
+      "journal_id": "scientific-reports",
+      "published": "2026-10-24",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-76456-2",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1002/rob.70368",
+      "title": "Acoustic–Visual Sensor Fusion for Robot Localization in Buried Pipes",
+      "journal_id": "jfr",
+      "published": "2026-10-23",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1002/rob.70368",
+      "source": "crossref"
+    },
     {
       "id": "10.3390/rs18213632",
       "title": "Application of Multi-Temporal LiDAR for Gully Erosion Monitoring in Mediterranean Intensive Olive Groves",
@@ -1367,30 +1403,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.3390/rs18173005",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1038/s41598-026-70043-1",
-      "title": "A comparative study of path planning algorithms for low-altitude emergency medical UAVs considering task priorities",
-      "journal_id": "scientific-reports",
-      "published": "2026-09-04",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-70043-1",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1038/s41598-026-69295-8",
-      "title": "High-fidelity update method for multi-temporal point cloud models with semantic-geometric collaborative constraints",
-      "journal_id": "scientific-reports",
-      "published": "2026-09-04",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-69295-8",
       "source": "crossref"
     },
     {
