@@ -1,13 +1,28 @@
 {
-  "generated_at": "2026-10-24T01:38:08+00:00",
-  "updated": "2026-10-24T01:38:08+00:00",
+  "generated_at": "2026-10-24T07:20:51+00:00",
+  "updated": "2026-10-24T07:20:51+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-19T00:00:00+08:00",
-    "end": "2026-10-24T01:38:08+00:00",
-    "total": 868,
+    "end": "2026-10-24T07:20:51+00:00",
+    "total": 887,
     "items": [
+      {
+        "title": "How close can pure FP get to C?",
+        "link": "https://rtfeldman.com/fp-vs-c",
+        "date": "2026-10-23T11:37:22+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
       {
         "title": "Quad9 DNS Resolver to exit France",
         "link": "https://quad9.net/news/blog/au-revoir-france/",
@@ -135,21 +150,6 @@
         "title": "Google's Rust Style Guide",
         "link": "https://google.github.io/styleguide/rustguide.html",
         "date": "2026-10-21T19:11:57+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "The Future of CSS",
-        "link": "https://www.joshwcomeau.com/css/interop-2027/",
-        "date": "2026-10-21T01:47:28+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -307,6 +307,21 @@
       ],
       "开发": [
         {
+          "title": "How close can pure FP get to C?",
+          "link": "https://rtfeldman.com/fp-vs-c",
+          "date": "2026-10-23T11:37:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Quad9 DNS Resolver to exit France",
           "link": "https://quad9.net/news/blog/au-revoir-france/",
           "date": "2026-10-22T14:32:38+00:00",
@@ -440,20 +455,6 @@
           ],
           "source_count": 1,
           "observed_days": 5
-        },
-        {
-          "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
-          "link": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
-          "date": "2026-10-20T16:05:03+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "GitHub Blog"
-          ],
-          "source_count": 1,
-          "observed_days": 4
         }
       ],
       "科技": [
@@ -1050,8 +1051,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-24T01:38:08+00:00",
-    "total": 3197,
+    "end": "2026-10-24T07:20:51+00:00",
+    "total": 3216,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
@@ -1118,6 +1119,21 @@
         "observed_days": 3
       },
       {
+        "title": "How close can pure FP get to C?",
+        "link": "https://rtfeldman.com/fp-vs-c",
+        "date": "2026-10-23T11:37:22+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
         "title": "Quad9 DNS Resolver to exit France",
         "link": "https://quad9.net/news/blog/au-revoir-france/",
         "date": "2026-10-22T14:32:38+00:00",
@@ -1181,21 +1197,6 @@
         "title": "Wine ported to OpenBSD",
         "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
         "date": "2026-10-19T13:35:34+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "The Brain Sandwich",
-        "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-        "date": "2026-10-18T03:03:36+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -1353,6 +1354,21 @@
       ],
       "开发": [
         {
+          "title": "How close can pure FP get to C?",
+          "link": "https://rtfeldman.com/fp-vs-c",
+          "date": "2026-10-23T11:37:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Quad9 DNS Resolver to exit France",
           "link": "https://quad9.net/news/blog/au-revoir-france/",
           "date": "2026-10-22T14:32:38+00:00",
@@ -1477,21 +1493,6 @@
           "title": "Anthropic's Scion is heavily inspired by Mononoke",
           "link": "https://sunshowers.io/posts/anthropic-mononoke/",
           "date": "2026-10-14T20:30:54+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "What I Self-Host",
-          "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-          "date": "2026-10-14T15:32:48+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
