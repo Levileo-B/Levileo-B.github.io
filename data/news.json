@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T19:31:15+00:00",
+  "updated": "2026-10-24T22:31:11+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,12 +39,17 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+          "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-24T21:09:27+00:00"
+        },
+        {
           "title": "Ukraine says Starlink connection 'now stable' after network limits",
           "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-24T12:12:40+00:00"
         },
         {
-          "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+          "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
           "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-24T17:21:42+00:00"
         },
@@ -57,11 +62,6 @@
           "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
           "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-23T22:47:07+00:00"
-        },
-        {
-          "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-          "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-24T17:11:56+00:00"
         }
       ]
     },
@@ -103,19 +103,19 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "Why popular airplanes are getting scrapped years early",
-          "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
-          "date": "2026-10-24T15:18:30+00:00"
-        },
-        {
           "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
           "link": "https://www.cnbc.com/2026/10/24/amgen-imdelltra-lung-cancer-data.html",
           "date": "2026-10-24T14:30:01+00:00"
         },
         {
-          "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
-          "link": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
-          "date": "2026-10-24T10:59:16+00:00"
+          "title": "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification",
+          "link": "https://www.cnbc.com/2026/10/24/alaska-senate-doj-certification-lawsuit.html",
+          "date": "2026-10-24T19:57:24+00:00"
+        },
+        {
+          "title": "Why popular airplanes are getting scrapped years early",
+          "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+          "date": "2026-10-24T15:18:30+00:00"
         },
         {
           "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
@@ -123,9 +123,9 @@
           "date": "2026-10-24T06:23:02+00:00"
         },
         {
-          "title": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
-          "link": "https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html",
-          "date": "2026-10-24T15:00:01+00:00"
+          "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
+          "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+          "date": "2026-10-24T20:38:30+00:00"
         }
       ]
     },
@@ -231,6 +231,11 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Blue Planet III is keeping the rough edges in the age of AI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+          "date": "2026-10-24T21:29:12+00:00"
+        },
+        {
           "title": "Pennsylvania will require labels on AI-generated ads",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
           "date": "2026-10-24T18:32:44+00:00"
@@ -249,11 +254,6 @@
           "title": "What to expect from Apple’s ‘Pro and tell’ event",
           "link": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
           "date": "2026-10-24T14:13:02+00:00"
-        },
-        {
-          "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-          "link": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
-          "date": "2026-10-24T14:39:53+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
-          "link": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+          "title": "Show HN: Steal My Bitcoin",
+          "link": "https://stealmybitcoin.com/",
+          "date": "2026-10-24T20:30:31+00:00"
+        },
+        {
+          "title": "No signs of AI payoff outside the tech sector",
+          "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+          "date": "2026-10-24T19:47:19+00:00"
+        },
+        {
+          "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+          "link": "https://missileer.watch",
+          "date": "2026-10-24T19:43:27+00:00"
+        },
+        {
+          "title": "SpeedCrunch 1.1",
+          "link": "https://www.speedcrunch.org/",
+          "date": "2026-10-24T19:19:43+00:00"
+        },
+        {
+          "title": "The Goose Programming Language",
+          "link": "https://aardappel.github.io/goose/",
           "date": "2026-10-24T19:06:55+00:00"
-        },
-        {
-          "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
-          "link": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
-          "date": "2026-10-24T19:03:59+00:00"
-        },
-        {
-          "title": "Danish Government silently drops plan to dump MS Office",
-          "link": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
-          "date": "2026-10-24T18:31:48+00:00"
-        },
-        {
-          "title": "Dream-1",
-          "link": "https://dreamlabs.ai/research/dream-1/",
-          "date": "2026-10-24T18:23:24+00:00"
-        },
-        {
-          "title": "Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology",
-          "link": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
-          "date": "2026-10-24T18:19:05+00:00"
         }
       ]
     },
@@ -332,24 +332,24 @@
           "date": "2026-10-24T10:09:28+00:00"
         },
         {
+          "title": "Balloting has completed for C++26. Unfortunately it was Disapproved",
+          "link": "https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL",
+          "date": "2026-10-24T18:00:36+00:00"
+        },
+        {
           "title": "Indian government sites are serving revoked eMudhra certificates",
           "link": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
           "date": "2026-10-24T04:06:06+00:00"
         },
         {
+          "title": "Bringing uv and ty together",
+          "link": "https://astral.sh/blog/uv-ty-integration",
+          "date": "2026-10-24T15:27:34+00:00"
+        },
+        {
           "title": "Wild version 0.11.0 released",
           "link": "https://github.com/wild-linker/wild/releases/tag/0.11.0",
           "date": "2026-10-24T10:11:35+00:00"
-        },
-        {
-          "title": "Attention people who think UB is fine",
-          "link": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
-          "date": "2026-10-23T20:47:58+00:00"
-        },
-        {
-          "title": "Be Aware of What's in Your Logs",
-          "link": "https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/",
-          "date": "2026-10-24T10:42:05+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
+          "title": "[分享创造] 分享一个用 Rust 写的开源 2D CAD： CADCraft",
+          "link": "https://www.v2ex.com/t/1251588#reply0",
+          "date": "2026-10-24T21:41:32+00:00"
+        },
+        {
+          "title": "[分享发现] 谈谈我的每月 20 美元 AI 工具搭配策略：为什么我停掉了官方 Claude Pro 订阅",
+          "link": "https://www.v2ex.com/t/1251587#reply2",
+          "date": "2026-10-24T20:57:41+00:00"
+        },
+        {
+          "title": "[OpenAI] team codex 额度 vs GPT PLUS 额度如何？",
+          "link": "https://www.v2ex.com/t/1251586#reply0",
+          "date": "2026-10-24T20:04:20+00:00"
+        },
+        {
           "title": "[分享创造] 我写了个自认为非常牛逼的浏览器插件: StackPrism",
-          "link": "https://www.v2ex.com/t/1251585#reply0",
+          "link": "https://www.v2ex.com/t/1251585#reply2",
           "date": "2026-10-24T18:19:15+00:00"
         },
         {
           "title": "[硬件] 理了一下马斯克和英特尔的公开信息： Terafab + 14A，目前只有「总体框架」，没那么铁",
           "link": "https://www.v2ex.com/t/1251584#reply0",
           "date": "2026-10-24T18:12:47+00:00"
-        },
-        {
-          "title": "[程序员] 分享 Vibe Coding 作品： AI Vault，多 Agent 技能管理工具+llama.cpp 本地部署工具",
-          "link": "https://www.v2ex.com/t/1251583#reply0",
-          "date": "2026-10-24T16:51:17+00:00"
-        },
-        {
-          "title": "[推广] 做了一个生成 Rap 视频的工具，欢迎来玩",
-          "link": "https://www.v2ex.com/t/1251581#reply0",
-          "date": "2026-10-24T16:20:28+00:00"
-        },
-        {
-          "title": "[酷工作] App 开发工程师",
-          "link": "https://www.v2ex.com/t/1251580#reply0",
-          "date": "2026-10-24T16:16:50+00:00"
         }
       ]
     },
