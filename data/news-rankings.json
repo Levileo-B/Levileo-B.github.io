@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-24T16:38:14+00:00",
-  "updated": "2026-10-24T16:38:14+00:00",
+  "generated_at": "2026-10-24T19:31:15+00:00",
+  "updated": "2026-10-24T19:31:15+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-19T00:00:00+08:00",
-    "end": "2026-10-24T16:38:14+00:00",
-    "total": 946,
+    "end": "2026-10-24T19:31:15+00:00",
+    "total": 956,
     "items": [
       {
         "title": "How close can pure FP get to C?",
@@ -179,6 +179,48 @@
           "observed_days": 4
         },
         {
+          "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+          "link": "https://www.qbitai.com/2026/10/504841.html",
+          "date": "2026-10-22T07:14:48+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 4
+        },
+        {
+          "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+          "link": "https://www.qbitai.com/2026/10/504832.html",
+          "date": "2026-10-22T07:11:14+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 4
+        },
+        {
+          "title": "谁在给OpenAI供应具身数据？",
+          "link": "https://www.qbitai.com/2026/10/504800.html",
+          "date": "2026-10-22T07:05:59+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 4
+        },
+        {
           "title": "The Download: testing six tech promises and biotech’s blind spots",
           "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
           "date": "2026-10-23T12:10:00+00:00",
@@ -202,6 +244,20 @@
           ],
           "sources": [
             "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+          "link": "https://www.qbitai.com/2026/10/504901.html",
+          "date": "2026-10-23T07:35:51+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
           ],
           "source_count": 1,
           "observed_days": 3
@@ -235,65 +291,9 @@
           "observed_days": 3
         },
         {
-          "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
-          "link": "https://www.qbitai.com/2026/10/504841.html",
-          "date": "2026-10-22T07:14:48+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-          "link": "https://www.qbitai.com/2026/10/504832.html",
-          "date": "2026-10-22T07:11:14+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "谁在给OpenAI供应具身数据？",
-          "link": "https://www.qbitai.com/2026/10/504800.html",
-          "date": "2026-10-22T07:05:59+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
-          "link": "https://www.qbitai.com/2026/10/504266.html",
-          "date": "2026-10-19T10:27:39+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "全栈自研！国产高端互连芯片，稳了!",
-          "link": "https://www.qbitai.com/2026/10/504225.html",
-          "date": "2026-10-19T10:15:19+00:00",
+          "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+          "link": "https://www.qbitai.com/2026/10/504879.html",
+          "date": "2026-10-22T09:07:05+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -1051,8 +1051,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-24T16:38:14+00:00",
-    "total": 3275,
+    "end": "2026-10-24T19:31:15+00:00",
+    "total": 3285,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
@@ -1254,6 +1254,48 @@
           "observed_days": 4
         },
         {
+          "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+          "link": "https://www.qbitai.com/2026/10/504841.html",
+          "date": "2026-10-22T07:14:48+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 4
+        },
+        {
+          "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+          "link": "https://www.qbitai.com/2026/10/504832.html",
+          "date": "2026-10-22T07:11:14+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 4
+        },
+        {
+          "title": "谁在给OpenAI供应具身数据？",
+          "link": "https://www.qbitai.com/2026/10/504800.html",
+          "date": "2026-10-22T07:05:59+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 4
+        },
+        {
           "title": "The Download: failed social media bans, and extending pets’ lives",
           "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
           "date": "2026-10-16T12:10:00+00:00",
@@ -1299,48 +1341,6 @@
           "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
           "link": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
           "date": "2026-10-16T09:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 4
-        },
-        {
-          "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
-          "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
-          "date": "2026-10-09T12:10:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 4
-        },
-        {
-          "title": "We’re putting too much faith in AI’s ability to say no",
-          "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-          "date": "2026-10-09T09:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 4
-        },
-        {
-          "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
-          "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
-          "date": "2026-10-02T12:10:00+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
