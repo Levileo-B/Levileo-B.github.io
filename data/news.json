@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T23:11:10+00:00",
+  "updated": "2026-10-24T01:38:08+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -71,6 +71,16 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
+          "title": "How does the UK state pension compare with other countries?",
+          "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-24T00:09:12+00:00"
+        },
+        {
+          "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+          "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-24T00:05:45+00:00"
+        },
+        {
           "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
           "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-23T15:15:13+00:00"
@@ -78,22 +88,12 @@
         {
           "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
           "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-23T22:54:57+00:00"
+          "date": "2026-10-24T00:36:47+00:00"
         },
         {
           "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
           "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-23T11:48:04+00:00"
-        },
-        {
-          "title": "Lights will stay on this winter, grid operator says after concerns",
-          "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-23T06:47:10+00:00"
-        },
-        {
-          "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
-          "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-22T23:20:38+00:00"
         }
       ]
     },
@@ -108,6 +108,11 @@
           "date": "2026-10-23T21:26:59+00:00"
         },
         {
+          "title": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+          "link": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+          "date": "2026-10-23T22:49:04+00:00"
+        },
+        {
           "title": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
           "link": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
           "date": "2026-10-23T22:27:06+00:00"
@@ -116,11 +121,6 @@
           "title": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
           "link": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
           "date": "2026-10-23T22:49:42+00:00"
-        },
-        {
-          "title": "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch",
-          "link": "https://www.cnbc.com/2026/10/23/apple-iphone-duo-china-launch.html",
-          "date": "2026-10-23T20:06:37+00:00"
         },
         {
           "title": "AI's 'Black October': Critical PHP flaws set off global security scramble",
@@ -167,6 +167,11 @@
       "url": "https://www.ifanr.com/feed",
       "items": [
         {
+          "title": "早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
+          "link": "https://www.ifanr.com/1685660?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-10-24T00:26:49+00:00"
+        },
+        {
           "title": "实测 iPhone Duo 微信适配版：适配好了吗，体验怎么样？",
           "link": "https://www.ifanr.com/1685575?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-10-23T09:52:47+00:00"
@@ -185,11 +190,6 @@
           "title": "劳斯莱斯同款对开门！仰望旗舰轿车即将发布，还会有固态电池？",
           "link": "https://www.ifanr.com/1685489?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-10-22T08:37:53+00:00"
-        },
-        {
-          "title": "PHP爆雷引发全球紧急「拔网线」，别指望 AI 拯救互联网",
-          "link": "https://www.ifanr.com/1685446?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-10-22T05:58:07+00:00"
         }
       ]
     },
@@ -295,6 +295,16 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+          "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+          "date": "2026-10-23T23:30:17+00:00"
+        },
+        {
+          "title": "German court calls Google aerial imagery 'spying'",
+          "link": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
+          "date": "2026-10-23T22:18:49+00:00"
+        },
+        {
           "title": "CVE Tracker",
           "link": "https://cve.0xosprey.com/",
           "date": "2026-10-23T21:21:47+00:00"
@@ -305,19 +315,9 @@
           "date": "2026-10-23T20:38:06+00:00"
         },
         {
-          "title": "A whirlwind tour of systemd-nspawn containers",
+          "title": "A whirlwind tour of systemd-nspawn containers (2025)",
           "link": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
           "date": "2026-10-23T20:37:12+00:00"
-        },
-        {
-          "title": "Securing our frontier model training environment",
-          "link": "https://openai.com/index/securing-our-frontier-model-training-environment/",
-          "date": "2026-10-23T19:50:56+00:00"
-        },
-        {
-          "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-          "link": "https://corgi.computer/",
-          "date": "2026-10-23T19:46:38+00:00"
         }
       ]
     },
@@ -337,6 +337,11 @@
           "date": "2026-10-23T12:58:10+00:00"
         },
         {
+          "title": "Attention people who think UB is fine",
+          "link": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
+          "date": "2026-10-23T20:47:58+00:00"
+        },
+        {
           "title": "How close can pure FP get to C?",
           "link": "https://rtfeldman.com/fp-vs-c",
           "date": "2026-10-23T11:37:22+00:00"
@@ -345,11 +350,6 @@
           "title": "Docker is weird",
           "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
           "date": "2026-10-22T20:09:22+00:00"
-        },
-        {
-          "title": "Please don't mess with links",
-          "link": "https://maurycyz.com/misc/real_links/",
-          "date": "2026-10-23T00:37:10+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
+          "title": "[推广] 智友社回馈 V 站新老客户，抽送第 11 波 5 个 智友社的 GPTPLUS 稳定特殊渠道日区独享月卡成品号 6",
+          "link": "https://www.v2ex.com/t/1251411#reply0",
+          "date": "2026-10-24T01:33:07+00:00"
+        },
+        {
+          "title": "[程序员] 别说开发了, 这把运维真给干没了把",
+          "link": "https://www.v2ex.com/t/1251410#reply2",
+          "date": "2026-10-24T01:27:59+00:00"
+        },
+        {
+          "title": "[程序员] 又发现一款类 ARC 浏览器 Yab，安装包不到 90m",
+          "link": "https://www.v2ex.com/t/1251408#reply1",
+          "date": "2026-10-24T01:04:36+00:00"
+        },
+        {
           "title": "[分享发现] 来了一个到处搬运帖子起号的用户：@cjkcjkcjk",
-          "link": "https://www.v2ex.com/t/1251407#reply2",
+          "link": "https://www.v2ex.com/t/1251407#reply4",
           "date": "2026-10-23T21:43:10+00:00"
         },
         {
           "title": "[分享创造] [跪求点进来看看] iPhone 保存视频太麻烦？在线下载工具， YouTube / B 站 / 小红书 / 推特链接粘贴就能下",
-          "link": "https://www.v2ex.com/t/1251406#reply0",
+          "link": "https://www.v2ex.com/t/1251406#reply4",
           "date": "2026-10-23T21:38:33+00:00"
-        },
-        {
-          "title": "[输入法] 搜狗输入法是限制词库导出了吗？",
-          "link": "https://www.v2ex.com/t/1251405#reply0",
-          "date": "2026-10-23T21:02:59+00:00"
-        },
-        {
-          "title": "[问与答] 大家有没有一首充满回忆的音乐",
-          "link": "https://www.v2ex.com/t/1251404#reply0",
-          "date": "2026-10-23T19:58:15+00:00"
-        },
-        {
-          "title": "[服务器] 接上次「x86 只涨 16%」：集邦说服务器 CPU 明年出货要涨 40% 以上，原因是一台 AI 机柜里 CPU 配得越来越多",
-          "link": "https://www.v2ex.com/t/1251403#reply0",
-          "date": "2026-10-23T19:17:26+00:00"
         }
       ]
     },

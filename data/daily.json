@@ -1,124 +1,124 @@
 {
-  "updated": "2026-10-23T23:11:10+00:00",
+  "updated": "2026-10-24T01:38:08+00:00",
   "leetcode": {
-    "date": "2026-10-23",
-    "id": "3644",
-    "title": "Maximum K to Sort a Permutation",
-    "titleEn": "Maximum K to Sort a Permutation",
-    "slug": "maximum-k-to-sort-a-permutation",
-    "difficulty": "Medium",
+    "date": "2026-10-24",
+    "id": "2409",
+    "title": "Count Days Spent Together",
+    "titleEn": "Count Days Spent Together",
+    "slug": "count-days-spent-together",
+    "difficulty": "Easy",
     "tags": [
-      "Array",
-      "Bit Manipulation"
+      "Math",
+      "String"
     ],
-    "link": "https://leetcode.com/problems/maximum-k-to-sort-a-permutation/",
+    "link": "https://leetcode.com/problems/count-days-spent-together/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Thuggee",
-    "text": "Thuggee was a phenomenon of highway robbery in the Indian subcontinent that saw gangs of Thugs murder and rob travellers, often by strangling. During the British colonial era, thuggee was represented and popularised as a secret pan-Indian fraternity of ritual stranglers with ancient origins, motivated by fanaticism and bloodlust. This portrayal has come under intense scholarly criticism beginning in the 1950s, with historical reinterpretations generally contesting the significance of religion to thuggee and viewing the Thugs as more or less ordinary criminals, or thuggee as a type of banditry. There is a general consensus among contemporary historians against the colonial-era representation.",
-    "words": 101,
-    "url": "https://en.wikipedia.org/wiki/Thuggee",
-    "date": "2026-10-23",
+    "title": "Battle of Schliengen",
+    "text": "The Battle of Schliengen took place on 24 October 1796 between the French Army of the Rhine and Moselle and the Austrian army near the village of Schliengen during the War of the First Coalition. The French army was under the command of Jean-Victor Moreau and the Austrian army was under the command of Archduke Charles of Austria. The village lies in the present-day Kreis Lörrach close to the border of present-day Baden-Württemberg (Germany), the Haut-Rhin (France), and the Canton of Basel-Stadt (Switzerland). During the French Revolutionary Wars, Schliengen was a strategically important location for the armies of both Republican France and Habsburg Austria. Control of the area gave either combatant access to southwestern German states and important Rhine crossings.",
+    "words": 120,
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Schliengen",
+    "date": "2026-10-24",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "[Miscellaneous Old Film]",
+    "title": "Modes of the Moment",
     "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/201455_Miscellaneous_Old_Film/201455_Miscellaneous_Old_Film_master.intros.mp4",
-    "page": "https://archive.org/details/201455_Miscellaneous_Old_Film",
-    "date": "2026-10-23",
+    "year": "1917",
+    "url": "https://archive.org/download/0209_Modes_of_the_Moment_04_15_00_00-0027/0209_Modes_of_the_Moment_04_15_00_00-0027.m4v",
+    "page": "https://archive.org/details/0209_Modes_of_the_Moment_04_15_00_00-0027",
+    "date": "2026-10-24",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "[nws0290] netwaves 08.16: e-waves",
-      "artist": "netwaves",
-      "url": "https://archive.org/download/nws290/01%20Space%20Love%20%28Featuring%20Bries%29.mp3",
-      "page": "https://archive.org/details/nws290",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "ryan l - aquas [quiz015]",
-      "artist": "ryan l",
-      "url": "https://archive.org/download/quiz015-ryan_l-aquas/quiz015-01-ryan_l-beams_on_light_peirce_through_the_mass_of_murky_water.mp3",
-      "page": "https://archive.org/details/quiz015-ryan_l-aquas",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
-    },
-    {
-      "title": "[plive0704] Dirk Markham - Live At Privatelektro Headphone Festival 2007",
-      "artist": "Dirk Markham",
-      "url": "https://archive.org/download/plive0704_202/plive0704.mp3",
-      "page": "https://archive.org/details/plive0704_202",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
-    },
-    {
-      "title": "Basehead - The Basement Material - Volume 1",
-      "artist": "Basehead",
-      "url": "https://archive.org/download/fm-17/01%20-%20iCE%20Experience.mp3",
-      "page": "https://archive.org/details/fm-17",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "[mi155] : ew - hello",
-      "artist": "ew",
-      "url": "https://archive.org/download/mi155Ew-Hello/01_nr_1.mp3",
-      "page": "https://archive.org/details/mi155Ew-Hello",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Mensa - Southern Recordings",
-      "artist": "Edu Comelles",
-      "url": "https://archive.org/download/rb039/01-The_Way_Up_To_The_Hill.mp3",
-      "page": "https://archive.org/details/rb039",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "[ENDE190] Dark Matter Project - Uno",
+      "title": "[ENDE473] Hyperex Machina - The Aesthetics Of Salvation",
       "artist": "",
-      "url": "https://archive.org/download/ende190-dark-matter-project-uno/01%20-%20Dark%20Matter%20Project%20-%20Part%20I.mp3",
-      "page": "https://archive.org/details/ende190-dark-matter-project-uno",
+      "url": "https://archive.org/download/ende473-hyperex-machina-the-aestehtics-of-salvation/01%20-%20Hyperex%20Machina%20-%20part%201.mp3",
+      "page": "https://archive.org/details/ende473-hyperex-machina-the-aestehtics-of-salvation",
       "license": "Creative Commons"
     },
     {
-      "title": "MUSEUM TUA (TaSe-87)",
-      "artist": "LUIS SIRIMARCO & THEO NUGRAHA",
-      "url": "https://archive.org/download/MuseumTuatase-87/01MuseumTua.mp3",
-      "page": "https://archive.org/details/MuseumTuatase-87",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "[Hujan024] Asphoria - Eschatology",
-      "artist": "Asphoria",
-      "url": "https://archive.org/download/hujan024/02_Asphoria_-_Living_In_A_World_Of_Atrocity.mp3",
-      "page": "https://archive.org/details/hujan024",
+      "title": "King Imagine - AXID (2017) - Cota 303 Label",
+      "artist": "King Imagine",
+      "url": "https://archive.org/download/COTA010/01Morning_Explorer.mp3",
+      "page": "https://archive.org/details/COTA010",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "Already My Fourth EP",
-      "artist": "They Call Me Mr Random",
-      "url": "https://archive.org/download/nolimit014/01-track_1.mp3",
-      "page": "https://archive.org/details/nolimit014",
-      "license": "Creative Commons"
+      "title": "Mikromjuk - Rör ej",
+      "artist": "",
+      "url": "https://archive.org/download/Mikromjuk_-_Roer_Ej-EP-2008-polka/01_vaestern_med_resten-polka.mp3",
+      "page": "https://archive.org/details/Mikromjuk_-_Roer_Ej-EP-2008-polka",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/se/"
     },
     {
-      "title": "Humanfobia - Indenumbra II [Poltergeist] (EP)(2017)",
-      "artist": "Humanfobia",
-      "url": "https://archive.org/download/humanfobia-indenumbra-poltergeist-ep/01%20-%20Indenumbra%20Poltergeist.mp3",
-      "page": "https://archive.org/details/humanfobia-indenumbra-poltergeist-ep",
+      "title": "JARED SAGAR - Transmute",
+      "artist": "",
+      "url": "https://archive.org/download/Jared_Sagar-Transmute/Transmute.mp3",
+      "page": "https://archive.org/details/Jared_Sagar-Transmute",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "Silas & Friends vol.3 (waag_rel050)",
-      "artist": "Cousin Silas and Friends",
-      "url": "https://archive.org/download/waag_rel050/01_-_Cousin-Silas-and-Ian-Scott_-_Think-of-a-sound.mp3",
-      "page": "https://archive.org/details/waag_rel050",
+      "title": "Returno [BFW141]",
+      "artist": "MagicVan",
+      "url": "https://archive.org/download/MagicVan-Returno/01Returno.mp3",
+      "page": "https://archive.org/details/MagicVan-Returno",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Skæra - God Is Love [ockult002]",
+      "artist": "Skæra",
+      "url": "https://archive.org/download/ockult002/01_75b.mp3",
+      "page": "https://archive.org/details/ockult002",
+      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
+    },
+    {
+      "title": "[ENDE402] I Like Pretty Flowers - Sabbath Mist",
+      "artist": "",
+      "url": "https://archive.org/download/ende402-ilpf-sabbath-mist/01%20-%20I%20Like%20Pretty%20Flowers%20-%20Part%201.mp3",
+      "page": "https://archive.org/details/ende402-ilpf-sabbath-mist",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "The Autopsy Report Metal Radio Show No. 488 - 29th July - 4th August 2013",
+      "artist": "Gramie Dee",
+      "url": "https://archive.org/download/AR29July04Aug13/AR-29July-04Aug13.mp3",
+      "page": "https://archive.org/details/AR29July04Aug13",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Garden Atmosphere (with kids) On Lita Sampler",
+      "artist": "",
+      "url": "https://archive.org/download/CassetteBackup006/GardenAtmospherewithKidsOnLitaSamp.mp3",
+      "page": "https://archive.org/details/CassetteBackup006",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Darcin - Castor Volant [pan039]",
+      "artist": "Nicolas Dion",
+      "url": "https://archive.org/download/pan039/pan039-darcin-1-castor_volant.mp3",
+      "page": "https://archive.org/details/pan039",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/ca/"
+    },
+    {
+      "title": "Cousin Silas | Tim Jones | Kevin Lyons - 2 (waag_rel089)",
+      "artist": "Cousin Silas | Tim Jones | Kevin Lyons",
+      "url": "https://archive.org/download/Iwaag_rel089/01_Alchemical-Surveillance.mp3",
+      "page": "https://archive.org/details/Iwaag_rel089",
       "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "(Petroglyph395) murkok - canvas",
+      "artist": "murkok",
+      "url": "https://archive.org/download/petroglyph395murkok-canvas/01_-_murkok_-_something_i_forgot_to_tell.mp3",
+      "page": "https://archive.org/details/petroglyph395murkok-canvas",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     }
   ]
 }
