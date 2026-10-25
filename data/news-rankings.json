@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-25T06:13:14+00:00",
-  "updated": "2026-10-25T06:13:14+00:00",
+  "generated_at": "2026-10-25T11:39:09+00:00",
+  "updated": "2026-10-25T11:39:09+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-19T00:00:00+08:00",
-    "end": "2026-10-25T06:13:14+00:00",
-    "total": 991,
+    "end": "2026-10-25T11:39:09+00:00",
+    "total": 1011,
     "items": [
       {
         "title": "How close can pure FP get to C?",
@@ -99,6 +99,21 @@
         "observed_days": 2
       },
       {
+        "title": "We should be more ambitious with the software we build",
+        "link": "https://danluu.com/ambitious/",
+        "date": "2026-10-24T21:47:31+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
         "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
         "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo",
         "date": "2026-10-22T22:27:53+00:00",
@@ -142,21 +157,6 @@
         "sources": [
           "BBC Business",
           "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "Google's Rust Style Guide",
-        "link": "https://google.github.io/styleguide/rustguide.html",
-        "date": "2026-10-21T19:11:57+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
         ],
         "source_count": 2,
         "observed_days": 1
@@ -397,6 +397,21 @@
           "observed_days": 2
         },
         {
+          "title": "We should be more ambitious with the software we build",
+          "link": "https://danluu.com/ambitious/",
+          "date": "2026-10-24T21:47:31+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Google's Rust Style Guide",
           "link": "https://google.github.io/styleguide/rustguide.html",
           "date": "2026-10-21T19:11:57+00:00",
@@ -441,20 +456,6 @@
           ],
           "source_count": 2,
           "observed_days": 1
-        },
-        {
-          "title": "How to continue a GitHub Copilot app session in VS Code",
-          "link": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
-          "date": "2026-10-19T18:47:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "GitHub Blog"
-          ],
-          "source_count": 1,
-          "observed_days": 6
         }
       ],
       "科技": [
@@ -1051,8 +1052,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-25T06:13:14+00:00",
-    "total": 3320,
+    "end": "2026-10-25T11:39:09+00:00",
+    "total": 3340,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
