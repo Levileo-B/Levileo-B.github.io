@@ -1,31 +1,17 @@
 {
-  "generated_at": "2026-10-25T16:27:29+00:00",
-  "updated": "2026-10-25T16:27:29+00:00",
+  "generated_at": "2026-10-25T19:40:51+00:00",
+  "updated": "2026-10-25T19:40:51+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-26T00:00:00+08:00",
-    "end": "2026-10-25T16:27:29+00:00",
-    "total": 6,
+    "end": "2026-10-25T19:40:51+00:00",
+    "total": 20,
     "items": [
       {
-        "title": "《Agent 评测白皮书》系列01：Agent 评测全览",
-        "link": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
-        "date": "2026-10-25T16:27:29+00:00",
-        "date_is_observed": true,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "美团技术团队"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Now you can watch Instagram Reels on your Apple TV",
-        "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
-        "date": "2026-10-25T16:20:17+00:00",
+        "title": "Zen Browser is the Arc replacement I was looking for",
+        "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+        "date": "2026-10-25T19:24:50+00:00",
         "date_is_observed": false,
         "categories": [
           "科技"
@@ -37,9 +23,9 @@
         "observed_days": 1
       },
       {
-        "title": "[推广] 做了个在线音频倒放工具：支持录音、短视频音频倒放，欢迎试用",
-        "link": "https://www.v2ex.com/t/1251719",
-        "date": "2026-10-25T16:05:50+00:00",
+        "title": "[Apple] 使用了三天 iPhone Duo 的感想",
+        "link": "https://www.v2ex.com/t/1251728",
+        "date": "2026-10-25T18:40:39+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -51,9 +37,9 @@
         "observed_days": 1
       },
       {
-        "title": "Early reports suggest record high turnout in Serbia elections",
-        "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o",
-        "date": "2026-10-25T16:05:15+00:00",
+        "title": "Venezuelan opposition leader María Machado returns after months in exile",
+        "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
+        "date": "2026-10-25T18:29:00+00:00",
         "date_is_observed": false,
         "categories": [
           "综合"
@@ -65,9 +51,23 @@
         "observed_days": 1
       },
       {
-        "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
-        "link": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
-        "date": "2026-10-25T16:02:56+00:00",
+        "title": "Dolly Parton's Imagination Library",
+        "link": "https://imaginationlibrary.com/",
+        "date": "2026-10-25T18:23:54+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+        "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
+        "date": "2026-10-25T18:18:49+00:00",
         "date_is_observed": false,
         "categories": [
           "财经"
@@ -79,9 +79,37 @@
         "observed_days": 1
       },
       {
-        "title": "[分享创造] ESP32 + 基于网页的 Harness，全自动操作 iPhone 点外卖",
-        "link": "https://www.v2ex.com/t/1251717",
-        "date": "2026-10-25T16:01:32+00:00",
+        "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
+        "link": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
+        "date": "2026-10-25T18:11:38+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+        "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+        "date": "2026-10-25T18:04:11+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[OpenAI] 学术写作场景，有啥能优化的吗",
+        "link": "https://www.v2ex.com/t/1251727",
+        "date": "2026-10-25T17:36:04+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -91,28 +119,42 @@
         ],
         "source_count": 1,
         "observed_days": 1
+      },
+      {
+        "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+        "link": "https://talkweb.eu/openweb/4558/",
+        "date": "2026-10-25T17:30:55+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Fuck Nuance (2015)",
+        "link": "https://crookedtimber.org/2015/08/31/fuck-nuance/",
+        "date": "2026-10-25T17:26:08+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News"
+        ],
+        "source_count": 1,
+        "observed_days": 1
       }
     ],
     "by_category": {
       "开发": [
         {
-          "title": "《Agent 评测白皮书》系列01：Agent 评测全览",
-          "link": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
-          "date": "2026-10-25T16:27:29+00:00",
-          "date_is_observed": true,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "美团技术团队"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[推广] 做了个在线音频倒放工具：支持录音、短视频音频倒放，欢迎试用",
-          "link": "https://www.v2ex.com/t/1251719",
-          "date": "2026-10-25T16:05:50+00:00",
+          "title": "[Apple] 使用了三天 iPhone Duo 的感想",
+          "link": "https://www.v2ex.com/t/1251728",
+          "date": "2026-10-25T18:40:39+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -124,9 +166,121 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] ESP32 + 基于网页的 Harness，全自动操作 iPhone 点外卖",
-          "link": "https://www.v2ex.com/t/1251717",
-          "date": "2026-10-25T16:01:32+00:00",
+          "title": "Dolly Parton's Imagination Library",
+          "link": "https://imaginationlibrary.com/",
+          "date": "2026-10-25T18:23:54+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
+          "link": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
+          "date": "2026-10-25T18:11:38+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+          "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+          "date": "2026-10-25T18:04:11+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[OpenAI] 学术写作场景，有啥能优化的吗",
+          "link": "https://www.v2ex.com/t/1251727",
+          "date": "2026-10-25T17:36:04+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+          "link": "https://talkweb.eu/openweb/4558/",
+          "date": "2026-10-25T17:30:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Fuck Nuance (2015)",
+          "link": "https://crookedtimber.org/2015/08/31/fuck-nuance/",
+          "date": "2026-10-25T17:26:08+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[酷工作] 高级 Unity3D 游戏开发工程师 1 名 远程办公",
+          "link": "https://www.v2ex.com/t/1251724",
+          "date": "2026-10-25T16:57:30+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[问与答] 好奇坛友甲骨文机器/账号注册是否成功",
+          "link": "https://www.v2ex.com/t/1251723",
+          "date": "2026-10-25T16:54:10+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[分享创造] 做了一个 AI 图片创作工作台，想听听大家的使用反馈",
+          "link": "https://www.v2ex.com/t/1251722",
+          "date": "2026-10-25T16:49:52+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -140,6 +294,20 @@
       ],
       "科技": [
         {
+          "title": "Zen Browser is the Arc replacement I was looking for",
+          "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+          "date": "2026-10-25T19:24:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Now you can watch Instagram Reels on your Apple TV",
           "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
           "date": "2026-10-25T16:20:17+00:00",
@@ -152,9 +320,37 @@
           ],
           "source_count": 1,
           "observed_days": 1
+        },
+        {
+          "title": "在 Google 砍伐了上千英亩树后野狼来到芬兰的村庄",
+          "link": "https://www.solidot.org/story?sid=85706",
+          "date": "2026-10-25T16:16:11+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Solidot"
+          ],
+          "source_count": 1,
+          "observed_days": 1
         }
       ],
       "综合": [
+        {
+          "title": "Venezuelan opposition leader María Machado returns after months in exile",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
+          "date": "2026-10-25T18:29:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "Early reports suggest record high turnout in Serbia elections",
           "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o",
@@ -171,6 +367,20 @@
         }
       ],
       "财经": [
+        {
+          "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+          "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
+          "date": "2026-10-25T18:18:49+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
           "link": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
@@ -190,8 +400,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-25T16:27:29+00:00",
-    "total": 3371,
+    "end": "2026-10-25T19:40:51+00:00",
+    "total": 3387,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
