@@ -1,11 +1,16 @@
 {
-  "updated": "2026-10-25T01:13:37+00:00",
+  "updated": "2026-10-25T06:13:14+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "法國再爆大規模示威近千人被捕　當局力阻重演上週暴亂",
+          "link": "https://www.bbc.com/zhongwen/articles/ckq6nvg7ny1yo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-25T03:23:53+00:00"
+        },
         {
           "title": "住着一群代孕孩子，美國加州的豪宅如何變成「恐怖之家」？",
           "link": "https://www.bbc.com/zhongwen/articles/c6rmydgej9w8o/trad?at_medium=RSS&at_campaign=rss",
@@ -25,11 +30,6 @@
           "title": "巴黎騷亂中的三位華人：「激烈的地方激烈，安靜的地方安靜」",
           "link": "https://www.bbc.com/zhongwen/articles/ckq6n02lqz8vo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-23T08:59:14+00:00"
-        },
-        {
-          "title": "西藏那曲7級地震16死54傷，當局派翼龍無人機進行災情偵察",
-          "link": "https://www.bbc.com/zhongwen/articles/c9zrd1rd3jmyo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-23T05:23:41+00:00"
         }
       ]
     },
@@ -41,7 +41,7 @@
         {
           "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
           "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-24T21:09:27+00:00"
+          "date": "2026-10-25T04:16:52+00:00"
         },
         {
           "title": "Ukraine says Starlink connection 'now stable' after network limits",
@@ -71,6 +71,16 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
+          "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+          "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-25T06:00:15+00:00"
+        },
+        {
+          "title": "Budget to include £1bn for social and affordable housing",
+          "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-10-25T02:57:30+00:00"
+        },
+        {
           "title": "Rosebank: Life on the oil field at the centre of a political storm",
           "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-24T23:15:18+00:00"
@@ -84,16 +94,6 @@
           "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
           "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-24T00:05:45+00:00"
-        },
-        {
-          "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
-          "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-23T15:15:13+00:00"
-        },
-        {
-          "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-          "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-24T00:36:47+00:00"
         }
       ]
     },
@@ -167,6 +167,11 @@
       "url": "https://www.ifanr.com/feed",
       "items": [
         {
+          "title": "iPhone Duo 2 提前曝光：FaceID、操作按钮和长焦都要回来了？",
+          "link": "https://www.ifanr.com/1685622?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-10-25T04:10:44+00:00"
+        },
+        {
           "title": "史上最快宾利！竟然是一辆 SUV？",
           "link": "https://www.ifanr.com/1685572?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-10-24T14:35:59+00:00"
@@ -185,11 +190,6 @@
           "title": "实测 Kimi K3.1 Pro，国模终于继续卷旗舰",
           "link": "https://www.ifanr.com/1685684?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-10-24T02:07:19+00:00"
-        },
-        {
-          "title": "早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
-          "link": "https://www.ifanr.com/1685660?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-10-24T00:26:49+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+          "link": "https://github.com/slee-persis/GVS5H",
+          "date": "2026-10-25T03:56:01+00:00"
+        },
+        {
+          "title": "Xbox Turns Down Netflix $500M Offer",
+          "link": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
+          "date": "2026-10-25T03:05:53+00:00"
+        },
+        {
+          "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+          "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
+          "date": "2026-10-25T02:18:35+00:00"
+        },
+        {
+          "title": "Cerebras Deploys Trillion-Parameter AI Models",
+          "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "date": "2026-10-25T01:33:49+00:00"
+        },
+        {
           "title": "Why Gopher in 2026?",
           "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
           "date": "2026-10-24T23:33:19+00:00"
-        },
-        {
-          "title": "Google has officially turned these Nest thermostats back into dumb thermostats",
-          "link": "https://www.makeuseof.com/google-nest-thermostats-unsupported/",
-          "date": "2026-10-24T23:14:30+00:00"
-        },
-        {
-          "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-          "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-          "date": "2026-10-24T23:11:54+00:00"
-        },
-        {
-          "title": "We should be more ambitious with the software we build",
-          "link": "https://danluu.com/ambitious/",
-          "date": "2026-10-24T21:47:31+00:00"
-        },
-        {
-          "title": "Small Programs and Languages",
-          "link": "https://ratfactor.com/cards/pl-small",
-          "date": "2026-10-24T21:44:23+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[生活] 购物观念的改变",
-          "link": "https://www.v2ex.com/t/1251593#reply1",
-          "date": "2026-10-25T00:56:15+00:00"
+          "title": "[分享创造] 嫌等 Tibo 重置 Codex 太无聊，顺手搓了个致敬 cowsay 的「Tibo 说」监控与 AI 预",
+          "link": "https://www.v2ex.com/t/1251631#reply0",
+          "date": "2026-10-25T05:54:07+00:00"
         },
         {
-          "title": "[分享创造] 用 ai 实现书法作品自动生成",
-          "link": "https://www.v2ex.com/t/1251592#reply3",
-          "date": "2026-10-25T00:41:48+00:00"
+          "title": "[分享创造] Vibe Code 了一个模仿 Arc 功能的插件",
+          "link": "https://www.v2ex.com/t/1251630#reply0",
+          "date": "2026-10-25T05:46:31+00:00"
         },
         {
-          "title": "[分享创造] 分享一个用 Rust 写的开源 2D CAD： CADCraft",
-          "link": "https://www.v2ex.com/t/1251588#reply0",
-          "date": "2026-10-24T21:41:32+00:00"
+          "title": "[分享创造] 助眠神器 App《摄影学英语》闭眼拼写 功能已上线！",
+          "link": "https://www.v2ex.com/t/1251629#reply0",
+          "date": "2026-10-25T05:45:36+00:00"
         },
         {
-          "title": "[OpenAI] team codex 额度 vs GPT PLUS 额度如何？",
-          "link": "https://www.v2ex.com/t/1251586#reply0",
-          "date": "2026-10-24T20:04:20+00:00"
+          "title": "[分享创造] Picloom——以插件编织你的自托管图床",
+          "link": "https://www.v2ex.com/t/1251628#reply0",
+          "date": "2026-10-25T05:35:04+00:00"
         },
         {
-          "title": "[分享创造] 我写了个自认为非常牛逼的浏览器插件: StackPrism",
-          "link": "https://www.v2ex.com/t/1251585#reply4",
-          "date": "2026-10-24T18:19:15+00:00"
+          "title": "[分享创造] AI 解读个人性格底色、财富、事业运势",
+          "link": "https://www.v2ex.com/t/1251626#reply0",
+          "date": "2026-10-25T05:12:37+00:00"
         }
       ]
     },
