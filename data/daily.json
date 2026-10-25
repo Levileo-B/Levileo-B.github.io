@@ -1,124 +1,126 @@
 {
-  "updated": "2026-10-24T22:31:12+00:00",
+  "updated": "2026-10-25T01:13:37+00:00",
   "leetcode": {
-    "date": "2026-10-24",
-    "id": "2409",
-    "title": "Count Days Spent Together",
-    "titleEn": "Count Days Spent Together",
-    "slug": "count-days-spent-together",
-    "difficulty": "Easy",
+    "date": "2026-10-25",
+    "id": "1254",
+    "title": "Number of Closed Islands",
+    "titleEn": "Number of Closed Islands",
+    "slug": "number-of-closed-islands",
+    "difficulty": "Medium",
     "tags": [
-      "Math",
-      "String"
+      "Array",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find"
     ],
-    "link": "https://leetcode.com/problems/count-days-spent-together/",
+    "link": "https://leetcode.com/problems/number-of-closed-islands/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Battle of Schliengen",
-    "text": "The Battle of Schliengen took place on 24 October 1796 between the French Army of the Rhine and Moselle and the Austrian army near the village of Schliengen during the War of the First Coalition. The French army was under the command of Jean-Victor Moreau and the Austrian army was under the command of Archduke Charles of Austria. The village lies in the present-day Kreis Lörrach in Baden-Württemberg, Germany, close to the borders with Haut-Rhin (France), and the Canton of Basel-Stadt (Switzerland). During the French Revolutionary Wars, Schliengen was a strategically important location for the armies of both Republican France and Habsburg Austria. Control of the area gave either combatant access to southwestern German states and important Rhine crossings.",
-    "words": 119,
-    "url": "https://en.wikipedia.org/wiki/Battle_of_Schliengen",
-    "date": "2026-10-24",
+    "title": "The Kinks",
+    "text": "The Kinks were an English rock band formed in London in 1962. The band's classic line-up comprised brothers Ray Davies and Dave Davies, Pete Quaife (bass), and Mick Avory. Emerging during the height of British rhythm and blues and Merseybeat, their breakthrough third single, the Ray Davies-penned \"You Really Got Me\" (1964), became an international hit, topping the charts in the United Kingdom and reaching the Top 10 in the United States. Other early hits included \"All Day and All of the Night\" (1964), \"Tired of Waiting for You\", \"Set Me Free\", \"See My Friends\", and \"Till the End of the Day\". They were part of the British Invasion of America until several problems during their 1965 American tour led to them being banned from touring there for several years.",
+    "words": 130,
+    "url": "https://en.wikipedia.org/wiki/The_Kinks",
+    "date": "2026-10-25",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Trees For Tomorrow",
+    "title": "[Home Movies: Can 10495: Sanford Floats]",
     "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/rptreesfortomorrow/RP-Trees_For_Tomorrow.mp4",
-    "page": "https://archive.org/details/rptreesfortomorrow",
-    "date": "2026-10-24",
+    "year": "1938",
+    "url": "https://archive.org/download/6293_HM_Can_10495_Sanford_Floats_01_47_30_00/6293_HM_Can_10495_Sanford_Floats_01_47_30_00_3mb.mp4",
+    "page": "https://archive.org/details/6293_HM_Can_10495_Sanford_Floats_01_47_30_00",
+    "date": "2026-10-25",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "[TAN142] senselessness - Harmless Flames",
-      "artist": "Mad God",
-      "url": "https://archive.org/download/TAN142/Untitled1.mp3",
-      "page": "https://archive.org/details/TAN142",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+      "title": "ryan l - aquas [quiz015]",
+      "artist": "ryan l",
+      "url": "https://archive.org/download/quiz015-ryan_l-aquas/quiz015-01-ryan_l-beams_on_light_peirce_through_the_mass_of_murky_water.mp3",
+      "page": "https://archive.org/details/quiz015-ryan_l-aquas",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
     },
     {
-      "title": "TFR521 - digital.rape - othering",
-      "artist": "digital.rape",
-      "url": "https://archive.org/download/TFR521-digital.rape-othering/01-Tor.men.tor.mp3",
-      "page": "https://archive.org/details/TFR521-digital.rape-othering",
+      "title": "Gardens From Light - Birds Of Joy And Sorrow Vol. 1",
+      "artist": "Sparke / Illidge",
+      "url": "https://archive.org/download/rb012/01-Sirin.mp3",
+      "page": "https://archive.org/details/rb012",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "THE BIGGESTMOTOR",
-      "artist": "Yukiga Futte Uresii",
-      "url": "https://archive.org/download/THEBIGGESTMOTOR/01_THE_BIGGESTMOTOR.mp3",
-      "page": "https://archive.org/details/THEBIGGESTMOTOR",
-      "license": "http://creativecommons.org/licenses/by/4.0/"
+      "title": "Rod Drigg - How To Cook This Society",
+      "artist": "Rod Drigg",
+      "url": "https://archive.org/download/octave003/01-rod_drigg-bias_adjust.mp3",
+      "page": "https://archive.org/details/octave003",
+      "license": "Creative Commons"
     },
     {
-      "title": "TFR1157 - The Last March of the Ents - Rotting Forevermore",
-      "artist": "The Last March of the Ents",
-      "url": "https://archive.org/download/TFR1157-TheLastMarchOfTheEnts-RottingForevermore/01-HaldrensCoast.mp3",
-      "page": "https://archive.org/details/TFR1157-TheLastMarchOfTheEnts-RottingForevermore",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "Valovoima - Waves From A Universe",
+      "artist": "Valovoima",
+      "url": "https://archive.org/download/pakkaslumi11/01%20-%20Waves%20From%20A%20Universe%20I.mp3",
+      "page": "https://archive.org/details/pakkaslumi11",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "58. They are Less Active in Cooler Weather",
-      "artist": "MWroblewski",
-      "url": "https://archive.org/download/TheyAreLessActiveInCoolerWeather/1.%20They%20are%20Less%20Active%20in%20Cooler%20Weather.mp3",
-      "page": "https://archive.org/details/TheyAreLessActiveInCoolerWeather",
-      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-    },
-    {
-      "title": "TFR1017 - Nuclear Devastation / Primal Order - Nuclear Order Split EP",
-      "artist": "Nuclear Devastation / Primal Order",
-      "url": "https://archive.org/download/TFR1017-NuclearDevastation-PrimalOrder-NuclearOrderSplitEP/01-NuclearDevastation-Mxpxdxsx-StenchOfDeath.mp3",
-      "page": "https://archive.org/details/TFR1017-NuclearDevastation-PrimalOrder-NuclearOrderSplitEP",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "[TFN096] GAAD - Shit Factory",
-      "artist": "GAAD",
-      "url": "https://archive.org/download/TFN096/01Gaad-ShitForBreakfast.mp3",
-      "page": "https://archive.org/details/TFN096",
-      "license": "http://creativecommons.org/licenses/by-sa/3.0/us/"
-    },
-    {
-      "title": "Toxic_Chicken_-_Chinese_Supa_Star-(20k317)-2011",
-      "artist": "Toxic Chicken",
-      "url": "https://archive.org/download/Toxic_Chicken_-_Chinese_Supa_Star-20k317-2011/01-toxic_chicken_-_chinese_supa_star.mp3",
-      "page": "https://archive.org/details/Toxic_Chicken_-_Chinese_Supa_Star-20k317-2011",
+      "title": "Reii - 001 Farewell [foot055]",
+      "artist": "Ren Rei",
+      "url": "https://archive.org/download/foot055/foot055_01-reii-overdose.mp3",
+      "page": "https://archive.org/details/foot055",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "TFR94 - Dopamine Larvae - Satánica Adicción",
-      "artist": "Dopamine Larvae",
-      "url": "https://archive.org/download/TFR94-DopamineLarvae-SatanicaAdiccion/I.Dimetiltriptamina.mp3",
-      "page": "https://archive.org/details/TFR94-DopamineLarvae-SatanicaAdiccion",
+      "title": "TFR848 - Virulent Vasectomy - A Rehabilitation Centre For Homicidal Psychopaths",
+      "artist": "Virulent Vasectomy",
+      "url": "https://archive.org/download/TFR848-VirulentVasectomy-ARehabilitationCentreForHomicidalPsychopaths/01-SynestheticPharmacologicNightmare.mp3",
+      "page": "https://archive.org/details/TFR848-VirulentVasectomy-ARehabilitationCentreForHomicidalPsychopaths",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "MTCAT031 - The Mitch Bukkake Last Tango",
-      "artist": "The Mitch Bukkake Last Tango",
-      "url": "https://archive.org/download/The_Mitch_Bukkake_Last_Tango/TheMitchBukkakeLastTango-01-Acid_Blowjob.mp3",
-      "page": "https://archive.org/details/The_Mitch_Bukkake_Last_Tango",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "EthnoTronic - Parabola EP [foot193]",
+      "artist": "Joachim Rontexlius, Rachel Moraledius",
+      "url": "https://archive.org/download/foot193/foot193_01-ethnotronic-parabola_part_1.mp3",
+      "page": "https://archive.org/details/foot193",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "TFR716 - Molting / His Blood - Slippery Inhabitants / His Acid Word",
-      "artist": "Molting / His Blood",
-      "url": "https://archive.org/download/TFR716-MoltingHisBlood-SlipperyInhabitantsHisAcidWord/01-Molting-AmplifiedReproductionOfTheMarshlandDwellingAmphiuma.mp3",
-      "page": "https://archive.org/details/TFR716-MoltingHisBlood-SlipperyInhabitantsHisAcidWord",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "Sijis Radio Show - Down with the Chairman 13 [sijis_DWTC13]",
+      "artist": "",
+      "url": "https://archive.org/download/dwtc13/DWTC13_256kps.mp3",
+      "page": "https://archive.org/details/dwtc13",
+      "license": "http://creativecommons.org/licenses/by-nc/2.0/"
     },
     {
-      "title": "TFR162 - God Pussy - Guerrilha, Infância, Adolescência & Morte",
-      "artist": "God Pussy",
-      "url": "https://archive.org/download/TFR162-GodPussy-GuerrilhaInfanciaAdolescenciaMorte/01-ExploraoInfantil.mp3",
-      "page": "https://archive.org/details/TFR162-GodPussy-GuerrilhaInfanciaAdolescenciaMorte",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "VBR Podcast #38",
+      "artist": "Banyek",
+      "url": "https://archive.org/download/vbr038/vbr_038.mp3",
+      "page": "https://archive.org/details/vbr038",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
+    },
+    {
+      "title": "NWTWO0597-Pure Laine-Lie",
+      "artist": "Pure Laine",
+      "url": "https://archive.org/download/nwtwo-0597-pure-laine-lie/NWTWO0597-Pure%20Laine-Lie.mp3",
+      "page": "https://archive.org/details/nwtwo-0597-pure-laine-lie",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "hw040_coldicus_-_censored_and_uncensored_(2009)",
+      "artist": "coldicus",
+      "url": "https://archive.org/download/hw040/01_coldicus_-_scenz.mp3",
+      "page": "https://archive.org/details/hw040",
+      "license": "https://creativecommons.org/licenses/by-nd/4.0/"
+    },
+    {
+      "title": "Tendon Levey - Horn of the Town",
+      "artist": "Tendon Levey",
+      "url": "https://archive.org/download/horn-of-the-town/01%20Luminous%20Paralysis.mp3",
+      "page": "https://archive.org/details/horn-of-the-town",
+      "license": "Creative Commons"
     }
   ]
 }
