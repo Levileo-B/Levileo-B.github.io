@@ -1,31 +1,17 @@
 {
-  "generated_at": "2026-10-25T19:40:51+00:00",
-  "updated": "2026-10-25T19:40:51+00:00",
+  "generated_at": "2026-10-25T22:36:09+00:00",
+  "updated": "2026-10-25T22:36:09+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-26T00:00:00+08:00",
-    "end": "2026-10-25T19:40:51+00:00",
-    "total": 20,
+    "end": "2026-10-25T22:36:09+00:00",
+    "total": 33,
     "items": [
       {
-        "title": "Zen Browser is the Arc replacement I was looking for",
-        "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
-        "date": "2026-10-25T19:24:50+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "The Verge"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[Apple] 使用了三天 iPhone Duo 的感想",
-        "link": "https://www.v2ex.com/t/1251728",
-        "date": "2026-10-25T18:40:39+00:00",
+        "title": "[程序员] 拥抱 SI, 用 .si 做域名的个人主页上线，请大家提提建议",
+        "link": "https://www.v2ex.com/t/1251730",
+        "date": "2026-10-25T22:11:48+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -37,9 +23,9 @@
         "observed_days": 1
       },
       {
-        "title": "Venezuelan opposition leader María Machado returns after months in exile",
-        "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
-        "date": "2026-10-25T18:29:00+00:00",
+        "title": "Deeply divided Israel braces for pivotal election",
+        "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo",
+        "date": "2026-10-25T22:11:13+00:00",
         "date_is_observed": false,
         "categories": [
           "综合"
@@ -51,9 +37,37 @@
         "observed_days": 1
       },
       {
-        "title": "Dolly Parton's Imagination Library",
-        "link": "https://imaginationlibrary.com/",
-        "date": "2026-10-25T18:23:54+00:00",
+        "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+        "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
+        "date": "2026-10-25T22:06:26+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合"
+        ],
+        "sources": [
+          "BBC World"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
+        "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+        "date": "2026-10-25T21:40:27+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "科技"
+        ],
+        "sources": [
+          "The Verge"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+        "link": "https://minimaxir.com/2026/10/cheap-llms/",
+        "date": "2026-10-25T21:11:31+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -65,9 +79,51 @@
         "observed_days": 1
       },
       {
-        "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
-        "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
-        "date": "2026-10-25T18:18:49+00:00",
+        "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+        "link": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+        "date": "2026-10-25T21:08:28+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Scott Walker’s The Drift will get under your skin",
+        "link": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+        "date": "2026-10-25T21:08:09+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "科技"
+        ],
+        "sources": [
+          "The Verge"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "The State of Context Engineering",
+        "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+        "date": "2026-10-25T20:32:31+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
+        "link": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
+        "date": "2026-10-25T20:28:55+00:00",
         "date_is_observed": false,
         "categories": [
           "财经"
@@ -79,65 +135,9 @@
         "observed_days": 1
       },
       {
-        "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
-        "link": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
-        "date": "2026-10-25T18:11:38+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-        "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-        "date": "2026-10-25T18:04:11+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[OpenAI] 学术写作场景，有啥能优化的吗",
-        "link": "https://www.v2ex.com/t/1251727",
-        "date": "2026-10-25T17:36:04+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-        "link": "https://talkweb.eu/openweb/4558/",
-        "date": "2026-10-25T17:30:55+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Fuck Nuance (2015)",
-        "link": "https://crookedtimber.org/2015/08/31/fuck-nuance/",
-        "date": "2026-10-25T17:26:08+00:00",
+        "title": "What goes into making an animated film?",
+        "link": "https://www.disneyanimation.com/process/",
+        "date": "2026-10-25T20:27:09+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -151,6 +151,104 @@
     ],
     "by_category": {
       "开发": [
+        {
+          "title": "[程序员] 拥抱 SI, 用 .si 做域名的个人主页上线，请大家提提建议",
+          "link": "https://www.v2ex.com/t/1251730",
+          "date": "2026-10-25T22:11:48+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "link": "https://minimaxir.com/2026/10/cheap-llms/",
+          "date": "2026-10-25T21:11:31+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+          "link": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+          "date": "2026-10-25T21:08:28+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "The State of Context Engineering",
+          "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+          "date": "2026-10-25T20:32:31+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "What goes into making an animated film?",
+          "link": "https://www.disneyanimation.com/process/",
+          "date": "2026-10-25T20:27:09+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[分享发现] dsh 是否会成为新的一代 agent 标准?",
+          "link": "https://www.v2ex.com/t/1251729",
+          "date": "2026-10-25T20:23:52+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Focused Company Operating Principles",
+          "link": "https://focused.io/operating-principles",
+          "date": "2026-10-25T20:16:51+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "[Apple] 使用了三天 iPhone Duo 的感想",
           "link": "https://www.v2ex.com/t/1251728",
@@ -192,107 +290,51 @@
           ],
           "source_count": 1,
           "observed_days": 1
-        },
-        {
-          "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-          "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-          "date": "2026-10-25T18:04:11+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[OpenAI] 学术写作场景，有啥能优化的吗",
-          "link": "https://www.v2ex.com/t/1251727",
-          "date": "2026-10-25T17:36:04+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-          "link": "https://talkweb.eu/openweb/4558/",
-          "date": "2026-10-25T17:30:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Fuck Nuance (2015)",
-          "link": "https://crookedtimber.org/2015/08/31/fuck-nuance/",
-          "date": "2026-10-25T17:26:08+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[酷工作] 高级 Unity3D 游戏开发工程师 1 名 远程办公",
-          "link": "https://www.v2ex.com/t/1251724",
-          "date": "2026-10-25T16:57:30+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[问与答] 好奇坛友甲骨文机器/账号注册是否成功",
-          "link": "https://www.v2ex.com/t/1251723",
-          "date": "2026-10-25T16:54:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[分享创造] 做了一个 AI 图片创作工作台，想听听大家的使用反馈",
-          "link": "https://www.v2ex.com/t/1251722",
-          "date": "2026-10-25T16:49:52+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "科技": [
+        {
+          "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
+          "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+          "date": "2026-10-25T21:40:27+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Scott Walker’s The Drift will get under your skin",
+          "link": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+          "date": "2026-10-25T21:08:09+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+          "link": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+          "date": "2026-10-25T20:16:19+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "Zen Browser is the Arc replacement I was looking for",
           "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
@@ -338,6 +380,34 @@
       ],
       "综合": [
         {
+          "title": "Deeply divided Israel braces for pivotal election",
+          "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo",
+          "date": "2026-10-25T22:11:13+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
+          "date": "2026-10-25T22:06:26+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Venezuelan opposition leader María Machado returns after months in exile",
           "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
           "date": "2026-10-25T18:29:00+00:00",
@@ -367,6 +437,20 @@
         }
       ],
       "财经": [
+        {
+          "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
+          "link": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
+          "date": "2026-10-25T20:28:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
           "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
@@ -400,8 +484,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-25T19:40:51+00:00",
-    "total": 3387,
+    "end": "2026-10-25T22:36:09+00:00",
+    "total": 3400,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
@@ -468,6 +552,21 @@
         "observed_days": 3
       },
       {
+        "title": "The Goose Programming Language",
+        "link": "https://aardappel.github.io/goose/",
+        "date": "2026-10-24T19:06:55+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
         "title": "How close can pure FP get to C?",
         "link": "https://rtfeldman.com/fp-vs-c",
         "date": "2026-10-23T11:37:22+00:00",
@@ -531,21 +630,6 @@
         "title": "OpenBSD 8.0",
         "link": "https://www.openbsd.org/80.html",
         "date": "2026-10-20T01:46:00+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Wine ported to OpenBSD",
-        "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-        "date": "2026-10-19T13:35:34+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -703,6 +787,21 @@
       ],
       "开发": [
         {
+          "title": "The Goose Programming Language",
+          "link": "https://aardappel.github.io/goose/",
+          "date": "2026-10-24T19:06:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "How close can pure FP get to C?",
           "link": "https://rtfeldman.com/fp-vs-c",
           "date": "2026-10-23T11:37:22+00:00",
@@ -834,21 +933,6 @@
           "sources": [
             "Hacker News",
             "The Verge"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Anthropic's Scion is heavily inspired by Mononoke",
-          "link": "https://sunshowers.io/posts/anthropic-mononoke/",
-          "date": "2026-10-14T20:30:54+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
           ],
           "source_count": 2,
           "observed_days": 2
