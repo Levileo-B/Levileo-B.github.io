@@ -1,160 +1,192 @@
 {
-  "generated_at": "2026-10-26T06:22:34+00:00",
-  "updated": "2026-10-26T06:22:34+00:00",
+  "generated_at": "2026-10-26T14:19:36+00:00",
+  "updated": "2026-10-26T14:19:36+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-26T00:00:00+08:00",
-    "end": "2026-10-26T06:22:34+00:00",
-    "total": 69,
+    "end": "2026-10-26T14:19:36+00:00",
+    "total": 117,
     "items": [
       {
-        "title": "[程序员] 英国公司小额报税疑问",
-        "link": "https://www.v2ex.com/t/1251902",
-        "date": "2026-10-26T06:19:33+00:00",
+        "title": "Anthropic warns of AI's 'risks to humanity' ahead of blockbuster share listing",
+        "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo",
+        "date": "2026-10-26T14:15:01+00:00",
         "date_is_observed": false,
         "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[推广] 🎃Zooproxy 万圣节特惠！充值即享优惠，送大额流量;不给套路，只给福利！",
-        "link": "https://www.v2ex.com/t/1251899",
-        "date": "2026-10-26T06:11:27+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[分享创造] [开源自荐] 喜欢 Paste 的卡片交互，于是借助 AI 做了 ClipShelf",
-        "link": "https://www.v2ex.com/t/1251897",
-        "date": "2026-10-26T06:04:38+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[OpenAI] codex 这就重置了",
-        "link": "https://www.v2ex.com/t/1251895",
-        "date": "2026-10-26T06:03:48+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[问与答] 想知道游戏纯图像识别脚本，加上模拟鼠标和键盘操作，不操作内存那种，算不算犯法",
-        "link": "https://www.v2ex.com/t/1251894",
-        "date": "2026-10-26T06:01:47+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Defense tech investment boom sparks bubble warning as private equity pours in",
-        "link": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
-        "date": "2026-10-26T06:00:01+00:00",
-        "date_is_observed": false,
-        "categories": [
+          "综合",
           "财经"
         ],
         "sources": [
-          "CNBC"
+          "BBC Business",
+          "BBC World"
         ],
-        "source_count": 1,
+        "source_count": 2,
         "observed_days": 1
       },
       {
-        "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
-        "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-        "date": "2026-10-26T05:18:01+00:00",
+        "title": "Apple updates the iPad Mini with a larger OLED display",
+        "link": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce",
+        "date": "2026-10-26T14:18:10+00:00",
         "date_is_observed": false,
         "categories": [
-          "财经"
+          "科技"
         ],
         "sources": [
-          "CNBC"
+          "The Verge"
         ],
         "source_count": 1,
         "observed_days": 1
       },
       {
-        "title": "美國中選舉前夕，奧巴馬抨擊特朗普政府",
-        "link": "https://www.bbc.com/zhongwen/articles/cm4g13j5jg5ko/trad",
-        "date": "2026-10-26T05:02:39+00:00",
+        "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+        "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo",
+        "date": "2026-10-26T14:16:09+00:00",
         "date_is_observed": false,
         "categories": [
           "综合"
         ],
         "sources": [
-          "BBC 中文"
+          "BBC World"
         ],
         "source_count": 1,
         "observed_days": 1
       },
       {
-        "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
-        "link": "https://proc-cli.com/",
-        "date": "2026-10-26T04:14:35+00:00",
+        "title": "[分享创造] 支持 vim 风格操作的 V2EX 阅读页",
+        "link": "https://www.v2ex.com/t/1252045",
+        "date": "2026-10-26T14:11:18+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
         ],
         "sources": [
-          "Hacker News"
+          "V2EX"
         ],
         "source_count": 1,
         "observed_days": 1
       },
       {
-        "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-        "link": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
-        "date": "2026-10-26T04:11:40+00:00",
+        "title": "Meta announces $95 billion stock offering to fund AI expansion",
+        "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+        "date": "2026-10-26T14:05:36+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "财经"
+        ],
+        "sources": [
+          "CNBC"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[程序员] 应该做「有产品思维的工程师」，还是「能写项目的产品经理」？",
+        "link": "https://www.v2ex.com/t/1252043",
+        "date": "2026-10-26T14:05:11+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
         ],
         "sources": [
-          "Hacker News"
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[酷工作] 游戏公司远程直招\n\n服务端/买量策划/数据运营/运营/双语客服/平台运营/发行负责/SEO 增长/AI 视频/素材/影游导演/AIGC 影像/核心导演/短剧编剧/短剧剪辑/创作者运营/产品数据/产品经理/游戏 UI/特效",
+        "link": "https://www.v2ex.com/t/1252042",
+        "date": "2026-10-26T14:03:57+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[VXNA] 申请重新收录: https://cworld0.com",
+        "link": "https://www.v2ex.com/t/1252041",
+        "date": "2026-10-26T13:58:40+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+        "date": "2026-10-26T13:55:23+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "科技"
+        ],
+        "sources": [
+          "The Verge"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Lula wins fourth term in dramatic Brazil election comeback",
+        "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo",
+        "date": "2026-10-26T13:54:21+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合"
+        ],
+        "sources": [
+          "BBC World"
         ],
         "source_count": 1,
         "observed_days": 1
       }
     ],
     "by_category": {
+      "AI": [
+        {
+          "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+          "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+          "date": "2026-10-26T12:40:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "The focus on AI safety disasters ignores everyday harms",
+          "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+          "date": "2026-10-26T09:01:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        }
+      ],
       "开发": [
         {
-          "title": "[程序员] 英国公司小额报税疑问",
-          "link": "https://www.v2ex.com/t/1251902",
-          "date": "2026-10-26T06:19:33+00:00",
+          "title": "[分享创造] 支持 vim 风格操作的 V2EX 阅读页",
+          "link": "https://www.v2ex.com/t/1252045",
+          "date": "2026-10-26T14:11:18+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -166,9 +198,9 @@
           "observed_days": 1
         },
         {
-          "title": "[推广] 🎃Zooproxy 万圣节特惠！充值即享优惠，送大额流量;不给套路，只给福利！",
-          "link": "https://www.v2ex.com/t/1251899",
-          "date": "2026-10-26T06:11:27+00:00",
+          "title": "[程序员] 应该做「有产品思维的工程师」，还是「能写项目的产品经理」？",
+          "link": "https://www.v2ex.com/t/1252043",
+          "date": "2026-10-26T14:05:11+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -180,9 +212,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] [开源自荐] 喜欢 Paste 的卡片交互，于是借助 AI 做了 ClipShelf",
-          "link": "https://www.v2ex.com/t/1251897",
-          "date": "2026-10-26T06:04:38+00:00",
+          "title": "[酷工作] 游戏公司远程直招\n\n服务端/买量策划/数据运营/运营/双语客服/平台运营/发行负责/SEO 增长/AI 视频/素材/影游导演/AIGC 影像/核心导演/短剧编剧/短剧剪辑/创作者运营/产品数据/产品经理/游戏 UI/特效",
+          "link": "https://www.v2ex.com/t/1252042",
+          "date": "2026-10-26T14:03:57+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -194,9 +226,9 @@
           "observed_days": 1
         },
         {
-          "title": "[OpenAI] codex 这就重置了",
-          "link": "https://www.v2ex.com/t/1251895",
-          "date": "2026-10-26T06:03:48+00:00",
+          "title": "[VXNA] 申请重新收录: https://cworld0.com",
+          "link": "https://www.v2ex.com/t/1252041",
+          "date": "2026-10-26T13:58:40+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -208,9 +240,9 @@
           "observed_days": 1
         },
         {
-          "title": "[问与答] 想知道游戏纯图像识别脚本，加上模拟鼠标和键盘操作，不操作内存那种，算不算犯法",
-          "link": "https://www.v2ex.com/t/1251894",
-          "date": "2026-10-26T06:01:47+00:00",
+          "title": "[分享创造] 开源了一个 MCP 治理网关： Jev 判 0.94、d3 判 0.70，两个判官说不同的话时怎么办",
+          "link": "https://www.v2ex.com/t/1252038",
+          "date": "2026-10-26T13:53:58+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -222,9 +254,9 @@
           "observed_days": 1
         },
         {
-          "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
-          "link": "https://proc-cli.com/",
-          "date": "2026-10-26T04:14:35+00:00",
+          "title": "OLED iPad Mini",
+          "link": "https://www.apple.com/shop/buy-ipad/ipad-mini",
+          "date": "2026-10-26T13:47:33+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -236,9 +268,9 @@
           "observed_days": 1
         },
         {
-          "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-          "link": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
-          "date": "2026-10-26T04:11:40+00:00",
+          "title": "The new iPad mini",
+          "link": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+          "date": "2026-10-26T13:13:36+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -250,9 +282,9 @@
           "observed_days": 1
         },
         {
-          "title": "Behind the scenes at the NeXT Computer office",
-          "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-          "date": "2026-10-26T03:31:11+00:00",
+          "title": "Anthropic S-1",
+          "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+          "date": "2026-10-26T13:04:50+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -264,9 +296,9 @@
           "observed_days": 1
         },
         {
-          "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-          "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-          "date": "2026-10-26T03:29:05+00:00",
+          "title": "Fixing Tool-Call Accuracy in vLLM",
+          "link": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+          "date": "2026-10-26T12:59:48+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -278,9 +310,9 @@
           "observed_days": 1
         },
         {
-          "title": "Show HN: TitleArt – Make text like it's 1997",
-          "link": "https://titleart.dvy.io/",
-          "date": "2026-10-26T03:23:57+00:00",
+          "title": "Writing Is Closer to Thought Than Code",
+          "link": "https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code",
+          "date": "2026-10-26T12:32:15+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -294,9 +326,107 @@
       ],
       "科技": [
         {
-          "title": "曲高和寡、终成绝唱：傲腾 P5800X 测试报告",
-          "link": "https://sspai.com/post/115074",
-          "date": "2026-10-26T03:26:35+00:00",
+          "title": "Apple updates the iPad Mini with a larger OLED display",
+          "link": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce",
+          "date": "2026-10-26T14:18:10+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+          "date": "2026-10-26T13:55:23+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
+          "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+          "date": "2026-10-26T13:37:13+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "The city that fought Flock",
+          "link": "https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure",
+          "date": "2026-10-26T13:33:37+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Can AI help solve the COBOL code crisis?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+          "date": "2026-10-26T13:26:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "科学家重现古罗马的分色玻璃",
+          "link": "https://www.solidot.org/story?sid=85713",
+          "date": "2026-10-26T11:12:57+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Solidot"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
+          "link": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
+          "date": "2026-10-26T11:00:15+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "派评 | 近期值得关注的 App",
+          "link": "https://sspai.com/post/117529",
+          "date": "2026-10-26T10:17:46+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -308,23 +438,9 @@
           "observed_days": 1
         },
         {
-          "title": "少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地",
-          "link": "https://sspai.com/post/117180",
-          "date": "2026-10-26T03:00:13+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
-          "link": "https://www.ifanr.com/1685755",
-          "date": "2026-10-26T00:16:16+00:00",
+          "title": "25.98 万元起，魏牌高山 8 HEV 上市，想跟燃油 MPV 们掰掰手腕",
+          "link": "https://www.ifanr.com/1685883",
+          "date": "2026-10-26T10:10:19+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -336,105 +452,77 @@
           "observed_days": 1
         },
         {
-          "title": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
-          "link": "https://sspai.com/post/117460",
-          "date": "2026-10-25T23:36:36+00:00",
+          "title": "最不「猛士」的猛士来了，X700 上市 20.98 万元起，却最适合大多数人",
+          "link": "https://www.ifanr.com/1685866",
+          "date": "2026-10-26T10:07:42+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
-          "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
-          "date": "2026-10-25T21:40:27+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "The Verge"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Scott Walker’s The Drift will get under your skin",
-          "link": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
-          "date": "2026-10-25T21:08:09+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "The Verge"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
-          "link": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
-          "date": "2026-10-25T20:16:19+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "The Verge"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Zen Browser is the Arc replacement I was looking for",
-          "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
-          "date": "2026-10-25T19:24:50+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "The Verge"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Now you can watch Instagram Reels on your Apple TV",
-          "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
-          "date": "2026-10-25T16:20:17+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "The Verge"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "在 Google 砍伐了上千英亩树后野狼来到芬兰的村庄",
-          "link": "https://www.solidot.org/story?sid=85706",
-          "date": "2026-10-25T16:16:11+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
+            "爱范儿"
           ],
           "source_count": 1,
           "observed_days": 1
         }
       ],
       "科研": [
+        {
+          "title": "Exercise doesn't just strengthen your heart. It rewires it",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
+          "date": "2026-10-26T11:35:53+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm",
+          "date": "2026-10-26T11:06:08+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+          "date": "2026-10-26T10:24:20+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Tiny magnetic vortices could help computers work more like your brain",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
+          "date": "2026-10-26T10:06:16+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "A simple liquid can stop cavities without drilling, major study confirms",
           "link": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",
@@ -462,9 +550,123 @@
           ],
           "source_count": 1,
           "observed_days": 1
+        },
+        {
+          "title": "Women might have invented language — but not alone",
+          "link": "https://www.nature.com/articles/d41586-026-03392-6",
+          "date": "2026-10-26T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "<i>The Selfish Gene</i>, 50 years on — it’s time for an update",
+          "link": "https://www.nature.com/articles/d41586-026-03393-5",
+          "date": "2026-10-26T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Are salaries getting worse? Many scientists think so",
+          "link": "https://www.nature.com/articles/d41586-026-03398-0",
+          "date": "2026-10-26T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 1
         }
       ],
       "综合": [
+        {
+          "title": "Anthropic warns of AI's 'risks to humanity' ahead of blockbuster share listing",
+          "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo",
+          "date": "2026-10-26T14:15:01+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+          "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo",
+          "date": "2026-10-26T14:16:09+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Lula wins fourth term in dramatic Brazil election comeback",
+          "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo",
+          "date": "2026-10-26T13:54:21+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "巴西總統盧拉：北京在美國後院的「老朋友」第四次贏得大選",
+          "link": "https://www.bbc.com/zhongwen/articles/cwj34v4lvvlgo/trad",
+          "date": "2026-10-26T10:13:36+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "蔡康永稱「沒支持過台獨」後出席蔣萬安造勢 兩岸輿論未息",
+          "link": "https://www.bbc.com/zhongwen/articles/ckq6nve0my4ro/trad",
+          "date": "2026-10-26T09:17:41+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "美國中選舉前夕，奧巴馬抨擊特朗普政府",
           "link": "https://www.bbc.com/zhongwen/articles/cm4g13j5jg5ko/trad",
@@ -534,37 +736,95 @@
           ],
           "source_count": 1,
           "observed_days": 1
-        },
-        {
-          "title": "Venezuelan opposition leader María Machado returns after months in exile",
-          "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
-          "date": "2026-10-25T18:29:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Early reports suggest record high turnout in Serbia elections",
-          "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o",
-          "date": "2026-10-25T16:05:15+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "财经": [
+        {
+          "title": "Anthropic warns of AI's 'risks to humanity' ahead of blockbuster share listing",
+          "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo",
+          "date": "2026-10-26T14:15:01+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Meta announces $95 billion stock offering to fund AI expansion",
+          "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+          "date": "2026-10-26T14:05:36+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
+          "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+          "date": "2026-10-26T13:43:14+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
+          "link": "https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html",
+          "date": "2026-10-26T13:09:26+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Trump says he'll soon decide whether to ‘make a deal’ with Iran or ‘finish it off'",
+          "link": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
+          "date": "2026-10-26T11:49:17+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Healey to shield low-income pensioners from income tax in the Budget",
+          "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o",
+          "date": "2026-10-26T10:28:12+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "Defense tech investment boom sparks bubble warning as private equity pours in",
           "link": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
@@ -594,7 +854,7 @@
           "observed_days": 1
         },
         {
-          "title": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+          "title": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
           "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
           "date": "2026-10-26T01:10:46+00:00",
           "date_is_observed": false,
@@ -620,98 +880,14 @@
           ],
           "source_count": 1,
           "observed_days": 1
-        },
-        {
-          "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-          "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o",
-          "date": "2026-10-26T00:26:49+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
-          "link": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
-          "date": "2026-10-26T00:03:20+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
-          "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo",
-          "date": "2026-10-25T23:44:34+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
-          "link": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
-          "date": "2026-10-25T20:28:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
-          "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
-          "date": "2026-10-25T18:18:49+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
-          "link": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
-          "date": "2026-10-25T16:02:56+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ]
     }
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-26T06:22:34+00:00",
-    "total": 3436,
+    "end": "2026-10-26T14:19:36+00:00",
+    "total": 3483,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
@@ -1592,9 +1768,9 @@
           "observed_days": 2
         },
         {
-          "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
-          "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo",
-          "date": "2026-10-22T22:27:53+00:00",
+          "title": "Anthropic warns of AI's 'risks to humanity' ahead of blockbuster share listing",
+          "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo",
+          "date": "2026-10-26T14:15:01+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -1608,9 +1784,9 @@
           "observed_days": 1
         },
         {
-          "title": "What is PHP and why did it spark a global cyber-security scramble?",
-          "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
-          "date": "2026-10-22T03:48:50+00:00",
+          "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
+          "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo",
+          "date": "2026-10-22T22:27:53+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -1754,9 +1930,9 @@
           "observed_days": 2
         },
         {
-          "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
-          "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo",
-          "date": "2026-10-22T22:27:53+00:00",
+          "title": "Anthropic warns of AI's 'risks to humanity' ahead of blockbuster share listing",
+          "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo",
+          "date": "2026-10-26T14:15:01+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -1770,9 +1946,9 @@
           "observed_days": 1
         },
         {
-          "title": "What is PHP and why did it spark a global cyber-security scramble?",
-          "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
-          "date": "2026-10-22T03:48:50+00:00",
+          "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
+          "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo",
+          "date": "2026-10-22T22:27:53+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
