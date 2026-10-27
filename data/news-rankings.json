@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T18:45:27+00:00",
-  "updated": "2026-10-27T18:45:26+00:00",
+  "generated_at": "2026-10-27T22:58:36+00:00",
+  "updated": "2026-10-27T22:58:36+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-26T00:00:00+08:00",
-    "end": "2026-10-27T18:45:27+00:00",
-    "total": 294,
+    "end": "2026-10-27T22:58:36+00:00",
+    "total": 317,
     "items": [
       {
         "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
@@ -400,43 +400,43 @@
           "observed_days": 2
         },
         {
-          "title": "[Claude] Google Play 订阅的 Claude 怎么升级订阅？",
-          "link": "https://www.v2ex.com/t/1252391",
-          "date": "2026-10-27T18:40:17+00:00",
+          "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+          "link": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+          "date": "2026-10-27T22:31:15+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "V2EX"
+            "Hacker News"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "[分享创造] Railse：一个人同时开几个 AI 编程 agent，审批推到手机上点一下",
-          "link": "https://www.v2ex.com/t/1252390",
-          "date": "2026-10-27T18:38:04+00:00",
+          "title": "One year of Dioxus fullstack in production: the good, the painful",
+          "link": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
+          "date": "2026-10-27T21:19:15+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "V2EX"
+            "Hacker News"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "[硬件] RAID 换盘为什么要一块一块来：连换三块盘把阵列弄异常了，顺便说说重建期间要盯什么",
-          "link": "https://www.v2ex.com/t/1252389",
-          "date": "2026-10-27T18:15:24+00:00",
+          "title": "Early progress on accelerating drug development with Claude",
+          "link": "https://www.anthropic.com/research/early-progress-drug-development",
+          "date": "2026-10-27T20:50:42+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "V2EX"
+            "Hacker News"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -656,6 +656,48 @@
           "observed_days": 2
         },
         {
+          "title": "The Nobel prize in economic science has a serious gender problem",
+          "link": "https://www.nature.com/articles/d41586-026-03404-5",
+          "date": "2026-10-27T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Short-term academic visits to China could sustain ties",
+          "link": "https://www.nature.com/articles/d41586-026-03405-4",
+          "date": "2026-10-27T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "AI-hallucinated citations should be treated as research misconduct",
+          "link": "https://www.nature.com/articles/d41586-026-03407-2",
+          "date": "2026-10-27T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
           "title": "Exercise doesn't just strengthen your heart. It rewires it",
           "link": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
           "date": "2026-10-26T11:35:53+00:00",
@@ -673,48 +715,6 @@
           "title": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
           "link": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm",
           "date": "2026-10-26T11:06:08+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
-          "date": "2026-10-26T10:24:20+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Tiny magnetic vortices could help computers work more like your brain",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
-          "date": "2026-10-26T10:06:16+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "A simple liquid can stop cavities without drilling, major study confirms",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",
-          "date": "2026-10-26T02:41:13+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -830,6 +830,20 @@
           "observed_days": 2
         },
         {
+          "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+          "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o",
+          "date": "2026-10-27T01:46:38+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
           "title": "澳洲囚犯爭取吃Vegemite醬敗訴，為何獄中禁止「國民食物」？",
           "link": "https://www.bbc.com/zhongwen/articles/cx98zq3gze22o/trad",
           "date": "2026-10-27T00:18:40+00:00",
@@ -853,20 +867,6 @@
           ],
           "sources": [
             "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "巴西總統盧拉：北京在美國後院的「老朋友」第四次贏得大選",
-          "link": "https://www.bbc.com/zhongwen/articles/cwj34v4lvvlgo/trad",
-          "date": "2026-10-26T10:13:36+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -1022,8 +1022,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-27T18:45:27+00:00",
-    "total": 3660,
+    "end": "2026-10-27T22:58:36+00:00",
+    "total": 3683,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
