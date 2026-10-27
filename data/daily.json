@@ -1,126 +1,121 @@
 {
-  "updated": "2026-10-26T20:32:16+00:00",
+  "updated": "2026-10-27T00:28:54+00:00",
   "leetcode": {
-    "date": "2026-10-26",
-    "id": "3619",
-    "title": "Count Islands With Total Value Divisible by K",
-    "titleEn": "Count Islands With Total Value Divisible by K",
-    "slug": "count-islands-with-total-value-divisible-by-k",
-    "difficulty": "Medium",
-    "tags": [
-      "Array",
-      "Depth-First Search",
-      "Breadth-First Search",
-      "Union-Find"
-    ],
-    "link": "https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/",
+    "date": "2026-10-27",
+    "id": "3963",
+    "title": "Create Grid With Exactly One Path",
+    "titleEn": "Create Grid With Exactly One Path",
+    "slug": "create-grid-with-exactly-one-path",
+    "difficulty": "Easy",
+    "tags": [],
+    "link": "https://leetcode.com/problems/create-grid-with-exactly-one-path/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Eyebrow Talk",
-    "text": "Eyebrow Talk was a Chinese monthly literary magazine published in 18 issues from November 1914 to around April or May 1916. It was among the first literary magazines in China to be marketed towards women and the first to be primarily edited by women. Its founder and editor-in-chief was Gao Jianhua, who worked closely with Xu Xiaotian and a staff of mainly female assistant editors. At least ten different women are confirmed to have written for the magazine, alongside some men who wrote under female pen names. Reaching a claimed circulation of 10,000 by 1915, the magazine was published by the New Learning Society, which mostly published school textbooks.",
-    "words": 109,
-    "url": "https://en.wikipedia.org/wiki/Eyebrow_Talk",
-    "date": "2026-10-26",
+    "title": "1986 New York Mets season",
+    "text": "During the 1986 Major League Baseball (MLB) season, the New York Mets won the National League East, the National League Championship Series (NLCS) and the 1986 World Series, the team's second and most recent World Series championship. General manager Frank Cashen and manager Davey Johnson built a powerful team that compiled one of the best regular season records in MLB history.",
+    "words": 61,
+    "url": "https://en.wikipedia.org/wiki/1986_New_York_Mets_season",
+    "date": "2026-10-27",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "[Amateur film: \"Frisco Fair / Pacific Northwest\"]",
-    "creator": "Unknown",
-    "year": "1939",
-    "url": "https://archive.org/download/FriscoFa1939/FriscoFa1939_512kb.mp4",
-    "page": "https://archive.org/details/FriscoFa1939",
-    "date": "2026-10-26",
+    "title": "[Home Movies: Trip Around New York City, Summer 1954, #2]",
+    "creator": "",
+    "year": "1954",
+    "url": "https://archive.org/download/0627_HM_Trip_Around_New_York_City_Summer_1954_2_18_46_11_00/0627_HM_Trip_Around_New_York_City_Summer_1954_2_18_46_11_00_3mb.m4v",
+    "page": "https://archive.org/details/0627_HM_Trip_Around_New_York_City_Summer_1954_2_18_46_11_00",
+    "date": "2026-10-27",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Their Finest Hour Volume 3 - Best of Netlabels",
-      "artist": "Various Artists",
-      "url": "https://archive.org/download/their_finest_hour_vol3/01._soto_-_my_blue_plane_soto_version.mp3",
-      "page": "https://archive.org/details/their_finest_hour_vol3",
+      "title": "Sticking Drops - Sustain EP [mir004]",
+      "artist": "Sticking Drops",
+      "url": "https://archive.org/download/mir004/mir004-sticking_drops-01-iris.mp3",
+      "page": "https://archive.org/details/mir004",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/"
+    },
+    {
+      "title": "Valovoima - Waves From A Universe",
+      "artist": "Valovoima",
+      "url": "https://archive.org/download/pakkaslumi11/01%20-%20Waves%20From%20A%20Universe%20I.mp3",
+      "page": "https://archive.org/details/pakkaslumi11",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Adrià Bofarull The Brain test [thrmn013]",
-      "artist": "Thrmnphone",
-      "url": "https://archive.org/download/thrmn013/01RecognizePatterns.mp3",
-      "page": "https://archive.org/details/thrmn013",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "[GV-516] Bzaurie - Hide In The Mist",
-      "artist": "Bzaurie",
-      "url": "https://archive.org/download/gv516/Bzaurie%20-%20Hide%20in%20the%20Mist%20-%2001%20Hide%20in%20the%20Mist.mp3",
-      "page": "https://archive.org/details/gv516",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Tributary To Nabia",
-      "artist": "tarballrat",
-      "url": "https://archive.org/download/tarballrat-tributary-to-nabia-01-tributary-to-nabia/tarballrat%20-%20Tributary%20To%20Nabia%20-%2001%20Tributary%20to%20Nabia.mp3",
-      "page": "https://archive.org/details/tarballrat-tributary-to-nabia-01-tributary-to-nabia",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-    },
-    {
-      "title": "The Others [AS71]",
-      "artist": "Alan Morse Davies",
-      "url": "https://archive.org/download/theothers_201810/01.%20Venice%20and%20the%20Two-Stroke%20Outboard%20Engine.mp3",
-      "page": "https://archive.org/details/theothers_201810",
-      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
-    },
-    {
-      "title": "[TC007] Digitalina",
-      "artist": "Sr. Duck",
-      "url": "https://archive.org/download/tc007_digitalina/01IHearAVoice.mp3",
-      "page": "https://archive.org/details/tc007_digitalina",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "striped movies [suda 0014]",
-      "artist": "Sudamérica Electronica",
-      "url": "https://archive.org/download/striped_movies/1-lake_and_mirrors.mp3",
-      "page": "https://archive.org/details/striped_movies",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "AAR00106",
-      "artist": "Black Purification",
-      "url": "https://archive.org/download/AAR00106/BlackPurification-NightInGolovkinBasement.mp3",
-      "page": "https://archive.org/details/AAR00106",
+      "title": "Kevin Lyons - \"Lullabies for Strange Children (waag_rel044)\"",
+      "artist": "Kevin Lyons",
+      "url": "https://archive.org/download/waag_rel044/01_-_Kevin-Lyons_-_Relics.mp3",
+      "page": "https://archive.org/details/waag_rel044",
       "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "Ivan Modular - Kelwidge Park",
-      "artist": "Ivan Modular",
-      "url": "https://archive.org/download/heavymental.ru_hm24/01_Ivan_Modular_-_Kelwidge_Park--Original_Edit.mp3",
-      "page": "https://archive.org/details/heavymental.ru_hm24",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "Sijis Radio - Down with the Chairman 30 [sijis_dwtc30]",
+      "artist": "Mark McLaren",
+      "url": "https://archive.org/download/dwtc30/DWTC30.MP3",
+      "page": "https://archive.org/details/dwtc30",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
     },
     {
-      "title": "[ENDE489] Disrrr - True Anarchy Built On Democracy",
+      "title": "Tsukimono - The Back is a Collection of Busted Static [Fukk God 018]",
       "artist": "",
-      "url": "https://archive.org/download/ende489-disrrr-true-anarchy-built-on-democracy/01%20%20-%20Disrrr%20-%20fuck%20up%20the%20police.mp3",
-      "page": "https://archive.org/details/ende489-disrrr-true-anarchy-built-on-democracy",
+      "url": "https://archive.org/download/fukkgod018/fukkgod018_-_tsukimono_-_01_-_punked_up_fuck_attitude.mp3",
+      "page": "https://archive.org/details/fukkgod018",
+      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
+    },
+    {
+      "title": "[dk] - Painprovider [sk007]",
+      "artist": "[dk]",
+      "url": "https://archive.org/download/painprovider/01ainprovider.mp3",
+      "page": "https://archive.org/details/painprovider",
       "license": "Creative Commons"
     },
     {
-      "title": "Starfirefive - Strangers",
-      "artist": "Starfirefive",
-      "url": "https://archive.org/download/starfirefive_strangers/starfirefive_city_of_the_lord_instrumental_feat_lisa_fletcher.mp3",
-      "page": "https://archive.org/details/starfirefive_strangers",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+      "title": "Already My Fourth EP",
+      "artist": "They Call Me Mr Random",
+      "url": "https://archive.org/download/nolimit014/01-track_1.mp3",
+      "page": "https://archive.org/details/nolimit014",
+      "license": "Creative Commons"
     },
     {
-      "title": "EthnoTronic - Parabola EP [foot193]",
-      "artist": "Joachim Rontexlius, Rachel Moraledius",
-      "url": "https://archive.org/download/foot193/foot193_01-ethnotronic-parabola_part_1.mp3",
-      "page": "https://archive.org/details/foot193",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+      "title": "Mdtf",
+      "artist": "Bjonnh",
+      "url": "https://archive.org/download/sbk_bjonnh_mdtf/mdtf.mp3",
+      "page": "https://archive.org/details/sbk_bjonnh_mdtf",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "mnblck023 - Otolith - The Dark Side EP (2009)",
+      "artist": "Otolith",
+      "url": "https://archive.org/download/mnblck023/mnblck023-Otolith-The_Dark_Side_EP-01-Monolith1.mp3",
+      "page": "https://archive.org/details/mnblck023",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/de/"
+    },
+    {
+      "title": "Uncertain Horizon",
+      "artist": "Jazzaria.com",
+      "url": "https://archive.org/download/uncertain-horizon/uncertain-horizon.mp3",
+      "page": "https://archive.org/details/uncertain-horizon",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "(USER072) user46786121478 - Engrav II EP",
+      "artist": "user46786121478",
+      "url": "https://archive.org/download/user072-user46786121478-engrav-ii-ep/%28USER072%29%2001.%20user46786121478%20-%20The%20YPS%20CD%20Engraver%2001_EngravII%20EP.mp3",
+      "page": "https://archive.org/details/user072-user46786121478-engrav-ii-ep",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "microbio05 The Human Isolated Bacteria: Cerelac",
+      "artist": "Microbio",
+      "url": "https://archive.org/download/microbio05/m_05-01.mp3",
+      "page": "https://archive.org/details/microbio05",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-26T20:32:16+00:00",
-  "updated": "2026-10-26T20:32:16+00:00",
+  "generated_at": "2026-10-27T00:28:54+00:00",
+  "updated": "2026-10-27T00:28:54+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-26T00:00:00+08:00",
-    "end": "2026-10-26T20:32:16+00:00",
-    "total": 154,
+    "end": "2026-10-27T00:28:54+00:00",
+    "total": 182,
     "items": [
       {
         "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
@@ -240,9 +240,9 @@
           "observed_days": 2
         },
         {
-          "title": "[Claude Code] 我把我们团队的 Claude Code 工作流开源了",
-          "link": "https://www.v2ex.com/t/1252076",
-          "date": "2026-10-26T20:02:34+00:00",
+          "title": "[分享创造] eros3.ai 可能是目前最好的中文 AI 伴侣 [送码]",
+          "link": "https://www.v2ex.com/t/1252086",
+          "date": "2026-10-27T00:26:21+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -254,9 +254,9 @@
           "observed_days": 1
         },
         {
-          "title": "[问与答] codex 如何设计好看点的 UI？",
-          "link": "https://www.v2ex.com/t/1252075",
-          "date": "2026-10-26T19:13:23+00:00",
+          "title": "[生活] 请问一下 v 友们平常都是喝什么水的？",
+          "link": "https://www.v2ex.com/t/1252085",
+          "date": "2026-10-27T00:24:27+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -268,9 +268,51 @@
           "observed_days": 1
         },
         {
-          "title": "The EPA Is Quietly Killing Its Web Archive",
-          "link": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
-          "date": "2026-10-26T19:05:41+00:00",
+          "title": "[分享创造] pngdeer — 效果最好的开源的 PNG 压缩库（超过 TinyPNG 8%~12%）",
+          "link": "https://www.v2ex.com/t/1252084",
+          "date": "2026-10-27T00:22:42+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[问与答] 项目进行一半 Claude 被封了，还有什么开通途径吗？",
+          "link": "https://www.v2ex.com/t/1252083",
+          "date": "2026-10-27T00:09:01+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[推广] Huiai 代充上新品 Grok Premium /Super/Ultra 可开票",
+          "link": "https://www.v2ex.com/t/1252081",
+          "date": "2026-10-26T23:38:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Just Imagining a Workout Can Make You Stronger",
+          "link": "https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068",
+          "date": "2026-10-26T23:08:27+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -282,57 +324,15 @@
           "observed_days": 1
         },
         {
-          "title": "Skydance offers buyouts, orders return to office",
-          "link": "https://variety.com/2026/film/news/skydance-voluntary-buyouts-layoffs-5-days-per-week-in-office-policy-1236931402/",
-          "date": "2026-10-26T18:56:03+00:00",
+          "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+          "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+          "date": "2026-10-26T22:41:48+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
             "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[问与答] 深夜求助，物业只提前 1 小时通知停电，导致我家里电脑坏了",
-          "link": "https://www.v2ex.com/t/1252074",
-          "date": "2026-10-26T18:34:26+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "US designates helium as a critical material",
-          "link": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
-          "date": "2026-10-26T18:31:39+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[程序员] Claude 是傻逼吗，我写的强制性规范，它能直接不看的吗",
-          "link": "https://www.v2ex.com/t/1252073",
-          "date": "2026-10-26T18:18:20+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -710,37 +710,9 @@
           "observed_days": 2
         },
         {
-          "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-          "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo",
-          "date": "2026-10-26T19:27:21+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Catholic bishops apologise for 'exploited' Trump meeting",
-          "link": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o",
-          "date": "2026-10-26T15:46:31+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "福田康夫逝世享年90歲 長期親華的「短暫」日本首相",
-          "link": "https://www.bbc.com/zhongwen/articles/cm4g149yw14lo/trad",
-          "date": "2026-10-26T15:03:14+00:00",
+          "title": "「鐵蛋白臉」真的存在嗎？從外表能否判斷缺鐵？",
+          "link": "https://www.bbc.com/zhongwen/articles/cx4g103g9jnvo/trad",
+          "date": "2026-10-27T00:19:12+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -752,9 +724,37 @@
           "observed_days": 1
         },
         {
-          "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-          "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo",
-          "date": "2026-10-26T14:16:09+00:00",
+          "title": "澳洲囚犯爭取吃Vegemite醬敗訴，為何獄中禁止「國民食物」？",
+          "link": "https://www.bbc.com/zhongwen/articles/cx98zq3gze22o/trad",
+          "date": "2026-10-27T00:18:40+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "特朗普重返白宮後，如何從五方面改變美國移民政策？",
+          "link": "https://www.bbc.com/zhongwen/articles/cmy83lne67zqo/trad",
+          "date": "2026-10-27T00:17:41+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+          "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo",
+          "date": "2026-10-26T19:27:21+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -826,9 +826,9 @@
           "observed_days": 2
         },
         {
-          "title": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
-          "link": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
-          "date": "2026-10-26T20:03:58+00:00",
+          "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
+          "link": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
+          "date": "2026-10-27T00:17:44+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -840,9 +840,9 @@
           "observed_days": 1
         },
         {
-          "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
-          "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o",
-          "date": "2026-10-26T19:57:23+00:00",
+          "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+          "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo",
+          "date": "2026-10-27T00:01:00+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -854,9 +854,9 @@
           "observed_days": 1
         },
         {
-          "title": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
-          "link": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html",
-          "date": "2026-10-26T18:43:25+00:00",
+          "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+          "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+          "date": "2026-10-26T22:50:07+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -868,9 +868,23 @@
           "observed_days": 1
         },
         {
-          "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-          "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-          "date": "2026-10-26T17:40:30+00:00",
+          "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+          "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
+          "date": "2026-10-26T22:30:02+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "DOJ charges ex-FBI Director James Comey in new case",
+          "link": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
+          "date": "2026-10-26T22:24:36+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -882,23 +896,9 @@
           "observed_days": 1
         },
         {
-          "title": "The arc of Trump: How the president lost the coalition that put him in the White House",
-          "link": "https://www.cnbc.com/2026/10/26/trump-approval-midterms-cnbc-survey.html",
-          "date": "2026-10-26T17:36:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Investors are doing just as well this year by shunning AI. How to invest if the tech trade keeps fizzling",
-          "link": "https://www.cnbc.com/2026/10/26/sp-500-ex-ai-index-tech-selloff.html",
-          "date": "2026-10-26T15:39:55+00:00",
+          "title": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
+          "link": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
+          "date": "2026-10-26T20:03:58+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -914,8 +914,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-26T20:32:16+00:00",
-    "total": 3520,
+    "end": "2026-10-27T00:28:54+00:00",
+    "total": 3548,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
