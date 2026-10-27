@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T06:20:11+00:00",
-  "updated": "2026-10-27T06:20:11+00:00",
+  "generated_at": "2026-10-27T13:16:02+00:00",
+  "updated": "2026-10-27T13:16:02+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-26T00:00:00+08:00",
-    "end": "2026-10-27T06:20:11+00:00",
-    "total": 207,
+    "end": "2026-10-27T13:16:02+00:00",
+    "total": 264,
     "items": [
       {
         "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
@@ -23,6 +23,21 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "Python's experimental JIT to be removed",
+        "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+        "date": "2026-10-27T06:20:38+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "Lula wins fourth term in dramatic Brazil election comeback",
@@ -135,20 +150,6 @@
         ],
         "source_count": 1,
         "observed_days": 2
-      },
-      {
-        "title": "派评 | 近期值得关注的 App",
-        "link": "https://sspai.com/post/117529",
-        "date": "2026-10-26T10:17:46+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "少数派"
-        ],
-        "source_count": 1,
-        "observed_days": 2
       }
     ],
     "by_category": {
@@ -182,6 +183,62 @@
           "observed_days": 2
         },
         {
+          "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+          "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+          "date": "2026-10-27T12:10:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+          "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+          "date": "2026-10-27T11:19:18+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "How solid-state transformers could help power the AI boom",
+          "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+          "date": "2026-10-27T09:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+          "link": "https://www.qbitai.com/2026/10/505580.html",
+          "date": "2026-10-27T03:23:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Will the real Anthropic please stand up",
           "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
           "date": "2026-10-26T17:45:43+00:00",
@@ -194,9 +251,66 @@
           ],
           "source_count": 1,
           "observed_days": 1
+        },
+        {
+          "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+          "link": "https://www.qbitai.com/2026/10/505551.html",
+          "date": "2026-10-26T16:06:31+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+          "link": "https://www.qbitai.com/2026/10/505539.html",
+          "date": "2026-10-26T09:46:13+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "OpenAI开始断网训练最强模型：“安全起见”",
+          "link": "https://www.qbitai.com/2026/10/505529.html",
+          "date": "2026-10-26T09:37:57+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
         }
       ],
       "开发": [
+        {
+          "title": "Python's experimental JIT to be removed",
+          "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+          "date": "2026-10-27T06:20:38+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
         {
           "title": "Websites Should Be Printable",
           "link": "https://brennenputh.me/blog/printable-websites/",
@@ -240,79 +354,9 @@
           "observed_days": 2
         },
         {
-          "title": "[推广] 🍬不给糖就放福利！ Nov 静态 ISP & 动态住宅 IP 大放送， ChatGPT、Codex 稳定访问",
-          "link": "https://www.v2ex.com/t/1252227",
-          "date": "2026-10-27T06:18:42+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[推广] [中转站] 新上模型 gpt-6.1-terra，新用户送 7 元，快来测试",
-          "link": "https://www.v2ex.com/t/1252226",
-          "date": "2026-10-27T06:18:15+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[程序员] 求推荐 iOS 端语音转文字 App",
-          "link": "https://www.v2ex.com/t/1252225",
-          "date": "2026-10-27T06:17:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[VXNA] 申请重新收录 prologue.dev",
-          "link": "https://www.v2ex.com/t/1252224",
-          "date": "2026-10-27T06:17:12+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[分享创造] Bubboo，一个 PopClip 的美化版平替",
-          "link": "https://www.v2ex.com/t/1252223",
-          "date": "2026-10-27T06:14:42+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "UK to charge universities $1,200 per international student",
-          "link": "https://africa.businessinsider.com/local/markets/uk-to-charge-universities-dollar1200-per-international-student-including-those-from/qe5rqbe",
-          "date": "2026-10-27T05:13:08+00:00",
+          "title": "Apple introduces the new 14-inch MacBook Pro with M6",
+          "link": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+          "date": "2026-10-27T13:01:07+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -324,15 +368,71 @@
           "observed_days": 1
         },
         {
-          "title": "There are now 5 inference providers for abliterated DeepSeek",
-          "link": "https://allmodels.io/llm/abliterated",
-          "date": "2026-10-27T04:53:52+00:00",
+          "title": "[职场话题] 78 年生，未婚，跨境电商十多年，求职碰壁，想听听 V 友的建议",
+          "link": "https://www.v2ex.com/t/1252353",
+          "date": "2026-10-27T12:59:37+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "Hacker News"
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[程序员] 大佬们，我开发了个 ai 上论坛代你吵架的 dsh 插件，大佬们能不能帮忙看看",
+          "link": "https://www.v2ex.com/t/1252352",
+          "date": "2026-10-27T12:53:11+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[推广] 想体验更稳定的 AI 接口？ DeepSeek 限时免费蹬",
+          "link": "https://www.v2ex.com/t/1252350",
+          "date": "2026-10-27T12:26:46+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[VPS] 这几天有没被封的 vps 吗？推荐一下，几个自建的都挂了",
+          "link": "https://www.v2ex.com/t/1252349",
+          "date": "2026-10-27T12:22:04+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[分享创造] [分享创造] 一张信息图重建要 40 分钟，时间到底花在哪",
+          "link": "https://www.v2ex.com/t/1252348",
+          "date": "2026-10-27T12:20:14+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -580,9 +680,9 @@
           "observed_days": 2
         },
         {
-          "title": "Scientists overcome a hidden obstacle to more powerful quantum computers",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
-          "date": "2026-10-26T01:42:48+00:00",
+          "title": "The secret to slower aging may be hiding in your gut",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261026225620.htm",
+          "date": "2026-10-27T11:53:24+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -594,29 +694,29 @@
           "observed_days": 1
         },
         {
-          "title": "Nerve activity initiates autoimmune hair loss",
-          "link": "https://www.nature.com/articles/d41586-026-03258-x",
-          "date": "2026-10-26T00:00:00+00:00",
+          "title": "Low testosterone may make sugar far more harmful to your liver",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261026225622.htm",
+          "date": "2026-10-27T11:18:37+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
           ],
           "sources": [
-            "Nature"
+            "ScienceDaily"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Glimpsing archaeal microbes on the move",
-          "link": "https://www.nature.com/articles/d41586-026-03259-w",
-          "date": "2026-10-26T00:00:00+00:00",
+          "title": "Common drugs may help dangerous viruses spread through the body",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
+          "date": "2026-10-27T10:46:21+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
           ],
           "sources": [
-            "Nature"
+            "ScienceDaily"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -710,9 +810,23 @@
           "observed_days": 2
         },
         {
-          "title": "Jay-Z to perform at Super Bowl half-time show",
-          "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo",
-          "date": "2026-10-27T05:05:15+00:00",
+          "title": "姆巴佩陷入「中國獨裁者」迷因風波：品牌解約、央視停播",
+          "link": "https://www.bbc.com/zhongwen/articles/c6x2v4p284ylo/trad",
+          "date": "2026-10-27T12:42:20+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+          "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo",
+          "date": "2026-10-27T11:53:57+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -724,9 +838,9 @@
           "observed_days": 1
         },
         {
-          "title": "Meghan to co-host Junior MasterChef Australia",
-          "link": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o",
-          "date": "2026-10-27T04:43:56+00:00",
+          "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
+          "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o",
+          "date": "2026-10-27T11:11:33+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -738,29 +852,15 @@
           "observed_days": 1
         },
         {
-          "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-          "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo",
-          "date": "2026-10-27T02:40:17+00:00",
+          "title": "武契奇14年執政落幕，中塞「鐵桿友誼」何去何從？",
+          "link": "https://www.bbc.com/zhongwen/articles/cw62y7lkvyn0o/trad",
+          "date": "2026-10-27T08:05:52+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
           ],
           "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Ex-FBI chief James Comey faces federal charges for third time",
-          "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo",
-          "date": "2026-10-27T02:01:27+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
+            "BBC 中文"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -826,9 +926,9 @@
           "observed_days": 2
         },
         {
-          "title": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
-          "link": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
-          "date": "2026-10-27T05:30:10+00:00",
+          "title": "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production",
+          "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+          "date": "2026-10-27T13:06:12+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -840,9 +940,9 @@
           "observed_days": 1
         },
         {
-          "title": "Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply concerns",
-          "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
-          "date": "2026-10-27T05:09:59+00:00",
+          "title": "Santoli: We are nearing a now-or-never moment for the AI trade to rebound",
+          "link": "https://www.cnbc.com/2026/10/27/santoli-now-or-never-for-ai-trade.html",
+          "date": "2026-10-27T12:33:52+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -854,9 +954,9 @@
           "observed_days": 1
         },
         {
-          "title": "Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
-          "link": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
-          "date": "2026-10-27T04:40:30+00:00",
+          "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+          "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
+          "date": "2026-10-27T12:20:36+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -868,9 +968,9 @@
           "observed_days": 1
         },
         {
-          "title": "Apple says it will replace iPhone Duo handsets with screen problems",
-          "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo",
-          "date": "2026-10-27T01:48:04+00:00",
+          "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+          "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo",
+          "date": "2026-10-27T12:02:20+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -882,9 +982,9 @@
           "observed_days": 1
         },
         {
-          "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
-          "link": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
-          "date": "2026-10-27T00:17:44+00:00",
+          "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+          "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
+          "date": "2026-10-27T11:06:22+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -896,9 +996,9 @@
           "observed_days": 1
         },
         {
-          "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
-          "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo",
-          "date": "2026-10-27T00:01:00+00:00",
+          "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+          "link": "https://www.bbc.co.uk/news/articles/c5rmy84np001o",
+          "date": "2026-10-27T06:33:11+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -914,8 +1014,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-27T06:20:11+00:00",
-    "total": 3573,
+    "end": "2026-10-27T13:16:02+00:00",
+    "total": 3630,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
