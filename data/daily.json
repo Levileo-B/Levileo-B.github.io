@@ -1,121 +1,126 @@
 {
-  "updated": "2026-10-27T22:58:36+00:00",
+  "updated": "2026-10-28T02:19:41+00:00",
   "leetcode": {
-    "date": "2026-10-27",
-    "id": "3963",
-    "title": "Create Grid With Exactly One Path",
-    "titleEn": "Create Grid With Exactly One Path",
-    "slug": "create-grid-with-exactly-one-path",
-    "difficulty": "Easy",
-    "tags": [],
-    "link": "https://leetcode.com/problems/create-grid-with-exactly-one-path/",
+    "date": "2026-10-28",
+    "id": "3882",
+    "title": "Minimum XOR Path in a Grid",
+    "titleEn": "Minimum XOR Path in a Grid",
+    "slug": "minimum-xor-path-in-a-grid",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Dynamic Programming",
+      "Bit Manipulation",
+      "Matrix"
+    ],
+    "link": "https://leetcode.com/problems/minimum-xor-path-in-a-grid/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "1986 New York Mets season",
-    "text": "During the 1986 Major League Baseball (MLB) season, the New York Mets won the National League East, the National League Championship Series (NLCS) and the 1986 World Series, the team's second and most recent World Series championship. General manager Frank Cashen and manager Davey Johnson built a powerful team that compiled one of the best regular season records in MLB history.",
-    "words": 61,
-    "url": "https://en.wikipedia.org/wiki/1986_New_York_Mets_season",
-    "date": "2026-10-27",
+    "title": "Second Battle of Newtonia",
+    "text": "The Second Battle of Newtonia was fought on October 28, 1864, near Newtonia, Missouri, between cavalry commanded by Major General James G. Blunt of the Union Army and Brigadier General Joseph O. Shelby's rear guard of the Confederate Army of Missouri. In September 1864, Confederate Major General Sterling Price had entered the state of Missouri with hopes of creating a popular uprising against Union control of the state. A defeat at the Battle of Pilot Knob in late September and the strength of Union positions at Jefferson City led Price to abandon the main objectives of the campaign; instead he moved his force west towards Kansas City, where it was badly defeated at the Battle of Westport by Major General Samuel R. Curtis on October 23. Following a set of three defeats on October 25, Price's army halted to rest near Newtonia on October 28.",
+    "words": 145,
+    "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Newtonia",
+    "date": "2026-10-28",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "General Motors Export (Antwerp, Alexandria)",
-    "creator": "Handy (Jam) Organization",
-    "year": "1927",
-    "url": "https://archive.org/download/0718_General_Motors_Export_Antwerp_Alexandria_M00012_13_28_20_00/0718_General_Motors_Export_Antwerp_Alexandria_M00012_13_28_20_00.m4v",
-    "page": "https://archive.org/details/0718_General_Motors_Export_Antwerp_Alexandria_M00012_13_28_20_00",
-    "date": "2026-10-27",
+    "title": "Gas Pool 205 outtakes",
+    "creator": "Edward J. Simmel",
+    "year": "",
+    "url": "https://archive.org/download/201006_Gas_Pool_205_outtakes/201006_Gas_Pool_205_outtakes_001_master.intros.mp4",
+    "page": "https://archive.org/details/201006_Gas_Pool_205_outtakes",
+    "date": "2026-10-28",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "[ENDE067] Angry Teenagers Who Want To Kill People - Kinder Sechs",
+      "title": "Eugene Mitrohin- Futurecalypse",
+      "artist": "Eugene Mitrohin",
+      "url": "https://archive.org/download/futurecalypse/6.psionicFilter.mp3",
+      "page": "https://archive.org/details/futurecalypse",
+      "license": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+      "title": "TFR980 - Gravehuffer - Blasphemusic",
+      "artist": "Gravehuffer",
+      "url": "https://archive.org/download/TFR980-Gravehuffer-Blasphemusic/01-Husk.mp3",
+      "page": "https://archive.org/details/TFR980-Gravehuffer-Blasphemusic",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "TFR794 - Xiphest - Beseecher (Demo)",
+      "artist": "Xiphest",
+      "url": "https://archive.org/download/TFR794-Xiphest-BeseecherDemo/01-FaceFirstIntoMoltenGlass.mp3",
+      "page": "https://archive.org/details/TFR794-Xiphest-BeseecherDemo",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "THE BIGGESTMOTOR",
+      "artist": "Yukiga Futte Uresii",
+      "url": "https://archive.org/download/THEBIGGESTMOTOR/01_THE_BIGGESTMOTOR.mp3",
+      "page": "https://archive.org/details/THEBIGGESTMOTOR",
+      "license": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "title": "Gala Glam",
       "artist": "",
-      "url": "https://archive.org/download/ende067-atwwtkp-kinder-sechs/01%20-%20Angry%20Teenagers%20Who%20Want%20To%20Kill%20People%20-%20Reds%20Under%20The%20Bed.mp3",
-      "page": "https://archive.org/details/ende067-atwwtkp-kinder-sechs",
+      "url": "https://archive.org/download/galaglam/Gala%20Glam/01%20gala%20glam%20para%20radio.mp3",
+      "page": "https://archive.org/details/galaglam",
       "license": "Creative Commons"
     },
     {
-      "title": "First & Last",
-      "artist": "Matti T",
-      "url": "https://archive.org/download/siko-034/01firstlast.mp3",
-      "page": "https://archive.org/details/siko-034",
-      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/fi/"
+      "title": "This Struggles",
+      "artist": "Dusk",
+      "url": "https://archive.org/download/ThisStruggles/01-Dusk_This-Struggles.mp3",
+      "page": "https://archive.org/details/ThisStruggles",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "frei²: New Borrachos Album «Bomben für den Frieden»",
-      "artist": "Robert Bienert",
-      "url": "https://archive.org/download/freihoch2-2013-10-01-Borrachos/freihoch2-2013-10-01-Borrachos.mp3",
-      "page": "https://archive.org/details/freihoch2-2013-10-01-Borrachos",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/de/"
+      "title": "$up - Gimme 6",
+      "artist": "Sup",
+      "url": "https://archive.org/download/Sup-Gimme6/01%20-%20High%20or%20Dry.mp3",
+      "page": "https://archive.org/details/Sup-Gimme6",
+      "license": "Creative Commons"
     },
     {
-      "title": "hertzcanary_-_whÂµ_do_birds_sing_so_gaÂµ-(20k323)-2011",
-      "artist": "hertzcanary",
-      "url": "https://archive.org/download/hertzcanary_-_wh_do_birds_sing_so_ga-20k323-2011/01-hertzcanary_-_ukulele_intro.mp3",
-      "page": "https://archive.org/details/hertzcanary_-_wh_do_birds_sing_so_ga-20k323-2011",
+      "title": "[ESR-03] - b4by f4c3 - 26 Bodies (2012)",
+      "artist": "Frank Angotti",
+      "url": "https://archive.org/download/esr-03-B4byF4c3-26Bodies/B4byF4c3-26Bodies-01NumberSix.mp3",
+      "page": "https://archive.org/details/esr-03-B4byF4c3-26Bodies",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "kritix - tonik funkture {fdg-011}",
-      "artist": "kritix",
-      "url": "https://archive.org/download/fdg-011/01%20-%20tonik%20funkture.mp3",
-      "page": "https://archive.org/details/fdg-011",
-      "license": "Creative Commons"
+      "title": "Sterben",
+      "artist": "Asaguare",
+      "url": "https://archive.org/download/Sterben/SterbenHiFi.mp3",
+      "page": "https://archive.org/details/Sterben",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "Armed - Mi cabeza esta llena de fantasia [rwclub011]",
-      "artist": "Armed",
-      "url": "https://archive.org/download/rwclub011/01.armed-Intro.mp3",
-      "page": "https://archive.org/details/rwclub011",
+      "title": "Toygarden Restoration",
+      "artist": "Modul",
+      "url": "https://archive.org/download/f_fragpod006/fragpod006_-_modul_-_toygarden_restoration.mp3",
+      "page": "https://archive.org/details/f_fragpod006",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Partydödaren - Hur doftar honung? [map002]",
-      "artist": "Partydödaren",
-      "url": "https://archive.org/download/map002/01_hur_doftar_honung.mp3",
-      "page": "https://archive.org/details/map002",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/"
+      "title": "The Sleeping Moth",
+      "artist": "Coereave",
+      "url": "https://archive.org/download/TheSleepingMoth/1-TheSleepingMoth.mp3",
+      "page": "https://archive.org/details/TheSleepingMoth",
+      "license": "http://creativecommons.org/licenses/by/3.0/"
     },
     {
-      "title": "frei² 2018-12-05: Weihnachten (X-Mas)",
-      "artist": "Robert Bienert",
-      "url": "https://archive.org/download/freihoch2-2018-12-05-Weihnachten/freihoch2-2018-12-05-Weihnachten.mp3",
-      "page": "https://archive.org/details/freihoch2-2018-12-05-Weihnachten",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
-    },
-    {
-      "title": "The Unknown",
-      "artist": "Mikel R. Nieto",
-      "url": "https://archive.org/download/r-archives-093/The%20Unknown.mp3",
-      "page": "https://archive.org/details/r-archives-093",
-      "license": "https://creativecommons.org/publicdomain/mark/1.0/"
-    },
-    {
-      "title": "Scan Me Radio Edit",
-      "artist": "G.O:D",
-      "url": "https://archive.org/download/scan-me-radio-edit/scan%20me%20radio_edit.mp3",
-      "page": "https://archive.org/details/scan-me-radio-edit",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-    },
-    {
-      "title": "Cheap Talk - Cool Timmy",
-      "artist": "",
-      "url": "https://archive.org/download/CheapTalk-CoolTimmy/01ViciousTattooedWomen.mp3",
-      "page": "https://archive.org/details/CheapTalk-CoolTimmy",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "[MALIGNO-036] Rap Raro",
-      "artist": "Dj Kan",
-      "url": "https://archive.org/download/maligno-036/01_-_Dj_Kan_-_Intro_-1_De_Mayo-.mp3",
-      "page": "https://archive.org/details/maligno-036",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "Forgotten Creation",
+      "artist": "Jazzaria.com",
+      "url": "https://archive.org/download/forgotten-creation/forgotten-creation.mp3",
+      "page": "https://archive.org/details/forgotten-creation",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     }
   ]
 }
