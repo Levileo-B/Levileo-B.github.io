@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-28T02:19:40+00:00",
-  "updated": "2026-10-28T02:19:40+00:00",
+  "generated_at": "2026-10-28T09:44:41+00:00",
+  "updated": "2026-10-28T09:44:41+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-26T00:00:00+08:00",
-    "end": "2026-10-28T02:19:40+00:00",
-    "total": 336,
+    "end": "2026-10-28T09:44:41+00:00",
+    "total": 370,
     "items": [
       {
         "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
@@ -71,6 +71,37 @@
         "observed_days": 2
       },
       {
+        "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+        "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo",
+        "date": "2026-10-28T07:53:20+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
+        "title": "Ghostty 1.4.0",
+        "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
+        "date": "2026-10-27T16:51:22+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
         "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
         "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
         "date": "2026-10-26T12:40:00+00:00",
@@ -113,7 +144,7 @@
         "observed_days": 3
       },
       {
-        "title": "姆巴佩陷入「中國獨裁者」迷因風波：品牌解約、央視停播",
+        "title": "姆巴佩就「中國獨裁者」迷因道歉 背後的資訊真空與「毛澤東熱」",
         "link": "https://www.bbc.com/zhongwen/articles/c6x2v4p284ylo/trad",
         "date": "2026-10-27T12:42:20+00:00",
         "date_is_observed": false,
@@ -122,34 +153,6 @@
         ],
         "sources": [
           "BBC 中文"
-        ],
-        "source_count": 1,
-        "observed_days": 2
-      },
-      {
-        "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-        "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-        "date": "2026-10-27T12:10:00+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "AI"
-        ],
-        "sources": [
-          "MIT Technology Review"
-        ],
-        "source_count": 1,
-        "observed_days": 2
-      },
-      {
-        "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-        "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo",
-        "date": "2026-10-27T11:53:57+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC World"
         ],
         "source_count": 1,
         "observed_days": 2
@@ -330,6 +333,21 @@
           "observed_days": 2
         },
         {
+          "title": "Ghostty 1.4.0",
+          "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
+          "date": "2026-10-27T16:51:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "《Agent 评测白皮书》系列01：Agent 评测全览",
           "link": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
           "date": "2026-10-25T16:27:29+00:00",
@@ -400,9 +418,9 @@
           "observed_days": 2
         },
         {
-          "title": "[问与答] 已经焦虑到躯体化了",
-          "link": "https://www.v2ex.com/t/1252444",
-          "date": "2026-10-28T02:18:55+00:00",
+          "title": "[程序员] 项目开发多设备同步的问题",
+          "link": "https://www.v2ex.com/t/1252607",
+          "date": "2026-10-28T09:39:47+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -414,23 +432,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] AI 时代，前端开发者真的能靠 AI 成为全栈工程师吗？我构建了一套企业级应用基础架构",
-          "link": "https://www.v2ex.com/t/1252442",
-          "date": "2026-10-28T02:18:25+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[云计算] Linux 时区怎么改： timedatectl 一行命令",
-          "link": "https://www.v2ex.com/t/1252439",
-          "date": "2026-10-28T02:16:02+00:00",
+          "title": "[分享创造] 国庆用 Claude Code 搓了只奶蛙割草小游戏，尝试上架微信小游戏，一个月了，备案终于通过了",
+          "link": "https://www.v2ex.com/t/1252605",
+          "date": "2026-10-28T09:34:34+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -760,7 +764,23 @@
           "observed_days": 2
         },
         {
-          "title": "姆巴佩陷入「中國獨裁者」迷因風波：品牌解約、央視停播",
+          "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+          "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo",
+          "date": "2026-10-28T07:53:20+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "姆巴佩就「中國獨裁者」迷因道歉 背後的資訊真空與「毛澤東熱」",
           "link": "https://www.bbc.com/zhongwen/articles/c6x2v4p284ylo/trad",
           "date": "2026-10-27T12:42:20+00:00",
           "date_is_observed": false,
@@ -856,20 +876,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Lula wins fourth term in dramatic Brazil election comeback",
-          "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo",
-          "date": "2026-10-26T13:54:21+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
@@ -904,6 +910,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+          "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo",
+          "date": "2026-10-28T07:53:20+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
@@ -1002,28 +1024,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
-          "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo",
-          "date": "2026-10-25T23:44:34+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-28T02:19:40+00:00",
-    "total": 3702,
+    "end": "2026-10-28T09:44:41+00:00",
+    "total": 3736,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
