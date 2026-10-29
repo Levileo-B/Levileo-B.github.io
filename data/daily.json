@@ -1,98 +1,77 @@
 {
-  "updated": "2026-10-28T21:41:14+00:00",
+  "updated": "2026-10-29T01:49:55+00:00",
   "leetcode": {
-    "date": "2026-10-28",
-    "id": "3882",
-    "title": "Minimum XOR Path in a Grid",
-    "titleEn": "Minimum XOR Path in a Grid",
-    "slug": "minimum-xor-path-in-a-grid",
-    "difficulty": "Medium",
+    "date": "2026-10-29",
+    "id": "3841",
+    "title": "Palindromic Path Queries in a Tree",
+    "titleEn": "Palindromic Path Queries in a Tree",
+    "slug": "palindromic-path-queries-in-a-tree",
+    "difficulty": "Hard",
     "tags": [
       "Array",
-      "Dynamic Programming",
-      "Bit Manipulation",
-      "Matrix"
+      "String",
+      "Divide and Conquer",
+      "Bit Manipulation"
     ],
-    "link": "https://leetcode.com/problems/minimum-xor-path-in-a-grid/",
+    "link": "https://leetcode.com/problems/palindromic-path-queries-in-a-tree/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Second Battle of Newtonia",
-    "text": "The Second Battle of Newtonia was a battle of the American Civil War fought on October 28, 1864, near Newtonia, Missouri, between cavalry commanded by Major General James G. Blunt of the Union Army and Brigadier General Joseph O. Shelby's rear guard of the Confederate Army of Missouri. In September 1864, Confederate Major General Sterling Price had entered the state of Missouri with hopes of sparking a popular uprising against Union control of the state. A defeat at the Battle of Pilot Knob in late September and the strength of Union positions at Jefferson City led Price to abandon the main objectives of the campaign; instead he moved his force west towards Kansas City, where it was badly defeated at the Battle of Westport by Major General Samuel R. Curtis on October 23. Following a set of three defeats on October 25, Price's army halted to rest near Newtonia on October 28.",
-    "words": 152,
-    "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Newtonia",
-    "date": "2026-10-28",
+    "title": "Chimacum Creek",
+    "text": "Chimacum Creek is a stream in Jefferson County, Washington, United States. Located on the base of the Quimper Peninsula in the northeast of the larger Olympic Peninsula, the main stem originates from a series of springs and ponds in the forested hills south of Discovery Bay. It flows south from its source before turning east and eventually north, taking in many small tributaries before it enters the broad Chimacum Valley, an agricultural region where the stream has been extensively channelized. After taking in its largest tributary, the East Fork Chimacum, near the community of Chimacum, it enters a tight ravine where it meets the sea in the community of Port Hadlock-Irondale, creating a small estuary and an area of intertidal wetland as it enters Port Townsend Bay.",
+    "words": 127,
+    "url": "https://en.wikipedia.org/wiki/Chimacum_Creek",
+    "date": "2026-10-29",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "001182",
-    "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/001182/001182.mp4",
-    "page": "https://archive.org/details/001182",
-    "date": "2026-10-28",
+    "title": "Road Ahead, The",
+    "creator": "Sun Oil Company (De Frenes)",
+    "year": "1962",
+    "url": "https://archive.org/download/0612_Road_Ahead_The_08_01_01_00/0612_Road_Ahead_The_08_01_01_00.m4v",
+    "page": "https://archive.org/details/0612_Road_Ahead_The_08_01_01_00",
+    "date": "2026-10-29",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Venetian Veil - Apophenia",
-      "artist": "",
-      "url": "https://archive.org/download/VenetianVeil-Apophenia/1Untitled.mp3",
-      "page": "https://archive.org/details/VenetianVeil-Apophenia",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "Vlad Shegal - \"Night In The Forest Of Death\"",
+      "artist": "Vlad Shegal",
+      "url": "https://archive.org/download/VladShegal-nightInTheForestOfDeath/01-VladShegalForestPathAndFullMoon.mp3",
+      "page": "https://archive.org/details/VladShegal-nightInTheForestOfDeath",
+      "license": "Creative Commons"
     },
     {
-      "title": "Una Lee - (f)rog (f)rog (GFR, 073)",
-      "artist": "Una Lee/GFR",
-      "url": "https://archive.org/download/UnaLee-frogfroggfr073/1.frog.mp3",
-      "page": "https://archive.org/details/UnaLee-frogfroggfr073",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "Cera",
+      "artist": "Pierre",
+      "url": "https://archive.org/download/fri28/01oui_vbr.mp3",
+      "page": "https://archive.org/details/fri28",
+      "license": "Creative Commons"
     },
     {
-      "title": "All That Glitters",
-      "artist": "Jazzaria.com",
-      "url": "https://archive.org/download/jazzaria_all-that-glitters/all-that-glitters.mp3",
-      "page": "https://archive.org/details/jazzaria_all-that-glitters",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "Various Artists - getting warmer EP [bump006]",
-      "artist": "tatsu / zucchini / tayutafu",
-      "url": "https://archive.org/download/bump006/bump006_01-tatsu-hidden.mp3",
-      "page": "https://archive.org/details/bump006",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/"
-    },
-    {
-      "title": "[deepx207] Sasha Yeller - Heroin EP",
-      "artist": "Deep-X Recordings",
-      "url": "https://archive.org/download/deepx207/deepx207-01_-_Sasha_Yeller_-_Heroin.mp3",
-      "page": "https://archive.org/details/deepx207",
+      "title": "[EPH038] NIGNUS -Dubstep animal (Ephedrin7\")",
+      "artist": "Ephedrina's Crew",
+      "url": "https://archive.org/download/eph038Nignus-DubstepAnimal7inch/Latoa-DubstepAnimal.mp3",
+      "page": "https://archive.org/details/eph038Nignus-DubstepAnimal7inch",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "Various Artists - Vulpiano Records Sampler EP: Vol. 3 [2011]",
-      "artist": "",
-      "url": "https://archive.org/download/VariousArtists-VulpianoRecordsSamplerEpVol.32011/10Bother.mp3",
-      "page": "https://archive.org/details/VariousArtists-VulpianoRecordsSamplerEpVol.32011",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "amor_loco_0005_,_fonemas_y_martillos",
+      "artist": "criadero en seres",
+      "url": "https://archive.org/download/fonemas_y_martillos_._criadero_en_seres/01_._Criadero_en_Seres_._El_aposento_doble_._Fonemas_y_Martillos.mp3",
+      "page": "https://archive.org/details/fonemas_y_martillos_._criadero_en_seres",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
     },
     {
-      "title": "Visions Created With Sound",
-      "artist": "the.synthetic.awakening",
-      "url": "https://archive.org/download/VisionsCreatedWithSound/01%20-%20Vision%201.mp3",
-      "page": "https://archive.org/details/VisionsCreatedWithSound",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Volcania Wheel Of Life",
-      "artist": "Volcania",
-      "url": "https://archive.org/download/VolcaniaWheelOfLife/Volcania%20-%20Wheel%20of%20life.mp3",
-      "page": "https://archive.org/details/VolcaniaWheelOfLife",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+      "title": "(dell.tree) - A Colecionadora - frec 009",
+      "artist": "(dell.tree)",
+      "url": "https://archive.org/download/frec009/delltree_a_colecionadora_layer_1.mp3",
+      "page": "https://archive.org/details/frec009",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/deed-music"
     },
     {
       "title": "VOLANS - GEOGRAFÍAS DEL OLVIDO",
@@ -102,24 +81,45 @@
       "license": "http://creativecommons.org/licenses/by-nc/3.0/"
     },
     {
-      "title": "Sorrows Of Tomorrow [VSS025]",
-      "artist": "PZA and Virtual Trash ✞",
-      "url": "https://archive.org/download/VSS025/PZA%20-%20Sorrows%20Of%20Tomorrow%20-%2001%20EMBERS%20OF%20TOMORROW.mp3",
-      "page": "https://archive.org/details/VSS025",
+      "title": "SA34 - Dark Metamorphosis - The Crimson Thirst",
+      "artist": "Dark Metamorphosis",
+      "url": "https://archive.org/download/SA34-DarkMetamorphosis-TheCrimsonThirst/01BloodJourney.mp3",
+      "page": "https://archive.org/details/SA34-DarkMetamorphosis-TheCrimsonThirst",
       "license": "Creative Commons"
     },
     {
-      "title": "SA01 - Dizzonanz Domestic - !FLUX!",
-      "artist": "Dizzonanz Domestic",
-      "url": "https://archive.org/download/SA01_FLUX/01cyclOne.mp3",
-      "page": "https://archive.org/details/SA01_FLUX",
-      "license": "http://creativecommons.org/licenses/by-nc/3.0/us/"
+      "title": "Free Music Charts September 2011 vom 19.09.2011",
+      "artist": "",
+      "url": "https://archive.org/download/freemusiccharts2011.09/freemusiccharts2011-09-19.mp3",
+      "page": "https://archive.org/details/freemusiccharts2011.09",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/de/"
     },
     {
-      "title": "[K30_010]Guttersnipe-Magani",
+      "title": "Una Lee - (f)rog (f)rog (GFR, 073)",
+      "artist": "Una Lee/GFR",
+      "url": "https://archive.org/download/UnaLee-frogfroggfr073/1.frog.mp3",
+      "page": "https://archive.org/details/UnaLee-frogfroggfr073",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "Gala Glam",
       "artist": "",
-      "url": "https://archive.org/download/k30-010-guttersnipe-magani/01_k30_010_%20Guttersnipe-Morning.mp3",
-      "page": "https://archive.org/details/k30-010-guttersnipe-magani",
+      "url": "https://archive.org/download/galaglam/Gala%20Glam/01%20gala%20glam%20para%20radio.mp3",
+      "page": "https://archive.org/details/galaglam",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "geekcore014",
+      "artist": "Bobotek",
+      "url": "https://archive.org/download/geekcore014/01-Bobotek-Amb_05.mp3",
+      "page": "https://archive.org/details/geekcore014",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "eraserEars_discoDiffusion",
+      "artist": "Jaime Munarriz",
+      "url": "https://archive.org/download/eraserEars_discoDiffusion/01_EraserEars_DiscoDiffusion_WarmCircuit.mp3",
+      "page": "https://archive.org/details/eraserEars_discoDiffusion",
       "license": "Creative Commons"
     }
   ]
