@@ -1,54 +1,54 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-28T07:24:47.996771+00:00",
-  "attempted_at": "2026-10-28T07:24:47.996771+00:00",
+  "updated": "2026-10-29T07:39:56.039993+00:00",
+  "attempted_at": "2026-10-29T07:39:56.039993+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-10-28T07:24:47.996771+00:00",
+      "last_success": "2026-10-29T07:39:56.039993+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-10-28T07:24:47.996771+00:00",
+      "last_success": "2026-10-29T07:39:56.039993+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-10-28T07:24:47.996771+00:00",
+      "last_success": "2026-10-29T07:39:56.039993+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-10-28T07:24:47.996771+00:00",
+      "last_success": "2026-10-29T07:39:56.039993+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-10-28T07:24:47.996771+00:00",
+      "last_success": "2026-10-29T07:39:56.039993+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-10-28T07:24:47.996771+00:00",
+      "last_success": "2026-10-29T07:39:56.039993+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-10-28T07:24:47.996771+00:00",
+      "last_success": "2026-10-29T07:39:56.039993+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-10-28T07:24:47.996771+00:00",
+      "last_success": "2026-10-29T07:39:56.039993+00:00",
       "errors": []
     }
   ],
@@ -2374,42 +2374,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1002/rob.70240",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.isprsjprs.2026.03.009",
-      "title": "From canopy to ground via ForestGen3D: Learning cross-domain generation of 3D forest structure from aerial-to-terrestrial LiDAR",
-      "journal_id": "isprs",
-      "published": "2026-05",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.isprsjprs.2026.03.009",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.isprsjprs.2026.03.005",
-      "title": "Partial points segmenter: A unified framework for partially category-supervised point cloud segmentation",
-      "journal_id": "isprs",
-      "published": "2026-05",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.isprsjprs.2026.03.005",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.isprsjprs.2026.03.004",
-      "title": "LiDAR remote sensing meets weak supervision: Concepts, methods, and perspectives",
-      "journal_id": "isprs",
-      "published": "2026-05",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.isprsjprs.2026.03.004",
       "source": "crossref"
     }
   ]
