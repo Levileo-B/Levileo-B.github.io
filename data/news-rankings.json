@@ -1,13 +1,28 @@
 {
-  "generated_at": "2026-10-29T08:33:49+00:00",
-  "updated": "2026-10-29T08:33:49+00:00",
+  "generated_at": "2026-10-29T16:11:19+00:00",
+  "updated": "2026-10-29T16:11:19+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-26T00:00:00+08:00",
-    "end": "2026-10-29T08:33:49+00:00",
-    "total": 526,
+    "end": "2026-10-29T16:11:19+00:00",
+    "total": 580,
     "items": [
+      {
+        "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
+        "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+        "date": "2026-10-28T23:01:26+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
       {
         "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
         "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo",
@@ -87,21 +102,6 @@
         "observed_days": 2
       },
       {
-        "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
-        "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-        "date": "2026-10-28T23:01:26+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
         "title": "Ghostty 1.4.0",
         "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
         "date": "2026-10-27T16:51:22+00:00",
@@ -128,6 +128,20 @@
           "美团技术团队"
         ],
         "source_count": 1,
+        "observed_days": 5
+      },
+      {
+        "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+        "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo",
+        "date": "2026-10-27T00:01:00+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "财经"
+        ],
+        "sources": [
+          "BBC Business"
+        ],
+        "source_count": 1,
         "observed_days": 4
       },
       {
@@ -140,20 +154,6 @@
         ],
         "sources": [
           "BBC 中文"
-        ],
-        "source_count": 1,
-        "observed_days": 3
-      },
-      {
-        "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-        "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-        "date": "2026-10-27T12:10:00+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "AI"
-        ],
-        "sources": [
-          "MIT Technology Review"
         ],
         "source_count": 1,
         "observed_days": 3
@@ -218,9 +218,9 @@
           "observed_days": 3
         },
         {
-          "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
-          "link": "https://www.qbitai.com/2026/10/505928.html",
-          "date": "2026-10-28T04:04:48+00:00",
+          "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
+          "link": "https://www.qbitai.com/2026/10/506281.html",
+          "date": "2026-10-29T03:27:50+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -232,9 +232,9 @@
           "observed_days": 2
         },
         {
-          "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
-          "link": "https://www.qbitai.com/2026/10/505865.html",
-          "date": "2026-10-27T12:57:51+00:00",
+          "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+          "link": "https://www.qbitai.com/2026/10/506273.html",
+          "date": "2026-10-29T02:51:45+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -246,9 +246,9 @@
           "observed_days": 2
         },
         {
-          "title": "印奇把4D雷达也端到端了",
-          "link": "https://www.qbitai.com/2026/10/505852.html",
-          "date": "2026-10-27T10:40:12+00:00",
+          "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+          "link": "https://www.qbitai.com/2026/10/505934.html",
+          "date": "2026-10-29T02:18:28+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -260,9 +260,9 @@
           "observed_days": 2
         },
         {
-          "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
-          "link": "https://www.qbitai.com/2026/10/505830.html",
-          "date": "2026-10-27T09:54:51+00:00",
+          "title": "24万开卖！理想重造i6，李想：目标全球畅销",
+          "link": "https://www.qbitai.com/2026/10/506246.html",
+          "date": "2026-10-29T00:59:26+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -274,9 +274,9 @@
           "observed_days": 2
         },
         {
-          "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
-          "link": "https://www.qbitai.com/2026/10/505799.html",
-          "date": "2026-10-27T08:46:12+00:00",
+          "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+          "link": "https://www.qbitai.com/2026/10/506227.html",
+          "date": "2026-10-29T00:03:58+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -288,21 +288,36 @@
           "observed_days": 2
         },
         {
-          "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
-          "link": "https://www.qbitai.com/2026/10/505580.html",
-          "date": "2026-10-27T03:23:55+00:00",
+          "title": "Creating AI value with enterprise context",
+          "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+          "date": "2026-10-28T20:32:02+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
           ],
           "sources": [
-            "量子位"
+            "MIT Technology Review"
           ],
           "source_count": 1,
           "observed_days": 2
         }
       ],
       "开发": [
+        {
+          "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
+          "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+          "date": "2026-10-28T23:01:26+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
         {
           "title": "Python's experimental JIT to be removed",
           "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
@@ -334,21 +349,6 @@
           "observed_days": 2
         },
         {
-          "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
-          "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-          "date": "2026-10-28T23:01:26+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
           "title": "Ghostty 1.4.0",
           "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
           "date": "2026-10-27T16:51:22+00:00",
@@ -375,68 +375,68 @@
             "美团技术团队"
           ],
           "source_count": 1,
-          "observed_days": 4
+          "observed_days": 5
+        },
+        {
+          "title": "如何在“不能出错”的系统里使用 AI Coding？分布式存储实践与边界",
+          "link": "https://tech.meituan.com/2026/10/29/AI-Coding-IN-Distributed-Storage-System.html",
+          "date": "2026-10-29T08:33:49+00:00",
+          "date_is_observed": true,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "美团技术团队"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "GitHub Universe 2026: Evolving every layer of the stack",
+          "link": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "date": "2026-10-28T16:09:28+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "GitHub Blog"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+          "link": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+          "date": "2026-10-28T16:07:40+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "GitHub Blog"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Apple's git still trusts the compromised eMudhra certificates",
+          "link": "https://emudhra.we-have-a-problem.com/apple.html",
+          "date": "2026-10-28T11:03:56+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Lobsters"
+          ],
+          "source_count": 1,
+          "observed_days": 2
         },
         {
           "title": "This is not sustainable",
           "link": "https://www.netmeister.org/blog/defense-ddos.html",
           "date": "2026-10-28T03:56:49+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "A fast and secure tar parser for the Rust ecosystem",
-          "link": "https://astral.sh/blog/tar-codec",
-          "date": "2026-10-27T16:59:30+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Shitty Screenshare",
-          "link": "http://shittyscreenshare.com/",
-          "date": "2026-10-27T00:12:16+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "CSS-Tricks has a new owner",
-          "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-          "date": "2026-10-26T17:55:19+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Websites Should Be Printable",
-          "link": "https://brennenputh.me/blog/printable-websites/",
-          "date": "2026-10-26T12:02:58+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -478,9 +478,9 @@
           "observed_days": 3
         },
         {
-          "title": "实测讯飞输入法 16.0，我发现它是我最实在的 AI「赛博嘴替」",
-          "link": "https://www.ifanr.com/1686281",
-          "date": "2026-10-28T09:18:48+00:00",
+          "title": "7500 元！第一副安卓 XR 眼镜来了，比苹果更轻更好戴",
+          "link": "https://www.ifanr.com/1686636",
+          "date": "2026-10-29T08:00:04+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -492,23 +492,9 @@
           "observed_days": 2
         },
         {
-          "title": "断舍离只是起点：打造能长期经营的实用主义衣柜",
-          "link": "https://sspai.com/post/116990",
-          "date": "2026-10-28T07:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "2030 年之前，我们可能再也买不到便宜的电脑了",
-          "link": "https://www.ifanr.com/1686326",
-          "date": "2026-10-28T05:06:12+00:00",
+          "title": "不认字的 AI，却很会说话",
+          "link": "https://www.ifanr.com/1686124",
+          "date": "2026-10-29T07:03:36+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -520,9 +506,9 @@
           "observed_days": 2
         },
         {
-          "title": "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？",
-          "link": "https://sspai.com/post/115533",
-          "date": "2026-10-28T02:22:57+00:00",
+          "title": "让 Agent 读懂你的身体：数据处理篇",
+          "link": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
+          "date": "2026-10-29T03:29:46+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -534,9 +520,9 @@
           "observed_days": 2
         },
         {
-          "title": "派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等",
-          "link": "https://sspai.com/post/117684",
-          "date": "2026-10-28T00:37:25+00:00",
+          "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
+          "link": "https://sspai.com/post/116686",
+          "date": "2026-10-29T03:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -548,9 +534,23 @@
           "observed_days": 2
         },
         {
-          "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
-          "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
-          "date": "2026-10-27T22:37:30+00:00",
+          "title": "派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等",
+          "link": "https://sspai.com/post/117750",
+          "date": "2026-10-29T00:26:49+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+          "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+          "date": "2026-10-28T22:51:15+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -562,9 +562,9 @@
           "observed_days": 2
         },
         {
-          "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
-          "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
-          "date": "2026-10-27T22:22:32+00:00",
+          "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
+          "link": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
+          "date": "2026-10-28T22:35:50+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -576,9 +576,9 @@
           "observed_days": 2
         },
         {
-          "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
-          "link": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
-          "date": "2026-10-27T22:04:50+00:00",
+          "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
+          "link": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
+          "date": "2026-10-28T22:17:15+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -796,6 +796,48 @@
           "observed_days": 3
         },
         {
+          "title": "以色列大選結束，內塔尼亞胡能否執政為何依然懸而未決？",
+          "link": "https://www.bbc.com/zhongwen/articles/cqly0rmlde73o/trad",
+          "date": "2026-10-29T07:36:21+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "印中關係緩和之際：印邊境官員稱中國軍隊大批集結並搭帳篷",
+          "link": "https://www.bbc.com/zhongwen/articles/cwkg5e249vmko/trad",
+          "date": "2026-10-29T00:23:07+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "劉延東逝世：「紅二代」「團派」背景，政治局裡少見的女性身影",
+          "link": "https://www.bbc.com/zhongwen/articles/cq2038dd7pzxo/trad",
+          "date": "2026-10-28T14:51:19+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
           "title": "台灣地方選舉五大看點：「洋流」能否撼動台北？誰在卡位2028？",
           "link": "https://www.bbc.com/zhongwen/articles/cm8xzrg40dq1o/trad",
           "date": "2026-10-28T02:05:45+00:00",
@@ -833,48 +875,6 @@
           ],
           "sources": [
             "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "武契奇14年執政落幕，中塞「鐵桿友誼」何去何從？",
-          "link": "https://www.bbc.com/zhongwen/articles/cw62y7lkvyn0o/trad",
-          "date": "2026-10-27T08:05:52+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "「盧拉軍團」的WhatsApp聊天群如何扭轉巴西選情",
-          "link": "https://www.bbc.com/zhongwen/articles/c680zjdvk7kgo/trad",
-          "date": "2026-10-27T07:29:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "英國人會改變對梅根的看法嗎？",
-          "link": "https://www.bbc.com/zhongwen/articles/cjqlnge23gkgo/trad",
-          "date": "2026-10-27T06:44:45+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -941,7 +941,7 @@
             "BBC Business"
           ],
           "source_count": 1,
-          "observed_days": 3
+          "observed_days": 4
         },
         {
           "title": "At least 68 people dead in high-speed Spain train crash",
@@ -1032,8 +1032,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-29T08:33:49+00:00",
-    "total": 3892,
+    "end": "2026-10-29T16:11:19+00:00",
+    "total": 3946,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
@@ -1098,6 +1098,21 @@
         ],
         "source_count": 2,
         "observed_days": 3
+      },
+      {
+        "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
+        "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+        "date": "2026-10-28T23:01:26+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
       },
       {
         "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
@@ -1173,21 +1188,6 @@
         "sources": [
           "BBC Business",
           "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "The Goose Programming Language",
-        "link": "https://aardappel.github.io/goose/",
-        "date": "2026-10-24T19:06:55+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
         ],
         "source_count": 2,
         "observed_days": 2
@@ -1338,6 +1338,21 @@
       ],
       "开发": [
         {
+          "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
+          "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+          "date": "2026-10-28T23:01:26+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Python's experimental JIT to be removed",
           "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
           "date": "2026-10-27T06:20:38+00:00",
@@ -1461,21 +1476,6 @@
           "title": "Wine ported to OpenBSD",
           "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
           "date": "2026-10-19T13:35:34+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "The Brain Sandwich",
-          "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-          "date": "2026-10-18T03:03:36+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
