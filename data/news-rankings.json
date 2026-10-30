@@ -1,13 +1,28 @@
 {
-  "generated_at": "2026-10-30T14:14:29+00:00",
-  "updated": "2026-10-30T14:14:29+00:00",
+  "generated_at": "2026-10-30T19:28:00+00:00",
+  "updated": "2026-10-30T19:28:00+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-26T00:00:00+08:00",
-    "end": "2026-10-30T14:14:29+00:00",
-    "total": 729,
+    "end": "2026-10-30T19:28:00+00:00",
+    "total": 757,
     "items": [
+      {
+        "title": "My favourite PowerMac is a Nintendo Wii",
+        "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+        "date": "2026-10-29T16:32:18+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
       {
         "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
         "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
@@ -102,6 +117,22 @@
         "observed_days": 2
       },
       {
+        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+        "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
+        "date": "2026-10-30T17:39:43+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
         "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
         "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o",
         "date": "2026-10-30T00:59:04+00:00",
@@ -132,35 +163,6 @@
         ],
         "source_count": 2,
         "observed_days": 1
-      },
-      {
-        "title": "Ghostty 1.4.0",
-        "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
-        "date": "2026-10-27T16:51:22+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "《Agent 评测白皮书》系列01：Agent 评测全览",
-        "link": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
-        "date": "2026-10-25T16:27:29+00:00",
-        "date_is_observed": true,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "美团技术团队"
-        ],
-        "source_count": 1,
-        "observed_days": 5
       }
     ],
     "by_category": {
@@ -222,79 +224,9 @@
           "observed_days": 3
         },
         {
-          "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
-          "link": "https://www.qbitai.com/2026/10/506281.html",
-          "date": "2026-10-29T03:27:50+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
-          "link": "https://www.qbitai.com/2026/10/506273.html",
-          "date": "2026-10-29T02:51:45+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
-          "link": "https://www.qbitai.com/2026/10/505934.html",
-          "date": "2026-10-29T02:18:28+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "24万开卖！理想重造i6，李想：目标全球畅销",
-          "link": "https://www.qbitai.com/2026/10/506246.html",
-          "date": "2026-10-29T00:59:26+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
-          "link": "https://www.qbitai.com/2026/10/506227.html",
-          "date": "2026-10-29T00:03:58+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Creating AI value with enterprise context",
-          "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-          "date": "2026-10-28T20:32:02+00:00",
+          "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+          "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+          "date": "2026-10-30T11:30:00+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -304,9 +236,94 @@
           ],
           "source_count": 1,
           "observed_days": 2
+        },
+        {
+          "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+          "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+          "date": "2026-10-30T09:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+          "link": "https://www.qbitai.com/2026/10/506743.html",
+          "date": "2026-10-30T07:31:11+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
+          "link": "https://www.qbitai.com/2026/10/506686.html",
+          "date": "2026-10-30T05:52:47+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Claude新模型曝光：新Fable，新Opus…",
+          "link": "https://www.qbitai.com/2026/10/506674.html",
+          "date": "2026-10-30T05:50:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+          "link": "https://www.qbitai.com/2026/10/506662.html",
+          "date": "2026-10-30T03:48:04+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 2
         }
       ],
       "开发": [
+        {
+          "title": "My favourite PowerMac is a Nintendo Wii",
+          "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+          "date": "2026-10-29T16:32:18+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
         {
           "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
           "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
@@ -379,7 +396,7 @@
             "美团技术团队"
           ],
           "source_count": 1,
-          "observed_days": 5
+          "observed_days": 6
         },
         {
           "title": "如何在“不能出错”的系统里使用 AI Coding？分布式存储实践与边界",
@@ -393,21 +410,7 @@
             "美团技术团队"
           ],
           "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "EMACS turns 50",
-          "link": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-          "date": "2026-10-28T23:57:12+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
           "title": "GitHub Universe 2026: Evolving every layer of the stack",
@@ -421,7 +424,7 @@
             "GitHub Blog"
           ],
           "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
           "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
@@ -435,12 +438,12 @@
             "GitHub Blog"
           ],
           "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
-          "title": "Apple's git still trusts the compromised eMudhra certificates",
-          "link": "https://emudhra.we-have-a-problem.com/apple.html",
-          "date": "2026-10-28T11:03:56+00:00",
+          "title": "Do At-Proto Users Know This Is Public?",
+          "link": "https://melaniekat.com/blog/public-on-pds/",
+          "date": "2026-10-30T11:22:43+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -482,9 +485,23 @@
           "observed_days": 3
         },
         {
-          "title": "7500 元！第一副安卓 XR 眼镜来了，比苹果更轻更好戴",
-          "link": "https://www.ifanr.com/1686636",
-          "date": "2026-10-29T08:00:04+00:00",
+          "title": "GM to pay $220 million after selling customer Smart Driver data",
+          "link": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
+          "date": "2026-10-30T13:53:20+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "汽车工业的下一条流水线，开始由 AI 来安排",
+          "link": "https://www.ifanr.com/1686953",
+          "date": "2026-10-30T13:03:59+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -496,9 +513,37 @@
           "observed_days": 2
         },
         {
-          "title": "不认字的 AI，却很会说话",
-          "link": "https://www.ifanr.com/1686124",
-          "date": "2026-10-29T07:03:36+00:00",
+          "title": "LibreOffice 项目递交的代码发现使用LLM 的明确标记",
+          "link": "https://www.solidot.org/story?sid=85755",
+          "date": "2026-10-30T10:45:38+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Solidot"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "芬兰对 Google 砍伐 25 万颗树展开调查",
+          "link": "https://www.solidot.org/story?sid=85754",
+          "date": "2026-10-30T10:25:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Solidot"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "红魔 12 Pro+ 体验：水冷加上 RGB 灯，游戏性能全面升级",
+          "link": "https://www.ifanr.com/1686916",
+          "date": "2026-10-30T10:06:37+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -510,9 +555,23 @@
           "observed_days": 2
         },
         {
-          "title": "让 Agent 读懂你的身体：数据处理篇",
-          "link": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
-          "date": "2026-10-29T03:29:46+00:00",
+          "title": "「史上最强」的 iPad mini，为什么还是 60Hz 屏幕？",
+          "link": "https://www.ifanr.com/1686901",
+          "date": "2026-10-30T10:00:28+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "本周看什么 | 最近值得一看的 9 部作品",
+          "link": "https://sspai.com/post/117867",
+          "date": "2026-10-30T09:57:11+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -524,77 +583,91 @@
           "observed_days": 2
         },
         {
-          "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
-          "link": "https://sspai.com/post/116686",
-          "date": "2026-10-29T03:00:00+00:00",
+          "title": "Reddit 将强制要求所有用户登录",
+          "link": "https://www.solidot.org/story?sid=85753",
+          "date": "2026-10-30T08:43:05+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等",
-          "link": "https://sspai.com/post/117750",
-          "date": "2026-10-29T00:26:49+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
-          "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
-          "date": "2026-10-28T22:51:15+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
-          "link": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
-          "date": "2026-10-28T22:35:50+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
-          "link": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
-          "date": "2026-10-28T22:17:15+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica"
+            "Solidot"
           ],
           "source_count": 1,
           "observed_days": 2
         }
       ],
       "科研": [
+        {
+          "title": "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261029072129.htm",
+          "date": "2026-10-30T12:12:46+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
+          "date": "2026-10-30T11:34:16+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "A computer scientist breaks through a limit that stood since 1996",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261029072146.htm",
+          "date": "2026-10-30T11:08:52+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Astronauts just gave the International Space Station a powerful upgrade",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261030002931.htm",
+          "date": "2026-10-30T06:12:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Scientists discover mysterious seahorse lookalikes that no one has ever seen alive",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261029072119.htm",
+          "date": "2026-10-30T02:07:19+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
         {
           "title": "A simple daily fiber supplement reduced arthritis pain and improved strength",
           "link": "https://www.sciencedaily.com/releases/2026/10/261027230715.htm",
@@ -664,76 +737,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "The secret to slower aging may be hiding in your gut",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261026225620.htm",
-          "date": "2026-10-27T11:53:24+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Low testosterone may make sugar far more harmful to your liver",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261026225622.htm",
-          "date": "2026-10-27T11:18:37+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Common drugs may help dangerous viruses spread through the body",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
-          "date": "2026-10-27T10:46:21+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "James Webb discovers a scorching lava planet with a “giant sunscreen”",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
-          "date": "2026-10-27T10:20:52+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm",
-          "date": "2026-10-27T09:48:35+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "综合": [
@@ -786,6 +789,22 @@
           "observed_days": 2
         },
         {
+          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+          "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
+          "date": "2026-10-30T17:39:43+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
           "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o",
           "date": "2026-10-30T00:59:04+00:00",
@@ -832,9 +851,23 @@
           "observed_days": 3
         },
         {
-          "title": "以色列大選結束，內塔尼亞胡能否執政為何依然懸而未決？",
-          "link": "https://www.bbc.com/zhongwen/articles/cqly0rmlde73o/trad",
-          "date": "2026-10-29T07:36:21+00:00",
+          "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+          "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo",
+          "date": "2026-10-30T13:41:57+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "中共五中全會「空椅子」背後：常態化高壓反腐如何改變中國官場？",
+          "link": "https://www.bbc.com/zhongwen/articles/c3j47p5gwj5lo/trad",
+          "date": "2026-10-30T13:23:25+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -846,43 +879,15 @@
           "observed_days": 2
         },
         {
-          "title": "印中關係緩和之際：印邊境官員稱中國軍隊大批集結並搭帳篷",
-          "link": "https://www.bbc.com/zhongwen/articles/cwkg5e249vmko/trad",
-          "date": "2026-10-29T00:23:07+00:00",
+          "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+          "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo",
+          "date": "2026-10-30T13:03:34+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
           ],
           "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "劉延東逝世：「紅二代」「團派」背景，政治局裡少見的女性身影",
-          "link": "https://www.bbc.com/zhongwen/articles/cq2038dd7pzxo/trad",
-          "date": "2026-10-28T14:51:19+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "台灣地方選舉五大看點：「洋流」能否撼動台北？誰在卡位2028？",
-          "link": "https://www.bbc.com/zhongwen/articles/cm8xzrg40dq1o/trad",
-          "date": "2026-10-28T02:05:45+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
+            "BBC World"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -938,6 +943,22 @@
           "observed_days": 2
         },
         {
+          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+          "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
+          "date": "2026-10-30T17:39:43+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
           "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o",
           "date": "2026-10-30T00:59:04+00:00",
@@ -984,9 +1005,9 @@
           "observed_days": 4
         },
         {
-          "title": "At least 68 people dead in high-speed Spain train crash",
-          "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
-          "date": "2026-10-28T09:37:50+00:00",
+          "title": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
+          "link": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
+          "date": "2026-10-30T13:29:34+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -998,9 +1019,9 @@
           "observed_days": 2
         },
         {
-          "title": "'An annoying buzz': The search for stealthier drones",
-          "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo",
-          "date": "2026-10-28T00:01:10+00:00",
+          "title": "What we know about Binance's $6.3bn hack",
+          "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o",
+          "date": "2026-10-30T12:27:28+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1012,23 +1033,9 @@
           "observed_days": 2
         },
         {
-          "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-          "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
-          "date": "2026-10-27T11:06:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
-          "link": "https://www.bbc.co.uk/news/articles/c5rmy84np001o",
-          "date": "2026-10-27T06:33:11+00:00",
+          "title": "From Levi's to Primark - the fashion chains selling mended clothes",
+          "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o",
+          "date": "2026-10-30T00:00:35+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1044,8 +1051,8 @@
   },
   "month": {
     "start": "2026-10-01T00:00:00+08:00",
-    "end": "2026-10-30T14:14:29+00:00",
-    "total": 4095,
+    "end": "2026-10-30T19:28:00+00:00",
+    "total": 4123,
     "items": [
       {
         "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
@@ -1110,6 +1117,21 @@
         ],
         "source_count": 2,
         "observed_days": 3
+      },
+      {
+        "title": "My favourite PowerMac is a Nintendo Wii",
+        "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+        "date": "2026-10-29T16:32:18+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
       },
       {
         "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
@@ -1184,22 +1206,6 @@
         "sources": [
           "Hacker News",
           "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-        "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo",
-        "date": "2026-10-26T14:15:01+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
         ],
         "source_count": 2,
         "observed_days": 2
@@ -1350,6 +1356,21 @@
       ],
       "开发": [
         {
+          "title": "My favourite PowerMac is a Nintendo Wii",
+          "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+          "date": "2026-10-29T16:32:18+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
           "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
           "date": "2026-10-28T23:01:26+00:00",
@@ -1473,21 +1494,6 @@
           "title": "OpenBSD 8.0",
           "link": "https://www.openbsd.org/80.html",
           "date": "2026-10-20T01:46:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Wine ported to OpenBSD",
-          "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-          "date": "2026-10-19T13:35:34+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
