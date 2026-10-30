@@ -1,126 +1,126 @@
 {
-  "updated": "2026-10-29T21:10:40+00:00",
+  "updated": "2026-10-30T01:04:10+00:00",
   "leetcode": {
-    "date": "2026-10-29",
-    "id": "3841",
-    "title": "Palindromic Path Queries in a Tree",
-    "titleEn": "Palindromic Path Queries in a Tree",
-    "slug": "palindromic-path-queries-in-a-tree",
-    "difficulty": "Hard",
+    "date": "2026-10-30",
+    "id": "3970",
+    "title": "Shortest Path With At Most K Consecutive Identical Characters",
+    "titleEn": "Shortest Path With At Most K Consecutive Identical Characters",
+    "slug": "shortest-path-with-at-most-k-consecutive-identical-characters",
+    "difficulty": "Medium",
     "tags": [
-      "Array",
       "String",
-      "Divide and Conquer",
-      "Bit Manipulation"
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path"
     ],
-    "link": "https://leetcode.com/problems/palindromic-path-queries-in-a-tree/",
+    "link": "https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Chimacum Creek",
-    "text": "Chimacum Creek is a stream in Jefferson County, Washington, United States. Located on the base of the Quimper Peninsula in the northeast of the larger Olympic Peninsula, the main stem originates from a series of springs and ponds in the forested hills south of Discovery Bay. It flows south from its source before turning east and eventually north, taking in many small tributaries before it enters the broad Chimacum Valley, an agricultural region where the stream has been extensively channelized. After taking in its largest tributary, the East Fork Chimacum, near the community of Chimacum, it enters a tight ravine where it meets the sea in the community of Port Hadlock-Irondale, creating a small estuary and an area of intertidal wetland as it enters Port Townsend Bay.",
-    "words": 127,
-    "url": "https://en.wikipedia.org/wiki/Chimacum_Creek",
-    "date": "2026-10-29",
+    "title": "John Adams",
+    "text": "John Adams was a Founding Father and the second president of the United States from 1797 to 1801. Before his presidency, he was a leader of the American Revolution that achieved independence from Great Britain. During the latter part of the Revolutionary War and in the early years of the new nation, he served the Continental Congress of the United States as a senior diplomat in Europe. Adams was the first vice president of the United States, serving from 1789 to 1797. He was a dedicated diarist and regularly corresponded with contemporaries, including his wife and advisor Abigail Adams and his friend and rival Thomas Jefferson.",
+    "words": 106,
+    "url": "https://en.wikipedia.org/wiki/John_Adams",
+    "date": "2026-10-30",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "[Home movie: 098432: 1940s feasting and family fun]",
+    "title": "RP 001077",
     "creator": "",
     "year": "",
-    "url": "https://archive.org/download/098432/098432.mp4",
-    "page": "https://archive.org/details/098432",
-    "date": "2026-10-29",
+    "url": "https://archive.org/download/rp001077/RP-001077.mp4",
+    "page": "https://archive.org/details/rp001077",
+    "date": "2026-10-30",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "[Hujan024] Asphoria - Eschatology",
-      "artist": "Asphoria",
-      "url": "https://archive.org/download/hujan024/02_Asphoria_-_Living_In_A_World_Of_Atrocity.mp3",
-      "page": "https://archive.org/details/hujan024",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+      "title": "Cordell Klier - going forth by day [CYC-026]",
+      "artist": "Cordell Klier",
+      "url": "https://archive.org/download/CYC-026/01_whim.mp3",
+      "page": "https://archive.org/details/CYC-026",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
     },
     {
-      "title": "Unbranded",
-      "artist": "Gypsy",
-      "url": "https://archive.org/download/unbranded_202210/01%20-%20Picture%20In%20Your%20Mind.mp3",
-      "page": "https://archive.org/details/unbranded_202210",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "Distraction EP",
+      "artist": "Matti T",
+      "url": "https://archive.org/download/siko-029/01-rise.mp3",
+      "page": "https://archive.org/details/siko-029",
+      "license": "Creative Commons"
     },
     {
-      "title": "[unfound03] ezekiel honig - it's getting cold outside",
-      "artist": "ezekiel honig",
-      "url": "https://archive.org/download/unfound03/unfound03_01_-_ezekiel_honig_-_under_the_covers.mp3",
-      "page": "https://archive.org/details/unfound03",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/"
+      "title": "Procrustes - To Be Missed [ia009]",
+      "artist": "Procrustes",
+      "url": "https://archive.org/download/ia009/procrustes-01-snowblindness.mp3",
+      "page": "https://archive.org/details/ia009",
+      "license": "http://creativecommons.org/licenses/by-nc/2.0/"
     },
     {
-      "title": "hw016_giddines_scraps_-_clot_ep_(2006)",
-      "artist": "giddines scraps",
-      "url": "https://archive.org/download/hw016/hw016_01_giddines_scraps_-_death_alchimik_mephistopholis.mp3",
-      "page": "https://archive.org/details/hw016",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/"
-    },
-    {
-      "title": "Control-Z - 'Cut to Cut'",
-      "artist": "Control-Z",
-      "url": "https://archive.org/download/sPE_0074/Control-Z_Cut_to_Cut_01_Cut_X.mp3",
-      "page": "https://archive.org/details/sPE_0074",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "[unfound80] jaewon jawan - saturday night palsy",
-      "artist": "jaewon jawan",
-      "url": "https://archive.org/download/unfound80/unfound80_01_-_jaewon_jawan_-_saturday_night_palsy_black_diamond_dub.mp3",
-      "page": "https://archive.org/details/unfound80",
+      "title": "MUSEUM TUA (TaSe-87)",
+      "artist": "LUIS SIRIMARCO & THEO NUGRAHA",
+      "url": "https://archive.org/download/MuseumTuatase-87/01MuseumTua.mp3",
+      "page": "https://archive.org/details/MuseumTuatase-87",
       "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "BZZZZZZZ!!",
-      "artist": "Kangmey",
-      "url": "https://archive.org/download/earS002/Kangmey_1.mp3",
-      "page": "https://archive.org/details/earS002",
+      "title": "hw024_alecss_-_in_breakside_(2007)",
+      "artist": "Alecss",
+      "url": "https://archive.org/download/hw024/hw024_01_alecss_-_neoglorial.mp3",
+      "page": "https://archive.org/details/hw024",
+      "license": "https://creativecommons.org/licenses/by-nd/4.0/"
+    },
+    {
+      "title": "Lisbent - TLRIMBMTA [ill018]",
+      "artist": "Lisbent",
+      "url": "https://archive.org/download/ill018/01_-_lisbent_-_gbc.mp3",
+      "page": "https://archive.org/details/ill018",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Blind Statement",
+      "artist": "Michele Del Zotto, Michele Spanghero",
+      "url": "https://archive.org/download/headphonica.hplive008/M_Del_Zotto__M_Spanghero__Blind_Statement__01.mp3",
+      "page": "https://archive.org/details/headphonica.hplive008",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/it/"
+    },
+    {
+      "title": "Garden Atmosphere (with kids) On Lita Sampler",
+      "artist": "",
+      "url": "https://archive.org/download/CassetteBackup006/GardenAtmospherewithKidsOnLitaSamp.mp3",
+      "page": "https://archive.org/details/CassetteBackup006",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "v/a - snowflake ep [uran97 #016]",
-      "artist": "Barky³",
-      "url": "https://archive.org/download/uran97_016/uran97_016_01_chris_barky-caffeine_aroma.mp3",
-      "page": "https://archive.org/details/uran97_016",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "FW004: BAALBERITH - Hideous Laughter...",
-      "artist": "BAALBERITH",
-      "url": "https://archive.org/download/Fw004Baalberith-HideousLaughter/Fw004-01GrimoriumVerium.mp3",
-      "page": "https://archive.org/details/Fw004Baalberith-HideousLaughter",
-      "license": "http://creativecommons.org/licenses/by/2.0/uk/"
-    },
-    {
-      "title": "ВИА ЧЕЛОВЕК ПАУК - застолье у деда (2020)",
-      "artist": "ВИА ЧЕЛОВЕК ПАУК",
-      "url": "https://archive.org/download/IBR_1511/01.%20%D0%B4%D0%B5%D0%BD%D1%8C%20%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%87%D0%B8%D0%BF%D1%84%D0%BE%D0%BA%D1%81%D0%B0.mp3",
-      "page": "https://archive.org/details/IBR_1511",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "(USER036) user33338859021 - Active EP",
-      "artist": "USER Records",
-      "url": "https://archive.org/download/user036-user33338859021-active-ep/%28USER036%29%2001.%20user33338859021%20-%20Active_Active%20EP.mp3",
-      "page": "https://archive.org/details/user036-user33338859021-active-ep",
+      "title": "V L A D - The darker it is, the better (2021)",
+      "artist": "V L A D",
+      "url": "https://archive.org/download/vlad-the-darker-it-is-the-better/01%20-%20glorify.mp3",
+      "page": "https://archive.org/details/vlad-the-darker-it-is-the-better",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "[GV-516] Bzaurie - Hide In The Mist",
-      "artist": "Bzaurie",
-      "url": "https://archive.org/download/gv516/Bzaurie%20-%20Hide%20in%20the%20Mist%20-%2001%20Hide%20in%20the%20Mist.mp3",
-      "page": "https://archive.org/details/gv516",
+      "title": "[CSM011]_Bitwise_Operator_[Translation]_mp3_[320kbps]",
+      "artist": "Bitwise Operator",
+      "url": "https://archive.org/download/CSM011_Bitwise_Operator_Translation_mp3_320kbps/01-Light.mp3",
+      "page": "https://archive.org/details/CSM011_Bitwise_Operator_Translation_mp3_320kbps",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Do What Thou Wilt",
+      "artist": "Arzathon",
+      "url": "https://archive.org/download/do-what-thou-wilt/Arzathon%20-%20Do%20What%20Thou%20Wilt.mp3",
+      "page": "https://archive.org/details/do-what-thou-wilt",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "[ENDE208] SRVTR/SZMT - SRVTR/SZMT",
+      "artist": "",
+      "url": "https://archive.org/download/ende208-srvtr-szmt-split/01%20-%20SRVTR%20%26%20SZMT%20-%20Mr.mp3",
+      "page": "https://archive.org/details/ende208-srvtr-szmt-split",
+      "license": "Creative Commons"
     }
   ]
 }
