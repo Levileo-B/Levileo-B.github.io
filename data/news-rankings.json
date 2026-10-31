@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-31T17:46:40+00:00",
-  "updated": "2026-10-31T17:46:40+00:00",
+  "generated_at": "2026-10-31T21:39:20+00:00",
+  "updated": "2026-10-31T21:39:20+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-26T00:00:00+08:00",
-    "end": "2026-10-31T17:46:40+00:00",
-    "total": 860,
+    "end": "2026-10-31T21:39:20+00:00",
+    "total": 877,
     "items": [
       {
         "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
@@ -1051,83 +1051,13 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-10-31T17:46:40+00:00",
-    "total": 13,
+    "end": "2026-10-31T21:39:20+00:00",
+    "total": 30,
     "items": [
       {
-        "title": "[职场话题] 中年失业程序员的碎碎念（二）- 亦是终篇",
-        "link": "https://www.v2ex.com/t/1253471",
-        "date": "2026-10-31T17:25:56+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[推广] 《我享云》机场代理 · 性价比之王 · 十一月份优惠码 · 注册免费试用 5-10 天 · 一块钱用上专线",
-        "link": "https://www.v2ex.com/t/1253470",
-        "date": "2026-10-31T17:22:44+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[程序员] 我在 2 核 2G 云主机上跑 OpenViking：一次关于云主机、模型选型与长期成本的真实复盘",
-        "link": "https://www.v2ex.com/t/1253468",
-        "date": "2026-10-31T16:52:23+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[推广] [自荐] AIRAP Video：把人物照片变成单人或双人 AI 说唱视频",
-        "link": "https://www.v2ex.com/t/1253467",
-        "date": "2026-10-31T16:45:11+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[Claude] 有没有 claude 至今没跳 kyc 没封的 V 友，来讲讲做法？",
-        "link": "https://www.v2ex.com/t/1253466",
-        "date": "2026-10-31T16:32:49+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-        "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
-        "date": "2026-10-31T16:32:08+00:00",
+        "title": "Thousands demonstrate in Paris as protests spread across Europe",
+        "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o",
+        "date": "2026-10-31T21:29:01+00:00",
         "date_is_observed": false,
         "categories": [
           "综合"
@@ -1139,9 +1069,37 @@
         "observed_days": 1
       },
       {
-        "title": "Show HN: Jointter – A daily word puzzle using dots and lines",
-        "link": "https://www.jointter.com/",
-        "date": "2026-10-31T16:24:24+00:00",
+        "title": "Get in the spirit with these horrors from YouTube",
+        "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+        "date": "2026-10-31T21:06:58+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "科技"
+        ],
+        "sources": [
+          "The Verge"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+        "link": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+        "date": "2026-10-31T21:05:53+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "财经"
+        ],
+        "sources": [
+          "CNBC"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Distributed Proofreaders",
+        "link": "https://www.pgdp.net/c/",
+        "date": "2026-10-31T20:56:12+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -1153,9 +1111,9 @@
         "observed_days": 1
       },
       {
-        "title": "Enlightenment 0.28 Released with Many Improvements",
-        "link": "https://www.phoronix.com/news/Enlightenment-0.28",
-        "date": "2026-10-31T16:22:26+00:00",
+        "title": "With 86% of the words, you might understand only 38% of an anime's lines",
+        "link": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
+        "date": "2026-10-31T20:46:39+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -1167,9 +1125,51 @@
         "observed_days": 1
       },
       {
-        "title": "A/SIDE – Private photo sharing and encrypted messages",
-        "link": "https://a-side.social/",
-        "date": "2026-10-31T16:16:20+00:00",
+        "title": "[Claude] 所以新出的 Claude ultra 实际容量砍半了？",
+        "link": "https://www.v2ex.com/t/1253474",
+        "date": "2026-10-31T20:44:23+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+        "link": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+        "date": "2026-10-31T20:12:37+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "财经"
+        ],
+        "sources": [
+          "CNBC"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[MacBook Pro] 求推荐国内靠谱的 Mac 维修店： M3 Max 主板故障，官方换板报价一万多",
+        "link": "https://www.v2ex.com/t/1253473",
+        "date": "2026-10-31T20:06:38+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Surviving \"The Graduate\"",
+        "link": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+        "date": "2026-10-31T20:02:06+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -1181,9 +1181,9 @@
         "observed_days": 1
       },
       {
-        "title": "What is a light-day? The milestone Voyager 1 is closing in on",
-        "link": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/",
-        "date": "2026-10-31T16:09:55+00:00",
+        "title": "HackerTube: YouTube built from videos recommended by HN",
+        "link": "https://karpathy.bearblog.dev/hacker-tube/",
+        "date": "2026-10-31T19:56:53+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -1198,6 +1198,132 @@
     "by_category": {
       "开发": [
         {
+          "title": "Distributed Proofreaders",
+          "link": "https://www.pgdp.net/c/",
+          "date": "2026-10-31T20:56:12+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "With 86% of the words, you might understand only 38% of an anime's lines",
+          "link": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
+          "date": "2026-10-31T20:46:39+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[Claude] 所以新出的 Claude ultra 实际容量砍半了？",
+          "link": "https://www.v2ex.com/t/1253474",
+          "date": "2026-10-31T20:44:23+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[MacBook Pro] 求推荐国内靠谱的 Mac 维修店： M3 Max 主板故障，官方换板报价一万多",
+          "link": "https://www.v2ex.com/t/1253473",
+          "date": "2026-10-31T20:06:38+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Surviving \"The Graduate\"",
+          "link": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+          "date": "2026-10-31T20:02:06+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "HackerTube: YouTube built from videos recommended by HN",
+          "link": "https://karpathy.bearblog.dev/hacker-tube/",
+          "date": "2026-10-31T19:56:53+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Anthropic blocks users for anything touching training larger models",
+          "link": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+          "date": "2026-10-31T19:39:19+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[分享创造] Make V2EX Clean Again，纯粹简单的内容屏蔽插件",
+          "link": "https://www.v2ex.com/t/1253472",
+          "date": "2026-10-31T18:21:54+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Avoid Public Functions Calling Other Public Functions",
+          "link": "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
+          "date": "2026-10-31T18:05:03+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Lobsters"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "[职场话题] 中年失业程序员的碎碎念（二）- 亦是终篇",
           "link": "https://www.v2ex.com/t/1253471",
           "date": "2026-10-31T17:25:56+00:00",
@@ -1210,135 +1336,65 @@
           ],
           "source_count": 1,
           "observed_days": 1
-        },
-        {
-          "title": "[推广] 《我享云》机场代理 · 性价比之王 · 十一月份优惠码 · 注册免费试用 5-10 天 · 一块钱用上专线",
-          "link": "https://www.v2ex.com/t/1253470",
-          "date": "2026-10-31T17:22:44+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[程序员] 我在 2 核 2G 云主机上跑 OpenViking：一次关于云主机、模型选型与长期成本的真实复盘",
-          "link": "https://www.v2ex.com/t/1253468",
-          "date": "2026-10-31T16:52:23+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[推广] [自荐] AIRAP Video：把人物照片变成单人或双人 AI 说唱视频",
-          "link": "https://www.v2ex.com/t/1253467",
-          "date": "2026-10-31T16:45:11+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[Claude] 有没有 claude 至今没跳 kyc 没封的 V 友，来讲讲做法？",
-          "link": "https://www.v2ex.com/t/1253466",
-          "date": "2026-10-31T16:32:49+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Show HN: Jointter – A daily word puzzle using dots and lines",
-          "link": "https://www.jointter.com/",
-          "date": "2026-10-31T16:24:24+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Enlightenment 0.28 Released with Many Improvements",
-          "link": "https://www.phoronix.com/news/Enlightenment-0.28",
-          "date": "2026-10-31T16:22:26+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "A/SIDE – Private photo sharing and encrypted messages",
-          "link": "https://a-side.social/",
-          "date": "2026-10-31T16:16:20+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "What is a light-day? The milestone Voyager 1 is closing in on",
-          "link": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/",
-          "date": "2026-10-31T16:09:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Casio Watches of the 1980s",
-          "link": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
-          "date": "2026-10-31T16:00:48+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "科技": [
+        {
+          "title": "Get in the spirit with these horrors from YouTube",
+          "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+          "date": "2026-10-31T21:06:58+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Keyboards of The Verge",
+          "link": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+          "date": "2026-10-31T19:17:51+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+          "link": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+          "date": "2026-10-31T18:40:32+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Happy Pikmin Day Eve",
+          "link": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+          "date": "2026-10-31T17:50:12+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "I built an AI Tamagotchi before Meta could",
           "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
@@ -1356,6 +1412,34 @@
       ],
       "综合": [
         {
+          "title": "Thousands demonstrate in Paris as protests spread across Europe",
+          "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o",
+          "date": "2026-10-31T21:29:01+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+          "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o",
+          "date": "2026-10-31T19:22:26+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
           "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
           "date": "2026-10-31T16:32:08+00:00",
@@ -1371,6 +1455,34 @@
         }
       ],
       "财经": [
+        {
+          "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+          "link": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+          "date": "2026-10-31T21:05:53+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+          "link": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+          "date": "2026-10-31T20:12:37+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
           "link": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
