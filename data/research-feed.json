@@ -1,58 +1,82 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-30T07:43:22.431987+00:00",
-  "attempted_at": "2026-10-30T07:43:22.431987+00:00",
+  "updated": "2026-10-31T07:30:00.046057+00:00",
+  "attempted_at": "2026-10-31T07:30:00.046057+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-10-30T07:43:22.431987+00:00",
+      "last_success": "2026-10-31T07:30:00.046057+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-10-30T07:43:22.431987+00:00",
+      "last_success": "2026-10-31T07:30:00.046057+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-10-30T07:43:22.431987+00:00",
+      "last_success": "2026-10-31T07:30:00.046057+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-10-30T07:43:22.431987+00:00",
+      "last_success": "2026-10-31T07:30:00.046057+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-10-30T07:43:22.431987+00:00",
+      "last_success": "2026-10-31T07:30:00.046057+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-10-30T07:43:22.431987+00:00",
+      "last_success": "2026-10-31T07:30:00.046057+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-10-30T07:43:22.431987+00:00",
+      "last_success": "2026-10-31T07:30:00.046057+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-10-30T07:43:22.431987+00:00",
+      "last_success": "2026-10-31T07:30:00.046057+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.3390/rs18213749",
+      "title": "Reliability-Aware Feedback-Controlled Fusion for Spatially Disjoint HSI–LiDAR Classification",
+      "journal_id": "remote-sensing",
+      "published": "2026-10-30",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18213749",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-74626-w",
+      "title": "Intelligent fine-grained classification of tunnel surrounding rock mass by integrating tunnel face point clouds and measurement-while-drilling data",
+      "journal_id": "scientific-reports",
+      "published": "2026-10-30",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-74626-w",
+      "source": "crossref"
+    },
     {
       "id": "10.3390/rs18213689",
       "title": "UCRG: Reliability-Gated Multi-Source Prediction Integration for Forest Point Cloud Semantic Segmentation Across Sensing Platforms",
@@ -1286,18 +1310,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.1038/s41598-026-71082-4",
-      "title": "A semantic–kinematic mapping framework for user-centered transfer-assist nursing robot design",
-      "journal_id": "scientific-reports",
-      "published": "2026-09-13",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-71082-4",
-      "source": "crossref"
-    },
-    {
       "id": "10.1002/rob.70347",
       "title": "SegCert‐PCR: Ground Segmentation Based Certifiable Point Cloud Registration in Unstructured Field Environments",
       "journal_id": "jfr",
@@ -1415,18 +1427,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.3390/rs18173005",
-      "source": "crossref"
-    },
-    {
-      "id": "10.3390/rs18172994",
-      "title": "CenterPoint-UAV: Context-Detail BEV Refinement for 3D Object Detection in UAV Point Clouds",
-      "journal_id": "remote-sensing",
-      "published": "2026-09-03",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18172994",
       "source": "crossref"
     },
     {
