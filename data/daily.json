@@ -1,126 +1,125 @@
 {
-  "updated": "2026-10-30T23:51:06+00:00",
+  "updated": "2026-10-31T05:49:47+00:00",
   "leetcode": {
-    "date": "2026-10-30",
-    "id": "3970",
-    "title": "Shortest Path With At Most K Consecutive Identical Characters",
-    "titleEn": "Shortest Path With At Most K Consecutive Identical Characters",
-    "slug": "shortest-path-with-at-most-k-consecutive-identical-characters",
+    "date": "2026-10-31",
+    "id": "3665",
+    "title": "Twisted Mirror Path Count",
+    "titleEn": "Twisted Mirror Path Count",
+    "slug": "twisted-mirror-path-count",
     "difficulty": "Medium",
     "tags": [
-      "String",
-      "Graph Theory",
-      "Heap (Priority Queue)",
-      "Shortest Path"
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
     ],
-    "link": "https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/",
+    "link": "https://leetcode.com/problems/twisted-mirror-path-count/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "John Adams",
-    "text": "John Adams was a Founding Father and the second president of the United States from 1797 to 1801. Before his presidency, he was a leader of the American Revolution that achieved independence from Great Britain. During the latter part of the Revolutionary War and in the early years of the new nation, he served the Continental Congress of the United States as a senior diplomat in Europe. Adams was the first vice president of the United States, serving from 1789 to 1797. He was a dedicated diarist and regularly corresponded with contemporaries, including his wife and advisor Abigail Adams and his friend and rival Thomas Jefferson.",
-    "words": 106,
-    "url": "https://en.wikipedia.org/wiki/John_Adams",
-    "date": "2026-10-30",
+    "title": "Zombie Nightmare",
+    "text": "Zombie Nightmare is a 1987 Canadian zombie film produced and directed by Jack Bravman, written by John Fasano, and starring Adam West, Jon Mikl Thor, Tia Carrere, Frank Dietz, and Linda Singer. The film centres on a baseball player who is killed by a group of teenagers and resurrected as a zombie by a voodoo priestess. The zombie goes on to kill the teenagers, whose deaths are investigated by the police. The film was shot in the suburbs of Montreal. It was originally written to star mostly black actors, but at the request of investors, the characters' names were changed to more typically white names. While Bravman was credited as director, Fasano directed the majority of the film; problems occurred between Fasano and the production crew, who believed him to be the assistant director and ignored his instructions.",
+    "words": 138,
+    "url": "https://en.wikipedia.org/wiki/Zombie_Nightmare",
+    "date": "2026-10-31",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Industry on Parade: Sylacauga Saga",
-    "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/sylacauga_saga/sylacauga_saga_512kb.mp4",
-    "page": "https://archive.org/details/sylacauga_saga",
-    "date": "2026-10-30",
+    "title": "This is Coffee",
+    "creator": "Vision Associates",
+    "year": "1961",
+    "url": "https://archive.org/download/ThisisCo1961/ThisisCo1961_512kb.mp4",
+    "page": "https://archive.org/details/ThisisCo1961",
+    "date": "2026-10-31",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "RB06 - Organic Life",
-      "artist": "Modularity Think",
-      "url": "https://archive.org/download/RepeatBeat06/Side_A2_Modularity_Think_Organic_Life_Bruno_Liguori_Remix.mp3",
-      "page": "https://archive.org/details/RepeatBeat06",
+      "title": "Ultimate Reality III: A Cobbled Square Where People Are Dancing",
+      "artist": "Streams of Unconsciousness",
+      "url": "https://archive.org/download/WHSOU08/01_WH33_SoU_UR3.mp3",
+      "page": "https://archive.org/details/WHSOU08",
       "license": "Creative Commons"
     },
     {
-      "title": "DJ PulseID's Netlabel Music Podcast no.20",
-      "artist": "DJ PulseID",
-      "url": "https://archive.org/download/ponmp020/DJPulseIDsNetlabelMusicPodcastno20.mp3",
-      "page": "https://archive.org/details/ponmp020",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "eraserEars_discoDiffusion",
-      "artist": "Jaime Munarriz",
-      "url": "https://archive.org/download/eraserEars_discoDiffusion/01_EraserEars_DiscoDiffusion_WarmCircuit.mp3",
-      "page": "https://archive.org/details/eraserEars_discoDiffusion",
+      "title": "serocell - song a day project vol IV [2020]",
+      "artist": "serocell",
+      "url": "https://archive.org/download/UN0245/43_serocell%3D0043.mp3",
+      "page": "https://archive.org/details/UN0245",
       "license": "Creative Commons"
     },
     {
-      "title": "Speech Synthetizer Group 2004",
-      "artist": "Jaeck the Bit",
-      "url": "https://archive.org/download/freeq-002/01-yourStar.mp3",
-      "page": "https://archive.org/details/freeq-002",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/it/"
+      "title": "OzHz - Internet Connection [2005]",
+      "artist": "serocell",
+      "url": "https://archive.org/download/UN0027/01_OzHz%3Destablish_youre_internet.mp3",
+      "page": "https://archive.org/details/UN0027",
+      "license": "Creative Commons"
     },
     {
-      "title": "VJG035 - Fear and Aghast vs Ambient Fabric - Split",
-      "artist": "Fear and Aghast & Ambient Fabric",
-      "url": "https://archive.org/download/Vjg035-FearAndAghastVsAmbientFabric-Split/1_fleeingFromHisOwnShadow.mp3",
-      "page": "https://archive.org/details/Vjg035-FearAndAghastVsAmbientFabric-Split",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "Knolios - Between Causes",
+      "artist": "Knolios",
+      "url": "https://archive.org/download/KnoliosBetweenCauses01BetweenCauses/knolios%20-%20Between%20causes%20-%2001%20Between%20causes.mp3",
+      "page": "https://archive.org/details/KnoliosBetweenCauses01BetweenCauses",
+      "license": "http://creativecommons.org/licenses/by-nd/4.0/"
     },
     {
-      "title": "Free Music Charts September 2011 vom 19.09.2011",
-      "artist": "",
-      "url": "https://archive.org/download/freemusiccharts2011.09/freemusiccharts2011-09-19.mp3",
-      "page": "https://archive.org/details/freemusiccharts2011.09",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/de/"
-    },
-    {
-      "title": "tng1035 Marc McNulty - Minumism",
-      "artist": "",
-      "url": "https://archive.org/download/Tng1035MarcMcnulty-Minumism/tng1035_01_elenime.mp3",
-      "page": "https://archive.org/details/Tng1035MarcMcnulty-Minumism",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Weltraum, Erde, Ich E.P.",
-      "artist": "Institute Of Noise",
-      "url": "https://archive.org/download/ex20.weltraum_erde_ich/ex_20-01.mp3",
-      "page": "https://archive.org/details/ex20.weltraum_erde_ich",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
-    },
-    {
-      "title": "Forgotten Creation",
-      "artist": "Jazzaria.com",
-      "url": "https://archive.org/download/forgotten-creation/forgotten-creation.mp3",
-      "page": "https://archive.org/details/forgotten-creation",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "S-Archive",
-      "artist": "Clouds In My Home",
-      "url": "https://archive.org/download/f_pass012/pass012_-_01_clouds_in_my_home_-_s1.mp3",
-      "page": "https://archive.org/details/f_pass012",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "frei²: Yes, No, or maybe Not",
-      "artist": "Weltherrscher, Robert Bienert",
-      "url": "https://archive.org/download/freihoch2-2010-02-02/freihoch2-2010-02-02_vbr.mp3",
-      "page": "https://archive.org/details/freihoch2-2010-02-02",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/de/"
-    },
-    {
-      "title": "Exalot - Memoirs Fiola [USC-WR-1208.0082]",
-      "artist": "Exalot",
-      "url": "https://archive.org/download/exalot-memoirs-fiola/01.Memoirs%20Fiola.mp3",
-      "page": "https://archive.org/details/exalot-memoirs-fiola",
+      "title": "[inoQuo070] v.a. - we are alive",
+      "artist": "inoQuo",
+      "url": "https://archive.org/download/inoQuo070/01_Dadive_-_Indelible.mp3",
+      "page": "https://archive.org/details/inoQuo070",
       "license": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "title": "Malaya - Better days are coming",
+      "artist": "Malaya",
+      "url": "https://archive.org/download/Malaya-BetterDaysAreComing/BetterDaysAreComing.mp3",
+      "page": "https://archive.org/details/Malaya-BetterDaysAreComing",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "mam110 - Castles - Black Hole or No Black Hole",
+      "artist": "Castles",
+      "url": "https://archive.org/download/Mam110-Castles-BlackHoleOrNoBlackHole/01Sycamores.mp3",
+      "page": "https://archive.org/details/Mam110-Castles-BlackHoleOrNoBlackHole",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Mare Nectarius - Noli Me Tangere",
+      "artist": "",
+      "url": "https://archive.org/download/MareNectarius-NoliMeTangere_69/01JubileeOfTheMagnetars.mp3",
+      "page": "https://archive.org/details/MareNectarius-NoliMeTangere_69",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "mam225 - Weather Duo & Jaap Blonk - live at Audio for the Arts (2012)",
+      "artist": "Weather Duo & Jaap Blonk",
+      "url": "https://archive.org/download/Mam225-WeatherDuoJaapBlonk-LiveAtAudioForTheArts2012/01Duo-Wd.mp3",
+      "page": "https://archive.org/details/Mam225-WeatherDuoJaapBlonk-LiveAtAudioForTheArts2012",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Sounds Of Ambience #8 - Stephen Philips",
+      "artist": "George L Smyth",
+      "url": "https://archive.org/download/SoundsOfAmbience008/SOA008.mp3",
+      "page": "https://archive.org/details/SoundsOfAmbience008",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Sounds Of Ambience Show #46 - junior85 and Raskolnikov's Dream",
+      "artist": "George L Smyth",
+      "url": "https://archive.org/download/SoundsOfAmbience046/SOA046.mp3",
+      "page": "https://archive.org/details/SoundsOfAmbience046",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Auricular Audio Magazine #12",
+      "artist": "Various Artists",
+      "url": "https://archive.org/download/AuricularAudioMagazine12/10_aam_12_spilling.mp3",
+      "page": "https://archive.org/details/AuricularAudioMagazine12",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     }
   ]
 }
