@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-01T01:14:20+00:00",
-  "updated": "2026-11-01T01:14:20+00:00",
+  "generated_at": "2026-11-01T07:37:46+00:00",
+  "updated": "2026-11-01T07:37:46+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-10-26T00:00:00+08:00",
-    "end": "2026-11-01T01:14:20+00:00",
-    "total": 890,
+    "end": "2026-11-01T07:37:46+00:00",
+    "total": 907,
     "items": [
       {
         "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
@@ -837,7 +837,7 @@
           "observed_days": 1
         },
         {
-          "title": "中共五中全會「空椅子」背後：常態化高壓反腐如何改變中國官場？",
+          "title": "中共五中全會「空椅子」背後：常態化高壓反腐如何改變官場？",
           "link": "https://www.bbc.com/zhongwen/articles/c3j47p5gwj5lo/trad",
           "date": "2026-10-30T13:23:25+00:00",
           "date_is_observed": false,
@@ -1051,41 +1051,13 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-01T01:14:20+00:00",
-    "total": 43,
+    "end": "2026-11-01T07:37:46+00:00",
+    "total": 60,
     "items": [
       {
-        "title": "[Apple] apple 官网（美区）购买礼品卡可以用招行银行的 visa 卡支付吗？",
-        "link": "https://www.v2ex.com/t/1253481",
-        "date": "2026-11-01T00:58:56+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[OpenAI] OpenAI： ChatGPT 和 Codex 的使用限制将在 12 月调整",
-        "link": "https://www.v2ex.com/t/1253478",
-        "date": "2026-11-01T00:24:41+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "V2EX"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "India's opposition set to hold mega rally seeking election chief's resignation",
-        "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo",
-        "date": "2026-11-01T00:12:07+00:00",
+        "title": "Shops looted as German cost of living protests turn violent",
+        "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o",
+        "date": "2026-11-01T07:36:18+00:00",
         "date_is_observed": false,
         "categories": [
           "综合"
@@ -1097,9 +1069,9 @@
         "observed_days": 1
       },
       {
-        "title": "[Reddit] Reddit 只发评论，被禁 6 个账户😡，有什么使用规则吗？",
-        "link": "https://www.v2ex.com/t/1253477",
-        "date": "2026-11-01T00:08:53+00:00",
+        "title": "[Apple] Clubsim 能不能给香港区 apple 服务充值",
+        "link": "https://www.v2ex.com/t/1253535",
+        "date": "2026-11-01T07:27:49+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -1111,9 +1083,9 @@
         "observed_days": 1
       },
       {
-        "title": "[OpenAI] tibo 发重置卡了 注意查收（day 27）",
-        "link": "https://www.v2ex.com/t/1253476",
-        "date": "2026-11-01T00:05:19+00:00",
+        "title": "[问与答] 在国内环境下，如何花点儿小钱实现 token 自由？",
+        "link": "https://www.v2ex.com/t/1253531",
+        "date": "2026-11-01T06:47:56+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -1125,9 +1097,93 @@
         "observed_days": 1
       },
       {
-        "title": "「我與鬼魂同住」：走進吸引人們撿便宜的日本「鬧鬼」住宅",
-        "link": "https://www.bbc.com/zhongwen/articles/c6vg9k3n5vj4o/trad",
-        "date": "2026-11-01T00:03:15+00:00",
+        "title": "[分享创造] 「Vibe Coding」最近做了些趣味测试",
+        "link": "https://www.v2ex.com/t/1253530",
+        "date": "2026-11-01T06:41:24+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[宽带症候群] 运营商限制上传的原因：运营商“一刀切”限速背后的内部算账逻辑与利益博弈",
+        "link": "https://www.v2ex.com/t/1253529",
+        "date": "2026-11-01T06:36:56+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "The AI cost of JavaScript frameworks",
+        "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+        "date": "2026-11-01T06:06:19+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[推广] 我做了个 Tiny Desk Outstanding AI：把自己和朋友放进桌边演唱视频",
+        "link": "https://www.v2ex.com/t/1253527",
+        "date": "2026-11-01T06:00:02+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Companies promised AI gains— here's how the payoff showed up in earnings",
+        "link": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+        "date": "2026-11-01T06:00:01+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "财经"
+        ],
+        "sources": [
+          "CNBC"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Scientists say a forgotten particle may explain why the universe exists",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
+        "date": "2026-11-01T04:33:36+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "科研"
+        ],
+        "sources": [
+          "ScienceDaily"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "「我們從地獄回來」——在俄羅斯佔領城市撤離的烏克蘭人說",
+        "link": "https://www.bbc.com/zhongwen/articles/cwn8dkzrm8lvo/trad",
+        "date": "2026-11-01T04:24:47+00:00",
         "date_is_observed": false,
         "categories": [
           "综合"
@@ -1137,70 +1193,14 @@
         ],
         "source_count": 1,
         "observed_days": 1
-      },
-      {
-        "title": "When electric cars were for women",
-        "link": "https://spectrum.ieee.org/early-electric-vehicles",
-        "date": "2026-10-31T23:08:12+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Altoids Project",
-        "link": "https://uvdn7.github.io/altoids-project/",
-        "date": "2026-10-31T22:54:55+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-        "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-        "date": "2026-10-31T22:46:12+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-        "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-        "date": "2026-10-31T22:41:06+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
       }
     ],
     "by_category": {
       "开发": [
         {
-          "title": "[Apple] apple 官网（美区）购买礼品卡可以用招行银行的 visa 卡支付吗？",
-          "link": "https://www.v2ex.com/t/1253481",
-          "date": "2026-11-01T00:58:56+00:00",
+          "title": "[Apple] Clubsim 能不能给香港区 apple 服务充值",
+          "link": "https://www.v2ex.com/t/1253535",
+          "date": "2026-11-01T07:27:49+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1212,9 +1212,9 @@
           "observed_days": 1
         },
         {
-          "title": "[OpenAI] OpenAI： ChatGPT 和 Codex 的使用限制将在 12 月调整",
-          "link": "https://www.v2ex.com/t/1253478",
-          "date": "2026-11-01T00:24:41+00:00",
+          "title": "[问与答] 在国内环境下，如何花点儿小钱实现 token 自由？",
+          "link": "https://www.v2ex.com/t/1253531",
+          "date": "2026-11-01T06:47:56+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1226,9 +1226,9 @@
           "observed_days": 1
         },
         {
-          "title": "[Reddit] Reddit 只发评论，被禁 6 个账户😡，有什么使用规则吗？",
-          "link": "https://www.v2ex.com/t/1253477",
-          "date": "2026-11-01T00:08:53+00:00",
+          "title": "[分享创造] 「Vibe Coding」最近做了些趣味测试",
+          "link": "https://www.v2ex.com/t/1253530",
+          "date": "2026-11-01T06:41:24+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1240,9 +1240,9 @@
           "observed_days": 1
         },
         {
-          "title": "[OpenAI] tibo 发重置卡了 注意查收（day 27）",
-          "link": "https://www.v2ex.com/t/1253476",
-          "date": "2026-11-01T00:05:19+00:00",
+          "title": "[宽带症候群] 运营商限制上传的原因：运营商“一刀切”限速背后的内部算账逻辑与利益博弈",
+          "link": "https://www.v2ex.com/t/1253529",
+          "date": "2026-11-01T06:36:56+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1254,9 +1254,9 @@
           "observed_days": 1
         },
         {
-          "title": "When electric cars were for women",
-          "link": "https://spectrum.ieee.org/early-electric-vehicles",
-          "date": "2026-10-31T23:08:12+00:00",
+          "title": "The AI cost of JavaScript frameworks",
+          "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+          "date": "2026-11-01T06:06:19+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1268,51 +1268,9 @@
           "observed_days": 1
         },
         {
-          "title": "Altoids Project",
-          "link": "https://uvdn7.github.io/altoids-project/",
-          "date": "2026-10-31T22:54:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-          "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-          "date": "2026-10-31T22:46:12+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-          "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-          "date": "2026-10-31T22:41:06+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[宽带症候群] 使用移动 APP 办宽带的方法，不使用电话咨询的方式",
-          "link": "https://www.v2ex.com/t/1253475",
-          "date": "2026-10-31T22:09:52+00:00",
+          "title": "[推广] 我做了个 Tiny Desk Outstanding AI：把自己和朋友放进桌边演唱视频",
+          "link": "https://www.v2ex.com/t/1253527",
+          "date": "2026-11-01T06:00:02+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1324,9 +1282,51 @@
           "observed_days": 1
         },
         {
-          "title": "AI text watermarking and quality loss",
-          "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-          "date": "2026-10-31T21:50:13+00:00",
+          "title": "Introducing Kwi, a new KDE terminal emulator",
+          "link": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
+          "date": "2026-11-01T02:56:29+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Lobsters"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+          "date": "2026-11-01T02:19:53+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "OTape",
+          "link": "https://www.otape.org/",
+          "date": "2026-11-01T02:18:46+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+          "link": "https://arxiv.org/abs/2409.02292",
+          "date": "2026-11-01T01:46:29+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1410,9 +1410,81 @@
           "observed_days": 1
         }
       ],
+      "科研": [
+        {
+          "title": "Scientists say a forgotten particle may explain why the universe exists",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
+          "date": "2026-11-01T04:33:36+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Scientists discover the hidden “muscles” trees use to straighten themselves",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261030003006.htm",
+          "date": "2026-11-01T02:44:28+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Scientists discover a hidden driver of high cholesterol and a way to stop it",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261030003003.htm",
+          "date": "2026-11-01T01:57:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        }
+      ],
       "综合": [
         {
-          "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+          "title": "Shops looted as German cost of living protests turn violent",
+          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o",
+          "date": "2026-11-01T07:36:18+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "「我們從地獄回來」——在俄羅斯佔領城市撤離的烏克蘭人說",
+          "link": "https://www.bbc.com/zhongwen/articles/cwn8dkzrm8lvo/trad",
+          "date": "2026-11-01T04:24:47+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "India's opposition holds mega rally seeking election chief's resignation",
           "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo",
           "date": "2026-11-01T00:12:07+00:00",
           "date_is_observed": false,
@@ -1483,6 +1555,20 @@
         }
       ],
       "财经": [
+        {
+          "title": "Companies promised AI gains— here's how the payoff showed up in earnings",
+          "link": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+          "date": "2026-11-01T06:00:01+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
           "link": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",

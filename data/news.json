@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T01:14:20+00:00",
+  "updated": "2026-11-01T07:37:46+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -7,19 +7,19 @@
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
         {
+          "title": "「我們從地獄回來」——在俄羅斯佔領城市撤離的烏克蘭人說",
+          "link": "https://www.bbc.com/zhongwen/articles/cwn8dkzrm8lvo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-01T04:24:47+00:00"
+        },
+        {
           "title": "裝扮成哈利波特，公開質疑泰國王室——他如今面臨34年監禁",
           "link": "https://www.bbc.com/zhongwen/articles/ck3r52e814pqo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-31T07:55:00+00:00"
         },
         {
-          "title": "中共五中全會「空椅子」背後：常態化高壓反腐如何改變中國官場？",
+          "title": "中共五中全會「空椅子」背後：常態化高壓反腐如何改變官場？",
           "link": "https://www.bbc.com/zhongwen/articles/c3j47p5gwj5lo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-30T13:23:25+00:00"
-        },
-        {
-          "title": "台灣新北市長選戰：「政二代」蘇巧慧對決「專業副手」李四川，誰能拿下藍綠關鍵一城？",
-          "link": "https://www.bbc.com/zhongwen/articles/cm9wzeg8ql22o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-30T11:31:47+00:00"
         },
         {
           "title": "中國施壓下姆巴佩道歉，但許多人仍不知道他究竟說了什麼",
@@ -39,6 +39,11 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "Shops looted as German cost of living protests turn violent",
+          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-01T07:36:18+00:00"
+        },
+        {
           "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
           "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-31T19:22:26+00:00"
@@ -49,19 +54,14 @@
           "date": "2026-10-31T17:53:35+00:00"
         },
         {
-          "title": "Thousands demonstrate in Paris as protests spread across Europe",
-          "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-10-31T21:29:01+00:00"
-        },
-        {
           "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
           "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
           "date": "2026-10-31T22:11:45+00:00"
         },
         {
-          "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+          "title": "India's opposition holds mega rally seeking election chief's resignation",
           "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-01T00:12:07+00:00"
+          "date": "2026-11-01T07:00:55+00:00"
         }
       ]
     },
@@ -118,14 +118,14 @@
           "date": "2026-10-31T12:00:01+00:00"
         },
         {
+          "title": "Companies promised AI gains— here's how the payoff showed up in earnings",
+          "link": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+          "date": "2026-11-01T06:00:01+00:00"
+        },
+        {
           "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
           "link": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
           "date": "2026-10-31T12:00:01+00:00"
-        },
-        {
-          "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
-          "link": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
-          "date": "2026-10-31T20:12:37+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "When electric cars were for women",
-          "link": "https://spectrum.ieee.org/early-electric-vehicles",
-          "date": "2026-10-31T23:08:12+00:00"
+          "title": "The AI cost of JavaScript frameworks",
+          "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+          "date": "2026-11-01T06:06:19+00:00"
         },
         {
-          "title": "Altoids Project",
-          "link": "https://uvdn7.github.io/altoids-project/",
-          "date": "2026-10-31T22:54:55+00:00"
+          "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+          "date": "2026-11-01T02:19:53+00:00"
         },
         {
-          "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-          "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-          "date": "2026-10-31T22:46:12+00:00"
+          "title": "OTape",
+          "link": "https://www.otape.org/",
+          "date": "2026-11-01T02:18:46+00:00"
         },
         {
-          "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-          "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-          "date": "2026-10-31T22:41:06+00:00"
+          "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+          "link": "https://arxiv.org/abs/2409.02292",
+          "date": "2026-11-01T01:46:29+00:00"
         },
         {
-          "title": "AI text watermarking and quality loss",
-          "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-          "date": "2026-10-31T21:50:13+00:00"
+          "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+          "link": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+          "date": "2026-11-01T00:10:30+00:00"
         }
       ]
     },
@@ -347,9 +347,9 @@
           "date": "2026-10-31T19:50:11+00:00"
         },
         {
-          "title": "The support case of a customer who said that all they could see was a black screen",
-          "link": "https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/",
-          "date": "2026-10-31T01:01:21+00:00"
+          "title": "Introducing Kwi, a new KDE terminal emulator",
+          "link": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
+          "date": "2026-11-01T02:56:29+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[Apple] apple 官网（美区）购买礼品卡可以用招行银行的 visa 卡支付吗？",
-          "link": "https://www.v2ex.com/t/1253481#reply0",
-          "date": "2026-11-01T00:58:56+00:00"
+          "title": "[Apple] Clubsim 能不能给香港区 apple 服务充值",
+          "link": "https://www.v2ex.com/t/1253535#reply0",
+          "date": "2026-11-01T07:27:49+00:00"
         },
         {
-          "title": "[OpenAI] OpenAI： ChatGPT 和 Codex 的使用限制将在 12 月调整",
-          "link": "https://www.v2ex.com/t/1253478#reply0",
-          "date": "2026-11-01T00:24:41+00:00"
+          "title": "[问与答] 在国内环境下，如何花点儿小钱实现 token 自由？",
+          "link": "https://www.v2ex.com/t/1253531#reply6",
+          "date": "2026-11-01T06:47:56+00:00"
         },
         {
-          "title": "[Reddit] Reddit 只发评论，被禁 6 个账户😡，有什么使用规则吗？",
-          "link": "https://www.v2ex.com/t/1253477#reply4",
-          "date": "2026-11-01T00:08:53+00:00"
+          "title": "[分享创造] 「Vibe Coding」最近做了些趣味测试",
+          "link": "https://www.v2ex.com/t/1253530#reply0",
+          "date": "2026-11-01T06:41:24+00:00"
         },
         {
-          "title": "[OpenAI] tibo 发重置卡了 注意查收（day 27）",
-          "link": "https://www.v2ex.com/t/1253476#reply3",
-          "date": "2026-11-01T00:05:19+00:00"
+          "title": "[宽带症候群] 运营商限制上传的原因：运营商“一刀切”限速背后的内部算账逻辑与利益博弈",
+          "link": "https://www.v2ex.com/t/1253529#reply1",
+          "date": "2026-11-01T06:36:56+00:00"
         },
         {
-          "title": "[宽带症候群] 使用移动 APP 办宽带的方法，不使用电话咨询的方式",
-          "link": "https://www.v2ex.com/t/1253475#reply4",
-          "date": "2026-10-31T22:09:52+00:00"
+          "title": "[推广] 我做了个 Tiny Desk Outstanding AI：把自己和朋友放进桌边演唱视频",
+          "link": "https://www.v2ex.com/t/1253527#reply0",
+          "date": "2026-11-01T06:00:02+00:00"
         }
       ]
     },
@@ -605,6 +605,11 @@
       "url": "https://www.sciencedaily.com/rss/all.xml",
       "items": [
         {
+          "title": "Scientists say a forgotten particle may explain why the universe exists",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
+          "date": "2026-11-01T04:33:36+00:00"
+        },
+        {
           "title": "Scientists finally discover how a common gut bacterium can trigger colon cancer",
           "link": "https://www.sciencedaily.com/releases/2026/10/261031012912.htm",
           "date": "2026-10-31T13:49:23+00:00"
@@ -615,19 +620,14 @@
           "date": "2026-10-31T13:09:49+00:00"
         },
         {
-          "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
-          "date": "2026-10-31T02:09:38+00:00"
+          "title": "Scientists discover the hidden “muscles” trees use to straighten themselves",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261030003006.htm",
+          "date": "2026-11-01T02:44:28+00:00"
         },
         {
-          "title": "Astronauts just gave the International Space Station a powerful upgrade",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261030002931.htm",
-          "date": "2026-10-30T06:12:55+00:00"
-        },
-        {
-          "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
-          "link": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
-          "date": "2026-10-30T11:34:16+00:00"
+          "title": "Scientists discover a hidden driver of high cholesterol and a way to stop it",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261030003003.htm",
+          "date": "2026-11-01T01:57:50+00:00"
         }
       ]
     }
