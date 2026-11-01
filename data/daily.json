@@ -1,125 +1,124 @@
 {
-  "updated": "2026-10-31T21:39:20+00:00",
+  "updated": "2026-11-01T01:14:20+00:00",
   "leetcode": {
-    "date": "2026-10-31",
-    "id": "3665",
-    "title": "Twisted Mirror Path Count",
-    "titleEn": "Twisted Mirror Path Count",
-    "slug": "twisted-mirror-path-count",
+    "date": "2026-11-01",
+    "id": "453",
+    "title": "Minimum Moves to Equal Array Elements",
+    "titleEn": "Minimum Moves to Equal Array Elements",
+    "slug": "minimum-moves-to-equal-array-elements",
     "difficulty": "Medium",
     "tags": [
       "Array",
-      "Dynamic Programming",
-      "Matrix"
+      "Math"
     ],
-    "link": "https://leetcode.com/problems/twisted-mirror-path-count/",
+    "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Zombie Nightmare",
-    "text": "Zombie Nightmare is a 1987 Canadian zombie film produced and directed by Jack Bravman, written by John Fasano, and starring Adam West, Jon Mikl Thor, Tia Carrere, Frank Dietz, and Linda Singer. The film centres on a baseball player who is killed by a group of teenagers and resurrected as a zombie by a voodoo priestess. The zombie goes on to kill the teenagers, whose deaths are investigated by the police. The film was shot in the suburbs of Montreal. It was originally written to star mostly black actors, but at the request of investors, the characters' names were changed to more typically white names. While Bravman was credited as director, Fasano directed the majority of the film; problems occurred between Fasano and the production crew, who believed him to be the assistant director and ignored his instructions.",
-    "words": 138,
-    "url": "https://en.wikipedia.org/wiki/Zombie_Nightmare",
-    "date": "2026-10-31",
+    "title": "Europejara",
+    "text": "Europejara is a genus of tapejarid pterosaur that lived during the Barremian age of the Early Cretaceous epoch in what is now Spain. The only known specimen was found at the Las Hoyas site of Cuenca, a location noted for its exceptional Konservat-Lagerstätte preservation. In 2012, the new genus and species Europejara olcadesorum was named based on it. The generic name refers to Europe, where it was found, and to the related genus Tapejara from what is now Brazil, while the specific name refers to the Olcades, an ancient people that lived in the region. The holotype specimen consists of an incomplete, crushed skull; the bones of the postorbital region are displaced while the mandible is almost complete.",
+    "words": 118,
+    "url": "https://en.wikipedia.org/wiki/Europejara",
+    "date": "2026-11-01",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "RP Hesston Corporation Outtakes 001",
-    "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/rphesstoncorporationouttakes001/RP-Hesston_Corporation_Outtakes_001.mp4",
-    "page": "https://archive.org/details/rphesstoncorporationouttakes001",
-    "date": "2026-10-31",
+    "title": "Campus on the March",
+    "creator": "RKO-Pathe",
+    "year": "1942",
+    "url": "https://archive.org/download/0016_Campus_on_the_March_16_13_50_00/0016_Campus_on_the_March_16_13_50_00.m4v",
+    "page": "https://archive.org/details/0016_Campus_on_the_March_16_13_50_00",
+    "date": "2026-11-01",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "[STQK006] Julie Star",
-      "artist": "Sebastian Love",
-      "url": "https://archive.org/download/stqk006/STQK006_01_-_Sebastian_Love_-_Julie_Star.mp3",
-      "page": "https://archive.org/details/stqk006",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "Sebkha-Chott NeXXXt Epilog Master 2012 04 24 V 0 1",
-      "artist": "Sebkha-Chott v.2009",
-      "url": "https://archive.org/download/master-2012-04-24-v-0-1/Master_2012-04-24_v0-1.mp3",
-      "page": "https://archive.org/details/master-2012-04-24-v-0-1",
-      "license": "https://creativecommons.org/licenses/by-sa/4.0/"
-    },
-    {
-      "title": "MUSEUM TUA (TaSe-87)",
-      "artist": "LUIS SIRIMARCO & THEO NUGRAHA",
-      "url": "https://archive.org/download/MuseumTuatase-87/01MuseumTua.mp3",
-      "page": "https://archive.org/details/MuseumTuatase-87",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "frei²: New Borrachos Album «Bomben für den Frieden»",
-      "artist": "Robert Bienert",
-      "url": "https://archive.org/download/freihoch2-2013-10-01-Borrachos/freihoch2-2013-10-01-Borrachos.mp3",
-      "page": "https://archive.org/details/freihoch2-2013-10-01-Borrachos",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/de/"
-    },
-    {
-      "title": "Frame - Random Features [enrmp339]",
-      "artist": "Frame",
-      "url": "https://archive.org/download/enrmp339_frame_-_random_features/01_frame_-_global_communication.mp3",
-      "page": "https://archive.org/details/enrmp339_frame_-_random_features",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "[STQK000] Quaking Stars",
-      "artist": "Various Artists",
-      "url": "https://archive.org/download/stqk000/STQK000_01_-_Lebatman_-_Existar.mp3",
-      "page": "https://archive.org/details/stqk000",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "striped movies [suda 0014]",
-      "artist": "Sudamérica Electronica",
-      "url": "https://archive.org/download/striped_movies/1-lake_and_mirrors.mp3",
-      "page": "https://archive.org/details/striped_movies",
+      "title": "TFR794 - Xiphest - Beseecher (Demo)",
+      "artist": "Xiphest",
+      "url": "https://archive.org/download/TFR794-Xiphest-BeseecherDemo/01-FaceFirstIntoMoltenGlass.mp3",
+      "page": "https://archive.org/details/TFR794-Xiphest-BeseecherDemo",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "The Others [AS71]",
-      "artist": "Alan Morse Davies",
-      "url": "https://archive.org/download/theothers_201810/01.%20Venice%20and%20the%20Two-Stroke%20Outboard%20Engine.mp3",
-      "page": "https://archive.org/details/theothers_201810",
-      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
+      "title": "TFR215 - Apocalyptic Frequency Experience - Animal Moment Of Suffering",
+      "artist": "Apocalyptic Frequency Experience",
+      "url": "https://archive.org/download/TFR215-ApocalypticFrequencyExperience-AnimalMomentOfSuffering/01-AnimalMomentOfSuffering.mp3",
+      "page": "https://archive.org/details/TFR215-ApocalypticFrequencyExperience-AnimalMomentOfSuffering",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "[rdm071] En Busca Del Pasto & AraguaneyLeaf : 08.07.08",
-      "artist": "En Busca Del Pasto & AraguaneyLeaf",
-      "url": "https://archive.org/download/rdm071/rdm071_-_ebdp_araguaneyleaf_-_080708_-_01.mp3",
-      "page": "https://archive.org/details/rdm071",
+      "title": "[TFN236] Insideout028 - ...And a Side Of Fries Please",
+      "artist": "Insideout028",
+      "url": "https://archive.org/download/TFN236/01Insideout028-WellThatJustDoesntMakeSense.mp3.mp3",
+      "page": "https://archive.org/details/TFN236",
+      "license": "http://creativecommons.org/licenses/by-sa/3.0/us/"
+    },
+    {
+      "title": "TFR878 - Proctophobic - Greatest Hits",
+      "artist": "Proctophobic",
+      "url": "https://archive.org/download/TFR878-Proctophobic-GreatestHits/01-TheWrigglingCrown.mp3",
+      "page": "https://archive.org/details/TFR878-Proctophobic-GreatestHits",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "TFR119 - Vaginal Flatulation - Refresh The Blood",
+      "artist": "Vaginal Flatulation - Refresh The Blood",
+      "url": "https://archive.org/download/TFR119-VaginalFlatulation-RefreshTheBlood/01-DecomposedUnderTheDegaradationOfBile.mp3",
+      "page": "https://archive.org/details/TFR119-VaginalFlatulation-RefreshTheBlood",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Requiem",
+      "artist": "Deadman & Digi Hartatak",
+      "url": "https://archive.org/download/TheRea_Requiem/16_requiem.mp3",
+      "page": "https://archive.org/details/TheRea_Requiem",
       "license": "http://creativecommons.org/licenses/by-sa/3.0/"
     },
     {
-      "title": "Underthroat",
-      "artist": "sans undertale",
-      "url": "https://archive.org/download/sansundertale-Underthroat/sans%20undertale%20-%20Underthroat.mp3",
-      "page": "https://archive.org/details/sansundertale-Underthroat",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Shells",
-      "artist": "Adrián Juárez and Ilia",
-      "url": "https://archive.org/download/stigae007/01ewe.mp3",
-      "page": "https://archive.org/details/stigae007",
+      "title": "Jacobino Discos 50",
+      "artist": "Jacobino Discos",
+      "url": "https://archive.org/download/jac50/01.%20Alejandro%20Paz%20-%20Cortando%20el%20aire.mp3",
+      "page": "https://archive.org/details/jac50",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "Unthunk - Big Boots (single)",
-      "artist": "Happy Puppy Records",
-      "url": "https://archive.org/download/hprs018/Unthunk_-_01_-_Big_Boots.mp3",
-      "page": "https://archive.org/details/hprs018",
-      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
+      "title": "TFR687 - HUMAN TRADE / Bestial Nihilism - The Head Split",
+      "artist": "HUMAN TRADE / Bestial Nihilism",
+      "url": "https://archive.org/download/TFR687-HumanTrade-BestialNihilism-TheHeadSplit/01-HumanTrade-PlasticEaters.mp3",
+      "page": "https://archive.org/details/TFR687-HumanTrade-BestialNihilism-TheHeadSplit",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "TFR599 - Deformed Elephant Surgery - Pink Unicorn's Extraordinary Adventures",
+      "artist": "Deformed Elephant Surgery",
+      "url": "https://archive.org/download/TFR599-DeformedElephantSurgery-PinkUnicornsExtraordinaryAdventures/01-BurningBushMonkey.mp3",
+      "page": "https://archive.org/details/TFR599-DeformedElephantSurgery-PinkUnicornsExtraordinaryAdventures",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Sunset, Sunrise",
+      "artist": "George L Smyth",
+      "url": "https://archive.org/download/SunsetSunrise/Sunset%2C%20Sunrise.mp3",
+      "page": "https://archive.org/details/SunsetSunrise",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "title": "Thelonia",
+      "artist": "George L Smyth",
+      "url": "https://archive.org/download/Thelonia/Thelonia.mp3",
+      "page": "https://archive.org/details/Thelonia",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Tuffo Ruido De Mierda",
+      "artist": "Sudamérica Electrónica",
+      "url": "https://archive.org/download/Suda0058/Tuffo%20-%20Ruido%20de%20Mierda.mp3",
+      "page": "https://archive.org/details/Suda0058",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     }
   ]
 }
