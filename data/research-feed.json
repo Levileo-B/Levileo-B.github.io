@@ -1,58 +1,542 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-31T07:30:00.046057+00:00",
-  "attempted_at": "2026-10-31T07:30:00.046057+00:00",
+  "updated": "2026-11-01T08:09:57.736783+00:00",
+  "attempted_at": "2026-11-01T08:09:57.736783+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-10-31T07:30:00.046057+00:00",
+      "last_success": "2026-11-01T08:09:57.736783+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-10-31T07:30:00.046057+00:00",
+      "last_success": "2026-11-01T08:09:57.736783+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-10-31T07:30:00.046057+00:00",
+      "last_success": "2026-11-01T08:09:57.736783+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-10-31T07:30:00.046057+00:00",
+      "last_success": "2026-11-01T08:09:57.736783+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-10-31T07:30:00.046057+00:00",
+      "last_success": "2026-11-01T08:09:57.736783+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-10-31T07:30:00.046057+00:00",
+      "last_success": "2026-11-01T08:09:57.736783+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-10-31T07:30:00.046057+00:00",
+      "last_success": "2026-11-01T08:09:57.736783+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-10-31T07:30:00.046057+00:00",
+      "last_success": "2026-11-01T08:09:57.736783+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.1109/lra.2026.3742279",
+      "title": "A Drift-Aware Bayesian Reliability Layer for NavSatFix-Only GNSS–LiDAR-Inertial Fusion",
+      "journal_id": "ral",
+      "published": "2026-11",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3742279",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3739565",
+      "title": "Range-Aware Camera-LiDAR Fusion for Efficient Long-Range Omnidirectional Depth Estimation",
+      "journal_id": "ral",
+      "published": "2026-11",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3739565",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3737045",
+      "title": "Layered Safety: Enhancing Autonomous Collision Avoidance via Multistage CBF Safety Filters",
+      "journal_id": "ral",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3737045",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3734899",
+      "title": "Underactuation-Aware Model Predictive Control With Asymmetric Safety Barriers for Autonomous Underwater Vehicle Obstacle Avoidance",
+      "journal_id": "ral",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3734899",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3734896",
+      "title": "SCDF: Seed-and-Contextualize Dust Filter for Real-Time LiDAR Perception",
+      "journal_id": "ral",
+      "published": "2026-11",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3734896",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3734894",
+      "title": "Regime-Aware Hybrid BLE Fingerprinting for Mobile Robot Localization",
+      "journal_id": "ral",
+      "published": "2026-11",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3734894",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3734889",
+      "title": "Spatial-Aware Consistent Panoptic Gaussian SLAM for Open-Set Scene Understanding",
+      "journal_id": "ral",
+      "published": "2026-11",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3734889",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3734819",
+      "title": "SING3R-SLAM: Submap-Based Indoor Monocular Gaussian SLAM With 3D Reconstruction Priors",
+      "journal_id": "ral",
+      "published": "2026-11",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3734819",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3732906",
+      "title": "TRaIL-Odom: Tightly Coupled Continuous Time Radar-IMU-LiDAR Odometry With Adaptive Doppler Weighting",
+      "journal_id": "ral",
+      "published": "2026-11",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3732906",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3732890",
+      "title": "A Semantics-Driven Approach for Safe and Reliable Obstacle Avoidance of UAVs",
+      "journal_id": "ral",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3732890",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3732836",
+      "title": "ScaRF-SLAM: Scale-Consistent Reconstruction with Feed-Forward Models and Classical Visual SLAM",
+      "journal_id": "ral",
+      "published": "2026-11",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3732836",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3730392",
+      "title": "P-ARC: Exploiting Subproblem Independence for Parallel Multi-Robot Motion Planning",
+      "journal_id": "ral",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3730392",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3730337",
+      "title": "FlexWorm: Primitive-Augmented Hybrid Contact-Motion Planning for Suction-Based Multi-Segment Deformable Robots",
+      "journal_id": "ral",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3730337",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3729487",
+      "title": "FusionLCD: Visual-LiDAR Loop Closure Detection With Global Visual Prefiltering for Multi-Sensor SLAM",
+      "journal_id": "ral",
+      "published": "2026-11",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3729487",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3728367",
+      "title": "Rationality Randomization With Maximum Entropy for Robust Dynamic Obstacle Avoidance on Legged Robots",
+      "journal_id": "ral",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3728367",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3728332",
+      "title": "Consequence Learning for Trajectory Planning in Autonomous Driving",
+      "journal_id": "ral",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3728332",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1109/lra.2026.3728311",
+      "title": "3D LiDAR Driven Reinforcement Learning With Safety Intervention for Mapless Navigation",
+      "journal_id": "ral",
+      "published": "2026-11",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1109/lra.2026.3728311",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105677",
+      "title": "A multi-robot path planning method based on multi-scale perception and experience enhancement",
+      "journal_id": "ras",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105677",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105676",
+      "title": "Path planning of autonomous bulldozers in complex construction environments via the highly exploratory and adaptable SAC algorithm",
+      "journal_id": "ras",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105676",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105675",
+      "title": "Dynamic-Zone-Modulated RRT for efficient 3D UAV path planning",
+      "journal_id": "ras",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105675",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105673",
+      "title": "Optimal global path planning for biped robots on uneven terrain with obstacles, using a new pathfinding objective function based on the dynamics of the robot and the terrain geometry",
+      "journal_id": "ras",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105673",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105670",
+      "title": "EGP2: A sample-efficient and generalizable reinforcement learning framework for UAV path planning",
+      "journal_id": "ras",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105670",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105666",
+      "title": "A Safety-Constrained Online Probabilistic Evaluation method for robot path planning",
+      "journal_id": "ras",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105666",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105665",
+      "title": "Tree-based motion planning via uniform B-splines for robotic manipulators with obstacle avoidance and derivative constraints in known dynamic environments",
+      "journal_id": "ras",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105665",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105651",
+      "title": "Precise preset-time formation obstacle avoidance for multi-robots: A hybrid gain Zeroing Neural Network-based approach",
+      "journal_id": "ras",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105651",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105642",
+      "title": "Real-time convex-geometric obstacle avoidance for UAVs via sub-target guidance",
+      "journal_id": "ras",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105642",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105639",
+      "title": "An improved soft actor-retrospective critic algorithm based on the dynamic fusion priority experience replay for UAV path planning",
+      "journal_id": "ras",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105639",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105637",
+      "title": "Trajectory planning for 4WIS autonomous ground vehicles in RORO terminals using CBF-enhanced deep reinforcement learning",
+      "journal_id": "ras",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105637",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105636",
+      "title": "Towards UAV path-planning algorithms and obstacle avoidance methods: A comprehensive review",
+      "journal_id": "ras",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105636",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105635",
+      "title": "Resilient path planning for multi-UAV information collection within sensor networks",
+      "journal_id": "ras",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105635",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105631",
+      "title": "Obstacle avoidance-based fault-tolerant adaptive terminal sliding mode control for safe navigation of an autonomous quadrotor",
+      "journal_id": "ras",
+      "published": "2026-11",
+      "topics": [
+        "navigation",
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105631",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105629",
+      "title": "Path planning optimisation for SParse, AwaRe and Cooperative Networked Aerial Robot Teams (SpArC-NARTs): Optimisation tool and ground sensing coverage use cases",
+      "journal_id": "ras",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105629",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105628",
+      "title": "Auditable LLM-guided Pareto scenario discovery and hard-bank fine-tuning for robust map-free LiDAR navigation",
+      "journal_id": "ras",
+      "published": "2026-11",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105628",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105620",
+      "title": "Gaussian process-driven monocular vision-based state estimation for autonomous navigation",
+      "journal_id": "ras",
+      "published": "2026-11",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105620",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105612",
+      "title": "Point cloud-based robot welding trajectory generation for half-open corner joints",
+      "journal_id": "ras",
+      "published": "2026-11",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105612",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105601",
+      "title": "Collision feedback-based lateral undulation with admittance control: Enabling serpentine robots to traverse 3D obstacles",
+      "journal_id": "ras",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105601",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.08.027",
+      "title": "AWARE: Adaptive whole-body active rotating control for enhanced LiDAR-inertial odometry under human-in-the-loop interaction",
+      "journal_id": "isprs",
+      "published": "2026-11",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.08.027",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.08.020",
+      "title": "Corrigendum to “A survey of publicly available multi-temporal point cloud datasets” [ISPRS J. Photogramm. Rem. Sens. 231 (2026) 815–836]",
+      "journal_id": "isprs",
+      "published": "2026-11",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "更正",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.08.020",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.08.015",
+      "title": "DSTD: Dual stable triangle descriptor with sliding window optimization for LiDAR place recognition",
+      "journal_id": "isprs",
+      "published": "2026-11",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.08.015",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.isprsjprs.2026.08.011",
+      "title": "Mapping forest structure: A 3D deep learning benchmark for ground-based LiDAR",
+      "journal_id": "isprs",
+      "published": "2026-11",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2026.08.011",
+      "source": "crossref"
+    },
     {
       "id": "10.3390/rs18213749",
       "title": "Reliability-Aware Feedback-Controlled Fusion for Spatially Disjoint HSI–LiDAR Classification",
@@ -730,87 +1214,15 @@
       "source": "crossref"
     },
     {
-      "id": "10.1109/lra.2026.3726345",
-      "title": "EmbodiedDiffusion: End-to-End Traversability-Guided Visual Diffusion for Heterogeneous Robot Navigation",
-      "journal_id": "ral",
+      "id": "10.1016/j.robot.2026.105833",
+      "title": "Mapless UAV navigation in complex environments: A survey on deep reinforcement learning approaches",
+      "journal_id": "ras",
       "published": "2026-10",
       "topics": [
         "navigation"
       ],
       "kind": "期刊论文",
-      "url": "https://doi.org/10.1109/lra.2026.3726345",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1109/lra.2026.3726344",
-      "title": "PDGS-SLAM: Photorealistic Dense Gaussian Splatting SLAM for Dynamic Scenes",
-      "journal_id": "ral",
-      "published": "2026-10",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1109/lra.2026.3726344",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1109/lra.2026.3723740",
-      "title": "Aerial Exploration on Point Cloud Maps via Coverage Path Guidance",
-      "journal_id": "ral",
-      "published": "2026-10",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1109/lra.2026.3723740",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1109/lra.2026.3723737",
-      "title": "InLiER: Learning-Free Heterogeneous LiDAR Place Recognition via Intermediate Mixed-Radix Structural Keypoint Tokenization",
-      "journal_id": "ral",
-      "published": "2026-10",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1109/lra.2026.3723737",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1109/lra.2026.3723329",
-      "title": "RACG-Ground: Ring-Adaptive Confidence Gating for LiDAR Ground Segmentation",
-      "journal_id": "ral",
-      "published": "2026-10",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1109/lra.2026.3723329",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1109/lra.2026.3723312",
-      "title": "The Role of Variability in Human Navigational Instructions in Visual Language Robot Navigation",
-      "journal_id": "ral",
-      "published": "2026-10",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1109/lra.2026.3723312",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1109/lra.2026.3723261",
-      "title": "Geometry-Aware Dual-LiDAR Pose Estimation of Power Lines for UAV Physical Interaction",
-      "journal_id": "ral",
-      "published": "2026-10",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1109/lra.2026.3723261",
+      "url": "https://doi.org/10.1016/j.robot.2026.105833",
       "source": "crossref"
     },
     {
@@ -934,42 +1346,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1016/j.robot.2026.105587",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2026.105583",
-      "title": "Dense RGB-D SLAM with 3D Gaussian Splatting and dynamic segmentation in dynamic environments",
-      "journal_id": "ras",
-      "published": "2026-10",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105583",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2026.105568",
-      "title": "Path planning of mobile robots based on safety in real-time dynamic environments",
-      "journal_id": "ras",
-      "published": "2026-10",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105568",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2026.105567",
-      "title": "Vision-driven collaborative path planning for autonomous multi-UAV swarms in maritime and coastal environments using deep reinforcement learning",
-      "journal_id": "ras",
-      "published": "2026-10",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105567",
       "source": "crossref"
     },
     {
@@ -1442,176 +1818,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.1109/lra.2026.3719229",
-      "title": "Bridging the Modality Gap With Differentiable Intensity Rendering for Online LiDAR-Camera Calibration",
-      "journal_id": "ral",
-      "published": "2026-09",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1109/lra.2026.3719229",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1109/lra.2026.3717193",
-      "title": "LiDAR-Anchored Collaborative Distillation for Robust 2D Representations",
-      "journal_id": "ral",
-      "published": "2026-09",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1109/lra.2026.3717193",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1109/lra.2026.3715038",
-      "title": "FAST-LIEO2: Fast and Tightly-Coupled LiDAR-Inertial-Event Odometry",
-      "journal_id": "ral",
-      "published": "2026-09",
-      "topics": [
-        "point-cloud",
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1109/lra.2026.3715038",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1109/lra.2026.3715037",
-      "title": "PolarBEVPlace: Rotation-Robust LiDAR Place Recognition via Radial Distortion-Aware Polar Transform",
-      "journal_id": "ral",
-      "published": "2026-09",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1109/lra.2026.3715037",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1109/lra.2026.3715029",
-      "title": "VTLoc: Learning-Based Tactile Contact Localization in Visual Point Clouds",
-      "journal_id": "ral",
-      "published": "2026-09",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1109/lra.2026.3715029",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1109/lra.2026.3715028",
-      "title": "Enhancing Mapping Consistency for Motion Consistency: Spatio-Temporal Gaussian Process Maps for Autonomous Navigation in Dynamic Environments",
-      "journal_id": "ral",
-      "published": "2026-09",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1109/lra.2026.3715028",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1109/lra.2026.3711875",
-      "title": "Real-Time Path Planning for Tethered Robots in Extreme Environments Based on Constraint Consistency and Optimality",
-      "journal_id": "ral",
-      "published": "2026-09",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1109/lra.2026.3711875",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1109/lra.2026.3711857",
-      "title": "WiSER-X: Wireless Signal-Based Decentralized Multi-Robot Exploration Without Explicit Information Exchange",
-      "journal_id": "ral",
-      "published": "2026-09",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1109/lra.2026.3711857",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1109/lra.2026.3710050",
-      "title": "DRGC-PRO: Cross-Modal Panoramic Relocalization Optimization in Prior LiDAR Maps via Directional Residual Global Consistency",
-      "journal_id": "ral",
-      "published": "2026-09",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1109/lra.2026.3710050",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1109/lra.2026.3710002",
-      "title": "UAF-LIVO: Uncertainty-Aware Feature-Based LiDAR-Inertial-Visual Odometry Robust to Cross-Modal Geometric Inconsistency",
-      "journal_id": "ral",
-      "published": "2026-09",
-      "topics": [
-        "point-cloud",
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1109/lra.2026.3710002",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2026.105790",
-      "title": "GADS-SLAM: A Robust Underground Visual SLAM System Integrating Grayscale-Aware Enhancement, Deep Feature Association, and Scale-Decoupled Optimization",
-      "journal_id": "ras",
-      "published": "2026-09",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105790",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2026.105772",
-      "title": "Parallelizing Task and Motion Planning in heterogeneous dual-robot systems using satisfiability solver",
-      "journal_id": "ras",
-      "published": "2026-09",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105772",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2026.105767",
-      "title": "Spatio-temporal trajectory planning with group-based decision topology for autonomous vehicle",
-      "journal_id": "ras",
-      "published": "2026-09",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105767",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2026.105754",
-      "title": "Actuator-aware diffusion motion planning for hyper-redundant tendon-driven continuum robots",
-      "journal_id": "ras",
-      "published": "2026-09",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105754",
-      "source": "crossref"
-    },
-    {
       "id": "10.1016/j.isprsjprs.2026.06.033",
       "title": "Enhancing point clouds for multi-scale object monitoring in large railway infrastructure scenes",
       "journal_id": "isprs",
@@ -1794,54 +2000,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.1016/j.robot.2026.105478",
-      "title": "An embodied obstacle-avoidance method for concentric cable-driven manipulators operating in confined spaces",
-      "journal_id": "ras",
-      "published": "2026-08",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105478",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2026.105476",
-      "title": "Fast-convergent GA-APO for real-time UAV path planning with fully actuated robust tracking",
-      "journal_id": "ras",
-      "published": "2026-08",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105476",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2026.105467",
-      "title": "Shared control for autonomous robotic navigation: A review",
-      "journal_id": "ras",
-      "published": "2026-08",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105467",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2026.105461",
-      "title": "Enhanced virtual potential field-based motion planning for mobile robots in dynamic environment under speed and separation monitoring",
-      "journal_id": "ras",
-      "published": "2026-08",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105461",
-      "source": "crossref"
-    },
-    {
       "id": "10.1016/j.isprsjprs.2026.05.045",
       "title": "Terrain-Adaptive LiDAR-IMU SLAM with Multi-Feature fusion for complex underground environments",
       "journal_id": "isprs",
@@ -1999,78 +2157,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1002/rob.70289",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2026.105457",
-      "title": "Multi-objective optimization with priority-based execution for mobile manipulators: An HQP approach integrating adaptive motion planning and obstacle avoidance",
-      "journal_id": "ras",
-      "published": "2026-07",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105457",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2026.105445",
-      "title": "Efficient graph-based area partitioning for balanced multi-robot coverage path planning",
-      "journal_id": "ras",
-      "published": "2026-07",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105445",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2026.105443",
-      "title": "Towards the development of a robotic spraying arm: AI-based weed detection and path planning strategies",
-      "journal_id": "ras",
-      "published": "2026-07",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105443",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2026.105433",
-      "title": "Hybrid motion planning with dynamics awareness for aerial-ground robots in industrial inspection and maintenance",
-      "journal_id": "ras",
-      "published": "2026-07",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105433",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2026.105419",
-      "title": "Several improved Golden Jackal optimization algorithm of path planning for legged robot",
-      "journal_id": "ras",
-      "published": "2026-07",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105419",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2026.105406",
-      "title": "Intelligent adaptive directional RRT*N for robot path planning",
-      "journal_id": "ras",
-      "published": "2026-07",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105406",
       "source": "crossref"
     },
     {
@@ -2233,30 +2319,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.1016/j.robot.2026.105405",
-      "title": "Transformation & Translation Occupancy Grid Mapping: 2-dimensional deep learning refined SLAM",
-      "journal_id": "ras",
-      "published": "2026-06",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105405",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2026.105394",
-      "title": "Real-time collision avoidance with robot distance fields in a task-priority framework",
-      "journal_id": "ras",
-      "published": "2026-06",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105394",
-      "source": "crossref"
-    },
-    {
       "id": "10.1016/j.isprsjprs.2026.04.019",
       "title": "GateMamba: Feature gated mixer in state space model for point cloud 3D object detection",
       "journal_id": "isprs",
@@ -2302,18 +2364,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1016/j.isprsjprs.2026.03.033",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.isprsjprs.2026.03.031",
-      "title": "Physics-informed synthetic data and transformer-based segmentation for sinkhole detection in railway LiDAR point clouds",
-      "journal_id": "isprs",
-      "published": "2026-06",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.isprsjprs.2026.03.031",
       "source": "crossref"
     },
     {
