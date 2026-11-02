@@ -1,58 +1,70 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-01T08:09:57.736783+00:00",
-  "attempted_at": "2026-11-01T08:09:57.736783+00:00",
+  "updated": "2026-11-02T08:19:11.052938+00:00",
+  "attempted_at": "2026-11-02T08:19:11.052938+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-11-01T08:09:57.736783+00:00",
+      "last_success": "2026-11-02T08:19:11.052938+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-11-01T08:09:57.736783+00:00",
+      "last_success": "2026-11-02T08:19:11.052938+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-11-01T08:09:57.736783+00:00",
+      "last_success": "2026-11-02T08:19:11.052938+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-11-01T08:09:57.736783+00:00",
+      "last_success": "2026-11-02T08:19:11.052938+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-11-01T08:09:57.736783+00:00",
+      "last_success": "2026-11-02T08:19:11.052938+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-11-01T08:09:57.736783+00:00",
+      "last_success": "2026-11-02T08:19:11.052938+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-11-01T08:09:57.736783+00:00",
+      "last_success": "2026-11-02T08:19:11.052938+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-11-01T08:09:57.736783+00:00",
+      "last_success": "2026-11-02T08:19:11.052938+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.1038/s41598-026-67667-8",
+      "title": "A multi-objective UAV path planning model for power transmission tower inspection",
+      "journal_id": "scientific-reports",
+      "published": "2026-11-02",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-67667-8",
+      "source": "crossref"
+    },
     {
       "id": "10.1109/lra.2026.3742279",
       "title": "A Drift-Aware Bayesian Reliability Layer for NavSatFix-Only GNSS–LiDAR-Inertial Fusion",
@@ -1635,18 +1647,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1038/s41598-026-71588-x",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1038/s41598-026-70790-1",
-      "title": "UAV path planning using NSGA-II and BOA algorithms for surveillance applications based on bank-to-turn strategy",
-      "journal_id": "scientific-reports",
-      "published": "2026-09-15",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-70790-1",
       "source": "crossref"
     },
     {
