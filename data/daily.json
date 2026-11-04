@@ -1,124 +1,126 @@
 {
-  "updated": "2026-11-03T21:03:44+00:00",
+  "updated": "2026-11-04T01:25:42+00:00",
   "leetcode": {
-    "date": "2026-11-03",
-    "id": "3736",
-    "title": "Minimum Moves to Equal Array Elements III",
-    "titleEn": "Minimum Moves to Equal Array Elements III",
-    "slug": "minimum-moves-to-equal-array-elements-iii",
-    "difficulty": "Easy",
+    "date": "2026-11-04",
+    "id": "3505",
+    "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+    "titleEn": "Minimum Operations to Make Elements Within K Subarrays Equal",
+    "slug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+    "difficulty": "Hard",
     "tags": [
       "Array",
-      "Math"
+      "Hash Table",
+      "Math",
+      "Dynamic Programming"
     ],
-    "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Ich geh und suche mit Verlangen, BWV 49",
-    "text": "Johann Sebastian Bach composed the church cantata Ich geh und suche mit Verlangen, BWV 49, in Leipzig for the twentieth Sunday after Trinity Sunday and first performed it on 3 November 1726. It is a solo cantata, a dialogue for soprano and bass.",
-    "words": 43,
-    "url": "https://en.wikipedia.org/wiki/Ich_geh_und_suche_mit_Verlangen%2C_BWV_49",
-    "date": "2026-11-03",
+    "title": "Eunos MRT station",
+    "text": "Eunos MRT station is an elevated Mass Rapid Transit (MRT) station on the East–West Line in Geylang, Singapore. Operated by SMRT Trains, the station is connected to the Eunos Bus Interchange. It also provides access to other surrounding landmarks such as the Masjid Darul Aman, Eunos Crescent Market and Food Centre, and Mangala Vihara Buddhist Temple.",
+    "words": 56,
+    "url": "https://en.wikipedia.org/wiki/Eunos_MRT_station",
+    "date": "2026-11-04",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "[Home Movies: Can 10586: Livonia, Michigan]",
+    "title": "[Gould can 5127.7]",
     "creator": "",
-    "year": "1950",
-    "url": "https://archive.org/download/6300_HM_Can_10586_Livonia_Michigan_01_13_41_00/6300_HM_Can_10586_Livonia_Michigan_01_13_41_00_3mb.mp4",
-    "page": "https://archive.org/details/6300_HM_Can_10586_Livonia_Michigan_01_13_41_00",
-    "date": "2026-11-03",
+    "year": "",
+    "url": "https://archive.org/download/2148_Gould_can_5127_7/2148_Gould_can_5127_7_00_06_48_10_3mb.mp4",
+    "page": "https://archive.org/details/2148_Gould_can_5127_7",
+    "date": "2026-11-04",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "[omaramusic036] omara - november",
-      "artist": "omara",
-      "url": "https://archive.org/download/omaramusic036/01_omara_-_november.mp3",
-      "page": "https://archive.org/details/omaramusic036",
+      "title": "TFR547 - Sweet Mother of God - Self Dribbling BasketBalls",
+      "artist": "Sweet Mother of God",
+      "url": "https://archive.org/download/TFR547-SweetMotherOfGod-SelfDribblingBasketBalls/01-AbbyGetsTheBelt.mp3",
+      "page": "https://archive.org/details/TFR547-SweetMotherOfGod-SelfDribblingBasketBalls",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Binaerpilot - Remember C64? [UHZMP3005]",
-      "artist": "Binaerpilot",
-      "url": "https://archive.org/download/uhzmp3005/01-binarpilot-tjaere_igjen.mp3",
-      "page": "https://archive.org/details/uhzmp3005",
-      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
+      "title": "Bukowski A-Go-Go",
+      "artist": "Invisible Illusion",
+      "url": "https://archive.org/download/invisible-illusion-bukowski-a-go-go/Invisible%20Illusion%20-%20Bukowski%20A-Go-Go%20-%2001%20The%20Laughing%20Heart.mp3",
+      "page": "https://archive.org/details/invisible-illusion-bukowski-a-go-go",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
-      "title": "(USER014) user11996070004 - Science EP",
-      "artist": "USER Records",
-      "url": "https://archive.org/download/user014-user11996070004-science-ep/%28USER014%29%2001.%20user11996070004%20-%20Dead%20Science_Science%20EP.mp3",
-      "page": "https://archive.org/details/user014-user11996070004-science-ep",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "Anthony Manning - Elastic Variations Vol.1 [ird051]",
+      "artist": "",
+      "url": "https://archive.org/download/ird051/ird051-anthony-manning-01-elastic-variations-1-unreleased-studio-outtake.mp3",
+      "page": "https://archive.org/details/ird051",
+      "license": "Creative Commons"
     },
     {
-      "title": "(USER072) user46786121478 - Engrav II EP",
-      "artist": "user46786121478",
-      "url": "https://archive.org/download/user072-user46786121478-engrav-ii-ep/%28USER072%29%2001.%20user46786121478%20-%20The%20YPS%20CD%20Engraver%2001_EngravII%20EP.mp3",
-      "page": "https://archive.org/details/user072-user46786121478-engrav-ii-ep",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "Tongues",
-      "artist": "The Man From Viersen",
-      "url": "https://archive.org/download/tongues_202604/01%20-%20%20Parody%20Of%20Tongues.mp3",
-      "page": "https://archive.org/details/tongues_202604",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "VBR Podcast #30",
-      "artist": "Banyek",
-      "url": "https://archive.org/download/vbr030/vbr_030.mp3",
-      "page": "https://archive.org/details/vbr030",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
-    },
-    {
-      "title": "CD_Kreisverband_Friedrichshain_Live_@_Unser_Industrie_V_-_Leipzig_FRG_-_20110611",
-      "artist": "Ohmnoise",
-      "url": "https://archive.org/download/CD_Kreisverband_Friedrichshain_Live__Unser_Industrie_V_-_Leipzig_FRG_-_20110611/CdKreisverbandFriedrichshainLiveUnserIndustrieV-LeipzigFrg-20110611.mp3",
-      "page": "https://archive.org/details/CD_Kreisverband_Friedrichshain_Live__Unser_Industrie_V_-_Leipzig_FRG_-_20110611",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
-    },
-    {
-      "title": "Told You So",
-      "artist": "Swamp Donkey",
-      "url": "https://archive.org/download/told-you-so_202507/01%20-%20%20Framed%20By%20Prodigies.mp3",
-      "page": "https://archive.org/details/told-you-so_202507",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "Cousin Silas - Dronescape 032 (waag_drs032)",
-      "artist": "Cousin Silas",
-      "url": "https://archive.org/download/waag_drs032/01_Dronescape-032.mp3",
-      "page": "https://archive.org/details/waag_drs032",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "[TN016] Origami Boe - omaoNOTOpetokion B",
-      "artist": "Origami Boe",
-      "url": "https://archive.org/download/tn016_778/01_omaoNOTOpetokion_B__006B1.mp3",
-      "page": "https://archive.org/details/tn016_778",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "WMRI - Citrine Lake [USC-WR-1210.0104]",
-      "artist": "WMRI",
-      "url": "https://archive.org/download/wmri-citrine-lake/01.Citrine%20Lake.mp3",
-      "page": "https://archive.org/details/wmri-citrine-lake",
+      "title": "Disco Romancin' - The Way That You Love Me (TDCDV004)",
+      "artist": "Disco Romancin'",
+      "url": "https://archive.org/download/TDCDV004/01%20-%20The%20Way%20That%20You%20Love%20Me.mp3",
+      "page": "https://archive.org/details/TDCDV004",
       "license": "http://creativecommons.org/licenses/by-sa/3.0/"
     },
     {
-      "title": "Cedes",
-      "artist": "Spirit Duplicator",
-      "url": "https://archive.org/download/Cedes/0101SongSungForever.mp3",
-      "page": "https://archive.org/details/Cedes",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/us/"
+      "title": "TEFE049",
+      "artist": "Miquel Parera Jaques",
+      "url": "https://archive.org/download/TEFE049/TEFE049-1-Rhythm-2019-10-08-19-21-20.mp3",
+      "page": "https://archive.org/details/TEFE049",
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "title": "IUMA: Genetic Trance Doctors",
+      "artist": "",
+      "url": "https://archive.org/download/iuma-genetic_trance_doctors/Genetic_Trance_Doctors_-_Dancing_Needles.mp3",
+      "page": "https://archive.org/details/iuma-genetic_trance_doctors",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "TFR759 - The Last March of the Ents - The Ever Distorting",
+      "artist": "The Last March of the Ents",
+      "url": "https://archive.org/download/TFR759-TheLastMarchOfTheEnts-TheEverDistorting/01-TheGreatConfinementdawn.mp3",
+      "page": "https://archive.org/details/TFR759-TheLastMarchOfTheEnts-TheEverDistorting",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Interpolation / Entity Usage",
+      "artist": "The Children Of Mu",
+      "url": "https://archive.org/download/TCoMInterpolation/01-Interpolation.mp3",
+      "page": "https://archive.org/details/TCoMInterpolation",
+      "license": "https://creativecommons.org/licenses/by-nd/4.0/"
+    },
+    {
+      "title": "TFR745 - Skandal - First Step To Nowhere",
+      "artist": "Skandal",
+      "url": "https://archive.org/download/TFR745-Skandal-FirstStepToNowhere/01-King.mp3",
+      "page": "https://archive.org/details/TFR745-Skandal-FirstStepToNowhere",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "TFR33 - DISEKSA - Greed Humanity",
+      "artist": "DISEKSA",
+      "url": "https://archive.org/download/TFR33-DISEKSA-GreedHumanity/01-Rise.mp3",
+      "page": "https://archive.org/details/TFR33-DISEKSA-GreedHumanity",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "TFR413 - TakeMeToTheMorgue! - The Ballad Of Nox Arcana",
+      "artist": "TakeMeToTheMorgue!",
+      "url": "https://archive.org/download/TFR413-TakeMeToTheMorgue-TheBalladOfNoxArcana/01-Inittuim.mp3",
+      "page": "https://archive.org/details/TFR413-TakeMeToTheMorgue-TheBalladOfNoxArcana",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "TFR844 - PYEMESIS / Bowel Leakage - SPORADICAL ROT / Untitled",
+      "artist": "PYEMESIS / Bowel Leakage",
+      "url": "https://archive.org/download/TFR844-PyemesisBowelLeakage-SporadicalRotUntitled/01-Pyemesis-BodyDisposal101.mp3",
+      "page": "https://archive.org/details/TFR844-PyemesisBowelLeakage-SporadicalRotUntitled",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     }
   ]
 }
