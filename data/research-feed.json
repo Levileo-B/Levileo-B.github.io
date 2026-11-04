@@ -1,58 +1,84 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-03T08:33:52.384462+00:00",
-  "attempted_at": "2026-11-03T08:33:52.384462+00:00",
+  "updated": "2026-11-04T08:00:24.091417+00:00",
+  "attempted_at": "2026-11-04T08:00:24.091417+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-11-03T08:33:52.384462+00:00",
+      "last_success": "2026-11-04T08:00:24.091417+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-11-03T08:33:52.384462+00:00",
+      "last_success": "2026-11-04T08:00:24.091417+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
-      "status": "ok",
-      "last_success": "2026-11-03T08:33:52.384462+00:00",
-      "errors": []
+      "status": "partial",
+      "last_success": "2026-11-04T08:00:24.091417+00:00",
+      "errors": [
+        "point-cloud: HTTPError 429"
+      ]
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-11-03T08:33:52.384462+00:00",
+      "last_success": "2026-11-04T08:00:24.091417+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-11-03T08:33:52.384462+00:00",
+      "last_success": "2026-11-04T08:00:24.091417+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-11-03T08:33:52.384462+00:00",
+      "last_success": "2026-11-04T08:00:24.091417+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-11-03T08:33:52.384462+00:00",
+      "last_success": "2026-11-04T08:00:24.091417+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-11-03T08:33:52.384462+00:00",
+      "last_success": "2026-11-04T08:00:24.091417+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.1038/s41598-026-77959-8",
+      "title": "Reinforcement learning enables autonomous microrobot navigation and intervention in simulated blood capillaries",
+      "journal_id": "scientific-reports",
+      "published": "2026-11-03",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-77959-8",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18213768",
+      "title": "Estimation of Radio Attenuation in Radiata Pine Canopy Using Aerial Lidar and Terrestrial GNSS",
+      "journal_id": "remote-sensing",
+      "published": "2026-11-02",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18213768",
+      "source": "crossref"
+    },
     {
       "id": "10.1038/s41598-026-67667-8",
       "title": "A multi-objective UAV path planning model for power transmission tower inspection",
@@ -547,6 +573,19 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1016/j.isprsjprs.2026.08.011",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18213759",
+      "title": "Estimating Crown–Stem Allometry from Segmented Handheld SLAM LiDAR: Sensitivity to the Treatment of Disconnected Components",
+      "journal_id": "remote-sensing",
+      "published": "2026-10-31",
+      "topics": [
+        "point-cloud",
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18213759",
       "source": "crossref"
     },
     {
@@ -1638,18 +1677,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.1038/s41598-026-71588-x",
-      "title": "Real-time RGB-D SLAM with Gaussian scene representation for dynamic environments",
-      "journal_id": "scientific-reports",
-      "published": "2026-09-16",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-71588-x",
-      "source": "crossref"
-    },
-    {
       "id": "10.3390/rs18183158",
       "title": "From Wood–Foliar Semantics to 3D Fuel Characterization: Transferable Deep Learning for Terrestrial LiDAR Across Global Forest Ecosystems",
       "journal_id": "remote-sensing",
@@ -1779,30 +1806,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.3390/rs18173018",
-      "source": "crossref"
-    },
-    {
-      "id": "10.3390/rs18173007",
-      "title": "Trajectory-Guided Photon Accumulation for Photon-Efficient LiDAR Remote Sensing in Low-SBR Dynamic Scenes",
-      "journal_id": "remote-sensing",
-      "published": "2026-09-04",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18173007",
-      "source": "crossref"
-    },
-    {
-      "id": "10.3390/rs18173005",
-      "title": "RoadMark-AWAConv: Adaptive Weight-Anchor Convolution for Fine-Grained Semantic Segmentation of Road Marking Point Clouds",
-      "journal_id": "remote-sensing",
-      "published": "2026-09-04",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18173005",
       "source": "crossref"
     },
     {
