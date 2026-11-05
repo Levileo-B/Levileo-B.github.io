@@ -1,60 +1,82 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-04T08:00:24.091417+00:00",
-  "attempted_at": "2026-11-04T08:00:24.091417+00:00",
+  "updated": "2026-11-05T08:30:17.789175+00:00",
+  "attempted_at": "2026-11-05T08:30:17.789175+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-11-04T08:00:24.091417+00:00",
+      "last_success": "2026-11-05T08:30:17.789175+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-11-04T08:00:24.091417+00:00",
+      "last_success": "2026-11-05T08:30:17.789175+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
-      "status": "partial",
-      "last_success": "2026-11-04T08:00:24.091417+00:00",
-      "errors": [
-        "point-cloud: HTTPError 429"
-      ]
+      "status": "ok",
+      "last_success": "2026-11-05T08:30:17.789175+00:00",
+      "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-11-04T08:00:24.091417+00:00",
+      "last_success": "2026-11-05T08:30:17.789175+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-11-04T08:00:24.091417+00:00",
+      "last_success": "2026-11-05T08:30:17.789175+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-11-04T08:00:24.091417+00:00",
+      "last_success": "2026-11-05T08:30:17.789175+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-11-04T08:00:24.091417+00:00",
+      "last_success": "2026-11-05T08:30:17.789175+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-11-04T08:00:24.091417+00:00",
+      "last_success": "2026-11-05T08:30:17.789175+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.3390/rs18213784",
+      "title": "Improved Forest Parameter Estimation Using Registered Airborne–Terrestrial Point Clouds via a Novel Adaptive Clustering and Vertical Layering Method",
+      "journal_id": "remote-sensing",
+      "published": "2026-11-04",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18213784",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-71099-9",
+      "title": "A Fermatean fuzzy CRITIC WASPAS framework for conflict detection in autonomous drone navigation",
+      "journal_id": "scientific-reports",
+      "published": "2026-11-04",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-71099-9",
+      "source": "crossref"
+    },
     {
       "id": "10.1038/s41598-026-77959-8",
       "title": "Reinforcement learning enables autonomous microrobot navigation and intervention in simulated blood capillaries",
@@ -295,6 +317,18 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1109/lra.2026.3728311",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105836",
+      "title": "Chaos embedded new hybrid metaheuristic algorithm for drone swarm path planning problem in obstacle-rich environment",
+      "journal_id": "ras",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105836",
       "source": "crossref"
     },
     {
@@ -1388,18 +1422,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.1016/j.robot.2026.105587",
-      "title": "Lightweight visual SLAM and traversability mapping for space robotics: Real-time operation in challenging environments",
-      "journal_id": "ras",
-      "published": "2026-10",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105587",
-      "source": "crossref"
-    },
-    {
       "id": "10.1016/j.isprsjprs.2026.07.031",
       "title": "A vertical FVC profile retrieval method (OLV-FVC) based on airborne LiDAR point cloud under the constraint of optical remote sensing for forest plots",
       "journal_id": "isprs",
@@ -1641,18 +1663,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.1038/s41598-026-68537-z",
-      "title": "Revisiting multi-objective three-dimensional trajectory planning in dynamic unmanned aerial vehicles assisted systems using online Monte Carlo Search methods",
-      "journal_id": "scientific-reports",
-      "published": "2026-09-18",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-68537-z",
-      "source": "crossref"
-    },
-    {
       "id": "10.3390/rs18183206",
       "title": "SDFA-Net: Urban Manhole Cover Detection via Fisheye Image and LiDAR Point Cloud Fusion",
       "journal_id": "remote-sensing",
@@ -1794,18 +1804,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.3390/rs18173024",
-      "source": "crossref"
-    },
-    {
-      "id": "10.3390/rs18173018",
-      "title": "GSSP-KAN: An Efficient Kansformer-Based Network with Grouped Separable Sparse Convolution for Large-Scale LiDAR Point Cloud Semantic Segmentation",
-      "journal_id": "remote-sensing",
-      "published": "2026-09-04",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18173018",
       "source": "crossref"
     },
     {
