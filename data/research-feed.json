@@ -1,58 +1,70 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-05T08:30:17.789175+00:00",
-  "attempted_at": "2026-11-05T08:30:17.789175+00:00",
+  "updated": "2026-11-06T08:30:02.527792+00:00",
+  "attempted_at": "2026-11-06T08:30:02.527792+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-11-05T08:30:17.789175+00:00",
+      "last_success": "2026-11-06T08:30:02.527792+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-11-05T08:30:17.789175+00:00",
+      "last_success": "2026-11-06T08:30:02.527792+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-11-05T08:30:17.789175+00:00",
+      "last_success": "2026-11-06T08:30:02.527792+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-11-05T08:30:17.789175+00:00",
+      "last_success": "2026-11-06T08:30:02.527792+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-11-05T08:30:17.789175+00:00",
+      "last_success": "2026-11-06T08:30:02.527792+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-11-05T08:30:17.789175+00:00",
+      "last_success": "2026-11-06T08:30:02.527792+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-11-05T08:30:17.789175+00:00",
+      "last_success": "2026-11-06T08:30:02.527792+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-11-05T08:30:17.789175+00:00",
+      "last_success": "2026-11-06T08:30:02.527792+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.1038/s41598-026-78840-4",
+      "title": "Reactive path planning for low speed UAVs and mobile robots in static environments using adaptive block coordinate descent logistic regression",
+      "journal_id": "scientific-reports",
+      "published": "2026-11-05",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-78840-4",
+      "source": "crossref"
+    },
     {
       "id": "10.3390/rs18213784",
       "title": "Improved Forest Parameter Estimation Using Registered Airborne–Terrestrial Point Clouds via a Novel Adaptive Clustering and Vertical Layering Method",
@@ -329,6 +341,18 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1016/j.robot.2026.105836",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105831",
+      "title": "A novel task allocation method based on path planning in lunar surface transport using multi-robot systems",
+      "journal_id": "ras",
+      "published": "2026-11",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105831",
       "source": "crossref"
     },
     {
@@ -1410,18 +1434,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.1016/j.robot.2026.105592",
-      "title": "Integration of the collision risk index and dynamic priority in multi-robot cooperative path planning",
-      "journal_id": "ras",
-      "published": "2026-10",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105592",
-      "source": "crossref"
-    },
-    {
       "id": "10.1016/j.isprsjprs.2026.07.031",
       "title": "A vertical FVC profile retrieval method (OLV-FVC) based on airborne LiDAR point cloud under the constraint of optical remote sensing for forest plots",
       "journal_id": "isprs",
@@ -1648,18 +1660,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.3390/rs18183222",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1038/s41598-026-69784-w",
-      "title": "UAV path planning based on improved Whale Optimization Algorithm in multi-obstacle scenarios",
-      "journal_id": "scientific-reports",
-      "published": "2026-09-19",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-69784-w",
       "source": "crossref"
     },
     {
