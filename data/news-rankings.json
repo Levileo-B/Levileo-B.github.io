@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-06T18:00:32+00:00",
-  "updated": "2026-11-06T18:00:32+00:00",
+  "generated_at": "2026-11-06T23:12:54+00:00",
+  "updated": "2026-11-06T23:12:54+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-02T00:00:00+08:00",
-    "end": "2026-11-06T18:00:32+00:00",
-    "total": 695,
+    "end": "2026-11-06T23:12:54+00:00",
+    "total": 720,
     "items": [
       {
         "title": "Pratt parsing is a black box",
@@ -22,6 +22,21 @@
         ],
         "source_count": 2,
         "observed_days": 3
+      },
+      {
+        "title": "Inside GitHub’s new Git storage architecture",
+        "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+        "date": "2026-11-05T20:23:21+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "GitHub Blog",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
       },
       {
         "title": "September in Servo: progress, rounded rectangles, and more",
@@ -146,20 +161,6 @@
         ],
         "source_count": 2,
         "observed_days": 1
-      },
-      {
-        "title": "Game Off 2026: The theme is SHIFT",
-        "link": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
-        "date": "2026-11-01T21:36:00+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "GitHub Blog"
-        ],
-        "source_count": 1,
-        "observed_days": 6
       }
     ],
     "by_category": {
@@ -322,6 +323,21 @@
           "observed_days": 3
         },
         {
+          "title": "Inside GitHub’s new Git storage architecture",
+          "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+          "date": "2026-11-05T20:23:21+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "GitHub Blog",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "September in Servo: progress, rounded rectangles, and more",
           "link": "https://servo.org/blog/2026/11/05/september-in-servo/",
           "date": "2026-11-05T13:47:56+00:00",
@@ -436,20 +452,6 @@
           ],
           "source_count": 1,
           "observed_days": 3
-        },
-        {
-          "title": "科技爱好者周刊（第 418 期）：如果科技停止在21世纪初",
-          "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
-          "date": "2026-11-05T23:43:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "阮一峰的网络日志"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "科技": [
@@ -1040,8 +1042,8 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-06T18:00:32+00:00",
-    "total": 785,
+    "end": "2026-11-06T23:12:54+00:00",
+    "total": 810,
     "items": [
       {
         "title": "Pratt parsing is a black box",
@@ -1057,6 +1059,21 @@
         ],
         "source_count": 2,
         "observed_days": 3
+      },
+      {
+        "title": "Inside GitHub’s new Git storage architecture",
+        "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+        "date": "2026-11-05T20:23:21+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "GitHub Blog",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
       },
       {
         "title": "September in Servo: progress, rounded rectangles, and more",
@@ -1179,21 +1196,6 @@
         "sources": [
           "BBC Business",
           "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "So I guess everyone uses LLMs to think now",
-        "link": "https://eva.ac/blog/llms/",
-        "date": "2026-11-01T21:49:04+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
         ],
         "source_count": 2,
         "observed_days": 1
@@ -1359,6 +1361,21 @@
           "observed_days": 3
         },
         {
+          "title": "Inside GitHub’s new Git storage architecture",
+          "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+          "date": "2026-11-05T20:23:21+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "GitHub Blog",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "September in Servo: progress, rounded rectangles, and more",
           "link": "https://servo.org/blog/2026/11/05/september-in-servo/",
           "date": "2026-11-05T13:47:56+00:00",
@@ -1473,20 +1490,6 @@
           ],
           "source_count": 1,
           "observed_days": 3
-        },
-        {
-          "title": "科技爱好者周刊（第 418 期）：如果科技停止在21世纪初",
-          "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
-          "date": "2026-11-05T23:43:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "阮一峰的网络日志"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "科技": [
