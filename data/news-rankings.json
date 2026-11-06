@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-05T22:01:54+00:00",
-  "updated": "2026-11-05T22:01:54+00:00",
+  "generated_at": "2026-11-06T02:30:11+00:00",
+  "updated": "2026-11-06T02:30:11+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-02T00:00:00+08:00",
-    "end": "2026-11-05T22:01:54+00:00",
-    "total": 581,
+    "end": "2026-11-06T02:30:11+00:00",
+    "total": 613,
     "items": [
       {
         "title": "Pratt parsing is a black box",
@@ -85,6 +85,22 @@
         "observed_days": 2
       },
       {
+        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+        "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+        "date": "2026-11-05T21:56:00+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
         "title": "Shop freezers in seven European countries hit by cyber-attack",
         "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo",
         "date": "2026-11-02T15:12:22+00:00",
@@ -142,20 +158,6 @@
         ],
         "source_count": 1,
         "observed_days": 4
-      },
-      {
-        "title": "Arnis turns any place on Earth into a Minecraft world",
-        "link": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
-        "date": "2026-11-03T16:00:00+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "GitHub Blog"
-        ],
-        "source_count": 1,
-        "observed_days": 3
       }
     ],
     "by_category": {
@@ -606,7 +608,7 @@
           "observed_days": 2
         },
         {
-          "title": "The hidden cost of flexible work in academia: women do more parenting",
+          "title": "The surprising reason women in academia do more parenting than men",
           "link": "https://www.nature.com/articles/d41586-026-03568-0",
           "date": "2026-11-05T00:00:00+00:00",
           "date_is_observed": false,
@@ -750,6 +752,22 @@
           "observed_days": 2
         },
         {
+          "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+          "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+          "date": "2026-11-05T21:56:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Shop freezers in seven European countries hit by cyber-attack",
           "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo",
           "date": "2026-11-02T15:12:22+00:00",
@@ -862,20 +880,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "美國民主黨歷史性勝利 深入共和黨票倉攻城掠地",
-          "link": "https://www.bbc.com/zhongwen/articles/c6kgq8l48q2po/trad",
-          "date": "2026-11-04T05:37:39+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
@@ -894,6 +898,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+          "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+          "date": "2026-11-05T21:56:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "Shop freezers in seven European countries hit by cyber-attack",
@@ -1008,28 +1028,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Poundland owner in crunch talks as retailer's collapse looms",
-          "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do",
-          "date": "2026-11-04T00:03:17+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-05T22:01:54+00:00",
-    "total": 671,
+    "end": "2026-11-06T02:30:11+00:00",
+    "total": 703,
     "items": [
       {
         "title": "Pratt parsing is a black box",
@@ -1124,6 +1130,22 @@
         "observed_days": 2
       },
       {
+        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+        "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+        "date": "2026-11-05T21:56:00+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
         "title": "Shop freezers in seven European countries hit by cyber-attack",
         "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo",
         "date": "2026-11-02T15:12:22+00:00",
@@ -1167,20 +1189,6 @@
         ],
         "source_count": 1,
         "observed_days": 5
-      },
-      {
-        "title": "美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型",
-        "link": "https://tech.meituan.com/2026/11/02/Meituan-LongCat-2.5.html",
-        "date": "2026-11-03T06:53:09+00:00",
-        "date_is_observed": true,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "美团技术团队"
-        ],
-        "source_count": 1,
-        "observed_days": 4
       }
     ],
     "by_category": {
@@ -1631,7 +1639,7 @@
           "observed_days": 2
         },
         {
-          "title": "The hidden cost of flexible work in academia: women do more parenting",
+          "title": "The surprising reason women in academia do more parenting than men",
           "link": "https://www.nature.com/articles/d41586-026-03568-0",
           "date": "2026-11-05T00:00:00+00:00",
           "date_is_observed": false,
@@ -1791,6 +1799,22 @@
           "observed_days": 2
         },
         {
+          "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+          "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+          "date": "2026-11-05T21:56:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Shop freezers in seven European countries hit by cyber-attack",
           "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo",
           "date": "2026-11-02T15:12:22+00:00",
@@ -1889,20 +1913,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "英王演說稱奴隸貿易是英國歷史「可恥的一章」",
-          "link": "https://www.bbc.com/zhongwen/articles/cqn734rxeye6o/trad",
-          "date": "2026-11-04T07:06:49+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
@@ -1937,6 +1947,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+          "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+          "date": "2026-11-05T21:56:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "Shop freezers in seven European countries hit by cyber-attack",
@@ -2034,20 +2060,6 @@
           ],
           "sources": [
             "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo",
-          "date": "2026-11-04T01:36:06+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
           ],
           "source_count": 1,
           "observed_days": 2

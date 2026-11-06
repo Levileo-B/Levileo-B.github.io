@@ -1,11 +1,16 @@
 {
-  "updated": "2026-11-05T22:01:54+00:00",
+  "updated": "2026-11-06T02:30:11+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "從蔡康永、《VIVANT》到姆巴佩：北京為何區別處理「辱華」事件？",
+          "link": "https://www.bbc.com/zhongwen/articles/c6gm0rdzm0rdo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-06T00:21:23+00:00"
+        },
         {
           "title": "黃之鋒勾結罪國安案：重判10年，料出獄已屆40歲",
           "link": "https://www.bbc.com/zhongwen/articles/cm5ynepe9578o/trad?at_medium=RSS&at_campaign=rss",
@@ -25,11 +30,6 @@
           "title": "美國中期選舉結果對中國和世界各國意味着什麼？",
           "link": "https://www.bbc.com/zhongwen/articles/ckreyrxvg3xyo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-11-04T21:02:11+00:00"
-        },
-        {
-          "title": "「這是一場災難」：中期選舉慘敗，共和黨內怒火指向特朗普",
-          "link": "https://www.bbc.com/zhongwen/articles/cw5ynld35e3ro/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-05T02:36:32+00:00"
         }
       ]
     },
@@ -39,29 +39,29 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+          "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-06T01:44:03+00:00"
+        },
+        {
+          "title": "Trump signs order preventing future presidents from changing Oval Office",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-06T01:20:01+00:00"
+        },
+        {
+          "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+          "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-06T02:08:57+00:00"
+        },
+        {
+          "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+          "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-06T00:02:57+00:00"
+        },
+        {
           "title": "Hoax bomb threats target European airlines and airports for second time in a week",
           "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
           "date": "2026-11-05T17:39:48+00:00"
-        },
-        {
-          "title": "Who could be behind hoax bomb threats to European air travel?",
-          "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-05T19:58:40+00:00"
-        },
-        {
-          "title": "California governor commutes sentences for state's 548 death row inmates",
-          "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-05T21:25:48+00:00"
-        },
-        {
-          "title": "French protests see numbers surge as unions join strikes over high cost of living",
-          "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-05T17:59:53+00:00"
-        },
-        {
-          "title": "Paraguay President Santiago Peña resigns after bank collapse",
-          "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-05T17:40:40+00:00"
         }
       ]
     },
@@ -71,6 +71,21 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
+          "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+          "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-06T01:44:03+00:00"
+        },
+        {
+          "title": "Firms told to publish salaries in job adverts ahead of new law",
+          "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-05T22:32:02+00:00"
+        },
+        {
+          "title": "'I was asked if I was a crier': Your worst job interviews revealed",
+          "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-06T00:02:52+00:00"
+        },
+        {
           "title": "Interest rates hiked to 4% in first increase in over three years",
           "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
           "date": "2026-11-05T17:09:55+00:00"
@@ -79,21 +94,6 @@
           "title": "Faisal Islam: How high will interest rates go?",
           "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
           "date": "2026-11-05T13:17:10+00:00"
-        },
-        {
-          "title": "Three ways the interest rate rise could affect you",
-          "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-05T13:08:30+00:00"
-        },
-        {
-          "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-          "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-05T21:56:00+00:00"
-        },
-        {
-          "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
-          "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-05T15:27:09+00:00"
         }
       ]
     },
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
+          "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+          "link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+          "date": "2026-11-06T01:41:32+00:00"
+        },
+        {
+          "title": "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge",
+          "link": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
+          "date": "2026-11-05T23:39:32+00:00"
+        },
+        {
+          "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
+          "link": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
+          "date": "2026-11-05T22:31:13+00:00"
+        },
+        {
           "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
           "link": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
           "date": "2026-11-05T20:17:16+00:00"
         },
         {
-          "title": "Nasdaq drops into correction territory — here’s what typically happens next",
-          "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
-          "date": "2026-11-05T21:57:33+00:00"
-        },
-        {
           "title": "The October jobs report is out Friday. Here's everything to expect",
           "link": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
           "date": "2026-11-05T21:32:52+00:00"
-        },
-        {
-          "title": "IRS unveils higher capital gains tax brackets for 2027",
-          "link": "https://www.cnbc.com/2026/11/05/capital-gains-tax-2027-federal.html",
-          "date": "2026-11-05T21:46:23+00:00"
-        },
-        {
-          "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
-          "link": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
-          "date": "2026-11-05T21:43:33+00:00"
         }
       ]
     },
@@ -134,6 +134,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
+          "link": "https://sspai.com/post/118587",
+          "date": "2026-11-06T00:24:39+00:00"
+        },
         {
           "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
           "link": "https://sspai.com/post/118546",
@@ -153,11 +158,6 @@
           "title": "Apple 官网排版细节鉴赏",
           "link": "https://sspai.com/post/115399",
           "date": "2026-11-05T02:57:22+00:00"
-        },
-        {
-          "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
-          "link": "https://sspai.com/post/118498",
-          "date": "2026-11-05T00:16:27+00:00"
         }
       ]
     },
@@ -166,6 +166,11 @@
       "category": "科技",
       "url": "https://www.ifanr.com/feed",
       "items": [
+        {
+          "title": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
+          "link": "https://www.ifanr.com/1688032?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-11-06T00:15:15+00:00"
+        },
         {
           "title": "MacBook Pro 能触屏了，但这只是它最小的升级｜附选购指南",
           "link": "https://www.ifanr.com/1687989?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -185,11 +190,6 @@
           "title": "一加 Ace 7 Pro 体验：「二号人物」这次想当主角",
           "link": "https://www.ifanr.com/1687836?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-11-05T09:13:13+00:00"
-        },
-        {
-          "title": "对话星尘智能来杰：机器人的「iPhone 4 时刻」还没到，但可能比想象中更近丨多样性公司",
-          "link": "https://www.ifanr.com/1687805?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-11-05T06:29:09+00:00"
         }
       ]
     },
@@ -231,29 +231,29 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
-          "title": "The midterms proved once and for all that X is not real life",
-          "link": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
-          "date": "2026-11-05T21:54:18+00:00"
+          "title": "OpenAI is stepping back from NDAs for data center projects",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+          "date": "2026-11-06T00:37:56+00:00"
         },
         {
-          "title": "Blue Origin’s next launch now won’t happen until 2027",
-          "link": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
-          "date": "2026-11-05T20:47:14+00:00"
+          "title": "Airbnb is working on an AI travel agent",
+          "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+          "date": "2026-11-06T00:06:12+00:00"
         },
         {
-          "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
-          "link": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
-          "date": "2026-11-05T19:27:06+00:00"
+          "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
+          "link": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
+          "date": "2026-11-05T23:45:10+00:00"
         },
         {
-          "title": "Muse has a voice mode now",
-          "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
-          "date": "2026-11-05T19:07:13+00:00"
+          "title": "T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;",
+          "link": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+          "date": "2026-11-05T23:17:10+00:00"
         },
         {
-          "title": "EA is bringing 25 classic PC games to Steam",
-          "link": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition",
-          "date": "2026-11-05T21:40:27+00:00"
+          "title": "Perplexity launches its own take on AI agents for work",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+          "date": "2026-11-05T22:26:50+00:00"
         }
       ]
     },
@@ -263,29 +263,29 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
-          "link": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
-          "date": "2026-11-05T19:59:22+00:00"
+          "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+          "link": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+          "date": "2026-11-06T00:17:06+00:00"
         },
         {
-          "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
-          "link": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
-          "date": "2026-11-05T19:46:37+00:00"
+          "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+          "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+          "date": "2026-11-05T23:09:36+00:00"
         },
         {
-          "title": "MAHA lost bigly in the midterms—is it at death's door?",
-          "link": "https://arstechnica.com/health/2026/11/is-maha-dying-or-will-it-be-reborn-whats-next-after-crushing-midterm-losses/",
-          "date": "2026-11-05T18:49:41+00:00"
+          "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+          "link": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
+          "date": "2026-11-05T22:49:03+00:00"
         },
         {
-          "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
-          "link": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/",
-          "date": "2026-11-05T17:40:27+00:00"
+          "title": "Sony revives the original Walkman headphones, adds USB-C",
+          "link": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
+          "date": "2026-11-05T21:56:36+00:00"
         },
         {
-          "title": "Statehouse wins give Democrats new power to push clean energy",
-          "link": "https://arstechnica.com/science/2026/11/statehouse-wins-give-democrats-new-power-to-push-clean-energy/",
-          "date": "2026-11-05T15:59:51+00:00"
+          "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+          "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+          "date": "2026-11-05T21:40:36+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "MS Paint Remote Code Execution Vulnerability",
-          "link": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-          "date": "2026-11-05T20:43:42+00:00"
+          "title": "Investors wipe $2.5T off Nasdaq as blue tsunami prompts AI fears",
+          "link": "https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/",
+          "date": "2026-11-06T01:11:40+00:00"
         },
         {
-          "title": "California Gov Newsom commutes death sentences for all 548 people on death row",
-          "link": "https://www.bbc.com/news/articles/cqrkyyd2j8mvo",
-          "date": "2026-11-05T20:34:48+00:00"
+          "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+          "link": "https://github.com/matthewmrichter/mooftcp",
+          "date": "2026-11-06T00:54:15+00:00"
         },
         {
-          "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-          "link": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
-          "date": "2026-11-05T20:21:43+00:00"
+          "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
+          "link": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’",
+          "date": "2026-11-06T00:31:11+00:00"
         },
         {
-          "title": "The Cost of Blogging",
-          "link": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
-          "date": "2026-11-05T20:14:25+00:00"
+          "title": "Inkling 2 Small",
+          "link": "https://thinkingmachines.ai/news/inkling-2-small/",
+          "date": "2026-11-06T00:00:24+00:00"
         },
         {
-          "title": "Kagi Search for Everyone",
-          "link": "https://kagi.com/changelog",
-          "date": "2026-11-05T20:03:34+00:00"
+          "title": "Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
+          "link": "https://www.fgc.org.br/comunicado",
+          "date": "2026-11-05T23:32:36+00:00"
         }
       ]
     },
@@ -342,14 +342,14 @@
           "date": "2026-11-05T16:32:29+00:00"
         },
         {
+          "title": "SourceHut disabled registration bypass | CVE-2026-121728",
+          "link": "https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/",
+          "date": "2026-11-05T18:34:41+00:00"
+        },
+        {
           "title": "Declarative Dragging",
           "link": "https://declarative-dragging.github.io/",
           "date": "2026-11-05T00:35:09+00:00"
-        },
-        {
-          "title": "A Look at Datastar",
-          "link": "https://noteflakes.com/articles/2026-11-04-datastar",
-          "date": "2026-11-05T10:44:57+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享创造] 花了 6 年搭了一个去中心化的社交网络作品",
-          "link": "https://www.v2ex.com/t/1254858#reply7",
-          "date": "2026-11-05T17:29:51+00:00"
+          "title": "[分享创造] 都在秀那我也秀一个 ｜ iTV：致敬 Netflix 视觉美学、专为沉浸式大屏而生的电视客户端",
+          "link": "https://www.v2ex.com/t/1254910#reply0",
+          "date": "2026-11-06T02:29:13+00:00"
         },
         {
-          "title": "[推广] [台灣站長不跑路] 不降智滿血 Claude 中轉，評論送 $3 體驗＋抽獎 $100（也有 Grok、GPT）",
-          "link": "https://www.v2ex.com/t/1254856#reply0",
-          "date": "2026-11-05T17:17:52+00:00"
+          "title": "[推广] 「Sundas」： AI 视觉创作平台，视频会员价 ¥0.019/秒起，图片 ¥0.142/张起",
+          "link": "https://www.v2ex.com/t/1254909#reply0",
+          "date": "2026-11-06T02:29:09+00:00"
         },
         {
-          "title": "[分享创造] 最近做了个 MOSS-Image 在线生图工具，可以拖框指定海报上的文字位置",
-          "link": "https://www.v2ex.com/t/1254855#reply0",
-          "date": "2026-11-05T17:07:36+00:00"
+          "title": "[问与答] 有玩过智能眼镜的么？体验如何？",
+          "link": "https://www.v2ex.com/t/1254908#reply0",
+          "date": "2026-11-06T02:27:21+00:00"
         },
         {
-          "title": "[分享创造] 做了个 5 MB 的原生 API 客户端 CurlGo，不自动装插件",
-          "link": "https://www.v2ex.com/t/1254853#reply0",
-          "date": "2026-11-05T17:01:08+00:00"
+          "title": "[问与答] 有没有可以笔记本部署比较不错的代码模型",
+          "link": "https://www.v2ex.com/t/1254907#reply2",
+          "date": "2026-11-06T02:25:58+00:00"
         },
         {
-          "title": "[股票] 美股是要爆炸了吗？前几天低点进的。没想到还有更低点？",
-          "link": "https://www.v2ex.com/t/1254852#reply10",
-          "date": "2026-11-05T16:37:37+00:00"
+          "title": "[分享创造] Eavesong - 一个观察自己产品讨论度的自部署服务",
+          "link": "https://www.v2ex.com/t/1254905#reply0",
+          "date": "2026-11-06T02:16:40+00:00"
         }
       ]
     },
@@ -455,6 +455,11 @@
       "url": "https://www.ruanyifeng.com/blog/atom.xml",
       "items": [
         {
+          "title": "科技爱好者周刊（第 418 期）：如果科技停止在21世纪初",
+          "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
+          "date": "2026-11-05T23:43:55+00:00"
+        },
+        {
           "title": "科技爱好者周刊（第 417 期）：不要让 AI 代表你",
           "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
           "date": "2026-10-30T00:13:03+00:00"
@@ -463,11 +468,6 @@
           "title": "科技爱好者周刊（第 416 期）：编程已经面目全非",
           "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html",
           "date": "2026-10-23T00:06:16+00:00"
-        },
-        {
-          "title": "科技爱好者周刊（第 415 期）：3D 版《看不见的城市》",
-          "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html",
-          "date": "2026-10-16T00:02:56+00:00"
         }
       ]
     },
@@ -583,7 +583,7 @@
           "date": "2026-11-05T00:00:00+00:00"
         },
         {
-          "title": "The hidden cost of flexible work in academia: women do more parenting",
+          "title": "The surprising reason women in academia do more parenting than men",
           "link": "https://www.nature.com/articles/d41586-026-03568-0",
           "date": "2026-11-05T00:00:00+00:00"
         },
