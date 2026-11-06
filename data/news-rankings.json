@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-06T10:58:23+00:00",
-  "updated": "2026-11-06T10:58:23+00:00",
+  "generated_at": "2026-11-06T18:00:32+00:00",
+  "updated": "2026-11-06T18:00:32+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-02T00:00:00+08:00",
-    "end": "2026-11-06T10:58:23+00:00",
-    "total": 653,
+    "end": "2026-11-06T18:00:32+00:00",
+    "total": 695,
     "items": [
       {
         "title": "Pratt parsing is a black box",
@@ -85,6 +85,22 @@
         "observed_days": 2
       },
       {
+        "title": "AI stocks climb after trillions wiped from market values",
+        "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+        "date": "2026-11-06T17:03:02+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
         "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
         "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
         "date": "2026-11-05T21:56:00+00:00",
@@ -143,25 +159,53 @@
           "GitHub Blog"
         ],
         "source_count": 1,
-        "observed_days": 5
-      },
-      {
-        "title": "美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型",
-        "link": "https://tech.meituan.com/2026/11/02/Meituan-LongCat-2.5.html",
-        "date": "2026-11-03T06:53:09+00:00",
-        "date_is_observed": true,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "美团技术团队"
-        ],
-        "source_count": 1,
-        "observed_days": 4
+        "observed_days": 6
       }
     ],
     "by_category": {
       "AI": [
+        {
+          "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+          "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+          "date": "2026-11-05T13:10:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "A new bill could change how the US builds energy infrastructure",
+          "link": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+          "date": "2026-11-05T10:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+          "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+          "date": "2026-11-04T18:50:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
         {
           "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
           "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
@@ -191,9 +235,9 @@
           "observed_days": 3
         },
         {
-          "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-          "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-          "date": "2026-11-05T13:10:00+00:00",
+          "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+          "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "date": "2026-11-06T10:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -205,23 +249,9 @@
           "observed_days": 2
         },
         {
-          "title": "A new bill could change how the US builds energy infrastructure",
-          "link": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
-          "date": "2026-11-05T10:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
-          "link": "https://www.qbitai.com/2026/11/507787.html",
-          "date": "2026-11-05T07:15:13+00:00",
+          "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+          "link": "https://www.qbitai.com/2026/11/508155.html",
+          "date": "2026-11-06T07:00:29+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -233,9 +263,9 @@
           "observed_days": 2
         },
         {
-          "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
-          "link": "https://www.qbitai.com/2026/11/507782.html",
-          "date": "2026-11-05T07:10:56+00:00",
+          "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
+          "link": "https://www.qbitai.com/2026/11/508118.html",
+          "date": "2026-11-06T06:54:17+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -247,9 +277,9 @@
           "observed_days": 2
         },
         {
-          "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
-          "link": "https://www.qbitai.com/2026/11/507767.html",
-          "date": "2026-11-05T05:25:37+00:00",
+          "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
+          "link": "https://www.qbitai.com/2026/11/508143.html",
+          "date": "2026-11-06T06:43:14+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -261,43 +291,15 @@
           "observed_days": 2
         },
         {
-          "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
-          "link": "https://www.qbitai.com/2026/11/507696.html",
-          "date": "2026-11-05T02:01:51+00:00",
+          "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
+          "link": "https://www.qbitai.com/2026/11/508107.html",
+          "date": "2026-11-06T05:01:47+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
           ],
           "sources": [
             "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
-          "link": "https://www.qbitai.com/2026/11/507707.html",
-          "date": "2026-11-05T01:59:37+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-          "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-          "date": "2026-11-04T18:50:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -391,7 +393,7 @@
             "GitHub Blog"
           ],
           "source_count": 1,
-          "observed_days": 5
+          "observed_days": 6
         },
         {
           "title": "美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型",
@@ -405,7 +407,7 @@
             "美团技术团队"
           ],
           "source_count": 1,
-          "observed_days": 4
+          "observed_days": 5
         },
         {
           "title": "Arnis turns any place on Earth into a Minecraft world",
@@ -419,7 +421,7 @@
             "GitHub Blog"
           ],
           "source_count": 1,
-          "observed_days": 3
+          "observed_days": 4
         },
         {
           "title": "sshhole",
@@ -433,24 +435,52 @@
             "Lobsters"
           ],
           "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
-          "title": "Declarative Dragging",
-          "link": "https://declarative-dragging.github.io/",
-          "date": "2026-11-05T00:35:09+00:00",
+          "title": "科技爱好者周刊（第 418 期）：如果科技停止在21世纪初",
+          "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
+          "date": "2026-11-05T23:43:55+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "Lobsters"
+            "阮一峰的网络日志"
           ],
           "source_count": 1,
           "observed_days": 2
         }
       ],
       "科技": [
+        {
+          "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
+          "link": "https://sspai.com/post/118546",
+          "date": "2026-11-05T14:00:51+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "MacBook Pro 能触屏了，但这只是它最小的升级｜附选购指南",
+          "link": "https://www.ifanr.com/1687989",
+          "date": "2026-11-05T14:00:13+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
         {
           "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
           "link": "https://sspai.com/post/118263",
@@ -466,51 +496,9 @@
           "observed_days": 3
         },
         {
-          "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
-          "link": "https://sspai.com/post/118546",
-          "date": "2026-11-05T14:00:51+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "MacBook Pro 能触屏了，但这只是它最小的升级｜附选购指南",
-          "link": "https://www.ifanr.com/1687989",
-          "date": "2026-11-05T14:00:13+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Bose Ultra 开放式耳机 II 体验：听得见好音质，也升级了舒适感",
-          "link": "https://www.ifanr.com/1687834",
-          "date": "2026-11-05T11:03:42+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "白宫网络监测到住宅代理活动",
-          "link": "https://www.solidot.org/story?sid=85806",
-          "date": "2026-11-05T10:22:27+00:00",
+          "title": "NASA 通过 AI 生成图像宣布 X-70 试验机",
+          "link": "https://www.solidot.org/story?sid=85818",
+          "date": "2026-11-06T10:00:11+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -522,23 +510,9 @@
           "observed_days": 2
         },
         {
-          "title": "Chromebook 统治美国校园，AI 成了没得选的「套餐」",
-          "link": "https://www.ifanr.com/1687912",
-          "date": "2026-11-05T10:00:23+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Bazzite 45 释出",
-          "link": "https://www.solidot.org/story?sid=85805",
-          "date": "2026-11-05T09:56:56+00:00",
+          "title": "中国三季度 CO2 排放下降 3%",
+          "link": "https://www.solidot.org/story?sid=85817",
+          "date": "2026-11-06T09:37:37+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -550,9 +524,23 @@
           "observed_days": 2
         },
         {
-          "title": "一加 Ace 7 Pro 体验：「二号人物」这次想当主角",
-          "link": "https://www.ifanr.com/1687836",
-          "date": "2026-11-05T09:13:13+00:00",
+          "title": "本周看什么 | 最近值得一看的 9 部作品",
+          "link": "https://sspai.com/post/118623",
+          "date": "2026-11-06T09:30:15+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "503.17km/h！比亚迪仰望 U9X 再次刷新全球最速，量产车首次突破 5 字头",
+          "link": "https://www.ifanr.com/1688195",
+          "date": "2026-11-06T09:25:33+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -564,9 +552,23 @@
           "observed_days": 2
         },
         {
-          "title": "新玩意 255｜少数派的编辑们最近买了啥？",
-          "link": "https://sspai.com/post/118541",
-          "date": "2026-11-05T09:11:28+00:00",
+          "title": "Silver Lake 和 PIF 磋商收购 Unity Software",
+          "link": "https://www.solidot.org/story?sid=85816",
+          "date": "2026-11-06T09:22:53+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Solidot"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "iPhone 变强了，但我没有",
+          "link": "https://sspai.com/post/118250",
+          "date": "2026-11-06T06:56:41+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -578,15 +580,15 @@
           "observed_days": 2
         },
         {
-          "title": "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
-          "link": "https://sspai.com/prime/story/30-easy-steamed-dishes",
-          "date": "2026-11-05T07:16:51+00:00",
+          "title": "Salon 宣布终止出版",
+          "link": "https://www.solidot.org/story?sid=85815",
+          "date": "2026-11-06T06:34:02+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "少数派"
+            "Solidot"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -752,6 +754,22 @@
           "observed_days": 2
         },
         {
+          "title": "AI stocks climb after trillions wiped from market values",
+          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+          "date": "2026-11-06T17:03:02+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
           "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
           "date": "2026-11-05T21:56:00+00:00",
@@ -784,34 +802,6 @@
           "observed_days": 1
         },
         {
-          "title": "French protests see numbers surge as unions join strikes over high cost of living",
-          "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo",
-          "date": "2026-11-05T14:42:29+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "前央視節目主講人程萬軍在台尋求庇護未果 被送返泰國",
-          "link": "https://www.bbc.com/zhongwen/articles/ck1l36yzrq75o/trad",
-          "date": "2026-11-05T08:26:48+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
           "title": "黃之鋒勾結罪國安案：重判10年，料出獄已屆40歲",
           "link": "https://www.bbc.com/zhongwen/articles/cm5ynepe9578o/trad",
           "date": "2026-11-05T06:24:50+00:00",
@@ -823,12 +813,26 @@
             "BBC 中文"
           ],
           "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Two dead after bus crashes in France, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
+          "date": "2026-11-06T10:57:14+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "他們在等西西弗斯：黃之鋒身後，那些寫信和探監的前戰友",
-          "link": "https://www.bbc.com/zhongwen/articles/c6zxz94yzngpo/trad",
-          "date": "2026-11-05T05:03:14+00:00",
+          "title": "美國中期選舉：共和黨失去兩院，對華政策與對台軍售會轉向嗎？",
+          "link": "https://www.bbc.com/zhongwen/articles/cqr7ydkrnpxno/trad",
+          "date": "2026-11-06T10:21:19+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -840,9 +844,9 @@
           "observed_days": 2
         },
         {
-          "title": "「這是一場災難」：中期選舉慘敗，共和黨內怒火指向特朗普",
-          "link": "https://www.bbc.com/zhongwen/articles/cw5ynld35e3ro/trad",
-          "date": "2026-11-05T02:36:32+00:00",
+          "title": "澳門國安首案宣判：區錦新囚12年半，妻子斥「莫須有迫害」",
+          "link": "https://www.bbc.com/zhongwen/articles/cw62yyejjrlro/trad",
+          "date": "2026-11-06T06:19:26+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -854,9 +858,9 @@
           "observed_days": 2
         },
         {
-          "title": "美國中期選舉結果對中國和世界各國意味着什麼？",
-          "link": "https://www.bbc.com/zhongwen/articles/ckreyrxvg3xyo/trad",
-          "date": "2026-11-04T21:02:11+00:00",
+          "title": "從蔡康永、《VIVANT》到姆巴佩：北京為何區別處理「辱華」事件？",
+          "link": "https://www.bbc.com/zhongwen/articles/c6gm0rdzm0rdo/trad",
+          "date": "2026-11-06T00:21:23+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -868,15 +872,15 @@
           "observed_days": 2
         },
         {
-          "title": "英王演說稱奴隸貿易是英國歷史「可恥的一章」",
-          "link": "https://www.bbc.com/zhongwen/articles/cqn734rxeye6o/trad",
-          "date": "2026-11-04T07:06:49+00:00",
+          "title": "French protests see numbers surge as unions join strikes over high cost of living",
+          "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo",
+          "date": "2026-11-05T14:42:29+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
           ],
           "sources": [
-            "BBC 中文"
+            "BBC World"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -898,6 +902,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "AI stocks climb after trillions wiped from market values",
+          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+          "date": "2026-11-06T17:03:02+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
@@ -946,6 +966,48 @@
           "observed_days": 3
         },
         {
+          "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+          "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
+          "date": "2026-11-06T09:57:04+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "How does it affect me if share prices fall?",
+          "link": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o",
+          "date": "2026-11-06T09:21:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "PM tells firms to publish salaries in job adverts ahead of new law",
+          "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o",
+          "date": "2026-11-05T22:32:02+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
           "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
           "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o",
           "date": "2026-11-05T15:27:09+00:00",
@@ -972,70 +1034,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Three ways the interest rate rise could affect you",
-          "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o",
-          "date": "2026-11-05T13:08:30+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Interest rates hiked to 4% in first increase in over three years",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo",
-          "date": "2026-11-05T00:00:09+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
-          "link": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
-          "date": "2026-11-04T08:56:45+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo",
-          "date": "2026-11-04T01:36:06+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-06T10:58:23+00:00",
-    "total": 743,
+    "end": "2026-11-06T18:00:32+00:00",
+    "total": 785,
     "items": [
       {
         "title": "Pratt parsing is a black box",
@@ -1130,6 +1136,22 @@
         "observed_days": 2
       },
       {
+        "title": "AI stocks climb after trillions wiped from market values",
+        "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+        "date": "2026-11-06T17:03:02+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
         "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
         "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
         "date": "2026-11-05T21:56:00+00:00",
@@ -1175,24 +1197,52 @@
         ],
         "source_count": 2,
         "observed_days": 1
-      },
-      {
-        "title": "Game Off 2026: The theme is SHIFT",
-        "link": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
-        "date": "2026-11-01T21:36:00+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "GitHub Blog"
-        ],
-        "source_count": 1,
-        "observed_days": 5
       }
     ],
     "by_category": {
       "AI": [
+        {
+          "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+          "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+          "date": "2026-11-05T13:10:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "A new bill could change how the US builds energy infrastructure",
+          "link": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+          "date": "2026-11-05T10:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+          "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+          "date": "2026-11-04T18:50:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
         {
           "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
           "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
@@ -1222,9 +1272,9 @@
           "observed_days": 3
         },
         {
-          "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-          "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-          "date": "2026-11-05T13:10:00+00:00",
+          "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+          "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "date": "2026-11-06T10:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -1236,23 +1286,9 @@
           "observed_days": 2
         },
         {
-          "title": "A new bill could change how the US builds energy infrastructure",
-          "link": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
-          "date": "2026-11-05T10:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
-          "link": "https://www.qbitai.com/2026/11/507787.html",
-          "date": "2026-11-05T07:15:13+00:00",
+          "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+          "link": "https://www.qbitai.com/2026/11/508155.html",
+          "date": "2026-11-06T07:00:29+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -1264,9 +1300,9 @@
           "observed_days": 2
         },
         {
-          "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
-          "link": "https://www.qbitai.com/2026/11/507782.html",
-          "date": "2026-11-05T07:10:56+00:00",
+          "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
+          "link": "https://www.qbitai.com/2026/11/508118.html",
+          "date": "2026-11-06T06:54:17+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -1278,9 +1314,9 @@
           "observed_days": 2
         },
         {
-          "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
-          "link": "https://www.qbitai.com/2026/11/507767.html",
-          "date": "2026-11-05T05:25:37+00:00",
+          "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
+          "link": "https://www.qbitai.com/2026/11/508143.html",
+          "date": "2026-11-06T06:43:14+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -1292,43 +1328,15 @@
           "observed_days": 2
         },
         {
-          "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
-          "link": "https://www.qbitai.com/2026/11/507696.html",
-          "date": "2026-11-05T02:01:51+00:00",
+          "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
+          "link": "https://www.qbitai.com/2026/11/508107.html",
+          "date": "2026-11-06T05:01:47+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
           ],
           "sources": [
             "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
-          "link": "https://www.qbitai.com/2026/11/507707.html",
-          "date": "2026-11-05T01:59:37+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-          "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-          "date": "2026-11-04T18:50:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -1422,7 +1430,7 @@
             "GitHub Blog"
           ],
           "source_count": 1,
-          "observed_days": 5
+          "observed_days": 6
         },
         {
           "title": "美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型",
@@ -1436,7 +1444,7 @@
             "美团技术团队"
           ],
           "source_count": 1,
-          "observed_days": 4
+          "observed_days": 5
         },
         {
           "title": "Arnis turns any place on Earth into a Minecraft world",
@@ -1450,7 +1458,7 @@
             "GitHub Blog"
           ],
           "source_count": 1,
-          "observed_days": 3
+          "observed_days": 4
         },
         {
           "title": "sshhole",
@@ -1464,24 +1472,52 @@
             "Lobsters"
           ],
           "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
-          "title": "Declarative Dragging",
-          "link": "https://declarative-dragging.github.io/",
-          "date": "2026-11-05T00:35:09+00:00",
+          "title": "科技爱好者周刊（第 418 期）：如果科技停止在21世纪初",
+          "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
+          "date": "2026-11-05T23:43:55+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "Lobsters"
+            "阮一峰的网络日志"
           ],
           "source_count": 1,
           "observed_days": 2
         }
       ],
       "科技": [
+        {
+          "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
+          "link": "https://sspai.com/post/118546",
+          "date": "2026-11-05T14:00:51+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "MacBook Pro 能触屏了，但这只是它最小的升级｜附选购指南",
+          "link": "https://www.ifanr.com/1687989",
+          "date": "2026-11-05T14:00:13+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
         {
           "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
           "link": "https://sspai.com/post/118263",
@@ -1511,9 +1547,37 @@
           "observed_days": 3
         },
         {
-          "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
-          "link": "https://sspai.com/post/118546",
-          "date": "2026-11-05T14:00:51+00:00",
+          "title": "NASA 通过 AI 生成图像宣布 X-70 试验机",
+          "link": "https://www.solidot.org/story?sid=85818",
+          "date": "2026-11-06T10:00:11+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Solidot"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "中国三季度 CO2 排放下降 3%",
+          "link": "https://www.solidot.org/story?sid=85817",
+          "date": "2026-11-06T09:37:37+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Solidot"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "本周看什么 | 最近值得一看的 9 部作品",
+          "link": "https://sspai.com/post/118623",
+          "date": "2026-11-06T09:30:15+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -1525,9 +1589,9 @@
           "observed_days": 2
         },
         {
-          "title": "MacBook Pro 能触屏了，但这只是它最小的升级｜附选购指南",
-          "link": "https://www.ifanr.com/1687989",
-          "date": "2026-11-05T14:00:13+00:00",
+          "title": "503.17km/h！比亚迪仰望 U9X 再次刷新全球最速，量产车首次突破 5 字头",
+          "link": "https://www.ifanr.com/1688195",
+          "date": "2026-11-06T09:25:33+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -1539,23 +1603,9 @@
           "observed_days": 2
         },
         {
-          "title": "Bose Ultra 开放式耳机 II 体验：听得见好音质，也升级了舒适感",
-          "link": "https://www.ifanr.com/1687834",
-          "date": "2026-11-05T11:03:42+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "白宫网络监测到住宅代理活动",
-          "link": "https://www.solidot.org/story?sid=85806",
-          "date": "2026-11-05T10:22:27+00:00",
+          "title": "Silver Lake 和 PIF 磋商收购 Unity Software",
+          "link": "https://www.solidot.org/story?sid=85816",
+          "date": "2026-11-06T09:22:53+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -1567,51 +1617,9 @@
           "observed_days": 2
         },
         {
-          "title": "Chromebook 统治美国校园，AI 成了没得选的「套餐」",
-          "link": "https://www.ifanr.com/1687912",
-          "date": "2026-11-05T10:00:23+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Bazzite 45 释出",
-          "link": "https://www.solidot.org/story?sid=85805",
-          "date": "2026-11-05T09:56:56+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "一加 Ace 7 Pro 体验：「二号人物」这次想当主角",
-          "link": "https://www.ifanr.com/1687836",
-          "date": "2026-11-05T09:13:13+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "新玩意 255｜少数派的编辑们最近买了啥？",
-          "link": "https://sspai.com/post/118541",
-          "date": "2026-11-05T09:11:28+00:00",
+          "title": "iPhone 变强了，但我没有",
+          "link": "https://sspai.com/post/118250",
+          "date": "2026-11-06T06:56:41+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -1799,6 +1807,22 @@
           "observed_days": 2
         },
         {
+          "title": "AI stocks climb after trillions wiped from market values",
+          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+          "date": "2026-11-06T17:03:02+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
           "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
           "date": "2026-11-05T21:56:00+00:00",
@@ -1831,34 +1855,6 @@
           "observed_days": 1
         },
         {
-          "title": "French protests see numbers surge as unions join strikes over high cost of living",
-          "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo",
-          "date": "2026-11-05T14:42:29+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "前央視節目主講人程萬軍在台尋求庇護未果 被送返泰國",
-          "link": "https://www.bbc.com/zhongwen/articles/ck1l36yzrq75o/trad",
-          "date": "2026-11-05T08:26:48+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
           "title": "黃之鋒勾結罪國安案：重判10年，料出獄已屆40歲",
           "link": "https://www.bbc.com/zhongwen/articles/cm5ynepe9578o/trad",
           "date": "2026-11-05T06:24:50+00:00",
@@ -1870,12 +1866,26 @@
             "BBC 中文"
           ],
           "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Two dead after bus crashes in France, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
+          "date": "2026-11-06T10:57:14+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "他們在等西西弗斯：黃之鋒身後，那些寫信和探監的前戰友",
-          "link": "https://www.bbc.com/zhongwen/articles/c6zxz94yzngpo/trad",
-          "date": "2026-11-05T05:03:14+00:00",
+          "title": "美國中期選舉：共和黨失去兩院，對華政策與對台軍售會轉向嗎？",
+          "link": "https://www.bbc.com/zhongwen/articles/cqr7ydkrnpxno/trad",
+          "date": "2026-11-06T10:21:19+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -1887,9 +1897,9 @@
           "observed_days": 2
         },
         {
-          "title": "「這是一場災難」：中期選舉慘敗，共和黨內怒火指向特朗普",
-          "link": "https://www.bbc.com/zhongwen/articles/cw5ynld35e3ro/trad",
-          "date": "2026-11-05T02:36:32+00:00",
+          "title": "澳門國安首案宣判：區錦新囚12年半，妻子斥「莫須有迫害」",
+          "link": "https://www.bbc.com/zhongwen/articles/cw62yyejjrlro/trad",
+          "date": "2026-11-06T06:19:26+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -1901,9 +1911,9 @@
           "observed_days": 2
         },
         {
-          "title": "美國中期選舉結果對中國和世界各國意味着什麼？",
-          "link": "https://www.bbc.com/zhongwen/articles/ckreyrxvg3xyo/trad",
-          "date": "2026-11-04T21:02:11+00:00",
+          "title": "從蔡康永、《VIVANT》到姆巴佩：北京為何區別處理「辱華」事件？",
+          "link": "https://www.bbc.com/zhongwen/articles/c6gm0rdzm0rdo/trad",
+          "date": "2026-11-06T00:21:23+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -1947,6 +1957,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "AI stocks climb after trillions wiped from market values",
+          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+          "date": "2026-11-06T17:03:02+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
@@ -1995,6 +2021,48 @@
           "observed_days": 3
         },
         {
+          "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+          "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
+          "date": "2026-11-06T09:57:04+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "How does it affect me if share prices fall?",
+          "link": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o",
+          "date": "2026-11-06T09:21:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "PM tells firms to publish salaries in job adverts ahead of new law",
+          "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o",
+          "date": "2026-11-05T22:32:02+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
           "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
           "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o",
           "date": "2026-11-05T15:27:09+00:00",
@@ -2004,62 +2072,6 @@
           ],
           "sources": [
             "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Faisal Islam: How high will interest rates go?",
-          "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o",
-          "date": "2026-11-05T13:17:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Three ways the interest rate rise could affect you",
-          "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o",
-          "date": "2026-11-05T13:08:30+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Interest rates hiked to 4% in first increase in over three years",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo",
-          "date": "2026-11-05T00:00:09+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
-          "link": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
-          "date": "2026-11-04T08:56:45+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
           ],
           "source_count": 1,
           "observed_days": 2
