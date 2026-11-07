@@ -1,13 +1,28 @@
 {
-  "generated_at": "2026-11-07T10:17:50+00:00",
-  "updated": "2026-11-07T10:17:50+00:00",
+  "generated_at": "2026-11-07T16:51:28+00:00",
+  "updated": "2026-11-07T16:51:28+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-02T00:00:00+08:00",
-    "end": "2026-11-07T10:17:50+00:00",
-    "total": 759,
+    "end": "2026-11-07T16:51:28+00:00",
+    "total": 791,
     "items": [
+      {
+        "title": "Inside GitHub’s new Git storage architecture",
+        "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+        "date": "2026-11-05T20:23:21+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "GitHub Blog",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 3
+      },
       {
         "title": "Pratt parsing is a black box",
         "link": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
@@ -24,16 +39,32 @@
         "observed_days": 3
       },
       {
-        "title": "Inside GitHub’s new Git storage architecture",
-        "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-        "date": "2026-11-05T20:23:21+00:00",
+        "title": "Libghostty 1.0",
+        "link": "https://mitchellh.com/writing/libghostty-1-0",
+        "date": "2026-11-06T23:30:52+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
         ],
         "sources": [
-          "GitHub Blog",
+          "Hacker News",
           "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
+        "title": "AI stocks climb after trillions wiped from market values",
+        "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+        "date": "2026-11-06T17:03:02+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
         ],
         "source_count": 2,
         "observed_days": 2
@@ -100,37 +131,6 @@
         "observed_days": 2
       },
       {
-        "title": "Libghostty 1.0",
-        "link": "https://mitchellh.com/writing/libghostty-1-0",
-        "date": "2026-11-06T23:30:52+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "AI stocks climb after trillions wiped from market values",
-        "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
-        "date": "2026-11-06T17:03:02+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
         "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
         "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
         "date": "2026-11-05T21:56:00+00:00",
@@ -177,7 +177,7 @@
             "MIT Technology Review"
           ],
           "source_count": 1,
-          "observed_days": 3
+          "observed_days": 4
         },
         {
           "title": "A new bill could change how the US builds energy infrastructure",
@@ -191,12 +191,26 @@
             "MIT Technology Review"
           ],
           "source_count": 1,
-          "observed_days": 3
+          "observed_days": 4
         },
         {
           "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
           "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
           "date": "2026-11-04T18:50:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 4
+        },
+        {
+          "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+          "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "date": "2026-11-06T10:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -236,23 +250,9 @@
           "observed_days": 3
         },
         {
-          "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-          "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-          "date": "2026-11-06T10:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
-          "link": "https://www.qbitai.com/2026/11/508155.html",
-          "date": "2026-11-06T07:00:29+00:00",
+          "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+          "link": "https://www.qbitai.com/2026/11/508264.html",
+          "date": "2026-11-07T05:01:17+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -264,9 +264,9 @@
           "observed_days": 2
         },
         {
-          "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
-          "link": "https://www.qbitai.com/2026/11/508118.html",
-          "date": "2026-11-06T06:54:17+00:00",
+          "title": "AGENTS.MD，危险危险危险！！！",
+          "link": "https://www.qbitai.com/2026/11/508244.html",
+          "date": "2026-11-07T03:43:55+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -278,9 +278,9 @@
           "observed_days": 2
         },
         {
-          "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
-          "link": "https://www.qbitai.com/2026/11/508143.html",
-          "date": "2026-11-06T06:43:14+00:00",
+          "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+          "link": "https://www.qbitai.com/2026/11/508196.html",
+          "date": "2026-11-07T03:23:29+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -292,9 +292,9 @@
           "observed_days": 2
         },
         {
-          "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
-          "link": "https://www.qbitai.com/2026/11/508107.html",
-          "date": "2026-11-06T05:01:47+00:00",
+          "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+          "link": "https://www.qbitai.com/2026/11/508184.html",
+          "date": "2026-11-06T15:21:56+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -307,6 +307,21 @@
         }
       ],
       "开发": [
+        {
+          "title": "Inside GitHub’s new Git storage architecture",
+          "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+          "date": "2026-11-05T20:23:21+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "GitHub Blog",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 3
+        },
         {
           "title": "Pratt parsing is a black box",
           "link": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
@@ -323,15 +338,15 @@
           "observed_days": 3
         },
         {
-          "title": "Inside GitHub’s new Git storage architecture",
-          "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-          "date": "2026-11-05T20:23:21+00:00",
+          "title": "Libghostty 1.0",
+          "link": "https://mitchellh.com/writing/libghostty-1-0",
+          "date": "2026-11-06T23:30:52+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "GitHub Blog",
+            "Hacker News",
             "Lobsters"
           ],
           "source_count": 2,
@@ -383,21 +398,6 @@
           "observed_days": 2
         },
         {
-          "title": "Libghostty 1.0",
-          "link": "https://mitchellh.com/writing/libghostty-1-0",
-          "date": "2026-11-06T23:30:52+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
           "title": "So I guess everyone uses LLMs to think now",
           "link": "https://eva.ac/blog/llms/",
           "date": "2026-11-01T21:49:04+00:00",
@@ -424,7 +424,7 @@
             "GitHub Blog"
           ],
           "source_count": 1,
-          "observed_days": 6
+          "observed_days": 7
         },
         {
           "title": "美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型",
@@ -438,7 +438,7 @@
             "美团技术团队"
           ],
           "source_count": 1,
-          "observed_days": 5
+          "observed_days": 6
         },
         {
           "title": "Arnis turns any place on Earth into a Minecraft world",
@@ -452,10 +452,108 @@
             "GitHub Blog"
           ],
           "source_count": 1,
-          "observed_days": 4
+          "observed_days": 5
         }
       ],
       "科技": [
+        {
+          "title": "本周看什么 | 最近值得一看的 9 部作品",
+          "link": "https://sspai.com/post/118623",
+          "date": "2026-11-06T09:30:15+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "503.17km/h！比亚迪仰望 U9X 再次刷新全球最速，量产车首次突破 5 字头",
+          "link": "https://www.ifanr.com/1688195",
+          "date": "2026-11-06T09:25:33+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "iPhone 变强了，但我没有",
+          "link": "https://sspai.com/post/118250",
+          "date": "2026-11-06T06:56:41+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "10 月最值得关注的 17 个产品｜明日产品 WATCHLIST",
+          "link": "https://www.ifanr.com/1688060",
+          "date": "2026-11-06T05:26:24+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
+          "link": "https://sspai.com/post/118570",
+          "date": "2026-11-06T03:06:53+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
+          "link": "https://sspai.com/post/118587",
+          "date": "2026-11-06T00:24:39+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
+          "link": "https://www.ifanr.com/1688032",
+          "date": "2026-11-06T00:15:15+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
         {
           "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
           "link": "https://sspai.com/post/118546",
@@ -497,111 +595,13 @@
           ],
           "source_count": 1,
           "observed_days": 3
-        },
-        {
-          "title": "NASA 通过 AI 生成图像宣布 X-70 试验机",
-          "link": "https://www.solidot.org/story?sid=85818",
-          "date": "2026-11-06T10:00:11+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "中国三季度 CO2 排放下降 3%",
-          "link": "https://www.solidot.org/story?sid=85817",
-          "date": "2026-11-06T09:37:37+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 9 部作品",
-          "link": "https://sspai.com/post/118623",
-          "date": "2026-11-06T09:30:15+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "503.17km/h！比亚迪仰望 U9X 再次刷新全球最速，量产车首次突破 5 字头",
-          "link": "https://www.ifanr.com/1688195",
-          "date": "2026-11-06T09:25:33+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Silver Lake 和 PIF 磋商收购 Unity Software",
-          "link": "https://www.solidot.org/story?sid=85816",
-          "date": "2026-11-06T09:22:53+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "iPhone 变强了，但我没有",
-          "link": "https://sspai.com/post/118250",
-          "date": "2026-11-06T06:56:41+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Salon 宣布终止出版",
-          "link": "https://www.solidot.org/story?sid=85815",
-          "date": "2026-11-06T06:34:02+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "科研": [
         {
-          "title": "Goodbye, cavities? Scientists create gel that could regrow tooth enamel",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261104005059.htm",
-          "date": "2026-11-05T11:37:26+00:00",
+          "title": "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
+          "date": "2026-11-07T10:16:19+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -613,9 +613,65 @@
           "observed_days": 2
         },
         {
-          "title": "The surprising reason women in academia do more parenting than men",
-          "link": "https://www.nature.com/articles/d41586-026-03568-0",
-          "date": "2026-11-05T00:00:00+00:00",
+          "title": "Scientists just found dinosaur blood that survived 115 million years",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
+          "date": "2026-11-06T11:28:01+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Major trial challenges how doctors decide who really needs statins",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261105224604.htm",
+          "date": "2026-11-06T10:59:18+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
+          "date": "2026-11-06T08:21:08+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
+          "date": "2026-11-06T07:12:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Preprint platform offers to pay researchers to review papers, but questions remain",
+          "link": "https://www.nature.com/articles/d41586-026-03442-z",
+          "date": "2026-11-06T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -627,65 +683,9 @@
           "observed_days": 2
         },
         {
-          "title": "A surprising discovery could help aging muscles repair themselves",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261104005226.htm",
-          "date": "2026-11-04T13:26:06+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
-          "date": "2026-11-04T12:23:36+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "NASA is racing against time to save the Hubble Space Telescope",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
-          "date": "2026-11-04T11:22:33+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
-          "date": "2026-11-04T10:43:44+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Spider snooze stages",
-          "link": "https://www.nature.com/articles/d41586-026-03487-0",
-          "date": "2026-11-04T00:00:00+00:00",
+          "title": "Medicinal plants, lessons from mushrooms and the power of smell: Books in brief",
+          "link": "https://www.nature.com/articles/d41586-026-03595-x",
+          "date": "2026-11-06T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -697,9 +697,9 @@
           "observed_days": 2
         },
         {
-          "title": "Why not to wait even a few minutes before fleeing a tsunami",
-          "link": "https://www.nature.com/articles/d41586-026-03539-5",
-          "date": "2026-11-04T00:00:00+00:00",
+          "title": "Cholera bacterium’s good deed: inspiring a glue with rare properties",
+          "link": "https://www.nature.com/articles/d41586-026-03630-x",
+          "date": "2026-11-06T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -711,35 +711,51 @@
           "observed_days": 2
         },
         {
-          "title": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm",
-          "date": "2026-11-03T13:03:02+00:00",
+          "title": "Briefing Chat: Meet the snakes that cartwheel away from trouble",
+          "link": "https://www.nature.com/articles/d41586-026-03632-9",
+          "date": "2026-11-06T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
           ],
           "sources": [
-            "ScienceDaily"
+            "Nature"
           ],
           "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "A 50-year-old mystery of vanishing frogs reveals a hidden killer",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261102202838.htm",
-          "date": "2026-11-03T12:51:53+00:00",
+          "title": "In Vivo CRISPR Base Editing of <i>ANGPTL3</i> for Durable Lipid Lowering",
+          "link": "https://www.nature.com/articles/s41586-026-11233-9",
+          "date": "2026-11-06T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
           ],
           "sources": [
-            "ScienceDaily"
+            "Nature"
           ],
           "source_count": 1,
           "observed_days": 2
         }
       ],
       "综合": [
+        {
+          "title": "AI stocks climb after trillions wiped from market values",
+          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+          "date": "2026-11-06T17:03:02+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
         {
           "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
           "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o",
@@ -755,22 +771,6 @@
           ],
           "source_count": 2,
           "observed_days": 2
-        },
-        {
-          "title": "AI stocks climb after trillions wiped from market values",
-          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
-          "date": "2026-11-06T17:03:02+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
         },
         {
           "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
@@ -816,21 +816,7 @@
             "BBC 中文"
           ],
           "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "Two dead after bus crashes in France, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
-          "date": "2026-11-06T10:57:14+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
+          "observed_days": 4
         },
         {
           "title": "美國中期選舉：共和黨失去兩院，對華政策與對台軍售會轉向嗎？",
@@ -844,7 +830,7 @@
             "BBC 中文"
           ],
           "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
           "title": "澳門國安首案宣判：區錦新囚12年半，妻子斥「莫須有迫害」",
@@ -858,7 +844,7 @@
             "BBC 中文"
           ],
           "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
           "title": "從蔡康永、《VIVANT》到姆巴佩：北京為何區別處理「辱華」事件？",
@@ -872,12 +858,26 @@
             "BBC 中文"
           ],
           "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Paraguay's president impeached and under house arrest after bank collapse",
+          "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
+          "date": "2026-11-07T07:20:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "French protests see numbers surge as unions join strikes over high cost of living",
-          "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo",
-          "date": "2026-11-05T14:42:29+00:00",
+          "title": "Pope in 'pretty good health' as he starts Latin America tour",
+          "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo",
+          "date": "2026-11-07T06:59:48+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -890,6 +890,22 @@
         }
       ],
       "财经": [
+        {
+          "title": "AI stocks climb after trillions wiped from market values",
+          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+          "date": "2026-11-06T17:03:02+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
         {
           "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
           "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o",
@@ -905,22 +921,6 @@
           ],
           "source_count": 2,
           "observed_days": 2
-        },
-        {
-          "title": "AI stocks climb after trillions wiped from market values",
-          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
-          "date": "2026-11-06T17:03:02+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
         },
         {
           "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
@@ -955,6 +955,34 @@
           "observed_days": 1
         },
         {
+          "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+          "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
+          "date": "2026-11-06T09:57:04+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "How does it affect me if share prices fall?",
+          "link": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o",
+          "date": "2026-11-06T09:21:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
           "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
           "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
           "date": "2026-11-03T02:11:13+00:00",
@@ -969,9 +997,23 @@
           "observed_days": 3
         },
         {
-          "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-          "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
-          "date": "2026-11-06T09:57:04+00:00",
+          "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
+          "link": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
+          "date": "2026-11-07T07:37:36+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo",
+          "date": "2026-11-06T17:19:38+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -983,51 +1025,9 @@
           "observed_days": 2
         },
         {
-          "title": "How does it affect me if share prices fall?",
-          "link": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o",
-          "date": "2026-11-06T09:21:50+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "PM tells firms to publish salaries in job adverts ahead of new law",
-          "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o",
-          "date": "2026-11-05T22:32:02+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
-          "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o",
-          "date": "2026-11-05T15:27:09+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Faisal Islam: How high will interest rates go?",
-          "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o",
-          "date": "2026-11-05T13:17:10+00:00",
+          "title": "Why the US midterms sparked an AI stock selloff",
+          "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo",
+          "date": "2026-11-06T16:14:23+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1043,9 +1043,24 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-07T10:17:50+00:00",
-    "total": 849,
+    "end": "2026-11-07T16:51:28+00:00",
+    "total": 881,
     "items": [
+      {
+        "title": "Inside GitHub’s new Git storage architecture",
+        "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+        "date": "2026-11-05T20:23:21+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "GitHub Blog",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 3
+      },
       {
         "title": "Pratt parsing is a black box",
         "link": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
@@ -1062,16 +1077,32 @@
         "observed_days": 3
       },
       {
-        "title": "Inside GitHub’s new Git storage architecture",
-        "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-        "date": "2026-11-05T20:23:21+00:00",
+        "title": "Libghostty 1.0",
+        "link": "https://mitchellh.com/writing/libghostty-1-0",
+        "date": "2026-11-06T23:30:52+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
         ],
         "sources": [
-          "GitHub Blog",
+          "Hacker News",
           "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
+        "title": "AI stocks climb after trillions wiped from market values",
+        "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+        "date": "2026-11-06T17:03:02+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
         ],
         "source_count": 2,
         "observed_days": 2
@@ -1154,37 +1185,6 @@
         "observed_days": 2
       },
       {
-        "title": "Libghostty 1.0",
-        "link": "https://mitchellh.com/writing/libghostty-1-0",
-        "date": "2026-11-06T23:30:52+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "AI stocks climb after trillions wiped from market values",
-        "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
-        "date": "2026-11-06T17:03:02+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
         "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
         "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
         "date": "2026-11-05T21:56:00+00:00",
@@ -1215,7 +1215,7 @@
             "MIT Technology Review"
           ],
           "source_count": 1,
-          "observed_days": 3
+          "observed_days": 4
         },
         {
           "title": "A new bill could change how the US builds energy infrastructure",
@@ -1229,12 +1229,26 @@
             "MIT Technology Review"
           ],
           "source_count": 1,
-          "observed_days": 3
+          "observed_days": 4
         },
         {
           "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
           "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
           "date": "2026-11-04T18:50:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 4
+        },
+        {
+          "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+          "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "date": "2026-11-06T10:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -1274,23 +1288,9 @@
           "observed_days": 3
         },
         {
-          "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-          "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-          "date": "2026-11-06T10:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
-          "link": "https://www.qbitai.com/2026/11/508155.html",
-          "date": "2026-11-06T07:00:29+00:00",
+          "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+          "link": "https://www.qbitai.com/2026/11/508264.html",
+          "date": "2026-11-07T05:01:17+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -1302,9 +1302,9 @@
           "observed_days": 2
         },
         {
-          "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
-          "link": "https://www.qbitai.com/2026/11/508118.html",
-          "date": "2026-11-06T06:54:17+00:00",
+          "title": "AGENTS.MD，危险危险危险！！！",
+          "link": "https://www.qbitai.com/2026/11/508244.html",
+          "date": "2026-11-07T03:43:55+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -1316,9 +1316,9 @@
           "observed_days": 2
         },
         {
-          "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
-          "link": "https://www.qbitai.com/2026/11/508143.html",
-          "date": "2026-11-06T06:43:14+00:00",
+          "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+          "link": "https://www.qbitai.com/2026/11/508196.html",
+          "date": "2026-11-07T03:23:29+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -1330,9 +1330,9 @@
           "observed_days": 2
         },
         {
-          "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
-          "link": "https://www.qbitai.com/2026/11/508107.html",
-          "date": "2026-11-06T05:01:47+00:00",
+          "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+          "link": "https://www.qbitai.com/2026/11/508184.html",
+          "date": "2026-11-06T15:21:56+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -1345,6 +1345,21 @@
         }
       ],
       "开发": [
+        {
+          "title": "Inside GitHub’s new Git storage architecture",
+          "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+          "date": "2026-11-05T20:23:21+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "GitHub Blog",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 3
+        },
         {
           "title": "Pratt parsing is a black box",
           "link": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
@@ -1361,15 +1376,15 @@
           "observed_days": 3
         },
         {
-          "title": "Inside GitHub’s new Git storage architecture",
-          "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-          "date": "2026-11-05T20:23:21+00:00",
+          "title": "Libghostty 1.0",
+          "link": "https://mitchellh.com/writing/libghostty-1-0",
+          "date": "2026-11-06T23:30:52+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "GitHub Blog",
+            "Hacker News",
             "Lobsters"
           ],
           "source_count": 2,
@@ -1421,21 +1436,6 @@
           "observed_days": 2
         },
         {
-          "title": "Libghostty 1.0",
-          "link": "https://mitchellh.com/writing/libghostty-1-0",
-          "date": "2026-11-06T23:30:52+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
           "title": "So I guess everyone uses LLMs to think now",
           "link": "https://eva.ac/blog/llms/",
           "date": "2026-11-01T21:49:04+00:00",
@@ -1462,7 +1462,7 @@
             "GitHub Blog"
           ],
           "source_count": 1,
-          "observed_days": 6
+          "observed_days": 7
         },
         {
           "title": "美团正式发布 LongCat-2.5：面向智能体任务的原生多模态模型",
@@ -1476,7 +1476,7 @@
             "美团技术团队"
           ],
           "source_count": 1,
-          "observed_days": 5
+          "observed_days": 6
         },
         {
           "title": "Arnis turns any place on Earth into a Minecraft world",
@@ -1490,10 +1490,108 @@
             "GitHub Blog"
           ],
           "source_count": 1,
-          "observed_days": 4
+          "observed_days": 5
         }
       ],
       "科技": [
+        {
+          "title": "本周看什么 | 最近值得一看的 9 部作品",
+          "link": "https://sspai.com/post/118623",
+          "date": "2026-11-06T09:30:15+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "503.17km/h！比亚迪仰望 U9X 再次刷新全球最速，量产车首次突破 5 字头",
+          "link": "https://www.ifanr.com/1688195",
+          "date": "2026-11-06T09:25:33+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "iPhone 变强了，但我没有",
+          "link": "https://sspai.com/post/118250",
+          "date": "2026-11-06T06:56:41+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "10 月最值得关注的 17 个产品｜明日产品 WATCHLIST",
+          "link": "https://www.ifanr.com/1688060",
+          "date": "2026-11-06T05:26:24+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
+          "link": "https://sspai.com/post/118570",
+          "date": "2026-11-06T03:06:53+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
+          "link": "https://sspai.com/post/118587",
+          "date": "2026-11-06T00:24:39+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
+          "link": "https://www.ifanr.com/1688032",
+          "date": "2026-11-06T00:15:15+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
         {
           "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
           "link": "https://sspai.com/post/118546",
@@ -1535,111 +1633,13 @@
           ],
           "source_count": 1,
           "observed_days": 3
-        },
-        {
-          "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
-          "link": "https://sspai.com/post/116991",
-          "date": "2026-11-01T07:02:46+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "NASA 通过 AI 生成图像宣布 X-70 试验机",
-          "link": "https://www.solidot.org/story?sid=85818",
-          "date": "2026-11-06T10:00:11+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "中国三季度 CO2 排放下降 3%",
-          "link": "https://www.solidot.org/story?sid=85817",
-          "date": "2026-11-06T09:37:37+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 9 部作品",
-          "link": "https://sspai.com/post/118623",
-          "date": "2026-11-06T09:30:15+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "503.17km/h！比亚迪仰望 U9X 再次刷新全球最速，量产车首次突破 5 字头",
-          "link": "https://www.ifanr.com/1688195",
-          "date": "2026-11-06T09:25:33+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Silver Lake 和 PIF 磋商收购 Unity Software",
-          "link": "https://www.solidot.org/story?sid=85816",
-          "date": "2026-11-06T09:22:53+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "iPhone 变强了，但我没有",
-          "link": "https://sspai.com/post/118250",
-          "date": "2026-11-06T06:56:41+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "科研": [
         {
-          "title": "Goodbye, cavities? Scientists create gel that could regrow tooth enamel",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261104005059.htm",
-          "date": "2026-11-05T11:37:26+00:00",
+          "title": "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
+          "date": "2026-11-07T10:16:19+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -1651,9 +1651,65 @@
           "observed_days": 2
         },
         {
-          "title": "The surprising reason women in academia do more parenting than men",
-          "link": "https://www.nature.com/articles/d41586-026-03568-0",
-          "date": "2026-11-05T00:00:00+00:00",
+          "title": "Scientists just found dinosaur blood that survived 115 million years",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
+          "date": "2026-11-06T11:28:01+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Major trial challenges how doctors decide who really needs statins",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261105224604.htm",
+          "date": "2026-11-06T10:59:18+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
+          "date": "2026-11-06T08:21:08+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
+          "date": "2026-11-06T07:12:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Preprint platform offers to pay researchers to review papers, but questions remain",
+          "link": "https://www.nature.com/articles/d41586-026-03442-z",
+          "date": "2026-11-06T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -1665,65 +1721,9 @@
           "observed_days": 2
         },
         {
-          "title": "A surprising discovery could help aging muscles repair themselves",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261104005226.htm",
-          "date": "2026-11-04T13:26:06+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
-          "date": "2026-11-04T12:23:36+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "NASA is racing against time to save the Hubble Space Telescope",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
-          "date": "2026-11-04T11:22:33+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
-          "date": "2026-11-04T10:43:44+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Spider snooze stages",
-          "link": "https://www.nature.com/articles/d41586-026-03487-0",
-          "date": "2026-11-04T00:00:00+00:00",
+          "title": "Medicinal plants, lessons from mushrooms and the power of smell: Books in brief",
+          "link": "https://www.nature.com/articles/d41586-026-03595-x",
+          "date": "2026-11-06T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -1735,9 +1735,9 @@
           "observed_days": 2
         },
         {
-          "title": "Why not to wait even a few minutes before fleeing a tsunami",
-          "link": "https://www.nature.com/articles/d41586-026-03539-5",
-          "date": "2026-11-04T00:00:00+00:00",
+          "title": "Cholera bacterium’s good deed: inspiring a glue with rare properties",
+          "link": "https://www.nature.com/articles/d41586-026-03630-x",
+          "date": "2026-11-06T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -1749,35 +1749,51 @@
           "observed_days": 2
         },
         {
-          "title": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm",
-          "date": "2026-11-03T13:03:02+00:00",
+          "title": "Briefing Chat: Meet the snakes that cartwheel away from trouble",
+          "link": "https://www.nature.com/articles/d41586-026-03632-9",
+          "date": "2026-11-06T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
           ],
           "sources": [
-            "ScienceDaily"
+            "Nature"
           ],
           "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "A 50-year-old mystery of vanishing frogs reveals a hidden killer",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261102202838.htm",
-          "date": "2026-11-03T12:51:53+00:00",
+          "title": "In Vivo CRISPR Base Editing of <i>ANGPTL3</i> for Durable Lipid Lowering",
+          "link": "https://www.nature.com/articles/s41586-026-11233-9",
+          "date": "2026-11-06T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
           ],
           "sources": [
-            "ScienceDaily"
+            "Nature"
           ],
           "source_count": 1,
           "observed_days": 2
         }
       ],
       "综合": [
+        {
+          "title": "AI stocks climb after trillions wiped from market values",
+          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+          "date": "2026-11-06T17:03:02+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
         {
           "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
           "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o",
@@ -1809,22 +1825,6 @@
           ],
           "source_count": 2,
           "observed_days": 2
-        },
-        {
-          "title": "AI stocks climb after trillions wiped from market values",
-          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
-          "date": "2026-11-06T17:03:02+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
         },
         {
           "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
@@ -1870,21 +1870,7 @@
             "BBC 中文"
           ],
           "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "Two dead after bus crashes in France, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo",
-          "date": "2026-11-06T10:57:14+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
+          "observed_days": 4
         },
         {
           "title": "美國中期選舉：共和黨失去兩院，對華政策與對台軍售會轉向嗎？",
@@ -1898,7 +1884,7 @@
             "BBC 中文"
           ],
           "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
           "title": "澳門國安首案宣判：區錦新囚12年半，妻子斥「莫須有迫害」",
@@ -1912,7 +1898,7 @@
             "BBC 中文"
           ],
           "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
           "title": "從蔡康永、《VIVANT》到姆巴佩：北京為何區別處理「辱華」事件？",
@@ -1926,10 +1912,40 @@
             "BBC 中文"
           ],
           "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Paraguay's president impeached and under house arrest after bank collapse",
+          "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
+          "date": "2026-11-07T07:20:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
           "observed_days": 2
         }
       ],
       "财经": [
+        {
+          "title": "AI stocks climb after trillions wiped from market values",
+          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+          "date": "2026-11-06T17:03:02+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
         {
           "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
           "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o",
@@ -1961,22 +1977,6 @@
           ],
           "source_count": 2,
           "observed_days": 2
-        },
-        {
-          "title": "AI stocks climb after trillions wiped from market values",
-          "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
-          "date": "2026-11-06T17:03:02+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
         },
         {
           "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
@@ -2011,6 +2011,34 @@
           "observed_days": 1
         },
         {
+          "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+          "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
+          "date": "2026-11-06T09:57:04+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "How does it affect me if share prices fall?",
+          "link": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o",
+          "date": "2026-11-06T09:21:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
           "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
           "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
           "date": "2026-11-03T02:11:13+00:00",
@@ -2025,51 +2053,23 @@
           "observed_days": 3
         },
         {
-          "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-          "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
-          "date": "2026-11-06T09:57:04+00:00",
+          "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
+          "link": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
+          "date": "2026-11-07T07:37:36+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
           ],
           "sources": [
-            "BBC Business"
+            "CNBC"
           ],
           "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "How does it affect me if share prices fall?",
-          "link": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o",
-          "date": "2026-11-06T09:21:50+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "PM tells firms to publish salaries in job adverts ahead of new law",
-          "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o",
-          "date": "2026-11-05T22:32:02+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
-          "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o",
-          "date": "2026-11-05T15:27:09+00:00",
+          "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo",
+          "date": "2026-11-06T17:19:38+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
