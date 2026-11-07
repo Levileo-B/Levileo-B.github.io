@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T02:51:39+00:00",
+  "updated": "2026-11-07T10:17:50+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,6 +39,11 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "Paraguay's president impeached and under house arrest after bank collapse",
+          "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-07T07:20:00+00:00"
+        },
+        {
           "title": "AI stocks climb after trillions wiped from market values",
           "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
           "date": "2026-11-06T21:06:25+00:00"
@@ -49,19 +54,14 @@
           "date": "2026-11-06T16:12:22+00:00"
         },
         {
-          "title": "Two dead after bus crashes in France, officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-06T15:33:52+00:00"
+          "title": "Pope in 'pretty good health' as he starts Latin America tour",
+          "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-07T06:59:48+00:00"
         },
         {
           "title": "New wave of bomb threats hit European airlines",
           "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
           "date": "2026-11-06T15:25:35+00:00"
-        },
-        {
-          "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-          "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-06T14:46:03+00:00"
         }
       ]
     },
@@ -103,9 +103,14 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "A disturbing employment trend is hiding beneath the latest strong job numbers",
-          "link": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
-          "date": "2026-11-06T20:11:17+00:00"
+          "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
+          "link": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
+          "date": "2026-11-07T07:37:36+00:00"
+        },
+        {
+          "title": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
+          "link": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
+          "date": "2026-11-07T09:01:57+00:00"
         },
         {
           "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
@@ -113,19 +118,14 @@
           "date": "2026-11-06T21:07:07+00:00"
         },
         {
-          "title": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
-          "link": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
-          "date": "2026-11-06T22:22:53+00:00"
+          "title": "Inside the card-grading empire shaping the price of Pokémon cards",
+          "link": "https://www.cnbc.com/2026/11/06/card-pokemon-grading-psa-collectors-price.html",
+          "date": "2026-11-07T02:00:01+00:00"
         },
         {
-          "title": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
-          "link": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html",
-          "date": "2026-11-06T19:44:33+00:00"
-        },
-        {
-          "title": "OpenAI bugging suspect Alfozan pleads not guilty",
-          "link": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
-          "date": "2026-11-06T21:15:47+00:00"
+          "title": "The race is on to build the first fusion power plant — and Europe is looking to Japan for help",
+          "link": "https://www.cnbc.com/2026/11/07/proxima-fusion-power-japan-supply-chain.html",
+          "date": "2026-11-07T06:00:01+00:00"
         }
       ]
     },
@@ -134,6 +134,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "一个 05 后的个人数码编年史",
+          "link": "https://sspai.com/post/116750",
+          "date": "2026-11-07T09:05:06+00:00"
+        },
         {
           "title": "本周看什么 | 最近值得一看的 9 部作品",
           "link": "https://sspai.com/post/118623",
@@ -153,11 +158,6 @@
           "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
           "link": "https://sspai.com/post/118587",
           "date": "2026-11-06T00:24:39+00:00"
-        },
-        {
-          "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
-          "link": "https://sspai.com/post/118546",
-          "date": "2026-11-05T14:00:51+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+          "title": "Bong: DuckDuckGo bang alternative, open-source and self-hosted",
+          "link": "https://bong.glendalab.com",
+          "date": "2026-11-07T07:48:13+00:00"
+        },
+        {
+          "title": "The Components of Agent Memory",
+          "link": "https://www.anthropic.com/research/components-of-agent-memory",
+          "date": "2026-11-07T06:39:04+00:00"
+        },
+        {
+          "title": "Asahi Linux Progress Linux 7.3",
+          "link": "https://asahilinux.org/2026/11/progress-report-7-3/",
+          "date": "2026-11-07T05:20:18+00:00"
+        },
+        {
+          "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+          "link": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+          "date": "2026-11-07T04:54:36+00:00"
+        },
+        {
+          "title": "I toured Unitree's factory. I'm more bullish on the West",
           "link": "https://josef.cn/blog/unitree",
           "date": "2026-11-07T01:05:16+00:00"
-        },
-        {
-          "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
-          "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-          "date": "2026-11-06T23:37:19+00:00"
-        },
-        {
-          "title": "Libghostty 1.0",
-          "link": "https://mitchellh.com/writing/libghostty-1-0",
-          "date": "2026-11-06T23:30:52+00:00"
-        },
-        {
-          "title": "Outbound SIP calling is now available to all organizations",
-          "link": "https://developers.openai.com/api/docs/guides/voice-sip",
-          "date": "2026-11-06T23:03:55+00:00"
-        },
-        {
-          "title": "Sodium-ion batteries approach cost parity with LFP",
-          "link": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
-          "date": "2026-11-06T23:00:46+00:00"
         }
       ]
     },
@@ -327,29 +327,29 @@
       "url": "https://lobste.rs/rss",
       "items": [
         {
-          "title": "Making musl and proprietary NVIDIA drivers work together",
-          "link": "https://chimera-linux.org/news/2026/11/musl-nvidia.html",
-          "date": "2026-11-06T13:23:14+00:00"
-        },
-        {
           "title": "Libghostty 1.0",
           "link": "https://mitchellh.com/writing/libghostty-1-0",
           "date": "2026-11-06T23:48:03+00:00"
         },
         {
-          "title": "The MustCreate Pattern for Go Tests",
-          "link": "https://mtlynch.io/notes/go-must-create-pattern/",
-          "date": "2026-11-06T15:37:00+00:00"
-        },
-        {
-          "title": "Inside GitHub's new Git storage architecture",
-          "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-          "date": "2026-11-06T17:50:09+00:00"
-        },
-        {
           "title": "The Port That Does Not Exist",
           "link": "https://acid.vegas/blog/the-port-that-does-not-exist/",
           "date": "2026-11-06T23:03:12+00:00"
+        },
+        {
+          "title": "Scriptable GeoDNS: leaving AWS for Bunny",
+          "link": "https://vincent.bernat.ch/en/blog/2026-bunny-geodns",
+          "date": "2026-11-07T07:46:35+00:00"
+        },
+        {
+          "title": "Making musl and proprietary NVIDIA drivers work together",
+          "link": "https://chimera-linux.org/news/2026/11/musl-nvidia.html",
+          "date": "2026-11-06T13:23:14+00:00"
+        },
+        {
+          "title": "The MustCreate Pattern for Go Tests",
+          "link": "https://mtlynch.io/notes/go-must-create-pattern/",
+          "date": "2026-11-06T15:37:00+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[推广] MiroFish: KI-Prognose & KI-Simulation / IA preditiva e simulação multiagente",
-          "link": "https://www.v2ex.com/t/1255142#reply0",
-          "date": "2026-11-07T02:48:32+00:00"
+          "title": "[Android] 一加手机这个来电震动太弱鸡了，安卓阵营有比肩苹果的吗？",
+          "link": "https://www.v2ex.com/t/1255234#reply0",
+          "date": "2026-11-07T10:12:16+00:00"
         },
         {
-          "title": "[程序员] 目前最强的 AI 能否实现这种排查问题的能力？",
-          "link": "https://www.v2ex.com/t/1255141#reply2",
-          "date": "2026-11-07T02:47:37+00:00"
+          "title": "[酷工作] [南京/深圳/上海/广州] SHEIN 11 月新出 8 个技术岗，月薪 25-90K， Agent/算法/搜广推/Go/大数据",
+          "link": "https://www.v2ex.com/t/1255233#reply0",
+          "date": "2026-11-07T10:00:34+00:00"
         },
         {
-          "title": "[程序员] agent 领域最近讨论的 Ontology 本体论 是非技术人员的自嗨吗",
-          "link": "https://www.v2ex.com/t/1255140#reply0",
-          "date": "2026-11-07T02:46:09+00:00"
+          "title": "[Chrome] iOS 新版本底下的控件太大了吧",
+          "link": "https://www.v2ex.com/t/1255232#reply1",
+          "date": "2026-11-07T09:38:09+00:00"
         },
         {
-          "title": "[VPS] 出丽萨 US-LAX-9929VPS 主机 美国家宽 IP，可过户",
-          "link": "https://www.v2ex.com/t/1255139#reply2",
-          "date": "2026-11-07T02:43:26+00:00"
+          "title": "[分享创造] [Dev-circuit-ultra]-自己做的比 OpenSpec 更少上下文、更少流程、更快交付的开发 loop",
+          "link": "https://www.v2ex.com/t/1255229#reply0",
+          "date": "2026-11-07T09:28:38+00:00"
         },
         {
-          "title": "[推广] 做了一个 AI 图片编辑工具，支持用自然语言修图，欢迎体验",
-          "link": "https://www.v2ex.com/t/1255138#reply0",
-          "date": "2026-11-07T02:34:52+00:00"
+          "title": "[推广] 大厂直供 长期收 az gpt / awsb / claude / openai key，日结",
+          "link": "https://www.v2ex.com/t/1255228#reply0",
+          "date": "2026-11-07T09:22:58+00:00"
         }
       ]
     },
@@ -509,29 +509,29 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
-          "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
-          "link": "https://www.qbitai.com/2026/11/508155.html",
-          "date": "2026-11-06T07:00:29+00:00"
+          "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+          "link": "https://www.qbitai.com/2026/11/508264.html",
+          "date": "2026-11-07T05:01:17+00:00"
         },
         {
-          "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
-          "link": "https://www.qbitai.com/2026/11/508118.html",
-          "date": "2026-11-06T06:54:17+00:00"
+          "title": "AGENTS.MD，危险危险危险！！！",
+          "link": "https://www.qbitai.com/2026/11/508244.html",
+          "date": "2026-11-07T03:43:55+00:00"
         },
         {
-          "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
-          "link": "https://www.qbitai.com/2026/11/508143.html",
-          "date": "2026-11-06T06:43:14+00:00"
+          "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+          "link": "https://www.qbitai.com/2026/11/508196.html",
+          "date": "2026-11-07T03:23:29+00:00"
         },
         {
-          "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
-          "link": "https://www.qbitai.com/2026/11/508107.html",
-          "date": "2026-11-06T05:01:47+00:00"
+          "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+          "link": "https://www.qbitai.com/2026/11/508184.html",
+          "date": "2026-11-06T15:21:56+00:00"
         },
         {
-          "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
-          "link": "https://www.qbitai.com/2026/11/507988.html",
-          "date": "2026-11-06T03:36:34+00:00"
+          "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+          "link": "https://www.qbitai.com/2026/11/508174.html",
+          "date": "2026-11-06T09:25:59+00:00"
         }
       ]
     },
@@ -610,6 +610,11 @@
           "date": "2026-11-06T10:59:18+00:00"
         },
         {
+          "title": "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
+          "date": "2026-11-07T10:16:19+00:00"
+        },
+        {
           "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
           "link": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
           "date": "2026-11-06T08:21:08+00:00"
@@ -623,11 +628,6 @@
           "title": "Scientists just found dinosaur blood that survived 115 million years",
           "link": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
           "date": "2026-11-06T11:28:01+00:00"
-        },
-        {
-          "title": "For decades, we were told to avoid full-fat dairy. New research says otherwise",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261105081000.htm",
-          "date": "2026-11-06T05:51:36+00:00"
         }
       ]
     }
