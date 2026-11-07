@@ -1,58 +1,70 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-06T08:30:02.527792+00:00",
-  "attempted_at": "2026-11-06T08:30:02.527792+00:00",
+  "updated": "2026-11-07T07:46:57.691013+00:00",
+  "attempted_at": "2026-11-07T07:46:57.691013+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-11-06T08:30:02.527792+00:00",
+      "last_success": "2026-11-07T07:46:57.691013+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-11-06T08:30:02.527792+00:00",
+      "last_success": "2026-11-07T07:46:57.691013+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-11-06T08:30:02.527792+00:00",
+      "last_success": "2026-11-07T07:46:57.691013+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-11-06T08:30:02.527792+00:00",
+      "last_success": "2026-11-07T07:46:57.691013+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-11-06T08:30:02.527792+00:00",
+      "last_success": "2026-11-07T07:46:57.691013+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-11-06T08:30:02.527792+00:00",
+      "last_success": "2026-11-07T07:46:57.691013+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-11-06T08:30:02.527792+00:00",
+      "last_success": "2026-11-07T07:46:57.691013+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-11-06T08:30:02.527792+00:00",
+      "last_success": "2026-11-07T07:46:57.691013+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.3390/rs18213818",
+      "title": "Observations of Biomass Burning Smoke Transported from Southeast Asia Using a Multi-Wavelength Polarization Raman Lidar",
+      "journal_id": "remote-sensing",
+      "published": "2026-11-06",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18213818",
+      "source": "crossref"
+    },
     {
       "id": "10.1038/s41598-026-78840-4",
       "title": "Reactive path planning for low speed UAVs and mobile robots in static environments using adaptive block coordinate descent logistic regression",
@@ -1792,18 +1804,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.3390/rs18173035",
-      "source": "crossref"
-    },
-    {
-      "id": "10.3390/rs18173024",
-      "title": "Pinus pinaster Seedling Detection in Coastal Dune Plantations Using a UAS Multispectral Point Cloud and Point Transformer V3",
-      "journal_id": "remote-sensing",
-      "published": "2026-09-04",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18173024",
       "source": "crossref"
     },
     {
