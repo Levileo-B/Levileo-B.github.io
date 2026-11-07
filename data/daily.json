@@ -1,91 +1,82 @@
 {
-  "updated": "2026-11-06T23:12:54+00:00",
+  "updated": "2026-11-07T02:51:40+00:00",
   "leetcode": {
-    "date": "2026-11-06",
-    "id": "2747",
-    "title": "Count Zero Request Servers",
-    "titleEn": "Count Zero Request Servers",
-    "slug": "count-zero-request-servers",
+    "date": "2026-11-07",
+    "id": "1882",
+    "title": "Process Tasks Using Servers",
+    "titleEn": "Process Tasks Using Servers",
+    "slug": "process-tasks-using-servers",
     "difficulty": "Medium",
     "tags": [
       "Array",
-      "Hash Table",
-      "Sliding Window",
-      "Sorting"
+      "Heap (Priority Queue)"
     ],
-    "link": "https://leetcode.com/problems/count-zero-request-servers/",
+    "link": "https://leetcode.com/problems/process-tasks-using-servers/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Bill Madden (soldier)",
-    "text": "Horace William Madden was an Australian Army soldier who was posthumously awarded the George Cross, the highest award for extraordinary acts of gallantry away from the field of battle that could be awarded to a member of the Australian armed forces at the time. The citation for his award highlighted his \"undaunted\" resistance and \"outstanding heroism\" while a prisoner of war of the Chinese forces during the Korean War, which was \"an inspiration to all his fellow prisoners\". It was the highest decoration awarded to an Australian during the Korean War.",
-    "words": 91,
-    "url": "https://en.wikipedia.org/wiki/Bill_Madden_(soldier)",
-    "date": "2026-11-06",
+    "title": "Premise",
+    "text": "A premise is a proposition offered to support a conclusion. Premises are true or false statements that act as the starting points of arguments by presenting reasons to substantiate or refute assertions. Each argument is made up of a set of premises together with a conclusion. For example, the premises \"all men are mortal\" and \"Socrates is a man\" guarantee the conclusion \"Socrates is mortal\". In ordinary language, premises can appear in the middle of a passage, often marked by indicator words, such as since and because. In formal logic, a common approach is to write each premise on a separate line, known as standard form.",
+    "words": 106,
+    "url": "https://en.wikipedia.org/wiki/Premise",
+    "date": "2026-11-07",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Freedom and Power",
-    "creator": "Wolff (Raphael G.) Studios, Inc.",
-    "year": "1952",
-    "url": "https://archive.org/download/0789_Freedom_and_Power_22_29_01_09/0789_Freedom_and_Power_22_29_01_09.m4v",
-    "page": "https://archive.org/details/0789_Freedom_and_Power_22_29_01_09",
-    "date": "2026-11-06",
+    "title": "Home movie: 010004_001: 1940s San Francisco Bay and waterfront",
+    "creator": "",
+    "year": "",
+    "url": "https://archive.org/download/010004-001/010004_001.m4v",
+    "page": "https://archive.org/details/010004-001",
+    "date": "2026-11-07",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Bizzare Eyes [VSS007]",
-      "artist": "Plasma",
-      "url": "https://archive.org/download/VSS007/Plasma%20-%20Bizzare%20Eyes%20-%2001%20Sick%20Beat.mp3",
-      "page": "https://archive.org/details/VSS007",
-      "license": "Creative Commons"
+      "title": "Krii - Paranoiaphobia Remix [RBD-059]",
+      "artist": "Krii",
+      "url": "https://archive.org/download/059/rbd-059-01-krii-paranoiaphobia_remix.mp3",
+      "page": "https://archive.org/details/059",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/deed-music"
     },
     {
-      "title": "[brq 05] ODERAUFBROT 10 Jahre - die Remixtracks",
-      "artist": "",
-      "url": "https://archive.org/download/brq05ODERAUFBROT10JahreDieRemixtracks/1RMXSuspicion.mp3",
-      "page": "https://archive.org/details/brq05ODERAUFBROT10JahreDieRemixtracks",
-      "license": "http://creativecommons.org/licenses/by-nd/2.0/"
+      "title": "Domestic Turmoil - Paroxysm [enrmp090]",
+      "artist": "Domestic Turmoil",
+      "url": "https://archive.org/download/enrmp090_domestic_turmoil_-_paroxysm/01_domestic_turmoil_-_aegri_somnia.mp3",
+      "page": "https://archive.org/details/enrmp090_domestic_turmoil_-_paroxysm",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
-      "title": "[blpsq021] Piltdown Sound - doppler",
-      "artist": "",
-      "url": "https://archive.org/download/blpsq021PiltdownSound-Doppler/blpsq021_01_piltdown_sound_-_doppler.mp3",
-      "page": "https://archive.org/details/blpsq021PiltdownSound-Doppler",
-      "license": "Creative Commons"
+      "title": "Exalot - Memoirs Fiola [USC-WR-1208.0082]",
+      "artist": "Exalot",
+      "url": "https://archive.org/download/exalot-memoirs-fiola/01.Memoirs%20Fiola.mp3",
+      "page": "https://archive.org/details/exalot-memoirs-fiola",
+      "license": "http://creativecommons.org/licenses/by-sa/3.0/"
     },
     {
-      "title": "[UPL 046] Underpopular Hits vol.2 - songs from Underpolen Netlabel releases 021-041",
-      "artist": "Underpolen Netlabel",
-      "url": "https://archive.org/download/UnderpopularHitsVol2/01%20poj.wlkp%20-%20Wiatr.mp3",
-      "page": "https://archive.org/details/UnderpopularHitsVol2",
+      "title": "Una Lee - (f)rog (f)rog (GFR, 073)",
+      "artist": "Una Lee/GFR",
+      "url": "https://archive.org/download/UnaLee-frogfroggfr073/1.frog.mp3",
+      "page": "https://archive.org/details/UnaLee-frogfroggfr073",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "Various Artists - Mystic Moods [WM063]",
+      "artist": "Various",
+      "url": "https://archive.org/download/WM063/WM063-01-HathawayFamilyPlot.mp3",
+      "page": "https://archive.org/details/WM063",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "[blpsq047] Scozbor - Holons All the Way",
-      "artist": "",
-      "url": "https://archive.org/download/blpsq047/blpsq047_01_scozbor_-_holons_all_the_way.mp3",
-      "page": "https://archive.org/details/blpsq047",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "Radio On and Costes",
-      "artist": "Radio On",
-      "url": "https://archive.org/download/RadioOnAndCostes/costes-interview.mp3",
-      "page": "https://archive.org/details/RadioOnAndCostes",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/nl/"
-    },
-    {
-      "title": "Isabel Ros De Castro - A Pie De Luz (el Latido Del Corazón)",
-      "artist": "Hortus Conclusus Records",
-      "url": "https://archive.org/download/IsabelRosDeCastroAPieDeLuz_HCR2016/Isabel%20Ros%20De%20Castro%20-%20A%20Pie%20De%20Luz%20%28el%20latido%20del%20coraz%C3%B3n%29%20-%20HCR%202016.mp3",
-      "page": "https://archive.org/details/IsabelRosDeCastroAPieDeLuz_HCR2016",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "Vytis Greatest Hits Vol. 3",
+      "artist": "Vytis",
+      "url": "https://archive.org/download/VytisGreatestHitsVol.3/Vytis%20-%20Greatest%20Hits%20Vol.%203.mp3",
+      "page": "https://archive.org/details/VytisGreatestHitsVol.3",
+      "license": "Creative Commons"
     },
     {
       "title": "Voices Of The Angels In The Head",
@@ -95,32 +86,39 @@
       "license": "Creative Commons"
     },
     {
-      "title": "DTRASH123 - Feuh! - Trash-Test",
-      "artist": "Feuh!",
-      "url": "https://archive.org/download/DTRASH123-Feuh-Trash-Test/dtrash123_01_sarkophage_vbr.mp3",
-      "page": "https://archive.org/details/DTRASH123-Feuh-Trash-Test",
-      "license": "http://creativecommons.org/licenses/by-nc/2.5/ca/"
-    },
-    {
-      "title": "Anthony Manning - Elastic Variations Vol.1 [ird051]",
-      "artist": "",
-      "url": "https://archive.org/download/ird051/ird051-anthony-manning-01-elastic-variations-1-unreleased-studio-outtake.mp3",
-      "page": "https://archive.org/details/ird051",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "tng1035 Marc McNulty - Minumism",
-      "artist": "",
-      "url": "https://archive.org/download/Tng1035MarcMcnulty-Minumism/tng1035_01_elenime.mp3",
-      "page": "https://archive.org/details/Tng1035MarcMcnulty-Minumism",
+      "title": "DJ PulseID's Netlabel Music PodCast no.12 [ponmp012]",
+      "artist": "DJ PulseID",
+      "url": "https://archive.org/download/ponmp012/podcast-012-2012.mp3",
+      "page": "https://archive.org/details/ponmp012",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Collaboration N 01",
-      "artist": "Bridal creeper/Diigitae",
-      "url": "https://archive.org/download/bridal-creeper-diigitae-collaboration-n-01/Bridal%20Creeper%20-%20Diigitae%20-%20collaboration%20n01%20-%2001%20base%20jump.mp3",
-      "page": "https://archive.org/details/bridal-creeper-diigitae-collaboration-n-01",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      "title": "Omicron Rainbow EP",
+      "artist": "Morkebla",
+      "url": "https://archive.org/download/005_Morkebla_Omicron_Rainbow/01-Morkebla-Zoetrope_II.mp3",
+      "page": "https://archive.org/details/005_Morkebla_Omicron_Rainbow",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Manifesto Vol. 6",
+      "artist": "S.C.U.M.M.",
+      "url": "https://archive.org/download/SCUMM0006/04_Nekirab12.mp3",
+      "page": "https://archive.org/details/SCUMM0006",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "ユニヴォェス/メタヴォェス",
+      "artist": "Yukiga Futte Uresii",
+      "url": "https://archive.org/download/UnivoeseMetavoese/01_Univoese.mp3",
+      "page": "https://archive.org/details/UnivoeseMetavoese",
+      "license": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "title": "58. They are Less Active in Cooler Weather",
+      "artist": "MWroblewski",
+      "url": "https://archive.org/download/TheyAreLessActiveInCoolerWeather/1.%20They%20are%20Less%20Active%20in%20Cooler%20Weather.mp3",
+      "page": "https://archive.org/details/TheyAreLessActiveInCoolerWeather",
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T23:12:54+00:00",
+  "updated": "2026-11-07T02:51:39+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -167,6 +167,11 @@
       "url": "https://www.ifanr.com/feed",
       "items": [
         {
+          "title": "早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票",
+          "link": "https://www.ifanr.com/1688251?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-11-07T00:27:17+00:00"
+        },
+        {
           "title": "503.17km/h！比亚迪仰望 U9X 再次刷新全球最速，量产车首次突破 5 字头",
           "link": "https://www.ifanr.com/1688195?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-11-06T09:25:33+00:00"
@@ -185,11 +190,6 @@
           "title": "MacBook Pro 能触屏了，但这只是它最小的升级｜附选购指南",
           "link": "https://www.ifanr.com/1687989?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-11-05T14:00:13+00:00"
-        },
-        {
-          "title": "23.98 万元起！智己 LS8 NEO 正式上市，转向刹车全面线控",
-          "link": "https://www.ifanr.com/1688228?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-11-05T12:44:28+00:00"
         }
       ]
     },
@@ -231,6 +231,11 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+          "date": "2026-11-06T23:46:18+00:00"
+        },
+        {
           "title": "China reportedly recruited AI exec to spy on Jensen Huang",
           "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
           "date": "2026-11-06T23:00:44+00:00"
@@ -249,11 +254,6 @@
           "title": "All the latest updates on AI data centers",
           "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
           "date": "2026-11-06T20:03:32+00:00"
-        },
-        {
-          "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
-          "link": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
-          "date": "2026-11-06T19:47:02+00:00"
         }
       ]
     },
@@ -263,6 +263,21 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
+          "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+          "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+          "date": "2026-11-06T23:09:45+00:00"
+        },
+        {
+          "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+          "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+          "date": "2026-11-06T22:41:37+00:00"
+        },
+        {
+          "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+          "link": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+          "date": "2026-11-06T22:08:47+00:00"
+        },
+        {
           "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
           "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
           "date": "2026-11-06T20:56:41+00:00"
@@ -271,21 +286,38 @@
           "title": "Earth's churning mantle may have created the Great Unconformity",
           "link": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
           "date": "2026-11-06T20:24:20+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Hacker News",
+      "category": "开发",
+      "url": "https://hnrss.org/frontpage?count=10",
+      "items": [
+        {
+          "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+          "link": "https://josef.cn/blog/unitree",
+          "date": "2026-11-07T01:05:16+00:00"
         },
         {
-          "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
-          "link": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
-          "date": "2026-11-06T20:05:30+00:00"
+          "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+          "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+          "date": "2026-11-06T23:37:19+00:00"
         },
         {
-          "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
-          "link": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
-          "date": "2026-11-06T19:50:18+00:00"
+          "title": "Libghostty 1.0",
+          "link": "https://mitchellh.com/writing/libghostty-1-0",
+          "date": "2026-11-06T23:30:52+00:00"
         },
         {
-          "title": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
-          "link": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
-          "date": "2026-11-06T19:12:28+00:00"
+          "title": "Outbound SIP calling is now available to all organizations",
+          "link": "https://developers.openai.com/api/docs/guides/voice-sip",
+          "date": "2026-11-06T23:03:55+00:00"
+        },
+        {
+          "title": "Sodium-ion batteries approach cost parity with LFP",
+          "link": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+          "date": "2026-11-06T23:00:46+00:00"
         }
       ]
     },
@@ -300,6 +332,11 @@
           "date": "2026-11-06T13:23:14+00:00"
         },
         {
+          "title": "Libghostty 1.0",
+          "link": "https://mitchellh.com/writing/libghostty-1-0",
+          "date": "2026-11-06T23:48:03+00:00"
+        },
+        {
           "title": "The MustCreate Pattern for Go Tests",
           "link": "https://mtlynch.io/notes/go-must-create-pattern/",
           "date": "2026-11-06T15:37:00+00:00"
@@ -310,14 +347,9 @@
           "date": "2026-11-06T17:50:09+00:00"
         },
         {
-          "title": "What are you doing this weekend?",
-          "link": "https://lobste.rs/s/jmdchp/what_are_you_doing_this_weekend",
-          "date": "2026-11-06T09:15:23+00:00"
-        },
-        {
-          "title": "Upgrading NetBSD from 11.0 to 11.1",
-          "link": "https://www.dwarmstrong.org/netbsd-upgrade/",
-          "date": "2026-11-06T15:22:55+00:00"
+          "title": "The Port That Does Not Exist",
+          "link": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+          "date": "2026-11-06T23:03:12+00:00"
         }
       ]
     },
@@ -327,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享创造] ConvertPixel：浏览器本地处理的图片工具箱",
-          "link": "https://www.v2ex.com/t/1255124#reply0",
-          "date": "2026-11-06T22:00:02+00:00"
+          "title": "[推广] MiroFish: KI-Prognose & KI-Simulation / IA preditiva e simulação multiagente",
+          "link": "https://www.v2ex.com/t/1255142#reply0",
+          "date": "2026-11-07T02:48:32+00:00"
         },
         {
-          "title": "[问与答] 出圈的 ai 短剧持械入宋算是 ai 短剧代表么？",
-          "link": "https://www.v2ex.com/t/1255123#reply0",
-          "date": "2026-11-06T20:54:55+00:00"
+          "title": "[程序员] 目前最强的 AI 能否实现这种排查问题的能力？",
+          "link": "https://www.v2ex.com/t/1255141#reply2",
+          "date": "2026-11-07T02:47:37+00:00"
         },
         {
-          "title": "[推广] 凌晨 3 点 你还在努力吗？",
-          "link": "https://www.v2ex.com/t/1255121#reply0",
-          "date": "2026-11-06T19:58:30+00:00"
+          "title": "[程序员] agent 领域最近讨论的 Ontology 本体论 是非技术人员的自嗨吗",
+          "link": "https://www.v2ex.com/t/1255140#reply0",
+          "date": "2026-11-07T02:46:09+00:00"
         },
         {
-          "title": "[Claude] Claude 安卓 App 无法登录。",
-          "link": "https://www.v2ex.com/t/1255120#reply0",
-          "date": "2026-11-06T19:18:50+00:00"
+          "title": "[VPS] 出丽萨 US-LAX-9929VPS 主机 美国家宽 IP，可过户",
+          "link": "https://www.v2ex.com/t/1255139#reply2",
+          "date": "2026-11-07T02:43:26+00:00"
         },
         {
-          "title": "[天黑以后] 20261107 午夜俱乐部",
-          "link": "https://www.v2ex.com/t/1255119#reply8",
-          "date": "2026-11-06T18:57:39+00:00"
+          "title": "[推广] 做了一个 AI 图片编辑工具，支持用自然语言修图，欢迎体验",
+          "link": "https://www.v2ex.com/t/1255138#reply0",
+          "date": "2026-11-07T02:34:52+00:00"
         }
       ]
     },
@@ -602,7 +634,6 @@
   ],
   "failed": [
     "36 氪",
-    "Hacker News",
     "酷壳"
   ]
 }

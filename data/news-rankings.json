@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-06T23:12:54+00:00",
-  "updated": "2026-11-06T23:12:54+00:00",
+  "generated_at": "2026-11-07T02:51:40+00:00",
+  "updated": "2026-11-07T02:51:39+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-02T00:00:00+08:00",
-    "end": "2026-11-06T23:12:54+00:00",
-    "total": 720,
+    "end": "2026-11-07T02:51:40+00:00",
+    "total": 736,
     "items": [
       {
         "title": "Pratt parsing is a black box",
@@ -100,6 +100,21 @@
         "observed_days": 2
       },
       {
+        "title": "Libghostty 1.0",
+        "link": "https://mitchellh.com/writing/libghostty-1-0",
+        "date": "2026-11-06T23:30:52+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
         "title": "AI stocks climb after trillions wiped from market values",
         "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
         "date": "2026-11-06T17:03:02+00:00",
@@ -143,21 +158,6 @@
         "sources": [
           "BBC Business",
           "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "So I guess everyone uses LLMs to think now",
-        "link": "https://eva.ac/blog/llms/",
-        "date": "2026-11-01T21:49:04+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
         ],
         "source_count": 2,
         "observed_days": 1
@@ -383,6 +383,21 @@
           "observed_days": 2
         },
         {
+          "title": "Libghostty 1.0",
+          "link": "https://mitchellh.com/writing/libghostty-1-0",
+          "date": "2026-11-06T23:30:52+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "So I guess everyone uses LLMs to think now",
           "link": "https://eva.ac/blog/llms/",
           "date": "2026-11-01T21:49:04+00:00",
@@ -438,20 +453,6 @@
           ],
           "source_count": 1,
           "observed_days": 4
-        },
-        {
-          "title": "sshhole",
-          "link": "https://sshhole.com/",
-          "date": "2026-11-05T12:24:42+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 3
         }
       ],
       "科技": [
@@ -1042,8 +1043,8 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-06T23:12:54+00:00",
-    "total": 810,
+    "end": "2026-11-07T02:51:40+00:00",
+    "total": 826,
     "items": [
       {
         "title": "Pratt parsing is a black box",
@@ -1153,6 +1154,21 @@
         "observed_days": 2
       },
       {
+        "title": "Libghostty 1.0",
+        "link": "https://mitchellh.com/writing/libghostty-1-0",
+        "date": "2026-11-06T23:30:52+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
         "title": "AI stocks climb after trillions wiped from market values",
         "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
         "date": "2026-11-06T17:03:02+00:00",
@@ -1172,22 +1188,6 @@
         "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
         "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
         "date": "2026-11-05T21:56:00+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "Shop freezers in seven European countries hit by cyber-attack",
-        "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo",
-        "date": "2026-11-02T15:12:22+00:00",
         "date_is_observed": false,
         "categories": [
           "综合",
@@ -1421,6 +1421,21 @@
           "observed_days": 2
         },
         {
+          "title": "Libghostty 1.0",
+          "link": "https://mitchellh.com/writing/libghostty-1-0",
+          "date": "2026-11-06T23:30:52+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "So I guess everyone uses LLMs to think now",
           "link": "https://eva.ac/blog/llms/",
           "date": "2026-11-01T21:49:04+00:00",
@@ -1476,20 +1491,6 @@
           ],
           "source_count": 1,
           "observed_days": 4
-        },
-        {
-          "title": "sshhole",
-          "link": "https://sshhole.com/",
-          "date": "2026-11-05T12:24:42+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 3
         }
       ],
       "科技": [
