@@ -1,31 +1,17 @@
 {
-  "generated_at": "2026-11-08T19:46:04+00:00",
-  "updated": "2026-11-08T19:46:04+00:00",
+  "generated_at": "2026-11-08T23:45:43+00:00",
+  "updated": "2026-11-08T23:45:43+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-09T00:00:00+08:00",
-    "end": "2026-11-08T19:46:04+00:00",
-    "total": 17,
+    "end": "2026-11-08T23:45:43+00:00",
+    "total": 36,
     "items": [
       {
-        "title": "Apple is racing to make Siri more agentic",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-        "date": "2026-11-08T19:18:19+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "The Verge"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[推广] [推广] 用自己的 Google AI Pro / Ultra 订阅调用 API： Flow（Veo 3.1、Omni、Nano Banana）、Vids、NotebookLM、Flow Music",
-        "link": "https://www.v2ex.com/t/1255411",
-        "date": "2026-11-08T19:04:08+00:00",
+        "title": "[问与答] 各位还记得自己第一台手机什么品牌型号吗",
+        "link": "https://www.v2ex.com/t/1255417",
+        "date": "2026-11-08T23:30:15+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -37,107 +23,37 @@
         "observed_days": 1
       },
       {
-        "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
-        "link": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
-        "date": "2026-11-08T18:57:56+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "财经"
-        ],
-        "sources": [
-          "CNBC"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-        "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-        "date": "2026-11-08T18:43:07+00:00",
+        "title": "[Apple] 重新定义全平台 IPTV 播放器，自研内核极速快， V 友专属福利来了",
+        "link": "https://www.v2ex.com/t/1255416",
+        "date": "2026-11-08T23:15:32+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
         ],
         "sources": [
-          "Hacker News"
+          "V2EX"
         ],
         "source_count": 1,
         "observed_days": 1
       },
       {
-        "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-        "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o",
-        "date": "2026-11-08T18:22:53+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC World"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
-        "link": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
-        "date": "2026-11-08T18:18:30+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "财经"
-        ],
-        "sources": [
-          "CNBC"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-        "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-        "date": "2026-11-08T18:16:07+00:00",
+        "title": "[分享发现] 周一新闻：英伟达黄仁勋出轨----《至公司全体的一封信》",
+        "link": "https://www.v2ex.com/t/1255415",
+        "date": "2026-11-08T22:59:15+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
         ],
         "sources": [
-          "Hacker News"
+          "V2EX"
         ],
         "source_count": 1,
         "observed_days": 1
       },
       {
-        "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-        "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo",
-        "date": "2026-11-08T17:35:13+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC World"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
-        "link": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
-        "date": "2026-11-08T17:32:55+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Elvis and Eminem rights holders are suing Suno",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-        "date": "2026-11-08T17:23:19+00:00",
+        "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+        "date": "2026-11-08T22:54:50+00:00",
         "date_is_observed": false,
         "categories": [
           "科技"
@@ -147,14 +63,98 @@
         ],
         "source_count": 1,
         "observed_days": 1
+      },
+      {
+        "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+        "link": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+        "date": "2026-11-08T22:53:57+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "财经"
+        ],
+        "sources": [
+          "CNBC"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "派早报：特斯拉将停产 Cybertruck",
+        "link": "https://sspai.com/post/118805",
+        "date": "2026-11-08T22:41:56+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "科技"
+        ],
+        "sources": [
+          "少数派"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+        "link": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+        "date": "2026-11-08T22:37:22+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "科技"
+        ],
+        "sources": [
+          "The Verge"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Chimera Vocal Synth",
+        "link": "https://chimera-vocal-synth.vercel.app/",
+        "date": "2026-11-08T22:36:03+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+        "link": "https://ketchup3d.github.io/app/",
+        "date": "2026-11-08T22:35:35+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[投资] 黄仁勋承认出轨 英伟达董事会正在展开对黄仁勋是否成为间谍目标的调查",
+        "link": "https://www.v2ex.com/t/1255414",
+        "date": "2026-11-08T22:34:59+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
       }
     ],
     "by_category": {
       "开发": [
         {
-          "title": "[推广] [推广] 用自己的 Google AI Pro / Ultra 订阅调用 API： Flow（Veo 3.1、Omni、Nano Banana）、Vids、NotebookLM、Flow Music",
-          "link": "https://www.v2ex.com/t/1255411",
-          "date": "2026-11-08T19:04:08+00:00",
+          "title": "[问与答] 各位还记得自己第一台手机什么品牌型号吗",
+          "link": "https://www.v2ex.com/t/1255417",
+          "date": "2026-11-08T23:30:15+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -166,79 +166,9 @@
           "observed_days": 1
         },
         {
-          "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-          "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-          "date": "2026-11-08T18:43:07+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-          "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-          "date": "2026-11-08T18:16:07+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
-          "link": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
-          "date": "2026-11-08T17:32:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "A Little Snitch for Windows",
-          "link": "https://packethound.app/",
-          "date": "2026-11-08T17:16:07+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "A field guide to CAPTCHA types and how they break",
-          "link": "https://github.com/vsmutok/FuckCaptcha",
-          "date": "2026-11-08T17:09:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[VPS] 基于大佬的脚本写了一个 vps 测速脚本",
-          "link": "https://www.v2ex.com/t/1255409",
-          "date": "2026-11-08T16:59:39+00:00",
+          "title": "[Apple] 重新定义全平台 IPTV 播放器，自研内核极速快， V 友专属福利来了",
+          "link": "https://www.v2ex.com/t/1255416",
+          "date": "2026-11-08T23:15:32+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -250,9 +180,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] 01Router：一个 API 接入视频、图片、音频和聊天模型",
-          "link": "https://www.v2ex.com/t/1255408",
-          "date": "2026-11-08T16:43:05+00:00",
+          "title": "[分享发现] 周一新闻：英伟达黄仁勋出轨----《至公司全体的一封信》",
+          "link": "https://www.v2ex.com/t/1255415",
+          "date": "2026-11-08T22:59:15+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -264,9 +194,37 @@
           "observed_days": 1
         },
         {
-          "title": "[宽带症候群] 阿里云香港/腾讯云香港 往广东电信 163 高峰期简单测试",
-          "link": "https://www.v2ex.com/t/1255407",
-          "date": "2026-11-08T16:42:15+00:00",
+          "title": "Chimera Vocal Synth",
+          "link": "https://chimera-vocal-synth.vercel.app/",
+          "date": "2026-11-08T22:36:03+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+          "link": "https://ketchup3d.github.io/app/",
+          "date": "2026-11-08T22:35:35+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[投资] 黄仁勋承认出轨 英伟达董事会正在展开对黄仁勋是否成为间谍目标的调查",
+          "link": "https://www.v2ex.com/t/1255414",
+          "date": "2026-11-08T22:34:59+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -278,21 +236,133 @@
           "observed_days": 1
         },
         {
-          "title": "Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
-          "link": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
-          "date": "2026-11-08T16:36:17+00:00",
+          "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+          "link": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+          "date": "2026-11-08T22:20:09+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "Lobsters"
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Show HN: SafeScript, a safe version of JavaScript for executing untrusted code",
+          "link": "https://github.com/SafeScript/safescript",
+          "date": "2026-11-08T21:26:33+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Ask HN: What are you working on? (November 2026)",
+          "link": "https://news.ycombinator.com/item?id=50417407",
+          "date": "2026-11-08T21:20:20+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[问与答] 有没有视觉设计平面设计比较好的模型推荐",
+          "link": "https://www.v2ex.com/t/1255413",
+          "date": "2026-11-08T20:12:30+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
           ],
           "source_count": 1,
           "observed_days": 1
         }
       ],
       "科技": [
+        {
+          "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+          "date": "2026-11-08T22:54:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "派早报：特斯拉将停产 Cybertruck",
+          "link": "https://sspai.com/post/118805",
+          "date": "2026-11-08T22:41:56+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+          "link": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+          "date": "2026-11-08T22:37:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+          "date": "2026-11-08T20:55:35+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Epic Games Launcher is coming to SteamOS",
+          "link": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+          "date": "2026-11-08T20:52:05+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "Apple is racing to make Siri more agentic",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
@@ -354,6 +424,34 @@
       ],
       "财经": [
         {
+          "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+          "link": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+          "date": "2026-11-08T22:53:57+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
+          "link": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+          "date": "2026-11-08T21:53:02+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
           "link": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
           "date": "2026-11-08T18:57:56+00:00",
@@ -386,8 +484,8 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-08T19:46:04+00:00",
-    "total": 984,
+    "end": "2026-11-08T23:45:43+00:00",
+    "total": 1003,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
