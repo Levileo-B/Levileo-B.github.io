@@ -1,11 +1,16 @@
 {
-  "updated": "2026-11-08T00:40:53+00:00",
+  "updated": "2026-11-08T07:25:25+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "波蘭克拉科夫「極右翼」槍擊案致六人死亡 我們所知多少",
+          "link": "https://www.bbc.com/zhongwen/articles/c64g1n74j259o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-08T06:29:12+00:00"
+        },
         {
           "title": "美國中期選舉：共和黨失去兩院，對華政策與對台軍售會轉向嗎？",
           "link": "https://www.bbc.com/zhongwen/articles/cqr7ydkrnpxno/trad?at_medium=RSS&at_campaign=rss",
@@ -22,11 +27,6 @@
           "date": "2026-11-06T13:11:42+00:00"
         },
         {
-          "title": "黃之鋒勾結罪國安案：重判10年，料出獄已屆40歲",
-          "link": "https://www.bbc.com/zhongwen/articles/cm5ynepe9578o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-05T16:26:38+00:00"
-        },
-        {
           "title": "從蔡康永、《VIVANT》到姆巴佩：北京為何區別處理「辱華」事件？",
           "link": "https://www.bbc.com/zhongwen/articles/c6gm0rdzm0rdo/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-11-06T00:21:23+00:00"
@@ -41,7 +41,17 @@
         {
           "title": "What we know so far after Krakow gun attack",
           "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-07T22:58:49+00:00"
+          "date": "2026-11-08T01:47:41+00:00"
+        },
+        {
+          "title": "Houthis say at least 33 killed in Saudi air strike",
+          "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-08T04:03:12+00:00"
+        },
+        {
+          "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-07T21:36:16+00:00"
         },
         {
           "title": "Israel's president tasks opposition leader Eisenkot with forming government",
@@ -49,19 +59,9 @@
           "date": "2026-11-07T22:19:59+00:00"
         },
         {
-          "title": "No clear winner after tight New Zealand general election",
-          "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-07T15:56:28+00:00"
-        },
-        {
           "title": "US offers $20m reward for information about Iran's nuclear programme",
           "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
           "date": "2026-11-07T18:14:38+00:00"
-        },
-        {
-          "title": "Houthis say at least 25 killed in Saudi air strike",
-          "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-07T17:09:24+00:00"
         }
       ]
     },
@@ -103,9 +103,9 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
-          "link": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
-          "date": "2026-11-07T13:00:01+00:00"
+          "title": "Cathie Wood 'always feels better when the market is worried' — here's why",
+          "link": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
+          "date": "2026-11-08T06:00:01+00:00"
         },
         {
           "title": "Trump offers UFC chief Dana White press secretary job",
@@ -113,9 +113,9 @@
           "date": "2026-11-07T23:13:38+00:00"
         },
         {
-          "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
-          "link": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
-          "date": "2026-11-07T22:17:52+00:00"
+          "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+          "link": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+          "date": "2026-11-07T13:00:01+00:00"
         },
         {
           "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
@@ -123,9 +123,9 @@
           "date": "2026-11-07T15:23:46+00:00"
         },
         {
-          "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
-          "link": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
-          "date": "2026-11-07T21:59:10+00:00"
+          "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+          "link": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
+          "date": "2026-11-07T22:01:17+00:00"
         }
       ]
     },
@@ -134,6 +134,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "苹果产品那些不够颠覆，却值得被学习的细节",
+          "link": "https://sspai.com/post/118114",
+          "date": "2026-11-08T03:18:54+00:00"
+        },
         {
           "title": "一个 05 后的个人数码编年史",
           "link": "https://sspai.com/post/116750",
@@ -153,11 +158,6 @@
           "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
           "link": "https://sspai.com/post/118570",
           "date": "2026-11-06T03:06:53+00:00"
-        },
-        {
-          "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
-          "link": "https://sspai.com/post/118587",
-          "date": "2026-11-06T00:24:39+00:00"
         }
       ]
     },
@@ -166,6 +166,16 @@
       "category": "科技",
       "url": "https://www.ifanr.com/feed",
       "items": [
+        {
+          "title": "别再拿《影之刃零》对比《黑神话》了",
+          "link": "https://www.ifanr.com/1688282?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-11-08T04:00:31+00:00"
+        },
+        {
+          "title": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财 原",
+          "link": "https://www.ifanr.com/1688364?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-11-08T03:35:42+00:00"
+        },
         {
           "title": "最贵比亚迪来了！仰望鼎曜亮相中东，「山河鼎韵」限量版定金 30 万元",
           "link": "https://www.ifanr.com/1688312?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -180,16 +190,6 @@
           "title": "503.17km/h！比亚迪仰望 U9X 再次刷新全球最速，量产车首次突破 5 字头",
           "link": "https://www.ifanr.com/1688195?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-11-06T09:25:33+00:00"
-        },
-        {
-          "title": "10 月最值得关注的 17 个产品｜明日产品 WATCHLIST",
-          "link": "https://www.ifanr.com/1688060?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-11-06T05:26:24+00:00"
-        },
-        {
-          "title": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
-          "link": "https://www.ifanr.com/1688032?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-11-06T00:15:15+00:00"
         }
       ]
     },
@@ -290,6 +290,38 @@
       ]
     },
     {
+      "name": "Hacker News",
+      "category": "开发",
+      "url": "https://hnrss.org/frontpage?count=10",
+      "items": [
+        {
+          "title": "Kirlian Photography: Building Your Own Equipment",
+          "link": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+          "date": "2026-11-08T04:14:12+00:00"
+        },
+        {
+          "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+          "link": "https://github.com/dmunozv04/isponsorblocktv",
+          "date": "2026-11-08T03:47:19+00:00"
+        },
+        {
+          "title": "Goodbye Claude, Hello Pi",
+          "link": "https://caleb.software/posts/claude-to-pi.html",
+          "date": "2026-11-08T03:11:48+00:00"
+        },
+        {
+          "title": "Consumer brain wave headsets threaten privacy",
+          "link": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+          "date": "2026-11-08T02:02:38+00:00"
+        },
+        {
+          "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+          "link": "https://github.com/crmne/zapfast",
+          "date": "2026-11-08T02:02:27+00:00"
+        }
+      ]
+    },
+    {
       "name": "Lobsters",
       "category": "开发",
       "url": "https://lobste.rs/rss",
@@ -327,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享创造] [分享创造] 五子棋模型对外发布，故事模型小试",
-          "link": "https://www.v2ex.com/t/1255292#reply1",
-          "date": "2026-11-08T00:12:30+00:00"
+          "title": "[问与答] AI 使用疑惑，大家伙有没有最佳实践？",
+          "link": "https://www.v2ex.com/t/1255343#reply1",
+          "date": "2026-11-08T07:17:18+00:00"
         },
         {
-          "title": "[程序员] 用 codex 把 飞书 消息模块用 solidjs 重写了一遍，体验瞬间变得丝滑了",
-          "link": "https://www.v2ex.com/t/1255290#reply0",
-          "date": "2026-11-07T23:58:06+00:00"
+          "title": "[OpenAI] 那些为了回血把 ChatGPT API 额度卖给中转站的人，裤子都亏掉了吧",
+          "link": "https://www.v2ex.com/t/1255340#reply0",
+          "date": "2026-11-08T07:04:21+00:00"
         },
         {
-          "title": "[程序员] 微软壁纸应用已经被垃圾 AI 生图夺舍，可见 AI 时代也不能有更好的软件用户体验",
-          "link": "https://www.v2ex.com/t/1255289#reply0",
-          "date": "2026-11-07T23:09:49+00:00"
+          "title": "[分享创造] 做了个小红书原图下载扩展：一键批量存原图，不用登录",
+          "link": "https://www.v2ex.com/t/1255339#reply0",
+          "date": "2026-11-08T06:58:48+00:00"
         },
         {
-          "title": "[推广] 做了个在线 AI 母带处理：免费试用，不用注册，不用绑卡",
-          "link": "https://www.v2ex.com/t/1255287#reply0",
-          "date": "2026-11-07T20:05:01+00:00"
+          "title": "[求职] [杭州 / 远程求职] 工作三年，两年前端，一年 Agent",
+          "link": "https://www.v2ex.com/t/1255336#reply0",
+          "date": "2026-11-08T06:37:00+00:00"
         },
         {
-          "title": "[VPS] 咸鱼云",
-          "link": "https://www.v2ex.com/t/1255286#reply2",
-          "date": "2026-11-07T18:32:24+00:00"
+          "title": "[OpenWrt] 两台华硕路由器 AP 模式，都用 wan 口接 openwrt 主路由，能用华硕 AI MESH 吗？",
+          "link": "https://www.v2ex.com/t/1255335#reply0",
+          "date": "2026-11-08T06:36:38+00:00"
         }
       ]
     },
@@ -472,6 +504,38 @@
       ]
     },
     {
+      "name": "量子位",
+      "category": "AI",
+      "url": "https://www.qbitai.com/feed",
+      "items": [
+        {
+          "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+          "link": "https://www.qbitai.com/2026/11/508264.html",
+          "date": "2026-11-07T05:01:17+00:00"
+        },
+        {
+          "title": "AGENTS.MD，危险危险危险！！！",
+          "link": "https://www.qbitai.com/2026/11/508244.html",
+          "date": "2026-11-07T03:43:55+00:00"
+        },
+        {
+          "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+          "link": "https://www.qbitai.com/2026/11/508196.html",
+          "date": "2026-11-07T03:23:29+00:00"
+        },
+        {
+          "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+          "link": "https://www.qbitai.com/2026/11/508184.html",
+          "date": "2026-11-06T15:21:56+00:00"
+        },
+        {
+          "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+          "link": "https://www.qbitai.com/2026/11/508174.html",
+          "date": "2026-11-06T09:25:59+00:00"
+        }
+      ]
+    },
+    {
       "name": "MIT Technology Review",
       "category": "AI",
       "url": "https://www.technologyreview.com/feed/",
@@ -570,8 +634,6 @@
   ],
   "failed": [
     "36 氪",
-    "Hacker News",
-    "酷壳",
-    "量子位"
+    "酷壳"
   ]
 }
