@@ -1,75 +1,91 @@
 {
-  "updated": "2026-11-07T20:55:44+00:00",
+  "updated": "2026-11-08T00:40:53+00:00",
   "leetcode": {
-    "date": "2026-11-07",
-    "id": "1882",
-    "title": "Process Tasks Using Servers",
-    "titleEn": "Process Tasks Using Servers",
-    "slug": "process-tasks-using-servers",
+    "date": "2026-11-08",
+    "id": "1267",
+    "title": "Count Servers that Communicate",
+    "titleEn": "Count Servers that Communicate",
+    "slug": "count-servers-that-communicate",
     "difficulty": "Medium",
     "tags": [
       "Array",
-      "Heap (Priority Queue)"
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Union-Find"
     ],
-    "link": "https://leetcode.com/problems/process-tasks-using-servers/",
+    "link": "https://leetcode.com/problems/count-servers-that-communicate/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Premise",
-    "text": "A premise is a proposition offered to support a conclusion. Premises are true or false statements that act as the starting points of arguments by presenting reasons to substantiate or refute assertions. Each argument is made up of a set of premises together with a conclusion. For example, the premises \"all men are mortal\" and \"Socrates is a man\" lead to the conclusion \"Socrates is mortal.\" In ordinary language, premises can appear in the middle of a passage, often marked by indicator words, such as since and because. In formal logic, a common approach is to write each premise on a separate line, known as standard form.",
-    "words": 107,
-    "url": "https://en.wikipedia.org/wiki/Premise",
-    "date": "2026-11-07",
+    "title": "Formula, Vol. 1",
+    "text": "Fórmula, Vol. 1 is the debut studio album by American singer Romeo Santos, released on November 8, 2011, by Sony Music Latin. It is Santos's first album as a solo artist following the break-up of American bachata group Aventura, of which he was the lead singer. The record contains fifteen tracks, most of which were composed by Santos and co-produced with Ivan Chevere. The album experiments with the sound of bachata and other genres including R&B and flamenco. It features several Anglophone and Hispanophone guest artists including Usher, Tomatito, Mario Domm, and Lil Wayne. Recording for the album took place in 2011 at The Castle, Fight Klub, and EMG Studios in New York City. A deluxe edition of the album containing five extra tracks was released exclusively in Walmart retail stores in the United States.",
+    "words": 135,
+    "url": "https://en.wikipedia.org/wiki/Formula%2C_Vol._1",
+    "date": "2026-11-08",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Where the Sun Reigns",
-    "creator": "Reela Films",
-    "year": "1955",
-    "url": "https://archive.org/download/Wherethe1955/Wherethe1955_512kb.mp4",
-    "page": "https://archive.org/details/Wherethe1955",
-    "date": "2026-11-07",
+    "title": "Coffee Break",
+    "creator": "Calvin Company",
+    "year": "1958",
+    "url": "https://archive.org/download/0670_Coffee_Break_02_38_41_00/0670_Coffee_Break_02_38_41_00.m4v",
+    "page": "https://archive.org/details/0670_Coffee_Break_02_38_41_00",
+    "date": "2026-11-08",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "DIENSTbar @ dfm.nu Transmission No. 218 Special Theme: Do You Synthesize?",
-      "artist": "DIENSTbar",
-      "url": "https://archive.org/download/dbdfmnu218/dbdfmnu218.mp3",
-      "page": "https://archive.org/details/dbdfmnu218",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/"
+      "title": "[GV-255] Eensdenkend - Aeon",
+      "artist": "Eensdenkend",
+      "url": "https://archive.org/download/gv255/01.Eensdenkend-VndorlGondolatszilnkok.mp3",
+      "page": "https://archive.org/details/gv255",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "FFM-013: Daniel Robert Lahey - Tonalchemy",
-      "artist": "Daniel Robert Lahey",
-      "url": "https://archive.org/download/freefloatingmusic013/01%20-%20Warm%20Jets.mp3",
-      "page": "https://archive.org/details/freefloatingmusic013",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "Already My Fourth EP",
+      "artist": "They Call Me Mr Random",
+      "url": "https://archive.org/download/nolimit014/01-track_1.mp3",
+      "page": "https://archive.org/details/nolimit014",
+      "license": "Creative Commons"
     },
     {
-      "title": "Seism & Reverend Aphex Empire On Mars - Split LP - DBR01",
-      "artist": "Seism & Reverend Aphex Empire On Mars",
-      "url": "https://archive.org/download/dbr01/DBR01-_-01-_-Seism-_-Sound_Mirror.mp3",
-      "page": "https://archive.org/details/dbr01",
-      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
+      "title": "[ENDE507] 3 Past 3 - Kei Hertz III Podcast 1",
+      "artist": "",
+      "url": "https://archive.org/download/ende507-3-past-3-kei-hertz-iii-podcast/01%20%20-%203%20Past%203%20-%20part%201.mp3",
+      "page": "https://archive.org/details/ende507-3-past-3-kei-hertz-iii-podcast",
+      "license": "Creative Commons"
     },
     {
-      "title": "DIENSTbar @ dfm.nu Transmission No. 62 The Total Remix",
-      "artist": "Ohmnoise",
-      "url": "https://archive.org/download/dbdfmnu62/dbdfmnu62.mp3",
-      "page": "https://archive.org/details/dbdfmnu62",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "Sonni Vaiio - Ambient For Inessa Armand P.S.",
+      "artist": "Sonni Vaiio",
+      "url": "https://archive.org/download/heavymental.ru_hm04-bonus/Sonni_Vaiio-01-Cegth_Vepsrf.mp3",
+      "page": "https://archive.org/details/heavymental.ru_hm04-bonus",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "[ET132] TN and _DS - Triangulation",
-      "artist": "TN and _DS",
-      "url": "https://archive.org/download/et132_tn_and_ds_triangulation/1.%20TN%20-%20Exquisite%20Corpse%201%20-%20mix1.mp3",
-      "page": "https://archive.org/details/et132_tn_and_ds_triangulation",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "ryan l - aquas [quiz015]",
+      "artist": "ryan l",
+      "url": "https://archive.org/download/quiz015-ryan_l-aquas/quiz015-01-ryan_l-beams_on_light_peirce_through_the_mass_of_murky_water.mp3",
+      "page": "https://archive.org/details/quiz015-ryan_l-aquas",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
+    },
+    {
+      "title": "Valovoima - Waves From A Universe",
+      "artist": "Valovoima",
+      "url": "https://archive.org/download/pakkaslumi11/01%20-%20Waves%20From%20A%20Universe%20I.mp3",
+      "page": "https://archive.org/details/pakkaslumi11",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "prison story",
+      "artist": "worrg",
+      "url": "https://archive.org/download/headphonica.hpcd037/hpcd037__worrg_-_prison_story_01.mp3",
+      "page": "https://archive.org/details/headphonica.hpcd037",
+      "license": "Creative Commons"
     },
     {
       "title": "Zero Fucks",
@@ -79,46 +95,32 @@
       "license": "Creative Commons"
     },
     {
-      "title": "Weathered",
-      "artist": "Roman Catholic Skulls",
-      "url": "https://archive.org/download/siko-030/01champions.mp3",
-      "page": "https://archive.org/details/siko-030",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "[ENDE477] Abortretryfail - Live at Noize Kids 2013",
-      "artist": "",
-      "url": "https://archive.org/download/ende477-abortretryfail-live-at-noize-kids-2013/01%20-%20Abortretryfail%20-%20Abortretryfail%20-%20Live%20at%20Noize%20Kids%202013.mp3",
-      "page": "https://archive.org/details/ende477-abortretryfail-live-at-noize-kids-2013",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Lovestruck / Free Falling",
-      "artist": "Sweets n' Trip",
-      "url": "https://archive.org/download/drsn64/A-Lovestruck.mp3",
-      "page": "https://archive.org/details/drsn64",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/pe/"
-    },
-    {
-      "title": "Collagen Fingers",
-      "artist": "Collagen Fingers",
-      "url": "https://archive.org/download/collagen-fingers/Collagen%20Fingers%20-%20S%3AT%20%28side%20a%29.mp3",
-      "page": "https://archive.org/details/collagen-fingers",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "Sticking Drops - Sustain EP [mir004]",
-      "artist": "Sticking Drops",
-      "url": "https://archive.org/download/mir004/mir004-sticking_drops-01-iris.mp3",
-      "page": "https://archive.org/details/mir004",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/"
-    },
-    {
       "title": "Lindon - Eksajoule [mtk014]",
       "artist": "",
       "url": "https://archive.org/download/mtk014/mtk014-lindon-eksajoule.mp3",
       "page": "https://archive.org/details/mtk014",
       "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
+    },
+    {
+      "title": "Xerxes - Koral {026}",
+      "artist": "Xerxes",
+      "url": "https://archive.org/download/flt-026/01%20-%20Koral.mp3",
+      "page": "https://archive.org/details/flt-026",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Mean Mother Green",
+      "artist": "Deadman & Digi Hartatak",
+      "url": "https://archive.org/download/meanmothergreen/MeanMotherGreen.mp3",
+      "page": "https://archive.org/details/meanmothergreen",
+      "license": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    {
+      "title": "Faxi Nadu - Platinum Membership",
+      "artist": "Faxi Nadu",
+      "url": "https://archive.org/download/faxi_nadu_-_platinum_membership/10_faxi_nadu_-_platinum_membership_-_no_more.mp3",
+      "page": "https://archive.org/details/faxi_nadu_-_platinum_membership",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/"
     }
   ]
 }
