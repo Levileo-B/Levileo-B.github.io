@@ -1,77 +1,63 @@
 {
-  "updated": "2026-11-08T23:45:44+00:00",
+  "updated": "2026-11-09T06:41:00+00:00",
   "leetcode": {
-    "date": "2026-11-08",
-    "id": "1267",
-    "title": "Count Servers that Communicate",
-    "titleEn": "Count Servers that Communicate",
-    "slug": "count-servers-that-communicate",
-    "difficulty": "Medium",
+    "date": "2026-11-09",
+    "id": "1606",
+    "title": "Find Servers That Handled Most Number of Requests",
+    "titleEn": "Find Servers That Handled Most Number of Requests",
+    "slug": "find-servers-that-handled-most-number-of-requests",
+    "difficulty": "Hard",
     "tags": [
       "Array",
-      "Depth-First Search",
-      "Breadth-First Search",
-      "Union-Find"
+      "Heap (Priority Queue)",
+      "Simulation",
+      "Ordered Set"
     ],
-    "link": "https://leetcode.com/problems/count-servers-that-communicate/",
+    "link": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Formula, Vol. 1",
-    "text": "Fórmula, Vol. 1 is the debut studio album by American singer Romeo Santos, released on November 8, 2011, by Sony Music Latin. It is Santos's first album as a solo artist following the break-up of American bachata group Aventura, of which he was the lead singer. The record contains fifteen tracks, most of which were composed by Santos and co-produced with Ivan Chevere. The album experiments with the sound of bachata and other genres including R&B and flamenco. It features several Anglophone and Hispanophone guest artists including Usher, Tomatito, Mario Domm, and Lil Wayne. Recording for the album took place in 2011 at The Castle, Fight Klub, and EMG Studios in New York City. A deluxe edition of the album containing five extra tracks was released exclusively in Walmart retail stores in the United States.",
-    "words": 135,
-    "url": "https://en.wikipedia.org/wiki/Formula%2C_Vol._1",
-    "date": "2026-11-08",
+    "title": "SoHo Weekly News",
+    "text": "The SoHo Weekly News (SWN) was a weekly alternative newspaper founded by American music publicist Michael Goldstein and published in New York City from 1973 to 1982. Goldstein positioned the paper as a competitor to The Village Voice, an established alternative newspaper, but it struggled financially. SWN was acquired by Associated Newspaper Group in 1979 and ceased publication three years later after the company was unable to make it profitable.",
+    "words": 70,
+    "url": "https://en.wikipedia.org/wiki/SoHo_Weekly_News",
+    "date": "2026-11-09",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Brink of Disaster",
-    "creator": "Fairbanks (Jerry) Productions",
-    "year": "1972",
-    "url": "https://archive.org/download/0003_Brink_of_Disaster_01_00_45_00/0003_Brink_of_Disaster_S00085_01_00_45_00_3mb.mp4",
-    "page": "https://archive.org/details/0003_Brink_of_Disaster_01_00_45_00",
-    "date": "2026-11-08",
+    "title": "They Call It All-States",
+    "creator": "Stapp, Thomas & Wade, Inc. (Denver)",
+    "year": "1950",
+    "url": "https://archive.org/download/0767_They_Call_It_All-States_20_42_00_00/0767_They_Call_It_All-States_20_42_00_00.m4v",
+    "page": "https://archive.org/details/0767_They_Call_It_All-States_20_42_00_00",
+    "date": "2026-11-09",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Staccato Episode 10",
-      "artist": "Matt May",
-      "url": "https://archive.org/download/staccato010/staccato010.mp3",
-      "page": "https://archive.org/details/staccato010",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
+      "title": "[Eg0_062] Alphaxone : Grounds EP",
+      "artist": "Alphaxone",
+      "url": "https://archive.org/download/eg0_062/01_-_Emerging.mp3",
+      "page": "https://archive.org/details/eg0_062",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"
     },
     {
-      "title": "V/A - ▼ Experiments on the Witch House ▲",
-      "artist": "Dawn of Darkness Netlabel",
-      "url": "https://archive.org/download/experiments-on-the-witch-house/01%20-%20Messerschmitt%20-%20Petrel.mp3",
-      "page": "https://archive.org/details/experiments-on-the-witch-house",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "Lovestruck / Free Falling",
+      "artist": "Sweets n' Trip",
+      "url": "https://archive.org/download/drsn64/A-Lovestruck.mp3",
+      "page": "https://archive.org/details/drsn64",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/pe/"
     },
     {
-      "title": "Collagen Fingers",
-      "artist": "Collagen Fingers",
-      "url": "https://archive.org/download/collagen-fingers/Collagen%20Fingers%20-%20S%3AT%20%28side%20a%29.mp3",
-      "page": "https://archive.org/details/collagen-fingers",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "DIENSTbar @ dfm.nu Transmission No. 95 Special Guest: Utemosku",
-      "artist": "Ohmnoise",
-      "url": "https://archive.org/download/dfmnu95/dfmnu95.mp3",
-      "page": "https://archive.org/details/dfmnu95",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "Standard Tapping Machine",
-      "artist": "Jazzaria.com",
-      "url": "https://archive.org/download/standard-tapping-machine/standard-tapping-machine.mp3",
-      "page": "https://archive.org/details/standard-tapping-machine",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "cvux - Above, under, choose (GT002)",
+      "artist": "",
+      "url": "https://archive.org/download/cvuxAboveunderchoose/cvux%20-%20Above%2C%20under%2C%20choose%20-%2001%20I%20just%20%28love%20it%29.mp3",
+      "page": "https://archive.org/details/cvuxAboveunderchoose",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
       "title": "[ENDE374] Chiba Lounge - Subway Radio",
@@ -81,46 +67,60 @@
       "license": "Creative Commons"
     },
     {
-      "title": "[ENDE178] V.A. - Illform Compilation",
-      "artist": "",
-      "url": "https://archive.org/download/ende178-va-illform-compilation/01%20-%20Anubis%20Complex%20-%20Anubis%20Complex.mp3",
-      "page": "https://archive.org/details/ende178-va-illform-compilation",
+      "title": "Tents and Hills",
+      "artist": "Ian D Hawgood",
+      "url": "https://archive.org/download/luv020/01October.mp3",
+      "page": "https://archive.org/details/luv020",
       "license": "Creative Commons"
     },
     {
-      "title": "[NANA004] SCHIZOPHONIC - \"Dream Incubation",
-      "artist": "SCHIZOPHONIC",
-      "url": "https://archive.org/download/NANA004/01-Breaking_The_Nematoad.mp3",
-      "page": "https://archive.org/details/NANA004",
-      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-    },
-    {
-      "title": "Mikromjuk - Rör ej",
-      "artist": "",
-      "url": "https://archive.org/download/Mikromjuk_-_Roer_Ej-EP-2008-polka/01_vaestern_med_resten-polka.mp3",
-      "page": "https://archive.org/details/Mikromjuk_-_Roer_Ej-EP-2008-polka",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/se/"
-    },
-    {
-      "title": "Static Bass - Grid",
-      "artist": "static bass",
-      "url": "https://archive.org/download/staticba/grid_vbr.mp3",
-      "page": "https://archive.org/details/staticba",
-      "license": "http://creativecommons.org/licenses/by-sa/2.0/"
-    },
-    {
-      "title": "DIENSTbar @ dfm.nu Transmission No. 109 Special Guest: Matt Grau",
-      "artist": "Ohmnoise",
-      "url": "https://archive.org/download/dbdfmnu109/dbdfmnu109.mp3",
-      "page": "https://archive.org/details/dbdfmnu109",
+      "title": "Fritz Gessler - dystopian dreams",
+      "artist": "Fritz Gessler",
+      "url": "https://archive.org/download/dystopian-dreams/dream%20%281%29.mp3",
+      "page": "https://archive.org/details/dystopian-dreams",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "striped movies [suda 0014]",
-      "artist": "Sudamérica Electronica",
-      "url": "https://archive.org/download/striped_movies/1-lake_and_mirrors.mp3",
-      "page": "https://archive.org/details/striped_movies",
+      "title": "V/A - ▼ Experiments on the Witch House ▲",
+      "artist": "Dawn of Darkness Netlabel",
+      "url": "https://archive.org/download/experiments-on-the-witch-house/01%20-%20Messerschmitt%20-%20Petrel.mp3",
+      "page": "https://archive.org/details/experiments-on-the-witch-house",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "Saito Koji - Time / Line",
+      "artist": "Saito Koji",
+      "url": "https://archive.org/download/rb053/01-Time.mp3",
+      "page": "https://archive.org/details/rb053",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "DIENSTbar @ dfm.nu Transmission No. 13 Special Guest: Kate Donovan",
+      "artist": "ohmnoise",
+      "url": "https://archive.org/download/dbdfmnu13/dbdfmnu13.mp3",
+      "page": "https://archive.org/details/dbdfmnu13",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "CUM 114 - El tío del socavón - EP 2",
+      "artist": "El tí­o del socavón",
+      "url": "https://archive.org/download/cum.114ElToDelTocavn-ElToDelSocavnEp2/01Intoxicadoenamorado.mp3",
+      "page": "https://archive.org/details/cum.114ElToDelTocavn-ElToDelSocavnEp2",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Vol. 2",
+      "artist": "Frau Kummer",
+      "url": "https://archive.org/download/ex15.frau_kummer_2/ex_15_1.mp3",
+      "page": "https://archive.org/details/ex15.frau_kummer_2",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
+    },
+    {
+      "title": "FFM-013: Daniel Robert Lahey - Tonalchemy",
+      "artist": "Daniel Robert Lahey",
+      "url": "https://archive.org/download/freefloatingmusic013/01%20-%20Warm%20Jets.mp3",
+      "page": "https://archive.org/details/freefloatingmusic013",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     }
   ]
 }
