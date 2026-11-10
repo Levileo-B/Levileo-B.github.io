@@ -1,13 +1,45 @@
 {
-  "generated_at": "2026-11-09T17:34:28+00:00",
-  "updated": "2026-11-09T17:34:28+00:00",
+  "generated_at": "2026-11-10T01:36:13+00:00",
+  "updated": "2026-11-10T01:36:13+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-09T00:00:00+08:00",
-    "end": "2026-11-09T17:34:28+00:00",
-    "total": 129,
+    "end": "2026-11-10T01:36:13+00:00",
+    "total": 166,
     "items": [
+      {
+        "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+        "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
+        "date": "2026-11-10T01:22:10+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
+        "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+        "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
+        "date": "2026-11-09T19:58:01+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
       {
         "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
         "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
@@ -119,38 +151,24 @@
         ],
         "source_count": 1,
         "observed_days": 2
-      },
-      {
-        "title": "Trump questions midterm election results, revives voting-machine conspiracy",
-        "link": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
-        "date": "2026-11-09T17:31:12+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "财经"
-        ],
-        "sources": [
-          "CNBC"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "黃仁勳與疑似中國間諜婚外情：目前我們知道什麼？",
-        "link": "https://www.bbc.com/zhongwen/articles/cw8dzd17n70no/trad",
-        "date": "2026-11-09T17:25:50+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC 中文"
-        ],
-        "source_count": 1,
-        "observed_days": 1
       }
     ],
     "by_category": {
       "AI": [
+        {
+          "title": "The backlash about data centers might really just be about electricity",
+          "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+          "date": "2026-11-09T19:35:33+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "Nancy Pelosi’s replacement is ready to regulate AI",
           "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
@@ -280,6 +298,90 @@
       ],
       "开发": [
         {
+          "title": "[Claude] 现在才发现送了 Fable5.2 额度。现在我是免费用户今天开 Claude Pro 还来得及嘛哈哈",
+          "link": "https://www.v2ex.com/t/1255746",
+          "date": "2026-11-10T01:32:13+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[问与答] 全网 claude pro 用户第一个测评 fable 的人",
+          "link": "https://www.v2ex.com/t/1255745",
+          "date": "2026-11-10T01:31:59+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[程序员] 突然想到个一直没有想的事情，各位一般多久剪一次头发",
+          "link": "https://www.v2ex.com/t/1255744",
+          "date": "2026-11-10T01:31:42+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[OpenAI] Codex 登录不上去了",
+          "link": "https://www.v2ex.com/t/1255743",
+          "date": "2026-11-10T01:31:34+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[分享创造] 电动车双电池互锁（斥）方案已完成，还是让京东小哥上门帮忙弄的，我打下手",
+          "link": "https://www.v2ex.com/t/1255742",
+          "date": "2026-11-10T01:30:36+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Microsoft are rejecting your mail",
+          "link": "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/",
+          "date": "2026-11-09T18:36:47+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Lobsters"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "[程序员] cursor 重置了，还没重新计算重置天数",
           "link": "https://www.v2ex.com/t/1255704",
           "date": "2026-11-09T17:24:37+00:00",
@@ -334,90 +436,6 @@
           ],
           "source_count": 1,
           "observed_days": 1
-        },
-        {
-          "title": "[问与答] 转眼， 33 了",
-          "link": "https://www.v2ex.com/t/1255699",
-          "date": "2026-11-09T16:16:06+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Horrible public key tricks",
-          "link": "https://maurycyz.com/projects/badcert/",
-          "date": "2026-11-09T12:55:11+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Let’s Talk About Why all This OT Stuff is Connected",
-          "link": "https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/",
-          "date": "2026-11-09T12:22:39+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "What are you doing this week?",
-          "link": "https://lobste.rs/s/tt42jc/what_are_you_doing_this_week",
-          "date": "2026-11-09T09:32:52+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "How Much Energy Does Building Distro Packages Use",
-          "link": "https://www.wezm.net/v2/posts/2026/distro-energy-use/",
-          "date": "2026-11-09T06:44:59+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[问与答] [尴尬]开完 grok 订阅才发现要装 cursor 才行.",
-          "link": "https://www.v2ex.com/t/1255564",
-          "date": "2026-11-09T06:34:24+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "科技": [
@@ -450,9 +468,51 @@
           "observed_days": 2
         },
         {
-          "title": "Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage",
-          "link": "https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage",
-          "date": "2026-11-09T16:23:31+00:00",
+          "title": "Codex 游戏掌机突然开卖，网友却在催更 GPT-6.2",
+          "link": "https://www.ifanr.com/1688678",
+          "date": "2026-11-10T01:19:39+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
+          "link": "https://www.ifanr.com/1688654",
+          "date": "2026-11-10T00:47:46+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "曾号称订单超百万，累计仅卖 6.3 万辆，量产不到四年的特斯拉 Cybertruck 官宣停产",
+          "link": "https://www.ifanr.com/1688639",
+          "date": "2026-11-10T00:45:56+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+          "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+          "date": "2026-11-10T00:28:49+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -464,9 +524,23 @@
           "observed_days": 1
         },
         {
-          "title": "Uber wants to park your car now, too",
-          "link": "https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis",
-          "date": "2026-11-09T16:12:07+00:00",
+          "title": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
+          "link": "https://sspai.com/post/118854",
+          "date": "2026-11-10T00:24:40+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "What could China get from Jensen Huang?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+          "date": "2026-11-10T00:07:10+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -478,9 +552,9 @@
           "observed_days": 1
         },
         {
-          "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
-          "date": "2026-11-09T16:00:35+00:00",
+          "title": "Here’s what Trump said he knew about Jensen Huang",
+          "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+          "date": "2026-11-10T00:02:17+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -492,71 +566,15 @@
           "observed_days": 1
         },
         {
-          "title": "Disney and Adobe are building generative AI tools together",
-          "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-          "date": "2026-11-09T15:54:52+00:00",
+          "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "date": "2026-11-09T23:46:30+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
             "The Verge"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
-          "link": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
-          "date": "2026-11-09T15:39:21+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Nvidia CEO's affair becomes a national security problem",
-          "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-          "date": "2026-11-09T15:23:20+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Hold up — I had a great time talking to the RIAA guy",
-          "link": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
-          "date": "2026-11-09T15:22:38+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "The Verge"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "F1 in Brazil: You’ve got to keep your tires alive",
-          "link": "https://arstechnica.com/cars/2026/11/f1-in-brazil-drivers-at-their-very-best-in-tricky-conditions/",
-          "date": "2026-11-09T15:16:31+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -662,6 +680,20 @@
           "observed_days": 1
         },
         {
+          "title": "He spent a year on ‘Mars’: NASA science officer emerges from mock mission",
+          "link": "https://www.nature.com/articles/d41586-026-03588-w",
+          "date": "2026-11-09T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Carlo Rovelli says fundamental physics is overrated",
           "link": "https://www.nature.com/articles/d41586-026-03626-7",
           "date": "2026-11-09T00:00:00+00:00",
@@ -688,23 +720,41 @@
           ],
           "source_count": 1,
           "observed_days": 1
-        },
-        {
-          "title": "The super El Niño is more than a climate shock – it’s a health one, too",
-          "link": "https://www.nature.com/articles/d41586-026-03628-5",
-          "date": "2026-11-09T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "综合": [
+        {
+          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
+          "date": "2026-11-10T01:22:10+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+          "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
+          "date": "2026-11-09T19:58:01+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
         {
           "title": "Inside the French drug gangs recruiting children to kill",
           "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o",
@@ -748,6 +798,48 @@
           "observed_days": 2
         },
         {
+          "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+          "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo",
+          "date": "2026-11-10T00:14:03+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o",
+          "date": "2026-11-10T00:09:49+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "黃仁勳與疑似中國間諜婚外情風波：特朗普稱FBI已介入調查",
+          "link": "https://www.bbc.com/zhongwen/articles/cmx2q2pn5nv8o/trad",
+          "date": "2026-11-09T23:40:17+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "黃仁勳與疑似中國間諜婚外情：目前我們知道什麼？",
           "link": "https://www.bbc.com/zhongwen/articles/cw8dzd17n70no/trad",
           "date": "2026-11-09T17:25:50+00:00",
@@ -774,79 +866,41 @@
           ],
           "source_count": 1,
           "observed_days": 1
-        },
-        {
-          "title": "France accuses Iran of supermarket fridge hacking",
-          "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo",
-          "date": "2026-11-09T16:55:07+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "白金漢宮幕僚：英王查爾斯「會考慮訪華」",
-          "link": "https://www.bbc.com/zhongwen/articles/cj20v0x3ze2no/trad",
-          "date": "2026-11-09T16:31:02+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "黃仁勳婚外情掀起國安風暴：拆解五大看點",
-          "link": "https://www.bbc.com/zhongwen/articles/c6rmym2gg9z1o/trad",
-          "date": "2026-11-09T13:10:28+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Krakow shooting suspect has died in hospital, police say",
-          "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o",
-          "date": "2026-11-09T11:56:25+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "《巴黎協定》：為什麼將全球升溫控制在1.5攝氏度內如此重要？",
-          "link": "https://www.bbc.com/zhongwen/articles/cmde8ende1exo/trad",
-          "date": "2026-11-09T08:54:59+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "财经": [
+        {
+          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
+          "date": "2026-11-10T01:22:10+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+          "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
+          "date": "2026-11-09T19:58:01+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
         {
           "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
           "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
@@ -876,9 +930,9 @@
           "observed_days": 2
         },
         {
-          "title": "Trump questions midterm election results, revives voting-machine conspiracy",
-          "link": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
-          "date": "2026-11-09T17:31:12+00:00",
+          "title": "SoftBank Group shares surge 11% as Asian tech stocks rally after Wall Street rebounds",
+          "link": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+          "date": "2026-11-10T01:26:53+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -890,9 +944,51 @@
           "observed_days": 1
         },
         {
-          "title": "Civil servant who secretly held five jobs found guilty of fraud",
-          "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do",
-          "date": "2026-11-09T17:17:16+00:00",
+          "title": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
+          "link": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
+          "date": "2026-11-10T00:17:02+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
+          "link": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
+          "date": "2026-11-09T22:56:39+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Hegseth impeachment articles introduced by Rep. Massie",
+          "link": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+          "date": "2026-11-09T22:41:12+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+          "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o",
+          "date": "2026-11-09T21:52:28+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -904,85 +1000,15 @@
           "observed_days": 1
         },
         {
-          "title": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
-          "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
-          "date": "2026-11-09T17:05:25+00:00",
+          "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+          "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+          "date": "2026-11-09T21:03:55+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
           ],
           "sources": [
             "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Poundland unable to buy new stock as fears over collapse grow",
-          "link": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o",
-          "date": "2026-11-09T16:46:40+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
-          "link": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
-          "date": "2026-11-09T16:39:12+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Home listings pile up in October, but sellers won't slash prices",
-          "link": "https://www.cnbc.com/2026/11/09/home-listings-pile-up-in-october-but-sellers-wont-slash-prices.html",
-          "date": "2026-11-09T13:54:29+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Congress returns with government funding, Pete Hegseth and the debt limit on the agenda",
-          "link": "https://www.cnbc.com/2026/11/09/congress-government-funding-debt-limit-elections.html",
-          "date": "2026-11-09T11:00:01+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-          "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko",
-          "date": "2026-11-09T07:10:11+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -992,8 +1018,8 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-09T17:34:28+00:00",
-    "total": 1094,
+    "end": "2026-11-10T01:36:13+00:00",
+    "total": 1131,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
@@ -1777,6 +1803,38 @@
           "observed_days": 2
         },
         {
+          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
+          "date": "2026-11-10T01:22:10+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+          "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
+          "date": "2026-11-09T19:58:01+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
           "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
           "date": "2026-11-05T21:56:00+00:00",
@@ -1849,34 +1907,6 @@
           ],
           "source_count": 1,
           "observed_days": 3
-        },
-        {
-          "title": "澳門國安首案宣判：區錦新囚12年半，妻子斥「莫須有迫害」",
-          "link": "https://www.bbc.com/zhongwen/articles/cw62yyejjrlro/trad",
-          "date": "2026-11-06T06:19:26+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "Inside the French drug gangs recruiting children to kill",
-          "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o",
-          "date": "2026-11-09T06:00:26+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
@@ -1927,6 +1957,38 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
+          "date": "2026-11-10T01:22:10+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+          "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
+          "date": "2026-11-09T19:58:01+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
@@ -2001,34 +2063,6 @@
           ],
           "source_count": 1,
           "observed_days": 3
-        },
-        {
-          "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-          "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo",
-          "date": "2026-11-03T02:11:13+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-          "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
-          "date": "2026-11-09T06:01:52+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
