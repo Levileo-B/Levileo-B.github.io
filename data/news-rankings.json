@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-10T01:36:13+00:00",
-  "updated": "2026-11-10T01:36:13+00:00",
+  "generated_at": "2026-11-10T09:55:15+00:00",
+  "updated": "2026-11-10T09:55:15+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-09T00:00:00+08:00",
-    "end": "2026-11-10T01:36:13+00:00",
-    "total": 166,
+    "end": "2026-11-10T09:55:15+00:00",
+    "total": 201,
     "items": [
       {
         "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
@@ -298,9 +298,23 @@
       ],
       "开发": [
         {
-          "title": "[Claude] 现在才发现送了 Fable5.2 额度。现在我是免费用户今天开 Claude Pro 还来得及嘛哈哈",
-          "link": "https://www.v2ex.com/t/1255746",
-          "date": "2026-11-10T01:32:13+00:00",
+          "title": "美团 LongCat-2.5 正式开源：从看见，到抵达",
+          "link": "https://tech.meituan.com/2026/11/10/Meituan-LongCat-2.5-Open-Source.html",
+          "date": "2026-11-10T09:55:15+00:00",
+          "date_is_observed": true,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "美团技术团队"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[云修电脑] 貌似静电损坏了笔记本电脑的麦克风和扬声器",
+          "link": "https://www.v2ex.com/t/1255933",
+          "date": "2026-11-10T09:53:09+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -312,9 +326,9 @@
           "observed_days": 1
         },
         {
-          "title": "[问与答] 全网 claude pro 用户第一个测评 fable 的人",
-          "link": "https://www.v2ex.com/t/1255745",
-          "date": "2026-11-10T01:31:59+00:00",
+          "title": "[分享创造] 做了一个[SH-稍后阅读]工具",
+          "link": "https://www.v2ex.com/t/1255932",
+          "date": "2026-11-10T09:41:38+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -326,9 +340,9 @@
           "observed_days": 1
         },
         {
-          "title": "[程序员] 突然想到个一直没有想的事情，各位一般多久剪一次头发",
-          "link": "https://www.v2ex.com/t/1255744",
-          "date": "2026-11-10T01:31:42+00:00",
+          "title": "[问与答] X（Twitter）账号突然被 Suspend，申诉多次都是机器人回复，还有办法找人工解封吗？",
+          "link": "https://www.v2ex.com/t/1255931",
+          "date": "2026-11-10T09:40:25+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -340,9 +354,9 @@
           "observed_days": 1
         },
         {
-          "title": "[OpenAI] Codex 登录不上去了",
-          "link": "https://www.v2ex.com/t/1255743",
-          "date": "2026-11-10T01:31:34+00:00",
+          "title": "[程序员] 今天能获得 Claude 官方三次重置的，都是人上人，请出来让大家膜拜下吧。",
+          "link": "https://www.v2ex.com/t/1255928",
+          "date": "2026-11-10T09:26:12+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -354,9 +368,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] 电动车双电池互锁（斥）方案已完成，还是让京东小哥上门帮忙弄的，我打下手",
-          "link": "https://www.v2ex.com/t/1255742",
-          "date": "2026-11-10T01:30:36+00:00",
+          "title": "[程序员] 使用 codex/claude code 复刻市面已有产品或者开发一个新产品的 sessions 文件有开源的吗？",
+          "link": "https://www.v2ex.com/t/1255927",
+          "date": "2026-11-10T09:16:12+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -368,71 +382,57 @@
           "observed_days": 1
         },
         {
-          "title": "Microsoft are rejecting your mail",
-          "link": "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/",
-          "date": "2026-11-09T18:36:47+00:00",
+          "title": "Queens Public library under ransomware attack e-borrowing suspended",
+          "link": "https://connect.queenslibrary.org/",
+          "date": "2026-11-10T09:04:39+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "Lobsters"
+            "Hacker News"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "[程序员] cursor 重置了，还没重新计算重置天数",
-          "link": "https://www.v2ex.com/t/1255704",
-          "date": "2026-11-09T17:24:37+00:00",
+          "title": "M John Harrison becomes first science fiction author to win the Booker prize",
+          "link": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
+          "date": "2026-11-10T07:40:52+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "V2EX"
+            "Hacker News"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "[问与答] 请教个关于代理软件 三级或四级选择问题",
-          "link": "https://www.v2ex.com/t/1255703",
-          "date": "2026-11-09T17:06:44+00:00",
+          "title": "Fireworks AI security breach impacts Notion and their customers",
+          "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+          "date": "2026-11-10T07:19:38+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "V2EX"
+            "Hacker News"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "[硅基生活] 本地部署原生精度 DeepSeek-V4.1-Flash-1017 方案",
-          "link": "https://www.v2ex.com/t/1255702",
-          "date": "2026-11-09T16:49:23+00:00",
+          "title": "S.t.a.l.k.e.r. Call of Pripyat in WASM and WebGPU",
+          "link": "https://stalker-online.xyz/",
+          "date": "2026-11-10T07:03:48+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[分享创造] Zebkit - Chromium as an embeddable library",
-          "link": "https://www.v2ex.com/t/1255700",
-          "date": "2026-11-09T16:24:41+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
+            "Hacker News"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -468,9 +468,9 @@
           "observed_days": 2
         },
         {
-          "title": "Codex 游戏掌机突然开卖，网友却在催更 GPT-6.2",
-          "link": "https://www.ifanr.com/1688678",
-          "date": "2026-11-10T01:19:39+00:00",
+          "title": "特努斯施压 Siri 掌门人，苹果 AI 不能再等了",
+          "link": "https://www.ifanr.com/1688570",
+          "date": "2026-11-10T09:30:18+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -482,9 +482,9 @@
           "observed_days": 1
         },
         {
-          "title": "早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
-          "link": "https://www.ifanr.com/1688654",
-          "date": "2026-11-10T00:47:46+00:00",
+          "title": "有「眼力」，也有「洁癖」，戴森智能扫拖机器人改变了什么？",
+          "link": "https://www.ifanr.com/1688755",
+          "date": "2026-11-10T09:30:04+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -496,37 +496,9 @@
           "observed_days": 1
         },
         {
-          "title": "曾号称订单超百万，累计仅卖 6.3 万辆，量产不到四年的特斯拉 Cybertruck 官宣停产",
-          "link": "https://www.ifanr.com/1688639",
-          "date": "2026-11-10T00:45:56+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-          "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-          "date": "2026-11-10T00:28:49+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "The Verge"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
-          "link": "https://sspai.com/post/118854",
-          "date": "2026-11-10T00:24:40+00:00",
+          "title": "社区速递 165 | 透明工牌与派友十月购物清单",
+          "link": "https://sspai.com/post/118861",
+          "date": "2026-11-10T08:44:26+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -538,43 +510,71 @@
           "observed_days": 1
         },
         {
-          "title": "What could China get from Jensen Huang?",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-          "date": "2026-11-10T00:07:10+00:00",
+          "title": "幼儿园小学初中学龄人口已达到峰值",
+          "link": "https://www.solidot.org/story?sid=85845",
+          "date": "2026-11-10T08:08:03+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "The Verge"
+            "Solidot"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Here’s what Trump said he knew about Jensen Huang",
-          "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-          "date": "2026-11-10T00:02:17+00:00",
+          "title": "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
+          "link": "https://sspai.com/post/118824",
+          "date": "2026-11-10T08:02:37+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "The Verge"
+            "少数派"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-          "date": "2026-11-09T23:46:30+00:00",
+          "title": "科学家在碲化锰观察到交替磁性证据",
+          "link": "https://www.solidot.org/story?sid=85844",
+          "date": "2026-11-10T07:30:38+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "The Verge"
+            "Solidot"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "FDA 警告 GLP-1 减肥药可能增加突然失明风险",
+          "link": "https://www.solidot.org/story?sid=85843",
+          "date": "2026-11-10T06:35:14+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Solidot"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "法国称伊朗黑客组织攻击了超市的制冷控制器",
+          "link": "https://www.solidot.org/story?sid=85842",
+          "date": "2026-11-10T05:31:35+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Solidot"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -594,6 +594,48 @@
           ],
           "source_count": 1,
           "observed_days": 2
+        },
+        {
+          "title": "Alzheimer’s may have early warning signs outside the brain",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+          "date": "2026-11-10T01:47:34+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
+          "date": "2026-11-10T00:42:52+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Scientists finally discover why we learn to love bitter coffee",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
+          "date": "2026-11-09T23:19:35+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 1
         },
         {
           "title": "Common supplement could help fight psoriasis, scientists discover",
@@ -678,48 +720,6 @@
           ],
           "source_count": 1,
           "observed_days": 1
-        },
-        {
-          "title": "He spent a year on ‘Mars’: NASA science officer emerges from mock mission",
-          "link": "https://www.nature.com/articles/d41586-026-03588-w",
-          "date": "2026-11-09T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Carlo Rovelli says fundamental physics is overrated",
-          "link": "https://www.nature.com/articles/d41586-026-03626-7",
-          "date": "2026-11-09T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "AI has transformed maths — this is how we got here",
-          "link": "https://www.nature.com/articles/d41586-026-03627-6",
-          "date": "2026-11-09T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "综合": [
@@ -798,9 +798,9 @@
           "observed_days": 2
         },
         {
-          "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
-          "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo",
-          "date": "2026-11-10T00:14:03+00:00",
+          "title": "Police officer dies and another injured after backpack explosion in Oviedo",
+          "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o",
+          "date": "2026-11-10T09:26:20+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -812,23 +812,9 @@
           "observed_days": 1
         },
         {
-          "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-          "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o",
-          "date": "2026-11-10T00:09:49+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "黃仁勳與疑似中國間諜婚外情風波：特朗普稱FBI已介入調查",
-          "link": "https://www.bbc.com/zhongwen/articles/cmx2q2pn5nv8o/trad",
-          "date": "2026-11-09T23:40:17+00:00",
+          "title": "黃仁勳婚外情：被指為「中共間諜」的黃樂是誰？",
+          "link": "https://www.bbc.com/zhongwen/articles/cjr4y41lv6zko/trad",
+          "date": "2026-11-10T08:24:34+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -840,9 +826,9 @@
           "observed_days": 1
         },
         {
-          "title": "黃仁勳與疑似中國間諜婚外情：目前我們知道什麼？",
-          "link": "https://www.bbc.com/zhongwen/articles/cw8dzd17n70no/trad",
-          "date": "2026-11-09T17:25:50+00:00",
+          "title": "父母選擇「雙人安樂死」，留下我獨自承受喪親之痛",
+          "link": "https://www.bbc.com/zhongwen/articles/cw5yn1y6v0lno/trad",
+          "date": "2026-11-10T06:32:46+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -854,9 +840,23 @@
           "observed_days": 1
         },
         {
-          "title": "Trump questions midterm elections integrity after previously accepting results",
-          "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o",
-          "date": "2026-11-09T17:16:42+00:00",
+          "title": "黃仁勳婚外情風波將在全球引發連鎖反應",
+          "link": "https://www.bbc.com/zhongwen/articles/c63eled4384zo/trad",
+          "date": "2026-11-10T04:02:29+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "'Cruise for life' ship seized in Singapore",
+          "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o",
+          "date": "2026-11-10T01:49:06+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -930,9 +930,9 @@
           "observed_days": 2
         },
         {
-          "title": "SoftBank Group shares surge 11% as Asian tech stocks rally after Wall Street rebounds",
-          "link": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
-          "date": "2026-11-10T01:26:53+00:00",
+          "title": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
+          "link": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
+          "date": "2026-11-10T09:48:09+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -944,9 +944,9 @@
           "observed_days": 1
         },
         {
-          "title": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
-          "link": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
-          "date": "2026-11-10T00:17:02+00:00",
+          "title": "Nvidia stock edges higher as pressure mounts following alleged China spy links",
+          "link": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+          "date": "2026-11-10T09:29:20+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -958,37 +958,9 @@
           "observed_days": 1
         },
         {
-          "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
-          "link": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
-          "date": "2026-11-09T22:56:39+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Hegseth impeachment articles introduced by Rep. Massie",
-          "link": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
-          "date": "2026-11-09T22:41:12+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-          "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o",
-          "date": "2026-11-09T21:52:28+00:00",
+          "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+          "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko",
+          "date": "2026-11-10T09:26:59+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1000,9 +972,37 @@
           "observed_days": 1
         },
         {
-          "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
-          "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
-          "date": "2026-11-09T21:03:55+00:00",
+          "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+          "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo",
+          "date": "2026-11-10T09:23:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+          "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+          "date": "2026-11-10T09:00:01+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
+          "link": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html",
+          "date": "2026-11-10T07:00:02+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1018,8 +1018,8 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-10T01:36:13+00:00",
-    "total": 1131,
+    "end": "2026-11-10T09:55:15+00:00",
+    "total": 1166,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
