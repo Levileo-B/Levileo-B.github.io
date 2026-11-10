@@ -1,60 +1,106 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-09T08:40:03.682364+00:00",
-  "attempted_at": "2026-11-09T08:40:03.682364+00:00",
+  "updated": "2026-11-10T08:50:02.577357+00:00",
+  "attempted_at": "2026-11-10T08:50:02.577357+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-11-09T08:40:03.682364+00:00",
+      "last_success": "2026-11-10T08:50:02.577357+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-11-09T08:40:03.682364+00:00",
+      "last_success": "2026-11-10T08:50:02.577357+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-11-09T08:40:03.682364+00:00",
+      "last_success": "2026-11-10T08:50:02.577357+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
-      "status": "partial",
-      "last_success": "2026-11-09T08:40:03.682364+00:00",
-      "errors": [
-        "point-cloud: HTTPError 429"
-      ]
+      "status": "ok",
+      "last_success": "2026-11-10T08:50:02.577357+00:00",
+      "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-11-09T08:40:03.682364+00:00",
+      "last_success": "2026-11-10T08:50:02.577357+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-11-09T08:40:03.682364+00:00",
+      "last_success": "2026-11-10T08:50:02.577357+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-11-09T08:40:03.682364+00:00",
+      "last_success": "2026-11-10T08:50:02.577357+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-11-09T08:40:03.682364+00:00",
+      "last_success": "2026-11-10T08:50:02.577357+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.3390/rs18213850",
+      "title": "Irrigation Channel Mapping from Very High-Resolution Satellite Imagery and LiDAR-Derived Digital Elevation Models",
+      "journal_id": "remote-sensing",
+      "published": "2026-11-09",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18213850",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3389/frobt.2026.1988670",
+      "title": "Effects of observing a robot expressing approach-avoidance conflict on observers’ self-evaluations of personal courage",
+      "journal_id": "frontiers",
+      "published": "2026-11-09",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3389/frobt.2026.1988670",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18213841",
+      "title": "LiDAR-Constrained Multi-Temporal UAV Monitoring of Glacier Terminus Retreat and Secondary Landslide Evolution at Hailuogou Glacier, Mt. Gongga, China",
+      "journal_id": "remote-sensing",
+      "published": "2026-11-08",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18213841",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18213825",
+      "title": "Spectral and Structural Characterization of Perennial Crops in the State of Pará, Brazilian Amazon, Using Gedi Lidar and Enmap Hyperspectral Imagery",
+      "journal_id": "remote-sensing",
+      "published": "2026-11-06",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18213825",
+      "source": "crossref"
+    },
     {
       "id": "10.3390/rs18213818",
       "title": "Observations of Biomass Burning Smoke Transported from Southeast Asia Using a Multi-Wavelength Polarization Raman Lidar",
@@ -1761,30 +1807,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.3390/rs18183111",
-      "title": "Properties and Temporal Evolution of an Elevated Arctic Liquid Fog by Lidar",
-      "journal_id": "remote-sensing",
-      "published": "2026-09-10",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18183111",
-      "source": "crossref"
-    },
-    {
-      "id": "10.3390/rs18173059",
-      "title": "A Unified Framework for Individual Tree Segmentation and Forest Biometrics Derivation from LiDAR Point Clouds Captured by Different Platforms in Diverse Forest Environments",
-      "journal_id": "remote-sensing",
-      "published": "2026-09-07",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18173059",
-      "source": "crossref"
-    },
-    {
       "id": "10.1002/rob.70322",
       "title": "An Information‐Driven Multilevel Path Planning Framework for Unmanned Surface Vehicles in Environmental Monitoring of Uninhabited Islands and Reefs",
       "journal_id": "jfr",
@@ -1794,18 +1816,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1002/rob.70322",
-      "source": "crossref"
-    },
-    {
-      "id": "10.3390/rs18173035",
-      "title": "A-Predator: A Multibeam Echosounder Point Cloud Registration Network with Anisotropic Kernel Point Convolution",
-      "journal_id": "remote-sensing",
-      "published": "2026-09-05",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18173035",
       "source": "crossref"
     },
     {
