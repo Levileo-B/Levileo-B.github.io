@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-10T17:53:44+00:00",
-  "updated": "2026-11-10T17:53:44+00:00",
+  "generated_at": "2026-11-10T23:26:12+00:00",
+  "updated": "2026-11-10T23:26:11+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-09T00:00:00+08:00",
-    "end": "2026-11-10T17:53:44+00:00",
-    "total": 255,
+    "end": "2026-11-10T23:26:12+00:00",
+    "total": 287,
     "items": [
       {
         "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
@@ -98,6 +98,20 @@
         "observed_days": 2
       },
       {
+        "title": "Nvidia sells off for second day in fallout from Jensen Huang’s affair with alleged spy",
+        "link": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+        "date": "2026-11-10T09:29:20+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "财经"
+        ],
+        "sources": [
+          "CNBC"
+        ],
+        "source_count": 1,
+        "observed_days": 2
+      },
+      {
         "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
         "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko",
         "date": "2026-11-10T09:26:59+00:00",
@@ -135,20 +149,6 @@
         ],
         "sources": [
           "少数派"
-        ],
-        "source_count": 1,
-        "observed_days": 2
-      },
-      {
-        "title": "黃仁勳婚外情：被指為「中共間諜」的黃樂是誰？",
-        "link": "https://www.bbc.com/zhongwen/articles/cjr4y41lv6zko/trad",
-        "date": "2026-11-10T08:24:34+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC 中文"
         ],
         "source_count": 1,
         "observed_days": 2
@@ -328,9 +328,9 @@
           "observed_days": 2
         },
         {
-          "title": "[分享创造] 宁的账号被封禁啦",
-          "link": "https://www.v2ex.com/t/1256006",
-          "date": "2026-11-10T17:24:12+00:00",
+          "title": "[网络安全] 深圳一机顶盒厂商在 130 万台出厂设备中预埋系统级后门，并将控制权卖给犯罪集团",
+          "link": "https://www.v2ex.com/t/1256013",
+          "date": "2026-11-10T23:20:14+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -342,9 +342,9 @@
           "observed_days": 1
         },
         {
-          "title": "AMD's Zen 6 Family: Feeding the Beast",
-          "link": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
-          "date": "2026-11-10T17:02:32+00:00",
+          "title": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
+          "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+          "date": "2026-11-10T22:17:56+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -356,9 +356,9 @@
           "observed_days": 1
         },
         {
-          "title": "[问与答] Anthropic 上市，值得买入并持有吗",
-          "link": "https://www.v2ex.com/t/1256004",
-          "date": "2026-11-10T16:58:55+00:00",
+          "title": "[推广] 做了一个 MiniMax H3 Image 在线生图工具，支持文字生成和参考图编辑",
+          "link": "https://www.v2ex.com/t/1256012",
+          "date": "2026-11-10T22:14:43+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -370,51 +370,9 @@
           "observed_days": 1
         },
         {
-          "title": "[Apple] 使用 gestaltx 添加境外 esim 后，插槽 2 的实体卡不显示了",
-          "link": "https://www.v2ex.com/t/1256003",
-          "date": "2026-11-10T16:58:40+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[程序员] Harness 跑分比赛， FrontierHarness benchmark v1.1 直播",
-          "link": "https://www.v2ex.com/t/1256002",
-          "date": "2026-11-10T16:53:01+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[分享创造] 做了一个纯浏览器端的 GPS 轨迹文件转换工具： FIT / GPX / TCX / KML 互转，文件不上传服务器",
-          "link": "https://www.v2ex.com/t/1256001",
-          "date": "2026-11-10T16:51:45+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
-          "link": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/",
-          "date": "2026-11-10T16:34:45+00:00",
+          "title": "rVPN – stealth VPN with end-to-end encryption",
+          "link": "https://rvpn.org/",
+          "date": "2026-11-10T21:42:50+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -426,15 +384,57 @@
           "observed_days": 1
         },
         {
-          "title": "Blender 5.3 released with Gaussian Splat support",
-          "link": "https://www.blender.org/download/releases/5-3/",
-          "date": "2026-11-10T16:15:43+00:00",
+          "title": "Apple has new Mac app coming to make running local AI models easy",
+          "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+          "date": "2026-11-10T21:25:03+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
             "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Six Math Essentials by Terence Tao",
+          "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
+          "date": "2026-11-10T20:58:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Sherman Anti-Trust Act (1890)",
+          "link": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
+          "date": "2026-11-10T20:56:16+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[问与答] GROK 是否有故障了？聊天记录全没，新对话会上隐私锁无法查看",
+          "link": "https://www.v2ex.com/t/1256011",
+          "date": "2026-11-10T20:17:11+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -904,6 +904,20 @@
           "observed_days": 1
         },
         {
+          "title": "Nvidia sells off for second day in fallout from Jensen Huang’s affair with alleged spy",
+          "link": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+          "date": "2026-11-10T09:29:20+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
           "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
           "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko",
           "date": "2026-11-10T09:26:59+00:00",
@@ -946,9 +960,9 @@
           "observed_days": 2
         },
         {
-          "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
-          "link": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
-          "date": "2026-11-10T17:49:39+00:00",
+          "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+          "link": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+          "date": "2026-11-10T23:16:15+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -960,9 +974,9 @@
           "observed_days": 1
         },
         {
-          "title": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
-          "link": "https://www.cnbc.com/2026/11/10/credit-card-debt-record.html",
-          "date": "2026-11-10T17:16:18+00:00",
+          "title": "Hegseth impeachment effort torpedoed in House",
+          "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+          "date": "2026-11-10T23:14:09+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -974,9 +988,9 @@
           "observed_days": 1
         },
         {
-          "title": "Here's the inflation breakdown for October 2026 — in one chart",
-          "link": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
-          "date": "2026-11-10T16:36:40+00:00",
+          "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
+          "link": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
+          "date": "2026-11-10T23:11:34+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -988,23 +1002,9 @@
           "observed_days": 1
         },
         {
-          "title": "U.S. gas prices fall below $4 for the first time since July",
-          "link": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
-          "date": "2026-11-10T16:29:09+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-          "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o",
-          "date": "2026-11-10T15:10:20+00:00",
+          "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go",
+          "date": "2026-11-10T22:52:15+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1020,8 +1020,8 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-10T17:53:44+00:00",
-    "total": 1220,
+    "end": "2026-11-10T23:26:12+00:00",
+    "total": 1252,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
