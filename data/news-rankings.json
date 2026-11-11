@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-11T15:16:50+00:00",
-  "updated": "2026-11-11T15:16:50+00:00",
+  "generated_at": "2026-11-11T22:03:22+00:00",
+  "updated": "2026-11-11T22:03:22+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-09T00:00:00+08:00",
-    "end": "2026-11-11T15:16:50+00:00",
-    "total": 379,
+    "end": "2026-11-11T22:03:22+00:00",
+    "total": 416,
     "items": [
       {
         "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
@@ -67,77 +67,7 @@
           "美团技术团队"
         ],
         "source_count": 1,
-        "observed_days": 2
-      },
-      {
-        "title": "特努斯施压 Siri 掌门人，苹果 AI 不能再等了",
-        "link": "https://www.ifanr.com/1688570",
-        "date": "2026-11-10T09:30:18+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "爱范儿"
-        ],
-        "source_count": 1,
-        "observed_days": 2
-      },
-      {
-        "title": "有「眼力」，也有「洁癖」，戴森智能扫拖机器人改变了什么？",
-        "link": "https://www.ifanr.com/1688755",
-        "date": "2026-11-10T09:30:04+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "爱范儿"
-        ],
-        "source_count": 1,
-        "observed_days": 2
-      },
-      {
-        "title": "Nvidia sells off for second day in fallout from Jensen Huang’s affair with alleged spy",
-        "link": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
-        "date": "2026-11-10T09:29:20+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "财经"
-        ],
-        "sources": [
-          "CNBC"
-        ],
-        "source_count": 1,
-        "observed_days": 2
-      },
-      {
-        "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-        "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko",
-        "date": "2026-11-10T09:26:59+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "财经"
-        ],
-        "sources": [
-          "BBC Business"
-        ],
-        "source_count": 1,
-        "observed_days": 2
-      },
-      {
-        "title": "Police officer dies and another injured after backpack explosion in northern Spain",
-        "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o",
-        "date": "2026-11-10T09:26:20+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC World"
-        ],
-        "source_count": 1,
-        "observed_days": 2
+        "observed_days": 3
       },
       {
         "title": "社区速递 165 | 透明工牌与派友十月购物清单",
@@ -149,6 +79,76 @@
         ],
         "sources": [
           "少数派"
+        ],
+        "source_count": 1,
+        "observed_days": 3
+      },
+      {
+        "title": "The backlash about data centers might really just be about electricity",
+        "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+        "date": "2026-11-09T19:35:33+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "AI"
+        ],
+        "sources": [
+          "MIT Technology Review"
+        ],
+        "source_count": 1,
+        "observed_days": 3
+      },
+      {
+        "title": "CoreWeave soars more than 24% for best day since April 2025 after strong Q3 report",
+        "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+        "date": "2026-11-11T15:13:39+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "财经"
+        ],
+        "sources": [
+          "CNBC"
+        ],
+        "source_count": 1,
+        "observed_days": 2
+      },
+      {
+        "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+        "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+        "date": "2026-11-11T14:35:23+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "财经"
+        ],
+        "sources": [
+          "CNBC"
+        ],
+        "source_count": 1,
+        "observed_days": 2
+      },
+      {
+        "title": "Firefox 内置 VPN 服务在三个月内不限制流量",
+        "link": "https://www.solidot.org/story?sid=85861",
+        "date": "2026-11-11T14:33:18+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "科技"
+        ],
+        "sources": [
+          "Solidot"
+        ],
+        "source_count": 1,
+        "observed_days": 2
+      },
+      {
+        "title": "苹果关闭支持社区",
+        "link": "https://www.solidot.org/story?sid=85860",
+        "date": "2026-11-11T14:16:09+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "科技"
+        ],
+        "sources": [
+          "Solidot"
         ],
         "source_count": 1,
         "observed_days": 2
@@ -168,6 +168,118 @@
             "MIT Technology Review"
           ],
           "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "The Download: preserving minds and weighing open AI risks",
+          "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+          "date": "2026-11-11T13:10:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+          "link": "https://www.qbitai.com/2026/11/509146.html",
+          "date": "2026-11-11T06:41:26+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
+          "link": "https://www.qbitai.com/2026/11/509088.html",
+          "date": "2026-11-11T06:27:03+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+          "link": "https://www.qbitai.com/2026/11/509085.html",
+          "date": "2026-11-11T06:18:09+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
+          "link": "https://www.qbitai.com/2026/11/509052.html",
+          "date": "2026-11-11T03:43:31+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+          "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+          "date": "2026-11-10T13:10:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Evolving metal extraction processes",
+          "link": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+          "date": "2026-11-10T13:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+          "link": "https://www.qbitai.com/2026/11/509032.html",
+          "date": "2026-11-10T10:35:38+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
           "observed_days": 2
         },
         {
@@ -183,118 +295,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-          "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
-          "date": "2026-11-09T13:15:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "The Download: preserving minds and weighing open AI risks",
-          "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-          "date": "2026-11-11T13:10:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
-          "link": "https://www.qbitai.com/2026/11/509146.html",
-          "date": "2026-11-11T06:41:26+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
-          "link": "https://www.qbitai.com/2026/11/509088.html",
-          "date": "2026-11-11T06:27:03+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
-          "link": "https://www.qbitai.com/2026/11/509085.html",
-          "date": "2026-11-11T06:18:09+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
-          "link": "https://www.qbitai.com/2026/11/509052.html",
-          "date": "2026-11-11T03:43:31+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-          "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-          "date": "2026-11-10T13:10:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Evolving metal extraction processes",
-          "link": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
-          "date": "2026-11-10T13:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "开发": [
@@ -325,82 +325,54 @@
             "美团技术团队"
           ],
           "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "What are some \"No AI\" apps/companies/resources you know of?",
+          "link": "https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies",
+          "date": "2026-11-11T13:13:51+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Lobsters"
+          ],
+          "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "[程序员] 大家看看我写的 rust 版本的 agent,名字 rpi，我实测 30 个进程实际使用内存占用极低",
-          "link": "https://www.v2ex.com/t/1256300",
-          "date": "2026-11-11T15:16:14+00:00",
+          "title": "How do you actually self-host securely?",
+          "link": "https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely",
+          "date": "2026-11-11T12:01:19+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "V2EX"
+            "Lobsters"
           ],
           "source_count": 1,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
-          "title": "[职场话题] 鹅厂要裁一半人？",
-          "link": "https://www.v2ex.com/t/1256299",
-          "date": "2026-11-11T14:48:29+00:00",
+          "title": "Git security vulnerabilities announced",
+          "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+          "date": "2026-11-10T18:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "V2EX"
+            "GitHub Blog"
           ],
           "source_count": 1,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
-          "title": "[推广] gemini-4-carbon 免费一天",
-          "link": "https://www.v2ex.com/t/1256297",
-          "date": "2026-11-11T14:36:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[Claude] Claude IOS 订阅风控再升级",
-          "link": "https://www.v2ex.com/t/1256296",
-          "date": "2026-11-11T14:32:09+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[推广] LingoManga：整章漫画 AI 翻译，免费预览整章再付费下载高清 ZIP",
-          "link": "https://www.v2ex.com/t/1256295",
-          "date": "2026-11-11T14:23:04+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Pharo in the Browser with WebAssembly",
-          "link": "https://massimo-nocentini.github.io/pharo-vm/world.html",
-          "date": "2026-11-11T14:21:27+00:00",
+          "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+          "date": "2026-11-11T21:24:35+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -412,9 +384,9 @@
           "observed_days": 1
         },
         {
-          "title": "Atuin Threads: All your agent sessions on every machine",
-          "link": "https://blog.atuin.sh/threads-agent-sessions/",
-          "date": "2026-11-11T14:10:46+00:00",
+          "title": "Play GTA5 on Browser",
+          "link": "https://playgta5.com/",
+          "date": "2026-11-11T21:10:35+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -426,9 +398,37 @@
           "observed_days": 1
         },
         {
-          "title": "Apple is killing its Support Community forum next week",
-          "link": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
-          "date": "2026-11-11T14:02:11+00:00",
+          "title": "GitHub Incident with Webhooks, Actions, etc.",
+          "link": "https://www.githubstatus.com/incidents/dvy0t3mvh1lg",
+          "date": "2026-11-11T20:54:37+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Tools for exploring the souls of large language models",
+          "link": "https://oshea00.github.io/posts/tinygpt-visualizer/",
+          "date": "2026-11-11T20:45:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Emacs in the Age of Magic",
+          "link": "https://commandlinesystems.com/magic.txt",
+          "date": "2026-11-11T20:26:32+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -442,34 +442,6 @@
       ],
       "科技": [
         {
-          "title": "特努斯施压 Siri 掌门人，苹果 AI 不能再等了",
-          "link": "https://www.ifanr.com/1688570",
-          "date": "2026-11-10T09:30:18+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "有「眼力」，也有「洁癖」，戴森智能扫拖机器人改变了什么？",
-          "link": "https://www.ifanr.com/1688755",
-          "date": "2026-11-10T09:30:04+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
           "title": "社区速递 165 | 透明工牌与派友十月购物清单",
           "link": "https://sspai.com/post/118861",
           "date": "2026-11-10T08:44:26+00:00",
@@ -481,40 +453,40 @@
             "少数派"
           ],
           "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
-          "title": "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
-          "link": "https://sspai.com/post/118824",
-          "date": "2026-11-10T08:02:37+00:00",
+          "title": "Firefox 内置 VPN 服务在三个月内不限制流量",
+          "link": "https://www.solidot.org/story?sid=85861",
+          "date": "2026-11-11T14:33:18+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "少数派"
+            "Solidot"
           ],
           "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "今年双十一，这些鼠标值得一看",
-          "link": "https://sspai.com/post/111065",
-          "date": "2026-11-10T03:00:25+00:00",
+          "title": "苹果关闭支持社区",
+          "link": "https://www.solidot.org/story?sid=85860",
+          "date": "2026-11-11T14:16:09+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "少数派"
+            "Solidot"
           ],
           "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "Codex 游戏掌机突然开卖，网友却在催更 GPT-6.2",
-          "link": "https://www.ifanr.com/1688678",
-          "date": "2026-11-10T01:19:39+00:00",
+          "title": "曝字节要做「中国版 Muse」，给豆包造个「超级大脑」",
+          "link": "https://www.ifanr.com/1689016",
+          "date": "2026-11-11T11:52:16+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -526,9 +498,37 @@
           "observed_days": 2
         },
         {
-          "title": "早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
-          "link": "https://www.ifanr.com/1688654",
-          "date": "2026-11-10T00:47:46+00:00",
+          "title": "黑猩猩后天习得部分叫声",
+          "link": "https://www.solidot.org/story?sid=85859",
+          "date": "2026-11-11T11:12:10+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Solidot"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "刚果埃博拉病例突破 1.1 万例",
+          "link": "https://www.solidot.org/story?sid=85858",
+          "date": "2026-11-11T10:55:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Solidot"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "4.99 万元起，长安糯玉米 PLUS 变成四门「大玉米」，小车最后还是要「大大大」",
+          "link": "https://www.ifanr.com/1688966",
+          "date": "2026-11-11T09:47:34+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -540,9 +540,9 @@
           "observed_days": 2
         },
         {
-          "title": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
-          "link": "https://sspai.com/post/118854",
-          "date": "2026-11-10T00:24:40+00:00",
+          "title": "城市漫步指南 | 安特卫普，时尚就在生活中",
+          "link": "https://sspai.com/post/118781",
+          "date": "2026-11-11T09:30:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -554,35 +554,105 @@
           "observed_days": 2
         },
         {
-          "title": "派评 | 近期值得关注的 App",
-          "link": "https://sspai.com/post/118833",
-          "date": "2026-11-09T10:27:59+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "微信 AI 录音笔体验：手机都能装的办公神器，免费！",
-          "link": "https://www.ifanr.com/1688410",
-          "date": "2026-11-09T04:00:04+00:00",
+          "title": "10 亿 Token 开源万只假鸟， AI 伪科普正在「污染」下一代的常识",
+          "link": "https://www.ifanr.com/1688897",
+          "date": "2026-11-11T07:03:17+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
             "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "从优胜美地到金门大桥：跟着 macOS 游览加州",
+          "link": "https://sspai.com/post/118175",
+          "date": "2026-11-11T06:50:39+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
           ],
           "source_count": 1,
           "observed_days": 2
         }
       ],
       "科研": [
+        {
+          "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
+          "date": "2026-11-11T13:10:51+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm",
+          "date": "2026-11-11T12:32:48+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
+          "date": "2026-11-11T09:43:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Even occasional marijuana use linked to 40% higher odds of stroke",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261110042539.htm",
+          "date": "2026-11-11T03:47:25+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
+          "date": "2026-11-11T01:36:04+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
         {
           "title": "Alzheimer’s may have early warning signs outside the brain",
           "link": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
@@ -652,76 +722,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "COP31 kicks off as planet faces imminent overshoot of 1.5 °C climate target",
-          "link": "https://www.nature.com/articles/d41586-026-03631-w",
-          "date": "2026-11-09T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
-          "date": "2026-11-11T13:10:51+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm",
-          "date": "2026-11-11T12:32:48+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
-          "date": "2026-11-11T09:43:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Even occasional marijuana use linked to 40% higher odds of stroke",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261110042539.htm",
-          "date": "2026-11-11T03:47:25+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "综合": [
@@ -758,6 +758,104 @@
           "observed_days": 1
         },
         {
+          "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo",
+          "date": "2026-11-11T14:06:27+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "「中國間諜案」獲撤控男子BBC專訪：我是情報部門的替罪羊",
+          "link": "https://www.bbc.com/zhongwen/articles/cm9d71qne5p9o/trad",
+          "date": "2026-11-11T13:43:29+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "黃仁勳疑落入間諜戰「美人計」——韓國也曾中招",
+          "link": "https://www.bbc.com/zhongwen/articles/cj93rp9vzeg1o/trad",
+          "date": "2026-11-11T13:07:08+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+          "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o",
+          "date": "2026-11-11T12:30:29+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "黃仁勳曾告訴我，那些關於中國與國家安全的問題",
+          "link": "https://www.bbc.com/zhongwen/articles/cm36gnenlj59o/trad",
+          "date": "2026-11-11T02:41:36+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "從局長下台到議會「沉默」 宏福苑大火後的政治問責與維穩邏輯",
+          "link": "https://www.bbc.com/zhongwen/articles/cm0e0e7d7qv4o/trad",
+          "date": "2026-11-11T01:03:16+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "一名公務員如何長期瞞天過海，身兼五職？",
+          "link": "https://www.bbc.com/zhongwen/articles/c933x388j116o/trad",
+          "date": "2026-11-11T00:21:53+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
           "title": "Police officer dies and another injured after backpack explosion in northern Spain",
           "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o",
           "date": "2026-11-10T09:26:20+00:00",
@@ -767,104 +865,6 @@
           ],
           "sources": [
             "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "黃仁勳婚外情：被指為「中共間諜」的黃樂是誰？",
-          "link": "https://www.bbc.com/zhongwen/articles/cjr4y41lv6zko/trad",
-          "date": "2026-11-10T08:24:34+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "父母選擇「雙人安樂死」，留下我獨自承受喪親之痛",
-          "link": "https://www.bbc.com/zhongwen/articles/cw5yn1y6v0lno/trad",
-          "date": "2026-11-10T06:32:46+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "黃仁勳婚外情風波將在全球引發連鎖反應",
-          "link": "https://www.bbc.com/zhongwen/articles/c63eled4384zo/trad",
-          "date": "2026-11-10T04:02:29+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "First day of Ukraine peace talks constructive, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o",
-          "date": "2026-11-10T00:09:49+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Inside the French drug gangs recruiting children to kill",
-          "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o",
-          "date": "2026-11-09T06:00:26+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o",
-          "date": "2026-11-09T02:50:13+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "中式微短劇浪潮席捲英國：為滑動時代而生的「碎片化」劇集",
-          "link": "https://www.bbc.com/zhongwen/articles/c50med2zn8dno/trad",
-          "date": "2026-11-09T00:20:25+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -904,6 +904,90 @@
           "observed_days": 1
         },
         {
+          "title": "CoreWeave soars more than 24% for best day since April 2025 after strong Q3 report",
+          "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+          "date": "2026-11-11T15:13:39+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+          "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+          "date": "2026-11-11T14:35:23+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Christmas toy rush being driven by squishies and building sets",
+          "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o",
+          "date": "2026-11-11T00:16:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+          "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko",
+          "date": "2026-11-11T00:02:07+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go",
+          "date": "2026-11-10T22:52:15+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+          "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo",
+          "date": "2026-11-10T14:46:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
           "title": "Nvidia sells off for second day in fallout from Jensen Huang’s affair with alleged spy",
           "link": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
           "date": "2026-11-10T09:29:20+00:00",
@@ -930,98 +1014,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-          "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
-          "date": "2026-11-09T06:01:52+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Doing these things now will help you save money at Christmas",
-          "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo",
-          "date": "2026-11-09T00:09:14+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "CoreWeave soars 20% as CEO reaffirms AI compute demand after strong Q3 report",
-          "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-          "date": "2026-11-11T15:13:39+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "JetBlue's CEO has pushed back on creditor fears and is betting on premium to return to profitability",
-          "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
-          "date": "2026-11-11T15:00:02+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "CoreWeave CEO says 'new political reality' after midterms won't slow buildout",
-          "link": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
-          "date": "2026-11-11T14:52:03+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
-          "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
-          "date": "2026-11-11T14:35:23+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ]
     }
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-11T15:16:50+00:00",
-    "total": 1343,
+    "end": "2026-11-11T22:03:22+00:00",
+    "total": 1380,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
@@ -1036,7 +1036,7 @@
           "Lobsters"
         ],
         "source_count": 2,
-        "observed_days": 6
+        "observed_days": 7
       },
       {
         "title": "AI stocks climb after trillions wiped from market values",
@@ -1250,6 +1250,20 @@
           "observed_days": 4
         },
         {
+          "title": "The backlash about data centers might really just be about electricity",
+          "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+          "date": "2026-11-09T19:35:33+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
           "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
           "link": "https://www.qbitai.com/2026/11/508264.html",
           "date": "2026-11-07T05:01:17+00:00",
@@ -1292,23 +1306,9 @@
           "observed_days": 3
         },
         {
-          "title": "The backlash about data centers might really just be about electricity",
-          "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-          "date": "2026-11-09T19:35:33+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-          "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-          "date": "2026-11-09T17:05:43+00:00",
+          "title": "The Download: preserving minds and weighing open AI risks",
+          "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+          "date": "2026-11-11T13:10:00+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -1334,7 +1334,7 @@
             "Lobsters"
           ],
           "source_count": 2,
-          "observed_days": 6
+          "observed_days": 7
         },
         {
           "title": "Pratt parsing is a black box",
@@ -1544,6 +1544,20 @@
           "observed_days": 4
         },
         {
+          "title": "社区速递 165 | 透明工牌与派友十月购物清单",
+          "link": "https://sspai.com/post/118861",
+          "date": "2026-11-10T08:44:26+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
           "title": "Physicists listened to electrical noise to crack a superconductor mystery",
           "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
           "date": "2026-11-08T12:15:31+00:00",
@@ -1589,20 +1603,6 @@
           "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
           "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
           "date": "2026-11-06T23:09:45+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
-          "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
-          "date": "2026-11-06T22:41:37+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -1686,9 +1686,9 @@
           "observed_days": 3
         },
         {
-          "title": "Alzheimer’s may have early warning signs outside the brain",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
-          "date": "2026-11-10T01:47:34+00:00",
+          "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
+          "date": "2026-11-11T13:10:51+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -1700,9 +1700,9 @@
           "observed_days": 2
         },
         {
-          "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
-          "date": "2026-11-10T00:42:52+00:00",
+          "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm",
+          "date": "2026-11-11T12:32:48+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -1714,9 +1714,9 @@
           "observed_days": 2
         },
         {
-          "title": "Scientists finally discover why we learn to love bitter coffee",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
-          "date": "2026-11-09T23:19:35+00:00",
+          "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
+          "date": "2026-11-11T09:43:55+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -1728,9 +1728,9 @@
           "observed_days": 2
         },
         {
-          "title": "Common supplement could help fight psoriasis, scientists discover",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261108233057.htm",
-          "date": "2026-11-09T11:44:20+00:00",
+          "title": "Even occasional marijuana use linked to 40% higher odds of stroke",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261110042539.htm",
+          "date": "2026-11-11T03:47:25+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -1742,9 +1742,9 @@
           "observed_days": 2
         },
         {
-          "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm",
-          "date": "2026-11-09T09:13:28+00:00",
+          "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
+          "date": "2026-11-11T01:36:04+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
