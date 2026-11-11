@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-10T23:26:12+00:00",
-  "updated": "2026-11-10T23:26:11+00:00",
+  "generated_at": "2026-11-11T06:31:00+00:00",
+  "updated": "2026-11-11T06:31:00+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-09T00:00:00+08:00",
-    "end": "2026-11-10T23:26:12+00:00",
-    "total": 287,
+    "end": "2026-11-11T06:31:00+00:00",
+    "total": 326,
     "items": [
       {
         "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
@@ -199,6 +199,20 @@
           "observed_days": 2
         },
         {
+          "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
+          "link": "https://www.qbitai.com/2026/11/509052.html",
+          "date": "2026-11-11T03:43:31+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
           "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
           "date": "2026-11-10T13:10:00+00:00",
@@ -222,6 +236,20 @@
           ],
           "sources": [
             "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+          "link": "https://www.qbitai.com/2026/11/509032.html",
+          "date": "2026-11-10T10:35:38+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -267,34 +295,6 @@
           ],
           "source_count": 1,
           "observed_days": 1
-        },
-        {
-          "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
-          "link": "https://www.qbitai.com/2026/11/508991.html",
-          "date": "2026-11-10T07:50:26+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
-          "link": "https://www.qbitai.com/2026/11/508985.html",
-          "date": "2026-11-10T07:33:19+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "开发": [
@@ -328,9 +328,9 @@
           "observed_days": 2
         },
         {
-          "title": "[网络安全] 深圳一机顶盒厂商在 130 万台出厂设备中预埋系统级后门，并将控制权卖给犯罪集团",
-          "link": "https://www.v2ex.com/t/1256013",
-          "date": "2026-11-10T23:20:14+00:00",
+          "title": "[分享发现] 无意见发现一个可以让自己少吃点的生活小妙招",
+          "link": "https://www.v2ex.com/t/1256166",
+          "date": "2026-11-11T06:29:30+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -342,23 +342,9 @@
           "observed_days": 1
         },
         {
-          "title": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
-          "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-          "date": "2026-11-10T22:17:56+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[推广] 做了一个 MiniMax H3 Image 在线生图工具，支持文字生成和参考图编辑",
-          "link": "https://www.v2ex.com/t/1256012",
-          "date": "2026-11-10T22:14:43+00:00",
+          "title": "[程序员] 大家有深入使用 qwen4 的吗，给给反馈",
+          "link": "https://www.v2ex.com/t/1256165",
+          "date": "2026-11-11T06:27:27+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -370,71 +356,85 @@
           "observed_days": 1
         },
         {
-          "title": "rVPN – stealth VPN with end-to-end encryption",
-          "link": "https://rvpn.org/",
-          "date": "2026-11-10T21:42:50+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Apple has new Mac app coming to make running local AI models easy",
-          "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-          "date": "2026-11-10T21:25:03+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Six Math Essentials by Terence Tao",
-          "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
-          "date": "2026-11-10T20:58:44+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Sherman Anti-Trust Act (1890)",
-          "link": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
-          "date": "2026-11-10T20:56:16+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[问与答] GROK 是否有故障了？聊天记录全没，新对话会上隐私锁无法查看",
-          "link": "https://www.v2ex.com/t/1256011",
-          "date": "2026-11-10T20:17:11+00:00",
+          "title": "[程序员] [开源] One IP 接到第一个广告了：聊聊数据，也欢迎 Fork 二开自己赚钱",
+          "link": "https://www.v2ex.com/t/1256164",
+          "date": "2026-11-11T06:26:48+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
             "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[加密货币] 出 U，有港币想入金的可以联系",
+          "link": "https://www.v2ex.com/t/1256163",
+          "date": "2026-11-11T06:25:40+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[问与答] 有朋友开通过 workbuddy 的会员吗，最近用 hy4 作为 worker 感觉效果还可以",
+          "link": "https://www.v2ex.com/t/1256162",
+          "date": "2026-11-11T06:24:23+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+          "link": "https://github.com/gmkurtzer/ginux",
+          "date": "2026-11-11T05:25:54+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Protecting SSH Keys with macOS Secure Enclave",
+          "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+          "date": "2026-11-11T04:28:57+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+          "link": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+          "date": "2026-11-11T02:57:08+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -668,57 +668,57 @@
           "observed_days": 2
         },
         {
-          "title": "A practically perfect plesiosaur",
-          "link": "https://www.nature.com/articles/d41586-026-03278-7",
-          "date": "2026-11-10T00:00:00+00:00",
+          "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
+          "date": "2026-11-11T01:36:04+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
           ],
           "sources": [
-            "Nature"
+            "ScienceDaily"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Why your physics project needs an anthropologist",
-          "link": "https://www.nature.com/articles/d41586-026-03623-w",
-          "date": "2026-11-10T00:00:00+00:00",
+          "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
+          "date": "2026-11-11T00:59:32+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
           ],
           "sources": [
-            "Nature"
+            "ScienceDaily"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Chile’s postdoc rules risk driving talent away",
-          "link": "https://www.nature.com/articles/d41586-026-03643-6",
-          "date": "2026-11-10T00:00:00+00:00",
+          "title": "NASA’s CHAPEA Mars crew finally emerges after more than a year in isolation",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm",
+          "date": "2026-11-10T05:00:41+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
           ],
           "sources": [
-            "Nature"
+            "ScienceDaily"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Students need AI-free spaces to learn core skills",
-          "link": "https://www.nature.com/articles/d41586-026-03644-5",
-          "date": "2026-11-10T00:00:00+00:00",
+          "title": "NASA offers $500,000 to develop next-generation electric rocket engines",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261109205404.htm",
+          "date": "2026-11-10T02:36:21+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
           ],
           "sources": [
-            "Nature"
+            "ScienceDaily"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -960,9 +960,9 @@
           "observed_days": 2
         },
         {
-          "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
-          "link": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
-          "date": "2026-11-10T23:16:15+00:00",
+          "title": "Investors pivot to defensive stocks as markets enter a ‘state of alert’",
+          "link": "https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html",
+          "date": "2026-11-11T06:00:01+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -974,9 +974,9 @@
           "observed_days": 1
         },
         {
-          "title": "Hegseth impeachment effort torpedoed in House",
-          "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
-          "date": "2026-11-10T23:14:09+00:00",
+          "title": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
+          "link": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
+          "date": "2026-11-11T05:15:50+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -988,9 +988,9 @@
           "observed_days": 1
         },
         {
-          "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
-          "link": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
-          "date": "2026-11-10T23:11:34+00:00",
+          "title": "Bessent reportedly moved to military base over Iranian threats on his life",
+          "link": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
+          "date": "2026-11-11T04:06:47+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1002,15 +1002,15 @@
           "observed_days": 1
         },
         {
-          "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go",
-          "date": "2026-11-10T22:52:15+00:00",
+          "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+          "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+          "date": "2026-11-11T03:08:17+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
           ],
           "sources": [
-            "BBC Business"
+            "CNBC"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -1020,8 +1020,8 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-10T23:26:12+00:00",
-    "total": 1252,
+    "end": "2026-11-11T06:31:00+00:00",
+    "total": 1291,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",

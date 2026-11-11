@@ -1,124 +1,124 @@
 {
-  "updated": "2026-11-10T23:26:12+00:00",
+  "updated": "2026-11-11T06:31:00+00:00",
   "leetcode": {
-    "date": "2026-11-10",
-    "id": "3693",
-    "title": "Climbing Stairs II",
-    "titleEn": "Climbing Stairs II",
-    "slug": "climbing-stairs-ii",
+    "date": "2026-11-11",
+    "id": "3789",
+    "title": "Minimum Cost to Acquire Required Items",
+    "titleEn": "Minimum Cost to Acquire Required Items",
+    "slug": "minimum-cost-to-acquire-required-items",
     "difficulty": "Medium",
     "tags": [
-      "Array",
-      "Dynamic Programming"
+      "Math",
+      "Greedy"
     ],
-    "link": "https://leetcode.com/problems/climbing-stairs-ii/",
+    "link": "https://leetcode.com/problems/minimum-cost-to-acquire-required-items/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Regulus (Turner)",
-    "text": "Regulus is an oil painting by the English artist J. M. W. Turner, currently housed in Tate Britain, London. It was initially painted in 1828 and overpainted twice, first between 1829 and 1837, and again in 1837. The painting is based on a legend about the Roman consul and general Marcus Atilius Regulus, in which he was captured by Carthaginian forces and executed after refusing a prisoner exchange. Many accounts add that he was tortured by being forced to stare at the sun, blinding him. The painting depicts a harbour in either Rome or Carthage, with ships and buildings surrounding the ocean. It is dominated by the large white sun in the centre.",
-    "words": 113,
-    "url": "https://en.wikipedia.org/wiki/Regulus_(Turner)",
-    "date": "2026-11-10",
+    "title": "U.S. Route 101",
+    "text": "U.S. Route 101, or U.S. Highway 101 (US 101), is a major north–south highway that traverses the states of California, Oregon, and Washington on the West Coast of the United States. It is part of the United States Numbered Highway System and runs for over 1,500 miles (2,400 km) along the Pacific Ocean. The highway is also known by various names, including El Camino Real in parts of California, the Oregon Coast Highway, and the Olympic Highway in Washington. Despite its three-digit number, normally used for spur routes, US 101 is classified as a primary route with 10 as its \"first digit\".",
+    "words": 102,
+    "url": "https://en.wikipedia.org/wiki/U.S._Route_101",
+    "date": "2026-11-11",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "[Home Movies: Medicus collection: New York World's Fair, 1939-40] (Reel 4)",
-    "creator": "Medicus, Phillip",
-    "year": "1939",
-    "url": "https://archive.org/download/0638_HM_Medicus_collection_New_York_Worlds_Fair_1939-40_Reel_4_17_00_37_00/0638_HM_Medicus_collection_New_York_Worlds_Fair_1939-40_Reel_4_17_00_37_00_3mb.m4v",
-    "page": "https://archive.org/details/0638_HM_Medicus_collection_New_York_Worlds_Fair_1939-40_Reel_4_17_00_37_00",
-    "date": "2026-11-10",
+    "title": "[Home Movies: Can 10586: Livonia, Michigan]",
+    "creator": "",
+    "year": "1950",
+    "url": "https://archive.org/download/6300_HM_Can_10586_Livonia_Michigan_01_13_41_00/6300_HM_Can_10586_Livonia_Michigan_01_13_41_00_3mb.mp4",
+    "page": "https://archive.org/details/6300_HM_Can_10586_Livonia_Michigan_01_13_41_00",
+    "date": "2026-11-11",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "The World Most Seafaring Drug Addict - EP 2012 (2012)",
-      "artist": "The World Most Seafaring Drug Addict",
-      "url": "https://archive.org/download/IBR_1544/1.%20Untitled%20%26%20bonus%20electrical%20track.mp3",
-      "page": "https://archive.org/details/IBR_1544",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "[PNA045] L'Anthologie Des Sens",
-      "artist": "Mithra",
-      "url": "https://archive.org/download/pna045/PNA045_-_01_-_MITHRA_-_LE_BIEN_AIMABLE_SPECTRE.mp3",
-      "page": "https://archive.org/details/pna045",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/"
-    },
-    {
-      "title": "[nws0311] netwaves 09.01: S09E01",
-      "artist": "netwaves",
-      "url": "https://archive.org/download/nws311/01%20Outer%20Space%20%28Carol%20Weston%20Lyrics%29.mp3",
-      "page": "https://archive.org/details/nws311",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "[UPL 004] poj. wlkp - Duchy z Dołu",
-      "artist": "poj. wlkp",
-      "url": "https://archive.org/download/poj.wlkp-duchy_z_dolu/01_duchy.mp3",
-      "page": "https://archive.org/details/poj.wlkp-duchy_z_dolu",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "[plive0406] Mix_Mup - Live at Privatelektro Headphone Festival 2004",
-      "artist": "mix_mup",
-      "url": "https://archive.org/download/plive0406/mmuphp04.mp3",
-      "page": "https://archive.org/details/plive0406",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Energized",
-      "artist": "Kosmomuz",
-      "url": "https://archive.org/download/fri16/01energized_vbr.mp3",
-      "page": "https://archive.org/details/fri16",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "(Petroglyph395) murkok - canvas",
-      "artist": "murkok",
-      "url": "https://archive.org/download/petroglyph395murkok-canvas/01_-_murkok_-_something_i_forgot_to_tell.mp3",
-      "page": "https://archive.org/details/petroglyph395murkok-canvas",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "NWTWO0597-Pure Laine-Lie",
-      "artist": "Pure Laine",
-      "url": "https://archive.org/download/nwtwo-0597-pure-laine-lie/NWTWO0597-Pure%20Laine-Lie.mp3",
-      "page": "https://archive.org/details/nwtwo-0597-pure-laine-lie",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "[ENDE489] Disrrr - True Anarchy Built On Democracy",
-      "artist": "",
-      "url": "https://archive.org/download/ende489-disrrr-true-anarchy-built-on-democracy/01%20%20-%20Disrrr%20-%20fuck%20up%20the%20police.mp3",
-      "page": "https://archive.org/details/ende489-disrrr-true-anarchy-built-on-democracy",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "mnblck023 - Otolith - The Dark Side EP (2009)",
-      "artist": "Otolith",
-      "url": "https://archive.org/download/mnblck023/mnblck023-Otolith-The_Dark_Side_EP-01-Monolith1.mp3",
-      "page": "https://archive.org/details/mnblck023",
+      "title": "frei²: Yes, No, or maybe Not",
+      "artist": "Weltherrscher, Robert Bienert",
+      "url": "https://archive.org/download/freihoch2-2010-02-02/freihoch2-2010-02-02_vbr.mp3",
+      "page": "https://archive.org/details/freihoch2-2010-02-02",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/de/"
     },
     {
-      "title": "ryan l - aquas [quiz015]",
-      "artist": "ryan l",
-      "url": "https://archive.org/download/quiz015-ryan_l-aquas/quiz015-01-ryan_l-beams_on_light_peirce_through_the_mass_of_murky_water.mp3",
-      "page": "https://archive.org/details/quiz015-ryan_l-aquas",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
+      "title": "microbio05 The Human Isolated Bacteria: Cerelac",
+      "artist": "Microbio",
+      "url": "https://archive.org/download/microbio05/m_05-01.mp3",
+      "page": "https://archive.org/details/microbio05",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Tsukimono - The Back is a Collection of Busted Static [Fukk God 018]",
+      "title": "Counting sheeps to get some sleep",
+      "artist": "[neuma]",
+      "url": "https://archive.org/download/fri066/01096astrangeloopwithlostfreqs_vbr.mp3",
+      "page": "https://archive.org/details/fri066",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Lindon - Eksajoule [mtk014]",
       "artist": "",
-      "url": "https://archive.org/download/fukkgod018/fukkgod018_-_tsukimono_-_01_-_punked_up_fuck_attitude.mp3",
-      "page": "https://archive.org/details/fukkgod018",
+      "url": "https://archive.org/download/mtk014/mtk014-lindon-eksajoule.mp3",
+      "page": "https://archive.org/details/mtk014",
       "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
+    },
+    {
+      "title": "frei² 2020-09-02: Hard'n'Heavy from the Archive",
+      "artist": "Robert Bienert",
+      "url": "https://archive.org/download/freihoch2-2020-09-02-Hard_Heavy_Archive/freihoch2-2020-09-02-Hard_Heavy_Archive.mp3",
+      "page": "https://archive.org/details/freihoch2-2020-09-02-Hard_Heavy_Archive",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "Voltaic Retinue",
+      "artist": "Jazzaria.com",
+      "url": "https://archive.org/download/voltaic-retinue/voltaic-retinue.mp3",
+      "page": "https://archive.org/details/voltaic-retinue",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "Sebkha-Chott NeXXXt Epilog Master 2012 04 24 V 0 1",
+      "artist": "Sebkha-Chott v.2009",
+      "url": "https://archive.org/download/master-2012-04-24-v-0-1/Master_2012-04-24_v0-1.mp3",
+      "page": "https://archive.org/details/master-2012-04-24-v-0-1",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "title": "[unfound03] ezekiel honig - it's getting cold outside",
+      "artist": "ezekiel honig",
+      "url": "https://archive.org/download/unfound03/unfound03_01_-_ezekiel_honig_-_under_the_covers.mp3",
+      "page": "https://archive.org/details/unfound03",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/"
+    },
+    {
+      "title": "Zero Fucks",
+      "artist": "3 past 3",
+      "url": "https://archive.org/download/mlem004/01.%2011111000110%20Junglist.mp3",
+      "page": "https://archive.org/details/mlem004",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Binaerpilot - Remember C64? [UHZMP3005]",
+      "artist": "Binaerpilot",
+      "url": "https://archive.org/download/uhzmp3005/01-binarpilot-tjaere_igjen.mp3",
+      "page": "https://archive.org/details/uhzmp3005",
+      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
+    },
+    {
+      "title": "[rea008] Night Look Back - Early Summer Ep",
+      "artist": "Night Look Back",
+      "url": "https://archive.org/download/rea008_NLB_Early_summer_ep/01_night_look_back_Early_Summer.mp3",
+      "page": "https://archive.org/details/rea008_NLB_Early_summer_ep",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Seven Ages - Beginning to understand at last...",
+      "artist": "Seven Ages",
+      "url": "https://archive.org/download/sevenages0001/part0_vbr.mp3",
+      "page": "https://archive.org/details/sevenages0001",
+      "license": "Creative Commons"
     }
   ]
 }
