@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-11T06:31:00+00:00",
-  "updated": "2026-11-11T06:31:00+00:00",
+  "generated_at": "2026-11-11T15:16:50+00:00",
+  "updated": "2026-11-11T15:16:50+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-09T00:00:00+08:00",
-    "end": "2026-11-11T06:31:00+00:00",
-    "total": 326,
+    "end": "2026-11-11T15:16:50+00:00",
+    "total": 379,
     "items": [
       {
         "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
@@ -199,6 +199,62 @@
           "observed_days": 2
         },
         {
+          "title": "The Download: preserving minds and weighing open AI risks",
+          "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+          "date": "2026-11-11T13:10:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+          "link": "https://www.qbitai.com/2026/11/509146.html",
+          "date": "2026-11-11T06:41:26+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
+          "link": "https://www.qbitai.com/2026/11/509088.html",
+          "date": "2026-11-11T06:27:03+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+          "link": "https://www.qbitai.com/2026/11/509085.html",
+          "date": "2026-11-11T06:18:09+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
           "link": "https://www.qbitai.com/2026/11/509052.html",
           "date": "2026-11-11T03:43:31+00:00",
@@ -239,62 +295,6 @@
           ],
           "source_count": 1,
           "observed_days": 1
-        },
-        {
-          "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
-          "link": "https://www.qbitai.com/2026/11/509032.html",
-          "date": "2026-11-10T10:35:38+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
-          "link": "https://www.qbitai.com/2026/11/509017.html",
-          "date": "2026-11-10T08:33:25+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
-          "link": "https://www.qbitai.com/2026/11/508996.html",
-          "date": "2026-11-10T07:57:45+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
-          "link": "https://www.qbitai.com/2026/11/508998.html",
-          "date": "2026-11-10T07:56:29+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "开发": [
@@ -328,9 +328,9 @@
           "observed_days": 2
         },
         {
-          "title": "[分享发现] 无意见发现一个可以让自己少吃点的生活小妙招",
-          "link": "https://www.v2ex.com/t/1256166",
-          "date": "2026-11-11T06:29:30+00:00",
+          "title": "[程序员] 大家看看我写的 rust 版本的 agent,名字 rpi，我实测 30 个进程实际使用内存占用极低",
+          "link": "https://www.v2ex.com/t/1256300",
+          "date": "2026-11-11T15:16:14+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -342,9 +342,9 @@
           "observed_days": 1
         },
         {
-          "title": "[程序员] 大家有深入使用 qwen4 的吗，给给反馈",
-          "link": "https://www.v2ex.com/t/1256165",
-          "date": "2026-11-11T06:27:27+00:00",
+          "title": "[职场话题] 鹅厂要裁一半人？",
+          "link": "https://www.v2ex.com/t/1256299",
+          "date": "2026-11-11T14:48:29+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -356,9 +356,9 @@
           "observed_days": 1
         },
         {
-          "title": "[程序员] [开源] One IP 接到第一个广告了：聊聊数据，也欢迎 Fork 二开自己赚钱",
-          "link": "https://www.v2ex.com/t/1256164",
-          "date": "2026-11-11T06:26:48+00:00",
+          "title": "[推广] gemini-4-carbon 免费一天",
+          "link": "https://www.v2ex.com/t/1256297",
+          "date": "2026-11-11T14:36:00+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -370,9 +370,9 @@
           "observed_days": 1
         },
         {
-          "title": "[加密货币] 出 U，有港币想入金的可以联系",
-          "link": "https://www.v2ex.com/t/1256163",
-          "date": "2026-11-11T06:25:40+00:00",
+          "title": "[Claude] Claude IOS 订阅风控再升级",
+          "link": "https://www.v2ex.com/t/1256296",
+          "date": "2026-11-11T14:32:09+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -384,9 +384,9 @@
           "observed_days": 1
         },
         {
-          "title": "[问与答] 有朋友开通过 workbuddy 的会员吗，最近用 hy4 作为 worker 感觉效果还可以",
-          "link": "https://www.v2ex.com/t/1256162",
-          "date": "2026-11-11T06:24:23+00:00",
+          "title": "[推广] LingoManga：整章漫画 AI 翻译，免费预览整章再付费下载高清 ZIP",
+          "link": "https://www.v2ex.com/t/1256295",
+          "date": "2026-11-11T14:23:04+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -398,9 +398,9 @@
           "observed_days": 1
         },
         {
-          "title": "Greg Kurtzer's Ginux is now a userspace kernel",
-          "link": "https://github.com/gmkurtzer/ginux",
-          "date": "2026-11-11T05:25:54+00:00",
+          "title": "Pharo in the Browser with WebAssembly",
+          "link": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+          "date": "2026-11-11T14:21:27+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -412,9 +412,9 @@
           "observed_days": 1
         },
         {
-          "title": "Protecting SSH Keys with macOS Secure Enclave",
-          "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-          "date": "2026-11-11T04:28:57+00:00",
+          "title": "Atuin Threads: All your agent sessions on every machine",
+          "link": "https://blog.atuin.sh/threads-agent-sessions/",
+          "date": "2026-11-11T14:10:46+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -426,9 +426,9 @@
           "observed_days": 1
         },
         {
-          "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
-          "link": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
-          "date": "2026-11-11T02:57:08+00:00",
+          "title": "Apple is killing its Support Community forum next week",
+          "link": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+          "date": "2026-11-11T14:02:11+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -668,9 +668,9 @@
           "observed_days": 2
         },
         {
-          "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
-          "date": "2026-11-11T01:36:04+00:00",
+          "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
+          "date": "2026-11-11T13:10:51+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -682,9 +682,9 @@
           "observed_days": 1
         },
         {
-          "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
-          "date": "2026-11-11T00:59:32+00:00",
+          "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm",
+          "date": "2026-11-11T12:32:48+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -696,9 +696,9 @@
           "observed_days": 1
         },
         {
-          "title": "NASA’s CHAPEA Mars crew finally emerges after more than a year in isolation",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm",
-          "date": "2026-11-10T05:00:41+00:00",
+          "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
+          "date": "2026-11-11T09:43:55+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -710,9 +710,9 @@
           "observed_days": 1
         },
         {
-          "title": "NASA offers $500,000 to develop next-generation electric rocket engines",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261109205404.htm",
-          "date": "2026-11-10T02:36:21+00:00",
+          "title": "Even occasional marijuana use linked to 40% higher odds of stroke",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261110042539.htm",
+          "date": "2026-11-11T03:47:25+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -960,9 +960,9 @@
           "observed_days": 2
         },
         {
-          "title": "Investors pivot to defensive stocks as markets enter a ‘state of alert’",
-          "link": "https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html",
-          "date": "2026-11-11T06:00:01+00:00",
+          "title": "CoreWeave soars 20% as CEO reaffirms AI compute demand after strong Q3 report",
+          "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+          "date": "2026-11-11T15:13:39+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -974,9 +974,9 @@
           "observed_days": 1
         },
         {
-          "title": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
-          "link": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
-          "date": "2026-11-11T05:15:50+00:00",
+          "title": "JetBlue's CEO has pushed back on creditor fears and is betting on premium to return to profitability",
+          "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
+          "date": "2026-11-11T15:00:02+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -988,9 +988,9 @@
           "observed_days": 1
         },
         {
-          "title": "Bessent reportedly moved to military base over Iranian threats on his life",
-          "link": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
-          "date": "2026-11-11T04:06:47+00:00",
+          "title": "CoreWeave CEO says 'new political reality' after midterms won't slow buildout",
+          "link": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
+          "date": "2026-11-11T14:52:03+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1002,9 +1002,9 @@
           "observed_days": 1
         },
         {
-          "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-          "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
-          "date": "2026-11-11T03:08:17+00:00",
+          "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+          "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+          "date": "2026-11-11T14:35:23+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1020,8 +1020,8 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-11T06:31:00+00:00",
-    "total": 1291,
+    "end": "2026-11-11T15:16:50+00:00",
+    "total": 1343,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
