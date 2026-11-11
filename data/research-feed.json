@@ -1,58 +1,82 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-10T08:50:02.577357+00:00",
-  "attempted_at": "2026-11-10T08:50:02.577357+00:00",
+  "updated": "2026-11-11T08:23:29.563583+00:00",
+  "attempted_at": "2026-11-11T08:23:29.563583+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-11-10T08:50:02.577357+00:00",
+      "last_success": "2026-11-11T08:23:29.563583+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-11-10T08:50:02.577357+00:00",
+      "last_success": "2026-11-11T08:23:29.563583+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-11-10T08:50:02.577357+00:00",
+      "last_success": "2026-11-11T08:23:29.563583+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-11-10T08:50:02.577357+00:00",
+      "last_success": "2026-11-11T08:23:29.563583+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-11-10T08:50:02.577357+00:00",
+      "last_success": "2026-11-11T08:23:29.563583+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-11-10T08:50:02.577357+00:00",
+      "last_success": "2026-11-11T08:23:29.563583+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-11-10T08:50:02.577357+00:00",
+      "last_success": "2026-11-11T08:23:29.563583+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-11-10T08:50:02.577357+00:00",
+      "last_success": "2026-11-11T08:23:29.563583+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.3389/frobt.2026.1981973",
+      "title": "Simulation-based evaluation of a modified RRT algorithm for ground-robot navigation in 3D environments",
+      "journal_id": "frontiers",
+      "published": "2026-11-11",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3389/frobt.2026.1981973",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18223862",
+      "title": "Exploring Drivers of Structural Variability in Norway Spruce Stands Using Airborne LiDAR",
+      "journal_id": "remote-sensing",
+      "published": "2026-11-10",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18223862",
+      "source": "crossref"
+    },
     {
       "id": "10.3390/rs18213850",
       "title": "Irrigation Channel Mapping from Very High-Resolution Satellite Imagery and LiDAR-Derived Digital Elevation Models",
@@ -1768,18 +1792,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.3390/rs18183153",
-      "source": "crossref"
-    },
-    {
-      "id": "10.3390/rs18183148",
-      "title": "Self-Supervised 3D Point Cloud Detection with Depthwise Separable Masked Autoencoders",
-      "journal_id": "remote-sensing",
-      "published": "2026-09-13",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18183148",
       "source": "crossref"
     },
     {
