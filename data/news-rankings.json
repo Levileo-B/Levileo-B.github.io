@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-11T22:03:22+00:00",
-  "updated": "2026-11-11T22:03:22+00:00",
+  "generated_at": "2026-11-12T03:04:07+00:00",
+  "updated": "2026-11-12T03:04:07+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-09T00:00:00+08:00",
-    "end": "2026-11-11T22:03:22+00:00",
-    "total": 416,
+    "end": "2026-11-12T03:04:07+00:00",
+    "total": 438,
     "items": [
       {
         "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
@@ -370,71 +370,71 @@
           "observed_days": 2
         },
         {
-          "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-          "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-          "date": "2026-11-11T21:24:35+00:00",
+          "title": "[问与答] codex 充值疑问",
+          "link": "https://www.v2ex.com/t/1256404",
+          "date": "2026-11-12T02:59:51+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "Hacker News"
+            "V2EX"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Play GTA5 on Browser",
-          "link": "https://playgta5.com/",
-          "date": "2026-11-11T21:10:35+00:00",
+          "title": "[问与答] 腾讯要大裁员？",
+          "link": "https://www.v2ex.com/t/1256403",
+          "date": "2026-11-12T02:59:41+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "Hacker News"
+            "V2EX"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "GitHub Incident with Webhooks, Actions, etc.",
-          "link": "https://www.githubstatus.com/incidents/dvy0t3mvh1lg",
-          "date": "2026-11-11T20:54:37+00:00",
+          "title": "[问与答] 请问 微信铃声非常大，怎么能调节下",
+          "link": "https://www.v2ex.com/t/1256402",
+          "date": "2026-11-12T02:57:38+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "Hacker News"
+            "V2EX"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Tools for exploring the souls of large language models",
-          "link": "https://oshea00.github.io/posts/tinygpt-visualizer/",
-          "date": "2026-11-11T20:45:50+00:00",
+          "title": "[酷工作] 旧时代的纯前端",
+          "link": "https://www.v2ex.com/t/1256400",
+          "date": "2026-11-12T02:56:29+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "Hacker News"
+            "V2EX"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Emacs in the Age of Magic",
-          "link": "https://commandlinesystems.com/magic.txt",
-          "date": "2026-11-11T20:26:32+00:00",
+          "title": "[程序员] deepseek 才几百人, 可想而知任何公司几千上万人得以后都很难存活",
+          "link": "https://www.v2ex.com/t/1256398",
+          "date": "2026-11-12T02:56:06+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "Hacker News"
+            "V2EX"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -1020,8 +1020,8 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-11T22:03:22+00:00",
-    "total": 1380,
+    "end": "2026-11-12T03:04:07+00:00",
+    "total": 1402,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",

@@ -1,11 +1,16 @@
 {
-  "updated": "2026-11-11T22:03:22+00:00",
+  "updated": "2026-11-12T03:04:07+00:00",
   "sources": [
     {
       "name": "BBC 中文",
       "category": "综合",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
+        {
+          "title": "中美能源大戰，如何影響你的帳單？",
+          "link": "https://www.bbc.com/zhongwen/articles/cmvg2er51z1wo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-12T01:45:18+00:00"
+        },
         {
           "title": "黃仁勳疑落入間諜戰「美人計」——韓國也曾中招",
           "link": "https://www.bbc.com/zhongwen/articles/cj93rp9vzeg1o/trad?at_medium=RSS&at_campaign=rss",
@@ -22,11 +27,6 @@
           "date": "2026-11-11T02:41:36+00:00"
         },
         {
-          "title": "從局長下台到議會「沉默」 宏福苑大火後的政治問責與維穩邏輯",
-          "link": "https://www.bbc.com/zhongwen/articles/cm0e0e7d7qv4o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-11T01:03:16+00:00"
-        },
-        {
           "title": "一名公務員如何長期瞞天過海，身兼五職？",
           "link": "https://www.bbc.com/zhongwen/articles/c933x388j116o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-11-11T00:21:53+00:00"
@@ -41,7 +41,12 @@
         {
           "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
           "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-11T20:52:52+00:00"
+          "date": "2026-11-11T22:07:37+00:00"
+        },
+        {
+          "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+          "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-12T02:09:08+00:00"
         },
         {
           "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
@@ -49,19 +54,14 @@
           "date": "2026-11-11T18:04:58+00:00"
         },
         {
-          "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-          "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-11T16:45:11+00:00"
+          "title": "New York building collapse kills one person and injures 12",
+          "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-12T02:33:12+00:00"
         },
         {
-          "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-          "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-11T18:38:45+00:00"
-        },
-        {
-          "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-          "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-11T16:38:07+00:00"
+          "title": "Australian teen missing in bush for six days rescued alive",
+          "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-12T02:40:18+00:00"
         }
       ]
     },
@@ -71,9 +71,14 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
+          "title": "Some under-25s should get less benefits, Milburn review to say",
+          "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-11T23:22:04+00:00"
+        },
+        {
           "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
           "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-11T21:48:33+00:00"
+          "date": "2026-11-12T00:49:05+00:00"
         },
         {
           "title": "Christmas toy rush being driven by squishies and building sets",
@@ -89,11 +94,6 @@
           "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
           "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
           "date": "2026-11-10T22:52:15+00:00"
-        },
-        {
-          "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-          "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-10T17:56:12+00:00"
         }
       ]
     },
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
-          "link": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
-          "date": "2026-11-11T20:30:23+00:00"
+          "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks",
+          "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+          "date": "2026-11-12T00:21:27+00:00"
         },
         {
-          "title": "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 votes",
-          "link": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
-          "date": "2026-11-11T19:55:39+00:00"
+          "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+          "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+          "date": "2026-11-11T22:46:29+00:00"
+        },
+        {
+          "title": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
+          "link": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramer-jensen-huang-nvidia-stock-advice.html",
+          "date": "2026-11-12T01:14:21+00:00"
         },
         {
           "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
           "link": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
-          "date": "2026-11-11T21:33:17+00:00"
+          "date": "2026-11-11T22:58:11+00:00"
         },
         {
-          "title": "CoreWeave soars more than 24% for best day since April 2025 after strong Q3 report",
-          "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-          "date": "2026-11-11T21:11:26+00:00"
-        },
-        {
-          "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
-          "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
-          "date": "2026-11-11T21:04:36+00:00"
+          "title": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
+          "link": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
+          "date": "2026-11-11T23:31:37+00:00"
         }
       ]
     },
@@ -134,6 +134,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
+          "link": "https://sspai.com/post/118935",
+          "date": "2026-11-12T00:22:09+00:00"
+        },
         {
           "title": "城市漫步指南 | 安特卫普，时尚就在生活中",
           "link": "https://sspai.com/post/118781",
@@ -153,11 +158,6 @@
           "title": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
           "link": "https://sspai.com/post/118905",
           "date": "2026-11-11T00:26:34+00:00"
-        },
-        {
-          "title": "社区速递 165 | 透明工牌与派友十月购物清单",
-          "link": "https://sspai.com/post/118861",
-          "date": "2026-11-10T08:44:26+00:00"
         }
       ]
     },
@@ -167,29 +167,29 @@
       "url": "https://www.ifanr.com/feed",
       "items": [
         {
+          "title": "联想 Googlebook 15 评测：安卓电脑准备好了，安卓没有",
+          "link": "https://www.ifanr.com/1689128?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-11-12T02:34:22+00:00"
+        },
+        {
+          "title": "折叠屏手机的转身｜明日后视镜",
+          "link": "https://www.ifanr.com/1689097?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-11-12T01:39:17+00:00"
+        },
+        {
+          "title": "我们正目睹乔布斯后科技史上最严重的逼宫",
+          "link": "https://www.ifanr.com/1689084?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-11-12T00:55:03+00:00"
+        },
+        {
+          "title": "早报｜苹果支持社区将关停/曝英伟达董事会考虑罢免黄仁勋/余承东官宣华为子品牌OSTA星芒",
+          "link": "https://www.ifanr.com/1689051?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-11-12T00:24:22+00:00"
+        },
+        {
           "title": "曝字节要做「中国版 Muse」，给豆包造个「超级大脑」",
           "link": "https://www.ifanr.com/1689016?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-11-11T11:52:16+00:00"
-        },
-        {
-          "title": "4.99 万元起，长安糯玉米 PLUS 变成四门「大玉米」，小车最后还是要「大大大」",
-          "link": "https://www.ifanr.com/1688966?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-11-11T09:47:34+00:00"
-        },
-        {
-          "title": "10 亿 Token 开源万只假鸟， AI 伪科普正在「污染」下一代的常识",
-          "link": "https://www.ifanr.com/1688897?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-11-11T07:03:17+00:00"
-        },
-        {
-          "title": "300 块的索尼复古耳机，没降噪不隔音，为什么还是卖爆了？",
-          "link": "https://www.ifanr.com/1688900?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-11-11T02:08:47+00:00"
-        },
-        {
-          "title": "今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上",
-          "link": "https://www.ifanr.com/1688883?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-11-11T00:26:39+00:00"
         }
       ]
     },
@@ -231,9 +231,14 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+          "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+          "date": "2026-11-12T00:55:40+00:00"
+        },
+        {
           "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
           "link": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
-          "date": "2026-11-11T21:59:41+00:00"
+          "date": "2026-11-11T23:14:34+00:00"
         },
         {
           "title": "United won’t let your AI agent book your flight",
@@ -249,11 +254,6 @@
           "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
           "link": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
           "date": "2026-11-11T17:09:58+00:00"
-        },
-        {
-          "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-          "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-          "date": "2026-11-11T14:15:27+00:00"
         }
       ]
     },
@@ -262,6 +262,11 @@
       "category": "科技",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+          "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+          "date": "2026-11-11T23:10:17+00:00"
+        },
         {
           "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
           "link": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
@@ -281,43 +286,6 @@
           "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
           "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
           "date": "2026-11-11T18:16:40+00:00"
-        },
-        {
-          "title": "Trump admin loses fight to spy on random journalists’ LinkedIn DMs",
-          "link": "https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms/",
-          "date": "2026-11-11T18:05:26+00:00"
-        }
-      ]
-    },
-    {
-      "name": "Hacker News",
-      "category": "开发",
-      "url": "https://hnrss.org/frontpage?count=10",
-      "items": [
-        {
-          "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-          "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-          "date": "2026-11-11T21:24:35+00:00"
-        },
-        {
-          "title": "Play GTA5 on Browser",
-          "link": "https://playgta5.com/",
-          "date": "2026-11-11T21:10:35+00:00"
-        },
-        {
-          "title": "GitHub Incident with Webhooks, Actions, etc.",
-          "link": "https://www.githubstatus.com/incidents/dvy0t3mvh1lg",
-          "date": "2026-11-11T20:54:37+00:00"
-        },
-        {
-          "title": "Tools for exploring the souls of large language models",
-          "link": "https://oshea00.github.io/posts/tinygpt-visualizer/",
-          "date": "2026-11-11T20:45:50+00:00"
-        },
-        {
-          "title": "Emacs in the Age of Magic",
-          "link": "https://commandlinesystems.com/magic.txt",
-          "date": "2026-11-11T20:26:32+00:00"
         }
       ]
     },
@@ -330,6 +298,11 @@
           "title": "How do you actually self-host securely?",
           "link": "https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely",
           "date": "2026-11-11T12:01:19+00:00"
+        },
+        {
+          "title": "How I accidentally became a millionaire",
+          "link": "https://lyra.horse/blog/2026/11/disinformation-machine/",
+          "date": "2026-11-11T21:53:24+00:00"
         },
         {
           "title": "What are some \"No AI\" apps/companies/resources you know of?",
@@ -345,11 +318,6 @@
           "title": "In Memoriam: Tim Peters 1952–2026",
           "link": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
           "date": "2026-11-11T14:20:17+00:00"
-        },
-        {
-          "title": "Using voltage glitching to unleash the A100 in my mining card",
-          "link": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
-          "date": "2026-11-11T12:36:57+00:00"
         }
       ]
     },
@@ -359,29 +327,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[酷工作] 有项目想做？寻找 AI 开发与创业合作伙伴？",
-          "link": "https://www.v2ex.com/t/1256315#reply1",
-          "date": "2026-11-11T19:52:19+00:00"
+          "title": "[问与答] codex 充值疑问",
+          "link": "https://www.v2ex.com/t/1256404#reply0",
+          "date": "2026-11-12T02:59:51+00:00"
         },
         {
-          "title": "[问与答] 请问上海正常价格能给 Apple Watch se 换电池并上胶防水途径？",
-          "link": "https://www.v2ex.com/t/1256314#reply0",
-          "date": "2026-11-11T19:42:00+00:00"
+          "title": "[问与答] 腾讯要大裁员？",
+          "link": "https://www.v2ex.com/t/1256403#reply0",
+          "date": "2026-11-12T02:59:41+00:00"
         },
         {
-          "title": "[随想] 当贡献社区和利益相关发生冲突时，有多少人会毫不犹豫贡献给社区",
-          "link": "https://www.v2ex.com/t/1256313#reply1",
-          "date": "2026-11-11T19:39:34+00:00"
+          "title": "[问与答] 请问 微信铃声非常大，怎么能调节下",
+          "link": "https://www.v2ex.com/t/1256402#reply0",
+          "date": "2026-11-12T02:57:38+00:00"
         },
         {
-          "title": "[分享创造] 刷到了一个关于易经的短视频，做了一个起卦的应用",
-          "link": "https://www.v2ex.com/t/1256312#reply1",
-          "date": "2026-11-11T19:35:02+00:00"
+          "title": "[酷工作] 旧时代的纯前端",
+          "link": "https://www.v2ex.com/t/1256400#reply0",
+          "date": "2026-11-12T02:56:29+00:00"
         },
         {
-          "title": "[酷工作] [求职] 24 届非科班 / 全栈实战派 / 寻找上海 AI 产品与落地岗",
-          "link": "https://www.v2ex.com/t/1256310#reply1",
-          "date": "2026-11-11T17:30:50+00:00"
+          "title": "[程序员] deepseek 才几百人, 可想而知任何公司几千上万人得以后都很难存活",
+          "link": "https://www.v2ex.com/t/1256398#reply0",
+          "date": "2026-11-12T02:56:06+00:00"
         }
       ]
     },
@@ -634,6 +602,7 @@
   ],
   "failed": [
     "36 氪",
+    "Hacker News",
     "酷壳"
   ]
 }
