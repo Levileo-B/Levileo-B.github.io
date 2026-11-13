@@ -1,58 +1,82 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-12T08:50:20.965988+00:00",
-  "attempted_at": "2026-11-12T08:50:20.965988+00:00",
+  "updated": "2026-11-13T08:45:11.108376+00:00",
+  "attempted_at": "2026-11-13T08:45:11.108376+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-11-12T08:50:20.965988+00:00",
+      "last_success": "2026-11-13T08:45:11.108376+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-11-12T08:50:20.965988+00:00",
+      "last_success": "2026-11-13T08:45:11.108376+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-11-12T08:50:20.965988+00:00",
+      "last_success": "2026-11-13T08:45:11.108376+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-11-12T08:50:20.965988+00:00",
+      "last_success": "2026-11-13T08:45:11.108376+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-11-12T08:50:20.965988+00:00",
+      "last_success": "2026-11-13T08:45:11.108376+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-11-12T08:50:20.965988+00:00",
+      "last_success": "2026-11-13T08:45:11.108376+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-11-12T08:50:20.965988+00:00",
+      "last_success": "2026-11-13T08:45:11.108376+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-11-12T08:50:20.965988+00:00",
+      "last_success": "2026-11-13T08:45:11.108376+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.3390/rs18223898",
+      "title": "TSD-LitePT: Transition-Sensitive Detail Enhancement for UAV LiDAR Transmission-Corridor Segmentation",
+      "journal_id": "remote-sensing",
+      "published": "2026-11-12",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18223898",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3389/frobt.2026.1979434",
+      "title": "Multi-constraint weighted-cost optimization for UAV path planning using an improved harris hawks optimization",
+      "journal_id": "frontiers",
+      "published": "2026-11-12",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3389/frobt.2026.1979434",
+      "source": "crossref"
+    },
     {
       "id": "10.3390/rs18223883",
       "title": "Spatiotemporal Evolution of Mining-Induced Surface Subsidence in Thick Unconsolidated-Layer Coal–Cropland Overlapping Areas Using Multi-Temporal UAV LiDAR and Leveling Measurements",
@@ -1792,18 +1816,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.3389/frobt.2026.1859583",
-      "source": "crossref"
-    },
-    {
-      "id": "10.3390/rs18183158",
-      "title": "From Wood–Foliar Semantics to 3D Fuel Characterization: Transferable Deep Learning for Terrestrial LiDAR Across Global Forest Ecosystems",
-      "journal_id": "remote-sensing",
-      "published": "2026-09-14",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18183158",
       "source": "crossref"
     },
     {
