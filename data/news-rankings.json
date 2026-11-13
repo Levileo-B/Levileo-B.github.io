@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-13T01:07:59+00:00",
-  "updated": "2026-11-13T01:07:58+00:00",
+  "generated_at": "2026-11-13T08:03:33+00:00",
+  "updated": "2026-11-13T08:03:32+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-09T00:00:00+08:00",
-    "end": "2026-11-13T01:07:59+00:00",
-    "total": 562,
+    "end": "2026-11-13T08:03:33+00:00",
+    "total": 596,
     "items": [
       {
         "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
@@ -25,7 +25,7 @@
         "observed_days": 2
       },
       {
-        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
         "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
         "date": "2026-11-12T23:34:05+00:00",
         "date_is_observed": false,
@@ -358,6 +358,20 @@
           "observed_days": 2
         },
         {
+          "title": "In Memoriam: Tim Peters 1952–2026",
+          "link": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+          "date": "2026-11-11T14:20:17+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Lobsters"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
           "title": "What are some \"No AI\" apps/companies/resources you know of?",
           "link": "https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies",
           "date": "2026-11-11T13:13:51+00:00",
@@ -386,9 +400,9 @@
           "observed_days": 2
         },
         {
-          "title": "[微信] 微信 [看一看] 正在小范围测试短剧入口",
-          "link": "https://www.v2ex.com/t/1256674",
-          "date": "2026-11-13T01:04:44+00:00",
+          "title": "[分享创造] Fable 能做到的，我 Astra 也要做到——WEB 版《8 号出口》",
+          "link": "https://www.v2ex.com/t/1256860",
+          "date": "2026-11-13T08:02:44+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -400,9 +414,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] 得罪了老婆，做了个小程序",
-          "link": "https://www.v2ex.com/t/1256673",
-          "date": "2026-11-13T01:00:54+00:00",
+          "title": "[VPS] 除了美西, 还有哪里有便宜且线路好的 VPS",
+          "link": "https://www.v2ex.com/t/1256858",
+          "date": "2026-11-13T07:57:31+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -414,23 +428,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] 如果用命令行访问 V 站来摸鱼，隐蔽性会高一些吗？",
-          "link": "https://www.v2ex.com/t/1256672",
-          "date": "2026-11-13T00:56:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[问与答] 能否探讨一下皮衣黄离职，对英伟达的影响和对 AI 行业的影响？",
-          "link": "https://www.v2ex.com/t/1256671",
-          "date": "2026-11-13T00:54:19+00:00",
+          "title": "[问与答] 老黄这事，在天龙八部中亦有记载",
+          "link": "https://www.v2ex.com/t/1256857",
+          "date": "2026-11-13T07:57:08+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -744,7 +744,7 @@
           "observed_days": 2
         },
         {
-          "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
           "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
           "date": "2026-11-12T23:34:05+00:00",
           "date_is_observed": false,
@@ -892,7 +892,7 @@
           "observed_days": 2
         },
         {
-          "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
           "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
           "date": "2026-11-12T23:34:05+00:00",
           "date_is_observed": false,
@@ -1026,8 +1026,8 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-13T01:07:59+00:00",
-    "total": 1526,
+    "end": "2026-11-13T08:03:33+00:00",
+    "total": 1560,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
@@ -1828,7 +1828,7 @@
           "observed_days": 2
         },
         {
-          "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
           "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
           "date": "2026-11-12T23:34:05+00:00",
           "date_is_observed": false,
@@ -1986,7 +1986,7 @@
           "observed_days": 2
         },
         {
-          "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
           "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
           "date": "2026-11-12T23:34:05+00:00",
           "date_is_observed": false,
