@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-12T19:59:04+00:00",
-  "updated": "2026-11-12T19:59:04+00:00",
+  "generated_at": "2026-11-13T01:07:59+00:00",
+  "updated": "2026-11-13T01:07:58+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-09T00:00:00+08:00",
-    "end": "2026-11-12T19:59:04+00:00",
-    "total": 528,
+    "end": "2026-11-13T01:07:59+00:00",
+    "total": 562,
     "items": [
       {
         "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
@@ -23,6 +23,22 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+        "date": "2026-11-12T23:34:05+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": ".name grandfathered",
@@ -135,20 +151,6 @@
         ],
         "sources": [
           "GitHub Blog"
-        ],
-        "source_count": 1,
-        "observed_days": 3
-      },
-      {
-        "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-        "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-        "date": "2026-11-10T13:10:00+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "AI"
-        ],
-        "sources": [
-          "MIT Technology Review"
         ],
         "source_count": 1,
         "observed_days": 3
@@ -384,9 +386,9 @@
           "observed_days": 2
         },
         {
-          "title": "[Google Play] 番茄钟上架招募 Google Play 测试人员，可互测",
-          "link": "https://www.v2ex.com/t/1256644",
-          "date": "2026-11-12T19:08:05+00:00",
+          "title": "[微信] 微信 [看一看] 正在小范围测试短剧入口",
+          "link": "https://www.v2ex.com/t/1256674",
+          "date": "2026-11-13T01:04:44+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -398,9 +400,9 @@
           "observed_days": 1
         },
         {
-          "title": "[Google Gemini] Gemini 4 Hydrogen 替换了 3.8Flash 位置",
-          "link": "https://www.v2ex.com/t/1256643",
-          "date": "2026-11-12T18:49:07+00:00",
+          "title": "[分享创造] 得罪了老婆，做了个小程序",
+          "link": "https://www.v2ex.com/t/1256673",
+          "date": "2026-11-13T01:00:54+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -412,23 +414,23 @@
           "observed_days": 1
         },
         {
-          "title": "Announcing Rust 1.100.0",
-          "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-          "date": "2026-11-12T18:43:41+00:00",
+          "title": "[分享创造] 如果用命令行访问 V 站来摸鱼，隐蔽性会高一些吗？",
+          "link": "https://www.v2ex.com/t/1256672",
+          "date": "2026-11-13T00:56:10+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "Lobsters"
+            "V2EX"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "[酷工作] 杭州 AI 短剧初创招人 算法-agent-全栈",
-          "link": "https://www.v2ex.com/t/1256642",
-          "date": "2026-11-12T18:25:34+00:00",
+          "title": "[问与答] 能否探讨一下皮衣黄离职，对英伟达的影响和对 AI 行业的影响？",
+          "link": "https://www.v2ex.com/t/1256671",
+          "date": "2026-11-13T00:54:19+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -742,6 +744,22 @@
           "observed_days": 2
         },
         {
+          "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+          "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+          "date": "2026-11-12T23:34:05+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
           "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
           "date": "2026-11-09T19:58:01+00:00",
@@ -772,7 +790,7 @@
           "observed_days": 2
         },
         {
-          "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+          "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
           "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
           "date": "2026-11-12T10:08:38+00:00",
           "date_is_observed": false,
@@ -854,20 +872,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "黃仁勳疑落入間諜戰「美人計」——韓國也曾中招",
-          "link": "https://www.bbc.com/zhongwen/articles/cj93rp9vzeg1o/trad",
-          "date": "2026-11-11T13:07:08+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
@@ -886,6 +890,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+          "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+          "date": "2026-11-12T23:34:05+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
@@ -1000,28 +1020,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-          "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo",
-          "date": "2026-11-10T14:46:50+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-12T19:59:04+00:00",
-    "total": 1492,
+    "end": "2026-11-13T01:07:59+00:00",
+    "total": 1526,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
@@ -1822,6 +1828,22 @@
           "observed_days": 2
         },
         {
+          "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+          "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+          "date": "2026-11-12T23:34:05+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
           "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
           "date": "2026-11-09T19:58:01+00:00",
@@ -1896,20 +1918,6 @@
           ],
           "source_count": 1,
           "observed_days": 4
-        },
-        {
-          "title": "美國中期選舉：共和黨失去兩院，對華政策與對台軍售會轉向嗎？",
-          "link": "https://www.bbc.com/zhongwen/articles/cqr7ydkrnpxno/trad",
-          "date": "2026-11-06T10:21:19+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 3
         }
       ],
       "财经": [
@@ -1978,6 +1986,22 @@
           "observed_days": 2
         },
         {
+          "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+          "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+          "date": "2026-11-12T23:34:05+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
           "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
           "date": "2026-11-09T19:58:01+00:00",
@@ -2043,20 +2067,6 @@
           "title": "Why the US midterms sparked an AI stock selloff",
           "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo",
           "date": "2026-11-06T16:14:23+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-          "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
-          "date": "2026-11-06T09:57:04+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"

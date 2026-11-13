@@ -1,123 +1,126 @@
 {
-  "updated": "2026-11-12T19:59:04+00:00",
+  "updated": "2026-11-13T01:07:59+00:00",
   "leetcode": {
-    "date": "2026-11-12",
-    "id": "3105",
-    "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
-    "titleEn": "Longest Strictly Increasing or Strictly Decreasing Subarray",
-    "slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
-    "difficulty": "Easy",
+    "date": "2026-11-13",
+    "id": "3420",
+    "title": "Count Non-Decreasing Subarrays After K Operations",
+    "titleEn": "Count Non-Decreasing Subarrays After K Operations",
+    "slug": "count-non-decreasing-subarrays-after-k-operations",
+    "difficulty": "Hard",
     "tags": [
-      "Array"
+      "Array",
+      "Stack",
+      "Segment Tree",
+      "Queue"
     ],
-    "link": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/",
+    "link": "https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Royal Gloucestershire Hussars",
-    "text": "The Royal Gloucestershire Hussars was a volunteer yeomanry regiment which, in the 20th century, became part of the British Army Reserve. It traced its origins to the First or Cheltenham Troop of Gloucestershire Gentleman and Yeomanry raised in 1795, although a break in the lineage means that its formation is dated to the Marshfield and Dodington Troop raised in 1830. Six further troops – officered by nobility and gentry, and recruited largely from among landholders and tenant farmers – were subsequently raised in Gloucestershire, and in 1834 they came together to form the Gloucestershire Yeomanry Cavalry. In 1847, the regiment adopted a hussar uniform and the name Royal Gloucestershire Hussars. Originally intended to counter insurrection and a French invasion that never materialised, the yeomanry's first deployments were ceremonial and as mounted police during times of civil unrest. Three Gloucestershire troops were deployed to Bristol on two separate occasions in the 1830s in support of the civil authorities.",
-    "words": 157,
-    "url": "https://en.wikipedia.org/wiki/Royal_Gloucestershire_Hussars",
-    "date": "2026-11-12",
+    "title": "2022–23 Notts County F.C. season",
+    "text": "During the 2022–23 English football season, Notts County competed in the National League, the fifth tier of the English football league system; this was their fourth season at this level following their relegation from EFL League Two in 2019. The team was involved in an intense race with Wrexham for the league title and the solitary automatic promotion place, with the two clubs dominating the 2022–23 National League season, together surpassing previous divisional records for points, wins and goals scored. Though Notts earned 107 points over the campaign, Wrexham claimed the title by a four-point margin, requiring the former to enter a six-team play-off to determine the second promoted club. Here, the team overturned a 0–2 deficit to defeat Boreham Wood 3–2 in extra time in the semi-final. It then gained a place in the English Football League (EFL) by beating Chesterfield 4–3 on penalties in the 2023 National League play-off final following a 2–2 draw at Wembley Stadium. The team fared less well in cup competitions, losing to Coalville Town in the fourth qualifying round of the FA Cup and to Maidstone United on penalties in the fourth round of the FA Trophy.",
+    "words": 194,
+    "url": "https://en.wikipedia.org/wiki/2022%E2%80%9323_Notts_County_F.C._season",
+    "date": "2026-11-13",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Communism",
-    "creator": "Hearst Metrotone News, Inc.",
-    "year": "1966",
-    "url": "https://archive.org/download/0771_Communism_12_01_27_28/0771_Communism_12_01_27_28.m4v",
-    "page": "https://archive.org/details/0771_Communism_12_01_27_28",
-    "date": "2026-11-12",
+    "title": "Different Sons",
+    "creator": "Bowling Green Films Inc.",
+    "year": "1971",
+    "url": "https://archive.org/download/202063_Different_Sons/202063_Different_Sons_master.intros.mp4",
+    "page": "https://archive.org/details/202063_Different_Sons",
+    "date": "2026-11-13",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
+      "title": "KedArY - S/T EP",
+      "artist": "",
+      "url": "https://archive.org/download/patternsrecordings002/KedArY_Lage.mp3",
+      "page": "https://archive.org/details/patternsrecordings002",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "WMRI - Wires [USC-WR-1204.0044]",
+      "artist": "WMRI",
+      "url": "https://archive.org/download/wmri-wires/01.Wires.mp3",
+      "page": "https://archive.org/details/wmri-wires",
+      "license": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "title": "[ENDE090] Zr3a - Take Acid Or Die",
+      "artist": "",
+      "url": "https://archive.org/download/ende090-zr3a-take-acid-or-die/01%20-%20Zr3a%20-%20Take%20Acid%20Or%20Die.mp3",
+      "page": "https://archive.org/details/ende090-zr3a-take-acid-or-die",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Ghosts and Strings - Canciones del Futuro",
+      "artist": "David Molina",
+      "url": "https://archive.org/download/rb037/01-heights.mp3",
+      "page": "https://archive.org/details/rb037",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Stalaktos - 'Metamorphic'",
+      "artist": "Stalaktos",
+      "url": "https://archive.org/download/sPE_0064/Stalaktos_Metamorphic_01_Dimensionally_Driven.mp3",
+      "page": "https://archive.org/details/sPE_0064",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Kevin Lyons - \"Lullabies for Strange Children (waag_rel044)\"",
+      "artist": "Kevin Lyons",
+      "url": "https://archive.org/download/waag_rel044/01_-_Kevin-Lyons_-_Relics.mp3",
+      "page": "https://archive.org/details/waag_rel044",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "Voltaic Retinue",
+      "artist": "Jazzaria.com",
+      "url": "https://archive.org/download/voltaic-retinue/voltaic-retinue.mp3",
+      "page": "https://archive.org/details/voltaic-retinue",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "mnblck023 - Otolith - The Dark Side EP (2009)",
+      "artist": "Otolith",
+      "url": "https://archive.org/download/mnblck023/mnblck023-Otolith-The_Dark_Side_EP-01-Monolith1.mp3",
+      "page": "https://archive.org/details/mnblck023",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/de/"
+    },
+    {
+      "title": "[ENDE507] 3 Past 3 - Kei Hertz III Podcast 1",
+      "artist": "",
+      "url": "https://archive.org/download/ende507-3-past-3-kei-hertz-iii-podcast/01%20%20-%203%20Past%203%20-%20part%201.mp3",
+      "page": "https://archive.org/details/ende507-3-past-3-kei-hertz-iii-podcast",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "[TFR021] teh soup rebellion - Thought For Food (Advance Copy)",
+      "artist": "teh soup rebellion",
+      "url": "https://archive.org/download/tfr021TehSoupRebellion-ThoughtForFoodadvanceCopy/01DrowningInSoup.mp3",
+      "page": "https://archive.org/details/tfr021TehSoupRebellion-ThoughtForFoodadvanceCopy",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Shells",
+      "artist": "Adrián Juárez and Ilia",
+      "url": "https://archive.org/download/stigae007/01ewe.mp3",
+      "page": "https://archive.org/details/stigae007",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
       "title": "FORMIKA - Cenotaph EP [snr155]",
       "artist": "Formika",
       "url": "https://archive.org/download/snr155/01.FORMIKA_-_Blue_ashes.mp3",
       "page": "https://archive.org/details/snr155",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "RR.107 - off white pegasus - after dark EP",
-      "artist": "",
-      "url": "https://archive.org/download/offwhitepegasus_afterdarkEP/01OffWhitePegasus-AfterDarkoriginalMix.mp3",
-      "page": "https://archive.org/details/offwhitepegasus_afterdarkEP",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "[dk] - Painprovider [sk007]",
-      "artist": "[dk]",
-      "url": "https://archive.org/download/painprovider/01ainprovider.mp3",
-      "page": "https://archive.org/details/painprovider",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "EthnoTronic - Parabola EP [foot193]",
-      "artist": "Joachim Rontexlius, Rachel Moraledius",
-      "url": "https://archive.org/download/foot193/foot193_01-ethnotronic-parabola_part_1.mp3",
-      "page": "https://archive.org/details/foot193",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "Skoop - Nova [nt018]",
-      "artist": "Jim G",
-      "url": "https://archive.org/download/nt018/nt018-1-skoop-acid_jazz.mp3",
-      "page": "https://archive.org/details/nt018",
-      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
-    },
-    {
-      "title": "Mean Mother Green",
-      "artist": "Deadman & Digi Hartatak",
-      "url": "https://archive.org/download/meanmothergreen/MeanMotherGreen.mp3",
-      "page": "https://archive.org/details/meanmothergreen",
-      "license": "http://creativecommons.org/licenses/by/3.0/"
-    },
-    {
-      "title": "ryan l - aquas [quiz015]",
-      "artist": "ryan l",
-      "url": "https://archive.org/download/quiz015-ryan_l-aquas/quiz015-01-ryan_l-beams_on_light_peirce_through_the_mass_of_murky_water.mp3",
-      "page": "https://archive.org/details/quiz015-ryan_l-aquas",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
-    },
-    {
-      "title": "Audio Organism – Extinct Organisms (Zwilight Tone Records)",
-      "artist": "Travers MacMaster",
-      "url": "https://archive.org/download/zwilighttone_audioorganism_extinctorganisms/01_eyes_adrift.mp3",
-      "page": "https://archive.org/details/zwilighttone_audioorganism_extinctorganisms",
-      "license": "https://creativecommons.org/licenses/by-nc/4.0/"
-    },
-    {
-      "title": "INTERNAL MIX - the glintering hand [snr133]",
-      "artist": "internal mix",
-      "url": "https://archive.org/download/snr133/InternalMix-TheGlinteringHand.mp3",
-      "page": "https://archive.org/details/snr133",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "ЖЕСТОКОЕ БЛЯДСКОЕ УБИЙСТВО - Vangers sell biburats dick for bibas and flegmas (2020)",
-      "artist": "ЖЕСТОКОЕ БЛЯДСКОЕ УБИЙСТВО",
-      "url": "https://archive.org/download/IBR_1495/01.%20%D0%98%D0%9D%D0%A2%D0%A0%D0%9E%20%D0%94%D0%9B%D0%AF%20%D0%9C%D0%9E%D0%A0%D0%90%D0%9B%D0%AC%D0%9D%D0%9E%20%D0%98%D0%A1%D0%A2%D0%9E%D0%A9%D0%95%D0%9D%D0%9D%D0%AB%D0%A5%20%D0%93%D0%95%D0%95%D0%92.mp3",
-      "page": "https://archive.org/details/IBR_1495",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Melcher Tschiemer's \"De Mortuis Nil Nisi Bonum\"",
-      "artist": "Melcher Tschiemer",
-      "url": "https://archive.org/download/MelcherTschiemerDeMortuisNilNisiBonum/De%20mortuis%20nil%20nisi%20bonum%20-%201%20-%20May%20you%20be%20half%20an%20hour%20in%20heaven...%20-%20August%201995.mp3",
-      "page": "https://archive.org/details/MelcherTschiemerDeMortuisNilNisiBonum",
-      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
-    },
-    {
-      "title": "Mikromjuk - Rör ej",
-      "artist": "",
-      "url": "https://archive.org/download/Mikromjuk_-_Roer_Ej-EP-2008-polka/01_vaestern_med_resten-polka.mp3",
-      "page": "https://archive.org/details/Mikromjuk_-_Roer_Ej-EP-2008-polka",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/se/"
     }
   ]
 }
