@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-13T16:28:56+00:00",
-  "updated": "2026-11-13T16:28:56+00:00",
+  "generated_at": "2026-11-13T22:40:46+00:00",
+  "updated": "2026-11-13T22:40:46+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-09T00:00:00+08:00",
-    "end": "2026-11-13T16:28:56+00:00",
-    "total": 655,
+    "end": "2026-11-13T22:40:46+00:00",
+    "total": 684,
     "items": [
       {
-        "title": "Why is the Microsoft outage lasting so long?",
+        "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
         "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
         "date": "2026-11-13T08:01:25+00:00",
         "date_is_observed": false,
@@ -55,6 +55,38 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+        "date": "2026-11-13T21:14:22+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
+        "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+        "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
+        "date": "2026-11-13T15:40:08+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": ".name grandfathered",
@@ -125,34 +157,6 @@
         ],
         "sources": [
           "ScienceDaily"
-        ],
-        "source_count": 1,
-        "observed_days": 3
-      },
-      {
-        "title": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
-        "link": "https://sspai.com/post/118366",
-        "date": "2026-11-12T08:37:25+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "少数派"
-        ],
-        "source_count": 1,
-        "observed_days": 3
-      },
-      {
-        "title": "The Download: preserving minds and weighing open AI risks",
-        "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-        "date": "2026-11-11T13:10:00+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "AI"
-        ],
-        "sources": [
-          "MIT Technology Review"
         ],
         "source_count": 1,
         "observed_days": 3
@@ -572,15 +576,15 @@
           "observed_days": 2
         },
         {
-          "title": "iPhone Siri AI 体验：距离真正的 AI Phone，苹果还有多远？| 附开通指南",
-          "link": "https://www.ifanr.com/1688980",
-          "date": "2026-11-12T10:47:53+00:00",
+          "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+          "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+          "date": "2026-11-12T22:28:47+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "爱范儿"
+            "Ars Technica"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -730,7 +734,7 @@
       ],
       "综合": [
         {
-          "title": "Why is the Microsoft outage lasting so long?",
+          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
           "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
           "date": "2026-11-13T08:01:25+00:00",
           "date_is_observed": false,
@@ -776,6 +780,38 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+          "date": "2026-11-13T21:14:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
+          "date": "2026-11-13T15:40:08+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
@@ -848,39 +884,11 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "「你甚至不會告訴密友」：分娩後遺症，為何多年後仍揮之不去？",
-          "link": "https://www.bbc.com/zhongwen/articles/cwr7grvx00yxo/trad",
-          "date": "2026-11-12T08:33:39+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "西班牙大罷工：數萬人參與、巴塞羅那爆發警民衝突",
-          "link": "https://www.bbc.com/zhongwen/articles/c8wy5x2q2wryo/trad",
-          "date": "2026-11-12T03:10:40+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
         {
-          "title": "Why is the Microsoft outage lasting so long?",
+          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
           "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
           "date": "2026-11-13T08:01:25+00:00",
           "date_is_observed": false,
@@ -928,6 +936,38 @@
           "observed_days": 2
         },
         {
+          "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+          "date": "2026-11-13T21:14:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
+          "date": "2026-11-13T15:40:08+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
           "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
           "date": "2026-11-09T19:58:01+00:00",
@@ -958,6 +998,20 @@
           "observed_days": 3
         },
         {
+          "title": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
+          "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+          "date": "2026-11-13T05:51:34+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
           "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
           "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo",
           "date": "2026-11-13T00:13:35+00:00",
@@ -972,51 +1026,9 @@
           "observed_days": 2
         },
         {
-          "title": "Microsoft says email queues 'approaching normal levels' as Outlook issues persist",
+          "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
           "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
           "date": "2026-11-12T22:24:12+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "UK economy grows at fastest rate for more than two years",
-          "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o",
-          "date": "2026-11-12T11:20:25+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-          "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o",
-          "date": "2026-11-12T10:37:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "CoreWeave soars more than 24% for best day since April 2025 after strong Q3 report",
-          "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-          "date": "2026-11-11T15:13:39+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1032,8 +1044,8 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-13T16:28:56+00:00",
-    "total": 1619,
+    "end": "2026-11-13T22:40:46+00:00",
+    "total": 1648,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
@@ -1082,7 +1094,7 @@
         "observed_days": 3
       },
       {
-        "title": "Why is the Microsoft outage lasting so long?",
+        "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
         "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
         "date": "2026-11-13T08:01:25+00:00",
         "date_is_observed": false,
@@ -1787,7 +1799,7 @@
           "observed_days": 3
         },
         {
-          "title": "Why is the Microsoft outage lasting so long?",
+          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
           "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
           "date": "2026-11-13T08:01:25+00:00",
           "date_is_observed": false,
@@ -1867,6 +1879,38 @@
           "observed_days": 2
         },
         {
+          "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+          "date": "2026-11-13T21:14:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
+          "date": "2026-11-13T15:40:08+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
           "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
           "date": "2026-11-09T19:58:01+00:00",
@@ -1897,36 +1941,6 @@
           ],
           "source_count": 2,
           "observed_days": 1
-        },
-        {
-          "title": "Shop freezers in seven European countries hit by cyber-attack",
-          "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo",
-          "date": "2026-11-02T15:12:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "從蔡康永、《VIVANT》到姆巴佩，北京為何區別處理「辱華」？",
-          "link": "https://www.bbc.com/zhongwen/articles/c6gm0rdzm0rdo/trad",
-          "date": "2026-11-06T00:21:23+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 4
         }
       ],
       "财经": [
@@ -1947,7 +1961,7 @@
           "observed_days": 3
         },
         {
-          "title": "Why is the Microsoft outage lasting so long?",
+          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
           "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
           "date": "2026-11-13T08:01:25+00:00",
           "date_is_observed": false,
@@ -2027,6 +2041,38 @@
           "observed_days": 2
         },
         {
+          "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+          "date": "2026-11-13T21:14:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
+          "date": "2026-11-13T15:40:08+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
           "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
           "date": "2026-11-09T19:58:01+00:00",
@@ -2057,36 +2103,6 @@
           ],
           "source_count": 2,
           "observed_days": 1
-        },
-        {
-          "title": "Shop freezers in seven European countries hit by cyber-attack",
-          "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo",
-          "date": "2026-11-02T15:12:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
-          "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko",
-          "date": "2026-11-11T00:02:07+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 3
         }
       ]
     }
