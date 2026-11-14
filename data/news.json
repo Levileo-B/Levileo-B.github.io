@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T03:20:45+00:00",
+  "updated": "2026-11-14T11:32:31+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -12,9 +12,9 @@
           "date": "2026-11-13T09:51:11+00:00"
         },
         {
-          "title": "黃仁勳辭職餘波：中國輿論場上的「間諜」迷因、選舉猜想與股價「黑天鵝」",
+          "title": "黃仁勳辭職風波：從「中國間諜」熱議到資本市場「冷熱分化」",
           "link": "https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-13T09:39:38+00:00"
+          "date": "2026-11-14T06:12:53+00:00"
         },
         {
           "title": "九合一前夕：台灣幾乎年年選舉，會引起「投票疲勞」嗎？",
@@ -39,24 +39,24 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
+          "title": "What we know about the ground stop and what to do if you're affected",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-14T07:42:11+00:00"
+        },
+        {
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-14T10:30:38+00:00"
+        },
+        {
+          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+          "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-14T05:52:31+00:00"
+        },
+        {
           "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
           "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
           "date": "2026-11-13T23:40:45+00:00"
-        },
-        {
-          "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-13T21:14:22+00:00"
-        },
-        {
-          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-13T18:36:57+00:00"
-        },
-        {
-          "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-          "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-13T11:43:27+00:00"
         },
         {
           "title": "Setback for SpaceX Starship rocket's double-catch test",
@@ -71,9 +71,9 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
-          "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+          "title": "Microsoft says services fully restored after day-long global outage",
           "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-13T21:14:22+00:00"
+          "date": "2026-11-14T06:42:27+00:00"
         },
         {
           "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
@@ -103,9 +103,19 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
-          "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-          "date": "2026-11-14T02:33:48+00:00"
+          "title": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed",
+          "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+          "date": "2026-11-14T11:19:47+00:00"
+        },
+        {
+          "title": "Jensen Huang affair in DC: Resignation calls and moves to tighten Nvidia China exports",
+          "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+          "date": "2026-11-12T12:03:39+00:00"
+        },
+        {
+          "title": "SpaceX launches Starship in key test flight of massive rocket",
+          "link": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+          "date": "2026-11-14T01:18:51+00:00"
         },
         {
           "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
@@ -113,19 +123,9 @@
           "date": "2026-11-14T01:34:11+00:00"
         },
         {
-          "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
-          "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
-          "date": "2026-11-13T23:54:36+00:00"
-        },
-        {
-          "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
-          "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-          "date": "2026-11-13T18:18:28+00:00"
-        },
-        {
-          "title": "SpaceX launches Starship in key test flight of massive rocket",
-          "link": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
-          "date": "2026-11-14T01:18:51+00:00"
+          "title": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one",
+          "link": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
+          "date": "2026-11-14T07:08:45+00:00"
         }
       ]
     },
@@ -134,6 +134,11 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+          "link": "https://sspai.com/post/118276",
+          "date": "2026-11-14T07:40:21+00:00"
+        },
         {
           "title": "本周看什么 | 最近值得一看的 10 部作品",
           "link": "https://sspai.com/post/118999",
@@ -153,11 +158,6 @@
           "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
           "link": "https://sspai.com/post/118966",
           "date": "2026-11-13T00:48:17+00:00"
-        },
-        {
-          "title": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
-          "link": "https://sspai.com/post/118366",
-          "date": "2026-11-12T08:37:25+00:00"
         }
       ]
     },
@@ -166,6 +166,11 @@
       "category": "科技",
       "url": "https://www.ifanr.com/feed",
       "items": [
+        {
+          "title": "早报｜英伟达员工请愿黄仁勋回归/余承东重申华为与赛力斯分工/Microsoft 365故障延续至48小时",
+          "link": "https://www.ifanr.com/1689450?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-11-14T00:00:42+00:00"
+        },
         {
           "title": "余承东公布华为问界新合作模式！新 M8 同步上市，起售价 37.98 万元",
           "link": "https://www.ifanr.com/1689432?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -185,11 +190,6 @@
           "title": "黄仁勋自嘲是「人渣」，英伟达员工集体喊话求回归",
           "link": "https://www.ifanr.com/1689360?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-11-13T08:31:36+00:00"
-        },
-        {
-          "title": "AI 时代，公司的「新厂房」长什么样？",
-          "link": "https://www.ifanr.com/1689182?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-11-13T06:34:19+00:00"
         }
       ]
     },
@@ -233,7 +233,7 @@
         {
           "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
           "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
-          "date": "2026-11-14T02:33:35+00:00"
+          "date": "2026-11-14T05:38:55+00:00"
         },
         {
           "title": "Amazon has a plan to index the world’s online shopping data",
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
+          "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+          "link": "https://news.ycombinator.com/item?id=50494696",
+          "date": "2026-11-14T06:56:42+00:00"
+        },
+        {
+          "title": "Monkey Island: all 13 versions side by side",
+          "link": "https://monkeyisland.pages.dev/",
+          "date": "2026-11-14T04:23:30+00:00"
+        },
+        {
+          "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+          "date": "2026-11-14T02:52:59+00:00"
+        },
+        {
           "title": "Ggml v1.0.0",
           "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
           "date": "2026-11-14T02:28:29+00:00"
         },
         {
-          "title": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks",
-          "link": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
-          "date": "2026-11-14T02:02:42+00:00"
-        },
-        {
-          "title": "GigChain Keys – a free, open-source MainStage alternative",
-          "link": "https://github.com/xDarkzx/GigChain-Keys",
-          "date": "2026-11-14T01:47:30+00:00"
-        },
-        {
-          "title": "FAA lifted National Ground Stop at 0119Z",
-          "link": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
-          "date": "2026-11-14T01:30:01+00:00"
-        },
-        {
-          "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
-          "link": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
-          "date": "2026-11-14T01:10:22+00:00"
+          "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
+          "link": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
+          "date": "2026-11-14T02:15:41+00:00"
         }
       ]
     },
@@ -332,14 +332,14 @@
           "date": "2026-11-13T09:16:28+00:00"
         },
         {
-          "title": "Terminal borders that don't cost a cell",
-          "link": "https://www.joshka.net/cell-borders/",
-          "date": "2026-11-13T12:03:19+00:00"
-        },
-        {
           "title": "The need for at least a third option",
           "link": "https://blog.ovalerio.net/archives/3359",
           "date": "2026-11-13T11:36:44+00:00"
+        },
+        {
+          "title": "Terminal borders that don't cost a cell",
+          "link": "https://www.joshka.net/cell-borders/",
+          "date": "2026-11-13T12:03:19+00:00"
         },
         {
           "title": "Probabilistic data structures in Go",
@@ -347,9 +347,9 @@
           "date": "2026-11-13T16:03:44+00:00"
         },
         {
-          "title": "Beating the frontier on NetHack",
-          "link": "https://antithesis.com/blog/2026/nethack/",
-          "date": "2026-11-13T14:34:57+00:00"
+          "title": "Someone's impersonating this blog",
+          "link": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
+          "date": "2026-11-13T20:39:53+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[推广] 送码：又一个让你的 Kindle 不吃灰的工具",
-          "link": "https://www.v2ex.com/t/1257010#reply0",
-          "date": "2026-11-14T03:18:07+00:00"
+          "title": "[Apple] 求推荐适配 iPhone DUO 比较有意思的特色 APP",
+          "link": "https://www.v2ex.com/t/1257084#reply0",
+          "date": "2026-11-14T11:30:34+00:00"
         },
         {
-          "title": "[问与答] 请您给尽快审核",
-          "link": "https://www.v2ex.com/t/1257009#reply0",
-          "date": "2026-11-14T03:04:14+00:00"
+          "title": "[推广] 把影库揣兜里 在酒店体验在家的感觉",
+          "link": "https://www.v2ex.com/t/1257080#reply4",
+          "date": "2026-11-14T10:51:40+00:00"
         },
         {
-          "title": "[科技] 睡前安排了一整晚的 agent 全自动任务，一觉醒来被 Windows 自动更新重启杀了",
-          "link": "https://www.v2ex.com/t/1257008#reply0",
-          "date": "2026-11-14T03:02:12+00:00"
+          "title": "[iDev] 苹果开发者续费问题",
+          "link": "https://www.v2ex.com/t/1257078#reply0",
+          "date": "2026-11-14T10:33:29+00:00"
         },
         {
-          "title": "[分享创造] 做了个免费的 3MF / STL 互转工具，文件不用上传，浏览器本地转换",
-          "link": "https://www.v2ex.com/t/1257007#reply0",
-          "date": "2026-11-14T02:59:24+00:00"
+          "title": "[Linux] Ubuntu 26.04 遇到 free -h 和 htop 查不出来的诡异 OOM 内存不足，由 KHO 的 CMA 导致",
+          "link": "https://www.v2ex.com/t/1257077#reply0",
+          "date": "2026-11-14T10:27:37+00:00"
         },
         {
-          "title": "[程序员] 感觉网上很难找到相对真实的 agent 企业实际项目，都是一些 demo",
-          "link": "https://www.v2ex.com/t/1257006#reply0",
-          "date": "2026-11-14T02:55:34+00:00"
+          "title": "[程序员] 我自己开发了一个远程控制软件 Airhand 欢迎 star~ 支持 120fps",
+          "link": "https://www.v2ex.com/t/1257076#reply3",
+          "date": "2026-11-14T10:16:37+00:00"
         }
       ]
     },
@@ -573,29 +573,29 @@
       "url": "https://www.sciencedaily.com/rss/all.xml",
       "items": [
         {
+          "title": "Yale scientists reveal what really slows aging and what doesn't",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
+          "date": "2026-11-14T04:26:12+00:00"
+        },
+        {
           "title": "A surprising brain difference may explain why some kids struggle with math",
           "link": "https://www.sciencedaily.com/releases/2026/11/261112025542.htm",
           "date": "2026-11-12T23:33:12+00:00"
         },
         {
+          "title": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm",
+          "date": "2026-11-14T02:59:05+00:00"
+        },
+        {
+          "title": "Forcing yourself to smile can actually make you miserable",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261112025536.htm",
+          "date": "2026-11-14T01:50:58+00:00"
+        },
+        {
           "title": "Stopping statins after 70 may be safer than expected, but there's a catch",
           "link": "https://www.sciencedaily.com/releases/2026/11/261112025534.htm",
           "date": "2026-11-13T12:14:39+00:00"
-        },
-        {
-          "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm",
-          "date": "2026-11-13T12:55:11+00:00"
-        },
-        {
-          "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
-          "date": "2026-11-12T11:24:47+00:00"
-        },
-        {
-          "title": "Common forever chemicals linked to nearly double the rate of aggressive breast cancer",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261112025527.htm",
-          "date": "2026-11-12T09:34:53+00:00"
         }
       ]
     }
