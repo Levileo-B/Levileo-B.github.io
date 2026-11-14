@@ -1,126 +1,125 @@
 {
-  "updated": "2026-11-13T22:40:46+00:00",
+  "updated": "2026-11-14T03:20:46+00:00",
   "leetcode": {
-    "date": "2026-11-13",
-    "id": "3420",
-    "title": "Count Non-Decreasing Subarrays After K Operations",
-    "titleEn": "Count Non-Decreasing Subarrays After K Operations",
-    "slug": "count-non-decreasing-subarrays-after-k-operations",
-    "difficulty": "Hard",
+    "date": "2026-11-14",
+    "id": "3364",
+    "title": "Minimum Positive Sum Subarray ",
+    "titleEn": "Minimum Positive Sum Subarray ",
+    "slug": "minimum-positive-sum-subarray",
+    "difficulty": "Easy",
     "tags": [
       "Array",
-      "Stack",
-      "Segment Tree",
-      "Queue"
+      "Sliding Window",
+      "Prefix Sum"
     ],
-    "link": "https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/",
+    "link": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "2022–23 Notts County F.C. season",
-    "text": "During the 2022–23 English football season, Notts County competed in the National League, the fifth tier of the English football league system; this was their fourth season at this level following their relegation from EFL League Two in 2019. The team was involved in an intense race with Wrexham for the league title and the solitary automatic promotion place, with the two clubs dominating the 2022–23 National League season, together surpassing previous divisional records for points, wins and goals scored. Though Notts earned 107 points over the campaign, Wrexham claimed the title by a four-point margin, requiring the former to enter a six-team play-off to determine the second promoted club. Here, the team overturned a 0–2 deficit to defeat Boreham Wood 3–2 in extra time in the semi-final. It then gained a place in the English Football League (EFL) by beating Chesterfield 4–3 on penalties in the 2023 National League play-off final following a 2–2 draw at Wembley Stadium. The team fared less well in cup competitions, losing to Coalville Town in the fourth qualifying round of the FA Cup and to Maidstone United on penalties in the fourth round of the FA Trophy.",
-    "words": 194,
-    "url": "https://en.wikipedia.org/wiki/2022%E2%80%9323_Notts_County_F.C._season",
-    "date": "2026-11-13",
+    "title": "Aucanquilcha",
+    "text": "Aucanquilcha is a large compound volcano in the Antofagasta Region of northern Chile, within the Central Volcanic Zone of the Andes. The volcano has the form of a ridge reaching an altitude of 6176 m above sea level, and formed between 1.04 and 0.23 million years ago; there is ongoing fumarolic activity. The volcano is part of a larger cluster of volcanoes sometimes known as the \"Aucanquilcha cluster\" or \"Aucanquilcha complex\". This cluster includes lava domes and lava flows that have formed in several stages over 11 million years of activity with varying magma output. During the ice ages, Aucanquilcha was covered in an ice cap that left moraines and cirques.",
+    "words": 111,
+    "url": "https://en.wikipedia.org/wiki/Aucanquilcha",
+    "date": "2026-11-14",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Why Not Live?",
+    "title": "Home Movie: 97477: St. Louis Area Family, Reel 9",
     "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/why_not_live/why_not_live_512kb.mp4",
-    "page": "https://archive.org/details/why_not_live",
-    "date": "2026-11-13",
+    "year": "1959",
+    "url": "https://archive.org/download/HMStLouisAreaFami97477/97477.mp4",
+    "page": "https://archive.org/details/HMStLouisAreaFami97477",
+    "date": "2026-11-14",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "[omaramusic036] omara - november",
-      "artist": "omara",
-      "url": "https://archive.org/download/omaramusic036/01_omara_-_november.mp3",
-      "page": "https://archive.org/details/omaramusic036",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "Sebon - Featuring The Advocates [bump217]",
+      "artist": "Zach Bridier",
+      "url": "https://archive.org/download/bump217/bump217_01-sebon-track_77.mp3",
+      "page": "https://archive.org/details/bump217",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
-      "title": "Normal Music - Generic",
-      "artist": "Normal Music",
-      "url": "https://archive.org/download/zero068/zero068_1_The_Subjective_Array_of_Normality.mp3",
-      "page": "https://archive.org/details/zero068",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/"
-    },
-    {
-      "title": "[AMR014] Opium Den",
-      "artist": "Rose Red",
-      "url": "https://archive.org/download/014OpiumDen/Opium_Den.mp3",
-      "page": "https://archive.org/details/014OpiumDen",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
-    },
-    {
-      "title": "[ENDE402] I Like Pretty Flowers - Sabbath Mist",
-      "artist": "",
-      "url": "https://archive.org/download/ende402-ilpf-sabbath-mist/01%20-%20I%20Like%20Pretty%20Flowers%20-%20Part%201.mp3",
-      "page": "https://archive.org/details/ende402-ilpf-sabbath-mist",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Thomas Park- Recursive Drones [treetrunk 422]",
-      "artist": "Thomas Park",
-      "url": "https://archive.org/download/RecursiveDrones/7242019a.mp3",
-      "page": "https://archive.org/details/RecursiveDrones",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/"
-    },
-    {
-      "title": "[NQA038] Doki Doki - Nekromantik",
-      "artist": "Doki Doki",
-      "url": "https://archive.org/download/nqa038/01_Doki_Doki_-_Nekromantik_vbr.mp3",
-      "page": "https://archive.org/details/nqa038",
-      "license": "http://creativecommons.org/licenses/by-sa/2.5/"
-    },
-    {
-      "title": "Zanstones 131 - Blona Way",
-      "artist": "Zan Hoffman",
-      "url": "https://archive.org/download/zh27836/836.1%20Zanstones%20131%20-%20Blona%20Way.mp3",
-      "page": "https://archive.org/details/zh27836",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "V/A - World Goth Day 2023",
-      "artist": "Gothic Spectra Compilations",
-      "url": "https://archive.org/download/world-goth-day-2023/01%20-%20We%27re%20All%20Already%20Dead%20-%20Dash%20the%20Blood%20of%20God%20on%20My%20Grave.mp3",
-      "page": "https://archive.org/details/world-goth-day-2023",
+      "title": "Born Into War",
+      "artist": "Gypsy",
+      "url": "https://archive.org/download/born-into-war/Born%20Into%20War.mp3",
+      "page": "https://archive.org/details/born-into-war",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "LIQUID CONCEPT - Adjusted EP [snr71]",
-      "artist": "Liquid Concept",
-      "url": "https://archive.org/download/snr71/LIQUID_CONCEPT-On_the_ground.mp3",
-      "page": "https://archive.org/details/snr71",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/"
+      "title": "[rea024] va - Aliens vs People",
+      "artist": "various artists",
+      "url": "https://archive.org/download/rea024/01_Aisaid_-_Dreams_vbr.mp3",
+      "page": "https://archive.org/details/rea024",
+      "license": "Creative Commons"
     },
     {
-      "title": "Emit - Megalon EP [RBD-030]",
-      "artist": "Emit",
-      "url": "https://archive.org/download/030/rbd-030-1-emit-gigan.mp3",
-      "page": "https://archive.org/details/030",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/deed-music"
+      "title": "石が降って嬉しい",
+      "artist": "Yukiga Futte Uresii",
+      "url": "https://archive.org/download/IsigaFutteUresii/01_Isiga_Futte_Uresii.mp3",
+      "page": "https://archive.org/details/IsigaFutteUresii",
+      "license": "http://creativecommons.org/licenses/by/4.0/"
     },
     {
-      "title": "Scan Me Radio Edit",
-      "artist": "G.O:D",
-      "url": "https://archive.org/download/scan-me-radio-edit/scan%20me%20radio_edit.mp3",
-      "page": "https://archive.org/details/scan-me-radio-edit",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      "title": "JNN032 Secrets",
+      "artist": "Gabran",
+      "url": "https://archive.org/download/JNN032-Gabran-Secrets/JNN032-01-Secret1.mp3",
+      "page": "https://archive.org/details/JNN032-Gabran-Secrets",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/it/"
     },
     {
-      "title": "The Stupid Shack",
-      "artist": "Various Artists (RecRec)",
-      "url": "https://archive.org/download/dj-poop-the-stupid-shack-15-severed-hUDASJIDKSead-in-arbys-toilet/Ass%20vs.%20DJ%20Poop%20-%20The%20Stupid%20Shack%20-%2008%20Christmas%20Stank.mp3",
-      "page": "https://archive.org/details/dj-poop-the-stupid-shack-15-severed-hUDASJIDKSead-in-arbys-toilet",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      "title": "Kleines Glück",
+      "artist": "Für alle, die das besondere lieben",
+      "url": "https://archive.org/download/ex19.kleines_glueck/ex_19-01.mp3",
+      "page": "https://archive.org/details/ex19.kleines_glueck",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
+    },
+    {
+      "title": "Allel - Lost World EP [bump183]",
+      "artist": "Allel",
+      "url": "https://archive.org/download/bump183/bump183_01-allel-ha.mp3",
+      "page": "https://archive.org/details/bump183",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "[brq 05] ODERAUFBROT 10 Jahre - die Remixtracks",
+      "artist": "",
+      "url": "https://archive.org/download/brq05ODERAUFBROT10JahreDieRemixtracks/1RMXSuspicion.mp3",
+      "page": "https://archive.org/details/brq05ODERAUFBROT10JahreDieRemixtracks",
+      "license": "http://creativecommons.org/licenses/by-nd/2.0/"
+    },
+    {
+      "title": "VA - Living Objects",
+      "artist": "",
+      "url": "https://archive.org/download/VA-Living_Objects/01-Aka%20bondage%20-%20Etude%20pour%20Cocuphone%20op.%204.5.mp3",
+      "page": "https://archive.org/details/VA-Living_Objects",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "bosques y seres remix",
+      "artist": "grod",
+      "url": "https://archive.org/download/bosquesyseres2/bosquesbeat.mp3",
+      "page": "https://archive.org/details/bosquesyseres2",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Ollie Cram - Firm [bump209]",
+      "artist": "Ollie Cram",
+      "url": "https://archive.org/download/bump209/bump209_01-ollie_cram-huh.mp3",
+      "page": "https://archive.org/details/bump209",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "sOuL_sCientiSt * BabylonDestruction Mixtape",
+      "artist": "cOmaRecOrdz",
+      "url": "https://archive.org/download/Soul_scientistBabylondestructionMixtape_169/01_iSwearbabylondestructionRemix0.mp3",
+      "page": "https://archive.org/details/Soul_scientistBabylondestructionMixtape_169",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     }
   ]
 }

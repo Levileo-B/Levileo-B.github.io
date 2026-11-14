@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T22:40:46+00:00",
+  "updated": "2026-11-14T03:20:45+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -39,7 +39,12 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+          "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+          "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-13T23:40:45+00:00"
+        },
+        {
+          "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
           "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
           "date": "2026-11-13T21:14:22+00:00"
         },
@@ -54,14 +59,9 @@
           "date": "2026-11-13T11:43:27+00:00"
         },
         {
-          "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-13T16:40:31+00:00"
-        },
-        {
-          "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-13T19:53:57+00:00"
+          "title": "Setback for SpaceX Starship rocket's double-catch test",
+          "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-14T00:01:01+00:00"
         }
       ]
     },
@@ -71,7 +71,7 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
-          "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+          "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
           "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
           "date": "2026-11-13T21:14:22+00:00"
         },
@@ -103,14 +103,19 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "FAA issues nationwide ground stop citing communication issues affecting ‘multiple’ air traffic control facilities",
+          "title": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
           "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-          "date": "2026-11-13T22:23:18+00:00"
+          "date": "2026-11-14T02:33:48+00:00"
+        },
+        {
+          "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+          "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+          "date": "2026-11-14T01:34:11+00:00"
         },
         {
           "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
           "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
-          "date": "2026-11-13T22:28:19+00:00"
+          "date": "2026-11-13T23:54:36+00:00"
         },
         {
           "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
@@ -118,14 +123,9 @@
           "date": "2026-11-13T18:18:28+00:00"
         },
         {
-          "title": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
-          "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
-          "date": "2026-11-13T22:18:43+00:00"
-        },
-        {
-          "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
-          "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
-          "date": "2026-11-13T21:18:30+00:00"
+          "title": "SpaceX launches Starship in key test flight of massive rocket",
+          "link": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+          "date": "2026-11-14T01:18:51+00:00"
         }
       ]
     },
@@ -231,9 +231,14 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
-          "title": "FAA ground stop shuts down flights nationwide",
+          "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
           "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
-          "date": "2026-11-13T22:28:23+00:00"
+          "date": "2026-11-14T02:33:35+00:00"
+        },
+        {
+          "title": "Amazon has a plan to index the world’s online shopping data",
+          "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+          "date": "2026-11-13T23:49:11+00:00"
         },
         {
           "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
@@ -248,12 +253,7 @@
         {
           "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
           "link": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
-          "date": "2026-11-13T19:17:41+00:00"
-        },
-        {
-          "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
-          "link": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
-          "date": "2026-11-13T18:10:41+00:00"
+          "date": "2026-11-13T22:47:40+00:00"
         }
       ]
     },
@@ -262,6 +262,16 @@
       "category": "科技",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+          "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+          "date": "2026-11-14T00:49:13+00:00"
+        },
+        {
+          "title": "FAA has lifted its third-ever nationwide ground stop",
+          "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+          "date": "2026-11-13T23:17:38+00:00"
+        },
         {
           "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
           "link": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
@@ -276,16 +286,6 @@
           "title": "In elephants, the resilience of communities has its limits",
           "link": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
           "date": "2026-11-13T20:03:13+00:00"
-        },
-        {
-          "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
-          "link": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
-          "date": "2026-11-13T19:49:16+00:00"
-        },
-        {
-          "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-          "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-          "date": "2026-11-13T17:25:45+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-          "link": "https://orcasairband.com/",
-          "date": "2026-11-13T22:04:24+00:00"
+          "title": "Ggml v1.0.0",
+          "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+          "date": "2026-11-14T02:28:29+00:00"
         },
         {
-          "title": "FAA issues nationwide ground stop due to \"extraordinary circumstances\"",
-          "link": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
-          "date": "2026-11-13T21:08:49+00:00"
+          "title": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks",
+          "link": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+          "date": "2026-11-14T02:02:42+00:00"
         },
         {
-          "title": "All US airports are currently ground stopped",
-          "link": "https://twitter.com/flightradar24/status/2121347654714077605",
-          "date": "2026-11-13T21:06:52+00:00"
+          "title": "GigChain Keys – a free, open-source MainStage alternative",
+          "link": "https://github.com/xDarkzx/GigChain-Keys",
+          "date": "2026-11-14T01:47:30+00:00"
         },
         {
-          "title": "FAA Issues National Ground Stop",
-          "link": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
-          "date": "2026-11-13T21:05:53+00:00"
+          "title": "FAA lifted National Ground Stop at 0119Z",
+          "link": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
+          "date": "2026-11-14T01:30:01+00:00"
         },
         {
-          "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-          "link": "https://atg.science/careers",
-          "date": "2026-11-13T21:01:11+00:00"
+          "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+          "link": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
+          "date": "2026-11-14T01:10:22+00:00"
         }
       ]
     },
@@ -347,9 +347,9 @@
           "date": "2026-11-13T16:03:44+00:00"
         },
         {
-          "title": "Announcing Rust 1.100.0",
-          "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-          "date": "2026-11-12T18:43:41+00:00"
+          "title": "Beating the frontier on NetHack",
+          "link": "https://antithesis.com/blog/2026/nethack/",
+          "date": "2026-11-13T14:34:57+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[问与答] 关于中国手机预装后门的争议讨论。",
-          "link": "https://www.v2ex.com/t/1256982#reply3",
-          "date": "2026-11-13T21:18:35+00:00"
+          "title": "[推广] 送码：又一个让你的 Kindle 不吃灰的工具",
+          "link": "https://www.v2ex.com/t/1257010#reply0",
+          "date": "2026-11-14T03:18:07+00:00"
         },
         {
-          "title": "[问与答] 闲置的算力怎么出租出去",
-          "link": "https://www.v2ex.com/t/1256981#reply0",
-          "date": "2026-11-13T21:15:15+00:00"
+          "title": "[问与答] 请您给尽快审核",
+          "link": "https://www.v2ex.com/t/1257009#reply0",
+          "date": "2026-11-14T03:04:14+00:00"
         },
         {
-          "title": "[Go 编程语言] 开源了一个零依赖的 Go 二维码识别库 qore，识别率和速度都优于 ZXing",
-          "link": "https://www.v2ex.com/t/1256980#reply0",
-          "date": "2026-11-13T19:50:14+00:00"
+          "title": "[科技] 睡前安排了一整晚的 agent 全自动任务，一觉醒来被 Windows 自动更新重启杀了",
+          "link": "https://www.v2ex.com/t/1257008#reply0",
+          "date": "2026-11-14T03:02:12+00:00"
         },
         {
-          "title": "[Claude] Claude 被封了， 美国有朋友，怎么样用 Claude 最安全",
-          "link": "https://www.v2ex.com/t/1256979#reply0",
-          "date": "2026-11-13T18:36:19+00:00"
+          "title": "[分享创造] 做了个免费的 3MF / STL 互转工具，文件不用上传，浏览器本地转换",
+          "link": "https://www.v2ex.com/t/1257007#reply0",
+          "date": "2026-11-14T02:59:24+00:00"
         },
         {
-          "title": "[职场话题] 新领导",
-          "link": "https://www.v2ex.com/t/1256977#reply1",
-          "date": "2026-11-13T17:22:36+00:00"
+          "title": "[程序员] 感觉网上很难找到相对真实的 agent 企业实际项目，都是一些 demo",
+          "link": "https://www.v2ex.com/t/1257006#reply0",
+          "date": "2026-11-14T02:55:34+00:00"
         }
       ]
     },
