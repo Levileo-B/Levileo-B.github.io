@@ -1,17 +1,49 @@
 {
-  "generated_at": "2026-11-14T11:32:31+00:00",
-  "updated": "2026-11-14T11:32:31+00:00",
+  "generated_at": "2026-11-14T18:09:32+00:00",
+  "updated": "2026-11-14T18:09:32+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-09T00:00:00+08:00",
-    "end": "2026-11-14T11:32:31+00:00",
-    "total": 722,
+    "end": "2026-11-14T18:09:32+00:00",
+    "total": 760,
     "items": [
       {
         "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
         "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
         "date": "2026-11-13T08:01:25+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 3
+      },
+      {
+        "title": "Microsoft says services fully restored after day-long global outage",
+        "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+        "date": "2026-11-13T21:14:22+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
+        "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+        "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
+        "date": "2026-11-13T15:40:08+00:00",
         "date_is_observed": false,
         "categories": [
           "综合",
@@ -57,38 +89,6 @@
         "observed_days": 2
       },
       {
-        "title": "Microsoft says services fully restored after day-long global outage",
-        "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
-        "date": "2026-11-13T21:14:22+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-        "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
-        "date": "2026-11-13T15:40:08+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
         "title": ".name grandfathered",
         "link": "https://neil.fraser.name/news/2026/11/10/",
         "date": "2026-11-10T16:37:44+00:00",
@@ -131,7 +131,7 @@
           "美团技术团队"
         ],
         "source_count": 1,
-        "observed_days": 5
+        "observed_days": 6
       },
       {
         "title": "Git security vulnerabilities announced",
@@ -145,18 +145,18 @@
           "GitHub Blog"
         ],
         "source_count": 1,
-        "observed_days": 4
+        "observed_days": 5
       },
       {
-        "title": "Common forever chemicals linked to nearly double the rate of aggressive breast cancer",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261112025527.htm",
-        "date": "2026-11-12T09:34:53+00:00",
+        "title": "微軟系統全球癱瘓：Outlook、Teams、Copilot受影響",
+        "link": "https://www.bbc.com/zhongwen/articles/crvg2d7v05yno/trad",
+        "date": "2026-11-13T07:32:18+00:00",
         "date_is_observed": false,
         "categories": [
-          "科研"
+          "综合"
         ],
         "sources": [
-          "ScienceDaily"
+          "BBC 中文"
         ],
         "source_count": 1,
         "observed_days": 3
@@ -164,6 +164,34 @@
     ],
     "by_category": {
       "AI": [
+        {
+          "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+          "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+          "date": "2026-11-12T20:16:24+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "The Download: COP31’s climate challenge and the quest for immortality",
+          "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+          "date": "2026-11-12T13:10:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
         {
           "title": "The Download: preserving minds and weighing open AI risks",
           "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
@@ -221,9 +249,9 @@
           "observed_days": 3
         },
         {
-          "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-          "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-          "date": "2026-11-12T20:16:24+00:00",
+          "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+          "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+          "date": "2026-11-13T13:10:00+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -235,9 +263,23 @@
           "observed_days": 2
         },
         {
-          "title": "The Download: COP31’s climate challenge and the quest for immortality",
-          "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-          "date": "2026-11-12T13:10:00+00:00",
+          "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+          "link": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+          "date": "2026-11-13T10:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+          "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+          "date": "2026-11-13T10:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -252,48 +294,6 @@
           "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
           "link": "https://www.qbitai.com/2026/11/509404.html",
           "date": "2026-11-12T10:45:33+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
-          "link": "https://www.qbitai.com/2026/11/509381.html",
-          "date": "2026-11-12T10:11:29+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
-          "link": "https://www.qbitai.com/2026/11/509355.html",
-          "date": "2026-11-12T10:08:24+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
-          "link": "https://www.qbitai.com/2026/11/509349.html",
-          "date": "2026-11-12T09:34:06+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -333,7 +333,7 @@
             "美团技术团队"
           ],
           "source_count": 1,
-          "observed_days": 5
+          "observed_days": 6
         },
         {
           "title": "Git security vulnerabilities announced",
@@ -347,7 +347,7 @@
             "GitHub Blog"
           ],
           "source_count": 1,
-          "observed_days": 4
+          "observed_days": 5
         },
         {
           "title": "GitHub availability report: October 2026",
@@ -361,7 +361,7 @@
             "GitHub Blog"
           ],
           "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
           "title": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
@@ -375,7 +375,7 @@
             "阮一峰的网络日志"
           ],
           "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
           "title": "Build once, run on any agent: A practical guide to agent skills",
@@ -387,6 +387,48 @@
           ],
           "sources": [
             "GitHub Blog"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Terminal borders that don't cost a cell",
+          "link": "https://www.joshka.net/cell-borders/",
+          "date": "2026-11-13T12:03:19+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Lobsters"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "The need for at least a third option",
+          "link": "https://blog.ovalerio.net/archives/3359",
+          "date": "2026-11-13T11:36:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Lobsters"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "How Not to Build a Music Player",
+          "link": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player",
+          "date": "2026-11-13T09:16:28+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Lobsters"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -404,51 +446,51 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "How I accidentally became a millionaire",
-          "link": "https://lyra.horse/blog/2026/11/disinformation-machine/",
-          "date": "2026-11-11T21:53:24+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "In Memoriam: Tim Peters 1952–2026",
-          "link": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-          "date": "2026-11-11T14:20:17+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "What are some \"No AI\" apps/companies/resources you know of?",
-          "link": "https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies",
-          "date": "2026-11-11T13:13:51+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "科技": [
+        {
+          "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+          "link": "https://sspai.com/post/118153",
+          "date": "2026-11-13T07:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+          "link": "https://sspai.com/post/118512",
+          "date": "2026-11-13T03:35:48+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+          "link": "https://sspai.com/post/118966",
+          "date": "2026-11-13T00:48:17+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
         {
           "title": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
           "link": "https://sspai.com/post/118366",
@@ -492,9 +534,9 @@
           "observed_days": 3
         },
         {
-          "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
-          "link": "https://sspai.com/post/118153",
-          "date": "2026-11-13T07:00:00+00:00",
+          "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+          "link": "https://sspai.com/post/118276",
+          "date": "2026-11-14T07:40:21+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -506,23 +548,23 @@
           "observed_days": 2
         },
         {
-          "title": "无印良品客户信用卡数据泄露",
-          "link": "https://www.solidot.org/story?sid=85877",
-          "date": "2026-11-13T06:47:28+00:00",
+          "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+          "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+          "date": "2026-11-14T00:49:13+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "Solidot"
+            "Ars Technica"
           ],
           "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "AI 时代，公司的「新厂房」长什么样？",
-          "link": "https://www.ifanr.com/1689182",
-          "date": "2026-11-13T06:34:19+00:00",
+          "title": "早报｜英伟达员工请愿黄仁勋回归/余承东重申华为与赛力斯分工/Microsoft 365故障延续至48小时",
+          "link": "https://www.ifanr.com/1689450",
+          "date": "2026-11-14T00:00:42+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -534,51 +576,9 @@
           "observed_days": 2
         },
         {
-          "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
-          "link": "https://sspai.com/post/118512",
-          "date": "2026-11-13T03:35:48+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
-          "link": "https://sspai.com/post/118966",
-          "date": "2026-11-13T00:48:17+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口",
-          "link": "https://www.ifanr.com/1689292",
-          "date": "2026-11-13T00:00:46+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-          "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-          "date": "2026-11-12T22:28:47+00:00",
+          "title": "FAA has lifted its third-ever nationwide ground stop",
+          "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+          "date": "2026-11-13T23:17:38+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -620,6 +620,90 @@
           "observed_days": 3
         },
         {
+          "title": "Yale scientists reveal what really slows aging and what doesn't",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
+          "date": "2026-11-14T04:26:12+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Chinese graduate students are now choosing to stay closer to home",
+          "link": "https://www.nature.com/articles/d41586-026-03456-7",
+          "date": "2026-11-13T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Accept all changes",
+          "link": "https://www.nature.com/articles/d41586-026-03516-y",
+          "date": "2026-11-13T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Number of international students arriving in US plunges — worrying scientists",
+          "link": "https://www.nature.com/articles/d41586-026-03668-x",
+          "date": "2026-11-13T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "This AI ‘mechanic’ can peer inside the black box of other neural networks",
+          "link": "https://www.nature.com/articles/d41586-026-03679-8",
+          "date": "2026-11-13T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Is the climate totally cooked? What the data say",
+          "link": "https://www.nature.com/articles/d41586-026-03716-6",
+          "date": "2026-11-13T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
           "title": "A surprising brain difference may explain why some kids struggle with math",
           "link": "https://www.sciencedaily.com/releases/2026/11/261112025542.htm",
           "date": "2026-11-12T23:33:12+00:00",
@@ -646,90 +730,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm",
-          "date": "2026-11-12T08:38:42+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Scientists discover a common sugar may help cancer cells break free and spread",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261111221501.htm",
-          "date": "2026-11-12T04:39:31+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Walking and weight training may not be enough to keep your bones strong",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261110042601.htm",
-          "date": "2026-11-12T00:10:23+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Found: a protein that drives ageing without unleashing inflammation",
-          "link": "https://www.nature.com/articles/d41586-026-03638-3",
-          "date": "2026-11-12T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
-          "date": "2026-11-11T13:10:51+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm",
-          "date": "2026-11-11T12:32:48+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "综合": [
@@ -737,6 +737,38 @@
           "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
           "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
           "date": "2026-11-13T08:01:25+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 3
+        },
+        {
+          "title": "Microsoft says services fully restored after day-long global outage",
+          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+          "date": "2026-11-13T21:14:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
+          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
+          "date": "2026-11-13T15:40:08+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -780,38 +812,6 @@
           ],
           "source_count": 2,
           "observed_days": 2
-        },
-        {
-          "title": "Microsoft says services fully restored after day-long global outage",
-          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
-          "date": "2026-11-13T21:14:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
-          "date": "2026-11-13T15:40:08+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
         },
         {
           "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
@@ -841,12 +841,12 @@
             "BBC 中文"
           ],
           "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
-          "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-          "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo",
-          "date": "2026-11-13T02:01:35+00:00",
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
+          "date": "2026-11-14T10:30:38+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -858,29 +858,29 @@
           "observed_days": 2
         },
         {
-          "title": "Nvidia董事會宣佈黃仁勳辭任執行長",
-          "link": "https://www.bbc.com/zhongwen/articles/c63egjy85wq8o/trad",
-          "date": "2026-11-12T10:30:41+00:00",
+          "title": "What we know about the ground stop and what to do if you're affected",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo",
+          "date": "2026-11-14T07:42:11+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "九合一前夕：台灣幾乎年年選舉，會引起「投票疲勞」嗎？",
+          "link": "https://www.bbc.com/zhongwen/articles/c63egjkzqpz2o/trad",
+          "date": "2026-11-13T10:39:06+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
           ],
           "sources": [
             "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-          "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
-          "date": "2026-11-12T10:08:38+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -891,6 +891,38 @@
           "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
           "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
           "date": "2026-11-13T08:01:25+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 3
+        },
+        {
+          "title": "Microsoft says services fully restored after day-long global outage",
+          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+          "date": "2026-11-13T21:14:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
+          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
+          "date": "2026-11-13T15:40:08+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -936,38 +968,6 @@
           "observed_days": 2
         },
         {
-          "title": "Microsoft says services fully restored after day-long global outage",
-          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
-          "date": "2026-11-13T21:14:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
-          "date": "2026-11-13T15:40:08+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
           "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
           "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo",
           "date": "2026-11-09T19:58:01+00:00",
@@ -984,6 +984,20 @@
           "observed_days": 1
         },
         {
+          "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+          "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo",
+          "date": "2026-11-13T00:13:35+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
           "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
           "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko",
           "date": "2026-11-11T00:02:07+00:00",
@@ -998,9 +1012,9 @@
           "observed_days": 3
         },
         {
-          "title": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
-          "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
-          "date": "2026-11-13T05:51:34+00:00",
+          "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
+          "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+          "date": "2026-11-14T11:19:47+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1012,23 +1026,9 @@
           "observed_days": 2
         },
         {
-          "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-          "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo",
-          "date": "2026-11-13T00:13:35+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
-          "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-          "date": "2026-11-12T22:24:12+00:00",
+          "title": "SpaceX launches Starship in key test flight of massive rocket",
+          "link": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+          "date": "2026-11-14T01:18:51+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1044,8 +1044,8 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-14T11:32:31+00:00",
-    "total": 1686,
+    "end": "2026-11-14T18:09:32+00:00",
+    "total": 1724,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
@@ -1060,7 +1060,23 @@
           "Lobsters"
         ],
         "source_count": 2,
-        "observed_days": 9
+        "observed_days": 10
+      },
+      {
+        "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+        "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
+        "date": "2026-11-13T08:01:25+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 3
       },
       {
         "title": "AI stocks climb after trillions wiped from market values",
@@ -1094,9 +1110,25 @@
         "observed_days": 3
       },
       {
-        "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-        "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
-        "date": "2026-11-13T08:01:25+00:00",
+        "title": "Microsoft says services fully restored after day-long global outage",
+        "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+        "date": "2026-11-13T21:14:22+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
+        "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+        "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
+        "date": "2026-11-13T15:40:08+00:00",
         "date_is_observed": false,
         "categories": [
           "综合",
@@ -1160,36 +1192,6 @@
         "title": "Libghostty 1.0",
         "link": "https://mitchellh.com/writing/libghostty-1-0",
         "date": "2026-11-06T23:30:52+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "September in Servo: progress, rounded rectangles, and more",
-        "link": "https://servo.org/blog/2026/11/05/september-in-servo/",
-        "date": "2026-11-05T13:47:56+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Introducing Adaptive Dark Mode",
-        "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-        "date": "2026-11-03T21:39:05+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -1275,6 +1277,34 @@
           "observed_days": 4
         },
         {
+          "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+          "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+          "date": "2026-11-12T20:16:24+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "The Download: COP31’s climate challenge and the quest for immortality",
+          "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+          "date": "2026-11-12T13:10:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
           "title": "The Download: preserving minds and weighing open AI risks",
           "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
           "date": "2026-11-11T13:10:00+00:00",
@@ -1315,34 +1345,6 @@
           ],
           "source_count": 1,
           "observed_days": 3
-        },
-        {
-          "title": "The backlash about data centers might really just be about electricity",
-          "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-          "date": "2026-11-09T19:35:33+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
-          "link": "https://www.qbitai.com/2026/11/508264.html",
-          "date": "2026-11-07T05:01:17+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 3
         }
       ],
       "开发": [
@@ -1359,7 +1361,7 @@
             "Lobsters"
           ],
           "source_count": 2,
-          "observed_days": 9
+          "observed_days": 10
         },
         {
           "title": "Pratt parsing is a black box",
@@ -1569,6 +1571,48 @@
           "observed_days": 4
         },
         {
+          "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+          "link": "https://sspai.com/post/118153",
+          "date": "2026-11-13T07:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+          "link": "https://sspai.com/post/118512",
+          "date": "2026-11-13T03:35:48+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+          "link": "https://sspai.com/post/118966",
+          "date": "2026-11-13T00:48:17+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
           "title": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
           "link": "https://sspai.com/post/118366",
           "date": "2026-11-12T08:37:25+00:00",
@@ -1586,48 +1630,6 @@
           "title": "城市漫步指南 | 安特卫普，时尚就在生活中",
           "link": "https://sspai.com/post/118781",
           "date": "2026-11-11T09:30:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "社区速递 165 | 透明工牌与派友十月购物清单",
-          "link": "https://sspai.com/post/118861",
-          "date": "2026-11-10T08:44:26+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "Physicists listened to electrical noise to crack a superconductor mystery",
-          "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
-          "date": "2026-11-08T12:15:31+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "一个 05 后的个人数码编年史",
-          "link": "https://sspai.com/post/116750",
-          "date": "2026-11-07T09:05:06+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -1739,9 +1741,9 @@
           "observed_days": 3
         },
         {
-          "title": "A surprising brain difference may explain why some kids struggle with math",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261112025542.htm",
-          "date": "2026-11-12T23:33:12+00:00",
+          "title": "Yale scientists reveal what really slows aging and what doesn't",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
+          "date": "2026-11-14T04:26:12+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -1753,35 +1755,51 @@
           "observed_days": 2
         },
         {
-          "title": "A new treasure map reveals where Earth's lost prehistoric life may be hiding",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
-          "date": "2026-11-12T11:24:47+00:00",
+          "title": "Chinese graduate students are now choosing to stay closer to home",
+          "link": "https://www.nature.com/articles/d41586-026-03456-7",
+          "date": "2026-11-13T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
           ],
           "sources": [
-            "ScienceDaily"
+            "Nature"
           ],
           "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm",
-          "date": "2026-11-12T08:38:42+00:00",
+          "title": "Accept all changes",
+          "link": "https://www.nature.com/articles/d41586-026-03516-y",
+          "date": "2026-11-13T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
           ],
           "sources": [
-            "ScienceDaily"
+            "Nature"
           ],
           "source_count": 1,
           "observed_days": 2
         }
       ],
       "综合": [
+        {
+          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
+          "date": "2026-11-13T08:01:25+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 3
+        },
         {
           "title": "AI stocks climb after trillions wiped from market values",
           "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
@@ -1799,9 +1817,25 @@
           "observed_days": 3
         },
         {
-          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
-          "date": "2026-11-13T08:01:25+00:00",
+          "title": "Microsoft says services fully restored after day-long global outage",
+          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+          "date": "2026-11-13T21:14:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
+          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
+          "date": "2026-11-13T15:40:08+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -1877,38 +1911,6 @@
           ],
           "source_count": 2,
           "observed_days": 2
-        },
-        {
-          "title": "Microsoft says services fully restored after day-long global outage",
-          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
-          "date": "2026-11-13T21:14:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
-          "date": "2026-11-13T15:40:08+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
         },
         {
           "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
@@ -1945,6 +1947,22 @@
       ],
       "财经": [
         {
+          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
+          "date": "2026-11-13T08:01:25+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 3
+        },
+        {
           "title": "AI stocks climb after trillions wiped from market values",
           "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
           "date": "2026-11-06T17:03:02+00:00",
@@ -1961,9 +1979,25 @@
           "observed_days": 3
         },
         {
-          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
-          "date": "2026-11-13T08:01:25+00:00",
+          "title": "Microsoft says services fully restored after day-long global outage",
+          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+          "date": "2026-11-13T21:14:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
+          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
+          "date": "2026-11-13T15:40:08+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -2039,38 +2073,6 @@
           ],
           "source_count": 2,
           "observed_days": 2
-        },
-        {
-          "title": "Microsoft says services fully restored after day-long global outage",
-          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
-          "date": "2026-11-13T21:14:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
-          "date": "2026-11-13T15:40:08+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
         },
         {
           "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
