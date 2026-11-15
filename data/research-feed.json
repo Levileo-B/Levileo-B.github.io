@@ -1,62 +1,82 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-14T08:00:20.424495+00:00",
-  "attempted_at": "2026-11-14T08:00:20.424495+00:00",
+  "updated": "2026-11-15T08:27:09.519041+00:00",
+  "attempted_at": "2026-11-15T08:27:09.519041+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-11-14T08:00:20.424495+00:00",
+      "last_success": "2026-11-15T08:27:09.519041+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-11-14T08:00:20.424495+00:00",
+      "last_success": "2026-11-15T08:27:09.519041+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-11-14T08:00:20.424495+00:00",
+      "last_success": "2026-11-15T08:27:09.519041+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
-      "status": "partial",
-      "last_success": "2026-11-14T08:00:20.424495+00:00",
-      "errors": [
-        "point-cloud: HTTPError 429"
-      ]
+      "status": "ok",
+      "last_success": "2026-11-15T08:27:09.519041+00:00",
+      "errors": []
     },
     {
       "journal_id": "ras",
-      "status": "partial",
-      "last_success": "2026-11-14T08:00:20.424495+00:00",
-      "errors": [
-        "navigation: HTTPError 429"
-      ]
+      "status": "ok",
+      "last_success": "2026-11-15T08:27:09.519041+00:00",
+      "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-11-14T08:00:20.424495+00:00",
+      "last_success": "2026-11-15T08:27:09.519041+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-11-14T08:00:20.424495+00:00",
+      "last_success": "2026-11-15T08:27:09.519041+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-11-14T08:00:20.424495+00:00",
+      "last_success": "2026-11-15T08:27:09.519041+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.1038/s41598-026-78829-z",
+      "title": "A spectral-domain multi-strategy Fourier transform optimizer for numerical optimization and robot path planning",
+      "journal_id": "scientific-reports",
+      "published": "2026-11-14",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-78829-z",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-78658-0",
+      "title": "Collision detection in polishing robots based on self-supervised learning",
+      "journal_id": "scientific-reports",
+      "published": "2026-11-14",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-78658-0",
+      "source": "crossref"
+    },
     {
       "id": "10.3390/rs18223898",
       "title": "TSD-LitePT: Transition-Sensitive Detail Enhancement for UAV LiDAR Transmission-Corridor Segmentation",
@@ -1714,19 +1734,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.1038/s41598-026-72613-9",
-      "title": "LIO-EAC: gravity-referenced external altitude compensation for LiDAR-inertial odometry",
-      "journal_id": "scientific-reports",
-      "published": "2026-09-22",
-      "topics": [
-        "point-cloud",
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-72613-9",
-      "source": "crossref"
-    },
-    {
       "id": "10.3390/rs18183261",
       "title": "Real-Time Target Detection in Compressed Domain for Streak Tube LiDAR by Two-Pass Labeling and Sparse Attention",
       "journal_id": "remote-sensing",
@@ -1760,18 +1767,6 @@
       ],
       "kind": "更正",
       "url": "https://doi.org/10.3389/frobt.2026.1987759",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1038/s41598-026-70743-8",
-      "title": "Quantum game-theoretic reinforcement learning for autonomous vehicle navigation and communication in vehicular networks",
-      "journal_id": "scientific-reports",
-      "published": "2026-09-21",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-70743-8",
       "source": "crossref"
     },
     {
