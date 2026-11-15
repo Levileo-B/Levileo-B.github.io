@@ -1,125 +1,126 @@
 {
-  "updated": "2026-11-14T22:28:57+00:00",
+  "updated": "2026-11-15T02:43:03+00:00",
   "leetcode": {
-    "date": "2026-11-14",
-    "id": "3364",
-    "title": "Minimum Positive Sum Subarray ",
-    "titleEn": "Minimum Positive Sum Subarray ",
-    "slug": "minimum-positive-sum-subarray",
-    "difficulty": "Easy",
+    "date": "2026-11-15",
+    "id": "1524",
+    "title": "Number of Sub-arrays With Odd Sum",
+    "titleEn": "Number of Sub-arrays With Odd Sum",
+    "slug": "number-of-sub-arrays-with-odd-sum",
+    "difficulty": "Medium",
     "tags": [
       "Array",
-      "Sliding Window",
+      "Math",
+      "Dynamic Programming",
       "Prefix Sum"
     ],
-    "link": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
+    "link": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Aucanquilcha",
-    "text": "Aucanquilcha is a large compound volcano in the Antofagasta Region of northern Chile, within the Central Volcanic Zone of the Andes. The volcano has the form of a ridge reaching an altitude of 6,176 metres (20,262 ft) above sea level, formed between 1.04 and 0.23 million years ago; there is ongoing fumarolic activity. The volcano is part of a larger cluster of volcanoes sometimes known as the \"Aucanquilcha cluster\" or \"Aucanquilcha complex\". This cluster includes lava domes and lava flows that have formed in several stages over 11 million years of activity with varying magma output. During the ice ages, Aucanquilcha was covered in an ice cap that left moraines and cirques.",
-    "words": 112,
-    "url": "https://en.wikipedia.org/wiki/Aucanquilcha",
-    "date": "2026-11-14",
+    "title": "Can't Let Go (Mariah Carey song)",
+    "text": "\"Can't Let Go\" is a song recorded by American singer-songwriter Mariah Carey for her second studio album, Emotions (1991). Columbia Records released it as the album's second single in November 1991. Featuring synthesizers and drum programming, \"Can't Let Go\" is a breakup song in the form of an R&B and pop slow jam. The lyrics, written by Carey, are about post-breakup sadness. She composed the music and produced the song with Walter Afanasieff, who had previously worked on her 1990 single \"Love Takes Time\". Carey's vocal range spans more than three octaves; her delivery is predominately breathy and in a low register, with whistle notes in the song's introduction and ending.",
+    "words": 111,
+    "url": "https://en.wikipedia.org/wiki/Can't_Let_Go_(Mariah_Carey_song)",
+    "date": "2026-11-15",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Golden State Productions Outtakes - 01",
-    "creator": "Golden State Film Productions",
-    "year": "",
-    "url": "https://archive.org/download/Golden_State_Productions_Outtakes_01/Golden_State_Productions_Outtakes_01_master.intros.mp4",
-    "page": "https://archive.org/details/Golden_State_Productions_Outtakes_01",
-    "date": "2026-11-14",
+    "title": "Word to the Wives, A",
+    "creator": "Telamerica, Inc.",
+    "year": "1955",
+    "url": "https://archive.org/download/Wordtoth1955/Wordtoth1955_512kb.mp4",
+    "page": "https://archive.org/details/Wordtoth1955",
+    "date": "2026-11-15",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Chefkirk - MP3 Single 22",
-      "artist": "Chefkirk",
-      "url": "https://archive.org/download/tibmp3s22/Chefkirk_PS3_GRGLPOP.mp3",
-      "page": "https://archive.org/details/tibmp3s22",
-      "license": "Creative Commons"
+      "title": "Emit - Megalon EP [RBD-030]",
+      "artist": "Emit",
+      "url": "https://archive.org/download/030/rbd-030-1-emit-gigan.mp3",
+      "page": "https://archive.org/details/030",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/deed-music"
     },
     {
-      "title": "Allel - Lost World EP [bump183]",
-      "artist": "Allel",
-      "url": "https://archive.org/download/bump183/bump183_01-allel-ha.mp3",
-      "page": "https://archive.org/details/bump183",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "Aidan Baker - Ichneumon",
-      "artist": "Aidan Baker",
-      "url": "https://archive.org/download/tibmp3a20/aidan_baker_01_ichneumon.mp3",
-      "page": "https://archive.org/details/tibmp3a20",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Anthony Manning - Elastic Variations Vol.1 [ird051]",
+      "title": "ouimnet-live002: Tulpa - No Man's Land 2007 LIVE",
       "artist": "",
-      "url": "https://archive.org/download/ird051/ird051-anthony-manning-01-elastic-variations-1-unreleased-studio-outtake.mp3",
-      "page": "https://archive.org/details/ird051",
-      "license": "Creative Commons"
+      "url": "https://archive.org/download/ouimnet-live002/ouimnet-live002_-_tulpa-no_mans_land_2007_live.mp3",
+      "page": "https://archive.org/details/ouimnet-live002",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Sebon - Featuring The Advocates [bump217]",
-      "artist": "Zach Bridier",
-      "url": "https://archive.org/download/bump217/bump217_01-sebon-track_77.mp3",
-      "page": "https://archive.org/details/bump217",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
-    },
-    {
-      "title": "Plastic Explosive",
-      "artist": "Redmann",
-      "url": "https://archive.org/download/tou221a/tou221a.mp3",
-      "page": "https://archive.org/details/tou221a",
-      "license": "http://creativecommons.org/licenses/by-sa/2.5/"
-    },
-    {
-      "title": "V/A - Witch House Origins [TH∄ OKK▼LT DRᐃG S⏀UͶↁ]",
-      "artist": "Witch Spectra",
-      "url": "https://archive.org/download/v-a-witch-house-origins/01%20-%20FlAsh%24iT%20-%20F%E2%88%86%CF%80T%C3%85Sm%E2%96%B2.mp3",
-      "page": "https://archive.org/details/v-a-witch-house-origins",
+      "title": "V L A D - The darker it is, the better (2021)",
+      "artist": "V L A D",
+      "url": "https://archive.org/download/vlad-the-darker-it-is-the-better/01%20-%20glorify.mp3",
+      "page": "https://archive.org/details/vlad-the-darker-it-is-the-better",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "[blpsq042] V/A - Bleeping For Zyla",
-      "artist": "",
-      "url": "https://archive.org/download/blpsq042/blpsq042_01_rcmp_-_mustache_love.mp3",
-      "page": "https://archive.org/details/blpsq042",
+      "title": "094DIYChurch_In Der Wüste Ist Der Sand Billig",
+      "artist": "G.O:D",
+      "url": "https://archive.org/download/094diychurch_inDerWsteIstDerSandBillig/094diychurch_inDerWsteIstDerSandBillig.mp3",
+      "page": "https://archive.org/details/094diychurch_inDerWsteIstDerSandBillig",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "[krd-006] The Brockas - In Action Action",
-      "artist": "The Brockas",
-      "url": "https://archive.org/download/krd-006TheBrockas-InActionAction/krd-006_The_Brockas_01_action_action.mp3",
-      "page": "https://archive.org/details/krd-006TheBrockas-InActionAction",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+      "title": "Skoop - Nova [nt018]",
+      "artist": "Jim G",
+      "url": "https://archive.org/download/nt018/nt018-1-skoop-acid_jazz.mp3",
+      "page": "https://archive.org/details/nt018",
+      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
     },
     {
-      "title": "Alexandre Bilodeau - Bonze Deluxe EP",
-      "artist": "Alexandre Bilodeau",
-      "url": "https://archive.org/download/polygon025/01.Alexandre_Bilodeau_-_Zazdei.mp3",
-      "page": "https://archive.org/details/polygon025",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/"
+      "title": "Valovoima - Waves From A Universe",
+      "artist": "Valovoima",
+      "url": "https://archive.org/download/pakkaslumi11/01%20-%20Waves%20From%20A%20Universe%20I.mp3",
+      "page": "https://archive.org/details/pakkaslumi11",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "[brq 05] ODERAUFBROT 10 Jahre - die Remixtracks",
+      "title": "Rod Drigg - How To Cook This Society",
+      "artist": "Rod Drigg",
+      "url": "https://archive.org/download/octave003/01-rod_drigg-bias_adjust.mp3",
+      "page": "https://archive.org/details/octave003",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Prrose Sélavy - \"Profunda Femoris Conceived\"",
+      "artist": "Prrose Sélavy",
+      "url": "https://archive.org/download/sPE_0119/Prrose_Selavy_Profunda_Femoris_Conceived.mp3",
+      "page": "https://archive.org/details/sPE_0119",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Returno [BFW141]",
+      "artist": "MagicVan",
+      "url": "https://archive.org/download/MagicVan-Returno/01Returno.mp3",
+      "page": "https://archive.org/details/MagicVan-Returno",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "NWTWO0597-Pure Laine-Lie",
+      "artist": "Pure Laine",
+      "url": "https://archive.org/download/nwtwo-0597-pure-laine-lie/NWTWO0597-Pure%20Laine-Lie.mp3",
+      "page": "https://archive.org/details/nwtwo-0597-pure-laine-lie",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "ALEXANDER UMSTÄTTER - THE SURGEON EARS (OCR 021 MP)",
       "artist": "",
-      "url": "https://archive.org/download/brq05ODERAUFBROT10JahreDieRemixtracks/1RMXSuspicion.mp3",
-      "page": "https://archive.org/details/brq05ODERAUFBROT10JahreDieRemixtracks",
-      "license": "http://creativecommons.org/licenses/by-nd/2.0/"
+      "url": "https://archive.org/download/ocr_021_mp/ocr_021_mp_-_01_-_an_otoplasty_ear_surgeon_on_long_island.mp3",
+      "page": "https://archive.org/details/ocr_021_mp",
+      "license": "Creative Commons"
     },
     {
-      "title": "2sm",
-      "artist": "krai",
-      "url": "https://archive.org/download/krai2sm/01%20-%20%F0%9F%97%9D.mp3",
-      "page": "https://archive.org/details/krai2sm",
-      "license": "https://creativecommons.org/licenses/by/4.0/"
+      "title": "Kisi Yaad Nay (prod. By Moduler Gee)",
+      "artist": "Asim Khan",
+      "url": "https://archive.org/download/0kbps112/Asim%20Khan%20-%20Kisi%20Yaad%20Nay%20%28prod.%20by%20Moduler%20Gee%29%202017.mp3",
+      "page": "https://archive.org/details/0kbps112",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     }
   ]
 }
