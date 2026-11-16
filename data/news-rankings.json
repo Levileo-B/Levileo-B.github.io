@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-15T22:52:28+00:00",
-  "updated": "2026-11-15T22:52:28+00:00",
+  "generated_at": "2026-11-16T02:46:42+00:00",
+  "updated": "2026-11-16T02:46:42+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-16T00:00:00+08:00",
-    "end": "2026-11-15T22:52:28+00:00",
-    "total": 28,
+    "end": "2026-11-16T02:46:42+00:00",
+    "total": 55,
     "items": [
       {
-        "title": "[分享创造] Story Timeline：把小说的设定和时间线存进 SQLite，让 AI 智能体通过 GraphQL 读写",
-        "link": "https://www.v2ex.com/t/1257277",
-        "date": "2026-11-15T22:47:19+00:00",
+        "title": "[分享发现] 国产软件真是蠢到家了",
+        "link": "https://www.v2ex.com/t/1257345",
+        "date": "2026-11-16T02:43:35+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -23,9 +23,9 @@
         "observed_days": 1
       },
       {
-        "title": "[推广] 第 3 个游戏站上线！",
-        "link": "https://www.v2ex.com/t/1257276",
-        "date": "2026-11-15T22:32:40+00:00",
+        "title": "[问与答] 如果老黄事件个切割信号，国内 AI 会不会收影响？",
+        "link": "https://www.v2ex.com/t/1257343",
+        "date": "2026-11-16T02:40:21+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -37,23 +37,65 @@
         "observed_days": 1
       },
       {
-        "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
-        "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko",
-        "date": "2026-11-15T22:30:03+00:00",
+        "title": "[推广] [推广] 优米 API：gpt-image-2/2.5 生图 ¥0.01/张",
+        "link": "https://www.v2ex.com/t/1257341",
+        "date": "2026-11-16T02:39:55+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[程序员] 没有 ai 的日子真难受",
+        "link": "https://www.v2ex.com/t/1257340",
+        "date": "2026-11-16T02:38:17+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[程序员] 其实我个人也是比较偏向于使用国模的，但问题是",
+        "link": "https://www.v2ex.com/t/1257339",
+        "date": "2026-11-16T02:37:57+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+        "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+        "date": "2026-11-16T02:14:03+00:00",
         "date_is_observed": false,
         "categories": [
           "财经"
         ],
         "sources": [
-          "BBC Business"
+          "CNBC"
         ],
         "source_count": 1,
         "observed_days": 1
       },
       {
-        "title": "Old Bitly Links Are Being Hijacked",
-        "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-        "date": "2026-11-15T22:11:43+00:00",
+        "title": "Universal XSS in uBlock Origin from website-driven element picker",
+        "link": "https://iter.ca/post/ubo-uxss/",
+        "date": "2026-11-16T02:04:48+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -65,79 +107,23 @@
         "observed_days": 1
       },
       {
-        "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
-        "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo",
-        "date": "2026-11-15T22:00:24+00:00",
+        "title": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+        "link": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+        "date": "2026-11-16T01:54:56+00:00",
         "date_is_observed": false,
         "categories": [
           "财经"
         ],
         "sources": [
-          "BBC Business"
+          "CNBC"
         ],
         "source_count": 1,
         "observed_days": 1
       },
       {
-        "title": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
-        "link": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
-        "date": "2026-11-15T21:50:05+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "The Verge"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
-        "link": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
-        "date": "2026-11-15T21:38:11+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Your Agent Will Pick the Hackable One",
-        "link": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
-        "date": "2026-11-15T21:10:39+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
-        "link": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
-        "date": "2026-11-15T21:05:02+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "The Verge"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Czechs rally against plan to switch funding of public media",
-        "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o",
-        "date": "2026-11-15T21:03:40+00:00",
+        "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+        "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o",
+        "date": "2026-11-16T01:53:19+00:00",
         "date_is_observed": false,
         "categories": [
           "综合"
@@ -147,14 +133,28 @@
         ],
         "source_count": 1,
         "observed_days": 1
+      },
+      {
+        "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+        "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+        "date": "2026-11-16T01:47:16+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "科技"
+        ],
+        "sources": [
+          "The Verge"
+        ],
+        "source_count": 1,
+        "observed_days": 1
       }
     ],
     "by_category": {
       "开发": [
         {
-          "title": "[分享创造] Story Timeline：把小说的设定和时间线存进 SQLite，让 AI 智能体通过 GraphQL 读写",
-          "link": "https://www.v2ex.com/t/1257277",
-          "date": "2026-11-15T22:47:19+00:00",
+          "title": "[分享发现] 国产软件真是蠢到家了",
+          "link": "https://www.v2ex.com/t/1257345",
+          "date": "2026-11-16T02:43:35+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -166,9 +166,9 @@
           "observed_days": 1
         },
         {
-          "title": "[推广] 第 3 个游戏站上线！",
-          "link": "https://www.v2ex.com/t/1257276",
-          "date": "2026-11-15T22:32:40+00:00",
+          "title": "[问与答] 如果老黄事件个切割信号，国内 AI 会不会收影响？",
+          "link": "https://www.v2ex.com/t/1257343",
+          "date": "2026-11-16T02:40:21+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -180,79 +180,9 @@
           "observed_days": 1
         },
         {
-          "title": "Old Bitly Links Are Being Hijacked",
-          "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-          "date": "2026-11-15T22:11:43+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
-          "link": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
-          "date": "2026-11-15T21:38:11+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Your Agent Will Pick the Hackable One",
-          "link": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
-          "date": "2026-11-15T21:10:39+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
-          "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
-          "date": "2026-11-15T20:37:28+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "WebGL Flight Simulator with seed generated terrain",
-          "link": "https://baron.by.dai.studio/",
-          "date": "2026-11-15T20:20:05+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[人工智能] 我觉得 AI 的发展已经到头了",
-          "link": "https://www.v2ex.com/t/1257274",
-          "date": "2026-11-15T18:57:00+00:00",
+          "title": "[推广] [推广] 优米 API：gpt-image-2/2.5 生图 ¥0.01/张",
+          "link": "https://www.v2ex.com/t/1257341",
+          "date": "2026-11-16T02:39:55+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -264,9 +194,9 @@
           "observed_days": 1
         },
         {
-          "title": "[AI Agent 智能体] 有没有 Ai 能够辅助我，提醒我有哪些工作要做？",
-          "link": "https://www.v2ex.com/t/1257273",
-          "date": "2026-11-15T18:22:01+00:00",
+          "title": "[程序员] 没有 ai 的日子真难受",
+          "link": "https://www.v2ex.com/t/1257340",
+          "date": "2026-11-16T02:38:17+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -278,21 +208,175 @@
           "observed_days": 1
         },
         {
-          "title": "[VPS] Dmit 突然挂了？",
-          "link": "https://www.v2ex.com/t/1257272",
-          "date": "2026-11-15T18:09:30+00:00",
+          "title": "[程序员] 其实我个人也是比较偏向于使用国模的，但问题是",
+          "link": "https://www.v2ex.com/t/1257339",
+          "date": "2026-11-16T02:37:57+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
             "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Universal XSS in uBlock Origin from website-driven element picker",
+          "link": "https://iter.ca/post/ubo-uxss/",
+          "date": "2026-11-16T02:04:48+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+          "link": "https://www.hntrends.com/2026/november.html",
+          "date": "2026-11-16T01:31:30+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Coles hit by a cybersecurity incident",
+          "link": "https://www.colesgroup.com.au/updates/",
+          "date": "2026-11-16T01:14:35+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+          "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+          "date": "2026-11-16T00:21:54+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "What's Next for Nvidia?",
+          "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+          "date": "2026-11-15T23:55:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
           ],
           "source_count": 1,
           "observed_days": 1
         }
       ],
       "科技": [
+        {
+          "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+          "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+          "date": "2026-11-16T01:47:16+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "超 16 万人请愿，黄仁勋准备「回宫」",
+          "link": "https://www.ifanr.com/1689559",
+          "date": "2026-11-16T01:11:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "反转！黄仁勋考虑重返英伟达，科技大佬连夜组建「作战室」",
+          "link": "https://www.ifanr.com/1689549",
+          "date": "2026-11-16T00:56:45+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "早报｜黄仁勋考虑重返英伟达担任CEO/曝苹果智能眼镜明年6月发布/微软全球大宕机结束，持续超30小时",
+          "link": "https://www.ifanr.com/1689521",
+          "date": "2026-11-15T23:55:30+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "派早报：逾十万人次联署要求黄仁勋复职",
+          "link": "https://sspai.com/post/119119",
+          "date": "2026-11-15T23:24:34+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+          "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+          "date": "2026-11-15T23:11:54+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
           "link": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
@@ -352,6 +436,90 @@
       ],
       "综合": [
         {
+          "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+          "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o",
+          "date": "2026-11-16T01:53:19+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "APEC深圳峰會前瞻：中方確認美中俄會晤，日方盼習近平按慣例與高市握手",
+          "link": "https://www.bbc.com/zhongwen/articles/c6wy4373q50go/trad",
+          "date": "2026-11-16T01:43:29+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "法國總統大選：五屆奧運柔道冠軍意外參選，攪動選情",
+          "link": "https://www.bbc.com/zhongwen/articles/cwj3kmyk8ne1o/trad",
+          "date": "2026-11-16T00:26:12+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "習近平、特朗普與普京歷史性會晤，將對世界意味什麼？",
+          "link": "https://www.bbc.com/zhongwen/articles/cwe85djzkkv5o/trad",
+          "date": "2026-11-16T00:25:06+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+          "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo",
+          "date": "2026-11-15T23:52:10+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o",
+          "date": "2026-11-15T22:00:13+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Czechs rally against plan to switch funding of public media",
           "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o",
           "date": "2026-11-15T21:03:40+00:00",
@@ -395,6 +563,62 @@
         }
       ],
       "财经": [
+        {
+          "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+          "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+          "date": "2026-11-16T02:14:03+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+          "link": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+          "date": "2026-11-16T01:54:56+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+          "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+          "date": "2026-11-16T01:02:48+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Black Friday and tax return scams  - don't fall for these",
+          "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko",
+          "date": "2026-11-16T00:50:39+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
           "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko",
@@ -456,8 +680,8 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-15T22:52:28+00:00",
-    "total": 1835,
+    "end": "2026-11-16T02:46:42+00:00",
+    "total": 1862,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",

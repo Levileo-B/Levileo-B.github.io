@@ -1,126 +1,124 @@
 {
-  "updated": "2026-11-15T22:52:29+00:00",
+  "updated": "2026-11-16T02:46:42+00:00",
   "leetcode": {
-    "date": "2026-11-15",
-    "id": "1524",
-    "title": "Number of Sub-arrays With Odd Sum",
-    "titleEn": "Number of Sub-arrays With Odd Sum",
-    "slug": "number-of-sub-arrays-with-odd-sum",
-    "difficulty": "Medium",
+    "date": "2026-11-16",
+    "id": "2243",
+    "title": "Calculate Digit Sum of a String",
+    "titleEn": "Calculate Digit Sum of a String",
+    "slug": "calculate-digit-sum-of-a-string",
+    "difficulty": "Easy",
     "tags": [
-      "Array",
-      "Math",
-      "Dynamic Programming",
-      "Prefix Sum"
+      "String",
+      "Simulation"
     ],
-    "link": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/",
+    "link": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Can't Let Go (Mariah Carey song)",
-    "text": "\"Can't Let Go\" is a song recorded by American singer-songwriter Mariah Carey for her second studio album, Emotions (1991). Columbia Records released it as the album's second single in November 1991. Featuring synthesizers and drum programming, \"Can't Let Go\" is a breakup song in the form of an R&B and pop slow jam. The lyrics, written by Carey, are about post-breakup sadness. She composed the music and produced the song with Walter Afanasieff, who had previously worked on her 1990 single \"Love Takes Time\". Carey's vocal range spans more than three octaves; her delivery is predominately breathy and in a low register, with whistle notes in the song's introduction and ending.",
-    "words": 111,
-    "url": "https://en.wikipedia.org/wiki/Can't_Let_Go_(Mariah_Carey_song)",
-    "date": "2026-11-15",
+    "title": "Mark Satin",
+    "text": "Mark Ivor Satin is an American political theorist, writer, and newsletter publisher. He is best known for contributing to the development and dissemination of three political perspectives – neopacifism in the 1960s, New Age politics in the 1970s and 1980s, and radical centrism from the 1990s into the 2020s. Satin's work is sometimes seen as building toward a new political ideology, and then it is often labeled \"transformational\", \"post-liberal\", or \"post-Marxist\". One historian calls Satin's writing \"post-hip\".",
+    "words": 77,
+    "url": "https://en.wikipedia.org/wiki/Mark_Satin",
+    "date": "2026-11-16",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Littlest Puppy Grows Up, The",
-    "creator": "Frith Films",
-    "year": "1954",
-    "url": "https://archive.org/download/0777_Littlest_Puppy_Grows_Up_The_04_47_28_00/0777_Littlest_Puppy_Grows_Up_The_04_47_28_00_3mb.m4v",
-    "page": "https://archive.org/details/0777_Littlest_Puppy_Grows_Up_The_04_47_28_00",
-    "date": "2026-11-15",
+    "title": "You in Public Service: Applying for a Public Service Job",
+    "creator": "U.S. National Audiovisual Center",
+    "year": "1970",
+    "url": "https://archive.org/download/0321_You_in_Public_Service_Applying_for_a_Public_Service_Job_22_00_52_00/0321_You_in_Public_Service_Applying_for_a_Public_Service_Job_22_00_52_00_3mb.m4v",
+    "page": "https://archive.org/details/0321_You_in_Public_Service_Applying_for_a_Public_Service_Job_22_00_52_00",
+    "date": "2026-11-16",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Kuttelbruch",
-      "artist": "Asmus Tietchens",
-      "url": "https://archive.org/download/ex07.kuttelbruch/ex_07.mp3",
-      "page": "https://archive.org/details/ex07.kuttelbruch",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
+      "title": "Binary - Binatone [mtk036]",
+      "artist": "",
+      "url": "https://archive.org/download/mtk036/mtk036-binary-01-vienna-gigolo.mp3",
+      "page": "https://archive.org/details/mtk036",
+      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
     },
     {
-      "title": "(Fressen012) Sol 1 - Free Fall EP",
-      "artist": "Sol 1",
-      "url": "https://archive.org/download/fressen012-sol-1-free-fall-ep/%28Fressen012%29%2001.%20Sol%201%20-%20The%20Truth_Free%20Fall%20EP.mp3",
-      "page": "https://archive.org/details/fressen012-sol-1-free-fall-ep",
+      "title": "Various Artists - Pandora's Wooden Bucket - International Experimental Electronic Music Compilation [zero134a]",
+      "artist": "various artists",
+      "url": "https://archive.org/download/zero134a/01.mp3",
+      "page": "https://archive.org/details/zero134a",
+      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
+    },
+    {
+      "title": "She Bleeds",
+      "artist": "Unfactory",
+      "url": "https://archive.org/download/nrp010/nrp010_-_01_-_unfactory_-_black_celebration.mp3",
+      "page": "https://archive.org/details/nrp010",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+    },
+    {
+      "title": "mnblck023 - Otolith - The Dark Side EP (2009)",
+      "artist": "Otolith",
+      "url": "https://archive.org/download/mnblck023/mnblck023-Otolith-The_Dark_Side_EP-01-Monolith1.mp3",
+      "page": "https://archive.org/details/mnblck023",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/de/"
+    },
+    {
+      "title": "V/A - Æther Atmosphere",
+      "artist": "Internet Daemon Netlabel",
+      "url": "https://archive.org/download/va-aether/01%20-%20Reprodestruxion%20-%20r___IIVA%E2%88%AB.mp3",
+      "page": "https://archive.org/details/va-aether",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "FFM-007: Seconds Before Awakening - Nine",
-      "artist": "Seconds Before Awakening",
-      "url": "https://archive.org/download/freefloatingmusic007/01_-_Seconds_Before_Awakening_-_Nine_-_Nine_1.mp3",
-      "page": "https://archive.org/details/freefloatingmusic007",
+      "title": "[offb005] La Main Traumatique - L'Oeil Interne et L'Apparition du Soleil",
+      "artist": "La Main Traumatique",
+      "url": "https://archive.org/download/offb005LaMainTraumatique-LoeilInterneEtLapparitionDuSoleil/La_Main_Traumatique_-_01_Lil_interne.mp3",
+      "page": "https://archive.org/details/offb005LaMainTraumatique-LoeilInterneEtLapparitionDuSoleil",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Behind Closed Doors Ensemble - Sound in the Absence of Light LP (SHAM016)",
+      "artist": "Behind Closed Doors Ensemble",
+      "url": "https://archive.org/download/sham016/-001.MP3",
+      "page": "https://archive.org/details/sham016",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/"
+    },
+    {
+      "title": "Normal Music - Generic",
+      "artist": "Normal Music",
+      "url": "https://archive.org/download/zero068/zero068_1_The_Subjective_Array_of_Normality.mp3",
+      "page": "https://archive.org/details/zero068",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/"
+    },
+    {
+      "title": "Silas & Friends vol.3 (waag_rel050)",
+      "artist": "Cousin Silas and Friends",
+      "url": "https://archive.org/download/waag_rel050/01_-_Cousin-Silas-and-Ian-Scott_-_Think-of-a-sound.mp3",
+      "page": "https://archive.org/details/waag_rel050",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "DJ L'embrouille - Netlabel 2006 Week 14 Radiomix [Mel026]",
+      "artist": "DJ L'embrouille",
+      "url": "https://archive.org/download/mel026/Netlabel2006MixWeek14_vbr.mp3",
+      "page": "https://archive.org/details/mel026",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/"
+    },
+    {
+      "title": "[PF020] Obe:lus - Psychotopography",
+      "artist": "obe:lus",
+      "url": "https://archive.org/download/pf020Obe-lus-Psychotopography/1.Obe-lus-CryptolectI.mp3",
+      "page": "https://archive.org/details/pf020Obe-lus-Psychotopography",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "FreeStep - Fighters [SJSEP-3302]",
-      "artist": "FreeStep",
-      "url": "https://archive.org/download/freestep-fighters-sjsep-3302/01-freestep-fighters.mp3",
-      "page": "https://archive.org/details/freestep-fighters-sjsep-3302",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "Q.D./severed head in arby's toilet",
-      "artist": "DJ Poop",
-      "url": "https://archive.org/download/qd-and-shiat/DJ_Poop_-_Q.D._Extended_Edit.mp3",
-      "page": "https://archive.org/details/qd-and-shiat",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-    },
-    {
-      "title": "[EPH024] ALESSIO OISSELA - Avant-garde Jouets",
-      "artist": "Ephedrina's Crew",
-      "url": "https://archive.org/download/eph024AlessioOissela-Avant-gardeJouets/01AlessioOissela-1603.mp3",
-      "page": "https://archive.org/details/eph024AlessioOissela-Avant-gardeJouets",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "frei² 2020-09-02: Hard'n'Heavy from the Archive",
-      "artist": "Robert Bienert",
-      "url": "https://archive.org/download/freihoch2-2020-09-02-Hard_Heavy_Archive/freihoch2-2020-09-02-Hard_Heavy_Archive.mp3",
-      "page": "https://archive.org/details/freihoch2-2020-09-02-Hard_Heavy_Archive",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "Eugene Mitrohin- Futurecalypse",
-      "artist": "Eugene Mitrohin",
-      "url": "https://archive.org/download/futurecalypse/6.psionicFilter.mp3",
-      "page": "https://archive.org/details/futurecalypse",
+      "title": "Whirl",
+      "artist": "Sciurid",
+      "url": "https://archive.org/download/sciuridwhirl/a-sciurid-whirl-whirl-.mp3",
+      "page": "https://archive.org/details/sciuridwhirl",
       "license": "http://creativecommons.org/licenses/by/3.0/"
-    },
-    {
-      "title": "| Fortín 14 | Adrián Juárez : El Documentalista Vol. 2 (Ríos y Arroyos)",
-      "artist": "Fortín Artesonoro",
-      "url": "https://archive.org/download/fortin014/fortin014-01-Adrian_Juarez-Documentalista_2-Rio%20Atuel-%20San%20Rafael%2C%20Provincia%20de%20Mendoza.mp3",
-      "page": "https://archive.org/details/fortin014",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Listo",
-      "artist": "Mario Rustom",
-      "url": "https://archive.org/download/fri052/01listo1993.mp3",
-      "page": "https://archive.org/details/fri052",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Faserklang - Lightheaded",
-      "artist": "Faserklang",
-      "url": "https://archive.org/download/faserklang-lightheaded/Broken.mp3",
-      "page": "https://archive.org/details/faserklang-lightheaded",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "Liver, skin, le zuaro",
-      "artist": "Merde sur la mer",
-      "url": "https://archive.org/download/fri065/01merdeandhardshit_vbr.mp3",
-      "page": "https://archive.org/details/fri065",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
     }
   ]
 }
