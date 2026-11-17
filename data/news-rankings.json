@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-16T22:09:49+00:00",
-  "updated": "2026-11-16T22:09:49+00:00",
+  "generated_at": "2026-11-17T04:31:46+00:00",
+  "updated": "2026-11-17T04:31:46+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-16T00:00:00+08:00",
-    "end": "2026-11-16T22:09:49+00:00",
-    "total": 152,
+    "end": "2026-11-17T04:31:46+00:00",
+    "total": 183,
     "items": [
       {
-        "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+        "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
         "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
         "date": "2026-11-16T19:16:52+00:00",
         "date_is_observed": false,
@@ -310,9 +310,9 @@
           "observed_days": 2
         },
         {
-          "title": "[分享创造] 不用部署的 GitHub 个人主页：四套复古主题，改个 JSON 就生效",
-          "link": "https://www.v2ex.com/t/1257566",
-          "date": "2026-11-16T21:59:03+00:00",
+          "title": "[酷工作] 高级后端开发工程师（远程）",
+          "link": "https://www.v2ex.com/t/1257656",
+          "date": "2026-11-17T04:25:00+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -324,79 +324,9 @@
           "observed_days": 1
         },
         {
-          "title": "Spamhaus new email sender requirements in November",
-          "link": "https://www.spamhaus.org/sender-guidelines/",
-          "date": "2026-11-16T21:47:19+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "BugMeNot Has Closed",
-          "link": "https://www.bugmenot.com/",
-          "date": "2026-11-16T21:32:17+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "OpenCode Browse",
-          "link": "https://opencode.ai/product/browse",
-          "date": "2026-11-16T21:20:37+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Optimizely Compromised",
-          "link": "https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/",
-          "date": "2026-11-16T21:08:38+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "My Quest to push native Three.js quality match AAA Game Engines",
-          "link": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
-          "date": "2026-11-16T21:07:43+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[程序员] [开源分享] 发现一个挺有意思的 TTS 项目 VoxMel，直接在 Mel 频谱上做自回归生成",
-          "link": "https://www.v2ex.com/t/1257565",
-          "date": "2026-11-16T18:34:34+00:00",
+          "title": "[推广] Claude 成品号，KYC，本地人手搓",
+          "link": "https://www.v2ex.com/t/1257654",
+          "date": "2026-11-17T04:12:39+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -408,15 +338,85 @@
           "observed_days": 1
         },
         {
-          "title": "[问与答] codex 降智了咋办",
-          "link": "https://www.v2ex.com/t/1257562",
-          "date": "2026-11-16T17:24:23+00:00",
+          "title": "[宽带症候群] 实现了一个超轻量的抗 UDP QoS 的文件传输协议",
+          "link": "https://www.v2ex.com/t/1257653",
+          "date": "2026-11-17T04:10:55+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
             "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[Google Gemini] 刚换了一下 IP，Gemini 就被干掉了",
+          "link": "https://www.v2ex.com/t/1257652",
+          "date": "2026-11-17T04:07:09+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[技术栈] 关于我在 T3 Code 中使用过的多模型的速率排行（省流： GPT 最拉）",
+          "link": "https://www.v2ex.com/t/1257651",
+          "date": "2026-11-17T04:05:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+          "link": "https://support.apple.com/en-us/149699",
+          "date": "2026-11-17T02:17:04+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Mem Is Shutting Down",
+          "link": "https://get.mem.ai/blog/mem-is-shutting-down",
+          "date": "2026-11-17T02:13:41+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Running coding agents without handing them my credentials",
+          "link": "https://blog.antonio.cx/running-agents-with-lend",
+          "date": "2026-11-17T01:18:56+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -550,15 +550,15 @@
           "observed_days": 2
         },
         {
-          "title": "Microsoft details how three problems combined for a global outage",
-          "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
-          "date": "2026-11-16T21:56:39+00:00",
+          "title": "12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」",
+          "link": "https://www.ifanr.com/1689792",
+          "date": "2026-11-17T03:22:08+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "Ars Technica"
+            "爱范儿"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -708,7 +708,7 @@
       ],
       "综合": [
         {
-          "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
           "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
           "date": "2026-11-16T19:16:52+00:00",
           "date_is_observed": false,
@@ -808,43 +808,43 @@
           "observed_days": 2
         },
         {
-          "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-          "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo",
-          "date": "2026-11-16T21:40:07+00:00",
+          "title": "羅伯·派汀森：《暮光之城》男主角如何成為007",
+          "link": "https://www.bbc.com/zhongwen/articles/c893rgw9zrxqo/trad",
+          "date": "2026-11-17T02:38:11+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
           ],
           "sources": [
-            "BBC World"
+            "BBC 中文"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "When will we see Robert Pattinson as Bond in cinemas?",
-          "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o",
-          "date": "2026-11-16T17:18:54+00:00",
+          "title": "APEC深圳觀察：習近平想告訴世界，中國掌握著未來",
+          "link": "https://www.bbc.com/zhongwen/articles/c893rg46x0ygo/trad",
+          "date": "2026-11-17T02:09:22+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
           ],
           "sources": [
-            "BBC World"
+            "BBC 中文"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-          "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o",
-          "date": "2026-11-16T14:58:12+00:00",
+          "title": "俄羅斯超級富豪們已經在設想一個「後普京時代」",
+          "link": "https://www.bbc.com/zhongwen/articles/cmx27v835864o/trad",
+          "date": "2026-11-17T00:34:50+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
           ],
           "sources": [
-            "BBC World"
+            "BBC 中文"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -852,7 +852,7 @@
       ],
       "财经": [
         {
-          "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
           "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
           "date": "2026-11-16T19:16:52+00:00",
           "date_is_observed": false,
@@ -924,9 +924,9 @@
           "observed_days": 2
         },
         {
-          "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-          "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-          "date": "2026-11-16T21:55:19+00:00",
+          "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+          "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+          "date": "2026-11-17T00:42:33+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -938,51 +938,51 @@
           "observed_days": 1
         },
         {
-          "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-          "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
-          "date": "2026-11-16T21:52:33+00:00",
+          "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+          "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko",
+          "date": "2026-11-17T00:00:03+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
           ],
           "sources": [
-            "CNBC"
+            "BBC Business"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Kalshi plans to launch stock trading soon",
-          "link": "https://www.cnbc.com/2026/11/16/kalshi-plans-to-launch-stock-trading-soon.html",
-          "date": "2026-11-16T21:23:34+00:00",
+          "title": "We couldn't afford a house alone, so we bought one with strangers",
+          "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo",
+          "date": "2026-11-17T00:00:02+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
           ],
           "sources": [
-            "CNBC"
+            "BBC Business"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
-          "link": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
-          "date": "2026-11-16T19:46:26+00:00",
+          "title": "California sues OpenAI over Hugging Face attack",
+          "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo",
+          "date": "2026-11-16T23:12:24+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
           ],
           "sources": [
-            "CNBC"
+            "BBC Business"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
-          "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
-          "date": "2026-11-16T18:46:07+00:00",
+          "title": "Aschenbrenner’s Situational Awareness made AI bets again before October rout",
+          "link": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
+          "date": "2026-11-16T23:05:12+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -998,8 +998,8 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-16T22:09:49+00:00",
-    "total": 1958,
+    "end": "2026-11-17T04:31:46+00:00",
+    "total": 1989,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
@@ -1867,7 +1867,7 @@
           "observed_days": 2
         },
         {
-          "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
           "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
           "date": "2026-11-16T19:16:52+00:00",
           "date_is_observed": false,
@@ -2029,7 +2029,7 @@
           "observed_days": 2
         },
         {
-          "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
           "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
           "date": "2026-11-16T19:16:52+00:00",
           "date_is_observed": false,

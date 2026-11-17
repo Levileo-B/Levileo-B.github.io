@@ -1,96 +1,62 @@
 {
-  "updated": "2026-11-16T22:09:49+00:00",
+  "updated": "2026-11-17T04:31:46+00:00",
   "leetcode": {
-    "date": "2026-11-16",
-    "id": "2243",
-    "title": "Calculate Digit Sum of a String",
-    "titleEn": "Calculate Digit Sum of a String",
-    "slug": "calculate-digit-sum-of-a-string",
-    "difficulty": "Easy",
+    "date": "2026-11-17",
+    "id": "2911",
+    "title": "Minimum Changes to Make K Semi-palindromes",
+    "titleEn": "Minimum Changes to Make K Semi-palindromes",
+    "slug": "minimum-changes-to-make-k-semi-palindromes",
+    "difficulty": "Hard",
     "tags": [
+      "Two Pointers",
       "String",
-      "Simulation"
+      "Dynamic Programming"
     ],
-    "link": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/",
+    "link": "https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Mark Satin",
-    "text": "Mark Ivor Satin is an American political theorist, writer, and newsletter publisher. He contributed to the development and dissemination of three political perspectives – neopacifism in the 1960s, New Age politics in the 1970s and 1980s, and radical centrism from the 1990s into the 2020s. Satin's work is sometimes seen as building toward a new political ideology, and then it is often labeled \"transformational\", \"post-liberal\", or \"post-Marxist\". One historian calls Satin's writing \"post-hip\".",
-    "words": 73,
-    "url": "https://en.wikipedia.org/wiki/Mark_Satin",
-    "date": "2026-11-16",
+    "title": "Islands: Non-Places",
+    "text": "Islands: Non-Places is a 2016 abstract art game developed and published independently by artist and animator Carl Burton, best known for the animated GIF illustrations he created for season two of the Serial podcast. The game was released on November 17, 2016, on iOS, Windows, Mac, and Linux, and consists of a series of anonymous, liminal environments–the eponymous \"non-places\". These scenes appear mundane at first, but become increasingly surreal as the player interacts with the objects within.",
+    "words": 77,
+    "url": "https://en.wikipedia.org/wiki/Islands%3A_Non-Places",
+    "date": "2026-11-17",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Vista Stock Shots: San Francisco Scenics",
+    "title": "Minsky Film 017",
     "creator": "",
-    "year": "2026",
-    "url": "https://archive.org/download/0599_Vista_Stock_Shots_San_Francisco_Scenics_14_39_11_20/0599_Vista_Stock_Shots_San_Francisco_Scenics_14_39_11_20.m4v",
-    "page": "https://archive.org/details/0599_Vista_Stock_Shots_San_Francisco_Scenics_14_39_11_20",
-    "date": "2026-11-16",
+    "year": "",
+    "url": "https://archive.org/download/minskyfilm017/minskyfilm017.mp4",
+    "page": "https://archive.org/details/minskyfilm017",
+    "date": "2026-11-17",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Rolling Calf Sinfonette - Rain II [wh006]",
-      "artist": "C.P. McDill",
-      "url": "https://archive.org/download/wh006/wh006_rcs_rain2.mp3",
-      "page": "https://archive.org/details/wh006",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
+      "title": "čopor - Rastanak (LP, 2013) [SCL112]",
+      "artist": "čopor",
+      "url": "https://archive.org/download/SCL112/01_-_autisti%C4%8Dni_sin_Jacksona_Polocka_i_Patti_Smith.mp3",
+      "page": "https://archive.org/details/SCL112",
+      "license": "http://creativecommons.org/licenses/by-nc/4.0/"
     },
     {
-      "title": "SOUND DECOR: CONTEXT (EP)",
-      "artist": "tachyon netlabel",
-      "url": "https://archive.org/download/SoundDecorContext/01.%20Sound%20Decor%20-%20Context.mp3",
-      "page": "https://archive.org/details/SoundDecorContext",
-      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
+      "title": "SBTR076 - Haunt - Solar Forest [EP]",
+      "artist": "Haunt",
+      "url": "https://archive.org/download/SBTR076HauntSolarForest/01%20Unholy%20Hate.mp3",
+      "page": "https://archive.org/details/SBTR076HauntSolarForest",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
     },
     {
-      "title": "latina merda vol.1",
-      "artist": "fabiorosho",
-      "url": "https://archive.org/download/0kbps037/alec_dal_93.mp3",
-      "page": "https://archive.org/details/0kbps037",
-      "license": "http://creativecommons.org/licenses/by-sa/3.0/"
-    },
-    {
-      "title": "Returno [BFW141]",
-      "artist": "MagicVan",
-      "url": "https://archive.org/download/MagicVan-Returno/01Returno.mp3",
-      "page": "https://archive.org/details/MagicVan-Returno",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Scott Sinclair - Sipatah",
-      "artist": "Scott Sinclair",
-      "url": "https://archive.org/download/Scott_Sinclair_Sipatah/01_Scott_Sinclair_Sipatah1.mp3",
-      "page": "https://archive.org/details/Scott_Sinclair_Sipatah",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Master Musick Mixtape by Wild Worm Web",
-      "artist": "Wild Worm Web",
-      "url": "https://archive.org/download/wild-worm-web-master-musick-mixtape/Wild%20Worm%20Web%20-%20Master%20Music%20Mixtape%20-%2001%20hoW%20Many%20of%20Me.mp3",
-      "page": "https://archive.org/details/wild-worm-web-master-musick-mixtape",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-    },
-    {
-      "title": "Stabwound_Riggeriffic",
-      "artist": "Stabwound",
-      "url": "https://archive.org/download/Stabwound_Riggeriffic/01Over_the_edge.mp3",
-      "page": "https://archive.org/details/Stabwound_Riggeriffic",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Reality Maps",
-      "artist": "Arzathon",
-      "url": "https://archive.org/download/01BuildingASystemToFail/01%20-%20Building%20A%20System%20to%20Fail.mp3",
-      "page": "https://archive.org/details/01BuildingASystemToFail",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "[SBWS148] Bad Gibbonz - Social Lock EP",
+      "artist": "Bad Gibbonz",
+      "url": "https://archive.org/download/SBWS148/01_Bad_Gibbonz_-_Social_Lock.mp3",
+      "page": "https://archive.org/details/SBWS148",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
     },
     {
       "title": "Sings Songs For Ding Dongs",
@@ -100,25 +66,60 @@
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Thomas Park- 1000 Glitch Dub Songs (In One Day) [treetrunk 652]",
-      "artist": "Thomas Park",
-      "url": "https://archive.org/download/1000glitchdubsongsinoneday/Track20210422092249521579.0.mp3",
-      "page": "https://archive.org/details/1000glitchdubsongsinoneday",
-      "license": "http://creativecommons.org/publicdomain/mark/1.0/"
+      "title": "SR046 - Polvere In Cantina - Polvere In Cantina",
+      "artist": "Polvere In Cantina",
+      "url": "https://archive.org/download/SR046-PolvereInCantina/01%20Meditelektro.mp3",
+      "page": "https://archive.org/details/SR046-PolvereInCantina",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
     },
     {
-      "title": "Shramotaka | Opona",
-      "artist": "Artificial Memory Trace",
-      "url": "https://archive.org/download/ShramotakaOpona/Opona7_inchSideBWav.mp3",
-      "page": "https://archive.org/details/ShramotakaOpona",
+      "title": "some plums and peaches",
+      "artist": "vziel projet",
+      "url": "https://archive.org/download/SomePlumsAndPeaches/SomePlumsAndPeaches.mp3",
+      "page": "https://archive.org/details/SomePlumsAndPeaches",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Various Artists - Squares Cubed September 30 2004",
+      "artist": "Chris Walsh and Marc Kelsey",
+      "url": "https://archive.org/download/Sept3004/sc093004.mp3",
+      "page": "https://archive.org/details/Sept3004",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/"
+    },
+    {
+      "title": "Richey Hackett - Keep Your Eye On The Time [2018]",
+      "artist": "Richey Hackett",
+      "url": "https://archive.org/download/RicheyHackett-KeepYourEyeOnTheTime2018/Richey%20Hackett%20-%20Keep%20Your%20Eye%20on%20the%20Time%20-%2001%20Keep%20Your%20Eye%20on%20the%20Time.mp3",
+      "page": "https://archive.org/details/RicheyHackett-KeepYourEyeOnTheTime2018",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "Rilke - No One Knows Anyone, Not Really",
+      "artist": "Rilke",
+      "url": "https://archive.org/download/Rilke-NoOneKnowsAnyoneNotReally/01%20Samos.mp3",
+      "page": "https://archive.org/details/Rilke-NoOneKnowsAnyoneNotReally",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Higher Ground (November 23, 2005)",
+      "artist": "Societies Remnants",
+      "url": "https://archive.org/download/SocietiesRemnants_HigherGround_November_23_2005/01Side_A__Time_Wasted_Eroding.mp3",
+      "page": "https://archive.org/details/SocietiesRemnants_HigherGround_November_23_2005",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Kevin Lyons - \"Lullabies for Strange Children (waag_rel044)\"",
-      "artist": "Kevin Lyons",
-      "url": "https://archive.org/download/waag_rel044/01_-_Kevin-Lyons_-_Relics.mp3",
-      "page": "https://archive.org/details/waag_rel044",
+      "title": "Stand",
+      "artist": "Gypsy",
+      "url": "https://archive.org/download/Stand_110/ClockworkNazi.mp3",
+      "page": "https://archive.org/details/Stand_110",
       "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "Start Again",
+      "artist": "Asaguare",
+      "url": "https://archive.org/download/StartAgain_520/StartAgainHiFi.mp3",
+      "page": "https://archive.org/details/StartAgain_520",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     }
   ]
 }

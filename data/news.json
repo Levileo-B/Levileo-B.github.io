@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T22:09:49+00:00",
+  "updated": "2026-11-17T04:31:46+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -7,9 +7,19 @@
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
         {
+          "title": "APEC深圳觀察：習近平想告訴世界，中國掌握著未來",
+          "link": "https://www.bbc.com/zhongwen/articles/c893rg46x0ygo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-17T02:09:22+00:00"
+        },
+        {
           "title": "習近平、特朗普與普京歷史性會晤，將對世界意味什麼？",
           "link": "https://www.bbc.com/zhongwen/articles/cwe85djzkkv5o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-11-16T14:38:25+00:00"
+        },
+        {
+          "title": "俄羅斯超級富豪們已經在設想一個「後普京時代」",
+          "link": "https://www.bbc.com/zhongwen/articles/cmx27v835864o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-17T00:34:50+00:00"
         },
         {
           "title": "里長赴中旅遊受關注：為何北京鎖定里長？里長怎麼看？",
@@ -17,19 +27,9 @@
           "date": "2026-11-16T09:03:22+00:00"
         },
         {
-          "title": "里長赴中旅遊：台灣《反滲透法》為何「查辦多、定罪少」？",
-          "link": "https://www.bbc.com/zhongwen/articles/cr7428z1wx74o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-16T09:03:27+00:00"
-        },
-        {
-          "title": "APEC深圳峰會：中方確認美中俄會晤，日方盼習近平與高市握手",
-          "link": "https://www.bbc.com/zhongwen/articles/c6wy4373q50go/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-16T01:43:29+00:00"
-        },
-        {
-          "title": "據報黃仁勳商討重返Nvidia，Megaspeed稱黃樂去年已離職",
-          "link": "https://www.bbc.com/zhongwen/articles/cw8dvqp5z412o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-16T03:49:26+00:00"
+          "title": "羅伯·派汀森：《暮光之城》男主角如何成為007",
+          "link": "https://www.bbc.com/zhongwen/articles/c893rgw9zrxqo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-17T02:38:11+00:00"
         }
       ]
     },
@@ -41,7 +41,7 @@
         {
           "title": "Five EU countries announce migrant deportation centre in Rwanda",
           "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-16T16:27:24+00:00"
+          "date": "2026-11-16T23:20:45+00:00"
         },
         {
           "title": "Houthi rebel advance in Yemen may further destabilise global economy",
@@ -49,9 +49,9 @@
           "date": "2026-11-16T21:40:07+00:00"
         },
         {
-          "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
           "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-16T19:16:52+00:00"
+          "date": "2026-11-17T02:37:53+00:00"
         },
         {
           "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
@@ -71,29 +71,29 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
-          "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+          "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+          "link": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-16T22:32:47+00:00"
+        },
+        {
+          "title": "California sues OpenAI over Hugging Face attack",
+          "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-16T23:12:24+00:00"
+        },
+        {
+          "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+          "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-17T00:00:03+00:00"
+        },
+        {
+          "title": "We couldn't afford a house alone, so we bought one with strangers",
+          "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-17T00:00:02+00:00"
+        },
+        {
+          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
           "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-16T19:16:52+00:00"
-        },
-        {
-          "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-          "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-16T13:19:33+00:00"
-        },
-        {
-          "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-          "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-16T15:40:16+00:00"
-        },
-        {
-          "title": "Intel sued by investors after PC sales slump hits share price",
-          "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-16T03:04:01+00:00"
-        },
-        {
-          "title": "Gas starts flowing from Jackdaw after government green light",
-          "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-16T06:24:08+00:00"
+          "date": "2026-11-17T02:37:53+00:00"
         }
       ]
     },
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
-          "link": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
-          "date": "2026-11-16T19:46:26+00:00"
+          "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+          "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
+          "date": "2026-11-16T22:37:45+00:00"
+        },
+        {
+          "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+          "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+          "date": "2026-11-17T00:42:33+00:00"
+        },
+        {
+          "title": "Aschenbrenner’s Situational Awareness made AI bets again before October rout",
+          "link": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
+          "date": "2026-11-16T23:05:12+00:00"
         },
         {
           "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
           "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-          "date": "2026-11-16T21:55:19+00:00"
+          "date": "2026-11-16T22:14:47+00:00"
         },
         {
-          "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-          "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
-          "date": "2026-11-16T21:52:33+00:00"
-        },
-        {
-          "title": "Kalshi plans to launch stock trading soon",
-          "link": "https://www.cnbc.com/2026/11/16/kalshi-plans-to-launch-stock-trading-soon.html",
-          "date": "2026-11-16T21:23:34+00:00"
-        },
-        {
-          "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
-          "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
-          "date": "2026-11-16T18:46:07+00:00"
+          "title": "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
+          "link": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
+          "date": "2026-11-16T23:00:01+00:00"
         }
       ]
     },
@@ -134,6 +134,16 @@
       "category": "科技",
       "url": "https://sspai.com/feed",
       "items": [
+        {
+          "title": "为了另一种可能性：在国内折腾 Linux 打游戏的二三事",
+          "link": "https://sspai.com/post/118442",
+          "date": "2026-11-17T02:59:51+00:00"
+        },
+        {
+          "title": "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等",
+          "link": "https://sspai.com/post/119160",
+          "date": "2026-11-16T23:57:40+00:00"
+        },
         {
           "title": "派评 | 近期值得关注的 App",
           "link": "https://sspai.com/post/119148",
@@ -148,16 +158,6 @@
           "title": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
           "link": "https://sspai.com/post/119012",
           "date": "2026-11-16T02:52:11+00:00"
-        },
-        {
-          "title": "派早报：逾十万人次联署要求黄仁勋复职",
-          "link": "https://sspai.com/post/119119",
-          "date": "2026-11-15T23:24:34+00:00"
-        },
-        {
-          "title": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
-          "link": "https://sspai.com/post/118392",
-          "date": "2026-11-15T07:55:16+00:00"
         }
       ]
     },
@@ -167,6 +167,21 @@
       "url": "https://www.ifanr.com/feed",
       "items": [
         {
+          "title": "12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」",
+          "link": "https://www.ifanr.com/1689792?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-11-17T03:22:08+00:00"
+        },
+        {
+          "title": "微软全球大宕机，AI 怎么又成了背锅侠",
+          "link": "https://www.ifanr.com/1689638?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-11-17T02:23:50+00:00"
+        },
+        {
+          "title": "早报｜iPhone Duo新增外屏人脸解锁/曝英伟达董事会无意请回黄仁勋/华为Mate X8定档11月24日",
+          "link": "https://www.ifanr.com/1689760?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-11-17T00:18:50+00:00"
+        },
+        {
           "title": "影石这张「魔法相纸」，怎么治好了我的相册吃灰症？",
           "link": "https://www.ifanr.com/1689594?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-11-16T12:00:01+00:00"
@@ -175,21 +190,6 @@
           "title": "苹果眼镜明年见：没有屏幕，全靠 Siri 撑场面？",
           "link": "https://www.ifanr.com/1689712?utm_source=rss&utm_medium=rss&utm_campaign=",
           "date": "2026-11-16T10:53:45+00:00"
-        },
-        {
-          "title": "几乎每家国产新能源都在营销的「6 人 12 箱」，原来根本就是违法的！",
-          "link": "https://www.ifanr.com/1689701?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-11-16T10:27:22+00:00"
-        },
-        {
-          "title": "实测腾讯 Hy4 flash：花两毛钱，就能让 AI 从零做个 3D 交互网页",
-          "link": "https://www.ifanr.com/1689653?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-11-16T09:53:01+00:00"
-        },
-        {
-          "title": "制糖工厂推出 EdgeTie 边边线，以转角贴边设计改善车内充电体验",
-          "link": "https://www.ifanr.com/1689628?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-11-16T08:37:10+00:00"
         }
       ]
     },
@@ -231,6 +231,21 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+          "link": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+          "date": "2026-11-16T23:35:58+00:00"
+        },
+        {
+          "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+          "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+          "date": "2026-11-16T23:20:44+00:00"
+        },
+        {
+          "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+          "link": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+          "date": "2026-11-17T01:02:40+00:00"
+        },
+        {
           "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
           "link": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
           "date": "2026-11-16T21:41:57+00:00"
@@ -238,22 +253,7 @@
         {
           "title": "California sues OpenAI over rogue AI hacking incidents",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-          "date": "2026-11-16T20:46:01+00:00"
-        },
-        {
-          "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-          "date": "2026-11-16T21:34:40+00:00"
-        },
-        {
-          "title": "Some of our favorite PlayStation games are steeply discounted for Black Friday",
-          "link": "https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals",
-          "date": "2026-11-16T20:37:24+00:00"
-        },
-        {
-          "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-          "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
-          "date": "2026-11-16T20:32:51+00:00"
+          "date": "2026-11-16T23:04:02+00:00"
         }
       ]
     },
@@ -263,7 +263,12 @@
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
         {
-          "title": "Microsoft details how three problems combined for a global outage",
+          "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+          "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+          "date": "2026-11-16T22:58:27+00:00"
+        },
+        {
+          "title": "Three small failures combined to take down Microsoft 365",
           "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
           "date": "2026-11-16T21:56:39+00:00"
         },
@@ -281,11 +286,6 @@
           "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
           "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
           "date": "2026-11-16T20:27:58+00:00"
-        },
-        {
-          "title": "Supreme Court keeps injunction against DEI grant defunding in place",
-          "link": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
-          "date": "2026-11-16T19:54:21+00:00"
         }
       ]
     },
@@ -295,29 +295,29 @@
       "url": "https://hnrss.org/frontpage?count=10",
       "items": [
         {
-          "title": "Spamhaus new email sender requirements in November",
-          "link": "https://www.spamhaus.org/sender-guidelines/",
-          "date": "2026-11-16T21:47:19+00:00"
+          "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+          "link": "https://support.apple.com/en-us/149699",
+          "date": "2026-11-17T02:17:04+00:00"
         },
         {
-          "title": "BugMeNot Has Closed",
-          "link": "https://www.bugmenot.com/",
-          "date": "2026-11-16T21:32:17+00:00"
+          "title": "Mem Is Shutting Down",
+          "link": "https://get.mem.ai/blog/mem-is-shutting-down",
+          "date": "2026-11-17T02:13:41+00:00"
         },
         {
-          "title": "OpenCode Browse",
-          "link": "https://opencode.ai/product/browse",
-          "date": "2026-11-16T21:20:37+00:00"
+          "title": "Running coding agents without handing them my credentials",
+          "link": "https://blog.antonio.cx/running-agents-with-lend",
+          "date": "2026-11-17T01:18:56+00:00"
         },
         {
-          "title": "Optimizely Compromised",
-          "link": "https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/",
-          "date": "2026-11-16T21:08:38+00:00"
+          "title": "Why 3dfx 1 cards had such a washed out color output?",
+          "link": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+          "date": "2026-11-17T00:16:24+00:00"
         },
         {
-          "title": "My Quest to push native Three.js quality match AAA Game Engines",
-          "link": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
-          "date": "2026-11-16T21:07:43+00:00"
+          "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
+          "link": "https://github.com/0nelight/sutra-os",
+          "date": "2026-11-16T23:25:41+00:00"
         }
       ]
     },
@@ -327,29 +327,29 @@
       "url": "https://lobste.rs/rss",
       "items": [
         {
-          "title": "Migrating from GitHub to Codeberg",
-          "link": "https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/",
-          "date": "2026-11-16T05:10:34+00:00"
-        },
-        {
           "title": "What is w2rt6byl5nf1opmc-a[.]com?",
           "link": "https://jack.cab/blog/siterate.html",
           "date": "2026-11-16T13:02:11+00:00"
         },
         {
-          "title": "A datetime library for Rust",
-          "link": "https://burntsushi.net/jiff/",
-          "date": "2026-11-15T22:39:34+00:00"
+          "title": "Migrating from GitHub to Codeberg",
+          "link": "https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/",
+          "date": "2026-11-16T05:10:34+00:00"
         },
         {
-          "title": "Squircles",
-          "link": "https://linebender.org/wiki/curves/squircle/",
-          "date": "2026-11-16T13:56:54+00:00"
+          "title": "How Rust Changed Me As A Developer",
+          "link": "https://blog.startifact.com/posts/how-rust-changed-me/",
+          "date": "2026-11-16T18:17:29+00:00"
         },
         {
           "title": "Janet Reno was talking about my friend Coolio (computer criminal)",
           "link": "https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/",
           "date": "2026-11-16T16:43:58+00:00"
+        },
+        {
+          "title": "Squircles",
+          "link": "https://linebender.org/wiki/curves/squircle/",
+          "date": "2026-11-16T13:56:54+00:00"
         }
       ]
     },
@@ -359,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享创造] 不用部署的 GitHub 个人主页：四套复古主题，改个 JSON 就生效",
-          "link": "https://www.v2ex.com/t/1257566#reply0",
-          "date": "2026-11-16T21:59:03+00:00"
+          "title": "[酷工作] 高级后端开发工程师（远程）",
+          "link": "https://www.v2ex.com/t/1257656#reply0",
+          "date": "2026-11-17T04:25:00+00:00"
         },
         {
-          "title": "[程序员] [开源分享] 发现一个挺有意思的 TTS 项目 VoxMel，直接在 Mel 频谱上做自回归生成",
-          "link": "https://www.v2ex.com/t/1257565#reply0",
-          "date": "2026-11-16T18:34:34+00:00"
+          "title": "[推广] Claude 成品号，KYC，本地人手搓",
+          "link": "https://www.v2ex.com/t/1257654#reply0",
+          "date": "2026-11-17T04:12:39+00:00"
         },
         {
-          "title": "[问与答] codex 降智了咋办",
-          "link": "https://www.v2ex.com/t/1257562#reply2",
-          "date": "2026-11-16T17:24:23+00:00"
+          "title": "[宽带症候群] 实现了一个超轻量的抗 UDP QoS 的文件传输协议",
+          "link": "https://www.v2ex.com/t/1257653#reply0",
+          "date": "2026-11-17T04:10:55+00:00"
         },
         {
-          "title": "[酷工作] remote\n算法工程师（偏重 TTS 真人语音合成方向）22K-35k\n算法工程师（偏重生图生视频 & 人物一致性方向）22K-35k",
-          "link": "https://www.v2ex.com/t/1257560#reply0",
-          "date": "2026-11-16T17:04:10+00:00"
+          "title": "[Google Gemini] 刚换了一下 IP，Gemini 就被干掉了",
+          "link": "https://www.v2ex.com/t/1257652#reply2",
+          "date": "2026-11-17T04:07:09+00:00"
         },
         {
-          "title": "[推广] 在瑞典做 Mac mini 实体主机托管，家用 IP，有 Claude 企业账号，可以代付，开放少量意向名额",
-          "link": "https://www.v2ex.com/t/1257559#reply0",
-          "date": "2026-11-16T17:03:40+00:00"
+          "title": "[技术栈] 关于我在 T3 Code 中使用过的多模型的速率排行（省流： GPT 最拉）",
+          "link": "https://www.v2ex.com/t/1257651#reply0",
+          "date": "2026-11-17T04:05:55+00:00"
         }
       ]
     },
@@ -556,13 +556,13 @@
           "date": "2026-11-16T00:00:00+00:00"
         },
         {
-          "title": "Secrets of the vampires: genomes reveal how these bats live off blood alone",
-          "link": "https://www.nature.com/articles/d41586-026-03706-8",
+          "title": "US Supreme Court rebuffs White House effort to cut research grants",
+          "link": "https://www.nature.com/articles/d41586-026-03765-x",
           "date": "2026-11-16T00:00:00+00:00"
         },
         {
-          "title": "The psychology of imaginary friends — and why they are good for kids",
-          "link": "https://www.nature.com/articles/d41586-026-03713-9",
+          "title": "Secrets of the vampires: genomes reveal how these bats live off blood alone",
+          "link": "https://www.nature.com/articles/d41586-026-03706-8",
           "date": "2026-11-16T00:00:00+00:00"
         }
       ]
