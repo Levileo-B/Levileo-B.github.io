@@ -1,13 +1,44 @@
 {
-  "generated_at": "2026-11-17T14:29:31+00:00",
-  "updated": "2026-11-17T14:29:31+00:00",
+  "generated_at": "2026-11-17T22:55:32+00:00",
+  "updated": "2026-11-17T22:55:32+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-16T00:00:00+08:00",
-    "end": "2026-11-17T14:29:31+00:00",
-    "total": 240,
+    "end": "2026-11-17T22:55:32+00:00",
+    "total": 287,
     "items": [
+      {
+        "title": "Java4Shell: Write once, RCE everywhere",
+        "link": "https://calif.io/java4shell/",
+        "date": "2026-11-17T21:11:28+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
+        "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+        "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
+        "date": "2026-11-17T18:24:21+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
       {
         "title": "US government confirms investigation into tech firm Megaspeed",
         "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
@@ -41,76 +72,6 @@
         "observed_days": 1
       },
       {
-        "title": "Five EU countries announce migrant deportation centre in Rwanda",
-        "link": "https://www.bbc.co.uk/news/articles/cw987343352go",
-        "date": "2026-11-16T11:17:34+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC World"
-        ],
-        "source_count": 1,
-        "observed_days": 2
-      },
-      {
-        "title": "苹果眼镜明年见：没有屏幕，全靠 Siri 撑场面？",
-        "link": "https://www.ifanr.com/1689712",
-        "date": "2026-11-16T10:53:45+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "爱范儿"
-        ],
-        "source_count": 1,
-        "observed_days": 2
-      },
-      {
-        "title": "美国 ULA 的 Vulcan 火箭发射失败 40 颗亚马逊卫星被毁",
-        "link": "https://www.solidot.org/story?sid=85900",
-        "date": "2026-11-16T10:33:21+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "Solidot"
-        ],
-        "source_count": 1,
-        "observed_days": 2
-      },
-      {
-        "title": "几乎每家国产新能源都在营销的「6 人 12 箱」，原来根本就是违法的！",
-        "link": "https://www.ifanr.com/1689701",
-        "date": "2026-11-16T10:27:22+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "爱范儿"
-        ],
-        "source_count": 1,
-        "observed_days": 2
-      },
-      {
-        "title": "New wearable ultrasound patch boosts REM sleep without drugs or surgery",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261116014842.htm",
-        "date": "2026-11-16T10:22:15+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科研"
-        ],
-        "sources": [
-          "ScienceDaily"
-        ],
-        "source_count": 1,
-        "observed_days": 2
-      },
-      {
         "title": "派评 | 近期值得关注的 App",
         "link": "https://sspai.com/post/119148",
         "date": "2026-11-16T10:09:47+00:00",
@@ -122,32 +83,74 @@
           "少数派"
         ],
         "source_count": 1,
-        "observed_days": 2
+        "observed_days": 3
       },
       {
-        "title": "实测腾讯 Hy4 flash：花两毛钱，就能让 AI 从零做个 3D 交互网页",
-        "link": "https://www.ifanr.com/1689653",
-        "date": "2026-11-16T09:53:01+00:00",
-        "date_is_observed": false,
+        "title": "《Agent评测白皮书》系列02：商家 AI 助手的评测与优化闭环实践",
+        "link": "https://tech.meituan.com/2026/11/17/Agent-Evaluation-White-Paper-02.html",
+        "date": "2026-11-17T14:29:31+00:00",
+        "date_is_observed": true,
         "categories": [
-          "科技"
+          "开发"
         ],
         "sources": [
-          "爱范儿"
+          "美团技术团队"
         ],
         "source_count": 1,
         "observed_days": 2
       },
       {
-        "title": "里長赴中旅遊：台灣《反滲透法》為何「查辦多、定罪少」？",
-        "link": "https://www.bbc.com/zhongwen/articles/cr7428z1wx74o/trad",
-        "date": "2026-11-16T09:03:27+00:00",
+        "title": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
+        "link": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
+        "date": "2026-11-17T14:24:44+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "财经"
+        ],
+        "sources": [
+          "CNBC"
+        ],
+        "source_count": 1,
+        "observed_days": 2
+      },
+      {
+        "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+        "link": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+        "date": "2026-11-17T13:10:00+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "AI"
+        ],
+        "sources": [
+          "MIT Technology Review"
+        ],
+        "source_count": 1,
+        "observed_days": 2
+      },
+      {
+        "title": "Speed camera fault may have allowed drivers to escape fines",
+        "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo",
+        "date": "2026-11-17T13:03:30+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "财经"
+        ],
+        "sources": [
+          "BBC Business"
+        ],
+        "source_count": 1,
+        "observed_days": 2
+      },
+      {
+        "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+        "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
+        "date": "2026-11-17T13:01:11+00:00",
         "date_is_observed": false,
         "categories": [
           "综合"
         ],
         "sources": [
-          "BBC 中文"
+          "BBC World"
         ],
         "source_count": 1,
         "observed_days": 2
@@ -167,7 +170,7 @@
             "MIT Technology Review"
           ],
           "source_count": 1,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
           "title": "The open-source movement wants Jensen Huang back",
@@ -181,12 +184,12 @@
             "MIT Technology Review"
           ],
           "source_count": 1,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
-          "title": "Building trustworthy AI by fencing it in, not predicting it",
-          "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-          "date": "2026-11-16T16:04:28+00:00",
+          "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+          "link": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+          "date": "2026-11-17T18:46:47+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -198,9 +201,9 @@
           "observed_days": 1
         },
         {
-          "title": "The Download: testing tech promises and searching for cognitive immortality",
-          "link": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
-          "date": "2026-11-16T13:10:00+00:00",
+          "title": "Hydropower hit record lows in the US Southwest this summer",
+          "link": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+          "date": "2026-11-17T17:52:10+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -212,9 +215,9 @@
           "observed_days": 1
         },
         {
-          "title": "Building AI that can work across the enterprise",
-          "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-          "date": "2026-11-16T13:00:00+00:00",
+          "title": "Research Reports",
+          "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+          "date": "2026-11-17T14:39:46+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -226,9 +229,9 @@
           "observed_days": 1
         },
         {
-          "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
-          "link": "https://www.qbitai.com/2026/11/510542.html",
-          "date": "2026-11-16T10:57:31+00:00",
+          "title": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
+          "link": "https://www.qbitai.com/2026/11/510695.html",
+          "date": "2026-11-17T14:15:20+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -240,9 +243,9 @@
           "observed_days": 1
         },
         {
-          "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
-          "link": "https://www.qbitai.com/2026/11/510526.html",
-          "date": "2026-11-16T08:45:17+00:00",
+          "title": "李沐加盟的Aimotion，是一家什么AI公司？",
+          "link": "https://www.qbitai.com/2026/11/510688.html",
+          "date": "2026-11-17T11:40:37+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -254,9 +257,9 @@
           "observed_days": 1
         },
         {
-          "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
-          "link": "https://www.qbitai.com/2026/11/510496.html",
-          "date": "2026-11-16T08:02:07+00:00",
+          "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+          "link": "https://www.qbitai.com/2026/11/510652.html",
+          "date": "2026-11-17T06:09:40+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -268,9 +271,9 @@
           "observed_days": 1
         },
         {
-          "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
-          "link": "https://www.qbitai.com/2026/11/510493.html",
-          "date": "2026-11-16T07:58:57+00:00",
+          "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
+          "link": "https://www.qbitai.com/2026/11/510610.html",
+          "date": "2026-11-17T04:35:03+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -282,9 +285,9 @@
           "observed_days": 1
         },
         {
-          "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
-          "link": "https://www.qbitai.com/2026/11/510486.html",
-          "date": "2026-11-16T07:51:57+00:00",
+          "title": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…",
+          "link": "https://www.qbitai.com/2026/11/510592.html",
+          "date": "2026-11-17T02:33:13+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -297,6 +300,49 @@
         }
       ],
       "开发": [
+        {
+          "title": "Java4Shell: Write once, RCE everywhere",
+          "link": "https://calif.io/java4shell/",
+          "date": "2026-11-17T21:11:28+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "《Agent评测白皮书》系列02：商家 AI 助手的评测与优化闭环实践",
+          "link": "https://tech.meituan.com/2026/11/17/Agent-Evaluation-White-Paper-02.html",
+          "date": "2026-11-17T14:29:31+00:00",
+          "date_is_observed": true,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "美团技术团队"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Redict is deprecated",
+          "link": "https://redict.io/posts/2026-11-17-redict-deprecated/",
+          "date": "2026-11-17T08:20:30+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Lobsters"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
         {
           "title": "Migrating from GitHub to Codeberg",
           "link": "https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/",
@@ -326,23 +372,9 @@
           "observed_days": 2
         },
         {
-          "title": "《Agent评测白皮书》系列02：商家 AI 助手的评测与优化闭环实践",
-          "link": "https://tech.meituan.com/2026/11/17/Agent-Evaluation-White-Paper-02.html",
-          "date": "2026-11-17T14:29:31+00:00",
-          "date_is_observed": true,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "美团技术团队"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[生活] 好久没上线了，有没有错过什么有意思的帖子？",
-          "link": "https://www.v2ex.com/t/1257822",
-          "date": "2026-11-17T14:20:49+00:00",
+          "title": "[推广] 做了个把照片生成「弯臂比心」短视频的小工具，欢迎拍砖",
+          "link": "https://www.v2ex.com/t/1257867",
+          "date": "2026-11-17T22:31:45+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -354,37 +386,9 @@
           "observed_days": 1
         },
         {
-          "title": "[Apple] 这 AI 真他妈智障",
-          "link": "https://www.v2ex.com/t/1257821",
-          "date": "2026-11-17T14:02:56+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[机械键盘] 磁轴键盘是完全不考虑办公客户",
-          "link": "https://www.v2ex.com/t/1257820",
-          "date": "2026-11-17T14:02:38+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
-          "link": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e",
-          "date": "2026-11-17T14:00:47+00:00",
+          "title": "Latent Lattice Language Models",
+          "link": "https://shivamduggal4.github.io/latent-lattice-language-models/",
+          "date": "2026-11-17T22:17:18+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -396,91 +400,49 @@
           "observed_days": 1
         },
         {
-          "title": "[Rust] [Rust Root] 第一章：不写一行 Rust 语法，带你把所有权和借用重新推演一遍",
-          "link": "https://www.v2ex.com/t/1257819",
-          "date": "2026-11-17T13:57:52+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[Telegram] telegram 官方通知 必须使用 stars 支付",
-          "link": "https://www.v2ex.com/t/1257818",
-          "date": "2026-11-17T13:53:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-          "link": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-          "date": "2026-11-17T11:45:51+00:00",
+          "title": "Quad9's withdrawal from France: A canary in the coal mine",
+          "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+          "date": "2026-11-17T22:13:34+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
             "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[问与答] 对比了 Claude 之后，我才知道 GPT 是话痨",
+          "link": "https://www.v2ex.com/t/1257866",
+          "date": "2026-11-17T20:59:56+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[分享创造] 做了一个 kfc 疯狂星期四的文案馆网站",
+          "link": "https://www.v2ex.com/t/1257865",
+          "date": "2026-11-17T20:37:08+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
           ],
           "source_count": 1,
           "observed_days": 1
         }
       ],
       "科技": [
-        {
-          "title": "苹果眼镜明年见：没有屏幕，全靠 Siri 撑场面？",
-          "link": "https://www.ifanr.com/1689712",
-          "date": "2026-11-16T10:53:45+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "美国 ULA 的 Vulcan 火箭发射失败 40 颗亚马逊卫星被毁",
-          "link": "https://www.solidot.org/story?sid=85900",
-          "date": "2026-11-16T10:33:21+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "几乎每家国产新能源都在营销的「6 人 12 箱」，原来根本就是违法的！",
-          "link": "https://www.ifanr.com/1689701",
-          "date": "2026-11-16T10:27:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
         {
           "title": "派评 | 近期值得关注的 App",
           "link": "https://sspai.com/post/119148",
@@ -493,12 +455,26 @@
             "少数派"
           ],
           "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "加州理工数学教授不再根据作业打分，因为作业很容易用 AI 完成",
+          "link": "https://www.solidot.org/story?sid=85914",
+          "date": "2026-11-17T10:22:40+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Solidot"
+          ],
+          "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "实测腾讯 Hy4 flash：花两毛钱，就能让 AI 从零做个 3D 交互网页",
-          "link": "https://www.ifanr.com/1689653",
-          "date": "2026-11-16T09:53:01+00:00",
+          "title": "Mac 收紧权限，苹果开始防着 AI 了",
+          "link": "https://www.ifanr.com/1689832",
+          "date": "2026-11-17T10:00:27+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -510,9 +486,51 @@
           "observed_days": 2
         },
         {
-          "title": "制糖工厂推出 EdgeTie 边边线，以转角贴边设计改善车内充电体验",
-          "link": "https://www.ifanr.com/1689628",
-          "date": "2026-11-16T08:37:10+00:00",
+          "title": "灵晟继续登顶 Top500 榜单",
+          "link": "https://www.solidot.org/story?sid=85913",
+          "date": "2026-11-17T09:54:30+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Solidot"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "卡内基梅隆免费公开计算机科学课程",
+          "link": "https://www.solidot.org/story?sid=85912",
+          "date": "2026-11-17T09:25:29+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Solidot"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
+          "link": "https://sspai.com/post/119184",
+          "date": "2026-11-17T09:02:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "DeepSeek 不限额的用法，都在这里了 |  附指南",
+          "link": "https://www.ifanr.com/1689869",
+          "date": "2026-11-17T08:51:24+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -524,9 +542,23 @@
           "observed_days": 2
         },
         {
-          "title": "Rosetta 2 即将退役，Mac 老应用何去何从？",
-          "link": "https://sspai.com/post/118100",
-          "date": "2026-11-16T07:37:51+00:00",
+          "title": "富岳运行系统遭非法访问",
+          "link": "https://www.solidot.org/story?sid=85911",
+          "date": "2026-11-17T08:35:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "Solidot"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "TDS REVIEW｜Bose 有线消噪耳塞体验",
+          "link": "https://sspai.com/post/118976",
+          "date": "2026-11-17T07:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -538,49 +570,119 @@
           "observed_days": 2
         },
         {
-          "title": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
-          "link": "https://sspai.com/post/119012",
-          "date": "2026-11-16T02:52:11+00:00",
+          "title": "12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」",
+          "link": "https://www.ifanr.com/1689792",
+          "date": "2026-11-17T03:22:08+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "少数派"
+            "爱范儿"
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "派早报：逾十万人次联署要求黄仁勋复职",
-          "link": "https://sspai.com/post/119119",
-          "date": "2026-11-15T23:24:34+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Get ready for a nationwide emergency alert test at 2:20PM ET today",
-          "link": "https://www.theverge.com/tech/1035257/fema-fcc-emergency-alert-system-test-2026",
-          "date": "2026-11-17T14:28:24+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "The Verge"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "科研": [
+        {
+          "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm",
+          "date": "2026-11-17T12:14:04+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "The hidden language of psychopathy is not what scientists expected",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm",
+          "date": "2026-11-17T11:51:35+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Ozempic and Mounjaro may have a surprising effect on your brain",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
+          "date": "2026-11-17T11:39:45+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "This remarkable new material could solve a major carbon capture problem",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261116023405.htm",
+          "date": "2026-11-17T11:29:36+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "AI wearables could exploit people’s most vulnerable moments",
+          "link": "https://www.nature.com/articles/d41586-026-03742-4",
+          "date": "2026-11-17T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "The prospect of a ‘super’ El Niño demands better ocean monitoring",
+          "link": "https://www.nature.com/articles/d41586-026-03744-2",
+          "date": "2026-11-17T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm",
+          "date": "2026-11-16T13:40:11+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
         {
           "title": "New wearable ultrasound patch boosts REM sleep without drugs or surgery",
           "link": "https://www.sciencedaily.com/releases/2026/11/261116014842.htm",
@@ -610,106 +712,8 @@
           "observed_days": 2
         },
         {
-          "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm",
-          "date": "2026-11-17T12:14:04+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "The hidden language of psychopathy is not what scientists expected",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm",
-          "date": "2026-11-17T11:51:35+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Ozempic and Mounjaro may have a surprising effect on your brain",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
-          "date": "2026-11-17T11:39:45+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "This remarkable new material could solve a major carbon capture problem",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261116023405.htm",
-          "date": "2026-11-17T11:29:36+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "New US Congress should ‘reimagine’ science — not just return to the past",
-          "link": "https://www.nature.com/articles/d41586-026-03709-5",
-          "date": "2026-11-17T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "The world’s most precious brain samples — and what they teach us about being human",
-          "link": "https://www.nature.com/articles/d41586-026-03711-x",
-          "date": "2026-11-17T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "AI wearables could exploit people’s most vulnerable moments",
-          "link": "https://www.nature.com/articles/d41586-026-03742-4",
-          "date": "2026-11-17T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Should we move from artificial intelligence to artificial life?",
-          "link": "https://www.nature.com/articles/d41586-026-03743-3",
+          "title": "The origins of scrotal asymmetry",
+          "link": "https://www.nature.com/articles/d41586-026-03279-6",
           "date": "2026-11-17T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
@@ -724,6 +728,22 @@
       ],
       "综合": [
         {
+          "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+          "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
+          "date": "2026-11-17T18:24:21+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "US government confirms investigation into tech firm Megaspeed",
           "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
           "date": "2026-11-17T11:17:32+00:00",
@@ -754,6 +774,90 @@
           ],
           "source_count": 2,
           "observed_days": 1
+        },
+        {
+          "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
+          "date": "2026-11-17T13:01:11+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC World"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "中國以AI奇境接待各國領袖，但他們看不到的另一面是什麼？",
+          "link": "https://www.bbc.com/zhongwen/articles/crgj360lnqv6o/trad",
+          "date": "2026-11-17T11:44:02+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "特朗普訪華之際 美國封堵中國公司在東南亞租用AI算力的「後門」",
+          "link": "https://www.bbc.com/zhongwen/articles/cmpdwn010nyvo/trad",
+          "date": "2026-11-17T11:37:12+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "「藍白合」示範區：新竹市選情如何透露台灣第三勢力的未來？",
+          "link": "https://www.bbc.com/zhongwen/articles/cme3d27d7lnpo/trad",
+          "date": "2026-11-17T09:49:49+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "APEC深圳峰會：賴清德派施振榮出席 台灣參會空間再成焦點",
+          "link": "https://www.bbc.com/zhongwen/articles/ck5y1g89jnnxo/trad",
+          "date": "2026-11-17T08:44:40+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "歐盟峰會前夕 貝安德稱英國脫歐「得不償失」",
+          "link": "https://www.bbc.com/zhongwen/articles/c68x0j2r8lkyo/trad",
+          "date": "2026-11-17T07:52:53+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 2
         },
         {
           "title": "Five EU countries announce migrant deportation centre in Rwanda",
@@ -768,107 +872,25 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "里長赴中旅遊：台灣《反滲透法》為何「查辦多、定罪少」？",
-          "link": "https://www.bbc.com/zhongwen/articles/cr7428z1wx74o/trad",
-          "date": "2026-11-16T09:03:27+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "里長赴中旅遊受關注：為何北京鎖定里長？里長怎麼看？",
-          "link": "https://www.bbc.com/zhongwen/articles/cm3elx8gxdn3o/trad",
-          "date": "2026-11-16T09:03:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "據報黃仁勳商討重返Nvidia，Megaspeed稱黃樂去年已離職",
-          "link": "https://www.bbc.com/zhongwen/articles/cw8dvqp5z412o/trad",
-          "date": "2026-11-16T03:49:26+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "APEC深圳峰會：中方確認美中俄會晤，日方盼習近平與高市握手",
-          "link": "https://www.bbc.com/zhongwen/articles/c6wy4373q50go/trad",
-          "date": "2026-11-16T01:43:29+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "習近平、特朗普與普京歷史性會晤，將對世界意味什麼？",
-          "link": "https://www.bbc.com/zhongwen/articles/cwe85djzkkv5o/trad",
-          "date": "2026-11-16T00:25:06+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-          "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo",
-          "date": "2026-11-17T13:02:17+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
-          "date": "2026-11-17T13:01:11+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "财经": [
+        {
+          "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+          "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
+          "date": "2026-11-17T18:24:21+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
         {
           "title": "US government confirms investigation into tech firm Megaspeed",
           "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
@@ -900,6 +922,48 @@
           ],
           "source_count": 2,
           "observed_days": 1
+        },
+        {
+          "title": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
+          "link": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
+          "date": "2026-11-17T14:24:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Speed camera fault may have allowed drivers to escape fines",
+          "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo",
+          "date": "2026-11-17T13:03:30+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Where are the most jobs for 18-24 year-olds?",
+          "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko",
+          "date": "2026-11-17T00:00:03+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 2
         },
         {
           "title": "Gas starts flowing from Jackdaw after government green light",
@@ -956,70 +1020,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Nike lays out financial goals ahead of first investor day in 9 years",
-          "link": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
-          "date": "2026-11-17T14:26:39+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "How new US chip restrictions on South East Asia will hit China",
-          "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo",
-          "date": "2026-11-17T14:25:45+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
-          "link": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
-          "date": "2026-11-17T14:24:44+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Republicans outspent Democrats for first time in over a decade in record 2026 midterm election political ad blitz",
-          "link": "https://www.cnbc.com/2026/11/17/2026-election-political-ad-spending.html",
-          "date": "2026-11-17T14:00:02+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ]
     }
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-17T14:29:31+00:00",
-    "total": 2046,
+    "end": "2026-11-17T22:55:32+00:00",
+    "total": 2092,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
@@ -1428,6 +1436,21 @@
           "observed_days": 2
         },
         {
+          "title": "Java4Shell: Write once, RCE everywhere",
+          "link": "https://calif.io/java4shell/",
+          "date": "2026-11-17T21:11:28+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "All AI-generated code should be Open Source",
           "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
           "date": "2026-11-15T14:46:58+00:00",
@@ -1456,21 +1479,6 @@
           ],
           "source_count": 2,
           "observed_days": 1
-        },
-        {
-          "title": "A bit about email",
-          "link": "https://maurycyz.com/misc/email/",
-          "date": "2026-11-08T12:53:34+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 1
         }
       ],
       "科技": [
@@ -1486,7 +1494,7 @@
             "少数派"
           ],
           "source_count": 1,
-          "observed_days": 6
+          "observed_days": 7
         },
         {
           "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
@@ -1887,9 +1895,9 @@
           "observed_days": 2
         },
         {
-          "title": "US government confirms investigation into tech firm Megaspeed",
-          "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
-          "date": "2026-11-17T11:17:32+00:00",
+          "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+          "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
+          "date": "2026-11-17T18:24:21+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -1903,9 +1911,9 @@
           "observed_days": 1
         },
         {
-          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
-          "date": "2026-11-16T19:16:52+00:00",
+          "title": "US government confirms investigation into tech firm Megaspeed",
+          "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
+          "date": "2026-11-17T11:17:32+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -2049,9 +2057,9 @@
           "observed_days": 2
         },
         {
-          "title": "US government confirms investigation into tech firm Megaspeed",
-          "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
-          "date": "2026-11-17T11:17:32+00:00",
+          "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+          "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
+          "date": "2026-11-17T18:24:21+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -2065,9 +2073,9 @@
           "observed_days": 1
         },
         {
-          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
-          "date": "2026-11-16T19:16:52+00:00",
+          "title": "US government confirms investigation into tech firm Megaspeed",
+          "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
+          "date": "2026-11-17T11:17:32+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
