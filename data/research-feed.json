@@ -1,60 +1,72 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-16T08:35:30.366180+00:00",
-  "attempted_at": "2026-11-16T08:35:30.366180+00:00",
+  "updated": "2026-11-17T09:44:17.200583+00:00",
+  "attempted_at": "2026-11-17T09:44:17.200583+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
-      "status": "partial",
-      "last_success": "2026-11-16T08:35:30.366180+00:00",
-      "errors": [
-        "avoidance: HTTPError 429"
-      ]
+      "status": "ok",
+      "last_success": "2026-11-17T09:44:17.200583+00:00",
+      "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-11-16T08:35:30.366180+00:00",
+      "last_success": "2026-11-17T09:44:17.200583+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-11-16T08:35:30.366180+00:00",
+      "last_success": "2026-11-17T09:44:17.200583+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-11-16T08:35:30.366180+00:00",
+      "last_success": "2026-11-17T09:44:17.200583+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-11-16T08:35:30.366180+00:00",
+      "last_success": "2026-11-17T09:44:17.200583+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
-      "status": "ok",
-      "last_success": "2026-11-16T08:35:30.366180+00:00",
-      "errors": []
+      "status": "partial",
+      "last_success": "2026-11-17T09:44:17.200583+00:00",
+      "errors": [
+        "point-cloud: HTTPError 429"
+      ]
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-11-16T08:35:30.366180+00:00",
+      "last_success": "2026-11-17T09:44:17.200583+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-11-16T08:35:30.366180+00:00",
+      "last_success": "2026-11-17T09:44:17.200583+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.3389/frobt.2026.1915338",
+      "title": "Real-time manipulability optimization with whole-arm obstacle avoidance for redundant manipulators via projection neural dynamics",
+      "journal_id": "frontiers",
+      "published": "2026-11-16",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3389/frobt.2026.1915338",
+      "source": "crossref"
+    },
     {
       "id": "10.1038/s41598-026-80541-x",
       "title": "CROWN-UAV: world-model-based planning for risk-aware and auditable UAV navigation",
@@ -65,6 +77,18 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1038/s41598-026-80541-x",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-80465-6",
+      "title": "RGB-D SLAM in indoor dynamic environments based on adaptive triangulation-affine local consistency and semantic filtering for education and teaching",
+      "journal_id": "scientific-reports",
+      "published": "2026-11-16",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-80465-6",
       "source": "crossref"
     },
     {
@@ -1676,18 +1700,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.1038/s41598-026-73677-3",
-      "title": "Resource-aware structural point-line RGB-D SLAM for dynamic indoor environments",
-      "journal_id": "scientific-reports",
-      "published": "2026-09-29",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-73677-3",
-      "source": "crossref"
-    },
-    {
       "id": "10.1002/rob.70356",
       "title": "Novel Sunlight Algorithm for AUV Fast Global Path Planning With Grid‐Constrained Sampling",
       "journal_id": "jfr",
@@ -2426,18 +2438,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1002/rob.70239",
-      "source": "crossref"
-    },
-    {
-      "id": "10.3389/frobt.2026.1800762",
-      "title": "Advancing a taxonomy of proxemics for socially aware robot navigation",
-      "journal_id": "frontiers",
-      "published": "2026-05-20",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3389/frobt.2026.1800762",
       "source": "crossref"
     }
   ]
