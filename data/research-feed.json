@@ -1,60 +1,94 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-17T09:44:17.200583+00:00",
-  "attempted_at": "2026-11-17T09:44:17.200583+00:00",
+  "updated": "2026-11-18T09:08:06.012869+00:00",
+  "attempted_at": "2026-11-18T09:08:06.012869+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-11-17T09:44:17.200583+00:00",
+      "last_success": "2026-11-18T09:08:06.012869+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-11-17T09:44:17.200583+00:00",
+      "last_success": "2026-11-18T09:08:06.012869+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-11-17T09:44:17.200583+00:00",
+      "last_success": "2026-11-18T09:08:06.012869+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-11-17T09:44:17.200583+00:00",
+      "last_success": "2026-11-18T09:08:06.012869+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-11-17T09:44:17.200583+00:00",
+      "last_success": "2026-11-18T09:08:06.012869+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
-      "status": "partial",
-      "last_success": "2026-11-17T09:44:17.200583+00:00",
-      "errors": [
-        "point-cloud: HTTPError 429"
-      ]
+      "status": "ok",
+      "last_success": "2026-11-18T09:08:06.012869+00:00",
+      "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-11-17T09:44:17.200583+00:00",
+      "last_success": "2026-11-18T09:08:06.012869+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-11-17T09:44:17.200583+00:00",
+      "last_success": "2026-11-18T09:08:06.012869+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.3390/rs18223939",
+      "title": "G3H-GraphSim: A Reproducible 3D GeoHash Cell-Graph Workflow for Semantic LiDAR Analysis",
+      "journal_id": "remote-sensing",
+      "published": "2026-11-17",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18223939",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18223928",
+      "title": "A Novel Deep Learning Network for Fractional Vegetation Cover Calculation Using Full-Waveform LiDAR",
+      "journal_id": "remote-sensing",
+      "published": "2026-11-16",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18223928",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18223927",
+      "title": "Experimental Study of Spectral Radiometric Correction for Underwater 3D-Imaging by Hyperspectral LiDAR",
+      "journal_id": "remote-sensing",
+      "published": "2026-11-16",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18223927",
+      "source": "crossref"
+    },
     {
       "id": "10.3389/frobt.2026.1915338",
       "title": "Real-time manipulability optimization with whole-arm obstacle avoidance for redundant manipulators via projection neural dynamics",
@@ -89,6 +123,30 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1038/s41598-026-80465-6",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18223926",
+      "title": "Assimilation of Mobile Doppler-Lidar Wind Profiles from a Wave Glider for Tropical Cyclone Track Prediction",
+      "journal_id": "remote-sensing",
+      "published": "2026-11-15",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18223926",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18223925",
+      "title": "MIST: Multi-Source Imperceptible Saliency-Guided Transferable Adversarial Attack Framework for LiDAR Point Cloud Perception in Remote Sensing",
+      "journal_id": "remote-sensing",
+      "published": "2026-11-15",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18223925",
       "source": "crossref"
     },
     {
@@ -1748,30 +1806,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.3390/rs18183261",
-      "title": "Real-Time Target Detection in Compressed Domain for Streak Tube LiDAR by Two-Pass Labeling and Sparse Attention",
-      "journal_id": "remote-sensing",
-      "published": "2026-09-21",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18183261",
-      "source": "crossref"
-    },
-    {
-      "id": "10.3390/rs18183249",
-      "title": "Assessing and Improving Geolocation of InSAR Scatterers with LiDAR Data",
-      "journal_id": "remote-sensing",
-      "published": "2026-09-21",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18183249",
-      "source": "crossref"
-    },
-    {
       "id": "10.3389/frobt.2026.1987759",
       "title": "Correction: Distributed environmental sensing and soil moisture gradient navigation in modular robots",
       "journal_id": "frontiers",
@@ -1781,42 +1815,6 @@
       ],
       "kind": "更正",
       "url": "https://doi.org/10.3389/frobt.2026.1987759",
-      "source": "crossref"
-    },
-    {
-      "id": "10.3390/rs18183240",
-      "title": "Rock Detection and Arability Mapping Using Airborne LiDAR-RGB Fusion and Machine Learning",
-      "journal_id": "remote-sensing",
-      "published": "2026-09-20",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18183240",
-      "source": "crossref"
-    },
-    {
-      "id": "10.3390/rs18183222",
-      "title": "LiDAR-Based Sub-Canopy Surface Water Detection in a Post-Mining Environment",
-      "journal_id": "remote-sensing",
-      "published": "2026-09-19",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18183222",
-      "source": "crossref"
-    },
-    {
-      "id": "10.3390/rs18183206",
-      "title": "SDFA-Net: Urban Manhole Cover Detection via Fisheye Image and LiDAR Point Cloud Fusion",
-      "journal_id": "remote-sensing",
-      "published": "2026-09-17",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18183206",
       "source": "crossref"
     },
     {
