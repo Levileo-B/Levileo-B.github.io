@@ -1,13 +1,29 @@
 {
-  "generated_at": "2026-11-17T22:55:32+00:00",
-  "updated": "2026-11-17T22:55:32+00:00",
+  "generated_at": "2026-11-18T04:27:00+00:00",
+  "updated": "2026-11-18T04:27:00+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-16T00:00:00+08:00",
-    "end": "2026-11-17T22:55:32+00:00",
-    "total": 287,
+    "end": "2026-11-18T04:27:00+00:00",
+    "total": 323,
     "items": [
+      {
+        "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+        "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
+        "date": "2026-11-17T22:34:41+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
       {
         "title": "Java4Shell: Write once, RCE everywhere",
         "link": "https://calif.io/java4shell/",
@@ -140,20 +156,6 @@
         ],
         "source_count": 1,
         "observed_days": 2
-      },
-      {
-        "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-        "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
-        "date": "2026-11-17T13:01:11+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC World"
-        ],
-        "source_count": 1,
-        "observed_days": 2
       }
     ],
     "by_category": {
@@ -185,6 +187,48 @@
           ],
           "source_count": 1,
           "observed_days": 2
+        },
+        {
+          "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+          "link": "https://www.qbitai.com/2026/11/510737.html",
+          "date": "2026-11-18T02:49:23+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+          "link": "https://www.qbitai.com/2026/11/510726.html",
+          "date": "2026-11-18T01:03:42+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+          "link": "https://www.qbitai.com/2026/11/510707.html",
+          "date": "2026-11-18T00:49:14+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
         },
         {
           "title": "Roundtables: Inside the Quest for Cognitive Immortality",
@@ -246,48 +290,6 @@
           "title": "李沐加盟的Aimotion，是一家什么AI公司？",
           "link": "https://www.qbitai.com/2026/11/510688.html",
           "date": "2026-11-17T11:40:37+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
-          "link": "https://www.qbitai.com/2026/11/510652.html",
-          "date": "2026-11-17T06:09:40+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
-          "link": "https://www.qbitai.com/2026/11/510610.html",
-          "date": "2026-11-17T04:35:03+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…",
-          "link": "https://www.qbitai.com/2026/11/510592.html",
-          "date": "2026-11-17T02:33:13+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -372,9 +374,9 @@
           "observed_days": 2
         },
         {
-          "title": "[推广] 做了个把照片生成「弯臂比心」短视频的小工具，欢迎拍砖",
-          "link": "https://www.v2ex.com/t/1257867",
-          "date": "2026-11-17T22:31:45+00:00",
+          "title": "[分享创造] Xtaff Browser 更新了，说几个我自己用得上的改动",
+          "link": "https://www.v2ex.com/t/1257955",
+          "date": "2026-11-18T04:17:45+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -386,37 +388,9 @@
           "observed_days": 1
         },
         {
-          "title": "Latent Lattice Language Models",
-          "link": "https://shivamduggal4.github.io/latent-lattice-language-models/",
-          "date": "2026-11-17T22:17:18+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Quad9's withdrawal from France: A canary in the coal mine",
-          "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-          "date": "2026-11-17T22:13:34+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[问与答] 对比了 Claude 之后，我才知道 GPT 是话痨",
-          "link": "https://www.v2ex.com/t/1257866",
-          "date": "2026-11-17T20:59:56+00:00",
+          "title": "[酷工作] 千问智能创作招聘了，部门直达，流程快！",
+          "link": "https://www.v2ex.com/t/1257954",
+          "date": "2026-11-18T04:14:00+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -428,9 +402,37 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] 做了一个 kfc 疯狂星期四的文案馆网站",
-          "link": "https://www.v2ex.com/t/1257865",
-          "date": "2026-11-17T20:37:08+00:00",
+          "title": "[分享发现] 来试试这个提示词，看模型能做出来什么",
+          "link": "https://www.v2ex.com/t/1257953",
+          "date": "2026-11-18T04:11:54+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[全球工单系统] 南京联通在搞毛，访问不了外网了",
+          "link": "https://www.v2ex.com/t/1257951",
+          "date": "2026-11-18T04:09:19+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[分享创造] 我抽取了几十篇科幻小说的创意想法",
+          "link": "https://www.v2ex.com/t/1257950",
+          "date": "2026-11-18T04:05:49+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -728,6 +730,22 @@
       ],
       "综合": [
         {
+          "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
+          "date": "2026-11-17T22:34:41+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
           "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
           "date": "2026-11-17T18:24:21+00:00",
@@ -858,23 +876,25 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Five EU countries announce migrant deportation centre in Rwanda",
-          "link": "https://www.bbc.co.uk/news/articles/cw987343352go",
-          "date": "2026-11-16T11:17:34+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
+        {
+          "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
+          "date": "2026-11-17T22:34:41+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
         {
           "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
           "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
@@ -1006,28 +1026,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-          "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo",
-          "date": "2026-11-15T22:00:24+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-17T22:55:32+00:00",
-    "total": 2092,
+    "end": "2026-11-18T04:27:00+00:00",
+    "total": 2128,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
@@ -1895,9 +1901,9 @@
           "observed_days": 2
         },
         {
-          "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-          "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
-          "date": "2026-11-17T18:24:21+00:00",
+          "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
+          "date": "2026-11-17T22:34:41+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -1911,9 +1917,9 @@
           "observed_days": 1
         },
         {
-          "title": "US government confirms investigation into tech firm Megaspeed",
-          "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
-          "date": "2026-11-17T11:17:32+00:00",
+          "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+          "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
+          "date": "2026-11-17T18:24:21+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -2057,9 +2063,9 @@
           "observed_days": 2
         },
         {
-          "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-          "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
-          "date": "2026-11-17T18:24:21+00:00",
+          "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
+          "date": "2026-11-17T22:34:41+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -2073,9 +2079,9 @@
           "observed_days": 1
         },
         {
-          "title": "US government confirms investigation into tech firm Megaspeed",
-          "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
-          "date": "2026-11-17T11:17:32+00:00",
+          "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+          "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
+          "date": "2026-11-17T18:24:21+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",

@@ -1,125 +1,123 @@
 {
-  "updated": "2026-11-17T22:55:32+00:00",
+  "updated": "2026-11-18T04:27:00+00:00",
   "leetcode": {
-    "date": "2026-11-17",
-    "id": "2911",
-    "title": "Minimum Changes to Make K Semi-palindromes",
-    "titleEn": "Minimum Changes to Make K Semi-palindromes",
-    "slug": "minimum-changes-to-make-k-semi-palindromes",
-    "difficulty": "Hard",
+    "date": "2026-11-18",
+    "id": "2914",
+    "title": "Minimum Number of Changes to Make Binary String Beautiful",
+    "titleEn": "Minimum Number of Changes to Make Binary String Beautiful",
+    "slug": "minimum-number-of-changes-to-make-binary-string-beautiful",
+    "difficulty": "Medium",
     "tags": [
-      "Two Pointers",
-      "String",
-      "Dynamic Programming"
+      "String"
     ],
-    "link": "https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/",
+    "link": "https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Islands: Non-Places",
-    "text": "Islands: Non-Places is a 2016 abstract art game developed and published independently by artist and animator Carl Burton, who is best known for the animated GIF illustrations he created for season two of the Serial podcast. The game was released on November 17, 2016, on iOS, Windows, Mac, and Linux, and consists of a series of anonymous, liminal environments – the eponymous \"non-places\". These scenes appear mundane at first, but become increasingly surreal as the player interacts with the objects within.",
-    "words": 81,
-    "url": "https://en.wikipedia.org/wiki/Islands%3A_Non-Places",
-    "date": "2026-11-17",
+    "title": "W. S. Gilbert",
+    "text": "Sir William Schwenck Gilbert was an English dramatist, librettist, poet and illustrator best known for his collaboration with the composer Arthur Sullivan, which produced fourteen comic operas. The most famous of these include H.M.S. Pinafore, The Pirates of Penzance and one of the most frequently performed works in the history of musical theatre, The Mikado. The popularity of these works was supported for over a century by year-round performances of them, in Britain and abroad, by the repertory company that Gilbert, Sullivan and their producer Richard D'Oyly Carte founded, the D'Oyly Carte Opera Company. These Savoy operas are still frequently performed in the English-speaking world and beyond.",
+    "words": 107,
+    "url": "https://en.wikipedia.org/wiki/W._S._Gilbert",
+    "date": "2026-11-18",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Soundie - Beyond The Blue Horizon",
+    "title": "Basic Typing, Part I: Methods (Part II)",
     "creator": "",
     "year": "1944",
-    "url": "https://archive.org/download/SoundieH/SoundieH_512kb.mp4",
-    "page": "https://archive.org/details/SoundieH",
-    "date": "2026-11-17",
+    "url": "https://archive.org/download/basic_typing_2/basic_typing_2_512kb.mp4",
+    "page": "https://archive.org/details/basic_typing_2",
+    "date": "2026-11-18",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Vitalis Popoff - Time is Passing Slowly 6: Live @ Pruderia 24.03.2007",
-      "artist": "Vitalis Popoff",
-      "url": "https://archive.org/download/site018/01.Vitalis_Popoff_-_Intro.mp3",
-      "page": "https://archive.org/details/site018",
+      "title": "Ramone - Smooth Operator {MUL#21}",
+      "artist": "Ramone",
+      "url": "https://archive.org/download/MUL21/01%20-%20Smooth%20Operator.mp3",
+      "page": "https://archive.org/details/MUL21",
       "license": "Creative Commons"
     },
     {
-      "title": "TAO - New Beginning EP [SLC66]",
-      "artist": "TAO",
-      "url": "https://archive.org/download/slc66.tao-new_beginning/01.TAO-New_Beginning-New_Beginning_EP-Soisloscerdos_SLC66.mp3",
-      "page": "https://archive.org/details/slc66.tao-new_beginning",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      "title": "[LTR249] Julia van der Piller - Sound Perversions",
+      "artist": "Julia van der Piller",
+      "url": "https://archive.org/download/LTR249/01StartPerversions.mp3",
+      "page": "https://archive.org/details/LTR249",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
     },
     {
-      "title": "Take Pills Die - 05.08.23 What Are You? [tpdm062]",
-      "artist": "Andrew Cauthen",
-      "url": "https://archive.org/download/tpdm062/tpdm062_05.08.23_What_Are_You_.mp3",
-      "page": "https://archive.org/details/tpdm062",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/"
+      "title": "JUNE OR JULY - NSS EP",
+      "artist": "JUNE OR JULY",
+      "url": "https://archive.org/download/JuneOrJulyNSSEP/1%20Blind%20Timelapse.mp3",
+      "page": "https://archive.org/details/JuneOrJulyNSSEP",
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/"
     },
     {
-      "title": "FRAKTION - Social war EP [snr98]",
-      "artist": "Fraktion",
-      "url": "https://archive.org/download/snr98/FRAKTION_-_Break_the_ghettos.mp3",
-      "page": "https://archive.org/details/snr98",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/"
-    },
-    {
-      "title": "S-Archive",
-      "artist": "Clouds In My Home",
-      "url": "https://archive.org/download/f_pass012/pass012_-_01_clouds_in_my_home_-_s1.mp3",
-      "page": "https://archive.org/details/f_pass012",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Live at 4 pedres",
-      "artist": "Frägil",
-      "url": "https://archive.org/download/trastienda033_656/tr033-fragil-01_sleeping_with_your_dreams.mp3",
-      "page": "https://archive.org/details/trastienda033_656",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/es/"
-    },
-    {
-      "title": "Spilstar - Dignity CDM",
-      "artist": "Synthematik",
-      "url": "https://archive.org/download/sntkdig21/01_-_Spilstar_-_Dignity_Single_Version.mp3",
-      "page": "https://archive.org/details/sntkdig21",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Chad Gusler - Torn Advertisements [town008]",
-      "artist": "Chad Gusler",
-      "url": "https://archive.org/download/town008/01_chad_gusler_solipsism.mp3",
-      "page": "https://archive.org/details/town008",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Maciek Szymczuk - Sine Fiction vol. XI) Terminus [sine011]",
-      "artist": "Maciek Szymczuk",
-      "url": "https://archive.org/download/sine011/sine011-1-maciek_szymczuk-space_drift.mp3",
-      "page": "https://archive.org/details/sine011",
-      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
-    },
-    {
-      "title": "MegaHast3r - Rendering Again [SLC35]",
-      "artist": "MegaHast3r",
-      "url": "https://archive.org/download/slc35.megahast3r-rendering_again/01.MegaHast3r-Rudolph_leaves_the_house.mp3",
-      "page": "https://archive.org/details/slc35.megahast3r-rendering_again",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
-    },
-    {
-      "title": "ATARAXIA REBEL FORCE - Floor EP [snr152]",
-      "artist": "Ataraxia Rebel Force",
-      "url": "https://archive.org/download/snr152/01.ATARAXIA_REBEL_FORCE_-_Linoleum.mp3",
-      "page": "https://archive.org/details/snr152",
+      "title": "Mega Man Renaissance",
+      "artist": "",
+      "url": "https://archive.org/download/MegaManRenaissance/01_H.P._Sneakstep_-_Bubble_Man.mp3",
+      "page": "https://archive.org/details/MegaManRenaissance",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "5.1",
-      "artist": "k",
-      "url": "https://archive.org/download/trK-5.1/5.1.mp3",
-      "page": "https://archive.org/details/trK-5.1",
+      "title": "LEZET - Curds 7",
+      "artist": "",
+      "url": "https://archive.org/download/LEZET-Curds7/1-A%20Halloween%20Carol.mp3",
+      "page": "https://archive.org/details/LEZET-Curds7",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "DJ L'embrouille - Netlabel 2006 Week 01 Radiomix [Mel015]",
+      "artist": "DJ L'embrouille",
+      "url": "https://archive.org/download/mel015/Netlabel2006Week01Mix_vbr.mp3",
+      "page": "https://archive.org/details/mel015",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/"
+    },
+    {
+      "title": "J. G. Hackett - Acid Alliteration [2020]",
+      "artist": "J.G. Hackett",
+      "url": "https://archive.org/download/j.-g.-hackett-acid-alliteration-2020/J.G.%20Hackett%20-%20Acid%20Alliteration%20-%2001%20Occam%27s%20Razor.mp3",
+      "page": "https://archive.org/details/j.-g.-hackett-acid-alliteration-2020",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "受底者",
+      "artist": "Yukiga Futte Uresii",
+      "url": "https://archive.org/download/Juteisya/01_%E5%8F%97%E5%BA%95%E8%80%85.mp3",
+      "page": "https://archive.org/details/Juteisya",
       "license": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "title": "[LTR196] GAAD - Nonsense",
+      "artist": "GAAD",
+      "url": "https://archive.org/download/LTR196/Gaad-01-SuckMyNoise.mp3",
+      "page": "https://archive.org/details/LTR196",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
+    },
+    {
+      "title": "Skincage and Mystified- Mystic Canon [treetrunk 322]",
+      "artist": "Skincage and Mystified",
+      "url": "https://archive.org/download/MysticCanon/01_UFO_Hoax_1_Skincage_Remix.mp3",
+      "page": "https://archive.org/details/MysticCanon",
+      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
+    },
+    {
+      "title": "Leon Lamont - I Look Funny",
+      "artist": "Leon Lamont",
+      "url": "https://archive.org/download/LLiLookFnyWeb/I%20Look%20Funny.mp3",
+      "page": "https://archive.org/details/LLiLookFnyWeb",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Bill and John Storch, Terre Rybovich - Bodyprints III [LN13]",
+      "artist": "Bill Storch, John Storch, and Terre Rybovich",
+      "url": "https://archive.org/download/LN13_/LN13_Harp_vbr.mp3",
+      "page": "https://archive.org/details/LN13_",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     }
   ]
 }
