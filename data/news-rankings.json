@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-18T04:27:00+00:00",
-  "updated": "2026-11-18T04:27:00+00:00",
+  "generated_at": "2026-11-18T14:05:12+00:00",
+  "updated": "2026-11-18T14:05:12+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-16T00:00:00+08:00",
-    "end": "2026-11-18T04:27:00+00:00",
-    "total": 323,
+    "end": "2026-11-18T14:05:12+00:00",
+    "total": 386,
     "items": [
       {
-        "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+        "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
         "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
         "date": "2026-11-17T22:34:41+00:00",
         "date_is_observed": false,
@@ -189,107 +189,107 @@
           "observed_days": 2
         },
         {
+          "title": "The Download: AI learns to smell and hydropower struggles",
+          "link": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+          "date": "2026-11-18T13:10:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "This smell startup says its AI nose is as good as a human’s",
+          "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "date": "2026-11-18T10:20:30+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+          "link": "https://www.qbitai.com/2026/11/510922.html",
+          "date": "2026-11-18T09:41:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "GPT-6.2难产！OpenAI怕了",
+          "link": "https://www.qbitai.com/2026/11/510914.html",
+          "date": "2026-11-18T07:53:29+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+          "link": "https://www.qbitai.com/2026/11/510916.html",
+          "date": "2026-11-18T07:24:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+          "link": "https://www.qbitai.com/2026/11/510811.html",
+          "date": "2026-11-18T04:49:51+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+          "link": "https://www.qbitai.com/2026/11/510821.html",
+          "date": "2026-11-18T04:28:57+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
           "link": "https://www.qbitai.com/2026/11/510737.html",
           "date": "2026-11-18T02:49:23+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
-          "link": "https://www.qbitai.com/2026/11/510726.html",
-          "date": "2026-11-18T01:03:42+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
-          "link": "https://www.qbitai.com/2026/11/510707.html",
-          "date": "2026-11-18T00:49:14+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-          "link": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-          "date": "2026-11-17T18:46:47+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Hydropower hit record lows in the US Southwest this summer",
-          "link": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
-          "date": "2026-11-17T17:52:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Research Reports",
-          "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-          "date": "2026-11-17T14:39:46+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
-          "link": "https://www.qbitai.com/2026/11/510695.html",
-          "date": "2026-11-17T14:15:20+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "李沐加盟的Aimotion，是一家什么AI公司？",
-          "link": "https://www.qbitai.com/2026/11/510688.html",
-          "date": "2026-11-17T11:40:37+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -374,9 +374,23 @@
           "observed_days": 2
         },
         {
-          "title": "[分享创造] Xtaff Browser 更新了，说几个我自己用得上的改动",
-          "link": "https://www.v2ex.com/t/1257955",
-          "date": "2026-11-18T04:17:45+00:00",
+          "title": "EMNLP 2026 | 美团技术团队学术论文精选",
+          "link": "https://tech.meituan.com/2026/11/18/Papers-EMNLP-2026.html",
+          "date": "2026-11-18T14:05:12+00:00",
+          "date_is_observed": true,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "美团技术团队"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[Claude] 请教各位大神，现在 IOS 订阅 claude 需要达到什么要求",
+          "link": "https://www.v2ex.com/t/1258110",
+          "date": "2026-11-18T13:31:05+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -388,9 +402,23 @@
           "observed_days": 1
         },
         {
-          "title": "[酷工作] 千问智能创作招聘了，部门直达，流程快！",
-          "link": "https://www.v2ex.com/t/1257954",
-          "date": "2026-11-18T04:14:00+00:00",
+          "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+          "link": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+          "date": "2026-11-18T13:18:02+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[分享创造] Skill Stow：一个尽量做得清晰、顺手的 macOS AI Skill 管理器",
+          "link": "https://www.v2ex.com/t/1258109",
+          "date": "2026-11-18T13:14:22+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -402,37 +430,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享发现] 来试试这个提示词，看模型能做出来什么",
-          "link": "https://www.v2ex.com/t/1257953",
-          "date": "2026-11-18T04:11:54+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[全球工单系统] 南京联通在搞毛，访问不了外网了",
-          "link": "https://www.v2ex.com/t/1257951",
-          "date": "2026-11-18T04:09:19+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[分享创造] 我抽取了几十篇科幻小说的创意想法",
-          "link": "https://www.v2ex.com/t/1257950",
-          "date": "2026-11-18T04:05:49+00:00",
+          "title": "[Claude] 开了 7 个 max20x 额度用满，网页版使用超一个月没被封号，为啥非得 APP 呢",
+          "link": "https://www.v2ex.com/t/1258108",
+          "date": "2026-11-18T13:08:56+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -714,15 +714,15 @@
           "observed_days": 2
         },
         {
-          "title": "The origins of scrotal asymmetry",
-          "link": "https://www.nature.com/articles/d41586-026-03279-6",
-          "date": "2026-11-17T00:00:00+00:00",
+          "title": "A rare disease reveals a hidden flaw in the immune system",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
+          "date": "2026-11-18T12:33:09+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
           ],
           "sources": [
-            "Nature"
+            "ScienceDaily"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -730,7 +730,7 @@
       ],
       "综合": [
         {
-          "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+          "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
           "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
           "date": "2026-11-17T22:34:41+00:00",
           "date_is_observed": false,
@@ -880,7 +880,7 @@
       ],
       "财经": [
         {
-          "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+          "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
           "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
           "date": "2026-11-17T22:34:41+00:00",
           "date_is_observed": false,
@@ -1032,8 +1032,8 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-18T04:27:00+00:00",
-    "total": 2128,
+    "end": "2026-11-18T14:05:12+00:00",
+    "total": 2191,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
@@ -1901,7 +1901,7 @@
           "observed_days": 2
         },
         {
-          "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+          "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
           "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
           "date": "2026-11-17T22:34:41+00:00",
           "date_is_observed": false,
@@ -2063,7 +2063,7 @@
           "observed_days": 2
         },
         {
-          "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+          "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
           "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
           "date": "2026-11-17T22:34:41+00:00",
           "date_is_observed": false,
