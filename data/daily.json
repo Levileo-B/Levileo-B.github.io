@@ -1,123 +1,125 @@
 {
-  "updated": "2026-11-18T21:59:56+00:00",
+  "updated": "2026-11-19T03:33:24+00:00",
   "leetcode": {
-    "date": "2026-11-18",
-    "id": "2914",
-    "title": "Minimum Number of Changes to Make Binary String Beautiful",
-    "titleEn": "Minimum Number of Changes to Make Binary String Beautiful",
-    "slug": "minimum-number-of-changes-to-make-binary-string-beautiful",
+    "date": "2026-11-19",
+    "id": "2567",
+    "title": "Minimum Score by Changing Two Elements",
+    "titleEn": "Minimum Score by Changing Two Elements",
+    "slug": "minimum-score-by-changing-two-elements",
     "difficulty": "Medium",
     "tags": [
-      "String"
+      "Array",
+      "Greedy",
+      "Sorting"
     ],
-    "link": "https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/",
+    "link": "https://leetcode.com/problems/minimum-score-by-changing-two-elements/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "W. S. Gilbert",
-    "text": "Sir William Schwenck Gilbert was an English dramatist, librettist, poet and illustrator best known for his collaboration with the composer Arthur Sullivan that produced fourteen comic operas. The most famous of these include H.M.S. Pinafore, The Pirates of Penzance and one of the most frequently performed works in the history of musical theatre, The Mikado. The popularity of these works was supported for over a century by year-round performances of them, in Britain and abroad, by the repertory company that Gilbert, Sullivan and their producer Richard D'Oyly Carte founded, the D'Oyly Carte Opera Company. These Savoy operas are still frequently performed in the English-speaking world and beyond.",
-    "words": 107,
-    "url": "https://en.wikipedia.org/wiki/W._S._Gilbert",
-    "date": "2026-11-18",
+    "title": "Iron Gate (Antioch)",
+    "text": "The Iron Gate is a sixth-century dam which is located in the mountains to the east of Antakya in Turkey. It is one of the earliest known arch dams and is now the oldest to survive. It was built in the mid-sixth century on the order of the Byzantine emperor Justinian I to collect and slow the waters of the Parmenios stream, which in the rainy season could cause torrential floods endangering Antioch's city centre. Previous attempts to channel the floodwaters into underground passageways had not fully solved the problem.",
+    "words": 90,
+    "url": "https://en.wikipedia.org/wiki/Iron_Gate_(Antioch)",
+    "date": "2026-11-19",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Home movie: 000540: 1920s family in the energy business",
+    "title": "Home movie: 000408: 1934 family vacation",
     "creator": "",
-    "year": "",
-    "url": "https://archive.org/download/000540_202005/000540.m4v",
-    "page": "https://archive.org/details/000540_202005",
-    "date": "2026-11-18",
+    "year": "1934",
+    "url": "https://archive.org/download/000408_202005/000408.m4v",
+    "page": "https://archive.org/details/000408_202005",
+    "date": "2026-11-19",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "contra28: The Druids - Drentex",
-      "artist": "The Druids",
-      "url": "https://archive.org/download/contra28/01Rrentex.mp3",
-      "page": "https://archive.org/details/contra28",
-      "license": "http://creativecommons.org/licenses/by-nc/2.5/ca/"
-    },
-    {
-      "title": "Sota",
-      "artist": "Polar Lights",
-      "url": "https://archive.org/download/f_pass014/pass014_-_01_polar_lights_-_foggy_morning_in_the_forest.mp3",
-      "page": "https://archive.org/details/f_pass014",
+      "title": "(o2 label 03-066) All Objects Lost - All Objects Lost (2012)",
+      "artist": "",
+      "url": "https://archive.org/download/AllObjectsLost/01-Arjuna.mp3",
+      "page": "https://archive.org/details/AllObjectsLost",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "[ENDE567] Boris Otterdam - Hey It's Gettin Cloudy Mixtape",
-      "artist": "",
-      "url": "https://archive.org/download/ende567-boris-hey-its-gettin-cloudy/01%20-%20%20Boris%20Otterdam%20-%20hey%20it%27s%20gettin%20cloudy%20mixtape.mp3",
-      "page": "https://archive.org/details/ende567-boris-hey-its-gettin-cloudy",
-      "license": "Creative Commons"
+      "title": "TFR56 - Vaginal Cadaver & Puniphile - Guro Gangbang - Split",
+      "artist": "Vaginal Cadaver & Puniphile",
+      "url": "https://archive.org/download/TFR56-VaginalCadaverAndPuniphile-GuroGangbang-Split-2009/01-VaginalCadaver-FuckedWithAChainsaw.mp3",
+      "page": "https://archive.org/details/TFR56-VaginalCadaverAndPuniphile-GuroGangbang-Split-2009",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Glassy Weasel",
-      "artist": "Jazzaria.com",
-      "url": "https://archive.org/download/glassy-weasel/glassy-weasel.mp3",
-      "page": "https://archive.org/details/glassy-weasel",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "The Autopsy Report Metal Radio Show No 570 - 16th - 22nd March 2015",
+      "artist": "Gramie Dee",
+      "url": "https://archive.org/download/AR1622March15/AR-16-22March15.mp3",
+      "page": "https://archive.org/details/AR1622March15",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "The Fairy Godmothers - SU!iLY Freep 2007.04: \"Jazz on the Grill\"",
-      "artist": "",
-      "url": "https://archive.org/download/fairygodmothersjazz/01introsoundcheck.mp3",
-      "page": "https://archive.org/details/fairygodmothersjazz",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "[doku36] durán vazquez . 50, 50 y 2",
-      "artist": "durán vazquez",
-      "url": "https://archive.org/download/doku36/duran_vazquez-50_50_y_2_L.mp3",
-      "page": "https://archive.org/details/doku36",
+      "title": "Bist & Gaudio - El verano EP [Noisybeat 014]",
+      "artist": "Bist & Gaudio",
+      "url": "https://archive.org/download/BistGaudio-ElVeranoEpnoisybeat014/1.bist-CervezaFriawww.noisybeat.com.mp3",
+      "page": "https://archive.org/details/BistGaudio-ElVeranoEpnoisybeat014",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "EVERY WAY SHAPE FORM AND FASHION (2020 home recording compilation)",
-      "artist": "",
-      "url": "https://archive.org/download/everywayshapeandform/01%20CORONAVIRUS.mp3",
-      "page": "https://archive.org/details/everywayshapeandform",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-    },
-    {
-      "title": "LEZET - Din 2",
-      "artist": "",
-      "url": "https://archive.org/download/din-2/01%20-%20Make%20a%20lemonade.mp3",
-      "page": "https://archive.org/details/din-2",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "cont008 - Mongorila - Apocalipse Deluxe",
-      "artist": "Mongorila",
-      "url": "https://archive.org/download/cont008/01_mongorila_cosmocrisis.mp3",
-      "page": "https://archive.org/details/cont008",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Ementa Das Almas de Loriga (excerto) (2019)",
-      "artist": "Luis Antero",
-      "url": "https://archive.org/download/ementadasalmasloriga2019excerto/Ementa%20das%20Almas_Loriga_2019_excerto.mp3",
-      "page": "https://archive.org/details/ementadasalmasloriga2019excerto",
-      "license": "https://creativecommons.org/licenses/by-nd/4.0/"
-    },
-    {
-      "title": "[ENDE327] The Filth - Live at DJ Zeitgeist's 2004",
-      "artist": "",
-      "url": "https://archive.org/download/ende327-the-filth-live-at-dj-zeitgeists-2004/01%20-%20The%20Filth%20-%20Live%20at%20DJ%20Zeitgeist%27s%202004.mp3",
-      "page": "https://archive.org/details/ende327-the-filth-live-at-dj-zeitgeists-2004",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "bruno duplant & philo lenglet - la moindre des choses",
-      "artist": "[cnv73]",
-      "url": "https://archive.org/download/cnv73/cnv73_-_duplant_and_lenglet_01-vers_d_autres_rives.mp3",
-      "page": "https://archive.org/details/cnv73",
+      "title": "Beyond The Confessions Of Hiss",
+      "artist": "Herd Of The Ether Space",
+      "url": "https://archive.org/download/BeyondTheConfessionsOfHiss/01ConfessionsOfHiss_vbr.mp3",
+      "page": "https://archive.org/details/BeyondTheConfessionsOfHiss",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Akashic1107 - Shapeless Lab - Space EP",
+      "artist": "Shapeless Lab",
+      "url": "https://archive.org/download/Akashic1107/Akashic1107_Shapeless_Lab_-_01_-_Alien_Invaders.mp3",
+      "page": "https://archive.org/details/Akashic1107",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
+    },
+    {
+      "title": "aReW recordings presents [RW-029] Project 5am - The Yellow Book",
+      "artist": "Project 5am",
+      "url": "https://archive.org/download/ArewRecordingsPresentsRw-029Project5am-TheYellowBook/01.morningHasBroken.mp3",
+      "page": "https://archive.org/details/ArewRecordingsPresentsRw-029Project5am-TheYellowBook",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Zanoisect - Gentle Knifing",
+      "artist": "Zan Hoffman",
+      "url": "https://archive.org/download/zh27894/894%20Zanoisect%20-%20Gentle%20Knifing.mp3",
+      "page": "https://archive.org/details/zh27894",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Exit Methods - BWR/13",
+      "artist": "Big Wave Records",
+      "url": "https://archive.org/download/BigWaveRecords_ExitMethods_BWR13/BigWaveRecords-ExitMethods-01UmbilicalChords-Alchesound.mp3",
+      "page": "https://archive.org/details/BigWaveRecords_ExitMethods_BWR13",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "frei²: 100 Prozent Music",
+      "artist": "Robert Bienert",
+      "url": "https://archive.org/download/Freihoch2-100ProzentMusic/freihoch2-2012-01-17-prozent-music.mp3",
+      "page": "https://archive.org/details/Freihoch2-100ProzentMusic",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/"
+    },
+    {
+      "title": "[AAR00063]",
+      "artist": "TCB TV / 死者の餌",
+      "url": "https://archive.org/download/AAR00063/ONE.mp3",
+      "page": "https://archive.org/details/AAR00063",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "Rlplyr - Basic Bliss [adt001]",
+      "artist": "Rlplyr",
+      "url": "https://archive.org/download/Adt001/audiotie_rlplyr_allup.mp3",
+      "page": "https://archive.org/details/Adt001",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
     }
   ]
 }

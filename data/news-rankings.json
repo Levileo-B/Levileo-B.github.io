@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-18T21:59:56+00:00",
-  "updated": "2026-11-18T21:59:56+00:00",
+  "generated_at": "2026-11-19T03:33:24+00:00",
+  "updated": "2026-11-19T03:33:24+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-16T00:00:00+08:00",
-    "end": "2026-11-18T21:59:56+00:00",
-    "total": 428,
+    "end": "2026-11-19T03:33:24+00:00",
+    "total": 460,
     "items": [
       {
         "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
@@ -23,6 +23,22 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+        "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
+        "date": "2026-11-19T02:20:15+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "Java4Shell: Write once, RCE everywhere",
@@ -142,20 +158,6 @@
         ],
         "source_count": 1,
         "observed_days": 2
-      },
-      {
-        "title": "The seven Anthropic founders who are about to become multi-billionaires",
-        "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o",
-        "date": "2026-11-18T13:55:14+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "财经"
-        ],
-        "sources": [
-          "BBC Business"
-        ],
-        "source_count": 1,
-        "observed_days": 2
       }
     ],
     "by_category": {
@@ -184,6 +186,62 @@
           ],
           "sources": [
             "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+          "link": "https://www.qbitai.com/2026/11/510922.html",
+          "date": "2026-11-18T09:41:55+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "GPT-6.2难产！OpenAI怕了",
+          "link": "https://www.qbitai.com/2026/11/510914.html",
+          "date": "2026-11-18T07:53:29+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+          "link": "https://www.qbitai.com/2026/11/510916.html",
+          "date": "2026-11-18T07:24:50+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+          "link": "https://www.qbitai.com/2026/11/510811.html",
+          "date": "2026-11-18T04:49:51+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -243,62 +301,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "The AI Hype Index: AI is everywhere",
-          "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-          "date": "2026-11-18T14:42:44+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
-          "link": "https://www.qbitai.com/2026/11/510922.html",
-          "date": "2026-11-18T09:41:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "GPT-6.2难产！OpenAI怕了",
-          "link": "https://www.qbitai.com/2026/11/510914.html",
-          "date": "2026-11-18T07:53:29+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
-          "link": "https://www.qbitai.com/2026/11/510916.html",
-          "date": "2026-11-18T07:24:50+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "开发": [
@@ -746,6 +748,22 @@
           "observed_days": 2
         },
         {
+          "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
+          "date": "2026-11-19T02:20:15+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
           "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
           "date": "2026-11-17T18:24:21+00:00",
@@ -862,20 +880,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "高雄選戰「知識藍」對決「新潮流」，國民黨能複製「韓流」嗎？",
-          "link": "https://www.bbc.com/zhongwen/articles/c6n4ex4y9837o/trad",
-          "date": "2026-11-17T16:25:49+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "财经": [
@@ -894,6 +898,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
+          "date": "2026-11-19T02:20:15+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
@@ -1012,28 +1032,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Speed camera fault may have allowed drivers to escape fines",
-          "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo",
-          "date": "2026-11-17T13:03:30+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-18T21:59:56+00:00",
-    "total": 2233,
+    "end": "2026-11-19T03:33:24+00:00",
+    "total": 2265,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
@@ -1918,9 +1924,9 @@
           "observed_days": 2
         },
         {
-          "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-          "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
-          "date": "2026-11-17T18:24:21+00:00",
+          "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
+          "date": "2026-11-19T02:20:15+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -2080,9 +2086,9 @@
           "observed_days": 2
         },
         {
-          "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-          "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
-          "date": "2026-11-17T18:24:21+00:00",
+          "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
+          "date": "2026-11-19T02:20:15+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
