@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-20T03:22:18+00:00",
-  "updated": "2026-11-20T03:22:18+00:00",
+  "generated_at": "2026-11-20T12:58:39+00:00",
+  "updated": "2026-11-20T12:58:39+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-16T00:00:00+08:00",
-    "end": "2026-11-20T03:22:18+00:00",
-    "total": 581,
+    "end": "2026-11-20T12:58:39+00:00",
+    "total": 640,
     "items": [
       {
         "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
@@ -23,6 +23,22 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "UK fridges secured from hackers",
+        "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+        "date": "2026-11-20T00:02:07+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "Hacker News"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
@@ -143,20 +159,6 @@
         ],
         "sources": [
           "美团技术团队"
-        ],
-        "source_count": 1,
-        "observed_days": 3
-      },
-      {
-        "title": "The seven Anthropic founders who are about to become multi-billionaires",
-        "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o",
-        "date": "2026-11-18T13:55:14+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "财经"
-        ],
-        "sources": [
-          "BBC Business"
         ],
         "source_count": 1,
         "observed_days": 3
@@ -307,6 +309,22 @@
       ],
       "开发": [
         {
+          "title": "UK fridges secured from hackers",
+          "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+          "date": "2026-11-20T00:02:07+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Java4Shell: Write once, RCE everywhere",
           "link": "https://calif.io/java4shell/",
           "date": "2026-11-17T21:11:28+00:00",
@@ -423,20 +441,6 @@
           "title": "Migrating from GitHub to Codeberg",
           "link": "https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/",
           "date": "2026-11-16T05:10:34+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "A datetime library for Rust",
-          "link": "https://burntsushi.net/jiff/",
-          "date": "2026-11-15T22:39:34+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -904,6 +908,22 @@
           "observed_days": 2
         },
         {
+          "title": "UK fridges secured from hackers",
+          "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+          "date": "2026-11-20T00:02:07+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
           "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
           "date": "2026-11-19T23:33:51+00:00",
@@ -1024,28 +1044,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-          "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno",
-          "date": "2026-11-19T00:00:59+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-20T03:22:18+00:00",
-    "total": 2386,
+    "end": "2026-11-20T12:58:39+00:00",
+    "total": 2444,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
@@ -1455,6 +1461,22 @@
           "observed_days": 2
         },
         {
+          "title": "UK fridges secured from hackers",
+          "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+          "date": "2026-11-20T00:02:07+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Java4Shell: Write once, RCE everywhere",
           "link": "https://calif.io/java4shell/",
           "date": "2026-11-17T21:11:28+00:00",
@@ -1483,21 +1505,6 @@
           ],
           "source_count": 2,
           "observed_days": 1
-        },
-        {
-          "title": ".name grandfathered",
-          "link": "https://neil.fraser.name/news/2026/11/10/",
-          "date": "2026-11-10T16:37:44+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 1
         }
       ],
       "科技": [
@@ -1514,6 +1521,20 @@
           ],
           "source_count": 1,
           "observed_days": 7
+        },
+        {
+          "title": "本周看什么 | 最近值得一看的 10 部作品",
+          "link": "https://sspai.com/post/118999",
+          "date": "2026-11-13T09:39:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 4
         },
         {
           "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
@@ -1623,20 +1644,6 @@
           ],
           "sources": [
             "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-          "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
-          "date": "2026-11-14T00:49:13+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica"
           ],
           "source_count": 1,
           "observed_days": 3
@@ -2092,17 +2099,17 @@
           "observed_days": 2
         },
         {
-          "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-          "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
-          "date": "2026-11-19T23:33:51+00:00",
+          "title": "UK fridges secured from hackers",
+          "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+          "date": "2026-11-20T00:02:07+00:00",
           "date_is_observed": false,
           "categories": [
-            "综合",
+            "开发",
             "财经"
           ],
           "sources": [
             "BBC Business",
-            "BBC World"
+            "Hacker News"
           ],
           "source_count": 2,
           "observed_days": 1
