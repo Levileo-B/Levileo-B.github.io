@@ -1,124 +1,124 @@
 {
-  "updated": "2026-11-19T21:40:20+00:00",
+  "updated": "2026-11-20T03:22:19+00:00",
   "leetcode": {
-    "date": "2026-11-19",
-    "id": "2567",
-    "title": "Minimum Score by Changing Two Elements",
-    "titleEn": "Minimum Score by Changing Two Elements",
-    "slug": "minimum-score-by-changing-two-elements",
-    "difficulty": "Medium",
+    "date": "2026-11-20",
+    "id": "3041",
+    "title": "Maximize Consecutive Elements in an Array After Modification",
+    "titleEn": "Maximize Consecutive Elements in an Array After Modification",
+    "slug": "maximize-consecutive-elements-in-an-array-after-modification",
+    "difficulty": "Hard",
     "tags": [
       "Array",
-      "Greedy",
+      "Dynamic Programming",
       "Sorting"
     ],
-    "link": "https://leetcode.com/problems/minimum-score-by-changing-two-elements/",
+    "link": "https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Iron Gate (Antioch)",
-    "text": "The Iron Gate is a sixth-century dam located in the mountains to the east of Antakya in Turkey. It is one of the earliest known arch dams and is the oldest to survive. It was built in the mid–sixth century on the order of the Byzantine emperor Justinian I to impound and slow the waters of the Parmenios stream, which in the rainy season could cause torrential floods endangering Antioch's city centre. Previous attempts to channel the floodwaters into underground passageways had not fully solved the problem.",
-    "words": 87,
-    "url": "https://en.wikipedia.org/wiki/Iron_Gate_(Antioch)",
-    "date": "2026-11-19",
+    "title": "Tôn Thất Đính",
+    "text": "Lieutenant General Tôn Thất Đính was an officer who served in the Army of the Republic of Vietnam (ARVN). He is best known as one of the key figures in the November 1963 coup that led to the arrest and assassination of Ngô Đình Diệm, the first president of the Republic of Vietnam, commonly known as South Vietnam.",
+    "words": 58,
+    "url": "https://en.wikipedia.org/wiki/T%C3%B4n_Th%E1%BA%A5t_%C4%90%C3%ADnh",
+    "date": "2026-11-20",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "[Television Commercials Not Made By Me]",
-    "creator": "various",
-    "year": "",
-    "url": "https://archive.org/download/Television_Commercials_Not_Made_By_Me/0649_Television_Commercials_Not_Made_By_Me_20_25_34_00_3mb.mp4",
-    "page": "https://archive.org/details/Television_Commercials_Not_Made_By_Me",
-    "date": "2026-11-19",
+    "title": "House in the Middle, The",
+    "creator": "National Paint, Varnish and Lacquer Association",
+    "year": "1954",
+    "url": "https://archive.org/download/0844_House_in_the_Middle_The_10_14_07_24/0844_House_in_the_Middle_The_10_14_07_24.m4v",
+    "page": "https://archive.org/details/0844_House_in_the_Middle_The_10_14_07_24",
+    "date": "2026-11-20",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "[Siro588] mr.Bull - Heart/Tales",
+      "title": "EOM108 / Suavity's Mouthpiece - EP",
+      "artist": "Suavity's Mouthpiece",
+      "url": "https://archive.org/download/Eom108SuavitysMouthpiece-Ep/01.iCallItMadnessButYouCallItLovesingle.mp3",
+      "page": "https://archive.org/details/Eom108SuavitysMouthpiece-Ep",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Valovoima - Bass Clarion",
+      "artist": "Valovoima",
+      "url": "https://archive.org/download/pakkaslumi35/01%20-%20Bass%20Clarion%20I.mp3",
+      "page": "https://archive.org/details/pakkaslumi35",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "(P069) Sascha Müller - Acid Acapella Vol. 2",
+      "artist": "Sascha Müller",
+      "url": "https://archive.org/download/p069-sascha-muller-acid-acapella-vol.-2/%28P069%29%2001.%20Sascha%20M%C3%BCller%20-%20Acid%20Acapella_8_Acid%20Acapella%20Vol.%202.mp3",
+      "page": "https://archive.org/details/p069-sascha-muller-acid-acapella-vol.-2",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "[TAN269] Nihilistic Delusion - Love Spell",
+      "artist": "Mad God",
+      "url": "https://archive.org/download/TAN269/LoveSpell.mp3",
+      "page": "https://archive.org/details/TAN269",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Covid-19",
+      "artist": "Eva De Adamo",
+      "url": "https://archive.org/download/oz106/Covid-19%20master.mp3",
+      "page": "https://archive.org/details/oz106",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    {
+      "title": "(P033) Sascha Müller And Duality Micro - Globalization EP",
+      "artist": "Sascha Müller, Manfred Reckers",
+      "url": "https://archive.org/download/p033-sascha-muller-and-duality-micro-globalization-ep/P033%2001%20Sascha%20M%C3%BCller%20And%20Duality%20Micro%20-%20Rationalisiation_Globalization%20EP.mp3",
+      "page": "https://archive.org/details/p033-sascha-muller-and-duality-micro-globalization-ep",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "title": "Paolo Veneziani - 1995-2005 [od072]",
+      "artist": "Paolo Veneziani",
+      "url": "https://archive.org/download/od072/od072_A01_Paolo_Veneziani_-_Perpetual_Green.mp3",
+      "page": "https://archive.org/details/od072",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/"
+    },
+    {
+      "title": "mayfairgrin - This Delicate Confusion [wh151]",
+      "artist": "mayfairgrin",
+      "url": "https://archive.org/download/wh151/wh151_01_litany.mp3",
+      "page": "https://archive.org/details/wh151",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/"
+    },
+    {
+      "title": "ouimnet028: Observation Point - Thought Paths Vol.3",
       "artist": "",
-      "url": "https://archive.org/download/siro588Mr.bull-Heart.tales/01-Mr.bull-LookingForSomeone.mp3",
-      "page": "https://archive.org/details/siro588Mr.bull-Heart.tales",
+      "url": "https://archive.org/download/ouimnet028/ouimnet028-01-observation_point_-_confounded_by_admission.mp3",
+      "page": "https://archive.org/details/ouimnet028",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
+    },
+    {
+      "title": "TBC (oz058)",
+      "artist": "Massimo Croce",
+      "url": "https://archive.org/download/oz058/TbcMassimoCroce.mp3",
+      "page": "https://archive.org/details/oz058",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "title": "EXOXEN - Shiny Moon Water : Leftovers from the Betweens [wh084]",
+      "artist": "EXOXEN",
+      "url": "https://archive.org/download/wh084/wh084_01_exoxen_somethin_goin_on.mp3",
+      "page": "https://archive.org/details/wh084",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "[Siro422] Iamdeadsmiles58 & James Doesn't Exist - An Evening of Comedy and Tragedy",
-      "artist": "",
-      "url": "https://archive.org/download/siro422Iamdeadsmiles58JamesDoesntExist-AnEveningOfComedyAnd/01-Iamdeadsmiles58-ThisIsTheCrossfade.mp3",
-      "page": "https://archive.org/details/siro422Iamdeadsmiles58JamesDoesntExist-AnEveningOfComedyAnd",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "[Siro622] Various Artists - Tunnel to the Underground Vol.3",
-      "artist": "",
-      "url": "https://archive.org/download/siro622VariousArtists-TunnelToTheUndergroundVol.3/1-01-InterdimensionalAbduction-Dimensions.mp3",
-      "page": "https://archive.org/details/siro622VariousArtists-TunnelToTheUndergroundVol.3",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "[Siro258] Kalciy a.k.a. Ca - Armenia Season",
-      "artist": "Sirona_Records",
-      "url": "https://archive.org/download/siro258KalciyA.k.a.Ca-ArmeniaSeason/01-KalciyA.k.a.Ca-Intro.mp3",
-      "page": "https://archive.org/details/siro258KalciyA.k.a.Ca-ArmeniaSeason",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "0x - Return Of Bummerboy",
-      "artist": "0x",
-      "url": "https://archive.org/download/KL00090xReturnOfBummerboy/0x%20-%20Return%20of%20Bummerboy%20-%2001%20He%20Likes%20Milk%20Too.mp3",
-      "page": "https://archive.org/details/KL00090xReturnOfBummerboy",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "MarioX - Ignition [rith003]",
-      "artist": "MarioX",
-      "url": "https://archive.org/download/rith003/01_MarioX_-_Now_We_Begin.mp3",
-      "page": "https://archive.org/details/rith003",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Feuerbach - Ask Us No Questions And We'll Tell You No Lies [SiS-06]",
-      "artist": "Feuerbach",
-      "url": "https://archive.org/download/sis06/01-feuerbach-tv-SiS-2004.mp3",
-      "page": "https://archive.org/details/sis06",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "[Siro610] Concealed Sequence - Digital Blasphemy EP",
-      "artist": "",
-      "url": "https://archive.org/download/siro610ConcealedSequence-DigitalBlasphemyEp/01-ConcealedSequence-IgneousBlood.mp3",
-      "page": "https://archive.org/details/siro610ConcealedSequence-DigitalBlasphemyEp",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "[Siro615] Wayne Mason - Insistent On Revelation",
-      "artist": "",
-      "url": "https://archive.org/download/siro615WayneMason-InsistentOnRevelation/01-WayneMason-ABriefExperimentInSelfLoathing.mp3",
-      "page": "https://archive.org/details/siro615WayneMason-InsistentOnRevelation",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "R.O.N.F. Net Compilation Volume 1.0",
-      "artist": "VVAA",
-      "url": "https://archive.org/download/rnc_001/01.Arseterror.mp3",
-      "page": "https://archive.org/details/rnc_001",
-      "license": "http://creativecommons.org/licenses/by-nd/3.0/"
-    },
-    {
-      "title": "[Siro129] Porion - Malin (Convoite Ton Scalp)",
-      "artist": "Sirona_Records",
-      "url": "https://archive.org/download/siro129Porion-MalinconvoiteTonScalp/01-Porion-Jajahannam.mp3",
-      "page": "https://archive.org/details/siro129Porion-MalinconvoiteTonScalp",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "[Siro652] Animals In Denial - Sedition EP",
-      "artist": "",
-      "url": "https://archive.org/download/siro652AnimalsInDenial-Sedition/01-AnimalsInDenial-Victim.mp3",
-      "page": "https://archive.org/details/siro652AnimalsInDenial-Sedition",
+      "title": "Tetarise - To The Undercover Dimension",
+      "artist": "Tetarise",
+      "url": "https://archive.org/download/TetariseToTheUndercoverDimension/01.Tetarise-HerFlaringWings.mp3",
+      "page": "https://archive.org/details/TetariseToTheUndercoverDimension",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     }
   ]

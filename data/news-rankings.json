@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-19T21:40:20+00:00",
-  "updated": "2026-11-19T21:40:20+00:00",
+  "generated_at": "2026-11-20T03:22:18+00:00",
+  "updated": "2026-11-20T03:22:18+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-16T00:00:00+08:00",
-    "end": "2026-11-19T21:40:20+00:00",
-    "total": 552,
+    "end": "2026-11-20T03:22:18+00:00",
+    "total": 581,
     "items": [
       {
         "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
@@ -23,6 +23,22 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+        "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
+        "date": "2026-11-19T23:33:51+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "Anthropic raises $81bn in record-breaking stock market debut",
@@ -141,20 +157,6 @@
         ],
         "sources": [
           "BBC Business"
-        ],
-        "source_count": 1,
-        "observed_days": 3
-      },
-      {
-        "title": "The Download: AI learns to smell and hydropower struggles",
-        "link": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
-        "date": "2026-11-18T13:10:00+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "AI"
-        ],
-        "sources": [
-          "MIT Technology Review"
         ],
         "source_count": 1,
         "observed_days": 3
@@ -748,6 +750,22 @@
           "observed_days": 2
         },
         {
+          "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+          "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
+          "date": "2026-11-19T23:33:51+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Anthropic raises $81bn in record-breaking stock market debut",
           "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
           "date": "2026-11-19T02:20:15+00:00",
@@ -854,23 +872,9 @@
           "observed_days": 2
         },
         {
-          "title": "中美俄「三巨頭」峰會結束：涉及烏克蘭、伊朗議題，發表和平宣言承諾核對話",
+          "title": "中美俄元首峰會：從烏克蘭、伊朗、和平宣言到承諾核對話",
           "link": "https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad",
           "date": "2026-11-19T12:22:04+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "AI是做精神導師，發佈教法裁決？穆斯林對此意見不一",
-          "link": "https://www.bbc.com/zhongwen/articles/cmdx1eqdl9vpo/trad",
-          "date": "2026-11-19T09:16:44+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -898,6 +902,22 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+          "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
+          "date": "2026-11-19T23:33:51+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "Anthropic raises $81bn in record-breaking stock market debut",
@@ -1018,28 +1038,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-          "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o",
-          "date": "2026-11-18T21:28:08+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-19T21:40:20+00:00",
-    "total": 2357,
+    "end": "2026-11-20T03:22:18+00:00",
+    "total": 2386,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
@@ -1924,9 +1930,9 @@
           "observed_days": 2
         },
         {
-          "title": "Anthropic raises $81bn in record-breaking stock market debut",
-          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
-          "date": "2026-11-19T02:20:15+00:00",
+          "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+          "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
+          "date": "2026-11-19T23:33:51+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
@@ -2086,9 +2092,9 @@
           "observed_days": 2
         },
         {
-          "title": "Anthropic raises $81bn in record-breaking stock market debut",
-          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
-          "date": "2026-11-19T02:20:15+00:00",
+          "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+          "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
+          "date": "2026-11-19T23:33:51+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
