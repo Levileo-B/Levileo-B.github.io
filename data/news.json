@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T18:00:16+00:00",
+  "updated": "2026-11-21T23:22:37+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -44,24 +44,24 @@
           "date": "2026-11-21T13:17:38+00:00"
         },
         {
-          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-20T22:42:47+00:00"
+          "title": "Russia-bound ship attacked in Gulf of Finland",
+          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-21T19:20:22+00:00"
         },
         {
           "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
           "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-21T14:54:24+00:00"
+          "date": "2026-11-21T22:19:43+00:00"
+        },
+        {
+          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+          "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-21T21:05:29+00:00"
         },
         {
           "title": "FBI reportedly investigating apparent hack of its criminal database",
           "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
           "date": "2026-11-21T16:35:15+00:00"
-        },
-        {
-          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-          "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-21T13:15:21+00:00"
         }
       ]
     },
@@ -231,6 +231,16 @@
       "url": "https://www.theverge.com/rss/index.xml",
       "items": [
         {
+          "title": "Amazon is complaining about NYC Council on shipping labels, too",
+          "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+          "date": "2026-11-21T21:59:31+00:00"
+        },
+        {
+          "title": "The UN fails to agree on rules regulating ‘killer robots’",
+          "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+          "date": "2026-11-21T20:03:37+00:00"
+        },
+        {
           "title": "The FBI and USDA were reportedly hacked",
           "link": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
           "date": "2026-11-21T17:51:21+00:00"
@@ -244,16 +254,6 @@
           "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
           "link": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
           "date": "2026-11-21T15:13:56+00:00"
-        },
-        {
-          "title": "Can Anthropic afford to put safety first?",
-          "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-          "date": "2026-11-21T13:29:45+00:00"
-        },
-        {
-          "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-          "link": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
-          "date": "2026-11-21T14:55:28+00:00"
         }
       ]
     },
@@ -262,6 +262,11 @@
       "category": "科技",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "items": [
+        {
+          "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+          "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+          "date": "2026-11-21T22:12:41+00:00"
+        },
         {
           "title": "“Race realism” isn’t realistic—and it isn’t good science",
           "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
@@ -281,11 +286,38 @@
           "title": "Google rolls out new search homepage with AI chat history and no search button",
           "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
           "date": "2026-11-20T21:58:29+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Hacker News",
+      "category": "开发",
+      "url": "https://hnrss.org/frontpage?count=10",
+      "items": [
+        {
+          "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+          "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+          "date": "2026-11-21T22:09:58+00:00"
         },
         {
-          "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-          "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-          "date": "2026-11-20T21:47:10+00:00"
+          "title": "Advice for the next 100 Rust GUIs",
+          "link": "https://linebender.org/blog/next-100-guis/",
+          "date": "2026-11-21T21:17:53+00:00"
+        },
+        {
+          "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+          "link": "https://tasklet.ai/careers",
+          "date": "2026-11-21T21:11:08+00:00"
+        },
+        {
+          "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
+          "link": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
+          "date": "2026-11-21T21:06:14+00:00"
+        },
+        {
+          "title": "Pandex – Official European Law for AI Agents, over MCP",
+          "link": "https://www.pandex.io",
+          "date": "2026-11-21T20:47:41+00:00"
         }
       ]
     },
@@ -310,9 +342,9 @@
           "date": "2026-11-21T13:57:53+00:00"
         },
         {
-          "title": "Levent Alpöge Claims Proof of Riemann Hypothesis",
-          "link": "https://alpo.ge/remark.pdf",
-          "date": "2026-11-20T14:46:49+00:00"
+          "title": "How I Got Postgres into a Single Binary",
+          "link": "https://progrium.xyz/articles/2026/single-binary-postgres",
+          "date": "2026-11-21T19:32:22+00:00"
         },
         {
           "title": "Probabilistic data structures in Go, part 2",
@@ -327,29 +359,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享创造] 网页划线高亮插件 Highlighter：Edge 上 200+ 安装，周活还在涨",
-          "link": "https://www.v2ex.com/t/1258829#reply0",
-          "date": "2026-11-21T17:47:24+00:00"
+          "title": "[Apple] 如何解决 gemini、gpt 与豆包、微信的 mac 客户端 app 不能同时使用代理的问题？",
+          "link": "https://www.v2ex.com/t/1258838#reply1",
+          "date": "2026-11-21T22:51:53+00:00"
         },
         {
-          "title": "[分享创造] 做了个 Android 小工具，把美区 SIM 设置和应用语言放到了一起",
-          "link": "https://www.v2ex.com/t/1258828#reply0",
-          "date": "2026-11-21T17:42:00+00:00"
+          "title": "[推广] [免费自荐] Linkit：本地优先的 AI 书签管理器，自动摘要 + 语义搜索 #32",
+          "link": "https://www.v2ex.com/t/1258837#reply0",
+          "date": "2026-11-21T22:25:57+00:00"
         },
         {
-          "title": "[NAS] 刚才群辉推送了 Version: 7.4.1-90080 Update 2",
-          "link": "https://www.v2ex.com/t/1258826#reply0",
-          "date": "2026-11-21T16:56:13+00:00"
+          "title": "[分享创造] 四款自研 Edge 插件的最新版，全部在真实 Firefox 上跑通了",
+          "link": "https://www.v2ex.com/t/1258836#reply0",
+          "date": "2026-11-21T20:46:11+00:00"
         },
         {
-          "title": "[分享发现] 体验多天，发现国行苹果 ai 一点都不好用！",
-          "link": "https://www.v2ex.com/t/1258824#reply7",
-          "date": "2026-11-21T16:00:44+00:00"
+          "title": "[程序员] Gemini 从美区学生 Pro 入正黑五半价了，顺道聊聊当前 Gemini 优惠情况和我个人 AI 使用心得分享",
+          "link": "https://www.v2ex.com/t/1258834#reply2",
+          "date": "2026-11-21T19:31:42+00:00"
         },
         {
-          "title": "[分享创造] Enter Guard：AI 聊天框里 Enter 换行、Ctrl/Cmd+Enter 发送，不再误触发送",
-          "link": "https://www.v2ex.com/t/1258823#reply2",
-          "date": "2026-11-21T15:45:10+00:00"
+          "title": "[程序员] Carbon or Neon? Astra 6.2 or 6?",
+          "link": "https://www.v2ex.com/t/1258833#reply1",
+          "date": "2026-11-21T19:00:02+00:00"
         }
       ]
     },
@@ -509,6 +541,11 @@
       "url": "https://www.nature.com/nature.rss",
       "items": [
         {
+          "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
+          "link": "https://www.nature.com/articles/d41586-026-03803-8",
+          "date": "2026-11-21T00:00:00+00:00"
+        },
+        {
           "title": "How AI is affecting science careers",
           "link": "https://www.nature.com/articles/d41586-026-03680-1",
           "date": "2026-11-20T00:00:00+00:00"
@@ -526,11 +563,6 @@
         {
           "title": "Fraud helps little fire ants to survive and conquer",
           "link": "https://www.nature.com/articles/d41586-026-03776-8",
-          "date": "2026-11-20T00:00:00+00:00"
-        },
-        {
-          "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
-          "link": "https://www.nature.com/articles/d41586-026-03590-2",
           "date": "2026-11-20T00:00:00+00:00"
         }
       ]
@@ -570,7 +602,6 @@
   ],
   "failed": [
     "36 氪",
-    "Hacker News",
     "InfoQ 中文",
     "酷壳"
   ]
