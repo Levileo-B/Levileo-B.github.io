@@ -1,58 +1,106 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-20T09:11:18.238937+00:00",
-  "attempted_at": "2026-11-20T09:11:18.238937+00:00",
+  "updated": "2026-11-21T08:45:43.381524+00:00",
+  "attempted_at": "2026-11-21T08:45:43.381524+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-11-20T09:11:18.238937+00:00",
+      "last_success": "2026-11-21T08:45:43.381524+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-11-20T09:11:18.238937+00:00",
+      "last_success": "2026-11-21T08:45:43.381524+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-11-20T09:11:18.238937+00:00",
+      "last_success": "2026-11-21T08:45:43.381524+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-11-20T09:11:18.238937+00:00",
+      "last_success": "2026-11-21T08:45:43.381524+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-11-20T09:11:18.238937+00:00",
+      "last_success": "2026-11-21T08:45:43.381524+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-11-20T09:11:18.238937+00:00",
+      "last_success": "2026-11-21T08:45:43.381524+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-11-20T09:11:18.238937+00:00",
+      "last_success": "2026-11-21T08:45:43.381524+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-11-20T09:11:18.238937+00:00",
+      "last_success": "2026-11-21T08:45:43.381524+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.3390/rs18224002",
+      "title": "A Semantic–Geometric Collaborative Framework for Roof Plane Segmentation in Airborne LiDAR Point Clouds",
+      "journal_id": "remote-sensing",
+      "published": "2026-11-20",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18224002",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18224001",
+      "title": "Detection and Height Measurement of Tenuous Aerosols and Clouds in CATS Lidar Data at High Resolution Using the CATS-Density-Dimension Algorithm",
+      "journal_id": "remote-sensing",
+      "published": "2026-11-20",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18224001",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-81200-x",
+      "title": "Blind spot minimization through optimized LiDAR placement",
+      "journal_id": "scientific-reports",
+      "published": "2026-11-20",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-81200-x",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-77779-w",
+      "title": "LAR-Net: a lightweight adaptive receptive field network for point cloud segmentation of pharmaceutical deposits on reactor inner walls",
+      "journal_id": "scientific-reports",
+      "published": "2026-11-20",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-77779-w",
+      "source": "crossref"
+    },
     {
       "id": "10.3390/rs18223975",
       "title": "Benchmarking Geospatial Foundation Models Against a Supervised Baseline for Fine-Grained Alpine Habitat Change Detection with Very High-Resolution Imagery and LiDAR",
@@ -1418,42 +1466,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.3390/rs18193406",
-      "title": "Quality Control of GNSS/Leveling-Derived Geoid Heights and Implications for LiDAR-Based Coastal Low-Elevation Classification",
-      "journal_id": "remote-sensing",
-      "published": "2026-10-04",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18193406",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1038/s41598-026-73419-5",
-      "title": "A single-user feasibility study demonstrating real-time raycast-based stair and elevation-change detection on consumer smartphone LiDAR hardware",
-      "journal_id": "scientific-reports",
-      "published": "2026-10-02",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-73419-5",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1038/s41598-026-73305-0",
-      "title": "ACPSO: a novel PSO variant for 3D UAV path planning in multi-threat environments",
-      "journal_id": "scientific-reports",
-      "published": "2026-10-01",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-73305-0",
-      "source": "crossref"
-    },
-    {
       "id": "10.1109/lra.2026.3730349",
       "title": "DS-MRNav: Distributed Multi-Robot Navigation With Static Obstacles via a Decoupled-State Dual-Stream Framework",
       "journal_id": "ral",
@@ -1791,18 +1803,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.3389/frobt.2026.1781310",
-      "source": "crossref"
-    },
-    {
-      "id": "10.3390/rs18193312",
-      "title": "A Teacher–Student Point Cloud Segmentation Framework for Challenging Features",
-      "journal_id": "remote-sensing",
-      "published": "2026-09-25",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18193312",
       "source": "crossref"
     },
     {
