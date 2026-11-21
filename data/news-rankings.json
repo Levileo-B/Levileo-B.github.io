@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-21T02:21:08+00:00",
-  "updated": "2026-11-21T02:21:07+00:00",
+  "generated_at": "2026-11-21T11:11:18+00:00",
+  "updated": "2026-11-21T11:11:18+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-16T00:00:00+08:00",
-    "end": "2026-11-21T02:21:08+00:00",
-    "total": 700,
+    "end": "2026-11-21T11:11:18+00:00",
+    "total": 725,
     "items": [
       {
         "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
@@ -23,6 +23,22 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "FBI reportedly investigating apparent hack of its criminal database",
+        "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+        "date": "2026-11-21T09:34:20+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发",
+          "综合"
+        ],
+        "sources": [
+          "BBC World",
+          "Hacker News"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
@@ -139,22 +155,6 @@
         "title": "US government confirms investigation into tech firm Megaspeed",
         "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
         "date": "2026-11-17T11:17:32+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-        "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
-        "date": "2026-11-16T19:16:52+00:00",
         "date_is_observed": false,
         "categories": [
           "综合",
@@ -313,6 +313,22 @@
       ],
       "开发": [
         {
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+          "date": "2026-11-21T09:34:20+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "综合"
+          ],
+          "sources": [
+            "BBC World",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "UK fridges secured from hackers",
           "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
           "date": "2026-11-20T00:02:07+00:00",
@@ -437,20 +453,6 @@
           ],
           "sources": [
             "阮一峰的网络日志"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "The best things in open source are built together",
-          "link": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
-          "date": "2026-11-19T16:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "GitHub Blog"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -758,6 +760,22 @@
           "observed_days": 2
         },
         {
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+          "date": "2026-11-21T09:34:20+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "综合"
+          ],
+          "sources": [
+            "BBC World",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
           "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
           "date": "2026-11-20T20:00:53+00:00",
@@ -873,20 +891,6 @@
           "title": "美中俄峰會：為何選在深圳麒麟山莊？習仲勳、金正日都曾下榻",
           "link": "https://www.bbc.com/zhongwen/articles/cqn0dy4ppxp7o/trad",
           "date": "2026-11-18T08:06:49+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "特朗普訪華之際 美國封堵中國公司在東南亞租用AI算力的「後門」",
-          "link": "https://www.bbc.com/zhongwen/articles/cmpdwn010nyvo/trad",
-          "date": "2026-11-17T11:37:12+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -1062,8 +1066,8 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-21T02:21:08+00:00",
-    "total": 2504,
+    "end": "2026-11-21T11:11:18+00:00",
+    "total": 2529,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
@@ -1473,6 +1477,22 @@
           "observed_days": 2
         },
         {
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+          "date": "2026-11-21T09:34:20+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "综合"
+          ],
+          "sources": [
+            "BBC World",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "UK fridges secured from hackers",
           "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
           "date": "2026-11-20T00:02:07+00:00",
@@ -1492,21 +1512,6 @@
           "title": "Java4Shell: Write once, RCE everywhere",
           "link": "https://calif.io/java4shell/",
           "date": "2026-11-17T21:11:28+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "All AI-generated code should be Open Source",
-          "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-          "date": "2026-11-15T14:46:58+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1949,17 +1954,17 @@
           "observed_days": 2
         },
         {
-          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
-          "date": "2026-11-20T20:00:53+00:00",
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+          "date": "2026-11-21T09:34:20+00:00",
           "date_is_observed": false,
           "categories": [
-            "综合",
-            "财经"
+            "开发",
+            "综合"
           ],
           "sources": [
-            "BBC Business",
-            "BBC World"
+            "BBC World",
+            "Hacker News"
           ],
           "source_count": 2,
           "observed_days": 1
