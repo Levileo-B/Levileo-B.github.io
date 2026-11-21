@@ -1,29 +1,13 @@
 {
-  "generated_at": "2026-11-21T11:11:18+00:00",
-  "updated": "2026-11-21T11:11:18+00:00",
+  "generated_at": "2026-11-21T18:00:16+00:00",
+  "updated": "2026-11-21T18:00:16+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-16T00:00:00+08:00",
-    "end": "2026-11-21T11:11:18+00:00",
-    "total": 725,
+    "end": "2026-11-21T18:00:16+00:00",
+    "total": 758,
     "items": [
-      {
-        "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-        "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
-        "date": "2026-11-17T22:34:41+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
       {
         "title": "FBI reportedly investigating apparent hack of its criminal database",
         "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
@@ -38,7 +22,7 @@
           "Hacker News"
         ],
         "source_count": 2,
-        "observed_days": 1
+        "observed_days": 2
       },
       {
         "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
@@ -54,7 +38,7 @@
           "BBC World"
         ],
         "source_count": 2,
-        "observed_days": 1
+        "observed_days": 2
       },
       {
         "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
@@ -70,7 +54,23 @@
           "BBC World"
         ],
         "source_count": 2,
-        "observed_days": 1
+        "observed_days": 2
+      },
+      {
+        "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+        "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
+        "date": "2026-11-17T22:34:41+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 2
       },
       {
         "title": "UK fridges secured from hackers",
@@ -182,12 +182,26 @@
             "MIT Technology Review"
           ],
           "source_count": 1,
-          "observed_days": 3
+          "observed_days": 4
         },
         {
           "title": "What a billion-dollar deal says about the US battery market",
           "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
           "date": "2026-11-19T11:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 4
+        },
+        {
+          "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+          "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+          "date": "2026-11-19T13:10:00+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -227,9 +241,9 @@
           "observed_days": 3
         },
         {
-          "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
-          "link": "https://www.qbitai.com/2026/11/511610.html",
-          "date": "2026-11-20T08:04:58+00:00",
+          "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+          "link": "https://www.qbitai.com/2026/11/511779.html",
+          "date": "2026-11-21T06:35:59+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -241,9 +255,9 @@
           "observed_days": 2
         },
         {
-          "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
-          "link": "https://www.qbitai.com/2026/11/511603.html",
-          "date": "2026-11-20T06:16:06+00:00",
+          "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+          "link": "https://www.qbitai.com/2026/11/511570.html",
+          "date": "2026-11-21T06:32:31+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -255,9 +269,9 @@
           "observed_days": 2
         },
         {
-          "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
-          "link": "https://www.qbitai.com/2026/11/511582.html",
-          "date": "2026-11-20T05:24:11+00:00",
+          "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+          "link": "https://www.qbitai.com/2026/11/511757.html",
+          "date": "2026-11-21T06:30:55+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -269,23 +283,9 @@
           "observed_days": 2
         },
         {
-          "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
-          "link": "https://www.qbitai.com/2026/11/511426.html",
-          "date": "2026-11-20T01:07:38+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-          "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-          "date": "2026-11-19T13:10:00+00:00",
+          "title": "The most misunderstood graph in AI just got a major update",
+          "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+          "date": "2026-11-20T18:15:15+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -297,9 +297,9 @@
           "observed_days": 2
         },
         {
-          "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
-          "link": "https://www.qbitai.com/2026/11/511180.html",
-          "date": "2026-11-19T08:18:30+00:00",
+          "title": "米哈游发了个VLA论文",
+          "link": "https://www.qbitai.com/2026/11/511740.html",
+          "date": "2026-11-20T16:25:26+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -326,7 +326,7 @@
             "Hacker News"
           ],
           "source_count": 2,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
           "title": "UK fridges secured from hackers",
@@ -371,7 +371,7 @@
             "美团技术团队"
           ],
           "source_count": 1,
-          "observed_days": 5
+          "observed_days": 6
         },
         {
           "title": "EMNLP 2026 | 美团技术团队学术论文精选",
@@ -385,7 +385,7 @@
             "美团技术团队"
           ],
           "source_count": 1,
-          "observed_days": 4
+          "observed_days": 5
         },
         {
           "title": "Maintainers don’t need more AI bug reports. They need fixes.",
@@ -399,7 +399,7 @@
             "GitHub Blog"
           ],
           "source_count": 1,
-          "observed_days": 4
+          "observed_days": 5
         },
         {
           "title": "Building the Agent Host Protocol for sessions that continue across devices",
@@ -413,35 +413,7 @@
             "GitHub Blog"
           ],
           "source_count": 1,
-          "observed_days": 4
-        },
-        {
-          "title": "Removing binder.c",
-          "link": "https://lwn.net/Articles/1102982/",
-          "date": "2026-11-20T10:33:36+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Vim Classic 8.3.1 released",
-          "link": "https://vim-classic.org/news/vim-8.3.1-released.html",
-          "date": "2026-11-20T10:02:03+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
+          "observed_days": 5
         },
         {
           "title": "科技爱好者周刊（第 420 期）：最分心的一年",
@@ -455,10 +427,122 @@
             "阮一峰的网络日志"
           ],
           "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "The best things in open source are built together",
+          "link": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "date": "2026-11-19T16:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "GitHub Blog"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Levent Alpöge Claims Proof of Riemann Hypothesis",
+          "link": "https://alpo.ge/remark.pdf",
+          "date": "2026-11-20T14:46:49+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Lobsters"
+          ],
+          "source_count": 1,
           "observed_days": 2
         }
       ],
       "科技": [
+        {
+          "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
+          "link": "https://www.ifanr.com/1690596",
+          "date": "2026-11-20T10:39:47+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "本周看什么 | 最近值得一看的 10 部作品",
+          "link": "https://sspai.com/post/119337",
+          "date": "2026-11-20T09:54:01+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "首款鸿蒙 AI 手机发布：华为全新子品牌 OSTA 星芒有一个「增援未来计划」",
+          "link": "https://www.ifanr.com/1690642",
+          "date": "2026-11-20T09:17:05+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+          "link": "https://sspai.com/post/119327",
+          "date": "2026-11-20T07:34:26+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
+          "link": "https://sspai.com/post/118879",
+          "date": "2026-11-20T02:47:52+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
+          "link": "https://sspai.com/post/119311",
+          "date": "2026-11-20T00:34:31+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
         {
           "title": "给 Apple 的 2026 年打分，请你一起参与",
           "link": "https://sspai.com/post/119191",
@@ -488,51 +572,9 @@
           "observed_days": 3
         },
         {
-          "title": "无限滚动自动播放有害社会",
-          "link": "https://www.solidot.org/story?sid=85946",
-          "date": "2026-11-20T10:50:51+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
-          "link": "https://www.ifanr.com/1690596",
-          "date": "2026-11-20T10:39:47+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "三名胰腺癌患者在注射病毒后遏制了肿瘤继续发展",
-          "link": "https://www.solidot.org/story?sid=85945",
-          "date": "2026-11-20T10:27:28+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "本周看什么 | 最近值得一看的 10 部作品",
-          "link": "https://sspai.com/post/119337",
-          "date": "2026-11-20T09:54:01+00:00",
+          "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
+          "link": "https://sspai.com/post/119291",
+          "date": "2026-11-21T04:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -544,51 +586,9 @@
           "observed_days": 2
         },
         {
-          "title": "首款鸿蒙 AI 手机发布：华为全新子品牌 OSTA 星芒有一个「增援未来计划」",
-          "link": "https://www.ifanr.com/1690642",
-          "date": "2026-11-20T09:17:05+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "给 Gemini 道歉，请自觉排队",
-          "link": "https://www.ifanr.com/1690572",
-          "date": "2026-11-20T09:03:13+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
-          "link": "https://sspai.com/post/119327",
-          "date": "2026-11-20T07:34:26+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "触屏只是它最不起眼的升级｜MacBook PROLED 评测",
-          "link": "https://www.ifanr.com/1690404",
-          "date": "2026-11-20T04:00:17+00:00",
+          "title": "早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验",
+          "link": "https://www.ifanr.com/1690759",
+          "date": "2026-11-21T00:25:08+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -601,6 +601,48 @@
         }
       ],
       "科研": [
+        {
+          "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
+          "link": "https://www.nature.com/articles/d41586-026-03590-2",
+          "date": "2026-11-20T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Lifting weights reduces muscle loss from obesity drugs",
+          "link": "https://www.nature.com/articles/d41586-026-03751-3",
+          "date": "2026-11-20T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
+          "date": "2026-11-20T12:55:54+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
         {
           "title": "Keto diet slashes liver fat by 67% in just 4 months",
           "link": "https://www.sciencedaily.com/releases/2026/11/261120070904.htm",
@@ -672,8 +714,8 @@
           "observed_days": 2
         },
         {
-          "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
-          "link": "https://www.nature.com/articles/d41586-026-03590-2",
+          "title": "How AI is affecting science careers",
+          "link": "https://www.nature.com/articles/d41586-026-03680-1",
           "date": "2026-11-20T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
@@ -686,8 +728,8 @@
           "observed_days": 2
         },
         {
-          "title": "Lifting weights reduces muscle loss from obesity drugs",
-          "link": "https://www.nature.com/articles/d41586-026-03751-3",
+          "title": "Fraud helps little fire ants to survive and conquer",
+          "link": "https://www.nature.com/articles/d41586-026-03776-8",
           "date": "2026-11-20T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
@@ -695,70 +737,12 @@
           ],
           "sources": [
             "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
-          "date": "2026-11-19T11:13:29+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "This 6-million-year-old whale may have had the most crooked face in mammal history",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
-          "date": "2026-11-19T10:59:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Why don't weight-loss drugs like Ozempic and Wegovy work for everyone?",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261118065518.htm",
-          "date": "2026-11-19T08:43:56+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
           ],
           "source_count": 1,
           "observed_days": 2
         }
       ],
       "综合": [
-        {
-          "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-          "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
-          "date": "2026-11-17T22:34:41+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
         {
           "title": "FBI reportedly investigating apparent hack of its criminal database",
           "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
@@ -773,7 +757,7 @@
             "Hacker News"
           ],
           "source_count": 2,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
           "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
@@ -789,7 +773,7 @@
             "BBC World"
           ],
           "source_count": 2,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
           "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
@@ -805,7 +789,23 @@
             "BBC World"
           ],
           "source_count": 2,
-          "observed_days": 1
+          "observed_days": 2
+        },
+        {
+          "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
+          "date": "2026-11-17T22:34:41+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
         },
         {
           "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
@@ -888,9 +888,9 @@
           "observed_days": 1
         },
         {
-          "title": "美中俄峰會：為何選在深圳麒麟山莊？習仲勳、金正日都曾下榻",
-          "link": "https://www.bbc.com/zhongwen/articles/cqn0dy4ppxp7o/trad",
-          "date": "2026-11-18T08:06:49+00:00",
+          "title": "英國女子遭丈夫下藥，13年間被陌生男子輪流性侵",
+          "link": "https://www.bbc.com/zhongwen/articles/cx8dv4e080ldo/trad",
+          "date": "2026-11-20T09:24:25+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -903,22 +903,6 @@
         }
       ],
       "财经": [
-        {
-          "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-          "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
-          "date": "2026-11-17T22:34:41+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
         {
           "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
           "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
@@ -933,7 +917,7 @@
             "BBC World"
           ],
           "source_count": 2,
-          "observed_days": 1
+          "observed_days": 2
         },
         {
           "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
@@ -949,7 +933,23 @@
             "BBC World"
           ],
           "source_count": 2,
-          "observed_days": 1
+          "observed_days": 2
+        },
+        {
+          "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
+          "date": "2026-11-17T22:34:41+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
         },
         {
           "title": "UK fridges secured from hackers",
@@ -1048,9 +1048,9 @@
           "observed_days": 1
         },
         {
-          "title": "The seven Anthropic founders who are about to become multi-billionaires",
-          "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o",
-          "date": "2026-11-18T13:55:14+00:00",
+          "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+          "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+          "date": "2026-11-20T02:54:40+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1066,8 +1066,8 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-21T11:11:18+00:00",
-    "total": 2529,
+    "end": "2026-11-21T18:00:16+00:00",
+    "total": 2562,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
@@ -1148,6 +1148,54 @@
         "observed_days": 3
       },
       {
+        "title": "FBI reportedly investigating apparent hack of its criminal database",
+        "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+        "date": "2026-11-21T09:34:20+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发",
+          "综合"
+        ],
+        "sources": [
+          "BBC World",
+          "Hacker News"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+        "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
+        "date": "2026-11-20T20:00:53+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
+        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+        "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
+        "date": "2026-11-20T17:49:48+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
         "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
         "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
         "date": "2026-11-17T22:34:41+00:00",
@@ -1175,53 +1223,6 @@
         "sources": [
           "BBC Business",
           "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-        "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
-        "date": "2026-11-12T23:34:05+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-        "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
-        "date": "2026-11-10T01:22:10+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Progress Report: Linux 7.3 - Asahi Linux",
-        "link": "https://asahilinux.org/2026/11/progress-report-7-3/",
-        "date": "2026-11-07T05:20:18+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News",
-          "Lobsters"
         ],
         "source_count": 2,
         "observed_days": 2
@@ -1270,6 +1271,34 @@
           ],
           "source_count": 1,
           "observed_days": 5
+        },
+        {
+          "title": "A human liver has been kept alive outside the body for a record seven weeks",
+          "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+          "date": "2026-11-19T12:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 4
+        },
+        {
+          "title": "What a billion-dollar deal says about the US battery market",
+          "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+          "date": "2026-11-19T11:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 4
         },
         {
           "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
@@ -1340,34 +1369,6 @@
           ],
           "source_count": 1,
           "observed_days": 4
-        },
-        {
-          "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-          "link": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-          "date": "2026-11-04T18:21:40+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 4
-        },
-        {
-          "title": "A human liver has been kept alive outside the body for a record seven weeks",
-          "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
-          "date": "2026-11-19T12:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 3
         }
       ],
       "开发": [
@@ -1400,6 +1401,22 @@
           ],
           "source_count": 2,
           "observed_days": 3
+        },
+        {
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+          "date": "2026-11-21T09:34:20+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "综合"
+          ],
+          "sources": [
+            "BBC World",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 2
         },
         {
           "title": "Progress Report: Linux 7.3 - Asahi Linux",
@@ -1477,22 +1494,6 @@
           "observed_days": 2
         },
         {
-          "title": "FBI reportedly investigating apparent hack of its criminal database",
-          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
-          "date": "2026-11-21T09:34:20+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发",
-            "综合"
-          ],
-          "sources": [
-            "BBC World",
-            "Hacker News"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
           "title": "UK fridges secured from hackers",
           "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
           "date": "2026-11-20T00:02:07+00:00",
@@ -1551,7 +1552,7 @@
             "少数派"
           ],
           "source_count": 1,
-          "observed_days": 5
+          "observed_days": 6
         },
         {
           "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
@@ -1638,35 +1639,63 @@
           "observed_days": 4
         },
         {
-          "title": "给 Apple 的 2026 年打分，请你一起参与",
-          "link": "https://sspai.com/post/119191",
-          "date": "2026-11-19T10:25:05+00:00",
+          "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
+          "link": "https://www.ifanr.com/1690596",
+          "date": "2026-11-20T10:39:47+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "少数派"
+            "爱范儿"
           ],
           "source_count": 1,
           "observed_days": 3
         },
         {
-          "title": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
-          "link": "https://sspai.com/post/118392",
-          "date": "2026-11-15T07:55:16+00:00",
+          "title": "首款鸿蒙 AI 手机发布：华为全新子品牌 OSTA 星芒有一个「增援未来计划」",
+          "link": "https://www.ifanr.com/1690642",
+          "date": "2026-11-20T09:17:05+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "少数派"
+            "爱范儿"
           ],
           "source_count": 1,
           "observed_days": 3
         }
       ],
       "科研": [
+        {
+          "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
+          "link": "https://www.nature.com/articles/d41586-026-03590-2",
+          "date": "2026-11-20T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Lifting weights reduces muscle loss from obesity drugs",
+          "link": "https://www.nature.com/articles/d41586-026-03751-3",
+          "date": "2026-11-20T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
         {
           "title": "Chinese graduate students are now choosing to stay closer to home",
           "link": "https://www.nature.com/articles/d41586-026-03456-7",
@@ -1778,34 +1807,6 @@
           ],
           "source_count": 1,
           "observed_days": 3
-        },
-        {
-          "title": "Medicinal plants, lessons from mushrooms and the power of smell: Books in brief",
-          "link": "https://www.nature.com/articles/d41586-026-03595-x",
-          "date": "2026-11-06T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "Cholera bacterium’s good deed: inspiring a glue with rare properties",
-          "link": "https://www.nature.com/articles/d41586-026-03630-x",
-          "date": "2026-11-06T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 3
         }
       ],
       "综合": [
@@ -1858,6 +1859,54 @@
           "observed_days": 3
         },
         {
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+          "date": "2026-11-21T09:34:20+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "综合"
+          ],
+          "sources": [
+            "BBC World",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
+          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
+          "date": "2026-11-20T20:00:53+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
+          "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+          "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
+          "date": "2026-11-20T17:49:48+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
           "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
           "date": "2026-11-17T22:34:41+00:00",
@@ -1920,54 +1969,6 @@
           ],
           "source_count": 2,
           "observed_days": 2
-        },
-        {
-          "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o",
-          "date": "2026-11-03T16:19:29+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
-          "date": "2026-10-31T16:32:08+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "FBI reportedly investigating apparent hack of its criminal database",
-          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
-          "date": "2026-11-21T09:34:20+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发",
-            "综合"
-          ],
-          "sources": [
-            "BBC World",
-            "Hacker News"
-          ],
-          "source_count": 2,
-          "observed_days": 1
         }
       ],
       "财经": [
@@ -2020,6 +2021,38 @@
           "observed_days": 3
         },
         {
+          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
+          "date": "2026-11-20T20:00:53+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
+          "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+          "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
+          "date": "2026-11-20T17:49:48+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
           "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
           "date": "2026-11-17T22:34:41+00:00",
@@ -2098,38 +2131,6 @@
           ],
           "source_count": 2,
           "observed_days": 2
-        },
-        {
-          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
-          "date": "2026-10-31T16:32:08+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
-          "date": "2026-11-20T20:00:53+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
         }
       ]
     }
