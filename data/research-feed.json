@@ -1,54 +1,54 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-21T08:45:43.381524+00:00",
-  "attempted_at": "2026-11-21T08:45:43.381524+00:00",
+  "updated": "2026-11-22T08:50:04.872740+00:00",
+  "attempted_at": "2026-11-22T08:50:04.872740+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-11-21T08:45:43.381524+00:00",
+      "last_success": "2026-11-22T08:50:04.872740+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-11-21T08:45:43.381524+00:00",
+      "last_success": "2026-11-22T08:50:04.872740+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-11-21T08:45:43.381524+00:00",
+      "last_success": "2026-11-22T08:50:04.872740+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-11-21T08:45:43.381524+00:00",
+      "last_success": "2026-11-22T08:50:04.872740+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-11-21T08:45:43.381524+00:00",
+      "last_success": "2026-11-22T08:50:04.872740+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-11-21T08:45:43.381524+00:00",
+      "last_success": "2026-11-22T08:50:04.872740+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-11-21T08:45:43.381524+00:00",
+      "last_success": "2026-11-22T08:50:04.872740+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-11-21T08:45:43.381524+00:00",
+      "last_success": "2026-11-22T08:50:04.872740+00:00",
       "errors": []
     }
   ],
@@ -665,6 +665,18 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1109/lra.2026.3728311",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1016/j.robot.2026.105863",
+      "title": "A comprehensive survey of cross-view geolocalization for autonomous navigation: Approaches, challenges, and recent advances",
+      "journal_id": "ras",
+      "published": "2026-11",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1016/j.robot.2026.105863",
       "source": "crossref"
     },
     {
@@ -1718,19 +1730,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1016/j.robot.2026.105604",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1016/j.robot.2026.105593",
-      "title": "Overview of deep learning-based LiDAR SLAM",
-      "journal_id": "ras",
-      "published": "2026-10",
-      "topics": [
-        "point-cloud",
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1016/j.robot.2026.105593",
       "source": "crossref"
     },
     {
