@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-21T23:22:37+00:00",
-  "updated": "2026-11-21T23:22:37+00:00",
+  "generated_at": "2026-11-22T06:55:59+00:00",
+  "updated": "2026-11-22T06:55:59+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-16T00:00:00+08:00",
-    "end": "2026-11-21T23:22:37+00:00",
-    "total": 774,
+    "end": "2026-11-22T06:55:59+00:00",
+    "total": 793,
     "items": [
       {
         "title": "FBI reportedly investigating apparent hack of its criminal database",
@@ -20,6 +20,22 @@
         "sources": [
           "BBC World",
           "Hacker News"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
+        "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+        "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+        "date": "2026-11-20T20:59:08+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发",
+          "科技"
+        ],
+        "sources": [
+          "Ars Technica",
+          "Lobsters"
         ],
         "source_count": 2,
         "observed_days": 2
@@ -71,6 +87,21 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "Advice for the next 100 Rust GUIs",
+        "link": "https://linebender.org/blog/next-100-guis/",
+        "date": "2026-11-21T21:17:53+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "UK fridges secured from hackers",
@@ -131,38 +162,6 @@
         "sources": [
           "Hacker News",
           "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-        "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
-        "date": "2026-11-17T18:24:21+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "US government confirms investigation into tech firm Megaspeed",
-        "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
-        "date": "2026-11-17T11:17:32+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
         ],
         "source_count": 2,
         "observed_days": 1
@@ -329,6 +328,37 @@
           "observed_days": 2
         },
         {
+          "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+          "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+          "date": "2026-11-20T20:59:08+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
+          "title": "Advice for the next 100 Rust GUIs",
+          "link": "https://linebender.org/blog/next-100-guis/",
+          "date": "2026-11-21T21:17:53+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "UK fridges secured from hackers",
           "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
           "date": "2026-11-20T00:02:07+00:00",
@@ -428,37 +458,25 @@
           ],
           "source_count": 1,
           "observed_days": 3
-        },
-        {
-          "title": "The best things in open source are built together",
-          "link": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
-          "date": "2026-11-19T16:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "GitHub Blog"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "Levent Alpöge Claims Proof of Riemann Hypothesis",
-          "link": "https://alpo.ge/remark.pdf",
-          "date": "2026-11-20T14:46:49+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "科技": [
+        {
+          "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+          "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+          "date": "2026-11-20T20:59:08+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
         {
           "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
           "link": "https://www.ifanr.com/1690596",
@@ -581,20 +599,6 @@
           ],
           "sources": [
             "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验",
-          "link": "https://www.ifanr.com/1690759",
-          "date": "2026-11-21T00:25:08+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -1066,8 +1070,8 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-21T23:22:37+00:00",
-    "total": 2578,
+    "end": "2026-11-22T06:55:59+00:00",
+    "total": 2597,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
@@ -1164,6 +1168,22 @@
         "observed_days": 2
       },
       {
+        "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+        "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+        "date": "2026-11-20T20:59:08+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发",
+          "科技"
+        ],
+        "sources": [
+          "Ars Technica",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
         "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
         "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
         "date": "2026-11-20T20:00:53+00:00",
@@ -1199,22 +1219,6 @@
         "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
         "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
         "date": "2026-11-17T22:34:41+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-        "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro",
-        "date": "2026-11-13T15:40:08+00:00",
         "date_is_observed": false,
         "categories": [
           "综合",
@@ -1419,6 +1423,22 @@
           "observed_days": 2
         },
         {
+          "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+          "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+          "date": "2026-11-20T20:59:08+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Progress Report: Linux 7.3 - Asahi Linux",
           "link": "https://asahilinux.org/2026/11/progress-report-7-3/",
           "date": "2026-11-07T05:20:18+00:00",
@@ -1494,25 +1514,9 @@
           "observed_days": 2
         },
         {
-          "title": "UK fridges secured from hackers",
-          "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
-          "date": "2026-11-20T00:02:07+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "Hacker News"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Java4Shell: Write once, RCE everywhere",
-          "link": "https://calif.io/java4shell/",
-          "date": "2026-11-17T21:11:28+00:00",
+          "title": "Advice for the next 100 Rust GUIs",
+          "link": "https://linebender.org/blog/next-100-guis/",
+          "date": "2026-11-21T21:17:53+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -1526,6 +1530,22 @@
         }
       ],
       "科技": [
+        {
+          "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+          "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+          "date": "2026-11-20T20:59:08+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
         {
           "title": "派评 | 近期值得关注的 App",
           "link": "https://sspai.com/post/118240",
@@ -1642,20 +1662,6 @@
           "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
           "link": "https://www.ifanr.com/1690596",
           "date": "2026-11-20T10:39:47+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "首款鸿蒙 AI 手机发布：华为全新子品牌 OSTA 星芒有一个「增援未来计划」",
-          "link": "https://www.ifanr.com/1690642",
-          "date": "2026-11-20T09:17:05+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
