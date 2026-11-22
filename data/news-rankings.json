@@ -1,643 +1,360 @@
 {
-  "generated_at": "2026-11-22T15:23:06+00:00",
-  "updated": "2026-11-22T15:23:06+00:00",
+  "generated_at": "2026-11-22T21:49:51+00:00",
+  "updated": "2026-11-22T21:49:51+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
-    "start": "2026-11-16T00:00:00+08:00",
-    "end": "2026-11-22T15:23:06+00:00",
-    "total": 827,
+    "start": "2026-11-23T00:00:00+08:00",
+    "end": "2026-11-22T21:49:51+00:00",
+    "total": 23,
     "items": [
       {
-        "title": "FBI reportedly investigating apparent hack of its criminal database",
-        "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
-        "date": "2026-11-21T09:34:20+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发",
-          "综合"
-        ],
-        "sources": [
-          "BBC World",
-          "Hacker News"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
-        "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-        "date": "2026-11-20T20:59:08+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发",
-          "科技"
-        ],
-        "sources": [
-          "Ars Technica",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-        "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
-        "date": "2026-11-20T20:00:53+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-        "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
-        "date": "2026-11-20T17:49:48+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-        "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
-        "date": "2026-11-17T22:34:41+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-        "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
-        "date": "2026-11-22T07:12:41+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "Advice for the next 100 Rust GUIs",
-        "link": "https://linebender.org/blog/next-100-guis/",
-        "date": "2026-11-21T21:17:53+00:00",
+        "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+        "link": "https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114",
+        "date": "2026-11-22T21:07:11+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
         ],
         "sources": [
-          "Hacker News",
-          "Lobsters"
-        ],
-        "source_count": 2,
-        "observed_days": 1
-      },
-      {
-        "title": "UK fridges secured from hackers",
-        "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
-        "date": "2026-11-20T00:02:07+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
           "Hacker News"
         ],
-        "source_count": 2,
+        "source_count": 1,
         "observed_days": 1
       },
       {
-        "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-        "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
-        "date": "2026-11-19T23:33:51+00:00",
+        "title": "Type 2 diabetes linked to 53% higher Alzheimer’s risk, major review finds",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261121221124.htm",
+        "date": "2026-11-22T20:57:35+00:00",
         "date_is_observed": false,
         "categories": [
-          "综合",
-          "财经"
+          "科研"
         ],
         "sources": [
-          "BBC Business",
-          "BBC World"
+          "ScienceDaily"
         ],
-        "source_count": 2,
+        "source_count": 1,
         "observed_days": 1
       },
       {
-        "title": "Anthropic raises $81bn in record-breaking stock market debut",
-        "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
-        "date": "2026-11-19T02:20:15+00:00",
+        "title": "AWS got hit by an outage too. You didn't hear about it",
+        "link": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
+        "date": "2026-11-22T20:50:18+00:00",
         "date_is_observed": false,
         "categories": [
-          "综合",
-          "财经"
+          "开发"
         ],
         "sources": [
-          "BBC Business",
+          "Hacker News"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "A miniature San Francisco with live buses, planes and boats",
+        "link": "https://smallsf.com/",
+        "date": "2026-11-22T20:33:23+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[随想] 我现在对 AI 有两个自相矛盾的想法，希望大家帮忙分析一下",
+        "link": "https://www.v2ex.com/t/1258979",
+        "date": "2026-11-22T20:31:08+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+        "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
+        "date": "2026-11-22T20:28:09+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合"
+        ],
+        "sources": [
           "BBC World"
         ],
-        "source_count": 2,
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Nyx, the Oldest Internet Service Provider",
+        "link": "https://nyx.net/",
+        "date": "2026-11-22T20:15:59+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[程序员] 提醒：macOS 更新不会升级 Python 的 certifi",
+        "link": "https://www.v2ex.com/t/1258978",
+        "date": "2026-11-22T20:12:49+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+        "link": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+        "date": "2026-11-22T19:54:08+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "科技"
+        ],
+        "sources": [
+          "The Verge"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
+        "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
+        "date": "2026-11-22T19:51:46+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News"
+        ],
+        "source_count": 1,
         "observed_days": 1
       }
     ],
     "by_category": {
-      "AI": [
-        {
-          "title": "A human liver has been kept alive outside the body for a record seven weeks",
-          "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
-          "date": "2026-11-19T12:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 4
-        },
-        {
-          "title": "What a billion-dollar deal says about the US battery market",
-          "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
-          "date": "2026-11-19T11:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 4
-        },
-        {
-          "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-          "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-          "date": "2026-11-19T13:10:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
-          "link": "https://www.qbitai.com/2026/11/511258.html",
-          "date": "2026-11-19T08:43:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "The Download: AI learns to smell and hydropower struggles",
-          "link": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
-          "date": "2026-11-18T13:10:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
-          "link": "https://www.qbitai.com/2026/11/511779.html",
-          "date": "2026-11-21T06:35:59+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
-          "link": "https://www.qbitai.com/2026/11/511570.html",
-          "date": "2026-11-21T06:32:31+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
-          "link": "https://www.qbitai.com/2026/11/511757.html",
-          "date": "2026-11-21T06:30:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "The most misunderstood graph in AI just got a major update",
-          "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-          "date": "2026-11-20T18:15:15+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "米哈游发了个VLA论文",
-          "link": "https://www.qbitai.com/2026/11/511740.html",
-          "date": "2026-11-20T16:25:26+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        }
-      ],
       "开发": [
         {
-          "title": "FBI reportedly investigating apparent hack of its criminal database",
-          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
-          "date": "2026-11-21T09:34:20+00:00",
+          "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+          "link": "https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114",
+          "date": "2026-11-22T21:07:11+00:00",
           "date_is_observed": false,
           "categories": [
-            "开发",
-            "综合"
+            "开发"
           ],
           "sources": [
-            "BBC World",
             "Hacker News"
           ],
-          "source_count": 2,
-          "observed_days": 2
+          "source_count": 1,
+          "observed_days": 1
         },
         {
-          "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
-          "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-          "date": "2026-11-20T20:59:08+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发",
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Advice for the next 100 Rust GUIs",
-          "link": "https://linebender.org/blog/next-100-guis/",
-          "date": "2026-11-21T21:17:53+00:00",
+          "title": "AWS got hit by an outage too. You didn't hear about it",
+          "link": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
+          "date": "2026-11-22T20:50:18+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "UK fridges secured from hackers",
-          "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
-          "date": "2026-11-20T00:02:07+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
             "Hacker News"
           ],
-          "source_count": 2,
+          "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Java4Shell: Write once, RCE everywhere",
-          "link": "https://calif.io/java4shell/",
-          "date": "2026-11-17T21:11:28+00:00",
+          "title": "A miniature San Francisco with live buses, planes and boats",
+          "link": "https://smallsf.com/",
+          "date": "2026-11-22T20:33:23+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "Hacker News",
-            "Lobsters"
+            "Hacker News"
           ],
-          "source_count": 2,
+          "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "《Agent评测白皮书》系列02：商家 AI 助手的评测与优化闭环实践",
-          "link": "https://tech.meituan.com/2026/11/17/Agent-Evaluation-White-Paper-02.html",
-          "date": "2026-11-17T14:29:31+00:00",
-          "date_is_observed": true,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "美团技术团队"
-          ],
-          "source_count": 1,
-          "observed_days": 6
-        },
-        {
-          "title": "EMNLP 2026 | 美团技术团队学术论文精选",
-          "link": "https://tech.meituan.com/2026/11/18/Papers-EMNLP-2026.html",
-          "date": "2026-11-18T14:05:12+00:00",
-          "date_is_observed": true,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "美团技术团队"
-          ],
-          "source_count": 1,
-          "observed_days": 5
-        },
-        {
-          "title": "Maintainers don’t need more AI bug reports. They need fixes.",
-          "link": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
-          "date": "2026-11-17T18:29:29+00:00",
+          "title": "[随想] 我现在对 AI 有两个自相矛盾的想法，希望大家帮忙分析一下",
+          "link": "https://www.v2ex.com/t/1258979",
+          "date": "2026-11-22T20:31:08+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "GitHub Blog"
+            "V2EX"
           ],
           "source_count": 1,
-          "observed_days": 5
+          "observed_days": 1
         },
         {
-          "title": "Building the Agent Host Protocol for sessions that continue across devices",
-          "link": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
-          "date": "2026-11-17T18:20:40+00:00",
+          "title": "Nyx, the Oldest Internet Service Provider",
+          "link": "https://nyx.net/",
+          "date": "2026-11-22T20:15:59+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "GitHub Blog"
+            "Hacker News"
           ],
           "source_count": 1,
-          "observed_days": 5
+          "observed_days": 1
         },
         {
-          "title": "科技爱好者周刊（第 420 期）：最分心的一年",
-          "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html",
-          "date": "2026-11-20T00:07:30+00:00",
+          "title": "[程序员] 提醒：macOS 更新不会升级 Python 的 certifi",
+          "link": "https://www.v2ex.com/t/1258978",
+          "date": "2026-11-22T20:12:49+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "阮一峰的网络日志"
+            "V2EX"
           ],
           "source_count": 1,
-          "observed_days": 3
+          "observed_days": 1
+        },
+        {
+          "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
+          "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
+          "date": "2026-11-22T19:51:46+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[Claude] 一朋友 提出的关于稳定访问 Claude 的设想",
+          "link": "https://www.v2ex.com/t/1258977",
+          "date": "2026-11-22T18:56:03+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[分享创造] [开源] 想让闲置的 Windows 电脑重新上桌，我做了 Pierdesk",
+          "link": "https://www.v2ex.com/t/1258976",
+          "date": "2026-11-22T17:28:06+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[推广] 做了一个服装参考图库：1000+ 套写实穿搭，还能把照片转成线稿来临摹",
+          "link": "https://www.v2ex.com/t/1258975",
+          "date": "2026-11-22T17:26:39+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
         }
       ],
       "科技": [
         {
-          "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
-          "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-          "date": "2026-11-20T20:59:08+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发",
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
-          "link": "https://www.ifanr.com/1690596",
-          "date": "2026-11-20T10:39:47+00:00",
+          "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+          "link": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+          "date": "2026-11-22T19:54:08+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "爱范儿"
+            "The Verge"
           ],
           "source_count": 1,
-          "observed_days": 3
+          "observed_days": 1
         },
         {
-          "title": "本周看什么 | 最近值得一看的 10 部作品",
-          "link": "https://sspai.com/post/119337",
-          "date": "2026-11-20T09:54:01+00:00",
+          "title": "Delta flights in and out of Atlanta delayed due to system outage",
+          "link": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+          "date": "2026-11-22T17:46:44+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "少数派"
+            "The Verge"
           ],
           "source_count": 1,
-          "observed_days": 3
+          "observed_days": 1
         },
         {
-          "title": "首款鸿蒙 AI 手机发布：华为全新子品牌 OSTA 星芒有一个「增援未来计划」",
-          "link": "https://www.ifanr.com/1690642",
-          "date": "2026-11-20T09:17:05+00:00",
+          "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+          "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "date": "2026-11-22T17:25:20+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "爱范儿"
+            "The Verge"
           ],
           "source_count": 1,
-          "observed_days": 3
+          "observed_days": 1
         },
         {
-          "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
-          "link": "https://sspai.com/post/119327",
-          "date": "2026-11-20T07:34:26+00:00",
+          "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+          "link": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
+          "date": "2026-11-22T16:43:32+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "少数派"
+            "The Verge"
           ],
           "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
-          "link": "https://sspai.com/post/118879",
-          "date": "2026-11-20T02:47:52+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
-          "link": "https://sspai.com/post/119311",
-          "date": "2026-11-20T00:34:31+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "给 Apple 的 2026 年打分，请你一起参与",
-          "link": "https://sspai.com/post/119191",
-          "date": "2026-11-19T10:25:05+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "派评 | 近期值得关注的 App",
-          "link": "https://sspai.com/post/119148",
-          "date": "2026-11-16T10:09:47+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
-          "link": "https://sspai.com/post/119291",
-          "date": "2026-11-21T04:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 2
+          "observed_days": 1
         }
       ],
       "科研": [
         {
-          "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
-          "link": "https://www.nature.com/articles/d41586-026-03590-2",
-          "date": "2026-11-20T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "Lifting weights reduces muscle loss from obesity drugs",
-          "link": "https://www.nature.com/articles/d41586-026-03751-3",
-          "date": "2026-11-20T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
-          "date": "2026-11-20T12:55:54+00:00",
+          "title": "Type 2 diabetes linked to 53% higher Alzheimer’s risk, major review finds",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261121221124.htm",
+          "date": "2026-11-22T20:57:35+00:00",
           "date_is_observed": false,
           "categories": [
             "科研"
@@ -646,428 +363,94 @@
             "ScienceDaily"
           ],
           "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Keto diet slashes liver fat by 67% in just 4 months",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261120070904.htm",
-          "date": "2026-11-20T12:44:39+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm",
-          "date": "2026-11-20T12:34:56+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
-          "date": "2026-11-20T12:23:23+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "For better mental health, how often you exercise may matter more than how hard",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261119194601.htm",
-          "date": "2026-11-20T09:09:17+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm",
-          "date": "2026-11-20T05:41:16+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "How AI is affecting science careers",
-          "link": "https://www.nature.com/articles/d41586-026-03680-1",
-          "date": "2026-11-20T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Fraud helps little fire ants to survive and conquer",
-          "link": "https://www.nature.com/articles/d41586-026-03776-8",
-          "date": "2026-11-20T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 2
+          "observed_days": 1
         }
       ],
       "综合": [
         {
-          "title": "FBI reportedly investigating apparent hack of its criminal database",
-          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
-          "date": "2026-11-21T09:34:20+00:00",
+          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
+          "date": "2026-11-22T20:28:09+00:00",
           "date_is_observed": false,
           "categories": [
-            "开发",
             "综合"
           ],
           "sources": [
-            "BBC World",
-            "Hacker News"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
-          "date": "2026-11-20T20:00:53+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
             "BBC World"
           ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-          "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
-          "date": "2026-11-20T17:49:48+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-          "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
-          "date": "2026-11-17T22:34:41+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-          "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
-          "date": "2026-11-22T07:12:41+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
+          "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-          "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
-          "date": "2026-11-19T23:33:51+00:00",
+          "title": "What's next after no deal at COP31 climate talks?",
+          "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
+          "date": "2026-11-22T18:57:24+00:00",
           "date_is_observed": false,
           "categories": [
-            "综合",
-            "财经"
+            "综合"
           ],
           "sources": [
-            "BBC Business",
             "BBC World"
           ],
-          "source_count": 2,
+          "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Anthropic raises $81bn in record-breaking stock market debut",
-          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
-          "date": "2026-11-19T02:20:15+00:00",
+          "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+          "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
+          "date": "2026-11-22T18:17:59+00:00",
           "date_is_observed": false,
           "categories": [
-            "综合",
-            "财经"
+            "综合"
           ],
           "sources": [
-            "BBC Business",
             "BBC World"
           ],
-          "source_count": 2,
+          "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-          "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
-          "date": "2026-11-17T18:24:21+00:00",
+          "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+          "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o",
+          "date": "2026-11-22T17:57:43+00:00",
           "date_is_observed": false,
           "categories": [
-            "综合",
-            "财经"
+            "综合"
           ],
           "sources": [
-            "BBC Business",
             "BBC World"
           ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "US government confirms investigation into tech firm Megaspeed",
-          "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
-          "date": "2026-11-17T11:17:32+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
-          "date": "2026-11-16T19:16:52+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
+          "source_count": 1,
           "observed_days": 1
         }
       ],
       "财经": [
         {
-          "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-          "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
-          "date": "2026-11-20T20:00:53+00:00",
+          "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+          "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+          "date": "2026-11-22T18:55:05+00:00",
           "date_is_observed": false,
           "categories": [
-            "综合",
             "财经"
           ],
           "sources": [
-            "BBC Business",
-            "BBC World"
+            "CNBC"
           ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-          "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
-          "date": "2026-11-20T17:49:48+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-          "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
-          "date": "2026-11-17T22:34:41+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-          "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
-          "date": "2026-11-22T07:12:41+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
+          "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "UK fridges secured from hackers",
-          "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
-          "date": "2026-11-20T00:02:07+00:00",
+          "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
+          "link": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+          "date": "2026-11-22T17:14:03+00:00",
           "date_is_observed": false,
           "categories": [
-            "开发",
             "财经"
           ],
           "sources": [
-            "BBC Business",
-            "Hacker News"
+            "CNBC"
           ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-          "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
-          "date": "2026-11-19T23:33:51+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Anthropic raises $81bn in record-breaking stock market debut",
-          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
-          "date": "2026-11-19T02:20:15+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-          "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
-          "date": "2026-11-17T18:24:21+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "US government confirms investigation into tech firm Megaspeed",
-          "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
-          "date": "2026-11-17T11:17:32+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 1
-        },
-        {
-          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
-          "date": "2026-11-16T19:16:52+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
+          "source_count": 1,
           "observed_days": 1
         }
       ]
@@ -1075,8 +458,8 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-22T15:23:06+00:00",
-    "total": 2631,
+    "end": "2026-11-22T21:49:51+00:00",
+    "total": 2657,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
@@ -1092,6 +475,22 @@
         ],
         "source_count": 2,
         "observed_days": 12
+      },
+      {
+        "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+        "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+        "date": "2026-11-20T20:59:08+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发",
+          "科技"
+        ],
+        "sources": [
+          "Ars Technica",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 3
       },
       {
         "title": "Microsoft says services fully restored after day-long global outage",
@@ -1157,6 +556,38 @@
         "observed_days": 3
       },
       {
+        "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+        "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+        "date": "2026-11-22T12:07:41+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发",
+          "科技"
+        ],
+        "sources": [
+          "Ars Technica",
+          "Hacker News"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
+        "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+        "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
+        "date": "2026-11-22T07:12:41+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
         "title": "FBI reportedly investigating apparent hack of its criminal database",
         "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
         "date": "2026-11-21T09:34:20+00:00",
@@ -1168,22 +599,6 @@
         "sources": [
           "BBC World",
           "Hacker News"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
-        "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-        "date": "2026-11-20T20:59:08+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发",
-          "科技"
-        ],
-        "sources": [
-          "Ars Technica",
-          "Lobsters"
         ],
         "source_count": 2,
         "observed_days": 2
@@ -1203,42 +618,38 @@
         ],
         "source_count": 2,
         "observed_days": 2
-      },
-      {
-        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-        "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
-        "date": "2026-11-20T17:49:48+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-        "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
-        "date": "2026-11-17T22:34:41+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 2
       }
     ],
     "by_category": {
       "AI": [
+        {
+          "title": "A human liver has been kept alive outside the body for a record seven weeks",
+          "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+          "date": "2026-11-19T12:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 5
+        },
+        {
+          "title": "What a billion-dollar deal says about the US battery market",
+          "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+          "date": "2026-11-19T11:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 5
+        },
         {
           "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
           "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
@@ -1282,23 +693,9 @@
           "observed_days": 5
         },
         {
-          "title": "A human liver has been kept alive outside the body for a record seven weeks",
-          "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
-          "date": "2026-11-19T12:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 4
-        },
-        {
-          "title": "What a billion-dollar deal says about the US battery market",
-          "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
-          "date": "2026-11-19T11:00:00+00:00",
+          "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+          "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+          "date": "2026-11-19T13:10:00+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -1364,20 +761,6 @@
           ],
           "source_count": 1,
           "observed_days": 4
-        },
-        {
-          "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-          "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-          "date": "2026-11-06T10:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 4
         }
       ],
       "开发": [
@@ -1397,6 +780,22 @@
           "observed_days": 12
         },
         {
+          "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+          "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+          "date": "2026-11-20T20:59:08+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 3
+        },
+        {
           "title": "Pratt parsing is a black box",
           "link": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
           "date": "2026-11-01T17:41:53+00:00",
@@ -1412,6 +811,22 @@
           "observed_days": 3
         },
         {
+          "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+          "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "date": "2026-11-22T12:07:41+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "FBI reportedly investigating apparent hack of its criminal database",
           "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
           "date": "2026-11-21T09:34:20+00:00",
@@ -1423,22 +838,6 @@
           "sources": [
             "BBC World",
             "Hacker News"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
-          "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-          "date": "2026-11-20T20:59:08+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发",
-            "科技"
-          ],
-          "sources": [
-            "Ars Technica",
-            "Lobsters"
           ],
           "source_count": 2,
           "observed_days": 2
@@ -1517,21 +916,6 @@
           ],
           "source_count": 2,
           "observed_days": 2
-        },
-        {
-          "title": "Advice for the next 100 Rust GUIs",
-          "link": "https://linebender.org/blog/next-100-guis/",
-          "date": "2026-11-21T21:17:53+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 1
         }
       ],
       "科技": [
@@ -1549,7 +933,37 @@
             "Lobsters"
           ],
           "source_count": 2,
+          "observed_days": 3
+        },
+        {
+          "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+          "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "date": "2026-11-22T12:07:41+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "本周看什么 | 最近值得一看的 10 部作品",
+          "link": "https://sspai.com/post/118999",
+          "date": "2026-11-13T09:39:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 7
         },
         {
           "title": "派评 | 近期值得关注的 App",
@@ -1566,9 +980,9 @@
           "observed_days": 7
         },
         {
-          "title": "本周看什么 | 最近值得一看的 10 部作品",
-          "link": "https://sspai.com/post/118999",
-          "date": "2026-11-13T09:39:22+00:00",
+          "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+          "link": "https://sspai.com/post/119327",
+          "date": "2026-11-20T07:34:26+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -1577,7 +991,21 @@
             "少数派"
           ],
           "source_count": 1,
-          "observed_days": 6
+          "observed_days": 4
+        },
+        {
+          "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
+          "link": "https://sspai.com/post/118879",
+          "date": "2026-11-20T02:47:52+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 4
         },
         {
           "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
@@ -1634,51 +1062,23 @@
           ],
           "source_count": 1,
           "observed_days": 4
-        },
-        {
-          "title": "iPhone 变强了，但我没有",
-          "link": "https://sspai.com/post/118250",
-          "date": "2026-11-06T06:56:41+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 4
-        },
-        {
-          "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
-          "link": "https://sspai.com/post/118570",
-          "date": "2026-11-06T03:06:53+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 4
-        },
-        {
-          "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
-          "link": "https://www.ifanr.com/1690596",
-          "date": "2026-11-20T10:39:47+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
-          ],
-          "source_count": 1,
-          "observed_days": 3
         }
       ],
       "科研": [
+        {
+          "title": "Lifting weights reduces muscle loss from obesity drugs",
+          "link": "https://www.nature.com/articles/d41586-026-03751-3",
+          "date": "2026-11-20T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 4
+        },
         {
           "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
           "link": "https://www.nature.com/articles/d41586-026-03590-2",
@@ -1694,8 +1094,36 @@
           "observed_days": 3
         },
         {
-          "title": "Lifting weights reduces muscle loss from obesity drugs",
-          "link": "https://www.nature.com/articles/d41586-026-03751-3",
+          "title": "How AI is affecting science careers",
+          "link": "https://www.nature.com/articles/d41586-026-03680-1",
+          "date": "2026-11-20T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Fraud helps little fire ants to survive and conquer",
+          "link": "https://www.nature.com/articles/d41586-026-03776-8",
+          "date": "2026-11-20T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Briefing Chat: Voyager 1 is now one ‘light day’ from Earth — setting a cosmic record",
+          "link": "https://www.nature.com/articles/d41586-026-03806-5",
           "date": "2026-11-20T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
@@ -1776,48 +1204,6 @@
           ],
           "source_count": 1,
           "observed_days": 3
-        },
-        {
-          "title": "Common forever chemicals linked to nearly double the rate of aggressive breast cancer",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261112025527.htm",
-          "date": "2026-11-12T09:34:53+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
-          "date": "2026-11-11T09:43:55+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "Preprint platform offers to pay researchers to review papers, but questions remain",
-          "link": "https://www.nature.com/articles/d41586-026-03442-z",
-          "date": "2026-11-06T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 3
         }
       ],
       "综合": [
@@ -1868,6 +1254,22 @@
           ],
           "source_count": 2,
           "observed_days": 3
+        },
+        {
+          "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+          "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
+          "date": "2026-11-22T07:12:41+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
         },
         {
           "title": "FBI reportedly investigating apparent hack of its criminal database",
@@ -1964,22 +1366,6 @@
           ],
           "source_count": 2,
           "observed_days": 2
-        },
-        {
-          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-          "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
-          "date": "2026-11-10T01:22:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 2
         }
       ],
       "财经": [
@@ -2030,6 +1416,22 @@
           ],
           "source_count": 2,
           "observed_days": 3
+        },
+        {
+          "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+          "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
+          "date": "2026-11-22T07:12:41+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 2
         },
         {
           "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
@@ -2115,22 +1517,6 @@
           "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
           "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
           "date": "2026-11-10T01:22:10+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合",
-            "财经"
-          ],
-          "sources": [
-            "BBC Business",
-            "BBC World"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o",
-          "date": "2026-11-03T16:19:29+00:00",
           "date_is_observed": false,
           "categories": [
             "综合",
