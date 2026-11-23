@@ -1,123 +1,126 @@
 {
-  "updated": "2026-11-22T21:49:51+00:00",
+  "updated": "2026-11-23T02:49:39+00:00",
   "leetcode": {
-    "date": "2026-11-22",
-    "id": "2124",
-    "title": "Check if All A's Appears Before All B's",
-    "titleEn": "Check if All A's Appears Before All B's",
-    "slug": "check-if-all-as-appears-before-all-bs",
-    "difficulty": "Easy",
+    "date": "2026-11-23",
+    "id": "1352",
+    "title": "Product of the Last K Numbers",
+    "titleEn": "Product of the Last K Numbers",
+    "slug": "product-of-the-last-k-numbers",
+    "difficulty": "Medium",
     "tags": [
-      "String"
+      "Array",
+      "Math",
+      "Design",
+      "Data Stream"
     ],
-    "link": "https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/",
+    "link": "https://leetcode.com/problems/product-of-the-last-k-numbers/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Mairzy Doates",
-    "text": "Mairzy Doates was an American Thoroughbred racehorse and multiple graded stakes winner, most remembered for her victory at the inaugural Japan Cup in 1981. Owned by New York City art dealer Arno D. Schefler and trained primarily by future U.S. Racing Hall of Fame inductee Horatio Luro, she competed successfully across the United States from 1978 to 1981, including winning the Yerba Buena Handicap twice.",
-    "words": 65,
-    "url": "https://en.wikipedia.org/wiki/Mairzy_Doates",
-    "date": "2026-11-22",
+    "title": "Ice Warrior",
+    "text": "The Ice Warriors are a fictional extraterrestrial race of reptilian humanoids in the British science fiction television series Doctor Who. Natives of Mars, the Ice Warriors wear bio-mechanical armour to protect themselves from attack and temperature fluctuations. In their debut, the 1967 serial The Ice Warriors, they fought the Second Doctor. Two years later, they reappeared in The Seeds of Death. In 1972's The Curse of Peladon, they were allied with the Doctor, reverting to antagonists in The Monster of Peladon two years later. The Ice Warriors did not appear again on-screen until the show's 2005 revival series in the episode \"Cold War\" (2013), followed by the 2017 episode \"Empress of Mars\". They have also appeared in spin-off media for the series.",
+    "words": 122,
+    "url": "https://en.wikipedia.org/wiki/Ice_Warrior",
+    "date": "2026-11-23",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "[Home movie: 098756: to Europe by ship, 1940s, a landslide rescue in southern Europe]",
+    "title": "Home Movie: 098776",
     "creator": "",
     "year": "",
-    "url": "https://archive.org/download/098756/098756.mp4",
-    "page": "https://archive.org/details/098756",
-    "date": "2026-11-22",
+    "url": "https://archive.org/download/205423_Home_Movie_098776/205423_Home_Movie_098776_master.intros.mp4",
+    "page": "https://archive.org/details/205423_Home_Movie_098776",
+    "date": "2026-11-23",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Richard Ramirez/XV Parówek - split [xvp26]",
-      "artist": "",
-      "url": "https://archive.org/download/xvp26/ramirez_track.mp3",
-      "page": "https://archive.org/details/xvp26",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/deed-music"
-    },
-    {
-      "title": "Marshall Watson - Live 18th July 2004 [hpa0007]",
-      "artist": "",
-      "url": "https://archive.org/download/hpa0007/marshallwatson_live_071804.mp3",
-      "page": "https://archive.org/details/hpa0007",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "[deepx155] - Mark Meino - Mashine 500",
-      "artist": "Deep-X Recordings",
-      "url": "https://archive.org/download/deepx155/deepx155-01_-_Mark_Meino_-_Die_Tiefe_Furt.mp3",
-      "page": "https://archive.org/details/deepx155",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "Cacofonia Cerebral",
-      "artist": "Neurus Meyer",
-      "url": "https://archive.org/download/grhk003/01-Nuevacuosa.mp3",
-      "page": "https://archive.org/details/grhk003",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
-    },
-    {
-      "title": "(SW32) Dr. NoiseM - Studio Works 32",
-      "artist": "Dr. NoiseM Tapes",
-      "url": "https://archive.org/download/dr.-noisem-studio-works-32/01.%20Dr.%20NoiseM%20-%20Christmas%20Phase.mp3",
-      "page": "https://archive.org/details/dr.-noisem-studio-works-32",
+      "title": "Taker 51 - The Spacial One Comeback Special [2022]",
+      "artist": "Taker 51",
+      "url": "https://archive.org/download/taker-51-the-spacial-one-comeback-special-2022/01%20Besessenheit.mp3",
+      "page": "https://archive.org/details/taker-51-the-spacial-one-comeback-special-2022",
       "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
-      "title": "3pr(iii)13ses",
-      "artist": "David Oppetit, Vincent Pourchaire, MZ-N710",
-      "url": "https://archive.org/download/earsheltering122/02%20-%20Vincent%20Pourchaire%20-%20Ambiance%20foresti%C3%A8re.mp3",
-      "page": "https://archive.org/details/earsheltering122",
-      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-    },
-    {
-      "title": "digital Phlow: 60 Minuten mit mo.",
-      "artist": "mo.",
-      "url": "https://archive.org/download/dp_004/dp004-60_minuten_mit_mo_hifi.mp3",
-      "page": "https://archive.org/details/dp_004",
+      "title": "Compound Fracture - Amnesia Noxide",
+      "artist": "Compound Fracture",
+      "url": "https://archive.org/download/CompoundFracture-AmnesiaNoxide/01%20Amnesia%20Noxide.mp3",
+      "page": "https://archive.org/details/CompoundFracture-AmnesiaNoxide",
       "license": "Creative Commons"
     },
     {
-      "title": "Chenard Haut-Le-Coeur [fsz006]",
-      "artist": "Chenard Walcker",
-      "url": "https://archive.org/download/fsz006/fsz006_01-chenard-starter.mp3",
-      "page": "https://archive.org/details/fsz006",
+      "title": "(monoKraKpodcast25) Darius (aka Mist) \"The Expulsion Of The Spirit Of Mechanical Dolls\"",
+      "artist": "Darius (aka Mist)",
+      "url": "https://archive.org/download/monoKraKpodcast25DariusakaMistTheExpulsionOfTheSpiritOfMechanicalDolls/%28monoKraKpodcast25%29%20Darius%20%28aka%20Mist%29_The_Expulsion_Of_The_Spirit_Of_Mechanical_Dolls%20.mp3",
+      "page": "https://archive.org/details/monoKraKpodcast25DariusakaMistTheExpulsionOfTheSpiritOfMechanicalDolls",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "Mountain Timeout",
+      "artist": "Mental Health Consumer, Brian Ruskin",
+      "url": "https://archive.org/download/mental-health-consumer_Mountain-Timeout/01_First%20Mountain%20Vista.mp3",
+      "page": "https://archive.org/details/mental-health-consumer_Mountain-Timeout",
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/"
+    },
+    {
+      "title": "Figure - Maintenance EP [hi004]",
+      "artist": "Figure",
+      "url": "https://archive.org/download/heavy-industries004/hi004_01_-_Figure_-_Circuit_Override.mp3",
+      "page": "https://archive.org/details/heavy-industries004",
+      "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
+    },
+    {
+      "title": "NWTWO0283-Domen Gnezda, Achim Seifert & Bojan Krhlanko-The Other Song",
+      "artist": "Domen Gnezda, Achim Seifert & Bojan Krhlanko",
+      "url": "https://archive.org/download/Nwtwo0283-domenGnezdaAchimSeifertBojanKrhlanko-theOtherSong-untitled/Nwtwo0283-domenGnezdaAchimSeifertBojanKrhlanko-theOtherSong.mp3",
+      "page": "https://archive.org/details/Nwtwo0283-domenGnezdaAchimSeifertBojanKrhlanko-theOtherSong-untitled",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+    },
+    {
+      "title": "helmeticronaut - untelling a story [mhrk028]",
+      "artist": "",
+      "url": "https://archive.org/download/mhrk028/mhrk028a_helmeticrononaut_go_away_please_come_again.mp3",
+      "page": "https://archive.org/details/mhrk028",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Line Noise - Aquariant Moon EP [lcd007]",
+      "artist": "Line Noise",
+      "url": "https://archive.org/download/lcd007/aquarius.mp3",
+      "page": "https://archive.org/details/lcd007",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Christian Di Vito - Single 43",
+      "artist": "Christian Di Vito",
+      "url": "https://archive.org/download/tibmp3s43/Christian_Di_Vito_01_Myth_no2.mp3",
+      "page": "https://archive.org/details/tibmp3s43",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "The Autopsy Report Metal Radio Show No 454 - 15th - 21st October 2012",
+      "artist": "Gramie Dee",
+      "url": "https://archive.org/download/GramieDeeTheAutopsyReportMetalRadioShowNo454-15th-21stOctober2012/AR1521Oct12.mp3",
+      "page": "https://archive.org/details/GramieDeeTheAutopsyReportMetalRadioShowNo454-15th-21stOctober2012",
       "license": "http://creativecommons.org/licenses/by-nc/2.5/"
     },
     {
-      "title": "Palo de entre el orto x100pre2006",
-      "artist": "yY",
-      "url": "https://archive.org/download/fri067/01_vbr.mp3",
-      "page": "https://archive.org/details/fri067",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/ar/"
-    },
-    {
-      "title": "telafonica-dj-sets",
-      "artist": "telafonica",
-      "url": "https://archive.org/download/telafonica-dj-sets/MinimalNetlabelismwreckovery17.5.09.mp3",
-      "page": "https://archive.org/details/telafonica-dj-sets",
+      "title": "SLASH DEMENTIA - Split Sessions 2012",
+      "artist": "Slash Dementia",
+      "url": "https://archive.org/download/sd-splitsessions12/01-Umpikuja.mp3",
+      "page": "https://archive.org/details/sd-splitsessions12",
       "license": "Creative Commons"
     },
     {
-      "title": "[YESNO 027] DELAYED DESIRE - Balada Titit Dan Silit",
-      "artist": "Delayed Desire",
-      "url": "https://archive.org/download/yesno027/Alat_Vital_Terbelah_Jadi_Dua_vbr.mp3",
-      "page": "https://archive.org/details/yesno027",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
-    },
-    {
-      "title": "[YESNO 095] VARIOUS ARTISTS \"LUDU HUMBA\"",
+      "title": "Christian Di Vito - Oak Wilt Program",
       "artist": "",
-      "url": "https://archive.org/download/yesno095/01%20Ata%20Ratu%20-%20Jaka%20Ninya%20Na%20Pambaili.mp3",
-      "page": "https://archive.org/details/yesno095",
-      "license": "https://creativecommons.org/licenses/by-nc/4.0/"
+      "url": "https://archive.org/download/tibmp3a37/Christian_Di_Vito_01_Eyelid.mp3",
+      "page": "https://archive.org/details/tibmp3a37",
+      "license": "Creative Commons"
     }
   ]
 }

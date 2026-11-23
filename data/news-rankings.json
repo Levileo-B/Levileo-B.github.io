@@ -1,73 +1,17 @@
 {
-  "generated_at": "2026-11-22T21:49:51+00:00",
-  "updated": "2026-11-22T21:49:51+00:00",
+  "generated_at": "2026-11-23T02:49:39+00:00",
+  "updated": "2026-11-23T02:49:39+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-23T00:00:00+08:00",
-    "end": "2026-11-22T21:49:51+00:00",
-    "total": 23,
+    "end": "2026-11-23T02:49:39+00:00",
+    "total": 45,
     "items": [
       {
-        "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
-        "link": "https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114",
-        "date": "2026-11-22T21:07:11+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Type 2 diabetes linked to 53% higher Alzheimer’s risk, major review finds",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261121221124.htm",
-        "date": "2026-11-22T20:57:35+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科研"
-        ],
-        "sources": [
-          "ScienceDaily"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "AWS got hit by an outage too. You didn't hear about it",
-        "link": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
-        "date": "2026-11-22T20:50:18+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "A miniature San Francisco with live buses, planes and boats",
-        "link": "https://smallsf.com/",
-        "date": "2026-11-22T20:33:23+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[随想] 我现在对 AI 有两个自相矛盾的想法，希望大家帮忙分析一下",
-        "link": "https://www.v2ex.com/t/1258979",
-        "date": "2026-11-22T20:31:08+00:00",
+        "title": "[问与答] 哪种 plugin scope 你更喜欢：global, or vault specific?",
+        "link": "https://www.v2ex.com/t/1259047",
+        "date": "2026-11-23T02:48:49+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -79,37 +23,9 @@
         "observed_days": 1
       },
       {
-        "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-        "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
-        "date": "2026-11-22T20:28:09+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC World"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "Nyx, the Oldest Internet Service Provider",
-        "link": "https://nyx.net/",
-        "date": "2026-11-22T20:15:59+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "开发"
-        ],
-        "sources": [
-          "Hacker News"
-        ],
-        "source_count": 1,
-        "observed_days": 1
-      },
-      {
-        "title": "[程序员] 提醒：macOS 更新不会升级 Python 的 certifi",
-        "link": "https://www.v2ex.com/t/1258978",
-        "date": "2026-11-22T20:12:49+00:00",
+        "title": "[推广] 长期出 CC\\GPT\\GM 御三家成品号、代充，Gmail 老号",
+        "link": "https://www.v2ex.com/t/1259045",
+        "date": "2026-11-23T02:47:31+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -121,9 +37,9 @@
         "observed_days": 1
       },
       {
-        "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
-        "link": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
-        "date": "2026-11-22T19:54:08+00:00",
+        "title": "We haven’t seen the last of the major tech outages",
+        "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+        "date": "2026-11-23T02:41:02+00:00",
         "date_is_observed": false,
         "categories": [
           "科技"
@@ -135,9 +51,51 @@
         "observed_days": 1
       },
       {
-        "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
-        "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
-        "date": "2026-11-22T19:51:46+00:00",
+        "title": "[问与答] 朋友送了个拓竹 P1S，打了一下午，感觉没啥玩的了",
+        "link": "https://www.v2ex.com/t/1259041",
+        "date": "2026-11-23T02:40:41+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[推广] OnDemand Agent 更新：Claude 交付稳定，继续找人测试",
+        "link": "https://www.v2ex.com/t/1259040",
+        "date": "2026-11-23T02:39:44+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "[情感] 恋爱六年，最近意外对别人动了真心，坦白后，现在无比痛苦",
+        "link": "https://www.v2ex.com/t/1259038",
+        "date": "2026-11-23T02:32:31+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "V2EX"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+        "link": "https://spelunkr.tv/",
+        "date": "2026-11-23T01:13:51+00:00",
         "date_is_observed": false,
         "categories": [
           "开发"
@@ -147,56 +105,56 @@
         ],
         "source_count": 1,
         "observed_days": 1
+      },
+      {
+        "title": "Energy bills will soar - here's how you can ease the pain",
+        "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o",
+        "date": "2026-11-23T01:05:07+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "财经"
+        ],
+        "sources": [
+          "BBC Business"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "What we learned operating auth for 1k APIs",
+        "link": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+        "date": "2026-11-23T01:01:11+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News"
+        ],
+        "source_count": 1,
+        "observed_days": 1
+      },
+      {
+        "title": "华为OSTA星芒 O1 Pro 评测：一台真正为 AI 而生的鸿蒙手机",
+        "link": "https://www.ifanr.com/1690613",
+        "date": "2026-11-23T00:57:34+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "科技"
+        ],
+        "sources": [
+          "爱范儿"
+        ],
+        "source_count": 1,
+        "observed_days": 1
       }
     ],
     "by_category": {
       "开发": [
         {
-          "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
-          "link": "https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114",
-          "date": "2026-11-22T21:07:11+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "AWS got hit by an outage too. You didn't hear about it",
-          "link": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
-          "date": "2026-11-22T20:50:18+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "A miniature San Francisco with live buses, planes and boats",
-          "link": "https://smallsf.com/",
-          "date": "2026-11-22T20:33:23+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[随想] 我现在对 AI 有两个自相矛盾的想法，希望大家帮忙分析一下",
-          "link": "https://www.v2ex.com/t/1258979",
-          "date": "2026-11-22T20:31:08+00:00",
+          "title": "[问与答] 哪种 plugin scope 你更喜欢：global, or vault specific?",
+          "link": "https://www.v2ex.com/t/1259047",
+          "date": "2026-11-23T02:48:49+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -208,9 +166,65 @@
           "observed_days": 1
         },
         {
-          "title": "Nyx, the Oldest Internet Service Provider",
-          "link": "https://nyx.net/",
-          "date": "2026-11-22T20:15:59+00:00",
+          "title": "[推广] 长期出 CC\\GPT\\GM 御三家成品号、代充，Gmail 老号",
+          "link": "https://www.v2ex.com/t/1259045",
+          "date": "2026-11-23T02:47:31+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[问与答] 朋友送了个拓竹 P1S，打了一下午，感觉没啥玩的了",
+          "link": "https://www.v2ex.com/t/1259041",
+          "date": "2026-11-23T02:40:41+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[推广] OnDemand Agent 更新：Claude 交付稳定，继续找人测试",
+          "link": "https://www.v2ex.com/t/1259040",
+          "date": "2026-11-23T02:39:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[情感] 恋爱六年，最近意外对别人动了真心，坦白后，现在无比痛苦",
+          "link": "https://www.v2ex.com/t/1259038",
+          "date": "2026-11-23T02:32:31+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+          "link": "https://spelunkr.tv/",
+          "date": "2026-11-23T01:13:51+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -222,23 +236,9 @@
           "observed_days": 1
         },
         {
-          "title": "[程序员] 提醒：macOS 更新不会升级 Python 的 certifi",
-          "link": "https://www.v2ex.com/t/1258978",
-          "date": "2026-11-22T20:12:49+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
-          "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
-          "date": "2026-11-22T19:51:46+00:00",
+          "title": "What we learned operating auth for 1k APIs",
+          "link": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+          "date": "2026-11-23T01:01:11+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -250,49 +250,119 @@
           "observed_days": 1
         },
         {
-          "title": "[Claude] 一朋友 提出的关于稳定访问 Claude 的设想",
-          "link": "https://www.v2ex.com/t/1258977",
-          "date": "2026-11-22T18:56:03+00:00",
+          "title": "Nespresso's project to reduce grams of coffee per capsule",
+          "link": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+          "date": "2026-11-22T23:57:45+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "V2EX"
+            "Hacker News"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "[分享创造] [开源] 想让闲置的 Windows 电脑重新上桌，我做了 Pierdesk",
-          "link": "https://www.v2ex.com/t/1258976",
-          "date": "2026-11-22T17:28:06+00:00",
+          "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+          "link": "https://0rwx.com/",
+          "date": "2026-11-22T23:53:00+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "V2EX"
+            "Hacker News"
           ],
           "source_count": 1,
           "observed_days": 1
         },
         {
-          "title": "[推广] 做了一个服装参考图库：1000+ 套写实穿搭，还能把照片转成线稿来临摹",
-          "link": "https://www.v2ex.com/t/1258975",
-          "date": "2026-11-22T17:26:39+00:00",
+          "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+          "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+          "date": "2026-11-22T23:12:10+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
-            "V2EX"
+            "Hacker News"
           ],
           "source_count": 1,
           "observed_days": 1
         }
       ],
       "科技": [
+        {
+          "title": "We haven’t seen the last of the major tech outages",
+          "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+          "date": "2026-11-23T02:41:02+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "The Verge"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "华为OSTA星芒 O1 Pro 评测：一台真正为 AI 而生的鸿蒙手机",
+          "link": "https://www.ifanr.com/1690613",
+          "date": "2026-11-23T00:57:34+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元",
+          "link": "https://www.ifanr.com/1690857",
+          "date": "2026-11-23T00:25:24+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+          "link": "https://sspai.com/post/119418",
+          "date": "2026-11-22T23:34:27+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "iPhone 18 大更新，明年春天见！但苹果的挑战才刚刚开始",
+          "link": "https://www.ifanr.com/1690832",
+          "date": "2026-11-22T22:19:08+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
         {
           "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
           "link": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
@@ -368,6 +438,48 @@
       ],
       "综合": [
         {
+          "title": "Anthropic公司或許已解決重大數學難題：黎曼猜想",
+          "link": "https://www.bbc.com/zhongwen/articles/cwe85gr487dno/trad",
+          "date": "2026-11-23T00:10:59+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "你的孩子會說謊嗎？這或許並非壞事",
+          "link": "https://www.bbc.com/zhongwen/articles/crvg2lyq7dxvo/trad",
+          "date": "2026-11-23T00:10:13+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "說唱歌手出身尼泊爾新總理首訪印度：如何平衡對華關係",
+          "link": "https://www.bbc.com/zhongwen/articles/c64gn9jl5lveo/trad",
+          "date": "2026-11-23T00:09:54+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
           "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
           "date": "2026-11-22T20:28:09+00:00",
@@ -426,6 +538,34 @@
       ],
       "财经": [
         {
+          "title": "Energy bills will soar - here's how you can ease the pain",
+          "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o",
+          "date": "2026-11-23T01:05:07+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "What is going on with Poundland?",
+          "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o",
+          "date": "2026-11-23T00:22:27+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
           "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
           "date": "2026-11-22T18:55:05+00:00",
@@ -458,8 +598,8 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-22T21:49:51+00:00",
-    "total": 2657,
+    "end": "2026-11-23T02:49:39+00:00",
+    "total": 2679,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
