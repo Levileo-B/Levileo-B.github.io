@@ -1,54 +1,54 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-22T08:50:04.872740+00:00",
-  "attempted_at": "2026-11-22T08:50:04.872740+00:00",
+  "updated": "2026-11-23T09:46:56.539297+00:00",
+  "attempted_at": "2026-11-23T09:46:56.539297+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-11-22T08:50:04.872740+00:00",
+      "last_success": "2026-11-23T09:46:56.539297+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-11-22T08:50:04.872740+00:00",
+      "last_success": "2026-11-23T09:46:56.539297+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-11-22T08:50:04.872740+00:00",
+      "last_success": "2026-11-23T09:46:56.539297+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-11-22T08:50:04.872740+00:00",
+      "last_success": "2026-11-23T09:46:56.539297+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-11-22T08:50:04.872740+00:00",
+      "last_success": "2026-11-23T09:46:56.539297+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-11-22T08:50:04.872740+00:00",
+      "last_success": "2026-11-23T09:46:56.539297+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-11-22T08:50:04.872740+00:00",
+      "last_success": "2026-11-23T09:46:56.539297+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-11-22T08:50:04.872740+00:00",
+      "last_success": "2026-11-23T09:46:56.539297+00:00",
       "errors": []
     }
   ],
@@ -2423,18 +2423,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1016/j.isprsjprs.2026.03.033",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1002/rob.70239",
-      "title": "Dynamic Environment Adaptive Path Planning for Mobile Robots: A Hybrid Enhanced Path‐Planning Approach",
-      "journal_id": "jfr",
-      "published": "2026-05-26",
-      "topics": [
-        "avoidance"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1002/rob.70239",
       "source": "crossref"
     }
   ]
