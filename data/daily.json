@@ -1,126 +1,126 @@
 {
-  "updated": "2026-11-23T12:54:16+00:00",
+  "updated": "2026-11-24T00:56:12+00:00",
   "leetcode": {
-    "date": "2026-11-23",
-    "id": "1352",
-    "title": "Product of the Last K Numbers",
-    "titleEn": "Product of the Last K Numbers",
-    "slug": "product-of-the-last-k-numbers",
-    "difficulty": "Medium",
+    "date": "2026-11-24",
+    "id": "3411",
+    "title": "Maximum Subarray With Equal Products",
+    "titleEn": "Maximum Subarray With Equal Products",
+    "slug": "maximum-subarray-with-equal-products",
+    "difficulty": "Easy",
     "tags": [
       "Array",
       "Math",
-      "Design",
-      "Data Stream"
+      "Sliding Window",
+      "Enumeration"
     ],
-    "link": "https://leetcode.com/problems/product-of-the-last-k-numbers/",
+    "link": "https://leetcode.com/problems/maximum-subarray-with-equal-products/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "Ice Warrior",
-    "text": "The Ice Warriors are a fictional extraterrestrial race of reptilian humanoids in the British science fiction television series Doctor Who. Natives of Mars, the Ice Warriors wear bio-mechanical armour to protect themselves from attack and temperature fluctuations. In their debut, the 1967 serial The Ice Warriors, they fought the Second Doctor. Two years later, they reappeared in The Seeds of Death. In 1972's The Curse of Peladon, they were allied with the Doctor, reverting to antagonists in The Monster of Peladon two years later. The Ice Warriors did not appear again on-screen until the show's 2005 revival series in the episode \"Cold War\" (2013), followed by the 2017 episode \"Empress of Mars\". They have also appeared in spin-off media for the series.",
-    "words": 122,
-    "url": "https://en.wikipedia.org/wiki/Ice_Warrior",
-    "date": "2026-11-23",
+    "title": "Great white shark",
+    "text": "The great white shark, also known as the white shark, white pointer, or great white, is a large shark. It is closely related to the mako sharks, the porbeagle, and the salmon shark. It is a robustly built species with a grayish upperside and a white underside. The white shark is one of the largest living shark and fish species, though it is still smaller than the whale shark and basking shark. It has about three hundred triangular, serrated teeth that are continuously replaced. Its massive, fatty liver can reach over a quarter of its body weight, providing buoyancy and storing energy. The species is partially warm-blooded, an adaptation that allows it to remain active in colder waters.",
+    "words": 118,
+    "url": "https://en.wikipedia.org/wiki/Great_white_shark",
+    "date": "2026-11-24",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Original Films of Frank B. Gilbreth",
+    "title": "[Amateur Film: Roller Skating & Beach]",
     "creator": "",
-    "year": "1945",
-    "url": "https://archive.org/download/0809_Original_Films_of_Frank_B_Gilbreth_02_12_34_00/0809_Original_Films_of_Frank_B_Gilbreth_02_12_34_00.mp4",
-    "page": "https://archive.org/details/0809_Original_Films_of_Frank_B_Gilbreth_02_12_34_00",
-    "date": "2026-11-23",
+    "year": "1960",
+    "url": "https://archive.org/download/Amateur_Film_Roller_Skating_Beach/6034_Amateur_Film_Roller_Skating_Beach_01_09_51_00_3mb.mp4",
+    "page": "https://archive.org/details/Amateur_Film_Roller_Skating_Beach",
+    "date": "2026-11-24",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "Earsheltering - Radioshow # 6 Netlabel Day 2024",
-      "artist": "V/A",
-      "url": "https://archive.org/download/earsheltering_radio6/01_-_earsheltering_-_Netlabel_day_2024.mp3",
-      "page": "https://archive.org/details/earsheltering_radio6",
-      "license": "https://creativecommons.org/licenses/by-sa/4.0/"
+      "title": "East Island - Twilight zone (EarXP10)",
+      "artist": "East Island",
+      "url": "https://archive.org/download/earxp10/01_Where_Is_Everybody.mp3",
+      "page": "https://archive.org/details/earxp10",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/nl/"
     },
     {
-      "title": "[GT361] Consistency Nature - A More Discreet Commedia Dell'Arte",
-      "artist": "Dishdawash Arnett",
-      "url": "https://archive.org/download/gt361ConsistencyNature-AMoreDiscreetCommediaDellarte_260/AMoreDiscreetCommediaDellarte.mp3",
-      "page": "https://archive.org/details/gt361ConsistencyNature-AMoreDiscreetCommediaDellarte_260",
-      "license": "http://creativecommons.org/publicdomain/zero/1.0/"
-    },
-    {
-      "title": "[Crea011] RedSk-Four Armed",
-      "artist": "RedSk",
-      "url": "https://archive.org/download/crea011Redsk-fourArmed/01Redsk-FourArmed.mp3",
-      "page": "https://archive.org/details/crea011Redsk-fourArmed",
+      "title": "Sociophobe",
+      "artist": "The Maagis",
+      "url": "https://archive.org/download/ekleipsi55/1.mp3",
+      "page": "https://archive.org/details/ekleipsi55",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "Dr. NoiseM - The CDr A-B-C: Q",
-      "artist": "Dr. NoiseM Tapes",
-      "url": "https://archive.org/download/dr.-noisem-the-cdr-a-b-c-q/Dr.%20NoiseM%20-%20Q.mp3",
-      "page": "https://archive.org/details/dr.-noisem-the-cdr-a-b-c-q",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "Poets and Pasties - November 2008",
-      "artist": "Andy N",
-      "url": "https://archive.org/download/poetsandpastiesnov08/01andynintroductionpoemtopoetsandpasties_vbr.mp3",
-      "page": "https://archive.org/details/poetsandpastiesnov08",
+      "title": "Koroiev - Hechos tocantes al joven Kostia Bogomov. Moradores del Otro Mundo [ill059]",
+      "artist": "Koroiev",
+      "url": "https://archive.org/download/ill059/01%20-%20Koroiev%20-%20El%20Bosque%20Errante.%20El%20Tej%C3%B3n%20Es%20El%20Centinela.mp3",
+      "page": "https://archive.org/details/ill059",
       "license": "Creative Commons"
     },
     {
-      "title": "DJ PulseID's Netlabel Music PodCast no.5 [ponmp005]",
-      "artist": "DJ PulseID",
-      "url": "https://archive.org/download/ponmp005/Podcast-005-2011.mp3",
-      "page": "https://archive.org/details/ponmp005",
+      "title": "Christian Di Vito - Oak Wilt Program",
+      "artist": "",
+      "url": "https://archive.org/download/tibmp3a37/Christian_Di_Vito_01_Eyelid.mp3",
+      "page": "https://archive.org/details/tibmp3a37",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "27/06/05 (idmix13)",
+      "artist": "jm_",
+      "url": "https://archive.org/download/idmix13/idmix13-270605.mp3",
+      "page": "https://archive.org/details/idmix13",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Wasteland",
+      "artist": "",
+      "url": "https://archive.org/download/ij09Wasteland/01_Fallout_New_Vegas_Goodsprings_Wasteland_Day_Remix.mp3",
+      "page": "https://archive.org/details/ij09Wasteland",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "(SW32) Dr. NoiseM - Studio Works 32",
-      "artist": "Dr. NoiseM Tapes",
-      "url": "https://archive.org/download/dr.-noisem-studio-works-32/01.%20Dr.%20NoiseM%20-%20Christmas%20Phase.mp3",
-      "page": "https://archive.org/details/dr.-noisem-studio-works-32",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "[slnz.a003] Minimono - Minibasic",
+      "artist": "Minimono",
+      "url": "https://archive.org/download/silenzio_005/Ausbasic.mp3",
+      "page": "https://archive.org/details/silenzio_005",
+      "license": "Creative Commons"
     },
     {
-      "title": "V/A - Dreamcore Music vol.2",
-      "artist": "Internet Daemon Netlabel",
-      "url": "https://archive.org/download/dreamcore-music-ii/01%20-%20Filmy%20Ghost%20-%20Carol%20Anne%20Playing%20with%20her%20Toys.mp3",
-      "page": "https://archive.org/details/dreamcore-music-ii",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      "title": "hw039_midimode_-_midimusicbox_ep_(2009)",
+      "artist": "Midimode",
+      "url": "https://archive.org/download/hw039/01_Midimode_-_Barcelona.mp3",
+      "page": "https://archive.org/details/hw039",
+      "license": "https://creativecommons.org/licenses/by-nd/4.0/"
     },
     {
-      "title": "[GT563] deafness - Evil Girl",
-      "artist": "Mad God",
-      "url": "https://archive.org/download/gt563Deafness-EvilGirl/1.M.b_mn.mp3",
-      "page": "https://archive.org/details/gt563Deafness-EvilGirl",
+      "title": "Granular experiments 2019, Part 5",
+      "artist": "Lucas Darklord",
+      "url": "https://archive.org/download/granular_part5/granny07.1.mp3",
+      "page": "https://archive.org/details/granular_part5",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "title": "[GT045] Vziel Projet - obscurity3",
+      "artist": "Vziel",
+      "url": "https://archive.org/download/gt045VzielProjet-Obscurity3/Untitled.mp3",
+      "page": "https://archive.org/details/gt045VzielProjet-Obscurity3",
       "license": "http://creativecommons.org/publicdomain/zero/1.0/"
     },
     {
-      "title": "[GT321] ПессиОптимизм - ПессиОптимизм (Metal Version)",
-      "artist": "PessiOptimism",
-      "url": "https://archive.org/download/gt321-metalVersion/1.metalVersion.mp3",
-      "page": "https://archive.org/details/gt321-metalVersion",
-      "license": "http://creativecommons.org/publicdomain/zero/1.0/"
-    },
-    {
-      "title": "Windom Earle - The Things I Do For Girls [polygon006]",
-      "artist": "Windom Earle",
-      "url": "https://archive.org/download/polygon006/01-windom_earle-ttidfg-you_cant_dance_to_dreams.mp3",
-      "page": "https://archive.org/details/polygon006",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.0/"
-    },
-    {
-      "title": "[GT183] Ð/Ð - ÐÐºÑÐ¿Ð»ÑÐ°ÑÐ°ÑÐ¸Ñ",
+      "title": "[GT198] Ð/Ð - ÐÐ¾Ð´ÐµÐ»Ñ",
       "artist": "P/N",
-      "url": "https://archive.org/download/gt183-/1.Intromn.mp3",
-      "page": "https://archive.org/details/gt183-",
+      "url": "https://archive.org/download/gt198-/0190intro.mp3",
+      "page": "https://archive.org/details/gt198-",
       "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "title": "The Cult of Power",
+      "artist": "Nordafjell",
+      "url": "https://archive.org/download/ekleipsi53/1.mp3",
+      "page": "https://archive.org/details/ekleipsi53",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     }
   ]
 }
