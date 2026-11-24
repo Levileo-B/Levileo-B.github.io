@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T00:56:11+00:00",
+  "updated": "2026-11-24T10:59:40+00:00",
   "sources": [
     {
       "name": "BBC 中文",
@@ -7,24 +7,24 @@
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "items": [
         {
+          "title": "宏福苑大火一周年：居民受壓、媒體噤聲，為何悼念變得小心翼翼？",
+          "link": "https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-24T10:13:23+00:00"
+        },
+        {
           "title": "Nvidia和黃仁勳對美國經濟有多重要？",
           "link": "https://www.bbc.com/zhongwen/articles/cvwy0jx7nj84o/trad?at_medium=RSS&at_campaign=rss",
           "date": "2026-11-24T00:24:02+00:00"
         },
         {
-          "title": "為何黃仁勳大到不能被解僱？",
-          "link": "https://www.bbc.com/zhongwen/articles/c6qx5eqgg0rwo/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-23T19:19:55+00:00"
+          "title": "Nvidia醜聞：美國將Megaspeed列入黑名單",
+          "link": "https://www.bbc.com/zhongwen/articles/c804wekz407ko/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-24T08:29:33+00:00"
         },
         {
-          "title": "黃仁勳的崛起、殞落與東山再起",
-          "link": "https://www.bbc.com/zhongwen/articles/cm3wgp60p952o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-23T19:16:45+00:00"
-        },
-        {
-          "title": "美國六成AI風投資金湧入舊金山，但崩盤憂慮日益加深",
-          "link": "https://www.bbc.com/zhongwen/articles/cmlyj36xxek1o/trad?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-24T00:24:39+00:00"
+          "title": "伊朗女歌手演出不戴頭巾「已遭執行74鞭笞刑」",
+          "link": "https://www.bbc.com/zhongwen/articles/cxzd9y2gre3lo/trad?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-24T02:19:54+00:00"
         },
         {
           "title": "我們如何知道疫苗安全？它們是如何經過測試？",
@@ -39,29 +39,29 @@
       "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "items": [
         {
-          "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-          "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-23T23:16:08+00:00"
+          "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+          "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-24T10:53:37+00:00"
         },
         {
-          "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-23T15:41:23+00:00"
+          "title": "What Jensen Huang's return teaches China's Xi about Trump",
+          "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-24T07:26:27+00:00"
+        },
+        {
+          "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+          "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-24T10:58:51+00:00"
+        },
+        {
+          "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-24T05:33:07+00:00"
         },
         {
           "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
           "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
           "date": "2026-11-23T20:48:35+00:00"
-        },
-        {
-          "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
-          "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-23T18:04:20+00:00"
-        },
-        {
-          "title": "What failure of COP31 reveals about a divided world",
-          "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-23T17:24:25+00:00"
         }
       ]
     },
@@ -71,9 +71,19 @@
       "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
       "items": [
         {
-          "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+          "title": "The shake-up facing renters as a new kind of landlord emerges",
+          "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-24T00:28:48+00:00"
+        },
+        {
+          "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+          "link": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-24T00:11:08+00:00"
+        },
+        {
+          "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
           "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-23T23:10:27+00:00"
+          "date": "2026-11-24T10:53:37+00:00"
         },
         {
           "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
@@ -81,19 +91,9 @@
           "date": "2026-11-23T17:11:58+00:00"
         },
         {
-          "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-          "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-23T21:23:42+00:00"
-        },
-        {
-          "title": "How important are Nvidia and Jensen Huang to the US economy?",
-          "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-23T16:12:35+00:00"
-        },
-        {
-          "title": "The rise and fall and rise again of Jensen Huang",
-          "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-          "date": "2026-11-23T15:49:52+00:00"
+          "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+          "link": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+          "date": "2026-11-24T00:01:04+00:00"
         }
       ]
     },
@@ -103,29 +103,29 @@
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
       "items": [
         {
-          "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
-          "link": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
-          "date": "2026-11-23T22:43:38+00:00"
-        },
-        {
-          "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
-          "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
-          "date": "2026-11-23T21:00:59+00:00"
-        },
-        {
-          "title": "Nvidia partner and supplier stocks in Asia jump after Jensen Huang's return",
-          "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
-          "date": "2026-11-24T00:53:29+00:00"
-        },
-        {
-          "title": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
-          "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
-          "date": "2026-11-23T20:22:49+00:00"
+          "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+          "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+          "date": "2026-11-24T07:12:33+00:00"
         },
         {
           "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
           "link": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
           "date": "2026-11-23T21:02:17+00:00"
+        },
+        {
+          "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
+          "link": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
+          "date": "2026-11-24T10:50:26+00:00"
+        },
+        {
+          "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+          "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+          "date": "2026-11-24T10:56:56+00:00"
+        },
+        {
+          "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+          "link": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+          "date": "2026-11-24T05:05:08+00:00"
         }
       ]
     },
@@ -135,29 +135,29 @@
       "url": "https://sspai.com/feed",
       "items": [
         {
+          "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
+          "link": "https://sspai.com/post/119492",
+          "date": "2026-11-24T09:14:11+00:00"
+        },
+        {
+          "title": "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔",
+          "link": "https://sspai.com/post/119035",
+          "date": "2026-11-24T07:38:42+00:00"
+        },
+        {
+          "title": "写在动荡之后：漫步巴黎的寻常一日",
+          "link": "https://sspai.com/post/119412",
+          "date": "2026-11-24T03:03:10+00:00"
+        },
+        {
+          "title": "派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等",
+          "link": "https://sspai.com/post/119460",
+          "date": "2026-11-24T00:37:31+00:00"
+        },
+        {
           "title": "派评 | 近期值得关注的 App",
           "link": "https://sspai.com/post/119438",
           "date": "2026-11-23T10:08:29+00:00"
-        },
-        {
-          "title": "怪手机们要回来了吗？",
-          "link": "https://sspai.com/prime/story/weird-phones-are-returning",
-          "date": "2026-11-23T10:00:30+00:00"
-        },
-        {
-          "title": "养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验",
-          "link": "https://sspai.com/post/119023",
-          "date": "2026-11-23T07:12:24+00:00"
-        },
-        {
-          "title": "新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」",
-          "link": "https://sspai.com/post/118705",
-          "date": "2026-11-23T06:00:53+00:00"
-        },
-        {
-          "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
-          "link": "https://sspai.com/post/119418",
-          "date": "2026-11-22T23:34:27+00:00"
         }
       ]
     },
@@ -167,29 +167,29 @@
       "url": "https://www.ifanr.com/feed",
       "items": [
         {
-          "title": "早报｜黄仁勋回归，英伟达股价一夜暴涨31%/《复仇者联盟5》发布终极预告/3399起，荣耀700系列发布",
-          "link": "https://www.ifanr.com/1691119?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-11-24T00:02:01+00:00"
+          "title": "华为发布了大折叠手机和小折叠电脑，但 1 亿鸿蒙设备才是最大的亮点",
+          "link": "https://www.ifanr.com/1691302?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-11-24T10:30:04+00:00"
         },
         {
-          "title": "刚刚，黄仁勋重返英伟达！董事会全票通过，盘前大涨 30%",
-          "link": "https://www.ifanr.com/1691103?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-11-23T14:50:12+00:00"
+          "title": "在一个长期相信考试可以改变命运的社会里，AI 已经开始动摇人们对成绩的信任",
+          "link": "https://www.ifanr.com/1691270?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-11-24T09:09:14+00:00"
         },
         {
-          "title": "突发！黄仁勋恢复英伟达 CEO 职位，董事会全票通过",
-          "link": "https://www.ifanr.com/1691096?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-11-23T14:30:00+00:00"
+          "title": "「试用期」已到，苹果开始给 AI 收费了 | AG&I",
+          "link": "https://www.ifanr.com/1691186?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-11-24T05:55:23+00:00"
         },
         {
-          "title": "AI 降本增笑，全世界都在被迫接受审美大降级",
-          "link": "https://www.ifanr.com/1691079?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-11-23T09:53:48+00:00"
+          "title": "iPhone 相机掌门人退休：他把「果味」做成标杆，也制造了争议",
+          "link": "https://www.ifanr.com/1691162?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-11-24T05:40:49+00:00"
         },
         {
-          "title": "自变量发布 WALL-API-1.0，主流榜单超越 Astra，扛起具身智能「预训练」的大旗",
-          "link": "https://www.ifanr.com/1691043?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "date": "2026-11-23T08:55:14+00:00"
+          "title": "刚刚，Claude 黎曼猜想证明的主导者回应一切",
+          "link": "https://www.ifanr.com/1691152?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "date": "2026-11-24T02:10:19+00:00"
         }
       ]
     },
@@ -199,29 +199,29 @@
       "url": "https://www.solidot.org/index.rss",
       "items": [
         {
+          "title": "索尼称逾 3900 万玩家玩过了 GTA6",
+          "link": "https://www.solidot.org/story?sid=85976",
+          "date": "2026-11-24T09:04:43+00:00"
+        },
+        {
+          "title": "解剖 Tor 协议",
+          "link": "https://www.solidot.org/story?sid=85974",
+          "date": "2026-11-24T08:02:16+00:00"
+        },
+        {
+          "title": "Google 申请专利为用户量身定制 AI 电视频道",
+          "link": "https://www.solidot.org/story?sid=85973",
+          "date": "2026-11-24T07:22:48+00:00"
+        },
+        {
+          "title": "新浏览器 Ladybird 释出首个 alpha 版本",
+          "link": "https://www.solidot.org/story?sid=85972",
+          "date": "2026-11-24T06:39:16+00:00"
+        },
+        {
           "title": "CachyOS 支持 Easy Anti-Cheat v2",
           "link": "https://www.solidot.org/story?sid=85971",
           "date": "2026-11-23T15:37:55+00:00"
-        },
-        {
-          "title": "越来越多的年轻远足者因过于依赖 Google Maps 迷路或遇险",
-          "link": "https://www.solidot.org/story?sid=85970",
-          "date": "2026-11-23T14:50:17+00:00"
-        },
-        {
-          "title": "英伟达重新任命黄仁勋为 CEO",
-          "link": "https://www.solidot.org/story?sid=85969",
-          "date": "2026-11-23T14:30:59+00:00"
-        },
-        {
-          "title": "GrapheneOS 指责 Google 恐吓其合作伙伴",
-          "link": "https://www.solidot.org/story?sid=85968",
-          "date": "2026-11-23T13:58:15+00:00"
-        },
-        {
-          "title": "GLP-1 减肥药或能对环境产生显著影响",
-          "link": "https://www.solidot.org/story?sid=85967",
-          "date": "2026-11-23T12:48:26+00:00"
         }
       ]
     },
@@ -290,38 +290,6 @@
       ]
     },
     {
-      "name": "Hacker News",
-      "category": "开发",
-      "url": "https://hnrss.org/frontpage?count=10",
-      "items": [
-        {
-          "title": "The Power of GraphQL, Without GraphQL",
-          "link": "https://cobalt27.dev/",
-          "date": "2026-11-24T00:03:59+00:00"
-        },
-        {
-          "title": "Huang's Return Is the Biggest National Security Scandal in U.S. History",
-          "link": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
-          "date": "2026-11-23T23:11:38+00:00"
-        },
-        {
-          "title": "Freeing the iPod Nano 5G",
-          "link": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
-          "date": "2026-11-23T23:03:13+00:00"
-        },
-        {
-          "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-          "link": "https://stalw.art/blog/microsoft-exchange-replacement/",
-          "date": "2026-11-23T22:32:29+00:00"
-        },
-        {
-          "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-          "link": "https://arxiv.org/abs/2602.20031",
-          "date": "2026-11-23T22:29:48+00:00"
-        }
-      ]
-    },
-    {
       "name": "Lobsters",
       "category": "开发",
       "url": "https://lobste.rs/rss",
@@ -332,24 +300,24 @@
           "date": "2026-11-23T16:13:03+00:00"
         },
         {
+          "title": "2035 came early",
+          "link": "https://fzakaria.com/2026/11/23/2035-came-early",
+          "date": "2026-11-24T06:30:15+00:00"
+        },
+        {
           "title": "Signal is Serious About Protecting Your Privacy",
           "link": "https://signal.org/blog/protecting-your-privacy/",
           "date": "2026-11-23T07:44:09+00:00"
         },
         {
-          "title": "Held together by spare time: Reviving wiki.alpinelinux.org during PHP2Shell",
-          "link": "https://lambdacreate.com/posts/held-together-by-spare-time",
-          "date": "2026-11-23T15:16:31+00:00"
+          "title": "What VP != VNP Means (In 3 Minutes)",
+          "link": "https://www.friedgil.com/vpvnp/",
+          "date": "2026-11-24T02:10:30+00:00"
         },
         {
-          "title": "GitHub Actions accepts invalid YAML",
-          "link": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
-          "date": "2026-11-22T21:49:18+00:00"
-        },
-        {
-          "title": "Sneakernet",
-          "link": "https://sneakernet.eu/",
-          "date": "2026-11-23T16:20:21+00:00"
+          "title": "Lua for data representation",
+          "link": "https://citrons.xyz/journal/2025-07-23",
+          "date": "2026-11-24T00:22:05+00:00"
         }
       ]
     },
@@ -359,29 +327,29 @@
       "url": "https://www.v2ex.com/index.xml",
       "items": [
         {
-          "title": "[分享创造] 来下载使用 Emojis-AI Agent 创建的大肥鱼表情包，EmojisAI 助力每一位 V 友拥有自己的微信表情包（含全部物料，可上架开放平台），完全免费，送 100 次 500 积分的兑换码",
-          "link": "https://www.v2ex.com/t/1259305#reply0",
-          "date": "2026-11-24T00:53:28+00:00"
+          "title": "[macOS] 2026 我的 Mac 软件清单",
+          "link": "https://www.v2ex.com/t/1259530#reply0",
+          "date": "2026-11-24T10:44:23+00:00"
         },
         {
-          "title": "[职场话题] 小时候背的诗，长大了才懂。",
-          "link": "https://www.v2ex.com/t/1259304#reply0",
-          "date": "2026-11-24T00:47:02+00:00"
+          "title": "[分享发现] 分享一次起诉",
+          "link": "https://www.v2ex.com/t/1259528#reply0",
+          "date": "2026-11-24T10:42:58+00:00"
         },
         {
-          "title": "[Apple] Apple 账号无故被禁用求助",
-          "link": "https://www.v2ex.com/t/1259302#reply2",
-          "date": "2026-11-24T00:39:02+00:00"
+          "title": "[推广] Muse 卖爆了！手搓依然稳定，别家机器号都炸了！🚀补货 10 亿 310 亿成品号_代解封_注册_邀请助力_官号订阅都有！",
+          "link": "https://www.v2ex.com/t/1259527#reply0",
+          "date": "2026-11-24T10:42:37+00:00"
         },
         {
-          "title": "[分享发现] 2026 年我的常用 Mac 软件分享",
-          "link": "https://www.v2ex.com/t/1259301#reply6",
-          "date": "2026-11-24T00:37:41+00:00"
+          "title": "[问与答] AI 超预期完成任务时，你会夸它吗？",
+          "link": "https://www.v2ex.com/t/1259526#reply2",
+          "date": "2026-11-24T10:36:49+00:00"
         },
         {
-          "title": "[分享创造] 离音 1.7.4 更新适配 iPhone Duo 一个纯本地的音乐播放器（ iPhone / iPad / Apple 芯片 Mac）无内嵌广告、无订阅、无追踪，Wi-Fi 拖歌、APE/FLAC/DSD 10 段均衡器，送一波永久会员码",
-          "link": "https://www.v2ex.com/t/1259300#reply4",
-          "date": "2026-11-24T00:32:28+00:00"
+          "title": "[酷工作] [深圳][MoeGo] 技术 / 产品 / 设计 / 财务社招内推 15 薪",
+          "link": "https://www.v2ex.com/t/1259525#reply0",
+          "date": "2026-11-24T10:26:48+00:00"
         }
       ]
     },
@@ -477,29 +445,29 @@
       "url": "https://www.qbitai.com/feed",
       "items": [
         {
-          "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
-          "link": "https://www.qbitai.com/2026/11/512195.html",
-          "date": "2026-11-23T11:01:15+00:00"
+          "title": "蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险",
+          "link": "https://www.qbitai.com/2026/11/512451.html",
+          "date": "2026-11-24T10:15:57+00:00"
         },
         {
-          "title": "XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”",
-          "link": "https://www.qbitai.com/2026/11/512179.html",
-          "date": "2026-11-23T09:10:08+00:00"
+          "title": "智谱刚刚发了GLM-5.4，全新架构的那种！网友直呼：超过预期",
+          "link": "https://www.qbitai.com/2026/11/512423.html",
+          "date": "2026-11-24T09:21:55+00:00"
         },
         {
-          "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
-          "link": "https://www.qbitai.com/2026/11/512017.html",
-          "date": "2026-11-23T07:42:01+00:00"
+          "title": "最新议程与嘉宾阵容公布！2027中国AIoT产业年会，11月27日深圳见",
+          "link": "https://www.qbitai.com/2026/11/512411.html",
+          "date": "2026-11-24T08:44:32+00:00"
         },
         {
-          "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
-          "link": "https://www.qbitai.com/2026/11/512004.html",
-          "date": "2026-11-23T06:59:38+00:00"
+          "title": "叙事时代丨第20届中国投资年会·有限合伙人峰会在沪成功举办",
+          "link": "https://www.qbitai.com/2026/11/512387.html",
+          "date": "2026-11-24T08:34:03+00:00"
         },
         {
-          "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
-          "link": "https://www.qbitai.com/2026/11/511998.html",
-          "date": "2026-11-23T03:56:34+00:00"
+          "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，CTO杨传辉解读三大能力",
+          "link": "https://www.qbitai.com/2026/11/512383.html",
+          "date": "2026-11-24T08:10:43+00:00"
         }
       ]
     },
@@ -541,28 +509,28 @@
       "url": "https://www.nature.com/nature.rss",
       "items": [
         {
+          "title": "Fight AI slop without punishing legitimate researchers",
+          "link": "https://www.nature.com/articles/d41586-026-03824-3",
+          "date": "2026-11-24T00:00:00+00:00"
+        },
+        {
+          "title": "The science on AI consciousness must acknowledge uncertainty",
+          "link": "https://www.nature.com/articles/d41586-026-03822-5",
+          "date": "2026-11-24T00:00:00+00:00"
+        },
+        {
+          "title": "Himalayan disasters demand biodiversity conservation across borders",
+          "link": "https://www.nature.com/articles/d41586-026-03825-2",
+          "date": "2026-11-24T00:00:00+00:00"
+        },
+        {
+          "title": "Submission caps aren’t enough to tackle AI slop",
+          "link": "https://www.nature.com/articles/d41586-026-03823-4",
+          "date": "2026-11-24T00:00:00+00:00"
+        },
+        {
           "title": "Hexa-substituted benzene synthesis with non-classical carbocations",
           "link": "https://www.nature.com/articles/s41586-026-11449-9",
-          "date": "2026-11-23T00:00:00+00:00"
-        },
-        {
-          "title": "COP31 went down in flames over fossil fuels — it sends an important message",
-          "link": "https://www.nature.com/articles/d41586-026-03827-0",
-          "date": "2026-11-23T00:00:00+00:00"
-        },
-        {
-          "title": "Continuous N-to-C Peptide Synthesis",
-          "link": "https://www.nature.com/articles/s41586-026-11448-w",
-          "date": "2026-11-23T00:00:00+00:00"
-        },
-        {
-          "title": "Architecture of the poxvirus early-transcription machinery and portal complex",
-          "link": "https://www.nature.com/articles/s41586-026-11458-8",
-          "date": "2026-11-23T00:00:00+00:00"
-        },
-        {
-          "title": "Build for the future climate — or waste trillions of dollars",
-          "link": "https://www.nature.com/articles/d41586-026-03722-8",
           "date": "2026-11-23T00:00:00+00:00"
         }
       ]
@@ -602,6 +570,7 @@
   ],
   "failed": [
     "36 氪",
+    "Hacker News",
     "InfoQ 中文",
     "酷壳"
   ]
