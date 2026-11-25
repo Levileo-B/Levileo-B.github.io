@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T04:19:43+00:00",
-  "updated": "2026-11-25T04:19:43+00:00",
+  "generated_at": "2026-11-25T15:39:46+00:00",
+  "updated": "2026-11-25T15:39:46+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-23T00:00:00+08:00",
-    "end": "2026-11-25T04:19:43+00:00",
-    "total": 287,
+    "end": "2026-11-25T15:39:46+00:00",
+    "total": 345,
     "items": [
       {
         "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
@@ -23,6 +23,21 @@
         ],
         "source_count": 2,
         "observed_days": 2
+      },
+      {
+        "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
+        "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+        "date": "2026-11-25T03:47:42+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 1
       },
       {
         "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
@@ -139,20 +154,6 @@
         ],
         "source_count": 1,
         "observed_days": 2
-      },
-      {
-        "title": "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔",
-        "link": "https://sspai.com/post/119035",
-        "date": "2026-11-24T07:38:42+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "少数派"
-        ],
-        "source_count": 1,
-        "observed_days": 2
       }
     ],
     "by_category": {
@@ -200,51 +201,9 @@
           "observed_days": 2
         },
         {
-          "title": "Raising the stakes for enterprise networks with AI modernization",
-          "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-          "date": "2026-11-24T15:15:16+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "The Download: AI’s gas power boom and a consciousness reality check",
-          "link": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
-          "date": "2026-11-24T13:10:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Data centers are getting their own natural gas power plants",
-          "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
-          "date": "2026-11-24T11:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险",
-          "link": "https://www.qbitai.com/2026/11/512451.html",
-          "date": "2026-11-24T10:15:57+00:00",
+          "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+          "link": "https://www.qbitai.com/2026/11/512715.html",
+          "date": "2026-11-25T14:32:57+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -256,9 +215,9 @@
           "observed_days": 1
         },
         {
-          "title": "智谱刚刚发了GLM-5.4，全新架构的那种！网友直呼：超过预期",
-          "link": "https://www.qbitai.com/2026/11/512423.html",
-          "date": "2026-11-24T09:21:55+00:00",
+          "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+          "link": "https://www.qbitai.com/2026/11/512582.html",
+          "date": "2026-11-25T14:21:20+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -270,9 +229,9 @@
           "observed_days": 1
         },
         {
-          "title": "最新议程与嘉宾阵容公布！2027中国AIoT产业年会，11月27日深圳见",
-          "link": "https://www.qbitai.com/2026/11/512411.html",
-          "date": "2026-11-24T08:44:32+00:00",
+          "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
+          "link": "https://www.qbitai.com/2026/11/512683.html",
+          "date": "2026-11-25T14:20:24+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -284,9 +243,51 @@
           "observed_days": 1
         },
         {
-          "title": "叙事时代丨第20届中国投资年会·有限合伙人峰会在沪成功举办",
-          "link": "https://www.qbitai.com/2026/11/512387.html",
-          "date": "2026-11-24T08:34:03+00:00",
+          "title": "The Download: AI swamping open records, and firefighting for permafrost",
+          "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+          "date": "2026-11-25T13:10:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
+          "link": "https://www.qbitai.com/2026/11/512565.html",
+          "date": "2026-11-25T11:07:14+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "AI is straining America’s open records systems",
+          "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+          "date": "2026-11-25T10:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Anthropic还藏着2个最强模型…",
+          "link": "https://www.qbitai.com/2026/11/512538.html",
+          "date": "2026-11-25T08:23:24+00:00",
           "date_is_observed": false,
           "categories": [
             "AI"
@@ -299,6 +300,21 @@
         }
       ],
       "开发": [
+        {
+          "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
+          "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+          "date": "2026-11-25T03:47:42+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
         {
           "title": "2035 came early",
           "link": "https://fzakaria.com/2026/11/23/2035-came-early",
@@ -356,9 +372,9 @@
           "observed_days": 2
         },
         {
-          "title": "[推广] chat GPT plus [139 月]",
-          "link": "https://www.v2ex.com/t/1259674",
-          "date": "2026-11-25T04:09:01+00:00",
+          "title": "[分享创造] # 墨牍（Modu）：极小极简本地 RSS 阅读器",
+          "link": "https://www.v2ex.com/t/1259845",
+          "date": "2026-11-25T15:25:11+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -370,9 +386,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享创造] 开源了一个手机版本的超级 agent 工具：agent tower",
-          "link": "https://www.v2ex.com/t/1259673",
-          "date": "2026-11-25T04:05:04+00:00",
+          "title": "[分享创造] 开源了一个能打电话、边聊边干的 Personal Agent，手机上能独立跑，求拍砖",
+          "link": "https://www.v2ex.com/t/1259844",
+          "date": "2026-11-25T15:23:22+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -384,9 +400,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享发现] 哈基米 Antigravity Pro 用户可以用 Carbon 模型了",
-          "link": "https://www.v2ex.com/t/1259672",
-          "date": "2026-11-25T04:04:28+00:00",
+          "title": "[Google Gemini] 黑 5 的 PRO 反重力无法使用 neon，有相同情况的吗？",
+          "link": "https://www.v2ex.com/t/1259843",
+          "date": "2026-11-25T15:20:56+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -398,43 +414,29 @@
           "observed_days": 1
         },
         {
-          "title": "[推广] [LinkAGI] 用 DeepSeek 给商品表加一列英文标题，附能直接跑的 Python 脚本",
-          "link": "https://www.v2ex.com/t/1259671",
-          "date": "2026-11-25T04:04:09+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[推广] [福利 CDK] Zooproxy 上新美国 AI 优化渠道 IP，赠送动态住宅测试流量",
-          "link": "https://www.v2ex.com/t/1259670",
-          "date": "2026-11-25T03:57:40+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-          "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-          "date": "2026-11-25T03:47:42+00:00",
+          "title": "In C++, = default and {} are not the same constructor",
+          "link": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
+          "date": "2026-11-25T15:20:15+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
             "Hacker News"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[推广] 不用注册就能直接试 MAGI-2，还挺省事",
+          "link": "https://www.v2ex.com/t/1259842",
+          "date": "2026-11-25T15:17:51+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "V2EX"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -830,9 +832,9 @@
           "observed_days": 2
         },
         {
-          "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
-          "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o",
-          "date": "2026-11-25T03:54:43+00:00",
+          "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+          "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo",
+          "date": "2026-11-25T14:46:41+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -844,9 +846,9 @@
           "observed_days": 1
         },
         {
-          "title": "宏福苑大火一週年：「這條刺永遠都在」，遺屬在傷痛中尋找答案",
-          "link": "https://www.bbc.com/zhongwen/articles/c3j4r274lj82o/trad",
-          "date": "2026-11-25T03:21:30+00:00",
+          "title": "美國準備公布對全球貿易夥伴加征新關稅的計劃",
+          "link": "https://www.bbc.com/zhongwen/articles/cm9d7g967l5lo/trad",
+          "date": "2026-11-25T12:18:58+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -858,15 +860,15 @@
           "observed_days": 1
         },
         {
-          "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
-          "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo",
-          "date": "2026-11-25T00:56:51+00:00",
+          "title": "BBC事實查核：與中國有關帳號用AI生成影攻擊台灣選舉候選人",
+          "link": "https://www.bbc.com/zhongwen/articles/c6rmgvkp322xo/trad",
+          "date": "2026-11-25T11:53:06+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
           ],
           "sources": [
-            "BBC World"
+            "BBC 中文"
           ],
           "source_count": 1,
           "observed_days": 1
@@ -922,6 +924,90 @@
           "observed_days": 1
         },
         {
+          "title": "Energy bills will soar - here's how you can ease the pain",
+          "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o",
+          "date": "2026-11-23T01:05:07+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "US stocks fall further as fears over AI intensify",
+          "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
+          "date": "2026-11-25T15:24:34+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "BBC Business"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+          "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+          "date": "2026-11-25T14:18:45+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+          "link": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+          "date": "2026-11-25T13:37:35+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
+          "link": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
+          "date": "2026-11-25T13:20:34+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
+          "link": "https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html",
+          "date": "2026-11-25T09:18:37+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
           "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
           "link": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
           "date": "2026-11-25T04:06:01+00:00",
@@ -934,98 +1020,14 @@
           ],
           "source_count": 1,
           "observed_days": 1
-        },
-        {
-          "title": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
-          "link": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
-          "date": "2026-11-25T03:52:03+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
-          "link": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
-          "date": "2026-11-25T02:43:33+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
-          "link": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
-          "date": "2026-11-25T02:36:43+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
-          "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo",
-          "date": "2026-11-25T01:03:05+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "US preparing to unveil plan for new tariffs on global trading partners",
-          "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
-          "date": "2026-11-25T00:38:01+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "What will the energy cap changes mean for my bills?",
-          "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo",
-          "date": "2026-11-25T00:33:25+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ]
     }
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-25T04:19:43+00:00",
-    "total": 2920,
+    "end": "2026-11-25T15:39:46+00:00",
+    "total": 2978,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
