@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T09:34:57+00:00",
-  "updated": "2026-11-26T09:34:57+00:00",
+  "generated_at": "2026-11-26T19:39:22+00:00",
+  "updated": "2026-11-26T19:39:22+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-23T00:00:00+08:00",
-    "end": "2026-11-26T09:34:57+00:00",
-    "total": 436,
+    "end": "2026-11-26T19:39:22+00:00",
+    "total": 490,
     "items": [
       {
         "title": "US stocks fall further as fears over AI intensify",
@@ -147,18 +147,18 @@
           "BBC 中文"
         ],
         "source_count": 1,
-        "observed_days": 3
+        "observed_days": 4
       },
       {
-        "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
-        "link": "https://sspai.com/post/119492",
-        "date": "2026-11-24T09:14:11+00:00",
+        "title": "The Download: AI swamping open records, and firefighting for permafrost",
+        "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+        "date": "2026-11-25T13:10:00+00:00",
         "date_is_observed": false,
         "categories": [
-          "科技"
+          "AI"
         ],
         "sources": [
-          "少数派"
+          "MIT Technology Review"
         ],
         "source_count": 1,
         "observed_days": 3
@@ -166,6 +166,62 @@
     ],
     "by_category": {
       "AI": [
+        {
+          "title": "The Download: AI swamping open records, and firefighting for permafrost",
+          "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+          "date": "2026-11-25T13:10:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "AI is straining America’s open records systems",
+          "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+          "date": "2026-11-25T10:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
+          "link": "https://www.qbitai.com/2026/11/512942.html",
+          "date": "2026-11-26T07:36:04+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "How data centers are driving a US natural-gas boom",
+          "link": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+          "date": "2026-11-25T17:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
         {
           "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
           "link": "https://www.qbitai.com/2026/11/512715.html",
@@ -204,34 +260,6 @@
           ],
           "sources": [
             "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "The Download: AI swamping open records, and firefighting for permafrost",
-          "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
-          "date": "2026-11-25T13:10:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "AI is straining America’s open records systems",
-          "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-          "date": "2026-11-25T10:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -277,34 +305,6 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-          "link": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-          "date": "2026-11-23T13:10:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-          "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
-          "date": "2026-11-23T11:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "开发": [
@@ -324,9 +324,37 @@
           "observed_days": 2
         },
         {
-          "title": "Optimizing Rustc's next trait solver",
-          "link": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
-          "date": "2026-11-25T13:09:22+00:00",
+          "title": "These are the gifts developers will actually want",
+          "link": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+          "date": "2026-11-24T16:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "GitHub Blog"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "从模仿到自我纠错：Keeta客服模型的RSI实践",
+          "link": "https://tech.meituan.com/2026/11/26/Agent-RSI-practice-in-meituan.html",
+          "date": "2026-11-26T09:34:57+00:00",
+          "date_is_observed": true,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "美团技术团队"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Entering the Geminispace",
+          "link": "https://jmmv.dev/2026/11/entering-the-geminispace.html",
+          "date": "2026-11-25T22:43:05+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -338,15 +366,71 @@
           "observed_days": 2
         },
         {
-          "title": "These are the gifts developers will actually want",
-          "link": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
-          "date": "2026-11-24T16:00:00+00:00",
+          "title": "Scott Aaronson on recent complexity theory AI achievements",
+          "link": "https://scottaaronson.blog/?p=10379",
+          "date": "2026-11-25T21:52:52+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Lobsters"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Slow Ubuntu security response times",
+          "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+          "date": "2026-11-25T20:10:24+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Lobsters"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Art of play in the age of AI",
+          "link": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+          "date": "2026-11-25T16:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
           ],
           "sources": [
             "GitHub Blog"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "How to choose the next safe step in application modernization",
+          "link": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+          "date": "2026-11-25T15:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "GitHub Blog"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Optimizing Rustc's next trait solver",
+          "link": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
+          "date": "2026-11-25T13:09:22+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Lobsters"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -364,93 +448,23 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Ladybird is now in alpha",
-          "link": "https://ladybird.org/posts/alpha/",
-          "date": "2026-11-23T16:13:03+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Signal is Serious About Protecting Your Privacy",
-          "link": "https://signal.org/blog/protecting-your-privacy/",
-          "date": "2026-11-23T07:44:09+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "GitHub Actions accepts invalid YAML",
-          "link": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
-          "date": "2026-11-22T21:49:18+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "从模仿到自我纠错：Keeta客服模型的RSI实践",
-          "link": "https://tech.meituan.com/2026/11/26/Agent-RSI-practice-in-meituan.html",
-          "date": "2026-11-26T09:34:57+00:00",
-          "date_is_observed": true,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "美团技术团队"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[问与答] 48 伏的电动车可以用 64V45A 的磷酸铁锂电池吗？会不会有什么风险？",
-          "link": "https://www.v2ex.com/t/1260078",
-          "date": "2026-11-26T09:32:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[程序员] 兄弟们，最近带了一批 macM4 到泰国去。那边有人可以开 Claude，本来是自己公司内部用的，现在多了几台，有人有需要没",
-          "link": "https://www.v2ex.com/t/1260077",
-          "date": "2026-11-26T09:31:03+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ],
       "科技": [
+        {
+          "title": "翻开 2027， 值得入手的新年日历推荐",
+          "link": "https://sspai.com/post/119264",
+          "date": "2026-11-25T09:48:34+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
         {
           "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
           "link": "https://sspai.com/post/119492",
@@ -480,37 +494,9 @@
           "observed_days": 3
         },
         {
-          "title": "研究显示不是所有地区的男性精子数量都大幅下降",
-          "link": "https://www.solidot.org/story?sid=85990",
-          "date": "2026-11-25T14:27:27+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "如何维护超算",
-          "link": "https://www.solidot.org/story?sid=85989",
-          "date": "2026-11-25T14:18:03+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "Solidot"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "翻开 2027， 值得入手的新年日历推荐",
-          "link": "https://sspai.com/post/119264",
-          "date": "2026-11-25T09:48:34+00:00",
+          "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+          "link": "https://sspai.com/post/119563",
+          "date": "2026-11-26T07:00:00+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -522,9 +508,9 @@
           "observed_days": 2
         },
         {
-          "title": "拓竹 P3C 发布：国补后 6374 元起，下一代 3D 打印机开始卷性价比",
-          "link": "https://www.ifanr.com/1691661",
-          "date": "2026-11-25T09:00:30+00:00",
+          "title": "荣耀 700 Pro 上手：4099 元起，主流价位档里的手机异类",
+          "link": "https://www.ifanr.com/1695371",
+          "date": "2026-11-26T04:28:11+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -536,23 +522,9 @@
           "observed_days": 2
         },
         {
-          "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
-          "link": "https://sspai.com/post/119310",
-          "date": "2026-11-25T06:59:16+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2",
-          "link": "https://www.ifanr.com/1691445",
-          "date": "2026-11-25T05:21:04+00:00",
+          "title": "首款鸿蒙小折叠电脑正式发布，生态创新重新定义折叠电脑体验",
+          "link": "https://www.ifanr.com/1695349",
+          "date": "2026-11-26T04:04:24+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -564,9 +536,37 @@
           "observed_days": 2
         },
         {
-          "title": "怀旧手记｜Palm Pre：内藏「划时代」系统的手机",
-          "link": "https://sspai.com/post/118791",
-          "date": "2026-11-25T03:07:41+00:00",
+          "title": "OPPO Reno17 Pro 体验：在手机里装进一只猫，分几步？",
+          "link": "https://www.ifanr.com/1691222",
+          "date": "2026-11-26T04:02:09+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "专访《影之刃零》梁其伟：我想让年轻人觉得，中国功夫很酷丨多样性公司",
+          "link": "https://www.ifanr.com/1695256",
+          "date": "2026-11-26T03:48:29+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "爱范儿"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "我用AI做了一张两千年的中国历史地图",
+          "link": "https://sspai.com/post/117510",
+          "date": "2026-11-26T03:13:53+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -578,9 +578,9 @@
           "observed_days": 2
         },
         {
-          "title": "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等",
-          "link": "https://sspai.com/post/119527",
-          "date": "2026-11-25T00:22:35+00:00",
+          "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
+          "link": "https://sspai.com/post/119560",
+          "date": "2026-11-26T00:08:07+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -594,6 +594,20 @@
       ],
       "科研": [
         {
+          "title": "The leading cities in the world for high-quality research in 2025",
+          "link": "https://www.nature.com/articles/d41586-026-03468-3",
+          "date": "2026-11-25T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
           "title": "New gum disease treatment kills bad bacteria while sparing the good",
           "link": "https://www.sciencedaily.com/releases/2026/11/261123005356.htm",
           "date": "2026-11-23T11:55:17+00:00",
@@ -606,6 +620,20 @@
           ],
           "source_count": 1,
           "observed_days": 3
+        },
+        {
+          "title": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm",
+          "date": "2026-11-26T02:42:37+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
         },
         {
           "title": "Common sleep and anxiety drugs could be harming aging brains",
@@ -678,20 +706,6 @@
           "observed_days": 2
         },
         {
-          "title": "The leading cities in the world for high-quality research in 2025",
-          "link": "https://www.nature.com/articles/d41586-026-03468-3",
-          "date": "2026-11-25T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
           "title": "How Singapore has turned a nation into a smart-city testing ground",
           "link": "https://www.nature.com/articles/d41586-026-03472-7",
           "date": "2026-11-25T00:00:00+00:00",
@@ -708,20 +722,6 @@
         {
           "title": "The science on AI consciousness must acknowledge uncertainty",
           "link": "https://www.nature.com/articles/d41586-026-03822-5",
-          "date": "2026-11-24T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Submission caps aren’t enough to tackle AI slop",
-          "link": "https://www.nature.com/articles/d41586-026-03823-4",
           "date": "2026-11-24T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
@@ -859,12 +859,12 @@
             "BBC 中文"
           ],
           "source_count": 1,
-          "observed_days": 3
+          "observed_days": 4
         },
         {
-          "title": "美國準備公布對全球貿易夥伴加征新關稅的計劃",
-          "link": "https://www.bbc.com/zhongwen/articles/cm9d7g967l5lo/trad",
-          "date": "2026-11-25T12:18:58+00:00",
+          "title": "英國性調查：年輕人中五成女性、九成男性觀看色情片 三分之一未有性經驗",
+          "link": "https://www.bbc.com/zhongwen/articles/cmewv0vkgwplo/trad",
+          "date": "2026-11-26T09:11:54+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -876,15 +876,15 @@
           "observed_days": 2
         },
         {
-          "title": "BBC事實查核：與中國有關帳號用AI生成影攻擊台灣選舉候選人",
-          "link": "https://www.bbc.com/zhongwen/articles/c6rmgvkp322xo/trad",
-          "date": "2026-11-25T11:53:06+00:00",
+          "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+          "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go",
+          "date": "2026-11-26T05:00:27+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
           ],
           "sources": [
-            "BBC 中文"
+            "BBC World"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -1050,8 +1050,8 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-26T09:34:57+00:00",
-    "total": 3069,
+    "end": "2026-11-26T19:39:22+00:00",
+    "total": 3123,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
@@ -1671,6 +1671,20 @@
           "observed_days": 4
         },
         {
+          "title": "The leading cities in the world for high-quality research in 2025",
+          "link": "https://www.nature.com/articles/d41586-026-03468-3",
+          "date": "2026-11-25T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
           "title": "New gum disease treatment kills bad bacteria while sparing the good",
           "link": "https://www.sciencedaily.com/releases/2026/11/261123005356.htm",
           "date": "2026-11-23T11:55:17+00:00",
@@ -1771,20 +1785,6 @@
         {
           "title": "Number of international students arriving in US plunges — worrying scientists",
           "link": "https://www.nature.com/articles/d41586-026-03668-x",
-          "date": "2026-11-13T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 3
-        },
-        {
-          "title": "This AI ‘mechanic’ can peer inside the black box of other neural networks",
-          "link": "https://www.nature.com/articles/d41586-026-03679-8",
           "date": "2026-11-13T00:00:00+00:00",
           "date_is_observed": false,
           "categories": [
