@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T00:25:17+00:00",
-  "updated": "2026-11-26T00:25:17+00:00",
+  "generated_at": "2026-11-26T09:34:57+00:00",
+  "updated": "2026-11-26T09:34:57+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-23T00:00:00+08:00",
-    "end": "2026-11-26T00:25:17+00:00",
-    "total": 388,
+    "end": "2026-11-26T09:34:57+00:00",
+    "total": 436,
     "items": [
       {
         "title": "US stocks fall further as fears over AI intensify",
@@ -72,6 +72,38 @@
         "observed_days": 2
       },
       {
+        "title": "New UK-EU treaty has 10-year termination clause, BBC understands",
+        "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo",
+        "date": "2026-11-26T07:40:04+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
+        "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+        "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
+        "date": "2026-11-26T00:07:51+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合",
+          "财经"
+        ],
+        "sources": [
+          "BBC Business",
+          "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 1
+      },
+      {
         "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
         "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
         "date": "2026-11-24T20:59:21+00:00",
@@ -104,6 +136,20 @@
         "observed_days": 1
       },
       {
+        "title": "宏福苑大火一周年：居民受壓、媒體噤聲，為何悼念變得小心翼翼？",
+        "link": "https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/trad",
+        "date": "2026-11-24T10:13:23+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "综合"
+        ],
+        "sources": [
+          "BBC 中文"
+        ],
+        "source_count": 1,
+        "observed_days": 3
+      },
+      {
         "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
         "link": "https://sspai.com/post/119492",
         "date": "2026-11-24T09:14:11+00:00",
@@ -116,48 +162,6 @@
         ],
         "source_count": 1,
         "observed_days": 3
-      },
-      {
-        "title": "New gum disease treatment kills bad bacteria while sparing the good",
-        "link": "https://www.sciencedaily.com/releases/2026/11/261123005356.htm",
-        "date": "2026-11-23T11:55:17+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科研"
-        ],
-        "sources": [
-          "ScienceDaily"
-        ],
-        "source_count": 1,
-        "observed_days": 3
-      },
-      {
-        "title": "派评 | 近期值得关注的 App",
-        "link": "https://sspai.com/post/119438",
-        "date": "2026-11-23T10:08:29+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "科技"
-        ],
-        "sources": [
-          "少数派"
-        ],
-        "source_count": 1,
-        "observed_days": 3
-      },
-      {
-        "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
-        "link": "https://www.qbitai.com/2026/11/512715.html",
-        "date": "2026-11-25T14:32:57+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "AI"
-        ],
-        "sources": [
-          "量子位"
-        ],
-        "source_count": 1,
-        "observed_days": 2
       }
     ],
     "by_category": {
@@ -404,9 +408,23 @@
           "observed_days": 2
         },
         {
-          "title": "[分享创造] 做了个清理 TikTok 转发、点赞和收藏的 Chrome/Edge 插件 UndoPost，分享一下",
-          "link": "https://www.v2ex.com/t/1259863",
-          "date": "2026-11-26T00:12:26+00:00",
+          "title": "从模仿到自我纠错：Keeta客服模型的RSI实践",
+          "link": "https://tech.meituan.com/2026/11/26/Agent-RSI-practice-in-meituan.html",
+          "date": "2026-11-26T09:34:57+00:00",
+          "date_is_observed": true,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "美团技术团队"
+          ],
+          "source_count": 1,
+          "observed_days": 1
+        },
+        {
+          "title": "[问与答] 48 伏的电动车可以用 64V45A 的磷酸铁锂电池吗？会不会有什么风险？",
+          "link": "https://www.v2ex.com/t/1260078",
+          "date": "2026-11-26T09:32:00+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -418,23 +436,9 @@
           "observed_days": 1
         },
         {
-          "title": "[分享发现] Chrome / FireFox 常用扩展程序整理",
-          "link": "https://www.v2ex.com/t/1259862",
-          "date": "2026-11-26T00:08:21+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "V2EX"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "[奇思妙想] 我做了个让玩同一款单机游戏的人偶尔相遇的小工具，想找 V 友一起测",
-          "link": "https://www.v2ex.com/t/1259861",
-          "date": "2026-11-25T23:59:42+00:00",
+          "title": "[程序员] 兄弟们，最近带了一批 macM4 到泰国去。那边有人可以开 Claude，本来是自己公司内部用的，现在多了几台，有人有需要没",
+          "link": "https://www.v2ex.com/t/1260077",
+          "date": "2026-11-26T09:31:03+00:00",
           "date_is_observed": false,
           "categories": [
             "开发"
@@ -780,6 +784,38 @@
           "observed_days": 2
         },
         {
+          "title": "New UK-EU treaty has 10-year termination clause, BBC understands",
+          "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo",
+          "date": "2026-11-26T07:40:04+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+          "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
+          "date": "2026-11-26T00:07:51+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
           "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
           "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
           "date": "2026-11-24T20:59:21+00:00",
@@ -812,6 +848,20 @@
           "observed_days": 1
         },
         {
+          "title": "宏福苑大火一周年：居民受壓、媒體噤聲，為何悼念變得小心翼翼？",
+          "link": "https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/trad",
+          "date": "2026-11-24T10:13:23+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合"
+          ],
+          "sources": [
+            "BBC 中文"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
           "title": "美國準備公布對全球貿易夥伴加征新關稅的計劃",
           "link": "https://www.bbc.com/zhongwen/articles/cm9d7g967l5lo/trad",
           "date": "2026-11-25T12:18:58+00:00",
@@ -829,48 +879,6 @@
           "title": "BBC事實查核：與中國有關帳號用AI生成影攻擊台灣選舉候選人",
           "link": "https://www.bbc.com/zhongwen/articles/c6rmgvkp322xo/trad",
           "date": "2026-11-25T11:53:06+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "神舟二十四號成功發射 首位巴基斯坦航天員登中國「天宮」意味什麼？",
-          "link": "https://www.bbc.com/zhongwen/articles/cm9w91y0pge7o/trad",
-          "date": "2026-11-25T09:44:18+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC 中文"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-          "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo",
-          "date": "2026-11-25T06:00:36+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "综合"
-          ],
-          "sources": [
-            "BBC World"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "宏福苑大火一週年：「這條刺永遠都在」，遺屬在傷痛中尋找答案",
-          "link": "https://www.bbc.com/zhongwen/articles/c3j4r274lj82o/trad",
-          "date": "2026-11-25T03:21:30+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -930,6 +938,38 @@
           ],
           "source_count": 2,
           "observed_days": 2
+        },
+        {
+          "title": "New UK-EU treaty has 10-year termination clause, BBC understands",
+          "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo",
+          "date": "2026-11-26T07:40:04+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
+        },
+        {
+          "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+          "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
+          "date": "2026-11-26T00:07:51+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "综合",
+            "财经"
+          ],
+          "sources": [
+            "BBC Business",
+            "BBC World"
+          ],
+          "source_count": 2,
+          "observed_days": 1
         },
         {
           "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
@@ -1004,42 +1044,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "US approves SpaceX plan to send a million data satellites to space",
-          "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
-          "date": "2026-11-26T00:07:51+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 1
-        },
-        {
-          "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
-          "link": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
-          "date": "2026-11-25T22:26:56+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "CNBC"
-          ],
-          "source_count": 1,
-          "observed_days": 1
         }
       ]
     }
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-26T00:25:17+00:00",
-    "total": 3021,
+    "end": "2026-11-26T09:34:57+00:00",
+    "total": 3069,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
