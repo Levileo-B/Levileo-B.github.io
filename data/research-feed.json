@@ -1,58 +1,94 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-25T10:29:33.239297+00:00",
-  "attempted_at": "2026-11-25T10:29:33.239297+00:00",
+  "updated": "2026-11-26T10:02:05.435585+00:00",
+  "attempted_at": "2026-11-26T10:02:05.435585+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-11-25T10:29:33.239297+00:00",
+      "last_success": "2026-11-26T10:02:05.435585+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-11-25T10:29:33.239297+00:00",
+      "last_success": "2026-11-26T10:02:05.435585+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-11-25T10:29:33.239297+00:00",
+      "last_success": "2026-11-26T10:02:05.435585+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-11-25T10:29:33.239297+00:00",
+      "last_success": "2026-11-26T10:02:05.435585+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-11-25T10:29:33.239297+00:00",
+      "last_success": "2026-11-26T10:02:05.435585+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-11-25T10:29:33.239297+00:00",
+      "last_success": "2026-11-26T10:02:05.435585+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-11-25T10:29:33.239297+00:00",
+      "last_success": "2026-11-26T10:02:05.435585+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-11-25T10:29:33.239297+00:00",
+      "last_success": "2026-11-26T10:02:05.435585+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.3390/rs18234048",
+      "title": "LiDAR-Seeded Ocean Color Inversion for Coastal Waters Using Shipborne Single-Photon Backscattering Measurements",
+      "journal_id": "remote-sensing",
+      "published": "2026-11-25",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18234048",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3389/frobt.2026.1794252",
+      "title": "The prosocial robot navigation charter: a framework based on normative cards",
+      "journal_id": "frontiers",
+      "published": "2026-11-25",
+      "topics": [
+        "navigation"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3389/frobt.2026.1794252",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18234039",
+      "title": "Quantifying Seasonal Changes in Forest Three-Dimensional Reconstruction Using UAV-SfM Point Clouds: Voxel Entity Density (VED) as an Indicator of Reconstruction Dynamics",
+      "journal_id": "remote-sensing",
+      "published": "2026-11-24",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18234039",
+      "source": "crossref"
+    },
     {
       "id": "10.3390/rs18224002",
       "title": "A Semantic–Geometric Collaborative Framework for Roof Plane Segmentation in Airborne LiDAR Point Clouds",
@@ -1345,18 +1381,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.3390/rs18193430",
-      "title": "Mask-Guided Diffusion-Consistency Network for Multimodal Hyperspectral Point-Cloud Mineral Mapping",
-      "journal_id": "remote-sensing",
-      "published": "2026-10-08",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18193430",
-      "source": "crossref"
-    },
-    {
       "id": "10.1038/s41598-026-74836-2",
       "title": "An inter-row navigation system design for a safflower picking robot",
       "journal_id": "scientific-reports",
@@ -1390,18 +1414,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1038/s41598-026-68790-2",
-      "source": "crossref"
-    },
-    {
-      "id": "10.3390/rs18193424",
-      "title": "A Fusion Framework Integrating UAV LiDAR and SBAS-InSAR for Enhanced Mining-Induced Surface Subsidence Modeling",
-      "journal_id": "remote-sensing",
-      "published": "2026-10-07",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18193424",
       "source": "crossref"
     },
     {
