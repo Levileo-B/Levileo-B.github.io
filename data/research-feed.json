@@ -1,58 +1,106 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-26T10:02:05.435585+00:00",
-  "attempted_at": "2026-11-26T10:02:05.435585+00:00",
+  "updated": "2026-11-27T10:07:54.473303+00:00",
+  "attempted_at": "2026-11-27T10:07:54.473303+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-11-26T10:02:05.435585+00:00",
+      "last_success": "2026-11-27T10:07:54.473303+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-11-26T10:02:05.435585+00:00",
+      "last_success": "2026-11-27T10:07:54.473303+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-11-26T10:02:05.435585+00:00",
+      "last_success": "2026-11-27T10:07:54.473303+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-11-26T10:02:05.435585+00:00",
+      "last_success": "2026-11-27T10:07:54.473303+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-11-26T10:02:05.435585+00:00",
+      "last_success": "2026-11-27T10:07:54.473303+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-11-26T10:02:05.435585+00:00",
+      "last_success": "2026-11-27T10:07:54.473303+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-11-26T10:02:05.435585+00:00",
+      "last_success": "2026-11-27T10:07:54.473303+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-11-26T10:02:05.435585+00:00",
+      "last_success": "2026-11-27T10:07:54.473303+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.1038/s41598-026-81290-7",
+      "title": "Distributed optimal resilient formation control of mobile agents driven by humanoid robots with obstacle avoidance under sensor and actuator attacks",
+      "journal_id": "scientific-reports",
+      "published": "2026-11-27",
+      "topics": [
+        "avoidance"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-81290-7",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18234086",
+      "title": "Onboard Lidar Differential Absorption Systems for Greenhouse Gas Sensing: A Review",
+      "journal_id": "remote-sensing",
+      "published": "2026-11-26",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18234086",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-82173-7",
+      "title": "Machine learning–based 3D point cloud segmentation for scalable solute cluster analysis in atom probe tomography",
+      "journal_id": "scientific-reports",
+      "published": "2026-11-26",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-82173-7",
+      "source": "crossref"
+    },
+    {
+      "id": "10.1038/s41598-026-78302-x",
+      "title": "An efficient surface reconstruction method for helical scan data based on ordered point clouds",
+      "journal_id": "scientific-reports",
+      "published": "2026-11-26",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.1038/s41598-026-78302-x",
+      "source": "crossref"
+    },
     {
       "id": "10.3390/rs18234048",
       "title": "LiDAR-Seeded Ocean Color Inversion for Coastal Waters Using Shipborne Single-Photon Backscattering Measurements",
@@ -1308,18 +1356,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.3390/rs18203493",
-      "title": "Automatic Extraction of Discontinuity Traces from Rock Mass Point Cloud Data Using PhaseVote",
-      "journal_id": "remote-sensing",
-      "published": "2026-10-12",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18203493",
-      "source": "crossref"
-    },
-    {
       "id": "10.1002/rob.70366",
       "title": "Slip‐Aware Coverage Path Planning Using a Turning Feasibility Table for an Orchard Robot Sprayer",
       "journal_id": "jfr",
@@ -1393,30 +1429,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.1038/s41598-026-73543-2",
-      "title": "UAV close-range photogrammetry combined with adaptive octree-based point cloud filtering for rock joint extraction of open-pit mine slopes",
-      "journal_id": "scientific-reports",
-      "published": "2026-10-08",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-73543-2",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1038/s41598-026-68790-2",
-      "title": "An attention guided local global feature fusion network for robust point cloud registration",
-      "journal_id": "scientific-reports",
-      "published": "2026-10-08",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-68790-2",
-      "source": "crossref"
-    },
-    {
       "id": "10.1002/rob.70367",
       "title": "Adaptive Soft Robot for Complex Multiple Scenes: Navigating Pipelines, Valves, and Pressure Vessels",
       "journal_id": "jfr",
@@ -1463,18 +1475,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.3389/frobt.2026.1920106",
-      "source": "crossref"
-    },
-    {
-      "id": "10.1038/s41598-026-70368-x",
-      "title": "GIS and landmark-aided autonomous vehicle localization for navigation continuity in urban corridors",
-      "journal_id": "scientific-reports",
-      "published": "2026-10-05",
-      "topics": [
-        "navigation"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.1038/s41598-026-70368-x",
       "source": "crossref"
     },
     {
