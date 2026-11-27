@@ -1,13 +1,28 @@
 {
-  "generated_at": "2026-11-27T12:30:35+00:00",
-  "updated": "2026-11-27T12:30:34+00:00",
+  "generated_at": "2026-11-27T21:59:46+00:00",
+  "updated": "2026-11-27T21:59:46+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-23T00:00:00+08:00",
-    "end": "2026-11-27T12:30:35+00:00",
-    "total": 573,
+    "end": "2026-11-27T21:59:46+00:00",
+    "total": 609,
     "items": [
+      {
+        "title": "Hard Drive pricing has gotten bad",
+        "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+        "date": "2026-11-27T01:13:49+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
       {
         "title": "US stocks fall further as fears over AI intensify",
         "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
@@ -67,6 +82,22 @@
         "sources": [
           "BBC Business",
           "BBC World"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
+        "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+        "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+        "date": "2026-11-23T21:30:44+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发",
+          "科技"
+        ],
+        "sources": [
+          "Ars Technica",
+          "Hacker News"
         ],
         "source_count": 2,
         "observed_days": 2
@@ -134,34 +165,6 @@
         ],
         "source_count": 2,
         "observed_days": 1
-      },
-      {
-        "title": "宏福苑大火一周年：居民受壓、媒體噤聲，為何悼念變得小心翼翼？",
-        "link": "https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/trad",
-        "date": "2026-11-24T10:13:23+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合"
-        ],
-        "sources": [
-          "BBC 中文"
-        ],
-        "source_count": 1,
-        "observed_days": 4
-      },
-      {
-        "title": "The Download: AI swamping open records, and firefighting for permafrost",
-        "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
-        "date": "2026-11-25T13:10:00+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "AI"
-        ],
-        "sources": [
-          "MIT Technology Review"
-        ],
-        "source_count": 1,
-        "observed_days": 3
       }
     ],
     "by_category": {
@@ -195,6 +198,104 @@
           "observed_days": 3
         },
         {
+          "title": "Our 2027 Innovators Under 35 competition is now open",
+          "link": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+          "date": "2026-11-27T10:48:47+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "How cutting-edge prosthetics can help probe the human mind",
+          "link": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+          "date": "2026-11-27T10:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
+          "link": "https://www.qbitai.com/2026/11/513320.html",
+          "date": "2026-11-27T07:39:18+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "DeepSeek APP突然更新账单，网友：要收费了？",
+          "link": "https://www.qbitai.com/2026/11/513305.html",
+          "date": "2026-11-27T07:29:10+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+          "link": "https://www.qbitai.com/2026/11/513227.html",
+          "date": "2026-11-27T07:01:20+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "量子位"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+          "link": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+          "date": "2026-11-26T13:10:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "The next generation of bionic hands is here—and they can feel",
+          "link": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+          "date": "2026-11-26T09:59:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "AI"
+          ],
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
           "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
           "link": "https://www.qbitai.com/2026/11/512942.html",
           "date": "2026-11-26T07:36:04+00:00",
@@ -207,107 +308,24 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "How data centers are driving a US natural-gas boom",
-          "link": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
-          "date": "2026-11-25T17:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
-          "link": "https://www.qbitai.com/2026/11/512715.html",
-          "date": "2026-11-25T14:32:57+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
-          "link": "https://www.qbitai.com/2026/11/512582.html",
-          "date": "2026-11-25T14:21:20+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
-          "link": "https://www.qbitai.com/2026/11/512683.html",
-          "date": "2026-11-25T14:20:24+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "量子位"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "The Download: AI’s gas power boom and a consciousness reality check",
-          "link": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
-          "date": "2026-11-24T13:10:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Data centers are getting their own natural gas power plants",
-          "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
-          "date": "2026-11-24T11:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-          "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-          "date": "2026-11-23T17:36:08+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "AI"
-          ],
-          "sources": [
-            "MIT Technology Review"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "开发": [
+        {
+          "title": "Hard Drive pricing has gotten bad",
+          "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+          "date": "2026-11-27T01:13:49+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
         {
           "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
           "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
@@ -324,6 +342,22 @@
           "observed_days": 2
         },
         {
+          "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+          "date": "2026-11-23T21:30:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "These are the gifts developers will actually want",
           "link": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
           "date": "2026-11-24T16:00:00+00:00",
@@ -335,7 +369,7 @@
             "GitHub Blog"
           ],
           "source_count": 1,
-          "observed_days": 3
+          "observed_days": 4
         },
         {
           "title": "从模仿到自我纠错：Keeta客服模型的RSI实践",
@@ -347,6 +381,62 @@
           ],
           "sources": [
             "美团技术团队"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Art of play in the age of AI",
+          "link": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+          "date": "2026-11-25T16:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "GitHub Blog"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "How to choose the next safe step in application modernization",
+          "link": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+          "date": "2026-11-25T15:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "GitHub Blog"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
+        {
+          "title": "Tiny Hat: a new Linux distro dedicated to retro gamedev",
+          "link": "https://roboticoverlords.org/tinyhat",
+          "date": "2026-11-27T09:11:13+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Lobsters"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "科技爱好者周刊（第 421 期）：AI 的疯狂造富",
+          "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html",
+          "date": "2026-11-27T00:10:30+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "阮一峰的网络日志"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -364,93 +454,39 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "Scott Aaronson on recent complexity theory AI achievements",
-          "link": "https://scottaaronson.blog/?p=10379",
-          "date": "2026-11-25T21:52:52+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Slow Ubuntu security response times",
-          "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-          "date": "2026-11-25T20:10:24+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Art of play in the age of AI",
-          "link": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
-          "date": "2026-11-25T16:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "GitHub Blog"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "How to choose the next safe step in application modernization",
-          "link": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
-          "date": "2026-11-25T15:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "GitHub Blog"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Optimizing Rustc's next trait solver",
-          "link": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
-          "date": "2026-11-25T13:09:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "2035 came early",
-          "link": "https://fzakaria.com/2026/11/23/2035-came-early",
-          "date": "2026-11-24T06:30:15+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Lobsters"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ],
       "科技": [
+        {
+          "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+          "date": "2026-11-23T21:30:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
+          "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+          "link": "https://sspai.com/post/119563",
+          "date": "2026-11-26T07:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科技"
+          ],
+          "sources": [
+            "少数派"
+          ],
+          "source_count": 1,
+          "observed_days": 3
+        },
         {
           "title": "翻开 2027， 值得入手的新年日历推荐",
           "link": "https://sspai.com/post/119264",
@@ -494,23 +530,9 @@
           "observed_days": 3
         },
         {
-          "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
-          "link": "https://sspai.com/post/119563",
-          "date": "2026-11-26T07:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "荣耀 700 Pro 上手：4099 元起，主流价位档里的手机异类",
-          "link": "https://www.ifanr.com/1695371",
-          "date": "2026-11-26T04:28:11+00:00",
+          "title": "从「中国特供」变全球旗舰，搭载 Momenta 智驾的本田冠道来了｜广州车展",
+          "link": "https://www.ifanr.com/1695948",
+          "date": "2026-11-27T12:20:17+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -522,9 +544,9 @@
           "observed_days": 2
         },
         {
-          "title": "首款鸿蒙小折叠电脑正式发布，生态创新重新定义折叠电脑体验",
-          "link": "https://www.ifanr.com/1695349",
-          "date": "2026-11-26T04:04:24+00:00",
+          "title": "启源 Q06 迎来大升级！长安发布天枢领航 Ultra 2.0，明年 1 月推车位到车位｜广州车展",
+          "link": "https://www.ifanr.com/1695936",
+          "date": "2026-11-27T12:16:32+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -536,9 +558,9 @@
           "observed_days": 2
         },
         {
-          "title": "OPPO Reno17 Pro 体验：在手机里装进一只猫，分几步？",
-          "link": "https://www.ifanr.com/1691222",
-          "date": "2026-11-26T04:02:09+00:00",
+          "title": "捷途纵横 R700 发布：华为乾崑智驾配大梁，家用硬派两手抓｜广州车展",
+          "link": "https://www.ifanr.com/1695926",
+          "date": "2026-11-27T12:13:40+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
@@ -550,43 +572,29 @@
           "observed_days": 2
         },
         {
-          "title": "专访《影之刃零》梁其伟：我想让年轻人觉得，中国功夫很酷丨多样性公司",
-          "link": "https://www.ifanr.com/1695256",
-          "date": "2026-11-26T03:48:29+00:00",
+          "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+          "link": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+          "date": "2026-11-27T12:05:01+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "爱范儿"
+            "Ars Technica"
           ],
           "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "我用AI做了一张两千年的中国历史地图",
-          "link": "https://sspai.com/post/117510",
-          "date": "2026-11-26T03:13:53+00:00",
+          "title": "The absolute best Black Friday deals we’ve found (so far)",
+          "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+          "date": "2026-11-27T11:52:34+00:00",
           "date_is_observed": false,
           "categories": [
             "科技"
           ],
           "sources": [
-            "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
-          "link": "https://sspai.com/post/119560",
-          "date": "2026-11-26T00:08:07+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "少数派"
+            "The Verge"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -622,6 +630,90 @@
           "observed_days": 3
         },
         {
+          "title": "The narwhal’s legendary “unicorn horn” holds a remarkable engineering secret",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm",
+          "date": "2026-11-27T10:01:39+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Scientists turn one of the world’s hardest-to-recycle plastics into high-performance lubricating oil",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261126033501.htm",
+          "date": "2026-11-27T09:52:24+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "A fat-burning molecule has an unexpected benefit for your muscles",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261126063315.htm",
+          "date": "2026-11-27T04:42:17+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Scientists identify two ages when children may be most vulnerable to screen time",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261126033220.htm",
+          "date": "2026-11-27T03:56:06+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Harvard’s tiny UV light chip could help shrink quantum computers",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261126063333.htm",
+          "date": "2026-11-27T03:22:20+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "ScienceDaily"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
+          "title": "Brain area’s mysterious role in speech decoded at last",
+          "link": "https://www.nature.com/articles/d41586-026-03800-x",
+          "date": "2026-11-27T00:00:00+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "科研"
+          ],
+          "sources": [
+            "Nature"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
           "title": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
           "link": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm",
           "date": "2026-11-26T02:42:37+00:00",
@@ -645,90 +737,6 @@
           ],
           "sources": [
             "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "A space telescope hunting for dark matter just discovered something unexpected",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm",
-          "date": "2026-11-25T10:35:04+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
-          "date": "2026-11-25T10:06:22+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
-          "date": "2026-11-25T09:30:54+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "Stanford scientists discover 3 hidden brain types behind ADHD and anxiety",
-          "link": "https://www.sciencedaily.com/releases/2026/11/261124055713.htm",
-          "date": "2026-11-25T04:11:59+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "ScienceDaily"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "How Singapore has turned a nation into a smart-city testing ground",
-          "link": "https://www.nature.com/articles/d41586-026-03472-7",
-          "date": "2026-11-25T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
-          ],
-          "source_count": 1,
-          "observed_days": 2
-        },
-        {
-          "title": "The science on AI consciousness must acknowledge uncertainty",
-          "link": "https://www.nature.com/articles/d41586-026-03822-5",
-          "date": "2026-11-24T00:00:00+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科研"
-          ],
-          "sources": [
-            "Nature"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -862,9 +870,9 @@
           "observed_days": 4
         },
         {
-          "title": "英國性調查：年輕人中五成女性、九成男性觀看色情片 三分之一未有性經驗",
-          "link": "https://www.bbc.com/zhongwen/articles/cmewv0vkgwplo/trad",
-          "date": "2026-11-26T09:11:54+00:00",
+          "title": "白紙運動四年之後，上海青年公共空間去哪兒了？",
+          "link": "https://www.bbc.com/zhongwen/articles/cwe851kg1kj1o/trad",
+          "date": "2026-11-26T00:29:38+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
@@ -873,18 +881,18 @@
             "BBC 中文"
           ],
           "source_count": 1,
-          "observed_days": 2
+          "observed_days": 3
         },
         {
-          "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
-          "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go",
-          "date": "2026-11-26T05:00:27+00:00",
+          "title": "押注英偉達發展AI，亞洲在黃仁勳復職後前景如何？",
+          "link": "https://www.bbc.com/zhongwen/articles/cq62p0n4er0wo/trad",
+          "date": "2026-11-27T07:40:38+00:00",
           "date_is_observed": false,
           "categories": [
             "综合"
           ],
           "sources": [
-            "BBC World"
+            "BBC 中文"
           ],
           "source_count": 1,
           "observed_days": 2
@@ -1004,9 +1012,9 @@
           "observed_days": 1
         },
         {
-          "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
-          "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
-          "date": "2026-11-26T08:09:39+00:00",
+          "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+          "link": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+          "date": "2026-11-27T10:20:39+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1018,23 +1026,23 @@
           "observed_days": 2
         },
         {
-          "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
-          "link": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
-          "date": "2026-11-25T13:37:35+00:00",
+          "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+          "link": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o",
+          "date": "2026-11-27T00:58:49+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
           ],
           "sources": [
-            "CNBC"
+            "BBC Business"
           ],
           "source_count": 1,
           "observed_days": 2
         },
         {
-          "title": "Energy bills will soar - here's how you can ease the pain",
-          "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o",
-          "date": "2026-11-23T01:05:07+00:00",
+          "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
+          "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo",
+          "date": "2026-11-27T00:54:45+00:00",
           "date_is_observed": false,
           "categories": [
             "财经"
@@ -1050,8 +1058,8 @@
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-27T12:30:35+00:00",
-    "total": 3206,
+    "end": "2026-11-27T21:59:46+00:00",
+    "total": 3241,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
@@ -1148,6 +1156,21 @@
         "observed_days": 3
       },
       {
+        "title": "Hard Drive pricing has gotten bad",
+        "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+        "date": "2026-11-27T01:13:49+00:00",
+        "date_is_observed": false,
+        "categories": [
+          "开发"
+        ],
+        "sources": [
+          "Hacker News",
+          "Lobsters"
+        ],
+        "source_count": 2,
+        "observed_days": 2
+      },
+      {
         "title": "US stocks fall further as fears over AI intensify",
         "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
         "date": "2026-11-25T15:24:34+00:00",
@@ -1182,22 +1205,6 @@
         "title": "US announces new tariffs on host of countries including China",
         "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
         "date": "2026-11-25T00:38:01+00:00",
-        "date_is_observed": false,
-        "categories": [
-          "综合",
-          "财经"
-        ],
-        "sources": [
-          "BBC Business",
-          "BBC World"
-        ],
-        "source_count": 2,
-        "observed_days": 2
-      },
-      {
-        "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-        "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
-        "date": "2026-11-23T23:10:27+00:00",
         "date_is_observed": false,
         "categories": [
           "综合",
@@ -1402,6 +1409,21 @@
           "observed_days": 3
         },
         {
+          "title": "Hard Drive pricing has gotten bad",
+          "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+          "date": "2026-11-27T01:13:49+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发"
+          ],
+          "sources": [
+            "Hacker News",
+            "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
           "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
           "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
           "date": "2026-11-25T03:47:42+00:00",
@@ -1412,6 +1434,22 @@
           "sources": [
             "Hacker News",
             "Lobsters"
+          ],
+          "source_count": 2,
+          "observed_days": 2
+        },
+        {
+          "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+          "date": "2026-11-23T21:30:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
           ],
           "source_count": 2,
           "observed_days": 2
@@ -1477,36 +1515,6 @@
           ],
           "source_count": 2,
           "observed_days": 2
-        },
-        {
-          "title": "September in Servo: progress, rounded rectangles, and more",
-          "link": "https://servo.org/blog/2026/11/05/september-in-servo/",
-          "date": "2026-11-05T13:47:56+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 2
-        },
-        {
-          "title": "Introducing Adaptive Dark Mode",
-          "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-          "date": "2026-11-03T21:39:05+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "开发"
-          ],
-          "sources": [
-            "Hacker News",
-            "Lobsters"
-          ],
-          "source_count": 2,
-          "observed_days": 2
         }
       ],
       "科技": [
@@ -1525,6 +1533,22 @@
           ],
           "source_count": 2,
           "observed_days": 3
+        },
+        {
+          "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+          "date": "2026-11-23T21:30:44+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "开发",
+            "科技"
+          ],
+          "sources": [
+            "Ars Technica",
+            "Hacker News"
+          ],
+          "source_count": 2,
+          "observed_days": 2
         },
         {
           "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
@@ -1636,20 +1660,6 @@
           ],
           "sources": [
             "少数派"
-          ],
-          "source_count": 1,
-          "observed_days": 4
-        },
-        {
-          "title": "503.17km/h！比亚迪仰望 U9X 再次刷新全球最速，量产车首次突破 5 字头",
-          "link": "https://www.ifanr.com/1688195",
-          "date": "2026-11-06T09:25:33+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "科技"
-          ],
-          "sources": [
-            "爱范儿"
           ],
           "source_count": 1,
           "observed_days": 4
