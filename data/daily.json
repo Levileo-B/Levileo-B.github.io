@@ -1,125 +1,126 @@
 {
-  "updated": "2026-11-27T21:59:46+00:00",
+  "updated": "2026-11-28T03:56:01+00:00",
   "leetcode": {
-    "date": "2026-11-27",
-    "id": "3946",
-    "title": "Maximum Number of Items From Sale I",
-    "titleEn": "Maximum Number of Items From Sale I",
-    "slug": "maximum-number-of-items-from-sale-i",
+    "date": "2026-11-28",
+    "id": "3947",
+    "title": "Maximum Number of Items From Sale II",
+    "titleEn": "Maximum Number of Items From Sale II",
+    "slug": "maximum-number-of-items-from-sale-ii",
     "difficulty": "Medium",
     "tags": [
       "Array",
-      "Dynamic Programming",
-      "Greedy"
+      "Greedy",
+      "Sorting",
+      "Heap (Priority Queue)"
     ],
-    "link": "https://leetcode.com/problems/maximum-number-of-items-from-sale-i/",
+    "link": "https://leetcode.com/problems/maximum-number-of-items-from-sale-ii/",
     "source": "https://leetcode.com"
   },
   "english": {
-    "title": "1909 Chinese provincial elections",
-    "text": "The Qing dynasty held its first set of provincial assembly elections from February to June 1909. Following a lengthy period of political turmoil which included the failure of the 1898 Hundred Days' Reform and the 1899–1901 Boxer Rebellion, the constitutionalist movement gained approval from the imperial court and Empress Dowager Cixi. Seeing local self-governance as a first step towards constitutionalism, in 1907, the Qing Government approved the creation of provincial assemblies. The following year, an indirect election system was outlined to fill these assemblies. They were held in 21 of the country's 22 provinces; Xinjiang elections were postponed due to low rates of literacy in Chinese. Suffrage and candidacy were limited to a small population of wealthy men, most of whom were members of the scholar-gentry. Public attitudes towards the elections were generally apathetic, and corruption, fraud, and vote buying were common across the country. Turnout greatly varied between provinces and regions, but was generally low.",
-    "words": 156,
-    "url": "https://en.wikipedia.org/wiki/1909_Chinese_provincial_elections",
-    "date": "2026-11-27",
+    "title": "Indiana-class battleship",
+    "text": "The Indiana class was a class of three pre-dreadnought battleships launched in 1893. These were the first battleships built by the United States Navy comparable to contemporary European ships, such as the British HMS Hood. Authorized in 1890 and commissioned between November 1895 and April 1896, these were relatively small battleships with heavy armor and ordnance that pioneered the use of an intermediate battery. Specifically intended for coastal defense, their freeboard was insufficient to deal well with the waves of the open ocean. The turrets lacked counterweights, and the main belt armor was placed too low to be effective under most conditions.",
+    "words": 102,
+    "url": "https://en.wikipedia.org/wiki/Indiana-class_battleship",
+    "date": "2026-11-28",
     "source": "Wikipedia 每日精选条目",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "video": {
-    "title": "Sections From \"History of the Atomic Bomb\" Magtrack",
-    "creator": "",
+    "title": "Home Movie: D.L. Schreyer Collection: 004646",
+    "creator": "Schreyer Family",
     "year": "",
-    "url": "https://archive.org/download/201186_Sections_From_History_of_the_Atomic_Bomb_Magtrack/201186_Sections_From_History_of_the_Atomic_Bomb_Magtrack_master.intros.mp4",
-    "page": "https://archive.org/details/201186_Sections_From_History_of_the_Atomic_Bomb_Magtrack",
-    "date": "2026-11-27",
+    "url": "https://archive.org/download/201564_Schreyer_Collection_004646/201564_Schreyer_Collection_004646_master.intros.mp4",
+    "page": "https://archive.org/details/201564_Schreyer_Collection_004646",
+    "date": "2026-11-28",
     "source": "Internet Archive · Prelinger Archives",
     "license": "公有领域",
     "licenseUrl": "https://archive.org/details/prelinger"
   },
   "music": [
     {
-      "title": "BPMF42_Seclorance_-_Gone_(2008)",
-      "artist": "",
-      "url": "https://archive.org/download/BPMF42_Seclorance_-_Gone_2008/01-depthsOfSelf-deception.mp3",
-      "page": "https://archive.org/details/BPMF42_Seclorance_-_Gone_2008",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "title": "Miner's Saturday Night Part 2a",
+      "artist": "Joe Corrie",
+      "url": "https://archive.org/download/raretunes_562_miners-saturday-night-part-2a/raretunescorrieminers2a.mp3",
+      "page": "https://archive.org/details/raretunes_562_miners-saturday-night-part-2a",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/2.5/scotland/"
     },
     {
-      "title": "[tng3002live] ko-on-ten | live in inowlodz",
-      "artist": "Ko-On-Ten",
-      "url": "https://archive.org/download/tng3002live/tng3002live.mp3",
-      "page": "https://archive.org/details/tng3002live",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/"
-    },
-    {
-      "title": "DIENSTbar @ dfm.nu Transmission No. 231 Special Theme: Concerts #57",
-      "artist": "DIENSTbar",
-      "url": "https://archive.org/download/dbdfmnu231/dbdfmnu231.mp3",
-      "page": "https://archive.org/details/dbdfmnu231",
-      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
-    },
-    {
-      "title": "Various Artists - Nishi Sampler 1: Beats [nicomp001]",
-      "artist": "Various Artists",
-      "url": "https://archive.org/download/nicomp01/nc01-01-Fasp-Cyl_Fies.mp3",
-      "page": "https://archive.org/details/nicomp01",
+      "title": "Vizion - Ai [od063]",
+      "artist": "Vizion",
+      "url": "https://archive.org/download/od063/od063_-_vizion_-_hadaka_kenbu.mp3",
+      "page": "https://archive.org/details/od063",
       "license": "http://creativecommons.org/licenses/by-nd-nc/1.0/"
     },
     {
-      "title": "Various Artists - Staccato Episode 5",
-      "artist": "Matt May",
-      "url": "https://archive.org/download/staccato005/staccato005.mp3",
-      "page": "https://archive.org/details/staccato005",
-      "license": "http://creativecommons.org/licenses/by-nc-sa/2.0/"
+      "title": "Eira - A Glimpse Of Light In The Eastern Sky",
+      "artist": "",
+      "url": "https://archive.org/download/eira-a-glimpse-of-light-in-the-eastern-sky/Eira%20-%20A%20Glimpse%20of%20Light%20in%20The%20Eastern%20Sky.mp3",
+      "page": "https://archive.org/details/eira-a-glimpse-of-light-in-the-eastern-sky",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
     },
     {
-      "title": "frei²'s OMMA at TV Channel 17",
-      "artist": "Robert Bienert, MC Ina",
-      "url": "https://archive.org/download/omma-freihoch2-2009-12/freihoch2-omma-2009-12-22-mcina-tvchannel17.mp3",
-      "page": "https://archive.org/details/omma-freihoch2-2009-12",
-      "license": "http://creativecommons.org/licenses/by-sa/3.0/de/"
-    },
-    {
-      "title": "serocell - through a wire [2026]",
-      "artist": "serocell",
-      "url": "https://archive.org/download/UN0322/01_serocell%3Dspring-wN_Hcc.mp3",
-      "page": "https://archive.org/details/UN0322",
-      "license": "Creative Commons"
-    },
-    {
-      "title": "Bombus - Inspired by the nature",
-      "artist": "Bombus",
-      "url": "https://archive.org/download/aventuel007/01_Bombus_-_Hi_I_m_happy_chromosome.mp3",
-      "page": "https://archive.org/details/aventuel007",
+      "title": "nxICC030",
+      "artist": "Miquel Parera Jaques",
+      "url": "https://archive.org/download/nxICC030/Snowfade%20-%20Solitude.mp3",
+      "page": "https://archive.org/details/nxICC030",
       "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "title": "200.909",
-      "artist": "nanako",
-      "url": "https://archive.org/download/tn020/nanako_200_909.mp3",
-      "page": "https://archive.org/details/tn020",
+      "title": "In[Perfektion] - In[Perfektion] [enrmp207]",
+      "artist": "In[Perfektion]",
+      "url": "https://archive.org/download/enrmp207_in_perfektion__-_in_perfektion_/01_in_perfektion__-_closure.mp3",
+      "page": "https://archive.org/details/enrmp207_in_perfektion__-_in_perfektion_",
       "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
     },
     {
-      "title": "data008-dj_velazco-atardecer_ep-2008",
-      "artist": "Dj Velazco",
-      "url": "https://archive.org/download/data008-dj_velazco-atardecer_ep-2008/01-data008-dj_velazco-atardecer.mp3",
-      "page": "https://archive.org/details/data008-dj_velazco-atardecer_ep-2008",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "That Black - TimeLessNess [top-54]",
-      "artist": "",
-      "url": "https://archive.org/download/top-54/1-andTheSpringComes.mp3",
-      "page": "https://archive.org/details/top-54",
-      "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
-    },
-    {
-      "title": "Muezinn & Aleph - Single 51",
-      "artist": "Muezinn & Aleph",
-      "url": "https://archive.org/download/tibmp3s51/muezinn_aleph.mp3",
-      "page": "https://archive.org/details/tibmp3s51",
+      "title": "donna vs sug(r)cane / sug(r)cane vs donna + guest - s/t (sfn016)",
+      "artist": "donna vs sug(r)cane",
+      "url": "https://archive.org/download/sfn016/01.mp3",
+      "page": "https://archive.org/details/sfn016",
       "license": "Creative Commons"
+    },
+    {
+      "title": "[Eg0_059] Kirill Platonkin : Witnesses Of Morning",
+      "artist": "Kirill Platonkin",
+      "url": "https://archive.org/download/eg0_059/01.WitnessesOfMorning.mp3",
+      "page": "https://archive.org/details/eg0_059",
+      "license": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+    },
+    {
+      "title": "Polyklinik & Audio Compress - Balance [enrmp497]",
+      "artist": "Polyklinik & Audio Compress",
+      "url": "https://archive.org/download/enrmp497_polyklinik___audio_compress_-_balance/01_polyklinik___audio_compress_-_balance.mp3",
+      "page": "https://archive.org/details/enrmp497_polyklinik___audio_compress_-_balance",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "title": "Line Noise - Portal Telepathysis LP [lcd001]",
+      "artist": "Line Noise",
+      "url": "https://archive.org/download/lcd001/1.mp3",
+      "page": "https://archive.org/details/lcd001",
+      "license": "Creative Commons"
+    },
+    {
+      "title": "Barbara Allan",
+      "artist": "Roger McGuinn",
+      "url": "https://archive.org/download/raretunes_499_barbara-allan/raretunesmcuinnbarbara.mp3",
+      "page": "https://archive.org/details/raretunes_499_barbara-allan",
+      "license": "http://creativecommons.org/licenses/by-nc-nd/2.5/scotland/"
+    },
+    {
+      "title": "strond - latent content [enrmp512]",
+      "artist": "strond",
+      "url": "https://archive.org/download/enrmp512_strond_-_latent_content/01_strond_-_dimension_dark.mp3",
+      "page": "https://archive.org/details/enrmp512_strond_-_latent_content",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    {
+      "title": "Starcrusher - Fog [pmc064]",
+      "artist": "Starcrusher",
+      "url": "https://archive.org/download/pmc064/starcrusher-fog-01-convoy.mp3",
+      "page": "https://archive.org/details/pmc064",
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/nz/"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T21:59:46+00:00",
-  "updated": "2026-11-27T21:59:46+00:00",
+  "generated_at": "2026-11-28T03:56:01+00:00",
+  "updated": "2026-11-28T03:56:01+00:00",
   "timezone": "Asia/Singapore",
   "limit": 10,
   "week": {
     "start": "2026-11-23T00:00:00+08:00",
-    "end": "2026-11-27T21:59:46+00:00",
-    "total": 609,
+    "end": "2026-11-28T03:56:01+00:00",
+    "total": 627,
     "items": [
       {
         "title": "Hard Drive pricing has gotten bad",
@@ -586,7 +586,7 @@
           "observed_days": 2
         },
         {
-          "title": "The absolute best Black Friday deals we’ve found (so far)",
+          "title": "The absolute best Black Friday deals you can still get",
           "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
           "date": "2026-11-27T11:52:34+00:00",
           "date_is_observed": false,
@@ -1012,6 +1012,20 @@
           "observed_days": 1
         },
         {
+          "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+          "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+          "date": "2026-11-27T11:00:01+00:00",
+          "date_is_observed": false,
+          "categories": [
+            "财经"
+          ],
+          "sources": [
+            "CNBC"
+          ],
+          "source_count": 1,
+          "observed_days": 2
+        },
+        {
           "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
           "link": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
           "date": "2026-11-27T10:20:39+00:00",
@@ -1038,28 +1052,14 @@
           ],
           "source_count": 1,
           "observed_days": 2
-        },
-        {
-          "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
-          "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo",
-          "date": "2026-11-27T00:54:45+00:00",
-          "date_is_observed": false,
-          "categories": [
-            "财经"
-          ],
-          "sources": [
-            "BBC Business"
-          ],
-          "source_count": 1,
-          "observed_days": 2
         }
       ]
     }
   },
   "month": {
     "start": "2026-11-01T00:00:00+08:00",
-    "end": "2026-11-27T21:59:46+00:00",
-    "total": 3241,
+    "end": "2026-11-28T03:56:01+00:00",
+    "total": 3259,
     "items": [
       {
         "title": "Inside GitHub’s new Git storage architecture",
