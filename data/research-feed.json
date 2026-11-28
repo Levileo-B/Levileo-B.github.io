@@ -1,58 +1,82 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-27T10:07:54.473303+00:00",
-  "attempted_at": "2026-11-27T10:07:54.473303+00:00",
+  "updated": "2026-11-28T09:27:20.959436+00:00",
+  "attempted_at": "2026-11-28T09:27:20.959436+00:00",
   "sources": [
     {
       "journal_id": "frontiers",
       "status": "ok",
-      "last_success": "2026-11-27T10:07:54.473303+00:00",
+      "last_success": "2026-11-28T09:27:20.959436+00:00",
       "errors": []
     },
     {
       "journal_id": "isprs",
       "status": "ok",
-      "last_success": "2026-11-27T10:07:54.473303+00:00",
+      "last_success": "2026-11-28T09:27:20.959436+00:00",
       "errors": []
     },
     {
       "journal_id": "jfr",
       "status": "ok",
-      "last_success": "2026-11-27T10:07:54.473303+00:00",
+      "last_success": "2026-11-28T09:27:20.959436+00:00",
       "errors": []
     },
     {
       "journal_id": "ral",
       "status": "ok",
-      "last_success": "2026-11-27T10:07:54.473303+00:00",
+      "last_success": "2026-11-28T09:27:20.959436+00:00",
       "errors": []
     },
     {
       "journal_id": "ras",
       "status": "ok",
-      "last_success": "2026-11-27T10:07:54.473303+00:00",
+      "last_success": "2026-11-28T09:27:20.959436+00:00",
       "errors": []
     },
     {
       "journal_id": "remote-sensing",
       "status": "ok",
-      "last_success": "2026-11-27T10:07:54.473303+00:00",
+      "last_success": "2026-11-28T09:27:20.959436+00:00",
       "errors": []
     },
     {
       "journal_id": "scientific-reports",
       "status": "ok",
-      "last_success": "2026-11-27T10:07:54.473303+00:00",
+      "last_success": "2026-11-28T09:27:20.959436+00:00",
       "errors": []
     },
     {
       "journal_id": "tro",
       "status": "ok",
-      "last_success": "2026-11-27T10:07:54.473303+00:00",
+      "last_success": "2026-11-28T09:27:20.959436+00:00",
       "errors": []
     }
   ],
   "papers": [
+    {
+      "id": "10.3390/rs18234105",
+      "title": "Collocated W-Band Radar and Lidar Observations of Taklimakan Dust: Sensitivity to Giant Particles and Contamination by Biological Scatterers",
+      "journal_id": "remote-sensing",
+      "published": "2026-11-27",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18234105",
+      "source": "crossref"
+    },
+    {
+      "id": "10.3390/rs18234104",
+      "title": "A Spatial–Spectral Hierarchical Fusion Mamba Network for Hyperspectral and LiDAR Data Classification",
+      "journal_id": "remote-sensing",
+      "published": "2026-11-27",
+      "topics": [
+        "point-cloud"
+      ],
+      "kind": "期刊论文",
+      "url": "https://doi.org/10.3390/rs18234104",
+      "source": "crossref"
+    },
     {
       "id": "10.1038/s41598-026-81290-7",
       "title": "Distributed optimal resilient formation control of mobile agents driven by humanoid robots with obstacle avoidance under sensor and actuator attacks",
@@ -1308,18 +1332,6 @@
       "source": "crossref"
     },
     {
-      "id": "10.3390/rs18203514",
-      "title": "UAV-LiDAR and Machine Learning for Estimating Individual Tree Diameter at Breast Height in Chinese Fir Plantations Approaching Maturity",
-      "journal_id": "remote-sensing",
-      "published": "2026-10-13",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18203514",
-      "source": "crossref"
-    },
-    {
       "id": "10.1038/s41598-026-74609-x",
       "title": "WebXR-based mobile point cloud rendering and semantic segmentation using depth data and voxel fusion",
       "journal_id": "scientific-reports",
@@ -1341,18 +1353,6 @@
       ],
       "kind": "期刊论文",
       "url": "https://doi.org/10.1002/rob.70369",
-      "source": "crossref"
-    },
-    {
-      "id": "10.3390/rs18203495",
-      "title": "LiDAR-Assisted Survey Locates Unregistered Rock Shelters in the Blue Mountains, Australia",
-      "journal_id": "remote-sensing",
-      "published": "2026-10-12",
-      "topics": [
-        "point-cloud"
-      ],
-      "kind": "期刊论文",
-      "url": "https://doi.org/10.3390/rs18203495",
       "source": "crossref"
     },
     {
